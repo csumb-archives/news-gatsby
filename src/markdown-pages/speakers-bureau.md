@@ -1,5 +1,5 @@
 ---
-layout: archive
+slug: speakers-bureau
 title: Speakers Bureau
 date:
 ---

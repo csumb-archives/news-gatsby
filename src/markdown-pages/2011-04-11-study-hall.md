@@ -1,10 +1,11 @@
 ---
-layout: archive
+slug: study-hall
 title: STUDY HALL
 date: April 11 2011
 ---
 
 <span class="date">Posted on Apr 11, 2011 </span>
+
 <h2>New library is all things to all people</h2>
 <p>
   From the moment it opened at 8 a.m. on Dec. 1, 2008, the Tanimura &amp; Antle

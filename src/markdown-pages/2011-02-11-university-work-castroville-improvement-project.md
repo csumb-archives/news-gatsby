@@ -1,10 +1,11 @@
 ---
-layout: archive
+slug: university-to-work-on
 title: University to work on Castroville improvement project
 date: February 11 2011
 ---
 
 <span class="date">Posted on Feb 11, 2011 </span>
+
 <p>
   CSU Monterey Bay&#x2019;s School of Business and the local Small Business
   Development Centers are about to begin work on a project to improve the
