@@ -1,0 +1,68 @@
+---
+title: The long and short of it . . .
+date: October 30 2011
+slug: the-long-and-short-of-it------
+---
+
+
+
+
+<span class="date">Posted on Oct 30, 2011    </span>
+<h2>Author Tobias Wolff lectures at CSUMB Nov.&#xA0;1</h2>
+<p>Master storyteller, award-winning author and Stanford University
+professor Tobias Wolff will lecture at California State University,
+Monterey Bay&#x2019;s World Theater on Nov. 1 as part of the President&#x2019;s
+Speaker Series.</p>
+<p><img alt="Tobias Wolff" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/240px-tobiaswolff.jpg" style="float:right; width:240px; height:173px">The talk will
+start at 7 p.m., followed by a question-and-answer session. No
+tickets are required for this free event, but reservations are
+strongly recommended and can be made online at csumb.edu/speakers
+or by calling the World Theater box office at 582-4580.</img></p>
+<p>Wolff chronicled his early life in two memoirs. &#x201C;This Boy&#x2019;s
+Life&#x201D; (1989) deals with his adolescence in Seattle and Newhalem, a
+remote company town in the North Cascade Mountains of Washington
+State. The memoir describes the nomadic and uncertain life he and
+his mother experienced after the divorce of his parents and then
+his mother&apos;s subsequent marriage to an abusive husband and
+stepfather. &#x201C;In Pharaoh&#x2019;s Army&#x201D; (1994) he wrote about his year in
+Vietnam as a member of the Special Forces.</p>
+<p>After his Army service, he attended Oxford University. A Wallace
+Stegner Fellowship in Creative Writing at Stanford followed, then
+years of teaching at Syracuse University. In 1997, he returned to
+Stanford, where he teaches English and creative writing.</p>
+<p>He has also written the novels &#x201C;The Barracks Thief&#x201D; and &#x201C;Old
+School,&#x201D; and the short story collections &#x201C;In the Garden of the
+North American Martyrs,&#x201D; &#x201C;Back in the World&#x201D; and &#x201C;The Night in
+Question.&#x201D;</p>
+<p>His most recent collection of short stories, &#x201C;Our Story Begins,&#x201D;
+won The Story Prize for 2008. Other honors include the PEN/Malamud
+Award and the Rea Award &#x2013; both for excellence in short story
+writing &#x2013; the Los Angeles Times Book Prize, and the PEN/Faulkner
+Award.</p>
+<p>His work appears regularly in The New Yorker, The Atlantic,
+Harper&apos;s, and other magazines and literary journals.</p>
+<p>Whether he is writing fiction or non-fiction, Wolff&apos;s prose is
+characterized by an exploration of personal/biographical and
+existential terrain. As Wyatt Mason wrote in the London Review of
+Books, &quot;Typically, his protagonists face an acute moral dilemma,
+unable to reconcile what they know to be true with what they feel
+to be true. Duplicity is their great failing, and Wolff&apos;s main
+theme.&quot;</p>
+<p>To reserve a seat, click <a href="http://rsvp.csumb.edu/index.php?eid=69" rel="nofollow">here</a>.</p>
+<p>The World Theater is located on Sixth Avenue on the CSU Monterey
+Bay campus. Driving directions and a campus map are available
+<a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+<p><em>There is a need in us for exactly what literature can give,
+which is a sense of who we are, beyond what data can tell us,
+beyond what simple information can tell us; a sense of the workings
+of what we used to call the soul.</em></p>
+<p>&#x2014;Tobias Wolff in an interview with <em>Stanford Today</em></p>
+<p>&#xA0;</p>
+<p>&#xA0;</p>
+<p><br>
+&#xA0;</br></p>
+
+
+
+
+
