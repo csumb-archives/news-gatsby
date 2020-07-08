@@ -3,12 +3,14 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const blogPostTemplate = require.resolve(`./src/templates/article.js`);
   const result = await graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      allMarkdownRemark  {
         edges {
           node {
             frontmatter {
               slug
+              title
             }
+            html
           }
         }
       }
@@ -24,8 +26,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       path: node.frontmatter.slug,
       component: blogPostTemplate,
       context: {
-        // additional data can be passed via context
-        slug: node.frontmatter.slug,
+        // additional data passed via context
+        node
       },
     });
   });
