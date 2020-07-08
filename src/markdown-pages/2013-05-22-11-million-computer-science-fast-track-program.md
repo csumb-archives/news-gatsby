@@ -1,7 +1,7 @@
 ---
 title: "$1.1 million for computer science fasttrack program"
 date: May 22 2013
-slug:1-1-million-for-computer-science-fasttrack-program
+slug: 1-1-million-for-computer-science-fasttrack-program
 ---
 
 
