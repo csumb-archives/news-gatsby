@@ -1,15 +1,30 @@
 import React from 'react';
-
-export default function Template({ pageContext}) {
+import { graphql } from 'gatsby';
+export default function Template({
+  data, // this prop will be injected by the GraphQL query below.
+}) {
+  const { markdownRemark } = data; // data.markdownRemark holds your post data
+  const { frontmatter, html } = markdownRemark;
   return (
     <div className="blog-post-container">
       <div className="blog-post">
-        <h1>{pageContext.title}</h1>
+        <h1>{frontmatter.title}</h1>
         <div
           className="blog-post-content"
-          dangerouslySetInnerHTML={{ __html: pageContext.html }}
+          dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>
     </div>
   );
 }
+export const pageQuery = graphql`
+  query($slug: String!) {
+    markdownRemark(frontmatter: { slug: { eq: $slug } }) {
+      html
+      frontmatter {
+        slug
+        title
+      }
+    }
+  }
+`;
