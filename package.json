@@ -27,8 +27,8 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "node --max-old-space-size=8192 node_modules/.bin/gatsby build",
-    "develop": "gatsby develop",
+    "build": "node --max-old-space-size=28192 node_modules/.bin/gatsby build",
+    "develop": "node --max-old-space-size=28192 node_modules/.bin/gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",

@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `CSUMB News Archive`,
+    description: `A place for CSUMB's news articles to stay when their time on our website has passed.`,
+    author: `Cody Wall | CSUMB Web Services`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,9 +20,9 @@ module.exports = {
         name: `markdown-pages`,
       },
     },
+    `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-transformer-remark`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

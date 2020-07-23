@@ -1,16 +1,18 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 import PostLink from '../components/post-link';
-const IndexPage = ({
-  data: {
-    allMarkdownRemark: { edges },
-  },
-}) => {
-  const Posts = edges.map((edge) => (
-    <PostLink key={edge.node.id} post={edge.node} />
-  ));
-  return <div>{Posts}</div>;
+
+const IndexPage = (data) => {
+  return (
+    <div>
+      <h4>{data.allMarkdownRemark.totalCount} Articles</h4>
+      {data.allMarkdownRemark.edges.map(({ node }) => (
+        <PostLink key={node.id} post={node} />
+      ))}
+    </div>
+  );
 };
+
 export default IndexPage;
 export const pageQuery = graphql`
   query {
@@ -26,5 +28,6 @@ export const pageQuery = graphql`
         }
       }
     }
+    Try
   }
 `;
