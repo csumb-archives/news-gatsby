@@ -1,6 +1,6 @@
 ---
 slug: csu-joins-we-are-still-in-climate-declaration
-title: "CSU Joins "We Are Still In" Climate Declaration"
+title: "CSU Joins 'We Are Still In' Climate Declaration"
 date: January 01 2020
 ---
 

@@ -1,6 +1,6 @@
 ---
 slug: csumb-sjsu-to-co-host-csu-wide-camp-counterparts-conference-
-title: "CSUMB, SJSU to co-host CSU-wide "Camp Counterparts" conference "
+title: "CSUMB, SJSU to co-host CSU-wide 'Camp Counterparts' conference"
 date: January 01 2020
 ---
 
