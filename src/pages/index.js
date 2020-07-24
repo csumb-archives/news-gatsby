@@ -28,6 +28,5 @@ export const pageQuery = graphql`
         }
       }
     }
-    Try
   }
 `;
