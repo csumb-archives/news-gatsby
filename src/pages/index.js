@@ -2,7 +2,7 @@ import React from 'react';
 import { graphql } from 'gatsby';
 import PostLink from '../components/post-link';
 
-const IndexPage = (data) => {
+export default function IndexPage({ data }) {
   return (
     <div>
       <h4>{data.allMarkdownRemark.totalCount} Articles</h4>
@@ -11,12 +11,12 @@ const IndexPage = (data) => {
       ))}
     </div>
   );
-};
+}
 
-export default IndexPage;
-export const pageQuery = graphql`
+export const query = graphql`
   query {
     allMarkdownRemark {
+      totalCount
       edges {
         node {
           id
