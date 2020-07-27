@@ -1,9 +1,9 @@
 ---
 title:
-  &gt;- A. Lee &#x2013; Music writer talks to a CSUMB hiphop artist about her debut CD
+  &gt;- A. Lee - Music writer talks to a CSUMB hiphop artist about her debut CD
   and how she hooked up with virgin label Fog Box
 date: December 14 2006
-slug: &gt;- a.-lee-&#x2013;-music-writer-talks-to-a-csumb-hiphop-artist-about-her-debut-cd-and-how-she-hooked-up-with-virgin-label-fog-box
+slug: &gt;- alee-music-writer-talks-to-a-csumb-hiphop-artist-about-her-debut-cd-and-how-she-hooked-up-with-virgin-label-fog-box
 ---
 
 ```html

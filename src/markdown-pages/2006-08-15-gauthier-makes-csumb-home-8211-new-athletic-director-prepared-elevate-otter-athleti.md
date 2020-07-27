@@ -1,6 +1,5 @@
 ---
-title:
-  &gt;- Gauthier makes CSUMB home &#x2013; New athletic director prepared to elevate
+title: &gt;- Gauthier makes CSUMB home New athletic director prepared to elevate
   Otter athletics
 date: August 15 2006
 slug: &gt;- gauthier-makes-csumb-home-new-athletic-director-prepared-to-elevate-otter-athletics
