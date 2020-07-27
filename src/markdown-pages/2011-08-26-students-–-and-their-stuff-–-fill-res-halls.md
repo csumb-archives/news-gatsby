@@ -1,7 +1,7 @@
 ---
-title: Students &#x2013; and their stuff &#x2013; fill the res halls
+title: Students and their stuff fill the res halls
 date: August 26 2011
-slug: students-&#x2013;-and-their-stuff-&#x2013;-fill-the-res-halls
+slug: students-and-their-stuff-fill-the-res-halls
 ---
 
 ```html

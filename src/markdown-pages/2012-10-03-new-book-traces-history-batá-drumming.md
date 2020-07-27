@@ -1,7 +1,7 @@
 ---
-title: New book traces history of bat&#xE1; drumming
+title: New book traces history of bata drumming
 date: October 3 2012
-slug: new-book-traces-history-of-bat&#xE1;-drumming
+slug: new-book-traces-history-of-drumming
 ---
 
 ```html
