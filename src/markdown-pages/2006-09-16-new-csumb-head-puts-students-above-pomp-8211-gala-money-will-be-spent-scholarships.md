@@ -1,9 +1,8 @@
 ---
-title:
-  &gt;- New CSUMB head puts students above pomp &#x2013; Gala money will be spent on
+title: &gt;- New CSUMB head puts students above pomp Gala money will be spent on
   scholarships
 date: September 16 2006
-slug: &gt;- new-csumb-head-puts-students-above-pomp-&#x2013;-gala-money-will-be-spent-on-scholarships
+slug: &gt;- new-csumb-head-puts-students-above-pomp-gala-money-will-be-spent-on-scholarships
 ---
 
 ```html
