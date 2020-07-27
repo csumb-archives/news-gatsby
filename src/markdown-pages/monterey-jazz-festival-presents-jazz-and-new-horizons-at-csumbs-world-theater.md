@@ -1,6 +1,6 @@
 ---
 slug: monterey-jazz-festival-presents-jazz-and-new-horizons-at-csumbs-world-theater
-title: "Monterey Jazz Festival Presents "Jazz and New Horizons" at CSUMB’s World Theater"
+title: 'Monterey Jazz Festival Presents "Jazz and New Horizons" at CSUMB’s World Theater'
 date: January 01 2020
 ---
 
