@@ -1,7 +1,7 @@
 ---
-title: Music lecturer&#x2019;s work premieres at Kennedy Center
+title: Music lecturers work premieres at Kennedy Center
 date: September 22 2010
-slug: music-lecturer&#x2019;s-work-premieres-at-kennedy-center
+slug: music-lecturers-work-premieres-at-kennedy-center
 ---
 
 ```html
