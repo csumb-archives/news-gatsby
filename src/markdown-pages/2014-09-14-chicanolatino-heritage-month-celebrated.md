@@ -4,10 +4,10 @@ date: September 14 2014
 slug: campus-celebrates-chicano-latino-heritage-month
 ---
 
+`html`html
 
+<span class="date">Posted on Sep 14, 2014 </span>
 
-
-<span class="date">Posted on Sep 14, 2014    </span>
 <p><img alt="Chicano/Latino Heritage Month celebrated Sept.15-Oct. 15" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/latino_heritage_month.png" style="float:left; width:550px; height:208px">Sept. 15 through
 Oct. 15 is Chicano/Latino Heritage Month. During the month, the
 cultures and tradition of those who trace their roots to Spain,
@@ -107,7 +107,6 @@ Dionicio Mendoza (<a href="mailto:dimendoza@csumb.edu">dimendoza@csumb.edu</a>).
 <p><a href="http://library.csumb.edu/chicanlatin-heritage-month-2014" rel="nofollow">See how CSUMB&#x2019;s library is highlighting the
 month</a></p>
 
+```
 
-
-
-
+```

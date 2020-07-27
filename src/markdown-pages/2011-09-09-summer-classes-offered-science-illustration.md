@@ -4,10 +4,10 @@ date: September 9 2011
 slug: summer-classes-offered-in-science-illustration
 ---
 
+`html`html
 
+<span class="date">Posted on Sep 09, 2011 </span>
 
-
-<span class="date">Posted on Sep 09, 2011    </span>
 <p>Anyone interested in exploring the confluence of art and science
 is invited to attend the summer session of CSU Monterey Bay&#x2019;s
 Science Illustration program.</p>
@@ -58,7 +58,6 @@ Watercolor on paper by Amadeo Bachar</br></br></p>
 <p><br>
 &#xA0;</br></p>
 
+```
 
-
-
-
+```

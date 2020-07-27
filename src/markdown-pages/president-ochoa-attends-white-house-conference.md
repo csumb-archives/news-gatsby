@@ -4,8 +4,52 @@ title: "President Ochoa attends White House conference"
 date: January 01 2020
 ---
 
-<h3>College access topic of education summit</h3><p>Cal State Monterey Bay President Eduardo Ochoa joined President Obama, the First Lady, Vice President Biden and hundreds of college presidents and other higher education leaders in Washington, D.C., on Dec. 4, to announce new actions to help more students prepare for and graduate from college.
-</p><p>The White House College Opportunity Day of Action was intended to support President Obama’s commitment to partner with colleges and universities, business leaders, and nonprofits to support students across the country to help our nation reach its goal of leading the world in college attainment. Participants were asked to commit to new action in one of four areas: building networks of colleges around promoting completion, creating K-16 partnerships around college readiness, investing in high school counselors as part of the First Lady’s Reach Higher initiative, and increasing the number of college graduates in the fields of science, technology, engineering, and mathematics. CSUMB’s commitment to increasing the number of graduates in STEM fields involves its <a href="https://sites.google.com/site/csitin3/">CSIT-in-3 program</a> with Hartnell College. The program allows students to earn a computer science degree in three years through year-round study.
-</p><p>The program is designed around a cohort model, admitting 30?35 students per cohort. Eighty percent are first?generation college students; 90% are Latino; 43% are women. The first?to?second year retention of the first cohort is 90%. California State University Monterey Bay is currently investigating ways to replicate the program in other STEM fields.
-</p><p>“Increasing access to higher education is at the heart of the mission of Cal State Monterey Bay, and is also central to our nation’s efforts to address issues of income inequality and economic opportunity,” Dr. Ochoa said. “By sharing ideas among higher education and administration leaders at this event, I hope we can continue to find ways to move these initiatives forward.” Dr. Ochoa, who served as assistant secretary for higher education in the Obama Administration before coming to CSUMB as president in 2012, was invited to the event by Cecilia Munoz, President Obama’s domestic policy adviser, and Secretary of Education Arne Duncan. <em>Top photo: (Left to right) CSU Chancellor Timothy White, CSUMB President Eduardo Ochoa, Cal Poly SLO President Jeffrey Armstrong, Fresno State President Joseph Castro. Photo courtesy of Fresno State Bottom photo: President Ochoa</em>
+```html
+<h3>College access topic of education summit</h3>
+<p>
+  Cal State Monterey Bay President Eduardo Ochoa joined President Obama, the
+  First Lady, Vice President Biden and hundreds of college presidents and other
+  higher education leaders in Washington, D.C., on Dec. 4, to announce new
+  actions to help more students prepare for and graduate from college.
 </p>
+<p>
+  The White House College Opportunity Day of Action was intended to support
+  President Obama’s commitment to partner with colleges and universities,
+  business leaders, and nonprofits to support students across the country to
+  help our nation reach its goal of leading the world in college attainment.
+  Participants were asked to commit to new action in one of four areas: building
+  networks of colleges around promoting completion, creating K-16 partnerships
+  around college readiness, investing in high school counselors as part of the
+  First Lady’s Reach Higher initiative, and increasing the number of college
+  graduates in the fields of science, technology, engineering, and mathematics.
+  CSUMB’s commitment to increasing the number of graduates in STEM fields
+  involves its
+  <a href="https://sites.google.com/site/csitin3/">CSIT-in-3 program</a> with
+  Hartnell College. The program allows students to earn a computer science
+  degree in three years through year-round study.
+</p>
+<p>
+  The program is designed around a cohort model, admitting 30?35 students per
+  cohort. Eighty percent are first?generation college students; 90% are Latino;
+  43% are women. The first?to?second year retention of the first cohort is 90%.
+  California State University Monterey Bay is currently investigating ways to
+  replicate the program in other STEM fields.
+</p>
+<p>
+  “Increasing access to higher education is at the heart of the mission of Cal
+  State Monterey Bay, and is also central to our nation’s efforts to address
+  issues of income inequality and economic opportunity,” Dr. Ochoa said. “By
+  sharing ideas among higher education and administration leaders at this event,
+  I hope we can continue to find ways to move these initiatives forward.” Dr.
+  Ochoa, who served as assistant secretary for higher education in the Obama
+  Administration before coming to CSUMB as president in 2012, was invited to the
+  event by Cecilia Munoz, President Obama’s domestic policy adviser, and
+  Secretary of Education Arne Duncan.
+  <em
+    >Top photo: (Left to right) CSU Chancellor Timothy White, CSUMB President
+    Eduardo Ochoa, Cal Poly SLO President Jeffrey Armstrong, Fresno State
+    President Joseph Castro. Photo courtesy of Fresno State Bottom photo:
+    President Ochoa</em
+  >
+</p>
+```

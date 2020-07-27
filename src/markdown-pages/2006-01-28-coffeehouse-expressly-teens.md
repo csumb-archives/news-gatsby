@@ -4,6 +4,7 @@ date: January 28 2006
 slug: coffeehouse-expressly-for-teens
 ---
 
+```html
 
 
 
@@ -20,3 +21,4 @@ Salinas.<br>
 
 
 
+```

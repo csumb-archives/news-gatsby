@@ -1,9 +1,10 @@
 ---
 title: Housing staff &#x2013; CSUMB developing more campus housing for faculty
 date: January 27 2006
-slug: housing-staff---x2013--csumb-developing-more-campus-housing-for-faculty
+slug: housing-staff-&#x2013;-csumb-developing-more-campus-housing-for-faculty
 ---
 
+```html
 
 
 
@@ -17,3 +18,4 @@ northern part of campus.<br>
 
 
 
+```

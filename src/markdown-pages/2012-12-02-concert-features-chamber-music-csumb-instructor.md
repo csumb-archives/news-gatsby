@@ -4,6 +4,7 @@ date: December 2 2012
 slug: concert-features-chamber-music-by-csumb-instructor
 ---
 
+```html
 
 
 
@@ -58,3 +59,4 @@ semester at CSUMB. For more information, visit his <a href="http://www.laniersam
 
 
 
+```

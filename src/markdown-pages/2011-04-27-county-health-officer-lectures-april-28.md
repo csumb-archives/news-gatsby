@@ -1,9 +1,10 @@
 ---
 title: Today&amp;colon; County health officer lectures
 date: April 27 2011
-slug: today-amp-colon--county-health-officer-lectures
+slug: today&amp;colon;-county-health-officer-lectures
 ---
 
+```html
 <span class="date">Posted on Apr 27, 2011 </span>
 
 <p>This semester&#x2019;s Health Sciences/Biology Speaker Series concludes
@@ -41,3 +42,4 @@ Pre-Med Club. For more information, contact Dr. Aparna Sreenivasan
 at 582-3210.<br>
 <br>
 &#xA0;&#xA0;</br></br></p>
+```

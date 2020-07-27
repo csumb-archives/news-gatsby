@@ -4,6 +4,7 @@ date: September 19 2012
 slug: garden-of-hope
 ---
 
+```html
 
 
 
@@ -51,3 +52,4 @@ about the Service Learning Institute at CSUMB.</a><br>
 
 
 
+```

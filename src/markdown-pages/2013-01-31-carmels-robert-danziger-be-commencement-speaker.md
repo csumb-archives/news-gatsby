@@ -1,9 +1,10 @@
 ---
 title: Carmel&apos;s Robert Danziger to be commencement speaker
 date: January 31 2013
-slug: carmel-apos-s-robert-danziger-to-be-commencement-speaker
+slug: carmel&apos;s-robert-danziger-to-be-commencement-speaker
 ---
 
+```html
 
 
 
@@ -42,3 +43,4 @@ honorary Doctor of Fine Arts degree from CSUMB in September
 
 
 
+```

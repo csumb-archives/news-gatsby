@@ -4,6 +4,7 @@ date: August 1 2005
 slug: csumb-freshmen-get-boost
 ---
 
+```html
 
 
 
@@ -18,3 +19,4 @@ transition.<br>
 
 
 
+```

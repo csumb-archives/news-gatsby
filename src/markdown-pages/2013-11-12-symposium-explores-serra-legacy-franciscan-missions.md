@@ -4,6 +4,7 @@ date: November 12 2013
 slug: symposium-explores-serra-legacy-of-franciscan-missions
 ---
 
+```html
 
 
 
@@ -90,3 +91,4 @@ Bottom photo: CSUMB archaeology professor Ruben Mendoza</br></em></p>
 
 
 
+```

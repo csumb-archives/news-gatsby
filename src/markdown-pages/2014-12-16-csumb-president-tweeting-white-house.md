@@ -4,6 +4,7 @@ date: December 16 2014
 slug: csumb-president-tweeting-from-the-white-house
 ---
 
+```html
 
 
 
@@ -19,3 +20,4 @@ increase college attainment. And he&apos;s tweeting!<br>
 
 
 
+```

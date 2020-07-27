@@ -1,9 +1,10 @@
 ---
 title: New Marine Science B.S. awaits approval
 date: November 10 2010
-slug: new-marine-science-b-s--awaits-approval
+slug: new-marine-science-b.s.-awaits-approval
 ---
 
+```html
 
 
 
@@ -163,3 +164,4 @@ life.</p>
 
 
 
+```

@@ -1,9 +1,10 @@
 ---
 title: New book traces history of bat&#xE1; drumming
 date: October 3 2012
-slug: new-book-traces-history-of-bat--xe1--drumming
+slug: new-book-traces-history-of-bat&#xE1;-drumming
 ---
 
+```html
 
 
 
@@ -83,3 +84,4 @@ Press</em></p>
 
 
 
+```

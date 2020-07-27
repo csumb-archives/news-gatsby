@@ -4,6 +4,7 @@ date: May 22 2014
 slug: csumb-makes-list-of-green-colleges
 ---
 
+```html
 
 
 
@@ -17,3 +18,4 @@ Guide to 322 Green Colleges.&quot; The university is cited for having a
 
 
 
+```

@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Homelessness week&apos;s focus &#x2013; CSUMB students shed light on severe
+title:
+  &gt;- Homelessness week&apos;s focus &#x2013; CSUMB students shed light on severe
   needs in county
 date: November 16 2006
-slug: &gt;-
-  homelessness-week-apos-s-focus---x2013--csumb-students-shed-light-on-severe-needs-in-county
+slug: &gt;- homelessness-week&apos;s-focus-&#x2013;-csumb-students-shed-light-on-severe-needs-in-county
 ---
 
+```html
 
 
 
@@ -24,3 +24,4 @@ is one paycheck away from losing their homes.<br>
 
 
 
+```

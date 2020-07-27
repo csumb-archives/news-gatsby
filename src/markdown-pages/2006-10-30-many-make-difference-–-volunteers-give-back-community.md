@@ -1,9 +1,10 @@
 ---
 title: Many make a difference &#x2013; Volunteers give back to the community
 date: October 30 2006
-slug: many-make-a-difference---x2013--volunteers-give-back-to-the-community
+slug: many-make-a-difference-&#x2013;-volunteers-give-back-to-the-community
 ---
 
+```html
 
 
 
@@ -21,3 +22,4 @@ common goal.<br>
 
 
 
+```

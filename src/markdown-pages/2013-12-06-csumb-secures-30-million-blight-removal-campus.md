@@ -1,9 +1,10 @@
 ---
 title: CSUMB secures $30 million for blight removal on campus
 date: December 6 2013
-slug: csumb-secures--30-million-for-blight-removal-on-campus
+slug: csumb-secures-$30-million-for-blight-removal-on-campus
 ---
 
+```html
 
 
 
@@ -18,3 +19,4 @@ blight removal process.<br>
 
 
 
+```

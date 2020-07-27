@@ -1,9 +1,10 @@
 ---
 title: CSU Monterey Bay Alumni Association President&apos;s Letter
 date: April 28 2011
-slug: csu-monterey-bay-alumni-association-president-apos-s-letter
+slug: csu-monterey-bay-alumni-association-president&apos;s-letter
 ---
 
+```html
 
 
 
@@ -36,3 +37,4 @@ President, CSUMB Alumni Association 2010-2011</br></br></p>
 
 
 
+```

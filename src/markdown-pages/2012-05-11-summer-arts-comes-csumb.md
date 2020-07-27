@@ -4,6 +4,7 @@ date: May 11 2012
 slug: summer-arts-comes-to-csumb
 ---
 
+```html
 
 
 
@@ -88,3 +89,4 @@ around campus this summer</em></p>
 
 
 
+```

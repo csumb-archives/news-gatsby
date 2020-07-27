@@ -4,6 +4,7 @@ date: August 26 2014
 slug: csumb-professor-colleagues-land-nsf-grant
 ---
 
+```html
 
 
 
@@ -68,3 +69,4 @@ Bottom photo: Dr. Cheryl Logan</br></br></br></br></em></p>
 
 
 
+```

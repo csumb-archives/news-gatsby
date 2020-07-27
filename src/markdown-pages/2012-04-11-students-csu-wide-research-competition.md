@@ -4,6 +4,7 @@ date: April 11 2012
 slug: students-in-csuwide-research-competition
 ---
 
+```html
 
 
 
@@ -56,3 +57,4 @@ Athletes,&quot; faculty adviser Dr. Kent Adams<br>
 
 
 
+```

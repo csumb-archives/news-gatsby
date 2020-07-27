@@ -1,9 +1,10 @@
 ---
 title: in Ruin&apos; author lectures on May 10
 date: May 9 2012
-slug: in-ruin-apos--author-lectures-on-may-10
+slug: in-ruin&apos;-author-lectures-on-may-10
 ---
 
+```html
 
 
 
@@ -84,3 +85,4 @@ Institute. Learn more about OLLI <a href="http://csumb.edu/olli" rel="nofollow">
 
 
 
+```

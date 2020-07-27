@@ -1,9 +1,10 @@
 ---
 title: to Donate&apos; for earthquake relief
 date: April 5 2011
-slug: to-donate-apos--for-earthquake-relief
+slug: to-donate&apos;-for-earthquake-relief
 ---
 
+```html
 
 
 
@@ -75,3 +76,4 @@ Communications, click <a href="http://www.youtube.com/watch?v=GvBxchvVoJU" rel="
 
 
 
+```

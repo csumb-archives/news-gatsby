@@ -1,9 +1,10 @@
 ---
 title: Student Profile&amp;colon; Austin Long
 date: November 2 2010
-slug: student-profile-amp-colon--austin-long
+slug: student-profile&amp;colon;-austin-long
 ---
 
+```html
 <span class="date">Posted on Nov 02, 2010 </span>
 
 <p>Austin Long, a senior in the Visual and Public Art Department,
@@ -34,3 +35,4 @@ this spring while continuing to pursue his art.</p>
 he said. &#x201C;It is cool to be able to talk to people who are working
 artists.&#x201D;<br>
 &#xA0;</br></p>
+```

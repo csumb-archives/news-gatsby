@@ -4,6 +4,7 @@ date: October 24 2005
 slug: authors-table
 ---
 
+```html
 
 
 
@@ -195,3 +196,4 @@ currently writes a weekly column in the Monterey County Herald,
 
 
 
+```

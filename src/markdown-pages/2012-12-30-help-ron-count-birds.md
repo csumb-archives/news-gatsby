@@ -4,6 +4,7 @@ date: December 30 2012
 slug: help-ron-count-the-birds
 ---
 
+```html
 
 
 
@@ -55,3 +56,4 @@ For more information, <a href="http://ron.csumb.edu" rel="nofollow">click here</
 
 
 
+```

@@ -4,6 +4,7 @@ date: June 25 2014
 slug: president-ochoa-joins-coalition-to-support-common-core
 ---
 
+```html
 
 
 
@@ -69,3 +70,4 @@ programs.</p>
         </object>-->
 <video controls="" width="425" height="350">
 </video></div></div></div></div></div></div></fieldset>
+```

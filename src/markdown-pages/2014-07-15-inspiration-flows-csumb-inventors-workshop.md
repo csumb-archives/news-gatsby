@@ -1,9 +1,10 @@
 ---
 title: Inspiration flows from CSUMB Inventor&apos;s Workshop
 date: July 15 2014
-slug: inspiration-flows-from-csumb-inventor-apos-s-workshop
+slug: inspiration-flows-from-csumb-inventor&apos;s-workshop
 ---
 
+```html
 
 
 
@@ -19,3 +20,4 @@ program, displayed their works.<br>
 
 
 
+```

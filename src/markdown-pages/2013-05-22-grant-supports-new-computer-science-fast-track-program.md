@@ -1,8 +1,10 @@
 ---
-title: "$1.1 million for computer science fasttrack program"
+title: $1.1 million for computer science fasttrack program
 date: May 22 2013
-slug: 1-1-million-for-computer-science-fasttrack-program
+slug: $1.1-million-for-computer-science-fasttrack-program
 ---
+
+`html`html
 
 <span class="date">Posted on May 22, 2013 </span>
 
@@ -57,3 +59,7 @@ Director Cora Marrett and CSUMB President Eduardo Ochoa at the
 Newseum in Washington, D.C.</em></p>
 <p><br>
 &#xA0;</br></p>
+
+```
+
+```

@@ -4,6 +4,7 @@ date: September 9 2013
 slug: berkeley-professor-to-discuss-social-equity
 ---
 
+```html
 
 
 
@@ -38,3 +39,4 @@ directions and a campus map</a></p>
 
 
 
+```

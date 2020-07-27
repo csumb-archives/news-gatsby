@@ -4,6 +4,7 @@ date: September 8 2014
 slug: faculty-grad-student-work-on-novel-way-to-manage-grasslands
 ---
 
+```html
 
 
 
@@ -59,3 +60,4 @@ Bottom photo: Coyote brush</br></br></br></em></p>
 
 
 
+```

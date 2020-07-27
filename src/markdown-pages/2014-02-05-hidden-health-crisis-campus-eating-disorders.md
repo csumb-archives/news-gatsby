@@ -1,9 +1,10 @@
 ---
 title: Hidden health crisis on campus&amp;colon; Eating disorders
 date: February 5 2014
-slug: hidden-health-crisis-on-campus-amp-colon--eating-disorders
+slug: hidden-health-crisis-on-campus&amp;colon;-eating-disorders
 ---
 
+```html
 <span class="date">Posted on Feb 05, 2014 </span>
 
 <h3>Feb. 26 film showing, discussion will address the issue</h3>
@@ -44,3 +45,4 @@ available at csumb.edu/maps.<br>
 <br>
 For more information or to request disability accommodations,
 contact Tony Delfino at 582-3988 or <a href="mailto:adelfino@csumb.edu">adelfino@csumb.edu</a></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
+```

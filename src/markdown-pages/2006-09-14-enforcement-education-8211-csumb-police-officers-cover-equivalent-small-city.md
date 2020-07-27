@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Enforcement &amp; Education &#x2013; CSUMB police officers cover the
+title:
+  &gt;- Enforcement &amp; Education &#x2013; CSUMB police officers cover the
   equivalent of a small city
 date: September 14 2006
-slug: &gt;-
-  enforcement--amp--education---x2013--csumb-police-officers-cover-the-equivalent-of-a-small-city
+slug: &gt;- enforcement-&amp;-education-&#x2013;-csumb-police-officers-cover-the-equivalent-of-a-small-city
 ---
 
+```html
 
 
 
@@ -22,3 +22,4 @@ the UPD does.<br>
 
 
 
+```

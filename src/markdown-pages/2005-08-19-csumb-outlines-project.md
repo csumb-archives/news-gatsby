@@ -4,6 +4,7 @@ date: August 19 2005
 slug: csumb-outlines-project
 ---
 
+```html
 
 
 
@@ -16,3 +17,4 @@ improvements in its facilities and infrastructure.<br>
 
 
 
+```

@@ -4,6 +4,7 @@ date: November 12 2014
 slug: director-of-refugee-studies-center-to-lecture
 ---
 
+```html
 
 
 
@@ -41,3 +42,4 @@ For more information or to RSVP, contact Brendan Taylor at <a href="mailto:breta
 
 
 
+```

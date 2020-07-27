@@ -4,6 +4,7 @@ date: July 17 2014
 slug: business-it-building-nearing-halfway-point-of-construction
 ---
 
+```html
 
 
 
@@ -94,3 +95,4 @@ furniture and equipment, etc.)</p>
 
 
 
+```

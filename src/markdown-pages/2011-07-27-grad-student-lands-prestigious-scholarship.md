@@ -4,10 +4,10 @@ date: July 27 2011
 slug: grad-student-lands-prestigious-scholarship
 ---
 
+`html`html
 
+<span class="date">Posted on Jul 27, 2011 </span>
 
-
-<span class="date">Posted on Jul 27, 2011    </span>
 <p>Heather Kelley has been named a recipient of the Dr. Nancy
 Foster Scholarship for outstanding graduate students in the fields
 of marine biology and coastal resource management.<br>
@@ -67,7 +67,6 @@ Watershed Science and Policy, click <a href="http://sep.csumb.edu/cwsp/" rel="no
 click <a href="http://sep.csumb.edu/ifame/index.php" rel="nofollow">here</a>.<br>
 &#xA0;</br></p>
 
+```
 
-
-
-
+```

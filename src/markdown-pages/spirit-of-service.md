@@ -4,35 +4,229 @@ title: "'Spirit of service'"
 date: January 01 2020
 ---
 
-<h3>Commencement remarks by Cecilia Muñoz</h3><p>Cecilia Muñoz, an adviser to President Obama and director of the Domestic Policy Council, delivered the commencement speech at CSU Monterey Bay on May 17, 2014.
-</p><p>Here are her remarks:
-</p><p>I’d like to start by congratulating the Class of 2014 — you look pretty good!
-</p><p>My oldest daughter graduated from college two weeks ago, so I know as a proud parent, exactly how much work, how many tears, and how little sleep went into this moment for so many of you. You should be extremely proud – I know your families are. Parents, friends, thank-you for everything you did to get them to this day. This is for you.
-</p><p>I’m also honored to be with you on this special day.
-</p><p>Especially because, like some of you, I’m the daughter of immigrants. My parents came as newlyweds from La Paz, Bolivia, to the suburbs of Detroit, Michigan, of all places – clearly they didn’t move for the weather. They didn’t have much, but they had one really huge asset: my dad had a degree from the University of Michigan. My mother, like many women of her generation, never went to college – it wasn’t really a possibility for most Bolivian women. But she made good and sure that, from the moment we were born, her daughters and her sons knew that we would go to college. That education made everything possible for my parents – and for the relatives who followed us to the United States. Because of it, my dad got a job in the auto industry, my parents were able to live in a safe neighborhood, save for retirement, and educate their kids. The American Dream was real for my parents, all because my dad had access to a first rate education exactly like the one we are celebrating today. And what I work on – what I fight for every single day as part of the Obama Administration, is to make that same opportunity available – and affordable – for every American. That’s why your achievement means so much. This is the kind of country where you can come from humble origins, and find yourself working in the White House. Your education makes anything possible. In your time here, you have learned: How to think. How to write. How to make an argument and support it with facts. How to engage people from a wide variety of backgrounds. How to respect others ideas, and how to challenge other’s ideas. This university has such a unique history. As one of the country’s newest colleges, your school’s leaders – like President Ochoa, who we’re proud to say also served in the Obama Administration – laid out a plan to increase access to a quality, affordable higher education in your communities. That’s why over a third of your students are from neighboring counties – and many of you are using your skills to improve the communities in which you grew up. Many of you are also blazing new trails for your families – over half of you are among the first generation of your family to go to college. Which is awesome! This history – your history – and what it took to get you here, means a lot to me, because my story – my family’s story is all about the power of education to shape a life and to shape a country. But this is your graduation, and I’m your commencement speaker, so this can’t be a speech about what you already know – this has to be a speech about imparting new knowledge and wisdom, and telling you what the real world is like. So, as someone who advises the most powerful man in the world, and more importantly, as a mom, my first piece of advice is: Never stop the quest for learning which brought you to this school. You learned a lot, but you don’t know everything yet. And sometimes knowing what you don’t know is a very powerful thing. For example, when you’re in the Oval Office briefing the President and he asks you something point blank, and you don’t know the answer – at that very moment you have a couple of choices.
-</p><p>You can:
-</p><p>1) Make up an answer and hope that it doesn’t inadvertently lead to major crisis or economic collapse. 2) Tell the President you don’t have the answer for him, but that you’ll get it right away. I would choose and have chosen No. 2. And as you start your professional life, I would encourage you to do the same. Knowing what you don’t know, and filling those gaps by asking questions will get you a lot farther than faking answers. My second piece of advice: Build on the spirit of service that you built here. I know that’s a core principle here at CSUMB – you all contribute nearly 60,000 hours of service every year. Wow! Now this should also come with a word of caution – that spirit of service may become your life’s work (and it’s not necessarily a lucrative line of work). When I got to college, I volunteered with organizations that worked with immigrants – it was a natural fit. That volunteer work led me to my first job, providing services to immigrants, which led to me to an important discovery: I wasn’t really very good at direct service. But what I was really good at was public policy and advocacy. That discovery took me to Washington, to a career of 20 years at the National Council of La Raza, a policy and advocacy organization that works to make the country better by focusing on Hispanic Americans like me. And while working on a major immigration bill – the same immigration reform we are still trying to pass, by the way – I met a new senator from Illinois named Barack Obama. He was the kind of senator who called you in for briefings, asked tough questions, and called you on your cell phone if he had more questions. This may surprise you, but that’s unusual behavior for a senator. When he was elected President and asked me to serve, I hesitated. Actually, to be honest, I said no. I had teenagers at home and was worried about being a good mom …. You know how the story turns out – He persuaded me to say join him. And while doing this job asks a lot of my family, I think even my daughters would say that they’re glad that I said yes to serving my country. And I should throw in here, that if your own spirit of service interests you in a job in the Obama Administration – President Obama has been dedicated to recruiting the best and the brightest young people to serve. But that starts with people like you showing interest. And the first step to that is visiting apply.whitehouse.gov and telling us all about you. Or if you want to reach out directly you can email <a href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#x70;&#x72;&#101;&#115;&#105;&#100;&#101;&#x6e;&#x74;&#x69;&#x61;l&#112;&#101;&#114;&#115;&#x6f;&#x6e;&#x6e;&#x65;l&#111;&#102;&#102;&#105;&#x63;&#x65;&#x40;&#x77;h&#111;&#46;&#101;&#111;&#x70;&#x2e;&#x67;&#x6f;v">presidentialpersonneloffice@who.eop.gov</a>.
-</p><p>OK – got that? Apply.whitehouse.gov. And while I am giving practical advice – here’s another piece: make sure you have health insurance! If you’re under 26 and your parents have coverage, you can now stay on your parents’ plan. And regardless of your age, if you are losing your student health insurance, you can go to Healthcare.gov any time of the year and check out your options. This will make your Mom happy. This is how the real work in Washington gets done, from the podium at commencement. OK, back to the advice portion of our program. My third piece of advice: Continue to engage with the people around you, especially those who are different from you.
-</p><p>Now if your college experience was anything like mine, stepping onto campus may have been your first experience with people that were very different from you.
-</p><p>I can remember in college, explaining the ñ in my name, and meeting people from rural communities and big cities – people whose experience growing up was very different from mine.
-</p><p>I soon discovered that I learned just as much from my peers as I did from attending class.
-</p><p>And you know what, engaging those around you becomes no less important in your professional life. I work with colleagues from a wide variety of backgrounds, from CEOs to doctors to elected officials, and we all need to speak the same language to accomplish our work.
-</p><p>Fourth piece of advice: Learn to discern sense from all of the noise, and even indulge in a little peace and quiet every now and then.
-</p><p>Now this may seem impossible and I can relate to that feeling.
-</p><p>At the moment, I have two different cells phones on me, I have a home phone number and a work phone number, I have a work e-mail address and a personal e-mail address. The two phones in my pocket receive a constant stream of emails and text messages.
-</p><p>And naturally I’m also on twitter – you can follow me at Cecilia44 – a revelation that still surprises and provides me grudging respect from my two daughters.
-</p><p>And trust me, the President and his Chief of Staff know all of this. And they still let me have a Twitter account. But I’m not here to advocate for a fear of technology.
-</p><p>I’m not advocating for a return to the typewriter.
-</p><p>Technology has given us the ability to keep in touch with old friends, to help our organizations make split-second decisions, to start a social movement from our phones. One of the reasons I’m allowed to actually leave the office is because I have my work blackberry strapped to me at all times, which allows me to basically do my job from anywhere.
-</p><p>But – if we’re not careful – this nonstop flow of information will take away something very precious: the time to think. We run the risk of developing incredible knowledge, and no understanding whatsoever. If you can’t evaluate, and judge, and decompress, it’s impossible to make good decisions.
-</p><p>I say this from experience. My job is a high velocity job. Issues come at you quickly – sometimes you have to make split-second decisions on issues that affect millions of lives.
-</p><p>And as the President likes to say, the easy decisions don’t make their way to his desk – the ones that work their way up to him are the hard ones – challenges that don’t have great answers, that require taking risks.
-</p><p>And sometimes he will say, I’m going to take some time to reflect on this. He knows that sometimes you need some silence and some space to make sure you have considered all of the angles. A crisis may look different with a little bit of distance. That’s wisdom.
-</p><p>So shut out the noise sometimes. Give yourself some space to think.
-</p><p>Final piece of advice: Always be grateful to the people who got you here, and pay it forward by helping others achieve their dreams.
-</p><p>You have heard my family’s story. I come into my office in the West Wing every day remembering that the American dream was real for my parents – that’s how I can be standing here today with the profound honor that you’ve asked me to share this special day with you.
-</p><p>I am aware every day that my job is to make sure those doors of opportunity that were open for my parents and for me are open for everybody in this country. It’s a solemn obligation – it feels sacred to me. And I hope you find ways to pay it forward yourselves, because this country needs your hearts, your hands, and your good ideas.
-</p><p>So let me close by emphasizing that last point. Your future success – your children’s ability to participate in an economy that continues to grow, that makes the American Dream possible for everybody, hinges on the decisions policymakers are making now. We are engaged in debates that will affect your lives directly, on things like making college affordable and managing student debt, ensuring that women receive equal pay for equal work. Fixing our broken immigration system, tackling climate change, ensuring everybody has access to affordable health care, creating good jobs that pay a decent living in all regions of the country – making sure we build ladders of opportunity for those still struggling to reach the middle class – these are the challenges we will face together. This is the work my generation will hand off to yours. Our success hinges on your generation’s ability to engage and make an argument. It hinges on your generation’s creativity, drive, and desire to make this country and this world a better place for everyone. It’s a darned good thing you have such a good education. You have a lot on your shoulders. Thank you so much for letting me be a part of your special day – good luck. I can’t wait to see what you’ll do.
-</p><p> 
-</p><p> 
+```html
+<h3>Commencement remarks by Cecilia Muñoz</h3>
+<p>
+  Cecilia Muñoz, an adviser to President Obama and director of the Domestic
+  Policy Council, delivered the commencement speech at CSU Monterey Bay on May
+  17, 2014.
 </p>
+<p>Here are her remarks:</p>
+<p>
+  I’d like to start by congratulating the Class of 2014 — you look pretty good!
+</p>
+<p>
+  My oldest daughter graduated from college two weeks ago, so I know as a proud
+  parent, exactly how much work, how many tears, and how little sleep went into
+  this moment for so many of you. You should be extremely proud – I know your
+  families are. Parents, friends, thank-you for everything you did to get them
+  to this day. This is for you.
+</p>
+<p>I’m also honored to be with you on this special day.</p>
+<p>
+  Especially because, like some of you, I’m the daughter of immigrants. My
+  parents came as newlyweds from La Paz, Bolivia, to the suburbs of Detroit,
+  Michigan, of all places – clearly they didn’t move for the weather. They
+  didn’t have much, but they had one really huge asset: my dad had a degree from
+  the University of Michigan. My mother, like many women of her generation,
+  never went to college – it wasn’t really a possibility for most Bolivian
+  women. But she made good and sure that, from the moment we were born, her
+  daughters and her sons knew that we would go to college. That education made
+  everything possible for my parents – and for the relatives who followed us to
+  the United States. Because of it, my dad got a job in the auto industry, my
+  parents were able to live in a safe neighborhood, save for retirement, and
+  educate their kids. The American Dream was real for my parents, all because my
+  dad had access to a first rate education exactly like the one we are
+  celebrating today. And what I work on – what I fight for every single day as
+  part of the Obama Administration, is to make that same opportunity available –
+  and affordable – for every American. That’s why your achievement means so
+  much. This is the kind of country where you can come from humble origins, and
+  find yourself working in the White House. Your education makes anything
+  possible. In your time here, you have learned: How to think. How to write. How
+  to make an argument and support it with facts. How to engage people from a
+  wide variety of backgrounds. How to respect others ideas, and how to challenge
+  other’s ideas. This university has such a unique history. As one of the
+  country’s newest colleges, your school’s leaders – like President Ochoa, who
+  we’re proud to say also served in the Obama Administration – laid out a plan
+  to increase access to a quality, affordable higher education in your
+  communities. That’s why over a third of your students are from neighboring
+  counties – and many of you are using your skills to improve the communities in
+  which you grew up. Many of you are also blazing new trails for your families –
+  over half of you are among the first generation of your family to go to
+  college. Which is awesome! This history – your history – and what it took to
+  get you here, means a lot to me, because my story – my family’s story is all
+  about the power of education to shape a life and to shape a country. But this
+  is your graduation, and I’m your commencement speaker, so this can’t be a
+  speech about what you already know – this has to be a speech about imparting
+  new knowledge and wisdom, and telling you what the real world is like. So, as
+  someone who advises the most powerful man in the world, and more importantly,
+  as a mom, my first piece of advice is: Never stop the quest for learning which
+  brought you to this school. You learned a lot, but you don’t know everything
+  yet. And sometimes knowing what you don’t know is a very powerful thing. For
+  example, when you’re in the Oval Office briefing the President and he asks you
+  something point blank, and you don’t know the answer – at that very moment you
+  have a couple of choices.
+</p>
+<p>You can:</p>
+<p>
+  1) Make up an answer and hope that it doesn’t inadvertently lead to major
+  crisis or economic collapse. 2) Tell the President you don’t have the answer
+  for him, but that you’ll get it right away. I would choose and have chosen No.
+  2. And as you start your professional life, I would encourage you to do the
+  same. Knowing what you don’t know, and filling those gaps by asking questions
+  will get you a lot farther than faking answers. My second piece of advice:
+  Build on the spirit of service that you built here. I know that’s a core
+  principle here at CSUMB – you all contribute nearly 60,000 hours of service
+  every year. Wow! Now this should also come with a word of caution – that
+  spirit of service may become your life’s work (and it’s not necessarily a
+  lucrative line of work). When I got to college, I volunteered with
+  organizations that worked with immigrants – it was a natural fit. That
+  volunteer work led me to my first job, providing services to immigrants, which
+  led to me to an important discovery: I wasn’t really very good at direct
+  service. But what I was really good at was public policy and advocacy. That
+  discovery took me to Washington, to a career of 20 years at the National
+  Council of La Raza, a policy and advocacy organization that works to make the
+  country better by focusing on Hispanic Americans like me. And while working on
+  a major immigration bill – the same immigration reform we are still trying to
+  pass, by the way – I met a new senator from Illinois named Barack Obama. He
+  was the kind of senator who called you in for briefings, asked tough
+  questions, and called you on your cell phone if he had more questions. This
+  may surprise you, but that’s unusual behavior for a senator. When he was
+  elected President and asked me to serve, I hesitated. Actually, to be honest,
+  I said no. I had teenagers at home and was worried about being a good mom ….
+  You know how the story turns out – He persuaded me to say join him. And while
+  doing this job asks a lot of my family, I think even my daughters would say
+  that they’re glad that I said yes to serving my country. And I should throw in
+  here, that if your own spirit of service interests you in a job in the Obama
+  Administration – President Obama has been dedicated to recruiting the best and
+  the brightest young people to serve. But that starts with people like you
+  showing interest. And the first step to that is visiting apply.whitehouse.gov
+  and telling us all about you. Or if you want to reach out directly you can
+  email
+  <a
+    href="&#109;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#x70;&#x72;&#101;&#115;&#105;&#100;&#101;&#x6e;&#x74;&#x69;&#x61;l&#112;&#101;&#114;&#115;&#x6f;&#x6e;&#x6e;&#x65;l&#111;&#102;&#102;&#105;&#x63;&#x65;&#x40;&#x77;h&#111;&#46;&#101;&#111;&#x70;&#x2e;&#x67;&#x6f;v"
+    >presidentialpersonneloffice@who.eop.gov</a
+  >.
+</p>
+<p>
+  OK – got that? Apply.whitehouse.gov. And while I am giving practical advice –
+  here’s another piece: make sure you have health insurance! If you’re under 26
+  and your parents have coverage, you can now stay on your parents’ plan. And
+  regardless of your age, if you are losing your student health insurance, you
+  can go to Healthcare.gov any time of the year and check out your options. This
+  will make your Mom happy. This is how the real work in Washington gets done,
+  from the podium at commencement. OK, back to the advice portion of our
+  program. My third piece of advice: Continue to engage with the people around
+  you, especially those who are different from you.
+</p>
+<p>
+  Now if your college experience was anything like mine, stepping onto campus
+  may have been your first experience with people that were very different from
+  you.
+</p>
+<p>
+  I can remember in college, explaining the ñ in my name, and meeting people
+  from rural communities and big cities – people whose experience growing up was
+  very different from mine.
+</p>
+<p>
+  I soon discovered that I learned just as much from my peers as I did from
+  attending class.
+</p>
+<p>
+  And you know what, engaging those around you becomes no less important in your
+  professional life. I work with colleagues from a wide variety of backgrounds,
+  from CEOs to doctors to elected officials, and we all need to speak the same
+  language to accomplish our work.
+</p>
+<p>
+  Fourth piece of advice: Learn to discern sense from all of the noise, and even
+  indulge in a little peace and quiet every now and then.
+</p>
+<p>Now this may seem impossible and I can relate to that feeling.</p>
+<p>
+  At the moment, I have two different cells phones on me, I have a home phone
+  number and a work phone number, I have a work e-mail address and a personal
+  e-mail address. The two phones in my pocket receive a constant stream of
+  emails and text messages.
+</p>
+<p>
+  And naturally I’m also on twitter – you can follow me at Cecilia44 – a
+  revelation that still surprises and provides me grudging respect from my two
+  daughters.
+</p>
+<p>
+  And trust me, the President and his Chief of Staff know all of this. And they
+  still let me have a Twitter account. But I’m not here to advocate for a fear
+  of technology.
+</p>
+<p>I’m not advocating for a return to the typewriter.</p>
+<p>
+  Technology has given us the ability to keep in touch with old friends, to help
+  our organizations make split-second decisions, to start a social movement from
+  our phones. One of the reasons I’m allowed to actually leave the office is
+  because I have my work blackberry strapped to me at all times, which allows me
+  to basically do my job from anywhere.
+</p>
+<p>
+  But – if we’re not careful – this nonstop flow of information will take away
+  something very precious: the time to think. We run the risk of developing
+  incredible knowledge, and no understanding whatsoever. If you can’t evaluate,
+  and judge, and decompress, it’s impossible to make good decisions.
+</p>
+<p>
+  I say this from experience. My job is a high velocity job. Issues come at you
+  quickly – sometimes you have to make split-second decisions on issues that
+  affect millions of lives.
+</p>
+<p>
+  And as the President likes to say, the easy decisions don’t make their way to
+  his desk – the ones that work their way up to him are the hard ones –
+  challenges that don’t have great answers, that require taking risks.
+</p>
+<p>
+  And sometimes he will say, I’m going to take some time to reflect on this. He
+  knows that sometimes you need some silence and some space to make sure you
+  have considered all of the angles. A crisis may look different with a little
+  bit of distance. That’s wisdom.
+</p>
+<p>So shut out the noise sometimes. Give yourself some space to think.</p>
+<p>
+  Final piece of advice: Always be grateful to the people who got you here, and
+  pay it forward by helping others achieve their dreams.
+</p>
+<p>
+  You have heard my family’s story. I come into my office in the West Wing every
+  day remembering that the American dream was real for my parents – that’s how I
+  can be standing here today with the profound honor that you’ve asked me to
+  share this special day with you.
+</p>
+<p>
+  I am aware every day that my job is to make sure those doors of opportunity
+  that were open for my parents and for me are open for everybody in this
+  country. It’s a solemn obligation – it feels sacred to me. And I hope you find
+  ways to pay it forward yourselves, because this country needs your hearts,
+  your hands, and your good ideas.
+</p>
+<p>
+  So let me close by emphasizing that last point. Your future success – your
+  children’s ability to participate in an economy that continues to grow, that
+  makes the American Dream possible for everybody, hinges on the decisions
+  policymakers are making now. We are engaged in debates that will affect your
+  lives directly, on things like making college affordable and managing student
+  debt, ensuring that women receive equal pay for equal work. Fixing our broken
+  immigration system, tackling climate change, ensuring everybody has access to
+  affordable health care, creating good jobs that pay a decent living in all
+  regions of the country – making sure we build ladders of opportunity for those
+  still struggling to reach the middle class – these are the challenges we will
+  face together. This is the work my generation will hand off to yours. Our
+  success hinges on your generation’s ability to engage and make an argument. It
+  hinges on your generation’s creativity, drive, and desire to make this country
+  and this world a better place for everyone. It’s a darned good thing you have
+  such a good education. You have a lot on your shoulders. Thank you so much for
+  letting me be a part of your special day – good luck. I can’t wait to see what
+  you’ll do.
+</p>
+<p></p>
+<p></p>
+```

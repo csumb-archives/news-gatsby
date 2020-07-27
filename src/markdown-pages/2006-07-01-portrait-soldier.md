@@ -4,6 +4,7 @@ date: July 1 2006
 slug: portrait-of-a-soldier
 ---
 
+```html
 
 
 
@@ -21,3 +22,4 @@ base.&quot;<br>
 
 
 
+```

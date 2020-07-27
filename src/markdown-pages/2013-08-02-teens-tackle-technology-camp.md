@@ -4,6 +4,7 @@ date: August 2 2013
 slug: teens-tackle-technology-at-camp
 ---
 
+```html
 
 
 
@@ -19,3 +20,4 @@ and Science Summer Camp, the first of its kind at CSUMB.<br>
 
 
 
+```

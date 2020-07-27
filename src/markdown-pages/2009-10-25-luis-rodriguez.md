@@ -1,9 +1,10 @@
 ---
 title: Turning kids away from &apos;La Vida Loca&apos;
 date: October 25 2009
-slug: turning-kids-away-from--apos-la-vida-loca-apos-
+slug: turning-kids-away-from-&apos;la-vida-loca&apos;
 ---
 
+```html
 
 
 
@@ -84,3 +85,4 @@ Institute at 582-3631.</p>
 
 
 
+```

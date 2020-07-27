@@ -4,6 +4,7 @@ date: March 13 2012
 slug: dolores-huerta-to-lecture-at-csumb-march-14
 ---
 
+```html
 
 
 
@@ -42,3 +43,4 @@ information, contact Tim Bills at 582-4645.</p>
 
 
 
+```

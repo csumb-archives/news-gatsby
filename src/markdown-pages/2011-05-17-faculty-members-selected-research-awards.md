@@ -4,6 +4,7 @@ date: May 17 2011
 slug: faculty-members-selected-for-research-awards
 ---
 
+```html
 
 
 
@@ -44,3 +45,4 @@ for Social Transformation: The Filipinization of an American Ideal,
 
 
 
+```

@@ -1,9 +1,10 @@
 ---
 title: Capstone Festival set for Dec. 18 and 19
 date: December 15 2014
-slug: capstone-festival-set-for-dec--18-and-19
+slug: capstone-festival-set-for-dec.-18-and-19
 ---
 
+```html
 
 
 
@@ -46,3 +47,4 @@ Computer Science and Information Technology program.<br>
 
 
 
+```

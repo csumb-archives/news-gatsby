@@ -1,9 +1,10 @@
 ---
 title: Forensic psychology topic of Nov. 17 talk
 date: November 2 2011
-slug: forensic-psychology-topic-of-nov--17-talk
+slug: forensic-psychology-topic-of-nov.-17-talk
 ---
 
+```html
 
 
 
@@ -44,3 +45,4 @@ lot. Driving directions and a campus map can be downloaded <a href="http://csumb
 
 
 
+```

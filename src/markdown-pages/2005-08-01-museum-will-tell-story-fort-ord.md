@@ -4,6 +4,7 @@ date: August 1 2005
 slug: museum-will-tell-story-of-fort-ord
 ---
 
+```html
 
 
 
@@ -20,3 +21,4 @@ professor.<br>
 
 
 
+```

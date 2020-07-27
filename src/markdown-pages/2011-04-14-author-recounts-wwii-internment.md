@@ -4,6 +4,7 @@ date: April 14 2011
 slug: author-recounts-wwii-internment-on-4-14
 ---
 
+```html
 
 
 
@@ -47,3 +48,4 @@ its Zen-like austerity, highly enough. Exquisite.</em><br>
 
 
 
+```

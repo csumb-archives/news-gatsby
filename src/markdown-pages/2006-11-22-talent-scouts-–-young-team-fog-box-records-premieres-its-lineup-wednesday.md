@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Talent Scouts &#x2013; The young team at Fog Box Records premieres its lineup
+title:
+  &gt;- Talent Scouts &#x2013; The young team at Fog Box Records premieres its lineup
   Wednesday
 date: November 22 2006
-slug: &gt;-
-  talent-scouts---x2013--the-young-team-at-fog-box-records-premieres-its-lineup-wednesday
+slug: &gt;- talent-scouts-&#x2013;-the-young-team-at-fog-box-records-premieres-its-lineup-wednesday
 ---
 
+```html
 
 
 
@@ -24,3 +24,4 @@ spots.<br>
 
 
 
+```

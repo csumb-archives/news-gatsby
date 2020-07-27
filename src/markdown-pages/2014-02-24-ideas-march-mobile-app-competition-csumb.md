@@ -1,9 +1,10 @@
 ---
 title: of March&apos; mobile app competition at CSUMB
 date: February 24 2014
-slug: of-march-apos--mobile-app-competition-at-csumb
+slug: of-march&apos;-mobile-app-competition-at-csumb
 ---
 
+```html
 
 
 
@@ -59,3 +60,4 @@ competition</a>.<br>
 
 
 
+```

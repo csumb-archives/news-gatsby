@@ -1,9 +1,10 @@
 ---
 title: Science master&apos;s degree offers new career path
 date: October 25 2010
-slug: science-master-apos-s-degree-offers-new-career-path
+slug: science-master&apos;s-degree-offers-new-career-path
 ---
 
+```html
 
 
 
@@ -46,3 +47,4 @@ firms.</p>
 
 
 
+```

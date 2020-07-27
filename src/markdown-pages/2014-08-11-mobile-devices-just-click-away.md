@@ -4,6 +4,7 @@ date: August 11 2014
 slug: mobile-devices-just-a-click-away
 ---
 
+```html
 
 
 
@@ -56,3 +57,4 @@ online store</a>.</p>
 
 
 
+```

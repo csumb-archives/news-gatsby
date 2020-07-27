@@ -4,6 +4,7 @@ date: January 24 2014
 slug: record-applicants-for-csumb
 ---
 
+```html
 
 
 
@@ -17,3 +18,4 @@ number of freshmen applications &#x2013; more than 14,800 for the fall
 
 
 
+```

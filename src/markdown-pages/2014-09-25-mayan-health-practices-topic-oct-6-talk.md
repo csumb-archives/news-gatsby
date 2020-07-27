@@ -1,13 +1,13 @@
 ---
 title: Mayan health and agricultural practices topic of Oct. 6 talk
 date: September 25 2014
-slug: mayan-health-and-agricultural-practices-topic-of-oct--6-talk
+slug: mayan-health-and-agricultural-practices-topic-of-oct.-6-talk
 ---
 
+`html`html
 
+<span class="date">Posted on Sep 25, 2014 </span>
 
-
-<span class="date">Posted on Sep 25, 2014    </span>
 <p><img alt="Professor Bernardo Ca&apos;amal Itz&#xE1;" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bernardo_itza_for_web.jpg" style="width:300px; height:522px; float:right">Professor Bernardo
 Ca&#x2019;amal Itz&#xE1;, the United Nations representative for the Mayan
 People, will visit Cal State Monterey Bay on Oct. 6 as part of
@@ -47,7 +47,6 @@ Human Services.</p>
 <p><br>
 &#xA0;</br></p>
 
+```
 
-
-
-
+```

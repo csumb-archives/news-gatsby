@@ -4,6 +4,7 @@ date: April 17 2012
 slug: drawing-from-the-natural-world
 ---
 
+```html
 
 
 
@@ -84,3 +85,4 @@ available <a href="http://scienceillustration.org" rel="nofollow">here</a>.&#xA0
 
 
 
+```

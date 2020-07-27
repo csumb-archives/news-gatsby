@@ -1,9 +1,10 @@
 ---
 title: Their thing&amp;colon; Strings
 date: April 2 2014
-slug: their-thing-amp-colon--strings
+slug: their-thing&amp;colon;-strings
 ---
 
+```html
 <span class="date">Posted on Apr 02, 2014 </span>
 
 <h3>Eight hands plus one cello = lots of fun</h3>
@@ -66,3 +67,4 @@ and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">he
 </div>
 </div>
 </fieldset>
+```

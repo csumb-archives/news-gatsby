@@ -4,6 +4,7 @@ date: December 3 2010
 slug: csumb-offers-to-help-gulf-coast-students
 ---
 
+```html
 
 
 
@@ -65,3 +66,4 @@ can be sent to <a href="mailto:admissions@csumb.edu" rel="nofollow">admissions@c
 
 
 
+```

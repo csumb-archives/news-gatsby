@@ -4,6 +4,7 @@ date: May 16 2011
 slug: art-students-display-their-work
 ---
 
+```html
 
 
 
@@ -40,3 +41,4 @@ all academic departments, click <a href="http://csumb.edu/capstone" rel="nofollo
 
 
 
+```

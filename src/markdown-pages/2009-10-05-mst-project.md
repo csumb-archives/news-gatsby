@@ -1,9 +1,10 @@
 ---
 title: MST project borders campus on InterGarrison Road&#xA0;
 date: October 5 2009
-slug: mst-project-borders-campus-on-intergarrison-road--xa0-
+slug: mst-project-borders-campus-on-intergarrison-road&#xA0;
 ---
 
+```html
 
 
 
@@ -69,3 +70,4 @@ economic forces over the next several years.</p>
 
 
 
+```

@@ -4,6 +4,7 @@ date: August 23 2014
 slug: otters-talented-and-deep-head-into-fall-golf-season
 ---
 
+```html
 
 
 
@@ -18,3 +19,4 @@ of the men&apos;s golf season.<br>
 
 
 
+```

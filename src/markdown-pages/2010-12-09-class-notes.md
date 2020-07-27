@@ -4,6 +4,7 @@ date: December 9 2010
 slug: class-notes
 ---
 
+```html
 
 
 
@@ -214,3 +215,4 @@ Area.<br>
 
 
 
+```

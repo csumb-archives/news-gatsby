@@ -4,6 +4,7 @@ date: April 24 2014
 slug: mariachi-reyna-at-world-theater
 ---
 
+```html
 
 
 
@@ -54,3 +55,4 @@ streets on the CSUMB campus. Driving directions and a campus map
 are available <a href="http://csumb.edu/worldtheater" rel="nofollow">here</a>.&#xA0;</p>
 <p><img alt="Mariachi Reyna de Los Angeles" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/reyna_de_los_angeles.jpg" style="float:left; width:550px; height:367px"/></p>
 
+```

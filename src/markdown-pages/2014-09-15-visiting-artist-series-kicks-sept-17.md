@@ -1,9 +1,10 @@
 ---
 title: Visiting artist series kicks off Sept. 17
 date: September 15 2014
-slug: visiting-artist-series-kicks-off-sept--17
+slug: visiting-artist-series-kicks-off-sept.-17
 ---
 
+```html
 
 
 
@@ -67,3 +68,4 @@ call 582-4337.</p>
 
 
 
+```

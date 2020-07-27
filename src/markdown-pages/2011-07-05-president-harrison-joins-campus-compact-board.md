@@ -4,6 +4,7 @@ date: July 5 2011
 slug: president-harrison-joins-campus-compact-board
 ---
 
+```html
 
 
 
@@ -54,3 +55,4 @@ click <a href="www.cacampuscompact.org..html" rel="nofollow">here</a>.</em></p>
 
 
 
+```

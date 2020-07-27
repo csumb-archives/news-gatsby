@@ -1,9 +1,10 @@
 ---
 title: Filmmaker series continues Nov. 15
 date: November 1 2011
-slug: filmmaker-series-continues-nov--15
+slug: filmmaker-series-continues-nov.-15
 ---
 
+```html
 
 
 
@@ -55,3 +56,4 @@ romantic.&#x201D;<br>
 
 
 
+```

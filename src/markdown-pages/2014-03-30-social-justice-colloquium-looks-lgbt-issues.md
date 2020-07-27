@@ -4,6 +4,7 @@ date: March 30 2014
 slug: social-justice-colloquium-looks-at-lgbt-issues
 ---
 
+```html
 
 
 
@@ -59,3 +60,4 @@ Heather Wilde at 582-3890.</p>
 
 
 
+```

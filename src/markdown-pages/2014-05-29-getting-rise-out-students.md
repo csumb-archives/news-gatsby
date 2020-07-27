@@ -4,6 +4,7 @@ date: May 29 2014
 slug: getting-a-rise-out-of-students
 ---
 
+```html
 
 
 
@@ -65,3 +66,4 @@ Sarahi Manzo, Lissa Ramos, Arnulfo Soria, Miguel Torres</p>
 
 
 
+```

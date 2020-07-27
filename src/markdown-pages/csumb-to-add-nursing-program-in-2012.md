@@ -4,6 +4,39 @@ title: "CSUMB to add nursing program in 2012"
 date: January 01 2020
 ---
 
-<h3>Collaboration with area community colleges to start next summer </h3><p>California State University, Monterey Bay is preparing to offer a bachelor’s degree in nursing. Pending approval from the regional accrediting body, the program will be available in summer 2012. The university is collaborating with established nursing programs at the four community colleges in the area – Monterey Peninsula, Hartnell, Cabrillo and Gavilan – in a unique way that avoids duplication of effort and waste of resources. Students will begin the program at one of the community colleges, spend several years in “blended” learning when they take classes at their community college and the university, and then finish their studies at CSU Monterey Bay. Along the way, they will receive an associate’s degree from their community college and a bachelor of science in nursing from CSUMB. The students will be prepared to work in positions beyond the traditional hospital – in home, community and public health settings. Their training will emphasize the relationships among patients, their families and communities, and health care providers. Students also will learn how to manage patients with multiple chronic conditions – addressing the needs of baby boomers. The program will accept 25 to 30 students each year. “Prospective students frequently ask us about a bachelor of nursing program,” Provost Kathy Cruz-Uribe said. She also pointed out that there is strong community support – and need – for nurses with bachelor’s degrees. As many practicing nurses advance in their careers, they find it necessary to obtain a graduate degree. To facilitate that, it is critical to improve access to baccalaureate nursing education. Although the recession has caused some nurses to delay retirement, the U.S. Bureau of Health Professions projects demand will grow over the next decade.
-</p><p>In California, the average age of nurses is 47 years; 45 percent are over 50. In Monterey County, the current workforce is even older – 69 percent are over 55, according to the county’s Workforce Investment Board healthcare industry labor market study. A grant from the Foundation for California Community Colleges/Nursing Investment Fund has supported planning.  
+```html
+<h3>Collaboration with area community colleges to start next summer</h3>
+<p>
+  California State University, Monterey Bay is preparing to offer a bachelor’s
+  degree in nursing. Pending approval from the regional accrediting body, the
+  program will be available in summer 2012. The university is collaborating with
+  established nursing programs at the four community colleges in the area –
+  Monterey Peninsula, Hartnell, Cabrillo and Gavilan – in a unique way that
+  avoids duplication of effort and waste of resources. Students will begin the
+  program at one of the community colleges, spend several years in “blended”
+  learning when they take classes at their community college and the university,
+  and then finish their studies at CSU Monterey Bay. Along the way, they will
+  receive an associate’s degree from their community college and a bachelor of
+  science in nursing from CSUMB. The students will be prepared to work in
+  positions beyond the traditional hospital – in home, community and public
+  health settings. Their training will emphasize the relationships among
+  patients, their families and communities, and health care providers. Students
+  also will learn how to manage patients with multiple chronic conditions –
+  addressing the needs of baby boomers. The program will accept 25 to 30
+  students each year. “Prospective students frequently ask us about a bachelor
+  of nursing program,” Provost Kathy Cruz-Uribe said. She also pointed out that
+  there is strong community support – and need – for nurses with bachelor’s
+  degrees. As many practicing nurses advance in their careers, they find it
+  necessary to obtain a graduate degree. To facilitate that, it is critical to
+  improve access to baccalaureate nursing education. Although the recession has
+  caused some nurses to delay retirement, the U.S. Bureau of Health Professions
+  projects demand will grow over the next decade.
 </p>
+<p>
+  In California, the average age of nurses is 47 years; 45 percent are over 50.
+  In Monterey County, the current workforce is even older – 69 percent are over
+  55, according to the county’s Workforce Investment Board healthcare industry
+  labor market study. A grant from the Foundation for California Community
+  Colleges/Nursing Investment Fund has supported planning.
+</p>
+```

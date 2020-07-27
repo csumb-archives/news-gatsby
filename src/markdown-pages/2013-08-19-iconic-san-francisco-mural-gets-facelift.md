@@ -4,6 +4,7 @@ date: August 19 2013
 slug: iconic-san-francisco-mural-gets-facelift
 ---
 
+```html
 
 
 
@@ -69,3 +70,4 @@ More faculty news</br></a></p>
 
 
 
+```

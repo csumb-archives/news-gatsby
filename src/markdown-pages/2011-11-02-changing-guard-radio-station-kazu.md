@@ -4,10 +4,10 @@ date: November 2 2011
 slug: changing-of-the-guard-at-radio-station-kazu
 ---
 
+`html`html
 
+<span class="date">Posted on Nov 02, 2011 </span>
 
-
-<span class="date">Posted on Nov 02, 2011    </span>
 <p>Mik Benedek has been promoted to the position of general manager
 at KAZU 90.3, effective Aug. 1.</p>
 <p><img alt="Mik Benedek" src="http://news.csumb.edu/sites/default/files/imagecache/medium/65/attachments/news/images/mik_new_headshot.jpg" style="float:left; width:200px; height:275px">Benedek, a 30-year
@@ -29,7 +29,6 @@ manager position in 2008.</p>
 <p>&quot;I&apos;m grateful for the opportunity to continue building a great
 radio station that serves the Monterey Bay area,&quot; Benedek said.</p>
 
+```
 
-
-
-
+```

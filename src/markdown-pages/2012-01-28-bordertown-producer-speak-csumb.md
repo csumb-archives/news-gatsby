@@ -4,6 +4,7 @@ date: January 28 2012
 slug: producer-to-speak-at-csumb
 ---
 
+```html
 
 
 
@@ -53,3 +54,4 @@ the World Theater at (831) 582-3653 or go&#xA0;<a href="http://csumb.edu/worldth
 
 
 
+```

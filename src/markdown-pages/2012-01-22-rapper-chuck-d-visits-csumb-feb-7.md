@@ -1,9 +1,10 @@
 ---
 title: Rapper Chuck D visits CSUMB Feb. 7
 date: January 22 2012
-slug: rapper-chuck-d-visits-csumb-feb--7
+slug: rapper-chuck-d-visits-csumb-feb.-7
 ---
 
+```html
 
 
 
@@ -53,3 +54,4 @@ Student Union. For information, call Tim Bills at 582-4645.</br></br></br></br><
 
 
 
+```

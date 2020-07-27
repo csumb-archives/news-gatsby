@@ -4,6 +4,7 @@ date: May 10 2011
 slug: students-recognized-at-research-competition
 ---
 
+```html
 
 
 
@@ -81,3 +82,4 @@ Adams</p>
 
 
 
+```

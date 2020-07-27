@@ -4,10 +4,10 @@ date: March 8 2012
 slug: university-launches-mobile-website
 ---
 
+`html`html
 
+<span class="date">Posted on Mar 08, 2012 </span>
 
-
-<span class="date">Posted on Mar 08, 2012    </span>
 <p><strong>UPDATE:&#xA0;</strong>CSU Monterey Bay&#x2019;s mobile website,
 launched in June 2011, has won a top honor among universities,
 colleges and independent schools in the western United States.</p>
@@ -70,7 +70,6 @@ csumb.edu, in October 2010.</br></br></br></br></br></br></br></br></br></br></i
 </div>
 </fieldset>
 
+```
 
-
-
-
+```

@@ -1,9 +1,10 @@
 ---
 title: Saturday&amp;colon; Music students&apos; spring concert
 date: April 29 2011
-slug: saturday-amp-colon--music-students-apos--spring-concert
+slug: saturday&amp;colon;-music-students&apos;-spring-concert
 ---
 
+```html
 <span class="date">Posted on Apr 29, 2011 </span>
 
 <p>California State University, Monterey Bay&apos;s annual spring
@@ -20,3 +21,4 @@ directions, visit csumb.edu/map</p>
 <p>For more information or to arrange for disability
 accommodations, call 582-3009.</p>
 <p><em>&#xA0;</em></p>
+```

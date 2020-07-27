@@ -4,6 +4,7 @@ date: July 20 2012
 slug: scientists-pioneer-drought-monitoring-system
 ---
 
+```html
 
 
 
@@ -93,3 +94,4 @@ Nicole Cassis, <a href="mailto:ncassis@asu.edu">ncassis@asu.edu</a><br>
 
 
 
+```

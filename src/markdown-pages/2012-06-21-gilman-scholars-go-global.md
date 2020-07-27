@@ -4,6 +4,7 @@ date: June 21 2012
 slug: gilman-scholars-go-global
 ---
 
+```html
 
 
 
@@ -103,3 +104,4 @@ Learn more about the international programs at CSUMB <a href="http://internation
 
 
 
+```

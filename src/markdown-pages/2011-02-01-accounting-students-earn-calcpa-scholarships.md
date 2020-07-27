@@ -4,6 +4,7 @@ date: February 1 2011
 slug: accounting-students-earn-scholarships
 ---
 
+```html
 
 
 
@@ -39,3 +40,4 @@ CalCPA represents over 34,000 members.</p>
 
 
 
+```

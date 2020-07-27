@@ -4,6 +4,7 @@ date: October 22 2013
 slug: celebrate-dia-de-los-muertos-at-csumb
 ---
 
+```html
 
 
 
@@ -67,3 +68,4 @@ by Dr. Amalia Mesa-Bains. <a href="http://www.youtube.com/watch?v=su1pDr9oxQc&am
 
 
 
+```

@@ -4,10 +4,10 @@ date: June 27 2014
 slug: camp-grant-helps-migrant-students-attain-college-dream
 ---
 
+`html`html
 
+<span class="date">Posted on Jun 27, 2014 </span>
 
-
-<span class="date">Posted on Jun 27, 2014    </span>
 <p>California State University, Monterey Bay has received a $2.1
 million federal grant aimed at enrolling more migrant students in
 higher education.</p>
@@ -37,7 +37,6 @@ Click <a href="http://eosp.csumb.edu/how-apply-1" rel="nofollow">here</a> for in
 <br>
 &#xA0;</br></br></em></p>
 
+```
 
-
-
-
+```

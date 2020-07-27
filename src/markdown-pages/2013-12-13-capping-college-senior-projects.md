@@ -4,6 +4,7 @@ date: December 13 2013
 slug: capping-off-college-with-senior-projects
 ---
 
+```html
 
 
 
@@ -95,3 +96,4 @@ Sixth Avenue. To see a list of projects that will be shown, click
 
 
 
+```

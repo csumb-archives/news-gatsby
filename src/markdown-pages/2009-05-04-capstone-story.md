@@ -4,6 +4,7 @@ date: May 4 2009
 slug: capstone-story
 ---
 
+```html
 
 
 
@@ -144,3 +145,4 @@ Visual and Public Art Center<br>
 
 
 
+```

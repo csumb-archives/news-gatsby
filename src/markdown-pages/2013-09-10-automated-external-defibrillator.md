@@ -4,6 +4,7 @@ date: September 10 2013
 slug: lifesaving-devices-installed-on-campus
 ---
 
+```html
 
 
 
@@ -56,3 +57,4 @@ training session, contact Bower at 582-3589 or <a href="mailto:dbower@csumb.edu"
 
 
 
+```

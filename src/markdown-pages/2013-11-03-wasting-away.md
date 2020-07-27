@@ -4,6 +4,7 @@ date: November 3 2013
 slug: wasting-away
 ---
 
+```html
 
 
 
@@ -18,3 +19,4 @@ mushy and slowly lose their limbs.<br>
 
 
 
+```

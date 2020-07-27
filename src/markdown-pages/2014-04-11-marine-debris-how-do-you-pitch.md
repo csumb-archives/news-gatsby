@@ -1,9 +1,10 @@
 ---
 title: Marine debris&amp;colon; How do you pitch in?
 date: April 11 2014
-slug: marine-debris-amp-colon--how-do-you-pitch-in-
+slug: marine-debris&amp;colon;-how-do-you-pitch-in?
 ---
 
+```html
 <span class="date">Posted on Apr 11, 2014 </span>
 
 <h3>Annual Sanctuary Currents symposium set for April 26</h3>
@@ -58,3 +59,4 @@ Institute</p>
 <a href="http://www.montereybay.noaa.gov/research/currsymp2014" rel="nofollow">click here</a>.&#xA0;</p>
 <p><br>
 &#xA0;</br></p>
+```

@@ -4,9 +4,7 @@ date: October 7 2013
 slug: naacp-student-chapter-expands-campus-role
 ---
 
-
-
-
+```html
 <span class="date">Posted on Oct 07, 2013    </span>
 <h3>Group works to connect with cultural clubs</h3>
 <p>They have no memories of the civil-rights milestones of the
@@ -50,8 +48,4 @@ Left to right: Janelle Pichon, Shiyla Goodie, Charity Hawkins,
 adviser Steven Goings, Bridgette Johnson, Larenz Tolson, Sheena
 Nickerson, Asia Goodall, Kymberly Shavers</br></em><br>
 &#xA0;</br></br></br></p>
-
-
-
-
-
+```

@@ -4,10 +4,10 @@ date: November 18 2014
 slug: honoring-others-helping-students
 ---
 
+`html`html
 
+<span class="date">Posted on Nov 18, 2014 </span>
 
-
-<span class="date">Posted on Nov 18, 2014    </span>
 <h3>Benefactors recognized for providing scholarships</h3>
 <p>Bob Johnson and Diego Espinoza will be among the honorees at the
 National Philanthropy Day luncheon on Nov. 21. Both were nominated
@@ -103,7 +103,6 @@ Agricultural Leadership Council</p>
 <p>&#x2022; Outstanding Philanthropic Youth: Austin Eaton<br>
 &#xA0;</br></p>
 
+```
 
-
-
-
+```

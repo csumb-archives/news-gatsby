@@ -4,10 +4,10 @@ date: January 16 2015
 slug: macarthur-fellows-to-visit-csumb
 ---
 
+`html`html
 
+<span class="date">Posted on Jan 16, 2015 </span>
 
-
-<span class="date">Posted on Jan 16, 2015    </span>
 <h3>Award-winners hope to inspire students</h3>
 <p>The MacArturos &#x2013; well, some of them &#x2013; are coming to Cal State
 Monterey Bay.</p>
@@ -65,7 +65,6 @@ Amalia Mesa-Bains, Ruth Behar, Camilo Vergara, Hugo
 Morales</br></em><br>
 &#xA0;</br></p>
 
+```
 
-
-
-
+```

@@ -4,6 +4,7 @@ date: March 25 2014
 slug: workshop-examines-disability-access
 ---
 
+```html
 
 
 
@@ -40,3 +41,4 @@ please call 582-3672 or e-mail <a href="mailto:student_disability_resources@csum
 
 
 
+```

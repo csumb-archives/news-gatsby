@@ -4,6 +4,7 @@ date: March 3 2013
 slug: provost-cruzuribe-accepts-new-position
 ---
 
+```html
 
 
 
@@ -75,3 +76,4 @@ position on an interim basis by the time she departs.<br>
 
 
 
+```

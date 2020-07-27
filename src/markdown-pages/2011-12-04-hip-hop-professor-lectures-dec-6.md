@@ -1,9 +1,10 @@
 ---
 title: Hiphop professor lectures on Dec. 6
 date: December 4 2011
-slug: hiphop-professor-lectures-on-dec--6
+slug: hiphop-professor-lectures-on-dec.-6
 ---
 
+```html
 
 
 
@@ -57,3 +58,4 @@ accommodations, contact Nicole Mendoza at 582-3009.</p>
 
 
 
+```

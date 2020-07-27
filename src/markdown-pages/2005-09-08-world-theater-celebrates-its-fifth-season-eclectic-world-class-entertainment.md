@@ -4,6 +4,7 @@ date: September 8 2005
 slug: world-theater-celebrates-its-fifth-season-of-eclectic-worldclass-entertainment
 ---
 
+```html
 
 
 
@@ -16,3 +17,4 @@ can catch a rising star as well as established artists here.<br>
 
 
 
+```

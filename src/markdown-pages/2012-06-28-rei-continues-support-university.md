@@ -4,6 +4,7 @@ date: June 28 2012
 slug: rei-continues-to-support-university
 ---
 
+```html
 
 
 
@@ -55,3 +56,4 @@ Return of the Natives at CSUMB.</a><br>
 
 
 
+```

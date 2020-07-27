@@ -4,6 +4,7 @@ date: July 23 2012
 slug: olympics-concerts-are-music-to-her-ears
 ---
 
+```html
 
 
 
@@ -59,3 +60,4 @@ Ninth Avenue, Carmel. Information: www.thempcs.org</em></p>
 
 
 
+```

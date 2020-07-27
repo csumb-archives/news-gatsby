@@ -1,9 +1,10 @@
 ---
 title: Tuition trends at California&apos;s 200 largest colleges
 date: July 15 2013
-slug: tuition-trends-at-california-apos-s-200-largest-colleges
+slug: tuition-trends-at-california&apos;s-200-largest-colleges
 ---
 
+```html
 
 
 
@@ -17,3 +18,4 @@ charges in-state students about $6,000 in annual tuition and fees .
 
 
 
+```

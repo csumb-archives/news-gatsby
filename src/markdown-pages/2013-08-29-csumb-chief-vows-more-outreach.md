@@ -4,9 +4,7 @@ date: August 29 2013
 slug: csumb-chief-vows-more-outreach
 ---
 
-
-
-
+```html
 <span class="date">Posted on Aug 29, 2013    </span>
 <p>The president of Cal State Monterey Bay vowed to widen the
 school&apos;s community outreach by performing some of it himself. . . .
@@ -19,3 +17,4 @@ broaden the university&apos;s reach into Salinas.<br>
 
 
 
+```

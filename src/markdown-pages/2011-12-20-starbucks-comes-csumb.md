@@ -4,6 +4,7 @@ date: December 20 2011
 slug: starbucks-comes-to-csumb
 ---
 
+```html
 
 
 
@@ -59,3 +60,4 @@ of operation.<br>
 
 
 
+```

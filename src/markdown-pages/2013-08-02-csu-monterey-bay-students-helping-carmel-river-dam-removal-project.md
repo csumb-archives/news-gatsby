@@ -4,6 +4,7 @@ date: August 2 2013
 slug: csu-monterey-bay-students-helping-carmel-river-dam-removal-project
 ---
 
+```html
 
 
 
@@ -29,3 +30,4 @@ wet in the name of environmental science.<br>
 
 
 
+```

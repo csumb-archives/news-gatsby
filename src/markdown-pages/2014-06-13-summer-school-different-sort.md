@@ -4,6 +4,7 @@ date: June 13 2014
 slug: summer-school-of-a-different-sort
 ---
 
+```html
 
 
 
@@ -193,3 +194,4 @@ Catalina Island&#x2028;. Courtesy of Dr. Corey Garza</em>&#xA0;<br>
 
 
 
+```

@@ -1,9 +1,10 @@
 ---
 title: Wakatsuki Houston visits CSUMB Sept. 28
 date: September 14 2012
-slug: wakatsuki-houston-visits-csumb-sept--28
+slug: wakatsuki-houston-visits-csumb-sept.-28
 ---
 
+```html
 
 
 
@@ -57,3 +58,4 @@ Cal Humanities.<br>
 
 
 
+```

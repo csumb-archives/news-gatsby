@@ -4,6 +4,7 @@ date: March 26 2013
 slug: social-justice-colloquium-looks-at-corporate-social-responsibility
 ---
 
+```html
 
 
 
@@ -52,3 +53,4 @@ Division of Social, Behavioral and Global Studies.</a></p>
 
 
 
+```

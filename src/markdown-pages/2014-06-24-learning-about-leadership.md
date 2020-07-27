@@ -4,6 +4,7 @@ date: June 24 2014
 slug: learning-about-leadership
 ---
 
+```html
 
 
 
@@ -48,3 +49,4 @@ the Panetta Institute</a><br>
 
 
 
+```

@@ -4,6 +4,7 @@ date: August 18 2014
 slug: students-on-computer-science-fast-track
 ---
 
+```html
 
 
 
@@ -20,3 +21,4 @@ just three years.<br>
 
 
 
+```

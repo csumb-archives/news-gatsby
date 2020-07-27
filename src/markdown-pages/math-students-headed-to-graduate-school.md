@@ -4,9 +4,58 @@ title: "Math students headed to graduate school"
 date: January 01 2020
 ---
 
-<h3>Destinations include Stanford, UC Santa Cruz, USC</h3><p>To Brenda Perez, math is essential to everyday life. “I like how you can relate everything to mathematics, one way or another,” said the senior from Salinas. “And what I like most is its challenging nature. Sometimes problems take hours to figure out. And when you do, you feel great.” Add her love of teaching –– “I always knew I wanted to teach” ­–– and you’ve got a math teacher in the making. The teaching part was clear early on. Not so with the math part. She entered CSU Monterey Bay without knowing what subject she would study. A presentation she attended about teaching high-demand subjects gave her the idea of teaching math. She had always enjoyed the subject. After talking with department chair Dr. Hongde Hu, she declared herself a math major with a teaching concentration. She’s driven to teach by the realization that many students struggle with the subject. “As a country, we are falling behind in math education, and underrepresented students, like myself, have the lowest math scores in the country,” she said.
-</p><p>Her hard work and near-perfect grade-point average have paid off.
-</p><p>Perez has been admitted to the prestigious Stanford Teacher Education Program. Her year of study will lead to a master of arts in education and a preliminary math teaching credential. Classes start in June. To help pay for it, she has received a Leonore Annenberg-Woodrow Wilson Fellowship, which includes a $30,000 stipend. The fellowship commits her to spend three years teaching in a high-needs secondary school. During that time, she will receive intensive mentoring. She’s quick to credit two people who influenced and inspired her, one a faculty member, the other her supervisor. Professor Hu was her academic adviser. “He guided me throughout my education, provided tutoring jobs for me and helped me obtain various scholarships to support my education,” she said. CSUMB’s California Mini Corps coordinator, Eva Silva, was her supervisor. Perez spent nearly three years working for the Mini Corps, a program that employs college students to tutor migrant children who need help with their schoolwork. It also provides valuable experience for future teachers. “Eva has taught me so much about teaching and meeting the needs of our students. She was my mentor and teacher, and has truly been an inspiration to me,” Perez said. Jazehel Jimenez and Karen Martinez have much in common with Perez – both are from Salinas, started CSUMB in 2009 not knowing what major to pursue and ended up in math. They, too, are headed to graduate school. Dr. Hu encouraged all of them to select the secondary teaching concentration, and helped them find opportunities to tutor or work as teaching assistants. Jimenez, who has a 2-year-old daughter, has been accepted to the master’s degree programs at UC Santa Cruz, Stanford and USC. Stanford has offered her a $20,000 fellowship, and she has accepted the offer.
-</p><p>“I needed to determine which program would benefit my daughter as well as me,” she said. Martinez was accepted into the master’s programs at UC Santa Cruz and USC. She hasn't yet decided which one she'll attend. <a href="http://csumb.edu/math">Learn about the Mathematics and Statistics Department at CSUMB</a>.
-</p><p><em>Photo courtesy of Brenda Perez</em>  
+```html
+<h3>Destinations include Stanford, UC Santa Cruz, USC</h3>
+<p>
+  To Brenda Perez, math is essential to everyday life. “I like how you can
+  relate everything to mathematics, one way or another,” said the senior from
+  Salinas. “And what I like most is its challenging nature. Sometimes problems
+  take hours to figure out. And when you do, you feel great.” Add her love of
+  teaching –– “I always knew I wanted to teach” ­–– and you’ve got a math
+  teacher in the making. The teaching part was clear early on. Not so with the
+  math part. She entered CSU Monterey Bay without knowing what subject she would
+  study. A presentation she attended about teaching high-demand subjects gave
+  her the idea of teaching math. She had always enjoyed the subject. After
+  talking with department chair Dr. Hongde Hu, she declared herself a math major
+  with a teaching concentration. She’s driven to teach by the realization that
+  many students struggle with the subject. “As a country, we are falling behind
+  in math education, and underrepresented students, like myself, have the lowest
+  math scores in the country,” she said.
 </p>
+<p>Her hard work and near-perfect grade-point average have paid off.</p>
+<p>
+  Perez has been admitted to the prestigious Stanford Teacher Education Program.
+  Her year of study will lead to a master of arts in education and a preliminary
+  math teaching credential. Classes start in June. To help pay for it, she has
+  received a Leonore Annenberg-Woodrow Wilson Fellowship, which includes a
+  $30,000 stipend. The fellowship commits her to spend three years teaching in a
+  high-needs secondary school. During that time, she will receive intensive
+  mentoring. She’s quick to credit two people who influenced and inspired her,
+  one a faculty member, the other her supervisor. Professor Hu was her academic
+  adviser. “He guided me throughout my education, provided tutoring jobs for me
+  and helped me obtain various scholarships to support my education,” she said.
+  CSUMB’s California Mini Corps coordinator, Eva Silva, was her supervisor.
+  Perez spent nearly three years working for the Mini Corps, a program that
+  employs college students to tutor migrant children who need help with their
+  schoolwork. It also provides valuable experience for future teachers. “Eva has
+  taught me so much about teaching and meeting the needs of our students. She
+  was my mentor and teacher, and has truly been an inspiration to me,” Perez
+  said. Jazehel Jimenez and Karen Martinez have much in common with Perez – both
+  are from Salinas, started CSUMB in 2009 not knowing what major to pursue and
+  ended up in math. They, too, are headed to graduate school. Dr. Hu encouraged
+  all of them to select the secondary teaching concentration, and helped them
+  find opportunities to tutor or work as teaching assistants. Jimenez, who has a
+  2-year-old daughter, has been accepted to the master’s degree programs at UC
+  Santa Cruz, Stanford and USC. Stanford has offered her a $20,000 fellowship,
+  and she has accepted the offer.
+</p>
+<p>
+  “I needed to determine which program would benefit my daughter as well as me,”
+  she said. Martinez was accepted into the master’s programs at UC Santa Cruz
+  and USC. She hasn't yet decided which one she'll attend.
+  <a href="http://csumb.edu/math"
+    >Learn about the Mathematics and Statistics Department at CSUMB</a
+  >.
+</p>
+<p><em>Photo courtesy of Brenda Perez</em></p>
+```

@@ -4,6 +4,7 @@ date: March 26 2014
 slug: on-the-outside-looking-in
 ---
 
+```html
 
 
 
@@ -62,3 +63,4 @@ characters&#x2019; external and internal landscapes.</em><br>
 
 
 
+```

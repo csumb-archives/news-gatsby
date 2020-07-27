@@ -4,6 +4,7 @@ date: December 14 2006
 slug: erik-edmonds
 ---
 
+```html
 
 
 
@@ -78,3 +79,4 @@ the school. That place changed my life.&quot;</br></br></br></br></br></br></br>
 
 
 
+```

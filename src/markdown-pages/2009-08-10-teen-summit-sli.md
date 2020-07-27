@@ -1,9 +1,10 @@
 ---
 title: When youth speak . . . we listen
 date: August 10 2009
-slug: when-youth-speak-------we-listen
+slug: when-youth-speak-.-.-.-we-listen
 ---
 
+```html
 
 
 
@@ -104,3 +105,4 @@ fall semester to do just that.</p>
 
 
 
+```

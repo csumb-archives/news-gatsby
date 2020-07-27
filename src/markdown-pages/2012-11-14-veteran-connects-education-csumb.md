@@ -1,9 +1,10 @@
 ---
 title: Veteran &apos;connects to education&apos; at CSUMB
 date: November 14 2012
-slug: veteran--apos-connects-to-education-apos--at-csumb
+slug: veteran-&apos;connects-to-education&apos;-at-csumb
 ---
 
+```html
 
 
 
@@ -96,3 +97,4 @@ Travis Fugate and his service dog, Mr. Fess, at CSUMB</em></p>
 
 
 
+```

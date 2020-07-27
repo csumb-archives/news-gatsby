@@ -4,6 +4,7 @@ date: April 23 2014
 slug: csumb-goes-green-with-earth-day-events
 ---
 
+```html
 
 
 
@@ -98,3 +99,4 @@ thrown away.</p>
 
 
 
+```

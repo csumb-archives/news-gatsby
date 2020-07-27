@@ -4,6 +4,7 @@ date: October 4 2011
 slug: csumb-to-host-9-11-commemoration-sunday
 ---
 
+```html
 
 
 
@@ -51,3 +52,4 @@ a discussion and ended with a candlelight vigil.</p>
         </object>-->
 <video controls="" width="425" height="350">
 </video></div></div></div></div></div></div></fieldset>
+```

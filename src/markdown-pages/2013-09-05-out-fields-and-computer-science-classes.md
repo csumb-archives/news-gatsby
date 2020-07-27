@@ -4,6 +4,7 @@ date: September 5 2013
 slug: out-of-the-fields-and-into-computer-science-classes
 ---
 
+```html
 
 
 
@@ -18,3 +19,4 @@ CSU Monterey Bay and Hartnell College.<br>
 
 
 
+```

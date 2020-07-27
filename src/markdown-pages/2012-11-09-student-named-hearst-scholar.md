@@ -4,10 +4,10 @@ date: November 9 2012
 slug: jose-hernandez-named-hearst-scholar
 ---
 
+`html`html
 
+<span class="date">Posted on Nov 09, 2012 </span>
 
-
-<span class="date">Posted on Nov 09, 2012    </span>
 <p>Cal State Monterey Bay student Jose Hernandez has received the
 2012 William R. Hearst/CSU Trustees&#x2019; Award for Outstanding
 Achievement.</p>
@@ -53,7 +53,6 @@ item, a time when people are acknowledged for serving the community
 and for being role models.&#xA0;</p>
 <p>More information is available <a href="http://www.calstate.edu/foundation/hearst/" rel="nofollow">here</a>.&#xA0;</p>
 
+```
 
-
-
-
+```

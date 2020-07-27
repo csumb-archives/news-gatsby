@@ -4,6 +4,7 @@ date: February 4 2014
 slug: sustainability-and-a-sense-of-place
 ---
 
+```html
 
 
 
@@ -54,3 +55,4 @@ For more information, <a href="http://csumb.edu/focus" rel="nofollow">click here
 
 
 
+```

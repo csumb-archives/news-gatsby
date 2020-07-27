@@ -4,8 +4,58 @@ title: "Teacher-to-be adds up $100K in stipends"
 date: January 01 2020
 ---
 
-<h2>Math graduate headed to USC</h2><p>Christina Depweg sees the world as a series of logic puzzles to be solved.
-</p><p>“I love how numbers are so interconnected and full of relationships,” said the senior math major from Poway. “Math problems and proofs are like puzzles and mazes that we have to work out.” A Math for America Fellowship has worked out for her. The nonprofit organization wants to improve the quality of math teachers and provide them with the support they need to stay in the profession. It started in New York and now has chapters in Los Angeles, San Diego, Washington, D.C., Boston and Utah.
-</p><p>Depweg’s fellowship will cover all the costs for her master’s degree in math education and her teaching credential at USC and will provide an additional $100,000 over five years – one year while she’s in graduate school and four years while she’s teaching in a high school in Los Angeles. The accelerated program starts in June; she’ll graduate with her master's degree in May 2013. Depweg can’t wait to get in the classroom. “I have wanted to become a teacher since I was a little girl,” she said. “I used to teach math to my ‘pretend classroom’ at my house with a whiteboard and pointer stick and I’ve followed my passion since then.” That early dream was reinforced by an experience in high school, when she worked at an after-school program in an elementary school. “A fifth-grader was having trouble understanding three-digit multiplication and was crying because the other teacher could not help him,” she said. After calming him down, she related the troublesome exercise to one that he had already mastered. “The look of joy and accomplishment on his face was the moment that I knew I was meant to be a math teacher.” She’s quick to point out that she definitely doesn’t consider herself a math nerd – she didn’t do a lot of advanced placement classes in high school, and earned higher SAT scores in English than math. But then she starts to talk about math . . . “There’s just something about the abstract thinking that math requires that challenges you to see the world in a different way than you ever thought possible. It’s the challenge that inspires me to tackle whatever obstacle is presented in front of me and knowing that I can use my problem-solving skills to figure out anything.” She won’t have any problem finding a job once she’s finished her graduate program. Well-qualified math teachers are in short supply these days. Mathematicians have many opportunities in an increasingly technical economy – opportunities that are more lucrative and less demanding than teaching teenagers. Depweg is the university’s first Math for America Fellowship winner. "We are pleased and proud that Christina has been awarded a Math for America Fellowship," said Dr. Hongde Hu, chair of the Mathematics Department at CSUMB. “With her talent, energy, and dedication, and with the support of this highly selective program, Christina will help to meet the pressing need for strong high school mathematics teachers.”
-</p><p><em>Photo courtesy of Christina Depweg, who will graduate Summa Cum Laude with a Bachelor of Science in Mathematics and a minor in Human Development  </em>
+```html
+<h2>Math graduate headed to USC</h2>
+<p>
+  Christina Depweg sees the world as a series of logic puzzles to be solved.
 </p>
+<p>
+  “I love how numbers are so interconnected and full of relationships,” said the
+  senior math major from Poway. “Math problems and proofs are like puzzles and
+  mazes that we have to work out.” A Math for America Fellowship has worked out
+  for her. The nonprofit organization wants to improve the quality of math
+  teachers and provide them with the support they need to stay in the
+  profession. It started in New York and now has chapters in Los Angeles, San
+  Diego, Washington, D.C., Boston and Utah.
+</p>
+<p>
+  Depweg’s fellowship will cover all the costs for her master’s degree in math
+  education and her teaching credential at USC and will provide an additional
+  $100,000 over five years – one year while she’s in graduate school and four
+  years while she’s teaching in a high school in Los Angeles. The accelerated
+  program starts in June; she’ll graduate with her master's degree in May 2013.
+  Depweg can’t wait to get in the classroom. “I have wanted to become a teacher
+  since I was a little girl,” she said. “I used to teach math to my ‘pretend
+  classroom’ at my house with a whiteboard and pointer stick and I’ve followed
+  my passion since then.” That early dream was reinforced by an experience in
+  high school, when she worked at an after-school program in an elementary
+  school. “A fifth-grader was having trouble understanding three-digit
+  multiplication and was crying because the other teacher could not help him,”
+  she said. After calming him down, she related the troublesome exercise to one
+  that he had already mastered. “The look of joy and accomplishment on his face
+  was the moment that I knew I was meant to be a math teacher.” She’s quick to
+  point out that she definitely doesn’t consider herself a math nerd – she
+  didn’t do a lot of advanced placement classes in high school, and earned
+  higher SAT scores in English than math. But then she starts to talk about math
+  . . . “There’s just something about the abstract thinking that math requires
+  that challenges you to see the world in a different way than you ever thought
+  possible. It’s the challenge that inspires me to tackle whatever obstacle is
+  presented in front of me and knowing that I can use my problem-solving skills
+  to figure out anything.” She won’t have any problem finding a job once she’s
+  finished her graduate program. Well-qualified math teachers are in short
+  supply these days. Mathematicians have many opportunities in an increasingly
+  technical economy – opportunities that are more lucrative and less demanding
+  than teaching teenagers. Depweg is the university’s first Math for America
+  Fellowship winner. "We are pleased and proud that Christina has been awarded a
+  Math for America Fellowship," said Dr. Hongde Hu, chair of the Mathematics
+  Department at CSUMB. “With her talent, energy, and dedication, and with the
+  support of this highly selective program, Christina will help to meet the
+  pressing need for strong high school mathematics teachers.”
+</p>
+<p>
+  <em
+    >Photo courtesy of Christina Depweg, who will graduate Summa Cum Laude with
+    a Bachelor of Science in Mathematics and a minor in Human Development
+  </em>
+</p>
+```

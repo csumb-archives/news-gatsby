@@ -4,6 +4,7 @@ date: October 1 2012
 slug: mcnair-scholars-program-lands-grant
 ---
 
+```html
 
 
 
@@ -63,3 +64,4 @@ for undergraduate research at CSUMB <a href="http://uroc.csumb.edu" rel="nofollo
 
 
 
+```

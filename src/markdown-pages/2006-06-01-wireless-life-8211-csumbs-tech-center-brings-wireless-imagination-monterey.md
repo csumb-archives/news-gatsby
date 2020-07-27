@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Wireless Life &#x2013; CSUMB&apos;s tech center brings wireless imagination to
+title:
+  &gt;- Wireless Life &#x2013; CSUMB&apos;s tech center brings wireless imagination to
   Monterey
 date: June 1 2006
-slug: &gt;-
-  wireless-life---x2013--csumb-apos-s-tech-center-brings-wireless-imagination-to-monterey
+slug: &gt;- wireless-life-&#x2013;-csumb&apos;s-tech-center-brings-wireless-imagination-to-monterey
 ---
 
+```html
 
 
 
@@ -21,3 +21,4 @@ of.&quot;<br>
 
 
 
+```

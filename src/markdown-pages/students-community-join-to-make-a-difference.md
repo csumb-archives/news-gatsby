@@ -4,6 +4,45 @@ title: "Students, community join to Make a Difference"
 date: January 01 2020
 ---
 
-<h3>Annual day of service to be celebrated Oct. 27</h3><p>CSU Monterey Bay students will fan out across the county on Saturday, Oct. 27, to clean up the Chinatown area of Salinas, do environmental restoration work, and help in a myriad of other ways. Make a Difference Day is celebrated every year on the fourth Saturday of October. Millions of people across the country rally together to help change the world, making it the country’s largest day of volunteering. The goal of Make A Difference Day is to inspire and encourage local residents to participate in community service projects. Large or small, as individuals or in groups, one-day or ongoing – the nature of the service isn’t as important as simply giving time, effort, resources, skills or support to make a difference in the lives of people in the community. This year, CSUMB is partnering with the United Way Monterey County Volunteer Center to make this the biggest Make a Difference Day that Monterey County has ever seen. The goal is to get 500 students registered to participate by Oct. 20. Students can pledge to participate as individuals or as a group, club or class. Sign up <a href="http://service.csumb.edu/2012-make-difference-day">here</a>. Make a Difference Day volunteer opportunities can be found <a href="http://service.csumb.edu/make-difference-day-opportunities">here</a> or <a href="http://www.volunteermontereycounty.org/csumb_serves">here</a>. As of Oct. 8, approximately 100 students have signed up. They’re being encouraged to wear CSUMB attire while doing their volunteer work so the county can see the impact they are making. CSUMB’s Make a Difference Day is coordinated by Purposeful Service Opportunities, a project of the Service Learning Institute and AmeriCorps’ Volunteer Infrastructure Project. More information about service opportunities is available <a href="http://service.csumb.edu/purposeful-service-opportunities">here</a> or by contacting Steven Goings at <a href="&#109;&#97;&#105;&#x6c;&#x74;o&#58;&#115;&#103;&#x6f;&#x69;n&#103;&#115;&#64;&#x63;&#x73;u&#109;&#98;&#x2e;&#x65;&#x64;u">sgoings@csumb.edu</a> or at 582-4659. 
-</p><p><em>Photo courtesy of Steven Goings CSUMB students help clean up the Chinatown neighborhood of Salinas last year on Make a Difference Day</em>
+```html
+<h3>Annual day of service to be celebrated Oct. 27</h3>
+<p>
+  CSU Monterey Bay students will fan out across the county on Saturday, Oct. 27,
+  to clean up the Chinatown area of Salinas, do environmental restoration work,
+  and help in a myriad of other ways. Make a Difference Day is celebrated every
+  year on the fourth Saturday of October. Millions of people across the country
+  rally together to help change the world, making it the country’s largest day
+  of volunteering. The goal of Make A Difference Day is to inspire and encourage
+  local residents to participate in community service projects. Large or small,
+  as individuals or in groups, one-day or ongoing – the nature of the service
+  isn’t as important as simply giving time, effort, resources, skills or support
+  to make a difference in the lives of people in the community. This year, CSUMB
+  is partnering with the United Way Monterey County Volunteer Center to make
+  this the biggest Make a Difference Day that Monterey County has ever seen. The
+  goal is to get 500 students registered to participate by Oct. 20. Students can
+  pledge to participate as individuals or as a group, club or class. Sign up
+  <a href="http://service.csumb.edu/2012-make-difference-day">here</a>. Make a
+  Difference Day volunteer opportunities can be found
+  <a href="http://service.csumb.edu/make-difference-day-opportunities">here</a>
+  or <a href="http://www.volunteermontereycounty.org/csumb_serves">here</a>. As
+  of Oct. 8, approximately 100 students have signed up. They’re being encouraged
+  to wear CSUMB attire while doing their volunteer work so the county can see
+  the impact they are making. CSUMB’s Make a Difference Day is coordinated by
+  Purposeful Service Opportunities, a project of the Service Learning Institute
+  and AmeriCorps’ Volunteer Infrastructure Project. More information about
+  service opportunities is available
+  <a href="http://service.csumb.edu/purposeful-service-opportunities">here</a>
+  or by contacting Steven Goings at
+  <a
+    href="&#109;&#97;&#105;&#x6c;&#x74;o&#58;&#115;&#103;&#x6f;&#x69;n&#103;&#115;&#64;&#x63;&#x73;u&#109;&#98;&#x2e;&#x65;&#x64;u"
+    >sgoings@csumb.edu</a
+  >
+  or at 582-4659.
 </p>
+<p>
+  <em
+    >Photo courtesy of Steven Goings CSUMB students help clean up the Chinatown
+    neighborhood of Salinas last year on Make a Difference Day</em
+  >
+</p>
+```

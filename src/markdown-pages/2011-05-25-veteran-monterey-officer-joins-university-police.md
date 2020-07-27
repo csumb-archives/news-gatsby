@@ -4,6 +4,7 @@ date: May 25 2011
 slug: veteran-monterey-officer-joins-university-police
 ---
 
+```html
 
 
 
@@ -36,3 +37,4 @@ Short has his badge pinned on by his father, Phil Short</em></p>
 
 
 
+```

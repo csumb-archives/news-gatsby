@@ -4,6 +4,7 @@ date: February 16 2012
 slug: museum-director-kicks-off-visiting-artist-series
 ---
 
+```html
 
 
 
@@ -45,3 +46,4 @@ CSUMB, <a href="http://vpa.csumb.edu/vpa-home-page" rel="nofollow">click here</a
 
 
 
+```

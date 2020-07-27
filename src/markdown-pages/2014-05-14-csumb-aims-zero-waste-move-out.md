@@ -4,6 +4,7 @@ date: May 14 2014
 slug: csumb-aims-for-zerowaste-moveout
 ---
 
+```html
 
 
 
@@ -78,3 +79,4 @@ Bottom photo: Chalk drawing reminds people to recycle</br></em><br>
 
 
 
+```

@@ -4,7 +4,46 @@ title: "Magazine names CSUMB 'green' campus"
 date: January 01 2020
 ---
 
-<h3>Princeton Review calls campus "environmentally responsible"</h3><p>California State University, Monterey Bay has been named one of the nation’s most environmentally responsible schools by the Princeton Review and the U.S. Green Building Council.
-</p><p>The “Princeton Review’s Guide to 311 Green Colleges” profiles campuses that demonstrate notable commitments to sustainability in their academic offerings, campus infrastructure, activities and career preparation. The 2011 edition of the guide was released today, just two days prior to the April 22 celebration of Earth Day. And it is online only – to save trees.
-</p><p>CSU Monterey Bay was praised for its initiatives including the revolving Energy Innovations Fund that supports energy-saving projects on campus and repays itself through energy savings, and the 6.4-acre solar installation that is meeting 17 percent of the university’s electricity needs. Also drawing praise was the university’s food service operations, which include organic foods, compostable packaging and serving products, and recycling of cooking oil. All buildings on campus have designated recycling areas, and the ubiquity of the blue recycle bins has helped the university achieve a 50 percent waste diversion rate. The green learning opportunities, which allow students to take courses in subjects as diverse as environmental writing and food ethics, were also cited. The guide pointed out that CSU Monterey Bay's commitment to green continues all the way to graduation – when students cross the stage to receive their degrees in gowns sewn with material made from recycled plastic bottles. “It’s rewarding to be recognized for something that is so central to our university,” said President Dianne Harrison. “Sustainability is a core principle here. I hope this means that even more students who care about sustainability will find out about us and choose to study here.” Schools were chosen based on a 2010 survey the Princeton Review conducted of hundreds of colleges to tally its annual “Green Rating” scores for school profiles in its college guidebooks and website. The survey asked administrators more than 50 questions about their institution’s sustainability-related policies, practices and programs. Green Ratings were tallied for more than 700 institutions; those scoring 80 or above on a scale of 60 to 99 made the list. The free guide can be downloaded <a href="http://www.princetonreview.com/greenguide">here</a>. More information on CSUMB’s commitment to sustainability can be found <a href="http://csumb.edu/green">here</a>.  
+```html
+<h3>Princeton Review calls campus "environmentally responsible"</h3>
+<p>
+  California State University, Monterey Bay has been named one of the nation’s
+  most environmentally responsible schools by the Princeton Review and the U.S.
+  Green Building Council.
 </p>
+<p>
+  The “Princeton Review’s Guide to 311 Green Colleges” profiles campuses that
+  demonstrate notable commitments to sustainability in their academic offerings,
+  campus infrastructure, activities and career preparation. The 2011 edition of
+  the guide was released today, just two days prior to the April 22 celebration
+  of Earth Day. And it is online only – to save trees.
+</p>
+<p>
+  CSU Monterey Bay was praised for its initiatives including the revolving
+  Energy Innovations Fund that supports energy-saving projects on campus and
+  repays itself through energy savings, and the 6.4-acre solar installation that
+  is meeting 17 percent of the university’s electricity needs. Also drawing
+  praise was the university’s food service operations, which include organic
+  foods, compostable packaging and serving products, and recycling of cooking
+  oil. All buildings on campus have designated recycling areas, and the ubiquity
+  of the blue recycle bins has helped the university achieve a 50 percent waste
+  diversion rate. The green learning opportunities, which allow students to take
+  courses in subjects as diverse as environmental writing and food ethics, were
+  also cited. The guide pointed out that CSU Monterey Bay's commitment to green
+  continues all the way to graduation – when students cross the stage to receive
+  their degrees in gowns sewn with material made from recycled plastic bottles.
+  “It’s rewarding to be recognized for something that is so central to our
+  university,” said President Dianne Harrison. “Sustainability is a core
+  principle here. I hope this means that even more students who care about
+  sustainability will find out about us and choose to study here.” Schools were
+  chosen based on a 2010 survey the Princeton Review conducted of hundreds of
+  colleges to tally its annual “Green Rating” scores for school profiles in its
+  college guidebooks and website. The survey asked administrators more than 50
+  questions about their institution’s sustainability-related policies, practices
+  and programs. Green Ratings were tallied for more than 700 institutions; those
+  scoring 80 or above on a scale of 60 to 99 made the list. The free guide can
+  be downloaded <a href="http://www.princetonreview.com/greenguide">here</a>.
+  More information on CSUMB’s commitment to sustainability can be found
+  <a href="http://csumb.edu/green">here</a>.
+</p>
+```

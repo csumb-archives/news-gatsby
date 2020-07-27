@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  CSUMB grad and firsttime playwright Erica Hemenway talks about the class
+title:
+  &gt;- CSUMB grad and firsttime playwright Erica Hemenway talks about the class
   assignment that led to her most unlikely discovery
 date: February 9 2006
-slug: &gt;-
-  csumb-grad-and-firsttime-playwright-erica-hemenway-talks-about-the-class-assignment-that-led-to-her-most-unlikely-discovery
+slug: &gt;- csumb-grad-and-firsttime-playwright-erica-hemenway-talks-about-the-class-assignment-that-led-to-her-most-unlikely-discovery
 ---
 
+```html
 
 
 
@@ -21,3 +21,4 @@ Musical &amp; Dramatic Academy.<br>
 
 
 
+```

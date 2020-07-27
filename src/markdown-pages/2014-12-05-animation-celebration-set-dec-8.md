@@ -1,9 +1,10 @@
 ---
 title: An animation celebration set for Dec 8.
 date: December 5 2014
-slug: an-animation-celebration-set-for-dec-8-
+slug: an-animation-celebration-set-for-dec-8.
 ---
 
+```html
 
 
 
@@ -33,3 +34,4 @@ be purchased from a machine on the lot or <a href="http://parking.csumb.edu/buy-
 
 
 
+```

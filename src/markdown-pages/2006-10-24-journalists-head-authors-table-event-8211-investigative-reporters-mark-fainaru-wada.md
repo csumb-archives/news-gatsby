@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Journalists at head of Author&apos;s Table event &#x2013; investigative
+title:
+  &gt;- Journalists at head of Author&apos;s Table event &#x2013; investigative
   reporters Mark FainaruWada and Lance Williams broke open steroid scandal story
 date: October 24 2006
-slug: &gt;-
-  journalists-at-head-of-author-apos-s-table-event---x2013--investigative-reporters-mark-fainaruwada-and-lance-williams-broke-open-steroid-scandal-story
+slug: &gt;- journalists-at-head-of-author&apos;s-table-event-&#x2013;-investigative-reporters-mark-fainaruwada-and-lance-williams-broke-open-steroid-scandal-story
 ---
 
+```html
 
 
 
@@ -22,3 +22,4 @@ fans at intimate dinners.<br>
 
 
 
+```

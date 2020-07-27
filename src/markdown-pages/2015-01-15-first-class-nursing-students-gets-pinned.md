@@ -1,9 +1,10 @@
 ---
 title: First class of nursing students gets &apos;pinned&apos;
 date: January 15 2015
-slug: first-class-of-nursing-students-gets--apos-pinned-apos-
+slug: first-class-of-nursing-students-gets-&apos;pinned&apos;
 ---
 
+```html
 
 
 
@@ -65,3 +66,4 @@ CSUMB</br></br></em></p>
 
 
 
+```

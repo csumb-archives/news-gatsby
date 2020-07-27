@@ -4,6 +4,7 @@ date: July 1 2014
 slug: endless-summer
 ---
 
+```html
 
 
 
@@ -19,3 +20,4 @@ year&apos;s Summer Arts program.<br>
 
 
 
+```

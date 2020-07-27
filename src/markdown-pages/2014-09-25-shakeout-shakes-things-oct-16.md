@@ -1,9 +1,10 @@
 ---
 title: ShakeOut shakes things up on Oct. 16
 date: September 25 2014
-slug: shakeout-shakes-things-up-on-oct--16
+slug: shakeout-shakes-things-up-on-oct.-16
 ---
 
+```html
 
 
 
@@ -97,3 +98,4 @@ ShakeOut</a><br>
 
 
 
+```

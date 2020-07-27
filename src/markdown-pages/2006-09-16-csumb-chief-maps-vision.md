@@ -4,6 +4,7 @@ date: September 16 2006
 slug: csumb-chief-maps-vision
 ---
 
+```html
 
 
 
@@ -17,3 +18,4 @@ immediate challenges with enrollment and construction.<br>
 
 
 
+```

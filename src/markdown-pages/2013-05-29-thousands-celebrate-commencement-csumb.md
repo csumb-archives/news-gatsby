@@ -4,6 +4,7 @@ date: May 29 2013
 slug: thousands-celebrate-commencement
 ---
 
+```html
 
 
 
@@ -112,3 +113,4 @@ video by the Monterey Herald.</a></p>
 
 
 
+```

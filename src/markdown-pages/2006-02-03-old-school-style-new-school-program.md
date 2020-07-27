@@ -4,6 +4,7 @@ date: February 3 2006
 slug: oldschool-style-at-newschool-program
 ---
 
+```html
 
 
 
@@ -19,3 +20,4 @@ Ord, a long-time military base selected for decommissioning in
 
 
 
+```

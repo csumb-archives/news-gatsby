@@ -4,19 +4,128 @@ title: "2013: The Year in Review"
 date: January 01 2020
 ---
 
-<p>The <a href="http://news.csumb.edu/news/2013/nov/18/campus&#45;celebrates&#45;investiture&#45;president&#45;eduardo&#45;ochoa">investiture of the president</a>, groundbreaking for a new academic building and good news on the budget front highlighted 2013 at CSU Monterey Bay.
-</p><p>President Eduardo Ochoa laid out a <a href="http://president.csumb.edu/sites/default/files/52/attachments/files/presidentochoasinvestiturespeech0.pdf">blueprint for the university’s future</a> during his investiture ceremony Nov. 15 in which fellow academics, staff and members of the community officially marked his position at the university.
-</p><p>The formal investiture — akin to a presidential swearing&#45;in — came six months after Dr. Ochoa took the position on a permanent basis. Dozens of academic dignitaries in colorful gowns, hoods and mortarboards formed a procession into the World Theater for the event. Its theme was “advancing the vision.”?
-</p><p>The following day, more than 400 students, faculty and staff members took part in a day of service and learning, volunteering at 30 sites around the area. President Ochoa visited four of those sites to offer support and encouragement.
-</p><p>Earlier that week, community leaders and friends of the university joined the campus community to mark the groundbreaking for a<a href="http://news.csumb.edu/news/2013/nov/18/ceremonial&#45;groundbreaking&#45;bit&#45;building">new academic building</a>. The $43 million, 58,000&#45;square&#45;foot structure will house the College of Business and the School of School of Computing and Design. The technology&#45;rich building will have eight classrooms, 12 labs, offices, conference rooms and student study areas. There was good news on the budget front. An improving economy and the voters’ passage of Proposition 30 put an end to budget reductions that had cut state support by more than 30 percent since 2007&#45;08. Tuition fees remained the same as the year before, making it easier for students and their families to plan. The improved budget prospects mean that the campus can admit more students. In the fall, 5,732 students attended classes, the largest enrollment in the university’s history.
-</p><p>Another bit of good news: In his investiture remarks, President Ochoa announced that $30 million has been made available by the CSU to <a href="http://president.csumb.edu/news/2013/dec/6/progress&#45;blight&#45;removal">remove all 78 of the remaining obsolete former Army buildings on campus.</a> The project is expected take three to five years.
-</p><p>Among the year’s academic milestones:
-</p><p>• The <a href="http://business.csumb.edu/">College of Business</a> was established and <a href="http://news.csumb.edu/news/2013/may/31/business&#45;dean&#45;joins&#45;csumb?utm_source=card&amp;utmmedium=tall&amp;utmcampaign=card">Dr. Shyam Kamath</a> was hired to be the first dean
-</p><p>• The first graduates of the <a href="http://msw.csumb.edu/">Master of Social Work</a> program received their degrees in May
-</p><p>• The first class of the <a href="https://sites.google.com/site/csitin3/">CSIT&#45;in&#45;3 program</a>, an innovative collaboration with a local community college that allows students to earn a degree in computer science in just three years, started in August with a class of 32.
-</p><p>Innovation was a theme throughout the year. More than 20 faculty projects to promote innovation in teaching and learning were funded through the annual fund. And the <a href="http://president.csumb.edu/speaker&#45;series">President’s Speaker Series</a>, “Disruptive Innovation in Higher Education,” focused on the challenges facing higher education in an era of increased demand, changing demographics and declining state support.
-</p><p>Last spring, CSUMB held a <a href="http://president.csumb.edu/news/2013/mar/28/raising&#45;our&#45;visibility&#45;community">welcome home event for Leon Panetta</a>. “It was a great pleasure to host the event because of the instrumental role that he played in the founding of our university and our close ties with the Panetta Institute, President Ochoa said.
-</p><p>Another event that brought many community members to campus was the <a href="http://news.csumb.edu/news/2013/dec/4/planning&#45;future&#45;fort&#45;ord">Fort Ord Colloquium</a> in December. The two&#45;day event featured national experts in planning, economic development and environmental protection. The colloquium was an attempt to broaden the discussion from the merits of specific projects to a more all&#45;encompassing vision.
-</p><p>CSU Chancellor Timothy White made his official campus visit in early October, meeting with students, faculty and staff.
-</p><p>The <a href="http://extended.csumb.edu/osher&#45;lifelong&#45;learning.htm">Osher Lifelong Learning Institute</a> – known as OLLI – brought a record number of people to campus. It recently concluded its sixth year of offering stimulating educational opportunities to those 50 and older. Its 549 members enrolled in a record 78 class offerings for a total course attendance of 2,272. The program also extended its reach by partnering with the Monterey Museum of Art, the Museum of Monterey, the World Affairs Council and the National Steinbeck Center.
+```html
+<p>
+  The
+  <a
+    href="http://news.csumb.edu/news/2013/nov/18/campus&#45;celebrates&#45;investiture&#45;president&#45;eduardo&#45;ochoa"
+    >investiture of the president</a
+  >, groundbreaking for a new academic building and good news on the budget
+  front highlighted 2013 at CSU Monterey Bay.
 </p>
+<p>
+  President Eduardo Ochoa laid out a
+  <a
+    href="http://president.csumb.edu/sites/default/files/52/attachments/files/presidentochoasinvestiturespeech0.pdf"
+    >blueprint for the university’s future</a
+  >
+  during his investiture ceremony Nov. 15 in which fellow academics, staff and
+  members of the community officially marked his position at the university.
+</p>
+<p>
+  The formal investiture — akin to a presidential swearing&#45;in — came six
+  months after Dr. Ochoa took the position on a permanent basis. Dozens of
+  academic dignitaries in colorful gowns, hoods and mortarboards formed a
+  procession into the World Theater for the event. Its theme was “advancing the
+  vision.”?
+</p>
+<p>
+  The following day, more than 400 students, faculty and staff members took part
+  in a day of service and learning, volunteering at 30 sites around the area.
+  President Ochoa visited four of those sites to offer support and
+  encouragement.
+</p>
+<p>
+  Earlier that week, community leaders and friends of the university joined the
+  campus community to mark the groundbreaking for a<a
+    href="http://news.csumb.edu/news/2013/nov/18/ceremonial&#45;groundbreaking&#45;bit&#45;building"
+    >new academic building</a
+  >. The $43 million, 58,000&#45;square&#45;foot structure will house the
+  College of Business and the School of School of Computing and Design. The
+  technology&#45;rich building will have eight classrooms, 12 labs, offices,
+  conference rooms and student study areas. There was good news on the budget
+  front. An improving economy and the voters’ passage of Proposition 30 put an
+  end to budget reductions that had cut state support by more than 30 percent
+  since 2007&#45;08. Tuition fees remained the same as the year before, making
+  it easier for students and their families to plan. The improved budget
+  prospects mean that the campus can admit more students. In the fall, 5,732
+  students attended classes, the largest enrollment in the university’s history.
+</p>
+<p>
+  Another bit of good news: In his investiture remarks, President Ochoa
+  announced that $30 million has been made available by the CSU to
+  <a
+    href="http://president.csumb.edu/news/2013/dec/6/progress&#45;blight&#45;removal"
+    >remove all 78 of the remaining obsolete former Army buildings on campus.</a
+  >
+  The project is expected take three to five years.
+</p>
+<p>Among the year’s academic milestones:</p>
+<p>
+  • The <a href="http://business.csumb.edu/">College of Business</a> was
+  established and
+  <a
+    href="http://news.csumb.edu/news/2013/may/31/business&#45;dean&#45;joins&#45;csumb?utm_source=card&amp;utmmedium=tall&amp;utmcampaign=card"
+    >Dr. Shyam Kamath</a
+  >
+  was hired to be the first dean
+</p>
+<p>
+  • The first graduates of the
+  <a href="http://msw.csumb.edu/">Master of Social Work</a> program received
+  their degrees in May
+</p>
+<p>
+  • The first class of the
+  <a href="https://sites.google.com/site/csitin3/">CSIT&#45;in&#45;3 program</a
+  >, an innovative collaboration with a local community college that allows
+  students to earn a degree in computer science in just three years, started in
+  August with a class of 32.
+</p>
+<p>
+  Innovation was a theme throughout the year. More than 20 faculty projects to
+  promote innovation in teaching and learning were funded through the annual
+  fund. And the
+  <a href="http://president.csumb.edu/speaker&#45;series"
+    >President’s Speaker Series</a
+  >, “Disruptive Innovation in Higher Education,” focused on the challenges
+  facing higher education in an era of increased demand, changing demographics
+  and declining state support.
+</p>
+<p>
+  Last spring, CSUMB held a
+  <a
+    href="http://president.csumb.edu/news/2013/mar/28/raising&#45;our&#45;visibility&#45;community"
+    >welcome home event for Leon Panetta</a
+  >. “It was a great pleasure to host the event because of the instrumental role
+  that he played in the founding of our university and our close ties with the
+  Panetta Institute, President Ochoa said.
+</p>
+<p>
+  Another event that brought many community members to campus was the
+  <a
+    href="http://news.csumb.edu/news/2013/dec/4/planning&#45;future&#45;fort&#45;ord"
+    >Fort Ord Colloquium</a
+  >
+  in December. The two&#45;day event featured national experts in planning,
+  economic development and environmental protection. The colloquium was an
+  attempt to broaden the discussion from the merits of specific projects to a
+  more all&#45;encompassing vision.
+</p>
+<p>
+  CSU Chancellor Timothy White made his official campus visit in early October,
+  meeting with students, faculty and staff.
+</p>
+<p>
+  The
+  <a href="http://extended.csumb.edu/osher&#45;lifelong&#45;learning.htm"
+    >Osher Lifelong Learning Institute</a
+  >
+  – known as OLLI – brought a record number of people to campus. It recently
+  concluded its sixth year of offering stimulating educational opportunities to
+  those 50 and older. Its 549 members enrolled in a record 78 class offerings
+  for a total course attendance of 2,272. The program also extended its reach by
+  partnering with the Monterey Museum of Art, the Museum of Monterey, the World
+  Affairs Council and the National Steinbeck Center.
+</p>
+```

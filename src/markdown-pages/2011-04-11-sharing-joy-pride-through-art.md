@@ -4,6 +4,7 @@ date: April 11 2011
 slug: sharing-joy-pride-through-art
 ---
 
+```html
 
 
 
@@ -62,3 +63,4 @@ prints will be available for sale at the event.</p>
 
 
 
+```

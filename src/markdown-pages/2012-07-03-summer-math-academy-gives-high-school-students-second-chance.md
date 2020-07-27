@@ -4,10 +4,10 @@ date: July 3 2012
 slug: math-academy-gives-students-a-second-chance
 ---
 
+`html`html
 
+<span class="date">Posted on Jul 03, 2012 </span>
 
-
-<span class="date">Posted on Jul 03, 2012    </span>
 <p>Reports frequently place U.S. students well below their
 international peers in math knowledge and performance.</p>
 <p>The secret to improving those rankings is no secret at all, if
@@ -62,7 +62,6 @@ class sessions being held both in Santa Cruz and at CSUMB.</p>
 <p><br>
 &#xA0;</br></p>
 
+```
 
-
-
-
+```

@@ -4,6 +4,7 @@ date: March 17 2014
 slug: csumb-brings-bright-future-to-area
 ---
 
+```html
 
 
 
@@ -19,3 +20,4 @@ play its part.<br>
 
 
 
+```

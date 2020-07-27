@@ -4,6 +4,7 @@ date: May 20 2014
 slug: art-in-the-service-of-science
 ---
 
+```html
 
 
 
@@ -47,3 +48,4 @@ Images: Giraffe and mountain zebra by Rachel Morris</br></br></p>
 
 
 
+```

@@ -4,6 +4,7 @@ date: August 10 2012
 slug: santa-cruz-artist-connects-the-bots
 ---
 
+```html
 
 
 
@@ -64,3 +65,4 @@ Bottom: Margo in her Santa Cruz studio</br></br></em><br>
 
 
 
+```

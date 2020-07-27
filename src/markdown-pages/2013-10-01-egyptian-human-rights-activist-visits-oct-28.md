@@ -1,9 +1,10 @@
 ---
 title: Egyptian human rights activist visits Oct. 28
 date: October 1 2013
-slug: egyptian-human-rights-activist-visits-oct--28
+slug: egyptian-human-rights-activist-visits-oct.-28
 ---
 
+```html
 
 
 
@@ -40,3 +41,4 @@ Monterey Peace and Justice Center.</p>
 
 
 
+```

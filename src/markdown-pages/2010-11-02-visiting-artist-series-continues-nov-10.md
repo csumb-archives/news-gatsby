@@ -1,9 +1,10 @@
 ---
 title: Visiting artist series continues Nov. 10
 date: November 2 2010
-slug: visiting-artist-series-continues-nov--10
+slug: visiting-artist-series-continues-nov.-10
 ---
 
+```html
 
 
 
@@ -49,3 +50,4 @@ No reservations are needed for this free event.</br></br></br></br></br></br></p
 
 
 
+```

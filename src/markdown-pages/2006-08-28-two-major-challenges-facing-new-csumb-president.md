@@ -4,6 +4,7 @@ date: August 28 2006
 slug: two-major-challenges-facing-new-csumb-president
 ---
 
+```html
 
 
 
@@ -18,3 +19,4 @@ buildings.<br>
 
 
 
+```

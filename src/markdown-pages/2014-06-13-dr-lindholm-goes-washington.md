@@ -1,9 +1,10 @@
 ---
 title: Dr. Lindholm goes to Washington
 date: June 13 2014
-slug: dr--lindholm-goes-to-washington
+slug: dr.-lindholm-goes-to-washington
 ---
 
+```html
 
 
 
@@ -45,3 +46,4 @@ more about COAST</a></p>
 
 
 
+```

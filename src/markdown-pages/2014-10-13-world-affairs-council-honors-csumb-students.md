@@ -4,6 +4,7 @@ date: October 13 2014
 slug: world-affairs-council-honors-csumb-students
 ---
 
+```html
 
 
 
@@ -46,3 +47,4 @@ from members of the <a href="http://www.wacmb.org/WACMB/WACMB-Home-Page.html" re
 
 
 
+```

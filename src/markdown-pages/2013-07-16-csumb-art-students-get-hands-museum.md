@@ -4,6 +4,7 @@ date: July 16 2013
 slug: csumb-art-students-get-handson-at-museum
 ---
 
+```html
 
 
 
@@ -105,3 +106,4 @@ Photo courtesy of Devin Johnson</br></br></em></p>
 
 
 
+```

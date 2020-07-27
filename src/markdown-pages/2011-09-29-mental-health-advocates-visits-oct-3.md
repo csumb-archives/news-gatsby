@@ -1,9 +1,10 @@
 ---
 title: Mental health advocate visits campus Oct. 3
 date: September 29 2011
-slug: mental-health-advocate-visits-campus-oct--3
+slug: mental-health-advocate-visits-campus-oct.-3
 ---
 
+```html
 
 
 
@@ -61,3 +62,4 @@ sponsor the program. It is presented as part of CSUMB&#x2019;s celebration
 of Mental Health Awareness Week.<br>
 <br>
 More information can be found on the organization&apos;s <a href="http://www.twloha.com" rel="nofollow">website</a>.</br></br></p>
+```

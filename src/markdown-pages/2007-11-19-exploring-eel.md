@@ -4,6 +4,7 @@ date: November 19 2007
 slug: exploring-the-eel
 ---
 
+```html
 
 
 
@@ -132,3 +133,4 @@ Carmel Middle School Owl Cam (<a href="http://home.csumb.edu/m/mooresteve/world/
 
 
 
+```

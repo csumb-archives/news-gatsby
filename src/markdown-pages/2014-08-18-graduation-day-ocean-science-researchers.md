@@ -1,9 +1,10 @@
 ---
 title: day&apos; for ocean science researchers
 date: August 18 2014
-slug: day-apos--for-ocean-science-researchers
+slug: day&apos;-for-ocean-science-researchers
 ---
 
+```html
 
 
 
@@ -45,3 +46,4 @@ CSUMB&#x2019;s Ocean Science REU</a></p>
 
 
 
+```

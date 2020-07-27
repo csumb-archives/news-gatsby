@@ -1,9 +1,10 @@
 ---
 title: Civil rights activist visits campus Feb. 28
 date: February 17 2011
-slug: civil-rights-activist-visits-campus-feb--28
+slug: civil-rights-activist-visits-campus-feb.-28
 ---
 
+```html
 
 
 
@@ -55,3 +56,4 @@ commitment to racial justice.</em><br>
 
 
 
+```

@@ -1,9 +1,10 @@
 ---
 title: Film students&apos; work to be shown Dec. 20
 date: December 16 2012
-slug: film-students-apos--work-to-be-shown-dec--20
+slug: film-students&apos;-work-to-be-shown-dec.-20
 ---
 
+```html
 
 
 
@@ -79,3 +80,4 @@ Food</em></br></br></p>
 
 
 
+```

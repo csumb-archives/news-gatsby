@@ -4,8 +4,49 @@ title: "CSUMB ranked for contributing to the public good"
 date: January 01 2020
 ---
 
-<p>CSU Monterey Bay is ranked fourth among the nation’s public liberal arts colleges in its contribution to the public good, according to The Washington Monthly 2011 College Guide published Sept. 1. 
-</p><p>Unlike the U.S. News rankings, which focus on measures of academic reputation, The Washington Monthly rates schools based on three broad categories: social mobility, which emphasizes recruiting and graduating low-income students; research, with a focus on producing cutting-edge scholarship and Ph.D.s; and service, which emphasizes encouraging students to give something back to their country. The magazine says it seeks to reward those colleges that do a good job of educating students. And unlike other rankings systems, no one category is weighted more highly than another. 
-</p><p>Overall, the university was ranked 94th among the 249 schools included in the survey of liberal arts schools, most of which are private colleges and universities. CSU Monterey Bay especially stood out in the category of research. The university ranked third overall in research expenditures, with $5.78 million spent. Most of that money supported research in environmental science. For example, students and faculty working out of the Seafloor Mapping Lab are pushing the boundaries with oceanic research, using GPS tools to study the bottom of the ocean with unprecedented detail and precision.
-</p><p>CSUMB also collaborates with NASA’s Ames Research Center to conduct research in ecological and watershed systems, with an emphasis on environmental issues resulting from changing climatic and land-use patterns. Another example is the work the university’s research scientists did with NASA to send pilotless drones above forest fires to provide useful information to those fighting the fires. The university ranked 56th overall in service and 15th in the category of faculty and staff members, courses and financial aid devoted to service learning. “Higher education, after all, isn’t just important for undergraduates," the magazine’s editors said. "We all benefit when colleges produce groundbreaking research that drives economic growth, when they offer students from low-income families the path to a better life, and when they shape the character of future leaders.” The 2011 Washington Monthly College Rankings appear in the September/October issue of the printed magazine and <a href="http://www.washingtonmonthly.com/college_guide/rankings_2011/liberal_arts_rank.php">online</a>.  
+```html
+<p>
+  CSU Monterey Bay is ranked fourth among the nation’s public liberal arts
+  colleges in its contribution to the public good, according to The Washington
+  Monthly 2011 College Guide published Sept. 1.
 </p>
+<p>
+  Unlike the U.S. News rankings, which focus on measures of academic reputation,
+  The Washington Monthly rates schools based on three broad categories: social
+  mobility, which emphasizes recruiting and graduating low-income students;
+  research, with a focus on producing cutting-edge scholarship and Ph.D.s; and
+  service, which emphasizes encouraging students to give something back to their
+  country. The magazine says it seeks to reward those colleges that do a good
+  job of educating students. And unlike other rankings systems, no one category
+  is weighted more highly than another.
+</p>
+<p>
+  Overall, the university was ranked 94th among the 249 schools included in the
+  survey of liberal arts schools, most of which are private colleges and
+  universities. CSU Monterey Bay especially stood out in the category of
+  research. The university ranked third overall in research expenditures, with
+  $5.78 million spent. Most of that money supported research in environmental
+  science. For example, students and faculty working out of the Seafloor Mapping
+  Lab are pushing the boundaries with oceanic research, using GPS tools to study
+  the bottom of the ocean with unprecedented detail and precision.
+</p>
+<p>
+  CSUMB also collaborates with NASA’s Ames Research Center to conduct research
+  in ecological and watershed systems, with an emphasis on environmental issues
+  resulting from changing climatic and land-use patterns. Another example is the
+  work the university’s research scientists did with NASA to send pilotless
+  drones above forest fires to provide useful information to those fighting the
+  fires. The university ranked 56th overall in service and 15th in the category
+  of faculty and staff members, courses and financial aid devoted to service
+  learning. “Higher education, after all, isn’t just important for
+  undergraduates," the magazine’s editors said. "We all benefit when colleges
+  produce groundbreaking research that drives economic growth, when they offer
+  students from low-income families the path to a better life, and when they
+  shape the character of future leaders.” The 2011 Washington Monthly College
+  Rankings appear in the September/October issue of the printed magazine and
+  <a
+    href="http://www.washingtonmonthly.com/college_guide/rankings_2011/liberal_arts_rank.php"
+    >online</a
+  >.
+</p>
+```

@@ -4,4 +4,48 @@ title: "Hackathon Weekend Focuses on Creating Tech for Disaster Recovery"
 date: January 01 2020
 ---
 
-<p>SEASIDE, Ca., November 6, 2017 – California State University, Monterey Bay’s (CSUMB) Institute for Innovation and Economic Development (IIED) hosted the 6th annual <a href="https://csumb.edu/iied/events/hackathon-begins">Startup Hackathon weekend</a> featuring more than 100 students from Monterey Peninsula College, Cabrillo College, Hartnell and CSUMB Nov. 3-5, 2017.</p><p>Sixteen teams began the competition on Friday, November 3, and culminated with final presentations to a group of judges on Sunday, November 5, from 2-5 p.m.</p><p>The event was held at the <a href="https://csumb.edu/directory/buildings/business-information-technology">Joel and Dena Gambord Business and Information Technology Building</a>, and focused on the use of technology in preparing for, surviving and recovering from natural disasters.</p><p>Preparing, surviving and recovering from disasters present challenges to information flow, coordination of services, redirection of needed supplies, maintenance of order and safety even basic survival. The participants mission for this hackathon event is to create solutions to aid people in preparing for, surviving and recovering from major natural disasters.</p><p>The first place winning team, named I Am Safe, was comprised of CSUMB students Kyle Butler-Fish, Sonali Bharat, Monique LaCroix, Nigel Hardy, Tristan Anderson and Dustin D'Avignon. Their project allows people to post their status online during a disaster and request items they may need such as water or food. It also allows people connect without email and search for people online by name and by city.</p><p>The CSUMB Institute for Innovation and Economic Development (IIED), housed in the College of Business, hosts events such as the hackathon to promote entrepreneurship in the Monterey Bay region and foster the development of a vibrant entrepreneurship ecosystem in the region.</p>
+```html
+<p>
+  SEASIDE, Ca., November 6, 2017 – California State University, Monterey Bay’s
+  (CSUMB) Institute for Innovation and Economic Development (IIED) hosted the
+  6th annual
+  <a href="https://csumb.edu/iied/events/hackathon-begins"
+    >Startup Hackathon weekend</a
+  >
+  featuring more than 100 students from Monterey Peninsula College, Cabrillo
+  College, Hartnell and CSUMB Nov. 3-5, 2017.
+</p>
+<p>
+  Sixteen teams began the competition on Friday, November 3, and culminated with
+  final presentations to a group of judges on Sunday, November 5, from 2-5 p.m.
+</p>
+<p>
+  The event was held at the
+  <a
+    href="https://csumb.edu/directory/buildings/business-information-technology"
+    >Joel and Dena Gambord Business and Information Technology Building</a
+  >, and focused on the use of technology in preparing for, surviving and
+  recovering from natural disasters.
+</p>
+<p>
+  Preparing, surviving and recovering from disasters present challenges to
+  information flow, coordination of services, redirection of needed supplies,
+  maintenance of order and safety even basic survival. The participants mission
+  for this hackathon event is to create solutions to aid people in preparing
+  for, surviving and recovering from major natural disasters.
+</p>
+<p>
+  The first place winning team, named I Am Safe, was comprised of CSUMB students
+  Kyle Butler-Fish, Sonali Bharat, Monique LaCroix, Nigel Hardy, Tristan
+  Anderson and Dustin D'Avignon. Their project allows people to post their
+  status online during a disaster and request items they may need such as water
+  or food. It also allows people connect without email and search for people
+  online by name and by city.
+</p>
+<p>
+  The CSUMB Institute for Innovation and Economic Development (IIED), housed in
+  the College of Business, hosts events such as the hackathon to promote
+  entrepreneurship in the Monterey Bay region and foster the development of a
+  vibrant entrepreneurship ecosystem in the region.
+</p>
+```

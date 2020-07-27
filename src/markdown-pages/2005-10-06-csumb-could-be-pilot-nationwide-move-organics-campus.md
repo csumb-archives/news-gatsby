@@ -4,6 +4,7 @@ date: October 6 2005
 slug: csumb-could-be-pilot-for-nationwide-move-to-organics-on-campus
 ---
 
+```html
 
 
 
@@ -17,3 +18,4 @@ around 95 percent organic produce in prepared meals.<br>
 
 
 
+```

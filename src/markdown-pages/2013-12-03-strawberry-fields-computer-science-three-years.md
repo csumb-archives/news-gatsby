@@ -4,6 +4,7 @@ date: December 3 2013
 slug: from-strawberry-fields-to-computer-science-in-three-years
 ---
 
+```html
 
 
 
@@ -22,3 +23,4 @@ three years.<br>
 
 
 
+```

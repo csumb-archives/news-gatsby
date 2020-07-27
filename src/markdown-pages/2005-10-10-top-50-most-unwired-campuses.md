@@ -4,6 +4,7 @@ date: October 10 2005
 slug: top-50-most-unwired-campuses
 ---
 
+```html
 
 
 
@@ -20,3 +21,4 @@ one of only four schools in California to make the list.<br>
 
 
 
+```

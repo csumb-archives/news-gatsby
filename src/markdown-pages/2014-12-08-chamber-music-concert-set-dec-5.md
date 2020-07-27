@@ -1,9 +1,10 @@
 ---
 title: Chamber music concert set for Dec. 5
 date: December 8 2014
-slug: chamber-music-concert-set-for-dec--5
+slug: chamber-music-concert-set-for-dec.-5
 ---
 
+```html
 
 
 
@@ -69,3 +70,4 @@ call 582-3009.</p>
 
 
 
+```

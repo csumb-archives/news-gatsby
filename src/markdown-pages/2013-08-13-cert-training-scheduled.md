@@ -4,6 +4,7 @@ date: August 13 2013
 slug: cert-training-scheduled
 ---
 
+```html
 
 
 
@@ -44,3 +45,4 @@ the university&#x2019;s health and safety specialist, at 582-4096 or
 
 
 
+```

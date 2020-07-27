@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Ready for their dreams &#x2013; CSUMB president invested at graduation
+title:
+  &gt;- Ready for their dreams &#x2013; CSUMB president invested at graduation
   ceremony
 date: May 20 2007
-slug: &gt;-
-  ready-for-their-dreams---x2013--csumb-president-invested-at-graduation-ceremony
+slug: &gt;- ready-for-their-dreams-&#x2013;-csumb-president-invested-at-graduation-ceremony
 ---
 
+```html
 
 
 
@@ -22,3 +22,4 @@ friends at Freeman Stadium.<br>
 
 
 
+```

@@ -4,6 +4,7 @@ date: June 3 2013
 slug: summer-arts-returns-to-campus
 ---
 
+```html
 
 
 
@@ -49,3 +50,4 @@ general admission; $5 for students and seniors.</p>
 
 
 
+```

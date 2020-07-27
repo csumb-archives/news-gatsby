@@ -4,6 +4,7 @@ date: December 20 2010
 slug: another-csumb-alum-goes-indie-at-sundance
 ---
 
+```html
 
 
 
@@ -93,3 +94,4 @@ independent film industry.</p>
 
 
 
+```

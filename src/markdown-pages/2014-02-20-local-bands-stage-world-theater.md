@@ -4,6 +4,7 @@ date: February 20 2014
 slug: local-bands-on-stage-at-world-theater
 ---
 
+```html
 
 
 
@@ -69,3 +70,4 @@ by calling the box office at 582-4580, or at the theater.<br>
 The World Theater is located on Sixth Avenue between A and B
 streets. Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</br></br></p>
 
+```

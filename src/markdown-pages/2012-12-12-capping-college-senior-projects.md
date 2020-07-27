@@ -4,6 +4,7 @@ date: December 12 2012
 slug: capping-off-college-with-senior-projects
 ---
 
+```html
 
 
 
@@ -40,3 +41,4 @@ Department&apos;s Capstone Festival film showings on Dec. 20.</a></p>
 
 
 
+```

@@ -1,9 +1,10 @@
 ---
 title: Alumna hits journalism&apos;s big time
 date: November 7 2012
-slug: alumna-hits-journalism-apos-s-big-time
+slug: alumna-hits-journalism&apos;s-big-time
 ---
 
+```html
 
 
 
@@ -72,3 +73,4 @@ major</a>.<br>
 
 
 
+```

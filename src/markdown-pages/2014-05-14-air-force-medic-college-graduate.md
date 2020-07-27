@@ -4,6 +4,7 @@ date: May 14 2014
 slug: from-air-force-medic-to-college-graduate
 ---
 
+```html
 
 
 
@@ -73,3 +74,4 @@ At right: Hans in his custom-made mortarboard and bow tie</br></br></em></p>
 
 
 
+```

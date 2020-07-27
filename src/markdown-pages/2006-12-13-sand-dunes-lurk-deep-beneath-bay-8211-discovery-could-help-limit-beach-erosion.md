@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Sand dunes lurk deep beneath bay &#x2013; discovery could help limit beach
+title:
+  &gt;- Sand dunes lurk deep beneath bay &#x2013; discovery could help limit beach
   erosion
 date: December 13 2006
-slug: &gt;-
-  sand-dunes-lurk-deep-beneath-bay---x2013--discovery-could-help-limit-beach-erosion
+slug: &gt;- sand-dunes-lurk-deep-beneath-bay-&#x2013;-discovery-could-help-limit-beach-erosion
 ---
 
+```html
 
 
 
@@ -21,3 +21,4 @@ involved in the research.<br>
 
 
 
+```

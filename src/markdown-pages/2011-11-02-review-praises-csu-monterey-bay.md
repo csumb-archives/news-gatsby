@@ -4,6 +4,7 @@ date: November 2 2011
 slug: review-praises-csu-monterey-bay
 ---
 
+```html
 
 
 
@@ -65,3 +66,4 @@ is clear that the entire campus is deeply engaged in its
 educational effectiveness efforts and is focused on student
 learning.&#x201D;</br></br></br></br></br></br></br></br></p>
 
+```

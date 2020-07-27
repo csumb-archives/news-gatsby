@@ -4,6 +4,7 @@ date: June 24 2013
 slug: art-for-change
 ---
 
+```html
 
 
 
@@ -67,3 +68,4 @@ doing.</a></p>
 
 
 
+```

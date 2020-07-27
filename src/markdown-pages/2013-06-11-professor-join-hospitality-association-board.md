@@ -4,6 +4,7 @@ date: June 11 2013
 slug: professor-to-join-hospitality-association-board
 ---
 
+```html
 
 
 
@@ -55,3 +56,4 @@ about the School of Business at CSUMB</a>.</p>
 
 
 
+```

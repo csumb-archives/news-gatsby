@@ -1,9 +1,10 @@
 ---
 title: CSUMB&apos;s annual Winter Concert set for Dec. 4
 date: November 15 2011
-slug: csumb-apos-s-annual-winter-concert-set-for-dec--4
+slug: csumb&apos;s-annual-winter-concert-set-for-dec.-4
 ---
 
+```html
 
 
 
@@ -33,3 +34,4 @@ For more information or to request disability accommodations, call
 
 
 
+```

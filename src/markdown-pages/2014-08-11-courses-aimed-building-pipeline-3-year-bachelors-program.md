@@ -1,9 +1,10 @@
 ---
 title: Courses aimed to building pipeline for 3year bachelor&apos;s program
 date: August 11 2014
-slug: courses-aimed-to-building-pipeline-for-3year-bachelor-apos-s-program
+slug: courses-aimed-to-building-pipeline-for-3year-bachelor&apos;s-program
 ---
 
+```html
 
 
 
@@ -19,3 +20,4 @@ students.<br>
 
 
 
+```

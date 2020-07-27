@@ -4,6 +4,7 @@ date: May 15 2006
 slug: a-rise-out-of-minority-students
 ---
 
+```html
 
 
 
@@ -21,3 +22,4 @@ sciences.<br>
 
 
 
+```

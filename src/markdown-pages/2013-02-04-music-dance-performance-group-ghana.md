@@ -4,6 +4,7 @@ date: February 4 2013
 slug: music-dance-performance-by-group-from-ghana
 ---
 
+```html
 
 
 
@@ -34,3 +35,4 @@ and Col. Durham Road.</p>
 
 
 
+```

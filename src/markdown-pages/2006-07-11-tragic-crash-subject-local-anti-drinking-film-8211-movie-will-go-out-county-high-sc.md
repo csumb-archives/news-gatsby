@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Tragic crash the subject of local antidrinking film &#x2013; movie will go out
+title:
+  &gt;- Tragic crash the subject of local antidrinking film &#x2013; movie will go out
   to county high schools Cal State campuses
 date: July 11 2006
-slug: &gt;-
-  tragic-crash-the-subject-of-local-antidrinking-film---x2013--movie-will-go-out-to-county-high-schools-cal-state-campuses
+slug: &gt;- tragic-crash-the-subject-of-local-antidrinking-film-&#x2013;-movie-will-go-out-to-county-high-schools-cal-state-campuses
 ---
 
+```html
 
 
 
@@ -22,3 +22,4 @@ Empowerment Project in Salinas.<br>
 
 
 
+```

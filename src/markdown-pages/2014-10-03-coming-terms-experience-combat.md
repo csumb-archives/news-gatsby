@@ -4,6 +4,7 @@ date: October 3 2014
 slug: coming-to-terms-with-the-experience-of-combat
 ---
 
+```html
 
 
 
@@ -50,3 +51,4 @@ activities related to the book. <a href="http://www.co.monterey.ca.us/library/Ca
 
 
 
+```

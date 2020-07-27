@@ -4,6 +4,7 @@ date: May 20 2013
 slug: bakersfield-dean-named-interim-provost
 ---
 
+```html
 
 
 
@@ -45,3 +46,4 @@ academic year.<br>
 
 
 
+```

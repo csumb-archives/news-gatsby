@@ -1,9 +1,10 @@
 ---
 title: Huffington Post&amp;colon; CSUMB &apos;forwardthinking&apos;
 date: January 14 2011
-slug: huffington-post-amp-colon--csumb--apos-forwardthinking-apos-
+slug: huffington-post&amp;colon;-csumb-&apos;forwardthinking&apos;
 ---
 
+```html
 <span class="date">Posted on Jan 14, 2011 </span>
 
 <p>CSU Monterey Bay has gotten a prominent mention by a blogger for
@@ -30,3 +31,4 @@ Washington, Olin College of Engineering in Massachusetts, Florida
 A&amp;M and the Global College of Long Island University.</p>
 <p>To list is available <a href="http://www.huffingtonpost.com/2010/12/31/9-forwardthinking-schools_n_803008.html#s217483&amp;title=Cal%20State-Monterey%20Bay%20" rel="nofollow">here.</a><br>
 &#xA0;</br></p>
+```

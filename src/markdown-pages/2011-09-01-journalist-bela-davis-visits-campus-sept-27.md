@@ -1,9 +1,10 @@
 ---
 title: Journalist Belva Davis visits campus Sept. 27
 date: September 1 2011
-slug: journalist-belva-davis-visits-campus-sept--27
+slug: journalist-belva-davis-visits-campus-sept.-27
 ---
 
+```html
 
 
 
@@ -61,3 +62,4 @@ map of campus are available <a href="http://csumb.edu/map" rel="nofollow">here</
 
 
 
+```

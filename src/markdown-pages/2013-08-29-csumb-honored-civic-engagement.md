@@ -4,6 +4,7 @@ date: August 29 2013
 slug: csumb-honored-for-civic-engagement
 ---
 
+```html
 
 
 
@@ -17,3 +18,4 @@ and the New York life Foundation.<br>
 
 
 
+```

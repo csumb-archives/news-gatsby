@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Arnold gets flunked &#x2013; Upset over Gov. Schwarzenegger&apos;s education
+title:
+  &gt;- Arnold gets flunked &#x2013; Upset over Gov. Schwarzenegger&apos;s education
   policies California college students are coming up with their own attack ads
 date: October 13 2006
-slug: &gt;-
-  arnold-gets-flunked---x2013--upset-over-gov--schwarzenegger-apos-s-education-policies-california-college-students-are-coming-up-with-their-own-attack-ads
+slug: &gt;- arnold-gets-flunked-&#x2013;-upset-over-gov.-schwarzenegger&apos;s-education-policies-california-college-students-are-coming-up-with-their-own-attack-ads
 ---
 
+```html
 
 
 
@@ -24,3 +24,4 @@ buddy responds.<br>
 
 
 
+```

@@ -4,11 +4,69 @@ title: "What will the future look like?"
 date: January 01 2020
 ---
 
-<h3>CSUMB lecturer helps answer that question</h3><p><em>What will the future look like? It's a question that writers, philosophers and scientists have been pondering for millennia. But the future that once existed solely in the human imagination . . . has arrived.</em> That's the introduction to FutureScape, a six-part television series hosted by actor James Woods. The series will premiere at 10 p.m., Nov. 19, on the Science Channel. A new episode will be shown each week.
-</p><p>Linda Glenn, a lecturer in Humanities and Communication, appears in all six episodes – her “15 minutes of fame,” she says – as a bioethicist, lawyer and futurist.
-</p><p>The first episode deals with the robot revolution. Episode two addresses advances in medical technology that will make old age little more than a manageable chronic condition. Episode three looks at the ability to create life from scratch. In episode four, viewers will learn about galactic pioneers and how recent advances in propulsion technology, warp drive, and solar energy have allowed us to do what only science fiction writers dreamed possible. In episode five, viewers learn about advances in genetic engineering and neuroscience. The series concludes with a look at how scientists are reading minds and scanning hidden memories and the privacy implications. Glenn came to the attention of the show’s production company through some of her publications on the ethical, legal and social implications of emerging technologies. Her articles address human-machine mergers; how converging technologies will impact our dinner tables; and ethical issues in genetic engineering, among other topics.
-</p><p>Recommendations from L.A.-based media who heard her speak at Singularity University in Silicon Valley also helped.
-</p><p>The Science Channel can be found on channel 52 on the campus cable system and on Comcast channel 272.
-</p><p>Last December, the Discovery Channel flew her from her home on the East Coast to Hollywood for an interview. They liked what they heard, and she was offered the opportunity to appear in the series. A few months later, she and her husband relocated to California and she landed the lecturer position at CSUMB. This semester, she’s teaching HCom 358, Critical Perspectives in Law and Society. The Science Channel gig isn’t her first experience with network television. In 2011, she was interviewed on the ethical and legal issues around genetic engineering for a program on the History Channel. Ms. Glenn is an attorney, bioethicist, educator and consultant. She holds an appointment at the Alden March Bioethics Institute at Albany Medical Center, is a Fellow at the Institute for Emerging Technologies and a Fellow of the American Bar Foundation. She was the lead attorney in several cutting edge bioethics legal cases, including the case of Gray vs. Romeo. She currently serves as an adviser to several Silicon Valley biotech startups. She is currently working on a book titled “Bioethics for a New Earth: How Emerging Technologies Can Save Humanity and Our Planet.” <em><a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights">Read more faculty highlights</a></em>  
-</p><p> 
+```html
+<h3>CSUMB lecturer helps answer that question</h3>
+<p>
+  <em
+    >What will the future look like? It's a question that writers, philosophers
+    and scientists have been pondering for millennia. But the future that once
+    existed solely in the human imagination . . . has arrived.</em
+  >
+  That's the introduction to FutureScape, a six-part television series hosted by
+  actor James Woods. The series will premiere at 10 p.m., Nov. 19, on the
+  Science Channel. A new episode will be shown each week.
 </p>
+<p>
+  Linda Glenn, a lecturer in Humanities and Communication, appears in all six
+  episodes – her “15 minutes of fame,” she says – as a bioethicist, lawyer and
+  futurist.
+</p>
+<p>
+  The first episode deals with the robot revolution. Episode two addresses
+  advances in medical technology that will make old age little more than a
+  manageable chronic condition. Episode three looks at the ability to create
+  life from scratch. In episode four, viewers will learn about galactic pioneers
+  and how recent advances in propulsion technology, warp drive, and solar energy
+  have allowed us to do what only science fiction writers dreamed possible. In
+  episode five, viewers learn about advances in genetic engineering and
+  neuroscience. The series concludes with a look at how scientists are reading
+  minds and scanning hidden memories and the privacy implications. Glenn came to
+  the attention of the show’s production company through some of her
+  publications on the ethical, legal and social implications of emerging
+  technologies. Her articles address human-machine mergers; how converging
+  technologies will impact our dinner tables; and ethical issues in genetic
+  engineering, among other topics.
+</p>
+<p>
+  Recommendations from L.A.-based media who heard her speak at Singularity
+  University in Silicon Valley also helped.
+</p>
+<p>
+  The Science Channel can be found on channel 52 on the campus cable system and
+  on Comcast channel 272.
+</p>
+<p>
+  Last December, the Discovery Channel flew her from her home on the East Coast
+  to Hollywood for an interview. They liked what they heard, and she was offered
+  the opportunity to appear in the series. A few months later, she and her
+  husband relocated to California and she landed the lecturer position at CSUMB.
+  This semester, she’s teaching HCom 358, Critical Perspectives in Law and
+  Society. The Science Channel gig isn’t her first experience with network
+  television. In 2011, she was interviewed on the ethical and legal issues
+  around genetic engineering for a program on the History Channel. Ms. Glenn is
+  an attorney, bioethicist, educator and consultant. She holds an appointment at
+  the Alden March Bioethics Institute at Albany Medical Center, is a Fellow at
+  the Institute for Emerging Technologies and a Fellow of the American Bar
+  Foundation. She was the lead attorney in several cutting edge bioethics legal
+  cases, including the case of Gray vs. Romeo. She currently serves as an
+  adviser to several Silicon Valley biotech startups. She is currently working
+  on a book titled “Bioethics for a New Earth: How Emerging Technologies Can
+  Save Humanity and Our Planet.”
+  <em
+    ><a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights"
+      >Read more faculty highlights</a
+    ></em
+  >
+</p>
+<p></p>
+```

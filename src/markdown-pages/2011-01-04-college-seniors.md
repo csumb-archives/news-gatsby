@@ -4,6 +4,7 @@ date: January 4 2011
 slug: college-seniors
 ---
 
+```html
 
 
 
@@ -52,3 +53,4 @@ register for classes, call 582-5500 or visit csumb.edu/olli.<br>
 
 
 
+```

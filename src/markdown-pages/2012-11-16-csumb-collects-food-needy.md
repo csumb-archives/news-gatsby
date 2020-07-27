@@ -4,6 +4,7 @@ date: November 16 2012
 slug: csumb-collects-food-for-the-needy
 ---
 
+```html
 
 
 
@@ -55,3 +56,4 @@ more about the World Theater</a>.</p>
 
 
 
+```

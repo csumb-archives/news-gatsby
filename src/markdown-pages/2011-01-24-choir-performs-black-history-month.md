@@ -4,6 +4,7 @@ date: January 24 2011
 slug: choir-performs-for-black-history-month
 ---
 
+```html
 
 
 
@@ -40,3 +41,4 @@ spiritual context for the music.</p>
 
 
 
+```

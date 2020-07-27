@@ -4,6 +4,7 @@ date: November 12 2013
 slug: seeds-of-success
 ---
 
+```html
 
 
 
@@ -68,3 +69,4 @@ about the Environmental Studies program at CSUMB</a>.</p>
 
 
 
+```

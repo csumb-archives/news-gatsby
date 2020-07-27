@@ -4,6 +4,7 @@ date: March 5 2013
 slug: arts-collective-explores-gender-cultural-stereotypes
 ---
 
+```html
 
 
 
@@ -50,3 +51,4 @@ Always A Bridesmaid, Never A Bride (Posies), 2005</br></em></br></p>
 
 
 
+```

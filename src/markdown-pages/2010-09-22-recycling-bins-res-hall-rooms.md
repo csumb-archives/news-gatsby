@@ -1,9 +1,10 @@
 ---
 title: Talkin&apos; trash at CSUMB
 date: September 22 2010
-slug: talkin-apos--trash-at-csumb
+slug: talkin&apos;-trash-at-csumb
 ---
 
+```html
 
 
 
@@ -84,3 +85,4 @@ Recycling Partnership, led by Ecology Action.</br></br></br></br></p>
 
 
 
+```

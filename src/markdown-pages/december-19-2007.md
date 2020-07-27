@@ -4,24 +4,204 @@ title: "December 19, 2007"
 date: January 01 2020
 ---
 
-<p><strong>Gingerbread building boom</strong>The team from Conference and Event Services was serious about their entry in the university's annual gingerbread house&#45;building contest &#45; an elaborate replica of St. Basil's Cathedral in Moscow. Really serious. Serious enough to buy and construct a 3&#45;D puzzle of the cathedral. "Then, we went online and found the floor plan," said Lianne Minemoto. "We knew where all the domes were located." The cathedral was in keeping with the contest theme of "It's a Small World &#45; Campus Edition." Some of the other structures featured shredded wheat and potato chip roofs, melted Lifesaver ponds and marshmallow cream mortar. Some of the gingerbread creations weren't mere houses. There was the ocean scene, featuring a research vessel from the university's Seafloor Mapping Lab around the theme "Mapping the World for Conservation"; an Egyptian holiday scene including a pyramid and camels; the North Pole, with a plea to "Stop Global Warming"; a pagoda made with seaweed and chocolate; an adobe structure; and "Frohe Weihnachten" a replica of a traditional German Christmas decoration. That one, by Team University Advancement, took top honors. <a href="http://news.csumb.edu/site/x21050.xml">See more photos</a><a href="http://news.csumb.edu/site/x21050.xml">http://news.csumb.edu/site/x21050.xml</a><a href="http://news.csumb.edu/site/x21050.xml">.</a>
-</p><p><strong>Campus supports blood drive</strong>Forty students, staff and faculty members turned out to donate blood last Wednesday, despite the crush of end&#45;of&#45;semester work. A donor team staffed by the American Red Cross spent the afternoon in the Alumni and Visitors Center as part of its holiday blood drive. They collected 30 units of blood. Some potential donors had to be turned away &#40;or "deferred," as the Red Cross staff members said&#41; for a variety of reasons &#45; they've had a tattoo recently, they had a low blood count, were getting over a cold, etc. "We were pleased with the turnout," said Sherrie Pfefferkorn, charge nurse with the Red Cross. "We definitely plan on doing this again." The blood drive was co&#45;sponsored by Omega Delta Phi&#45;AK and its service chair, Efren Camacho; the Campus Health Center; and the Alumni and Visitors Center. <a href="http://news.csumb.edu/site/x21046.xml">Read more</a>.
-</p><p><strong>The Year in Review</strong>More students, more outside support, a commitment to the environment and a full&#45;fledged senior leadership team marked 2007 at CSUMB.In the fall, the university welcomed its largest freshman class ever &#45;a 44 percent increase over 2006. And more than 400 transfer students &#45;most from the tri&#45;county area&#45; elected to attend CSUMB. Overall, 30 percent more students were enrolled than the year before. As the number of students grew, so did the private and government support for the university. For the fiscal year ending June 30, CSUMB raised $6.8 million from philanthropic foundations and individuals in our community. Among the major gifts received in 2007 were $4 million from the charitable trust and estate of the late Marian Krause to provide scholarships for students in the journalism and human communication programs; $1 million from the David and Lucile Packard Foundation for library construction; and $620,000 from the Monterey Peninsula Foundation &#40;$500,000 for the library and the rest for athletics&#41;. <a href="http://news.csumb.edu/year&#45;review&#45;1">Read more.</a>
-</p><p><strong>Fall Capstone Festival</strong>The Provost's Office is proud to sponsor the Fall 2007 Capstone Festival through Dec. 21. <a href="http://csumb.edu/site/x20905.xml">Look at the complete schedule.</a> Please take time to visit the capstones and support our students who have worked hard on them.
-</p><p><strong>Selling a fresh idea to students</strong>The Monterey County Farm to School Partnership will continue its work in the new year, collaborating with local schools to teach children about where their food comes from and why it's important to eat healthy. The partnership, based at the Watershed Institute, has built and maintained school gardens, led hundreds of kids on farm field trips, and changed policies to improve food served in school cafeterias. The partnership aims to expand its programs in 2008 with the support of the Monterey County Weekly Community Fund. For the past four years, the Weekly has been its main supporter, contributing over $275,000. It has a goal of raising $65,000 by Dec. 31. To help the Weekly help the Farm to School Partnership, tax&#45;deductible contributions can be mailed to Monterey County Weekly Community Fund, 668 Williams Ave., Seaside 93955.
-</p><p><strong>Txt Msgs Alert U</strong>&#42;<strong>Cell phones transmit safety alerts at CSUMB</strong>&#42;? Cell phones &#45; a convenient way to send greetings to friends and family via text messages &#45; have been transformed into campus communications vehicles. At CSUMB, the service is called &#45; what else? &#45; OTTERalert. They blast out campus&#45;wide security and emergency communication alarms &#45; a service that has been getting a lot of attention since the tragic shootings at Virginia Tech.The campus community can rest assured that OTTERalert is for emergency alerts only; those who sign up will not receive spam. Privacy is protected, and only campus administrators and members of the University Police Department can originate the messages. <a href="http://news.csumb.edu/site/x20695.xml%20">Read More.</a>
-</p><p>Campus will be closed from noon Monday, Dec. 24 until 8 a.m. Wednesday, Jan. 2.
-</p><p><strong>Focus the Nation &#45; A Daylong Teach&#45;in on Global Warming</strong> <a href="http://www.focusthenation.org/">Focus the Nation</a> is an educational initiative on Global Warming Solutions for America to be held on Jan. 31. It's a nationwide event, taking place at over 1,100 college campuses with over a million students expected to attend. CSUMB is hosting a local event from 9 a.m. to 4 p.m. that day in the University Center conference rooms.
-</p><p>Local elected officials Dennis Donohue and Fred Keeley will attend. Faculty members have signed up to give presentations on a variety of topics. The CSUMB Associated Students and Academic Senate have endorsed the event. For a preliminary schedule of events, visit csumb.edu/green.
-</p><p>A reminder: Fourth Avenue &#40;the street behind the Alumni and Visitors Center&#41; between Divarty Street and Inter&#45;Garrison Road is ONE WAY southbound. There are no plans to make the street two&#45;way, even during the construction work in the area. It's a safety issue &#45; the street is too narrow to safely accommodate two&#45;way traffic and parking.
-</p><p>Divarty Street is now open.
-</p><p>Inter&#45;Garrison Road is closed from Sixth Avenue to the entrance to parking lot 12. Fifth Avenue is closed from Inter&#45;Garrison to the entrance to parking lot 12. The VPA buildings are accessible via parking lot 71. Parking lot 12 is accessible from A Street and Divarty Street.
-</p><p>Our campus is under construction. Please be cautious around construction areas. We invite you to view this <a href="http://cdo.csumb.edu/site/x4929.xml%20">short slide show</a> created with yoursafety in mind.
-</p><p><strong>Arteaga gets a shot with Earthquakes</strong>Robert Arteaga remembers the feeling when he got an e&#45;mail last week from the San Jose Earthquakes inviting him for Round 2 of tryouts. Excited, then overwhelmed. Arteaga was one of five people picked from the Salinas tryout to participate in the Quakes' combine Dec. 20&#45;22. Arteaga is a former goalkeeper for California State University, Monterey Bay. Said his college coach, Artie Cairel, "Robert is a tremendous athlete and possesses cat&#45;like reflexes. . . He most certainly could play his way on to a roster spot."&#45; &#42;Salinas Californian&#42;, Dec. 17, 2007
-</p><p><strong>Like the Back of His Hand &#45; Professor dedicates himself to learning all he can about Elkhorn Slough</strong>Rikk Kvitek knows nearly every inch of Elkhorn Slough. For the past 25 years, Kvitek, a CSUMB science and environmental policy professor, has been studying environmental changes in the slough and surrounding wetlands. "The loss of salt marshes is something we discovered back in the '80s," Kvitek says. So he and his students began bathymetric mapping, measuring the water depth, to create a surface model of the slough.&#45; &#42;Monterey County Weekly&#42;, Dec. 14, 2007
-</p><p><strong>Hands of Health</strong>Students in the digital art class at CSUMB have partnered with health workers from the Center for Community Advocacy to produce materials &#45; a billboard in Salinas, a photonovela and postcards &#45; all containing information helpful to farm laborers. The CCA workes are distributing the information.&#45; &#42;KSMS&#45;67&#42;, Dec. 12, 2007
-</p><p><strong>CSUMB cagers show integrity</strong>On Dec. 5, the Division I men's basketball team from California State University, Fresno was within seconds of being upset by Division II's California State University, Monterey Bay, but managed to prevail. What makes this so interesting is that CUMB, a small univesity, even with the loss, communicated that inegrity matters.&#45; Integrity Matters column by Jim Bracher, &#42;Salinas Californian&#42;, Dec. 12, 2007
-</p><p><strong>Verizon brings educational resources of Thinkfinity.org to elementary school classrooms</strong>Verizon and the Long Beach Education Foundation are embarking on a project to explore ways in which the treasure trove of educational resources available through Verizon's free and innovative Thinkfinity.org Web site can enrich the learning experience in elementary school classrooms. Legendary actor James Earl Jones, Verizon's longtime partner in promoting literacy, participated in the launch of the project at Long Beach's Mark Twain Library by reading "Jack and the Beanstalk" to a group of 4th&#45;grade students from Tincher Preparatory School. Verizon has named California State University, Monterey Bay to lead the project, which will initially focus on elementary schools in Long Beach and is intended to become a model for integrating content from Thinkfinity.org into elementary school curricula in classrooms across California.&#45; &#42;CNNMoney.com&#42;, Dec. 11, 2007
-</p><p><strong>Member Spotlight</strong>California State University, Monterey Bay is our current spotlight campus! Because CSUMB is located on the former Fort Ord Army base, many military buildings are being deconstructed to implement the campus master plan. Over 90% of the material from these buildings is recycled, reused and kept from the waste stream.&#45; &#42;Association for the Advancement of Sustainability in Higher Education e&#45;newsletter&#42;, Dec. 7, 2007
-</p><p>For campus news, activities and events, please visit our <a href="http://www.csumb.edu/news%20">news website</a>.
+```html
+<p>
+  <strong>Gingerbread building boom</strong>The team from Conference and Event
+  Services was serious about their entry in the university's annual gingerbread
+  house&#45;building contest &#45; an elaborate replica of St. Basil's Cathedral
+  in Moscow. Really serious. Serious enough to buy and construct a 3&#45;D
+  puzzle of the cathedral. "Then, we went online and found the floor plan," said
+  Lianne Minemoto. "We knew where all the domes were located." The cathedral was
+  in keeping with the contest theme of "It's a Small World &#45; Campus
+  Edition." Some of the other structures featured shredded wheat and potato chip
+  roofs, melted Lifesaver ponds and marshmallow cream mortar. Some of the
+  gingerbread creations weren't mere houses. There was the ocean scene,
+  featuring a research vessel from the university's Seafloor Mapping Lab around
+  the theme "Mapping the World for Conservation"; an Egyptian holiday scene
+  including a pyramid and camels; the North Pole, with a plea to "Stop Global
+  Warming"; a pagoda made with seaweed and chocolate; an adobe structure; and
+  "Frohe Weihnachten" a replica of a traditional German Christmas decoration.
+  That one, by Team University Advancement, took top honors.
+  <a href="http://news.csumb.edu/site/x21050.xml">See more photos</a
+  ><a href="http://news.csumb.edu/site/x21050.xml"
+    >http://news.csumb.edu/site/x21050.xml</a
+  ><a href="http://news.csumb.edu/site/x21050.xml">.</a>
 </p>
+<p>
+  <strong>Campus supports blood drive</strong>Forty students, staff and faculty
+  members turned out to donate blood last Wednesday, despite the crush of
+  end&#45;of&#45;semester work. A donor team staffed by the American Red Cross
+  spent the afternoon in the Alumni and Visitors Center as part of its holiday
+  blood drive. They collected 30 units of blood. Some potential donors had to be
+  turned away &#40;or "deferred," as the Red Cross staff members said&#41; for a
+  variety of reasons &#45; they've had a tattoo recently, they had a low blood
+  count, were getting over a cold, etc. "We were pleased with the turnout," said
+  Sherrie Pfefferkorn, charge nurse with the Red Cross. "We definitely plan on
+  doing this again." The blood drive was co&#45;sponsored by Omega Delta
+  Phi&#45;AK and its service chair, Efren Camacho; the Campus Health Center; and
+  the Alumni and Visitors Center.
+  <a href="http://news.csumb.edu/site/x21046.xml">Read more</a>.
+</p>
+<p>
+  <strong>The Year in Review</strong>More students, more outside support, a
+  commitment to the environment and a full&#45;fledged senior leadership team
+  marked 2007 at CSUMB.In the fall, the university welcomed its largest freshman
+  class ever &#45;a 44 percent increase over 2006. And more than 400 transfer
+  students &#45;most from the tri&#45;county area&#45; elected to attend CSUMB.
+  Overall, 30 percent more students were enrolled than the year before. As the
+  number of students grew, so did the private and government support for the
+  university. For the fiscal year ending June 30, CSUMB raised $6.8 million from
+  philanthropic foundations and individuals in our community. Among the major
+  gifts received in 2007 were $4 million from the charitable trust and estate of
+  the late Marian Krause to provide scholarships for students in the journalism
+  and human communication programs; $1 million from the David and Lucile Packard
+  Foundation for library construction; and $620,000 from the Monterey Peninsula
+  Foundation &#40;$500,000 for the library and the rest for athletics&#41;.
+  <a href="http://news.csumb.edu/year&#45;review&#45;1">Read more.</a>
+</p>
+<p>
+  <strong>Fall Capstone Festival</strong>The Provost's Office is proud to
+  sponsor the Fall 2007 Capstone Festival through Dec. 21.
+  <a href="http://csumb.edu/site/x20905.xml">Look at the complete schedule.</a>
+  Please take time to visit the capstones and support our students who have
+  worked hard on them.
+</p>
+<p>
+  <strong>Selling a fresh idea to students</strong>The Monterey County Farm to
+  School Partnership will continue its work in the new year, collaborating with
+  local schools to teach children about where their food comes from and why it's
+  important to eat healthy. The partnership, based at the Watershed Institute,
+  has built and maintained school gardens, led hundreds of kids on farm field
+  trips, and changed policies to improve food served in school cafeterias. The
+  partnership aims to expand its programs in 2008 with the support of the
+  Monterey County Weekly Community Fund. For the past four years, the Weekly has
+  been its main supporter, contributing over $275,000. It has a goal of raising
+  $65,000 by Dec. 31. To help the Weekly help the Farm to School Partnership,
+  tax&#45;deductible contributions can be mailed to Monterey County Weekly
+  Community Fund, 668 Williams Ave., Seaside 93955.
+</p>
+<p>
+  <strong>Txt Msgs Alert U</strong>&#42;<strong
+    >Cell phones transmit safety alerts at CSUMB</strong
+  >&#42;? Cell phones &#45; a convenient way to send greetings to friends and
+  family via text messages &#45; have been transformed into campus
+  communications vehicles. At CSUMB, the service is called &#45; what else?
+  &#45; OTTERalert. They blast out campus&#45;wide security and emergency
+  communication alarms &#45; a service that has been getting a lot of attention
+  since the tragic shootings at Virginia Tech.The campus community can rest
+  assured that OTTERalert is for emergency alerts only; those who sign up will
+  not receive spam. Privacy is protected, and only campus administrators and
+  members of the University Police Department can originate the messages.
+  <a href="http://news.csumb.edu/site/x20695.xml%20">Read More.</a>
+</p>
+<p>
+  Campus will be closed from noon Monday, Dec. 24 until 8 a.m. Wednesday, Jan.
+  2.
+</p>
+<p>
+  <strong
+    >Focus the Nation &#45; A Daylong Teach&#45;in on Global Warming</strong
+  >
+  <a href="http://www.focusthenation.org/">Focus the Nation</a> is an
+  educational initiative on Global Warming Solutions for America to be held on
+  Jan. 31. It's a nationwide event, taking place at over 1,100 college campuses
+  with over a million students expected to attend. CSUMB is hosting a local
+  event from 9 a.m. to 4 p.m. that day in the University Center conference
+  rooms.
+</p>
+<p>
+  Local elected officials Dennis Donohue and Fred Keeley will attend. Faculty
+  members have signed up to give presentations on a variety of topics. The CSUMB
+  Associated Students and Academic Senate have endorsed the event. For a
+  preliminary schedule of events, visit csumb.edu/green.
+</p>
+<p>
+  A reminder: Fourth Avenue &#40;the street behind the Alumni and Visitors
+  Center&#41; between Divarty Street and Inter&#45;Garrison Road is ONE WAY
+  southbound. There are no plans to make the street two&#45;way, even during the
+  construction work in the area. It's a safety issue &#45; the street is too
+  narrow to safely accommodate two&#45;way traffic and parking.
+</p>
+<p>Divarty Street is now open.</p>
+<p>
+  Inter&#45;Garrison Road is closed from Sixth Avenue to the entrance to parking
+  lot 12. Fifth Avenue is closed from Inter&#45;Garrison to the entrance to
+  parking lot 12. The VPA buildings are accessible via parking lot 71. Parking
+  lot 12 is accessible from A Street and Divarty Street.
+</p>
+<p>
+  Our campus is under construction. Please be cautious around construction
+  areas. We invite you to view this
+  <a href="http://cdo.csumb.edu/site/x4929.xml%20">short slide show</a> created
+  with yoursafety in mind.
+</p>
+<p>
+  <strong>Arteaga gets a shot with Earthquakes</strong>Robert Arteaga remembers
+  the feeling when he got an e&#45;mail last week from the San Jose Earthquakes
+  inviting him for Round 2 of tryouts. Excited, then overwhelmed. Arteaga was
+  one of five people picked from the Salinas tryout to participate in the
+  Quakes' combine Dec. 20&#45;22. Arteaga is a former goalkeeper for California
+  State University, Monterey Bay. Said his college coach, Artie Cairel, "Robert
+  is a tremendous athlete and possesses cat&#45;like reflexes. . . He most
+  certainly could play his way on to a roster spot."&#45; &#42;Salinas
+  Californian&#42;, Dec. 17, 2007
+</p>
+<p>
+  <strong
+    >Like the Back of His Hand &#45; Professor dedicates himself to learning all
+    he can about Elkhorn Slough</strong
+  >Rikk Kvitek knows nearly every inch of Elkhorn Slough. For the past 25 years,
+  Kvitek, a CSUMB science and environmental policy professor, has been studying
+  environmental changes in the slough and surrounding wetlands. "The loss of
+  salt marshes is something we discovered back in the '80s," Kvitek says. So he
+  and his students began bathymetric mapping, measuring the water depth, to
+  create a surface model of the slough.&#45; &#42;Monterey County Weekly&#42;,
+  Dec. 14, 2007
+</p>
+<p>
+  <strong>Hands of Health</strong>Students in the digital art class at CSUMB
+  have partnered with health workers from the Center for Community Advocacy to
+  produce materials &#45; a billboard in Salinas, a photonovela and postcards
+  &#45; all containing information helpful to farm laborers. The CCA workes are
+  distributing the information.&#45; &#42;KSMS&#45;67&#42;, Dec. 12, 2007
+</p>
+<p>
+  <strong>CSUMB cagers show integrity</strong>On Dec. 5, the Division I men's
+  basketball team from California State University, Fresno was within seconds of
+  being upset by Division II's California State University, Monterey Bay, but
+  managed to prevail. What makes this so interesting is that CUMB, a small
+  univesity, even with the loss, communicated that inegrity matters.&#45;
+  Integrity Matters column by Jim Bracher, &#42;Salinas Californian&#42;, Dec.
+  12, 2007
+</p>
+<p>
+  <strong
+    >Verizon brings educational resources of Thinkfinity.org to elementary
+    school classrooms</strong
+  >Verizon and the Long Beach Education Foundation are embarking on a project to
+  explore ways in which the treasure trove of educational resources available
+  through Verizon's free and innovative Thinkfinity.org Web site can enrich the
+  learning experience in elementary school classrooms. Legendary actor James
+  Earl Jones, Verizon's longtime partner in promoting literacy, participated in
+  the launch of the project at Long Beach's Mark Twain Library by reading "Jack
+  and the Beanstalk" to a group of 4th&#45;grade students from Tincher
+  Preparatory School. Verizon has named California State University, Monterey
+  Bay to lead the project, which will initially focus on elementary schools in
+  Long Beach and is intended to become a model for integrating content from
+  Thinkfinity.org into elementary school curricula in classrooms across
+  California.&#45; &#42;CNNMoney.com&#42;, Dec. 11, 2007
+</p>
+<p>
+  <strong>Member Spotlight</strong>California State University, Monterey Bay is
+  our current spotlight campus! Because CSUMB is located on the former Fort Ord
+  Army base, many military buildings are being deconstructed to implement the
+  campus master plan. Over 90% of the material from these buildings is recycled,
+  reused and kept from the waste stream.&#45; &#42;Association for the
+  Advancement of Sustainability in Higher Education e&#45;newsletter&#42;, Dec.
+  7, 2007
+</p>
+<p>
+  For campus news, activities and events, please visit our
+  <a href="http://www.csumb.edu/news%20">news website</a>.
+</p>
+```

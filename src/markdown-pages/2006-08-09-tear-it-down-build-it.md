@@ -4,6 +4,7 @@ date: August 9 2006
 slug: tear-it-down-to-build-it-up
 ---
 
+```html
 
 
 
@@ -21,3 +22,4 @@ fields.<br>
 
 
 
+```

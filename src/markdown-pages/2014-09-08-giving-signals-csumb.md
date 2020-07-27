@@ -4,6 +4,7 @@ date: September 8 2014
 slug: giving-signals-at-csumb
 ---
 
+```html
 
 
 
@@ -17,3 +18,4 @@ make more memorable sexual assault training than lectures.<br>
 
 
 
+```

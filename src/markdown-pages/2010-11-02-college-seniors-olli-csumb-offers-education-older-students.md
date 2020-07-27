@@ -1,9 +1,10 @@
 ---
 title: College Seniors&amp;colon; OLLI at CSUMB offers education for older students
 date: November 2 2010
-slug: college-seniors-amp-colon--olli-at-csumb-offers-education-for-older-students
+slug: college-seniors&amp;colon;-olli-at-csumb-offers-education-for-older-students
 ---
 
+```html
 <span class="date">Posted on Nov 02, 2010 </span>
 
 <p>After a career in the Army, and a second one spent in the mining
@@ -52,3 +53,4 @@ he&#x2019;s serious about it.</p>
 sacrifice under trying conditions,&#x201D; he said. &#x201C;The OLLI writing
 courses have helped me stay focused and productive.&#x201D;</p>
 <p>If he can&#x2019;t secure </p>
+```

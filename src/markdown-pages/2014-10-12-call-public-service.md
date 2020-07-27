@@ -4,6 +4,7 @@ date: October 12 2014
 slug: a-call-to-public-service
 ---
 
+```html
 
 
 
@@ -50,3 +51,4 @@ service.</br></br></br></br></br></br></br></br></img></br></br></br></br></p>
 
 
 
+```

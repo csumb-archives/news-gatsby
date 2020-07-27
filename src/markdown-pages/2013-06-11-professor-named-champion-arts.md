@@ -1,9 +1,10 @@
 ---
 title: Professor named &apos;Champion of the Arts&apos;
 date: June 11 2013
-slug: professor-named--apos-champion-of-the-arts-apos-
+slug: professor-named-&apos;champion-of-the-arts&apos;
 ---
 
+```html
 
 
 
@@ -62,3 +63,4 @@ Blader.<br>
 
 
 
+```

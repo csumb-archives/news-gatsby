@@ -1,9 +1,10 @@
 ---
 title: Salinas student lands internship in D.C.
 date: October 17 2014
-slug: salinas-student-lands-internship-in-d-c-
+slug: salinas-student-lands-internship-in-d.c.
 ---
 
+```html
 
 
 
@@ -19,3 +20,4 @@ Enforcement in the U.S. Department of the Interior.<br>
 
 
 
+```

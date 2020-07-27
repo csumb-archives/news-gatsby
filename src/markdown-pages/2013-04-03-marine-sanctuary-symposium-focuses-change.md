@@ -1,9 +1,10 @@
 ---
 title: Marine Sanctuary symposium focuses on &apos;change&apos;
 date: April 3 2013
-slug: marine-sanctuary-symposium-focuses-on--apos-change-apos-
+slug: marine-sanctuary-symposium-focuses-on-&apos;change&apos;
 ---
 
+```html
 
 
 
@@ -67,3 +68,4 @@ Administration</p>
 
 
 
+```

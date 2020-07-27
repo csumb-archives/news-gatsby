@@ -4,10 +4,10 @@ date: March 2 2013
 slug: csumb-reaches-out-to-black-community
 ---
 
+`html`html
 
+<span class="date">Posted on Mar 02, 2013 </span>
 
-
-<span class="date">Posted on Mar 02, 2013    </span>
 <p><a href="http://blogs.calstate.edu/voicesviews/?p=1607" rel="nofollow">View a photo essay from Super Sunday<br>
 <br>
 L</br></br></a><a href="http://www.californiareport.org/archive/R201303011630/b" rel="nofollow">isten to an NPR report here</a></p>
@@ -56,3 +56,6 @@ and graduation rates among African American students.</p>
 582-3738.<br>
 &#xA0;</br></p>
 
+```
+
+```

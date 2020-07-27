@@ -4,4 +4,62 @@ title: "CSUMB awarded $8 million innovation grants"
 date: January 01 2020
 ---
 
-<p><i>Published on March 20, 2015</i></p><p>The innovative work being done by CSU Monterey Bay was recognized by the state through its Awards for Innovation in Higher Education.</p><p>CSIT-in-3, a program that allows students to earn a computer science degree in three years, was ranked among the top five applications and was awarded $5 million. CSIT-in-3 is a collaboration between Hartnell College and CSUMB that started in 2013.</p><p>It is one of two CSUMB programs that received funding. A developmental math course was awarded $3 million.</p><p>The fund, proposed by Gov. Jerry Brown and included in last year’s budget, was doled out to colleges and universities for devising creative and cost-effective ways to get more students to earn degrees in less time.</p><p>A total of 58 proposals were submitted by 52 colleges and universities. Fourteen of them were funded; a committee chaired by the governor’s finance director decided how to allocate the money.</p><p>The CSIT-in-3 program represents a new model for bachelor’s degree completion as well as for improving enrollment, retention, transfer and graduation for underrepresented students in technology. It’s cohort-based, meaning students who start the program together take all classes, participate in extra-curricular activities and graduate together. Students benefit from workshops, field trips and guest speakers.</p><p>“We believe that CSIT-in-3 is the only program of its kind in the country,” said Hartnell President Willard Lewallen. “It’s the most innovative program I’ve been involved with in my 36 years in education.” Lewallen went on to say that the program involves an unprecedented level of collaboration between the two schools.</p><p>Math@CSUMB is designed to increase the success of students who are required to take developmental math in their freshman year.</p><p>Nationwide, half of all college students need remedial math, and only 50 percent of them pass the class the first time they take it. Math@CSUMB has increased the success rate to approximately 90 percent, and has contributed to a dramatic increase in student retention at CSUMB.</p><p>The classes are built around activities and student work rather than traditional lecture formats. They use tutoring, supplemental instruction and a high-tech environment that provides immediate feedback. And university faculty members work with community college and K-12 teachers to implement similar strategies at their schools.</p>
+```html
+<p><i>Published on March 20, 2015</i></p>
+<p>
+  The innovative work being done by CSU Monterey Bay was recognized by the state
+  through its Awards for Innovation in Higher Education.
+</p>
+<p>
+  CSIT-in-3, a program that allows students to earn a computer science degree in
+  three years, was ranked among the top five applications and was awarded $5
+  million. CSIT-in-3 is a collaboration between Hartnell College and CSUMB that
+  started in 2013.
+</p>
+<p>
+  It is one of two CSUMB programs that received funding. A developmental math
+  course was awarded $3 million.
+</p>
+<p>
+  The fund, proposed by Gov. Jerry Brown and included in last year’s budget, was
+  doled out to colleges and universities for devising creative and
+  cost-effective ways to get more students to earn degrees in less time.
+</p>
+<p>
+  A total of 58 proposals were submitted by 52 colleges and universities.
+  Fourteen of them were funded; a committee chaired by the governor’s finance
+  director decided how to allocate the money.
+</p>
+<p>
+  The CSIT-in-3 program represents a new model for bachelor’s degree completion
+  as well as for improving enrollment, retention, transfer and graduation for
+  underrepresented students in technology. It’s cohort-based, meaning students
+  who start the program together take all classes, participate in
+  extra-curricular activities and graduate together. Students benefit from
+  workshops, field trips and guest speakers.
+</p>
+<p>
+  “We believe that CSIT-in-3 is the only program of its kind in the country,”
+  said Hartnell President Willard Lewallen. “It’s the most innovative program
+  I’ve been involved with in my 36 years in education.” Lewallen went on to say
+  that the program involves an unprecedented level of collaboration between the
+  two schools.
+</p>
+<p>
+  Math@CSUMB is designed to increase the success of students who are required to
+  take developmental math in their freshman year.
+</p>
+<p>
+  Nationwide, half of all college students need remedial math, and only 50
+  percent of them pass the class the first time they take it. Math@CSUMB has
+  increased the success rate to approximately 90 percent, and has contributed to
+  a dramatic increase in student retention at CSUMB.
+</p>
+<p>
+  The classes are built around activities and student work rather than
+  traditional lecture formats. They use tutoring, supplemental instruction and a
+  high-tech environment that provides immediate feedback. And university faculty
+  members work with community college and K-12 teachers to implement similar
+  strategies at their schools.
+</p>
+```

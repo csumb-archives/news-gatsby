@@ -4,10 +4,10 @@ date: July 27 2014
 slug: csumb-carmel-collaborate-on-city-project
 ---
 
+`html`html
 
+<span class="date">Posted on Jul 27, 2014 </span>
 
-
-<span class="date">Posted on Jul 27, 2014    </span>
 <p>A Carmel city councilwoman put out a call for help, and CSU
 Monterey Bay faculty, staff and students responded.</p>
 <p>For their work in mapping the city&#x2019;s trails using geographic
@@ -52,7 +52,6 @@ President Eduardo Ochoa a proclamation thanking the university for
 its help with a city project</em><br>
 &#xA0;</br></p>
 
+```
 
-
-
-
+```

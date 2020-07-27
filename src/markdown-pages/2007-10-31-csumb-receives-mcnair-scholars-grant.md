@@ -4,6 +4,7 @@ date: October 31 2007
 slug: csumb-receives-mcnair-scholars-grant
 ---
 
+```html
 
 
 
@@ -68,3 +69,4 @@ them through to the Ph.D,&quot; said Dr. Curry.</p>
 
 
 
+```

@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Culture Cures &#x2013; a car accident left Amalia MesaBains physically injured
+title:
+  &gt;- Culture Cures &#x2013; a car accident left Amalia MesaBains physically injured
   but the spirit of the Latina artist thrives
 date: May 11 2007
-slug: &gt;-
-  culture-cures---x2013--a-car-accident-left-amalia-mesabains-physically-injured-but-the-spirit-of-the-latina-artist-thrives
+slug: &gt;- culture-cures-&#x2013;-a-car-accident-left-amalia-mesabains-physically-injured-but-the-spirit-of-the-latina-artist-thrives
 ---
 
+```html
 
 
 
@@ -24,3 +24,4 @@ cultura.&quot;<br>
 
 
 
+```

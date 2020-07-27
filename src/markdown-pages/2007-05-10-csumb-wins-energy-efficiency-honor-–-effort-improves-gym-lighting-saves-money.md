@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  CSUMB wins energy efficiency honor &#x2013; effort improves gym lighting saves
+title:
+  &gt;- CSUMB wins energy efficiency honor &#x2013; effort improves gym lighting saves
   money
 date: May 10 2007
-slug: &gt;-
-  csumb-wins-energy-efficiency-honor---x2013--effort-improves-gym-lighting-saves-money
+slug: &gt;- csumb-wins-energy-efficiency-honor-&#x2013;-effort-improves-gym-lighting-saves-money
 ---
 
+```html
 
 
 
@@ -21,3 +21,4 @@ received a statewide award.<br>
 
 
 
+```

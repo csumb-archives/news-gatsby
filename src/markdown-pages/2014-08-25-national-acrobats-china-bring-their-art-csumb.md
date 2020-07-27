@@ -4,6 +4,7 @@ date: August 25 2014
 slug: national-acrobats-of-china-bring-their-art-to-csumb
 ---
 
+```html
 
 
 
@@ -68,3 +69,4 @@ Driving directions and a campus map are available <a href="http://csumb.edu/maps
 
 
 
+```

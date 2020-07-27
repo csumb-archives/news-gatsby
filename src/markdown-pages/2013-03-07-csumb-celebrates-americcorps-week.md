@@ -4,6 +4,7 @@ date: March 7 2013
 slug: csumb-celebrates-americorps-week
 ---
 
+```html
 
 
 
@@ -77,3 +78,4 @@ Service Learning at CSUMB</a>.</p>
 
 
 
+```

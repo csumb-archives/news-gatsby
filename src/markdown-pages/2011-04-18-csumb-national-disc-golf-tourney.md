@@ -4,10 +4,10 @@ date: April 18 2011
 slug: csumb-10th-at-national-disc-golf-tournament
 ---
 
+`html`html
 
+<span class="date">Posted on Apr 18, 2011 </span>
 
-
-<span class="date">Posted on Apr 18, 2011    </span>
 <p>&#xA0;</p>
 <h2><img alt="James Lustenader at the 2010 national tournament" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/2010_nationals.jpg" style="width:533px; height:400px"/></h2>
 <h2>THE PERFECT FLING</h2>
@@ -51,7 +51,6 @@ here</a>.&#xA0;</br></br></br></br></p>
 <p><br>
 &#xA0;</br></p>
 
+```
 
-
-
-
+```

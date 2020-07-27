@@ -4,6 +4,7 @@ date: February 26 2012
 slug: csumb-new-home-to-summer-arts-program
 ---
 
+```html
 
 
 
@@ -108,3 +109,4 @@ click <a href="http://www.csusummerarts.org." rel="nofollow">here</a>.</br></br>
 
 
 
+```

@@ -4,7 +4,68 @@ title: "CSUMB Student Daniel Olivares Awarded U.S. Department of State’s Benja
 date: January 01 2020
 ---
 
-<p>CSUMB student Daniel Olivares is one of nearly 1,000 American undergraduate students from 386 colleges and universities across the United States selected to receive the prestigious <a href="https://exchanges.state.gov/us/program/benjamin-gilman-international-scholarship-program">Benjamin A. Gilman International Scholarship</a> to study or intern abroad during the 2017-2018 academic year.<b></b></p><p>The Gilman Scholarship will provide financial support for Olivares, who has just finished his first semester abroad in Cordoba, Spain studying at the University of Cordoba. Olivares is an ecology, evolution and organismal biology major within CSUMB’s <a href="https://csumb.edu/naturalsciences">School of Natural Sciences</a>, and also minoring in education. He is expected to graduate spring of 2019.</p><p>“This scholarship provides me with financial relief while I am here studying abroad, and since I am from low-income background that means a lot to me,” said Olivares. “It also gives me the opportunity to travel a bit more and explore more of Europe. This scholarship means stability to me and it also opens windows for exploration of new countries. I think that is wonderful.”</p><p>Olivares admits that it has been a stressful new experience at times but that he ultimately feels more capable and confident because of overcoming the challenges along the way.</p><p>“I have started from scratch here and have found comfort and motivations. This experience has further developed my independence, but it has also prepared me to become ready for a career in STEM. I have developed my bilingual skills in my biology major while I have been here, and may even have an opportunity to participate in international research. The main message to take away is that study abroad experiences are what you make of them. They are an opportunity to have fun and make new friends, but they can also be develop yourself in your major as a professional in a unique way you may have never considered. It is extremely rewarding and helps you develop as an individual overall.”</p><p>After CSUMB, Olivares hopes pursue a Ph.D in evolutionary biology and continue being a researcher or coordinating programs that help expose underrepresented students to undergraduate research opportunities. Olivares encourages other students who may be thinking about applying or studying abroad to apply and to use the <a href="https://csumb.edu/educationabroad/scholarships">education abroad resources available at CSUMB</a>.</p><p>"When applying for the Gilman scholarship, find a person who can critique your personal statement. Ask questions to your study abroad coordinator if you get stuck
-throughout the application process. The Gilman website also has very helpful videos and
-information to assist you. Be organized with everything you have to turn in for
-the application." </p><p>The Gilman Program is sponsored by the U.S. Department of State’s Bureau of Educational and Cultural Affairs and is supported in its implementation by the Institute of International Education (IIE). <i></i></p>
+```html
+<p>
+  CSUMB student Daniel Olivares is one of nearly 1,000 American undergraduate
+  students from 386 colleges and universities across the United States selected
+  to receive the prestigious
+  <a
+    href="https://exchanges.state.gov/us/program/benjamin-gilman-international-scholarship-program"
+    >Benjamin A. Gilman International Scholarship</a
+  >
+  to study or intern abroad during the 2017-2018 academic year.<b></b>
+</p>
+<p>
+  The Gilman Scholarship will provide financial support for Olivares, who has
+  just finished his first semester abroad in Cordoba, Spain studying at the
+  University of Cordoba. Olivares is an ecology, evolution and organismal
+  biology major within CSUMB’s
+  <a href="https://csumb.edu/naturalsciences">School of Natural Sciences</a>,
+  and also minoring in education. He is expected to graduate spring of 2019.
+</p>
+<p>
+  “This scholarship provides me with financial relief while I am here studying
+  abroad, and since I am from low-income background that means a lot to me,”
+  said Olivares. “It also gives me the opportunity to travel a bit more and
+  explore more of Europe. This scholarship means stability to me and it also
+  opens windows for exploration of new countries. I think that is wonderful.”
+</p>
+<p>
+  Olivares admits that it has been a stressful new experience at times but that
+  he ultimately feels more capable and confident because of overcoming the
+  challenges along the way.
+</p>
+<p>
+  “I have started from scratch here and have found comfort and motivations. This
+  experience has further developed my independence, but it has also prepared me
+  to become ready for a career in STEM. I have developed my bilingual skills in
+  my biology major while I have been here, and may even have an opportunity to
+  participate in international research. The main message to take away is that
+  study abroad experiences are what you make of them. They are an opportunity to
+  have fun and make new friends, but they can also be develop yourself in your
+  major as a professional in a unique way you may have never considered. It is
+  extremely rewarding and helps you develop as an individual overall.”
+</p>
+<p>
+  After CSUMB, Olivares hopes pursue a Ph.D in evolutionary biology and continue
+  being a researcher or coordinating programs that help expose underrepresented
+  students to undergraduate research opportunities. Olivares encourages other
+  students who may be thinking about applying or studying abroad to apply and to
+  use the
+  <a href="https://csumb.edu/educationabroad/scholarships"
+    >education abroad resources available at CSUMB</a
+  >.
+</p>
+<p>
+  "When applying for the Gilman scholarship, find a person who can critique your
+  personal statement. Ask questions to your study abroad coordinator if you get
+  stuck throughout the application process. The Gilman website also has very
+  helpful videos and information to assist you. Be organized with everything you
+  have to turn in for the application."
+</p>
+<p>
+  The Gilman Program is sponsored by the U.S. Department of State’s Bureau of
+  Educational and Cultural Affairs and is supported in its implementation by the
+  Institute of International Education (IIE). <i></i>
+</p>
+```

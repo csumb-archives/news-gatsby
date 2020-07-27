@@ -4,6 +4,7 @@ date: September 14 2014
 slug: campus-celebrates-chicano-latino-heritage-month
 ---
 
+```html
 
 
 
@@ -111,3 +112,4 @@ month</a></p>
 
 
 
+```

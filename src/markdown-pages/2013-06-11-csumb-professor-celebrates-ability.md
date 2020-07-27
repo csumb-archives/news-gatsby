@@ -1,9 +1,10 @@
 ---
 title: CSUMB professor celebrates &apos;ability&apos;
 date: June 11 2013
-slug: csumb-professor-celebrates--apos-ability-apos-
+slug: csumb-professor-celebrates-&apos;ability&apos;
 ---
 
+```html
 
 
 
@@ -77,3 +78,4 @@ the Visual and Public Art Department</a><br>
 
 
 
+```

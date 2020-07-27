@@ -4,6 +4,7 @@ date: June 3 2014
 slug: a-long-way-from-home
 ---
 
+```html
 
 
 
@@ -56,3 +57,4 @@ Bottom: Luke in Portland</br></br></em></p>
 
 
 
+```

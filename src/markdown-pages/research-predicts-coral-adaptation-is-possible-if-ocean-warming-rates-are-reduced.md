@@ -4,4 +4,59 @@ title: "Research Predicts Coral Adaptation is Possible if Ocean Warming Rates ar
 date: January 01 2020
 ---
 
-<p>SEASIDE, Ca., November 1, 2017 – A new study led by researchers from UC Davis, UCLA, Stanford University and California State University, Monterey Bay (CSUMB) predicts coral adaptation is possible if ocean warming rates are reduced. Published in the <a href="http://advances.sciencemag.org/content/3/11/e1701413">Science Advances</a> publication November 1, 2017, this research provides a clearer picture of how genetic variation in corals can improve the forecast for corals under mild climate warming.</p><p>Coral reefs are a major source of food, offer storm protection and are reservoirs of biodiversity, but are threatened by mass bleaching events caused by rises in ocean temperature associated with human-caused climate change.</p><p>While this research shows that genetic adaptation could allow corals to withstand rising ocean temperatures, the threat to corals still exists if warming rates are not reduced. Required adaptation rates can only occur within threatened populations if enough genetic variation exists and the rate of ocean warming is not too fast for the adaption to keep up</p><p>"Most models do not include the capacity of corals to genetically adapt to a changing environment,” said Cheryl Logan, co-author and associate professor at <a href="https://csumb.edu/naturalsciences">CSUMB’s School of Natural Sciences</a>. “This study is unique because it combines the genetic basis of thermal tolerance from a natural population into a predictive model of coral persistence. Our results provide a clearer picture of how genetic variation can improve the forecast for corals under mild climate warming."</p><p>This research used a population of bleaching-resistant corals from American Samoa and a population of susceptible corals from Rarotonga, Cook Islands allowing researchers to model whether natural selection on the genetic variation present in the susceptible population could enable adaptation to a warming climate under realistic ocean warming scenarios. The analysis found that adaptation is possible under reduced emissions scenarios but that extinction is likely if emissions are not rapidly reduced.</p><p>The results show that cool-water corals can adapt to warmer oceans, but only under mild scenarios resulting from international emissions controls. Incorporation of genomic data into models of species response to climate change offers a promising method for estimating future adaptive processes.</p><p>The project was funded by the Stanford Office of International Affairs; Stanford Center for Computational, Evolutionary, and Human Genomics; the National Science Foundation; and the Gordon and Betty Moore Foundation.</p>
+```html
+<p>
+  SEASIDE, Ca., November 1, 2017 – A new study led by researchers from UC Davis,
+  UCLA, Stanford University and California State University, Monterey Bay
+  (CSUMB) predicts coral adaptation is possible if ocean warming rates are
+  reduced. Published in the
+  <a href="http://advances.sciencemag.org/content/3/11/e1701413"
+    >Science Advances</a
+  >
+  publication November 1, 2017, this research provides a clearer picture of how
+  genetic variation in corals can improve the forecast for corals under mild
+  climate warming.
+</p>
+<p>
+  Coral reefs are a major source of food, offer storm protection and are
+  reservoirs of biodiversity, but are threatened by mass bleaching events caused
+  by rises in ocean temperature associated with human-caused climate change.
+</p>
+<p>
+  While this research shows that genetic adaptation could allow corals to
+  withstand rising ocean temperatures, the threat to corals still exists if
+  warming rates are not reduced. Required adaptation rates can only occur within
+  threatened populations if enough genetic variation exists and the rate of
+  ocean warming is not too fast for the adaption to keep up
+</p>
+<p>
+  "Most models do not include the capacity of corals to genetically adapt to a
+  changing environment,” said Cheryl Logan, co-author and associate professor at
+  <a href="https://csumb.edu/naturalsciences"
+    >CSUMB’s School of Natural Sciences</a
+  >. “This study is unique because it combines the genetic basis of thermal
+  tolerance from a natural population into a predictive model of coral
+  persistence. Our results provide a clearer picture of how genetic variation
+  can improve the forecast for corals under mild climate warming."
+</p>
+<p>
+  This research used a population of bleaching-resistant corals from American
+  Samoa and a population of susceptible corals from Rarotonga, Cook Islands
+  allowing researchers to model whether natural selection on the genetic
+  variation present in the susceptible population could enable adaptation to a
+  warming climate under realistic ocean warming scenarios. The analysis found
+  that adaptation is possible under reduced emissions scenarios but that
+  extinction is likely if emissions are not rapidly reduced.
+</p>
+<p>
+  The results show that cool-water corals can adapt to warmer oceans, but only
+  under mild scenarios resulting from international emissions controls.
+  Incorporation of genomic data into models of species response to climate
+  change offers a promising method for estimating future adaptive processes.
+</p>
+<p>
+  The project was funded by the Stanford Office of International Affairs;
+  Stanford Center for Computational, Evolutionary, and Human Genomics; the
+  National Science Foundation; and the Gordon and Betty Moore Foundation.
+</p>
+```

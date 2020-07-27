@@ -4,7 +4,45 @@ title: "Spirit banner wins top prize for RHA"
 date: January 01 2020
 ---
 
-<p>Members of the Residential Housing Association told the world why they love their home at CSU Monterey Bay, and won an award for their efforts.
-</p><p>Prior to attending the National Association of College and University Residence Halls Pacific Region conference in Pullman, Wash., the RHA created a banner that demonstrated what being home meant to them, and then submitted it for judging at the Nov. 4-6 event.
-</p><p>All 45 of the contest entries were displayed electronically on video screens placed throughout the conference venue. Designed around the theme Welcome Home, It’s Where You Live, CSUMB’s banner took top honors as the best spirit banner in the large-school division. The judges’ decision was based on creativity, originality, aesthetic value, relation to conference theme and visibility of school name. ? “Our school is considered a large school based on our residential population,” said Jenni Plueard, community director for residential learning and leadership programs. “We’re in the same category as UCLA (with over 10,000 residents), USC and UC Berkeley.” Plueard credited Bradley Schoch, a graduate student and RHA volunteer, with designing the banner. The banner is displayed in the RHA office in Willet Hall (but will soon move to the Teaching, Learning and Assessment building). “And we will make some printouts to use at our upcoming events,” Plueard said. She added that the group is discussing other ways to make use of the winning design. The RHA is a student-run organization dedicated to serving as a voice for the residents of campus housing, and “guiding them in a positive living experience,” Plueard said. “It addresses issues related to community life, offers a safe environment through on-campus activities and provides leadership opportunities to all residents.” RHA-sponsored events this year include Otter Days ice cream social and pool party, open mic nights, fireside chats, Harvest Dinner and Eggs After Dark. “We have reached over 4,000 residents, students, staff and faculty members through our programming efforts so far this year.” The National Association of College and University Residence Halls is a collection of hundreds of member schools in the United States, Canada, Mexico, Australia and Qatar. CSUMB is a member of the Pacific Affiliate, made up of student-run residence hall associations at colleges and universities in Alaska, California, Hawaii, Nevada, Oregon, Washington, Australia and parts of Canada.  
+```html
+<p>
+  Members of the Residential Housing Association told the world why they love
+  their home at CSU Monterey Bay, and won an award for their efforts.
 </p>
+<p>
+  Prior to attending the National Association of College and University
+  Residence Halls Pacific Region conference in Pullman, Wash., the RHA created a
+  banner that demonstrated what being home meant to them, and then submitted it
+  for judging at the Nov. 4-6 event.
+</p>
+<p>
+  All 45 of the contest entries were displayed electronically on video screens
+  placed throughout the conference venue. Designed around the theme Welcome
+  Home, It’s Where You Live, CSUMB’s banner took top honors as the best spirit
+  banner in the large-school division. The judges’ decision was based on
+  creativity, originality, aesthetic value, relation to conference theme and
+  visibility of school name. ? “Our school is considered a large school based on
+  our residential population,” said Jenni Plueard, community director for
+  residential learning and leadership programs. “We’re in the same category as
+  UCLA (with over 10,000 residents), USC and UC Berkeley.” Plueard credited
+  Bradley Schoch, a graduate student and RHA volunteer, with designing the
+  banner. The banner is displayed in the RHA office in Willet Hall (but will
+  soon move to the Teaching, Learning and Assessment building). “And we will
+  make some printouts to use at our upcoming events,” Plueard said. She added
+  that the group is discussing other ways to make use of the winning design. The
+  RHA is a student-run organization dedicated to serving as a voice for the
+  residents of campus housing, and “guiding them in a positive living
+  experience,” Plueard said. “It addresses issues related to community life,
+  offers a safe environment through on-campus activities and provides leadership
+  opportunities to all residents.” RHA-sponsored events this year include Otter
+  Days ice cream social and pool party, open mic nights, fireside chats, Harvest
+  Dinner and Eggs After Dark. “We have reached over 4,000 residents, students,
+  staff and faculty members through our programming efforts so far this year.”
+  The National Association of College and University Residence Halls is a
+  collection of hundreds of member schools in the United States, Canada, Mexico,
+  Australia and Qatar. CSUMB is a member of the Pacific Affiliate, made up of
+  student-run residence hall associations at colleges and universities in
+  Alaska, California, Hawaii, Nevada, Oregon, Washington, Australia and parts of
+  Canada.
+</p>
+```

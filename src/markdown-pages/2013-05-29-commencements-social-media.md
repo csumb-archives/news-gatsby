@@ -1,9 +1,10 @@
 ---
 title: Commencement&apos;s social media
 date: May 29 2013
-slug: commencement-apos-s-social-media
+slug: commencement&apos;s-social-media
 ---
 
+```html
 
 
 
@@ -22,3 +23,4 @@ media:</p>
 
 
 
+```

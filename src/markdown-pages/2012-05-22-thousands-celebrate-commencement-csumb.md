@@ -4,6 +4,7 @@ date: May 22 2012
 slug: thousands-celebrate-commencement-at-csumb
 ---
 
+```html
 
 
 
@@ -127,3 +128,4 @@ To see more photos, click <a href="../../../../gallery/thousands-celebrate-2012-
 
 
 
+```

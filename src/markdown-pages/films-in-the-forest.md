@@ -4,7 +4,46 @@ title: "FILMS IN THE FOREST"
 date: January 01 2020
 ---
 
-<h4>CSUMB presents student-made short screen gems July 14</h4><p>Grab your blankets and pillows and head to the forest. The Forest Theater Guild will host a stellar selection of CSU Monterey Bay student films at this year’s Carmel Short Cinema Festival on July 14 at the outdoor Forest Theater. The showing will begin at sunset. Admission is $10. The program is about an hour long.
-</p><p>This year’s festival will feature eight professional-quality film productions spanning genres, including narrative, animated, and experimental works. The collection represents the Cinematic Arts’ best program yet, with works inspiring a wide range of emotional responses. For example, In “Please Tell Someone, Dear,” writer, editor and director Margo Flitcraft tells a heartbreaking story about sexual assault in the military and coping with PTSD. In “Big Sur,” exceptional cinematographer Stephen Miller shows just why that landscape is so treasured. Danny Orona’s “Sisyphus” is a complex, riveting psychological thriller. “Boredom Under Fire,” created by Rachel Kellum, Serena Bramble and Michael Marks-Nino, is a comic wartime foxhole drama. And “Blue” is a delicately handmade stop-frame animation about the unexpected joy for creativity. Please note that some films in the program contain mature language or violence and are not appropriate for young children. Tickets can be purchased at the door. The program is expected to start around 8:30 p.m. Spectators are advised to wear warm clothing and may want to bring a blanket. Concessions will be available. The Forest Theater is located at the corner of Mountain View and Santa Rita streets near downtown Carmel. For information, visit <a href="http://www.foresttheaterguild.org./" title="http://www.foresttheaterguild.org./">http://www.foresttheaterguild.org./</a> This program is presented with support from the Monterey Bay Film Society. The Monterey Bay Film Society is the Central Coast’s premiere organization for independent filmmaking, media art and community and is presented by the Cinematic Arts and Technology Department at CSUMB. Its mission is to promote the cinematic arts with year-round programs and works to develop and support the unique voice of the local communities. It also provides free media workshops for at-risk and underserved youngsters throughout Monterey County.
-</p><p><em>Photo from the film "Blue," by Leanna Munoz</em>
+```html
+<h4>CSUMB presents student-made short screen gems July 14</h4>
+<p>
+  Grab your blankets and pillows and head to the forest. The Forest Theater
+  Guild will host a stellar selection of CSU Monterey Bay student films at this
+  year’s Carmel Short Cinema Festival on July 14 at the outdoor Forest Theater.
+  The showing will begin at sunset. Admission is $10. The program is about an
+  hour long.
 </p>
+<p>
+  This year’s festival will feature eight professional-quality film productions
+  spanning genres, including narrative, animated, and experimental works. The
+  collection represents the Cinematic Arts’ best program yet, with works
+  inspiring a wide range of emotional responses. For example, In “Please Tell
+  Someone, Dear,” writer, editor and director Margo Flitcraft tells a
+  heartbreaking story about sexual assault in the military and coping with PTSD.
+  In “Big Sur,” exceptional cinematographer Stephen Miller shows just why that
+  landscape is so treasured. Danny Orona’s “Sisyphus” is a complex, riveting
+  psychological thriller. “Boredom Under Fire,” created by Rachel Kellum, Serena
+  Bramble and Michael Marks-Nino, is a comic wartime foxhole drama. And “Blue”
+  is a delicately handmade stop-frame animation about the unexpected joy for
+  creativity. Please note that some films in the program contain mature language
+  or violence and are not appropriate for young children. Tickets can be
+  purchased at the door. The program is expected to start around 8:30 p.m.
+  Spectators are advised to wear warm clothing and may want to bring a blanket.
+  Concessions will be available. The Forest Theater is located at the corner of
+  Mountain View and Santa Rita streets near downtown Carmel. For information,
+  visit
+  <a
+    href="http://www.foresttheaterguild.org./"
+    title="http://www.foresttheaterguild.org./"
+    >http://www.foresttheaterguild.org./</a
+  >
+  This program is presented with support from the Monterey Bay Film Society. The
+  Monterey Bay Film Society is the Central Coast’s premiere organization for
+  independent filmmaking, media art and community and is presented by the
+  Cinematic Arts and Technology Department at CSUMB. Its mission is to promote
+  the cinematic arts with year-round programs and works to develop and support
+  the unique voice of the local communities. It also provides free media
+  workshops for at-risk and underserved youngsters throughout Monterey County.
+</p>
+<p><em>Photo from the film "Blue," by Leanna Munoz</em></p>
+```

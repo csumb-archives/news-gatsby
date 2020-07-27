@@ -4,10 +4,10 @@ date: December 2 2012
 slug: concert-features-chamber-music-by-csumb-instructor
 ---
 
+`html`html
 
+<span class="date">Posted on Dec 02, 2012 </span>
 
-
-<span class="date">Posted on Dec 02, 2012    </span>
 <h3>Community invited to free event</h3>
 <p><img alt="Dr. Lanier Sammons" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/sammons.lanier.small_.jpg" style="float:right; width:250px; height:338px">Dr. Lanier
 Sammons, a lecturer in the Music and Performing Arts Department,
@@ -54,7 +54,6 @@ semester at CSUMB. For more information, visit his <a href="http://www.laniersam
 <br>
 <em>Photo courtesy of Dr. Sammons</em></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></p>
 
+```
 
-
-
-
+```

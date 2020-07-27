@@ -4,6 +4,7 @@ date: June 24 2014
 slug: csumb-names-new-dean-of-education
 ---
 
+```html
 
 
 
@@ -18,3 +19,4 @@ Education.<br>
 
 
 
+```

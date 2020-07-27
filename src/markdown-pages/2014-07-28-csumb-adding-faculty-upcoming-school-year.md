@@ -4,6 +4,7 @@ date: July 28 2014
 slug: csumb-adding-faculty-for-upcoming-school-year
 ---
 
+```html
 
 
 
@@ -89,3 +90,4 @@ State University</br></br></br></br></br></br></br></br></br></br></br></br></br
 
 
 
+```

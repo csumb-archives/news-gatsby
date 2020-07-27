@@ -4,6 +4,7 @@ date: May 24 2005
 slug: quirky-campus-marks-decade-of-dreaming
 ---
 
+```html
 
 
 
@@ -19,3 +20,4 @@ base.<br>
 
 
 
+```

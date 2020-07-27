@@ -4,6 +4,7 @@ date: January 30 2013
 slug: robert-danziger-receives-honorary-doctorate
 ---
 
+```html
 
 
 
@@ -70,3 +71,4 @@ chair of CSUMB&apos;s Faculty Senate, Carl Ferguson, looks on</em><br>
 
 
 
+```

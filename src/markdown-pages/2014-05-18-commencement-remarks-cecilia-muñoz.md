@@ -1,9 +1,10 @@
 ---
 title: of service&apos;
 date: May 18 2014
-slug: of-service-apos-
+slug: of-service&apos;
 ---
 
+```html
 
 
 
@@ -252,3 +253,4 @@ now.<br>
 <br>
 We are engaged in debates that will affect your lives directly, on
 things like making college affordable and manag</br></br></p>
+```

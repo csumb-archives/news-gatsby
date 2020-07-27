@@ -4,6 +4,51 @@ title: "Native American History Week Nov. 12-18"
 date: January 01 2020
 ---
 
-<p>Film showings, lectures and panel presentations are all part of the celebration of Native American History Week at California State University, Monterey Bay Nov. 12-18. Organized by members of the faculty in the Division of Social, Behavioral and Global Studies, the schedule includes three films by the producer-director team of Steven Heape and Chip Richie and a variety of other events. Here’s the schedule: <strong>• Nov. 12:</strong> Film showing, noon-2 p.m., University Center on Sixth Avenue <em>Our Spirits Don’t Speak English: Indian Boarding School,</em> which presents a Native American perspective on Indian boarding schools and uncovers the dark history of U.S. government policy which took Indian children from their homes, forced them into boarding schools and enacted a policy of educating them in the ways of Western society. <strong>• Nov. 15:</strong> Film showing, 6-8 p.m., University Center on Sixth Avenue <em>The Trail of Tears: Cherokee Legacy,</em> an award-winning film that documents the forced removal of the Cherokee Nation to Oklahoma as a result of the Indian Removal Act of 1830. Nearly a quarter of the Cherokee died during the Trail of Tears, arriving in Indian Territory with few elders and even fewer children. Moderated by Professor Kathryn England-Aytes. <strong>• Nov. 16</strong> Film showing, 6-8 p.m., University Center on Sixth Avenue <em>Don’t Get Sick After June: American Indian Healthcare</em>, a documentary telling the story of Indian healthcare and the Indian Health Service, told from the Native American prospective. Moderated by Dr. George Baldwin. Artist demonstration, time and place to be determined (will be repeated on Nov. 17) Carmel artist Emy Ledbetter specializes in Native American paintings. She’ll demonstrate a mixed-media process on canvas involving acrylics and a resist process that is repeated again and again, layer by layer. Ultimately figures appear that seem to float in a field of texture and color. <strong>• Nov. 17</strong> Panel presentation, noon-2 p.m., University Center on Sixth Avenue <em>Two Daughters of Coyote</em>, featuring Cari Herthel talking about "Protecting Sacred Sites in Monterey,” and Lorraine Escobar speaking on “Worthless Paper, Shattered Identities.”
-</p><p>Guest speaker, 6-9:30 p.m., University Center on Sixth Avenue Dr. Amy Lonetree of UC Santa Cruz will talk on the topic of “Visualizing Native Survivance: Encounters with my Ho-Chunk Ancestors in the Photographs of Charles Van Schaick, 1879-1925” <strong>• Nov. 18</strong> Guest speaker, 4-5:20 p.m., Music Hall on Sixth Avenue Dr. Paul Steele will talk on “Reflections on Children Living on Tribal Lands.” Dr. Steele presented his research on child abuse involving children on tribal lands before a Congressional subcommittee several years ago, and is a nationally known child advocate. The community is welcome to attend the events, which are free. For more information or disability accommodatiions, call 582-3890. Driving directions and a campus map are available at csumb.edu/map.  
+```html
+<p>
+  Film showings, lectures and panel presentations are all part of the
+  celebration of Native American History Week at California State University,
+  Monterey Bay Nov. 12-18. Organized by members of the faculty in the Division
+  of Social, Behavioral and Global Studies, the schedule includes three films by
+  the producer-director team of Steven Heape and Chip Richie and a variety of
+  other events. Here’s the schedule: <strong>• Nov. 12:</strong> Film showing,
+  noon-2 p.m., University Center on Sixth Avenue
+  <em>Our Spirits Don’t Speak English: Indian Boarding School,</em> which
+  presents a Native American perspective on Indian boarding schools and uncovers
+  the dark history of U.S. government policy which took Indian children from
+  their homes, forced them into boarding schools and enacted a policy of
+  educating them in the ways of Western society.
+  <strong>• Nov. 15:</strong> Film showing, 6-8 p.m., University Center on Sixth
+  Avenue <em>The Trail of Tears: Cherokee Legacy,</em> an award-winning film
+  that documents the forced removal of the Cherokee Nation to Oklahoma as a
+  result of the Indian Removal Act of 1830. Nearly a quarter of the Cherokee
+  died during the Trail of Tears, arriving in Indian Territory with few elders
+  and even fewer children. Moderated by Professor Kathryn England-Aytes.
+  <strong>• Nov. 16</strong> Film showing, 6-8 p.m., University Center on Sixth
+  Avenue <em>Don’t Get Sick After June: American Indian Healthcare</em>, a
+  documentary telling the story of Indian healthcare and the Indian Health
+  Service, told from the Native American prospective. Moderated by Dr. George
+  Baldwin. Artist demonstration, time and place to be determined (will be
+  repeated on Nov. 17) Carmel artist Emy Ledbetter specializes in Native
+  American paintings. She’ll demonstrate a mixed-media process on canvas
+  involving acrylics and a resist process that is repeated again and again,
+  layer by layer. Ultimately figures appear that seem to float in a field of
+  texture and color. <strong>• Nov. 17</strong> Panel presentation, noon-2 p.m.,
+  University Center on Sixth Avenue <em>Two Daughters of Coyote</em>, featuring
+  Cari Herthel talking about "Protecting Sacred Sites in Monterey,” and Lorraine
+  Escobar speaking on “Worthless Paper, Shattered Identities.”
 </p>
+<p>
+  Guest speaker, 6-9:30 p.m., University Center on Sixth Avenue Dr. Amy Lonetree
+  of UC Santa Cruz will talk on the topic of “Visualizing Native Survivance:
+  Encounters with my Ho-Chunk Ancestors in the Photographs of Charles Van
+  Schaick, 1879-1925” <strong>• Nov. 18</strong> Guest speaker, 4-5:20 p.m.,
+  Music Hall on Sixth Avenue Dr. Paul Steele will talk on “Reflections on
+  Children Living on Tribal Lands.” Dr. Steele presented his research on child
+  abuse involving children on tribal lands before a Congressional subcommittee
+  several years ago, and is a nationally known child advocate. The community is
+  welcome to attend the events, which are free. For more information or
+  disability accommodatiions, call 582-3890. Driving directions and a campus map
+  are available at csumb.edu/map.
+</p>
+```

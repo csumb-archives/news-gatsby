@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  All in a Name &#x2013; the CSUMB community ponders the most important moniker
+title:
+  &gt;- All in a Name &#x2013; the CSUMB community ponders the most important moniker
   on campus
 date: October 12 2006
-slug: &gt;-
-  all-in-a-name---x2013--the-csumb-community-ponders-the-most-important-moniker-on-campus
+slug: &gt;- all-in-a-name-&#x2013;-the-csumb-community-ponders-the-most-important-moniker-on-campus
 ---
 
+```html
 
 
 
@@ -20,3 +20,4 @@ sideline and gracing all the school&apos;s logos.<br>
 
 
 
+```

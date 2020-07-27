@@ -4,6 +4,7 @@ date: March 7 2006
 slug: blown-away-by-oscar-coup
 ---
 
+```html
 
 
 
@@ -20,3 +21,4 @@ documentary short at Sunday&apos;s ceremony in Los Angeles.<br>
 
 
 
+```

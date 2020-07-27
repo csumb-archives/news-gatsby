@@ -4,6 +4,7 @@ date: October 21 2013
 slug: hoops-under-way-at-csumb
 ---
 
+```html
 
 
 
@@ -18,3 +19,4 @@ weeks.<br>
 
 
 
+```

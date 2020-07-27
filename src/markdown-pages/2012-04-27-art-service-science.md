@@ -4,6 +4,7 @@ date: April 27 2012
 slug: art-in-the-service-of-science
 ---
 
+```html
 
 
 
@@ -85,3 +86,4 @@ illustration to &#x201C;Field Notes on Science and Nature,&#x201D; published in
 
 
 
+```

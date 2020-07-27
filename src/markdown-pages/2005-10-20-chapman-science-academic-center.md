@@ -4,6 +4,7 @@ date: October 20 2005
 slug: chapman-science-academic-center
 ---
 
+```html
 
 
 
@@ -56,3 +57,4 @@ For more information about the awards, visit the CMACN website at
 
 
 
+```

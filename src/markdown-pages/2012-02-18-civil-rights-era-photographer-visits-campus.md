@@ -1,9 +1,10 @@
 ---
 title: Photographer of MLK visits campus Feb. 28
 date: February 18 2012
-slug: photographer-of-mlk-visits-campus-feb--28
+slug: photographer-of-mlk-visits-campus-feb.-28
 ---
 
+```html
 
 
 
@@ -50,3 +51,4 @@ series.</p>
 
 
 
+```

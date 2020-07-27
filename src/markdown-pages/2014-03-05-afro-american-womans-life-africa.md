@@ -1,9 +1,10 @@
 ---
 title: An AfroAmerican woman&apos;s life in Africa
 date: March 5 2014
-slug: an-afroamerican-woman-apos-s-life-in-africa
+slug: an-afroamerican-woman&apos;s-life-in-africa
 ---
 
+```html
 
 
 
@@ -31,3 +32,4 @@ Driving directions and a campus map are available <a href="http://csumb.edu/maps
 
 
 
+```

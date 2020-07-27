@@ -4,6 +4,7 @@ date: October 31 2007
 slug: truths-worth-telling
 ---
 
+```html
 
 
 
@@ -80,3 +81,4 @@ Effect: Understanding How Good People Turn Evil.&quot;</p>
 out as a 10-minute short but turned into a three-year journey to
 document the life of Carmelo Muniz S&#xE1;nchez. The undocumented
 mariachi was working in San Francisco to support h</p>
+```

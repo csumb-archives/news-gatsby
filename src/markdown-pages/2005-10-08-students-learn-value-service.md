@@ -4,6 +4,7 @@ date: October 8 2005
 slug: students-learn-value-of-service
 ---
 
+```html
 
 
 
@@ -19,3 +20,4 @@ greater understanding of service itself.<br>
 
 
 
+```

@@ -4,6 +4,7 @@ date: September 11 2009
 slug: campus-dining-in-style-at-renovated-dc
 ---
 
+```html
 
 
 
@@ -68,3 +69,4 @@ tells me we did a good job.&quot;</p>
 
 
 
+```

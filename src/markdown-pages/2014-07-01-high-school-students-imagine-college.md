@@ -1,9 +1,10 @@
 ---
 title: High school students imagine college . . .
 date: July 1 2014
-slug: high-school-students-imagine-college------
+slug: high-school-students-imagine-college-.-.-.
 ---
 
+```html
 
 
 
@@ -58,3 +59,4 @@ together on a project. Photo by Ayana Hawk-Harris</br></br></em></br></br></br><
 
 
 
+```

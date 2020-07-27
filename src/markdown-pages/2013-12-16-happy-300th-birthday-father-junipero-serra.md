@@ -4,6 +4,7 @@ date: December 16 2013
 slug: happy-300th-birthday-father-junipero-serra
 ---
 
+```html
 
 
 
@@ -18,3 +19,4 @@ Legacy of the Franciscan Missions.&quot;<br>
 
 
 
+```

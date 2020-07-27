@@ -1,9 +1,10 @@
 ---
 title: Sixthgraders &apos;commit&apos; to attend college
 date: December 16 2014
-slug: sixthgraders--apos-commit-apos--to-attend-college
+slug: sixthgraders-&apos;commit&apos;-to-attend-college
 ---
 
+```html
 
 
 
@@ -74,3 +75,4 @@ Dec. 5 and met CSUMB&apos;s mascot, Monte Rey.</br></em><br>
 
 
 
+```

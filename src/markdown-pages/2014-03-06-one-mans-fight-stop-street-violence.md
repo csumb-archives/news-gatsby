@@ -1,9 +1,10 @@
 ---
 title: One man&apos;s fight to stop street violence
 date: March 6 2014
-slug: one-man-apos-s-fight-to-stop-street-violence
+slug: one-man&apos;s-fight-to-stop-street-violence
 ---
 
+```html
 
 
 
@@ -56,3 +57,4 @@ transcript of the interview <a href="http://www.npr.org/2012/11/09/164732917/int
 
 
 
+```

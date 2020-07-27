@@ -4,10 +4,77 @@ title: "Students recognized for marine science research"
 date: January 01 2020
 ---
 
-<p>Six CSUMB marine science students have earned awards from the CSU for their research projects. The Council on Ocean Affairs, Science and Technology – COAST – awards $3,000 to CSU graduate students and $1,500 to undergraduates to stimulate interest in marine-science careers, help them develop the skills needed to work in those fields and support faculty research.
-</p><p>COAST is the CSU-wide group for marine and coastal-related activities. It promotes multi-campus collaborations with the goal of advancing knowledge of California’s coastal and marine resources and supporting related research. Will Fennie, a CSUMB graduate student at Moss Landing Marine Labs, said he applied for the award to fund his research and to practice applying for grants. “It’s a very important skill to learn for both students and scientists,” said Fennie, who is studying the impact of climate change on rockfish. The COAST award is also funding research in the ichthyology lab at Moss Landing being done by CSUMB student Jenny Bigman. Bigman is studying the dietary habits of North Pacific spiny dogfish – a spotted shark found cruising around rocky reefs and sandy bottoms of the North Pacific. She said her research can help develop plans to manage how the shark is fished. “The awards are intended to alleviate some of the financial burden our students face as they pursue their degrees,” said COAST director Krista Kramer. “If we can provide them with some relief and allow them to focus more wholly on their research, that’s a success.” Awards winners: Twenty-eight undergraduate proposals were submitted; seven were selected for funding. Three of the seven came from CSUMB. They are: • Emily Aiken, Advisor: Dr. James Lindholm? Native crab, Cancer gracilis, may affect the spread of the invasive bryozoan Watersipora subtorquata • Alexandria Blackwell, Advisor: Dr. Cheryl Logan ?Assessment of thermal tolerance and adaptive ability of Mytilus californianus • Carley Turner, Advisor: Dr. Jonathon Stillman, SFSU? Thermal sensitivity of heat shock protein gene expression in newly settled porcelain crabs Three of the 10 graduate student winners also came from CSUMB. They are: • Jennifer Bigman, Advisor: Dr. David Ebert (MLML) ?Food web of Monterey Bay: insights through stable isotope analysis • Hamilton Fennie, Advisor: Dr. Scott Hamilton (MLML) Tthe effects of ocean acidification on juvenile rockfish olfactory abilities and their detection of predators • Mary McCormick, Advisor: Dr. Corey Garza ?The value of habitat diversity in marine reserves: spiny lobster and sheephead use of the intertidal zone at the Santa Catalina Island Marine Protected Area
-</p><p><em>CSUMB offers a <a href="http://catalog.csumb.edu/graduate-education/graduate-degrees/marine-science-ms">master of science degree in marine science</a> through Moss Landing Marine Labs and is the closest of the seven CSU consortium campuses affiliated with MLML.</em>
-</p><p><em>Learn about the <a href="http://catalog.csumb.edu/undergrad-education/majors/marine-science">undergraduate marine science program</a> at CSUMB.</em>  
-</p><p><em>Photo: Will Fennie collecting juvenile rockfish (photo by Scott Hamilton, courtesy of Moss Landing Marine Labs)</em>
-</p><p><em>Some information for this story came from Jacque Orvis, science communications intern at Moss Landing Marine Labs  </em>
+```html
+<p>
+  Six CSUMB marine science students have earned awards from the CSU for their
+  research projects. The Council on Ocean Affairs, Science and Technology –
+  COAST – awards $3,000 to CSU graduate students and $1,500 to undergraduates to
+  stimulate interest in marine-science careers, help them develop the skills
+  needed to work in those fields and support faculty research.
 </p>
+<p>
+  COAST is the CSU-wide group for marine and coastal-related activities. It
+  promotes multi-campus collaborations with the goal of advancing knowledge of
+  California’s coastal and marine resources and supporting related research.
+  Will Fennie, a CSUMB graduate student at Moss Landing Marine Labs, said he
+  applied for the award to fund his research and to practice applying for
+  grants. “It’s a very important skill to learn for both students and
+  scientists,” said Fennie, who is studying the impact of climate change on
+  rockfish. The COAST award is also funding research in the ichthyology lab at
+  Moss Landing being done by CSUMB student Jenny Bigman. Bigman is studying the
+  dietary habits of North Pacific spiny dogfish – a spotted shark found cruising
+  around rocky reefs and sandy bottoms of the North Pacific. She said her
+  research can help develop plans to manage how the shark is fished. “The awards
+  are intended to alleviate some of the financial burden our students face as
+  they pursue their degrees,” said COAST director Krista Kramer. “If we can
+  provide them with some relief and allow them to focus more wholly on their
+  research, that’s a success.” Awards winners: Twenty-eight undergraduate
+  proposals were submitted; seven were selected for funding. Three of the seven
+  came from CSUMB. They are: • Emily Aiken, Advisor: Dr. James Lindholm? Native
+  crab, Cancer gracilis, may affect the spread of the invasive bryozoan
+  Watersipora subtorquata • Alexandria Blackwell, Advisor: Dr. Cheryl Logan
+  ?Assessment of thermal tolerance and adaptive ability of Mytilus californianus
+  • Carley Turner, Advisor: Dr. Jonathon Stillman, SFSU? Thermal sensitivity of
+  heat shock protein gene expression in newly settled porcelain crabs Three of
+  the 10 graduate student winners also came from CSUMB. They are: • Jennifer
+  Bigman, Advisor: Dr. David Ebert (MLML) ?Food web of Monterey Bay: insights
+  through stable isotope analysis • Hamilton Fennie, Advisor: Dr. Scott Hamilton
+  (MLML) Tthe effects of ocean acidification on juvenile rockfish olfactory
+  abilities and their detection of predators • Mary McCormick, Advisor: Dr.
+  Corey Garza ?The value of habitat diversity in marine reserves: spiny lobster
+  and sheephead use of the intertidal zone at the Santa Catalina Island Marine
+  Protected Area
+</p>
+<p>
+  <em
+    >CSUMB offers a
+    <a
+      href="http://catalog.csumb.edu/graduate-education/graduate-degrees/marine-science-ms"
+      >master of science degree in marine science</a
+    >
+    through Moss Landing Marine Labs and is the closest of the seven CSU
+    consortium campuses affiliated with MLML.</em
+  >
+</p>
+<p>
+  <em
+    >Learn about the
+    <a href="http://catalog.csumb.edu/undergrad-education/majors/marine-science"
+      >undergraduate marine science program</a
+    >
+    at CSUMB.</em
+  >
+</p>
+<p>
+  <em
+    >Photo: Will Fennie collecting juvenile rockfish (photo by Scott Hamilton,
+    courtesy of Moss Landing Marine Labs)</em
+  >
+</p>
+<p>
+  <em
+    >Some information for this story came from Jacque Orvis, science
+    communications intern at Moss Landing Marine Labs
+  </em>
+</p>
+```

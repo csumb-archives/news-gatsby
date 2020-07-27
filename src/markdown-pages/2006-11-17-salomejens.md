@@ -4,6 +4,7 @@ date: November 17 2006
 slug: salomejens
 ---
 
+```html
 
 
 
@@ -55,3 +56,4 @@ what I&apos;m doing. It&apos;s not just teaching, it&apos;s showing.&quot;</p>
 
 
 
+```

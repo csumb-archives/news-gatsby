@@ -4,7 +4,49 @@ title: "Review praises CSU Monterey Bay"
 date: January 01 2020
 ---
 
-<p><strong>Accrediting commission cites grad rate, student success</strong> ? The Western Association of Schools and Colleges (WASC) Accrediting Commission on Senior Colleges &amp; Universities has reaffirmed its accreditation of CSU Monterey Bay through 2019, President Dianne Harrison has announced.
-</p><p>The outcome signifies that the university remains in good academic standing, and its students will continue to be eligible for federal financial aid. "The WASC reaffirmation is a major vote of confidence in our academic programs and our commitment to student success," President Harrison said. "The commission said our resources are strongly aligned with our strategic goals and priorities, and that is especially important in this challenging economic environment."
-</p><p>?As a new institution, CSU Monterey Bay received its initial WASC accreditation in 2003. The current action is the university’s first re-affirmation of the initial accreditation. The re-affirmation process took several years, and included two site visits from WASC reviewers. For each visit, the campus prepared extensive reports documenting the work it has done that pertains to the WASC criteria for accreditation. The first visit, known as the “Capacity and Preparatory Review,” took place in September of 2009. The second WASC visit focused on “Educational Effectiveness,” and that occurred in March 2011. The visiting team then presented its report to the WASC Accrediting Commission, which rendered its final decision regarding accreditation status this month. Both the visiting team and the commission commended the university for accomplishments in several key areas. After its March 2011 visit, the WASC visiting team concluded that “CSUMB is an active and dynamic institution that continues to embrace its vision, adapt to its environment, and plan for the future. Administrators, faculty and staff are invested in student learning and are committed to the institutional vision. Student success appears to be paramount, and decision-making is founded on what is perceived to be the best for the students.” The visiting team commended the campus for “improving processes that have dramatically affected student retention.” The commission particularly valued the university’s “dynamism, adaptation, and planning that have taken place during this comprehensive review.” The commission also highlighted recent work on improving graduation and retention rates. “There was real appreciation and commendation by the site visiting team and the commission regarding CSU Monterey Bay’s progress since its initial accreditation," stated WASC President Ralph Wolff. "It is clear that the entire campus is deeply engaged in its educational effectiveness efforts and is focused on student learning.”
+```html
+<p>
+  <strong>Accrediting commission cites grad rate, student success</strong> ? The
+  Western Association of Schools and Colleges (WASC) Accrediting Commission on
+  Senior Colleges &amp; Universities has reaffirmed its accreditation of CSU
+  Monterey Bay through 2019, President Dianne Harrison has announced.
 </p>
+<p>
+  The outcome signifies that the university remains in good academic standing,
+  and its students will continue to be eligible for federal financial aid. "The
+  WASC reaffirmation is a major vote of confidence in our academic programs and
+  our commitment to student success," President Harrison said. "The commission
+  said our resources are strongly aligned with our strategic goals and
+  priorities, and that is especially important in this challenging economic
+  environment."
+</p>
+<p>
+  ?As a new institution, CSU Monterey Bay received its initial WASC
+  accreditation in 2003. The current action is the university’s first
+  re-affirmation of the initial accreditation. The re-affirmation process took
+  several years, and included two site visits from WASC reviewers. For each
+  visit, the campus prepared extensive reports documenting the work it has done
+  that pertains to the WASC criteria for accreditation. The first visit, known
+  as the “Capacity and Preparatory Review,” took place in September of 2009. The
+  second WASC visit focused on “Educational Effectiveness,” and that occurred in
+  March 2011. The visiting team then presented its report to the WASC
+  Accrediting Commission, which rendered its final decision regarding
+  accreditation status this month. Both the visiting team and the commission
+  commended the university for accomplishments in several key areas. After its
+  March 2011 visit, the WASC visiting team concluded that “CSUMB is an active
+  and dynamic institution that continues to embrace its vision, adapt to its
+  environment, and plan for the future. Administrators, faculty and staff are
+  invested in student learning and are committed to the institutional vision.
+  Student success appears to be paramount, and decision-making is founded on
+  what is perceived to be the best for the students.” The visiting team
+  commended the campus for “improving processes that have dramatically affected
+  student retention.” The commission particularly valued the university’s
+  “dynamism, adaptation, and planning that have taken place during this
+  comprehensive review.” The commission also highlighted recent work on
+  improving graduation and retention rates. “There was real appreciation and
+  commendation by the site visiting team and the commission regarding CSU
+  Monterey Bay’s progress since its initial accreditation," stated WASC
+  President Ralph Wolff. "It is clear that the entire campus is deeply engaged
+  in its educational effectiveness efforts and is focused on student learning.”
+</p>
+```

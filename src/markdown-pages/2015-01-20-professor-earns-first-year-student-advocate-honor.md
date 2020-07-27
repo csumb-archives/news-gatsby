@@ -1,9 +1,10 @@
 ---
 title: Professor earns &apos;FirstYear Student Advocate&apos; honor
 date: January 20 2015
-slug: professor-earns--apos-firstyear-student-advocate-apos--honor
+slug: professor-earns-&apos;firstyear-student-advocate&apos;-honor
 ---
 
+```html
 
 
 
@@ -82,3 +83,4 @@ Berkeley.<br>
 
 
 
+```

@@ -4,6 +4,7 @@ date: August 19 2014
 slug: health-sciences-human-services-dean-named
 ---
 
+```html
 
 
 
@@ -75,3 +76,4 @@ from the University of Oregon.</br></br></br></br></br></br></br></br></p>
 
 
 
+```

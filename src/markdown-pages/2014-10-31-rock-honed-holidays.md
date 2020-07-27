@@ -1,9 +1,10 @@
 ---
 title: Rock . . . honed for the holidays
 date: October 31 2014
-slug: rock-------honed-for-the-holidays
+slug: rock-.-.-.-honed-for-the-holidays
 ---
 
+```html
 
 
 
@@ -80,3 +81,4 @@ the canned food drive<br>
 
 
 
+```

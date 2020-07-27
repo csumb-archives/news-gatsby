@@ -4,6 +4,7 @@ date: January 18 2012
 slug: understanding-cultures-encouraging-communities
 ---
 
+```html
 
 
 
@@ -70,3 +71,4 @@ Admission requirements and application materials are available
 
 
 
+```

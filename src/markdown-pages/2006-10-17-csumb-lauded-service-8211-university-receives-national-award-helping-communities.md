@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  CSUMB lauded for service &#x2013; university receives national award for
+title:
+  &gt;- CSUMB lauded for service &#x2013; university receives national award for
   helping communities
 date: October 17 2006
-slug: &gt;-
-  csumb-lauded-for-service---x2013--university-receives-national-award-for-helping-communities
+slug: &gt;- csumb-lauded-for-service-&#x2013;-university-receives-national-award-for-helping-communities
 ---
 
+```html
 
 
 
@@ -21,3 +21,4 @@ thanks to the school&apos;s service-learning curriculum.<br>
 
 
 
+```

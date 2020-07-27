@@ -1,9 +1,10 @@
 ---
 title: S.F. art exhibit showcases work of CSUMB faculty
 date: January 8 2015
-slug: s-f--art-exhibit-showcases-work-of-csumb-faculty
+slug: s.f.-art-exhibit-showcases-work-of-csumb-faculty
 ---
 
+```html
 
 
 
@@ -46,3 +47,4 @@ Florianni helped with the exhibit.</br></br></p>
 
 
 
+```

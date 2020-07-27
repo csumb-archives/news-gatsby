@@ -4,6 +4,7 @@ date: July 8 2013
 slug: faculty-member-honored-by-composers-group
 ---
 
+```html
 
 
 
@@ -73,3 +74,4 @@ the Music and Performing Arts program at CSUMB.</a></p>
 <p><a href="../../../2012/nov/25/faculty-highlights.html" rel="nofollow">Read more faculty news</a><br>
 &#xA0;</br></p>
 
+```

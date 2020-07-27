@@ -4,6 +4,7 @@ date: July 29 2014
 slug: book-illuminates-emotions-around-racism
 ---
 
+```html
 
 
 
@@ -58,3 +59,4 @@ Learning Institute, Oct. 21, 28, Nov. 4 and 18 at CSUMB. <a href="http://csumb.e
 
 
 
+```

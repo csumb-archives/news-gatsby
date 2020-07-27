@@ -1,12 +1,12 @@
 ---
-title: &gt;-
-  Is there a light at the end of the tunnel? Artist Stephanie Johnson hopes her
+title:
+  &gt;- Is there a light at the end of the tunnel? Artist Stephanie Johnson hopes her
   work can guide us
 date: August 24 2006
-slug: &gt;-
-  is-there-a-light-at-the-end-of-the-tunnel--artist-stephanie-johnson-hopes-her-work-can-guide-us
+slug: &gt;- is-there-a-light-at-the-end-of-the-tunnel?-artist-stephanie-johnson-hopes-her-work-can-guide-us
 ---
 
+```html
 
 
 
@@ -27,3 +27,4 @@ professor of art.<br>
 
 
 
+```

@@ -4,6 +4,7 @@ date: July 12 2011
 slug: csumb-to-add-nursing-program-in-2012
 ---
 
+```html
 
 
 
@@ -62,3 +63,4 @@ Colleges/Nursing Investment Fund has supported planning.<br>
 
 
 
+```

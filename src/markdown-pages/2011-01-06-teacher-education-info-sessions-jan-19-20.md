@@ -1,9 +1,10 @@
 ---
 title: Teacher education info sessions Jan. 1920
 date: January 6 2011
-slug: teacher-education-info-sessions-jan--1920
+slug: teacher-education-info-sessions-jan.-1920
 ---
 
+```html
 
 
 
@@ -37,3 +38,4 @@ address.<br>
 
 
 
+```

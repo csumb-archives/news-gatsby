@@ -4,6 +4,7 @@ date: August 18 2014
 slug: science-informs-art
 ---
 
+```html
 
 
 
@@ -46,3 +47,4 @@ of Arts and Design in New York.<br>
 
 
 
+```

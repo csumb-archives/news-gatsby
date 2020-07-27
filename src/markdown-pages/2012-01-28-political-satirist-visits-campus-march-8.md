@@ -4,6 +4,7 @@ date: January 28 2012
 slug: political-satirist-visits-campus-march-8
 ---
 
+```html
 
 
 
@@ -46,3 +47,4 @@ be purchased <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>&#
 
 
 
+```

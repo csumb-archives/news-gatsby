@@ -4,6 +4,7 @@ date: April 17 2006
 slug: sowing-seeds-of-dreams
 ---
 
+```html
 
 
 
@@ -21,3 +22,4 @@ Soledad Street Community Center and a community garden.<br>
 
 
 
+```

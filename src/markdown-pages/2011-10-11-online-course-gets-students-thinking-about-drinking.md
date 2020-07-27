@@ -4,6 +4,7 @@ date: October 11 2011
 slug: online-course-gets-students-thinking-about-drinking
 ---
 
+```html
 
 
 
@@ -83,3 +84,4 @@ Public Health, told the San Francisco Chronicle.</p>
 
 
 
+```

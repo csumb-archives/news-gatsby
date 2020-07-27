@@ -1,9 +1,10 @@
 ---
 title: Monterey County&apos; focus of speaker series
 date: February 18 2014
-slug: monterey-county-apos--focus-of-speaker-series
+slug: monterey-county&apos;-focus-of-speaker-series
 ---
 
+```html
 
 
 
@@ -48,3 +49,4 @@ issues important to our community.</p>
 
 
 
+```

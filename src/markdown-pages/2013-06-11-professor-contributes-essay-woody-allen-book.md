@@ -4,6 +4,7 @@ date: June 11 2013
 slug: professor-contributes-essay-to-woody-allen-book
 ---
 
+```html
 
 
 
@@ -30,3 +31,4 @@ edited the book, &#x201C;Perspectives on Woody Allen&#x201D; (Greenwood
 
 
 
+```

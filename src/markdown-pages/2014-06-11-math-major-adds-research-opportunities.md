@@ -4,6 +4,7 @@ date: June 11 2014
 slug: math-major-adds-up-research-opportunities
 ---
 
+```html
 
 
 
@@ -52,3 +53,4 @@ math and statistics progam at CSUMB.</a></p>
 
 
 
+```

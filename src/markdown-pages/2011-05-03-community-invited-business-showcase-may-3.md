@@ -1,9 +1,10 @@
 ---
 title: Tonight&amp;colon; School of Business Showcase
 date: May 3 2011
-slug: tonight-amp-colon--school-of-business-showcase
+slug: tonight&amp;colon;-school-of-business-showcase
 ---
 
+```html
 <span class="date">Posted on May 03, 2011 </span>
 
 <p>Michael Briley, managing partner of Hayashi &amp; Wayland
@@ -54,3 +55,4 @@ senior, will also be given out at the showcase.</p>
 <p>To learn more about the School of Business at CSU Monterey Bay,
 click <a href="http://csumb.edu/business" rel="nofollow">here</a>.<br>
 &#xA0;</br></p>
+```

@@ -4,6 +4,7 @@ date: January 22 2012
 slug: faculty-member-honored-as-arts-champion
 ---
 
+```html
 
 
 
@@ -80,3 +81,4 @@ Department, click <a href="http://tat.csumb.edu/" rel="nofollow">here</a>.</p>
 
 
 
+```

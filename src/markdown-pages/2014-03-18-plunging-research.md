@@ -4,6 +4,7 @@ date: March 18 2014
 slug: plunging-into-research
 ---
 
+```html
 
 
 
@@ -58,3 +59,4 @@ information is available here.</a></br></br></br></br></br></br></br></br></br><
 
 
 
+```

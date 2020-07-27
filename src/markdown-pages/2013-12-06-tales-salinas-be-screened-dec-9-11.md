@@ -1,9 +1,10 @@
 ---
 title: Tales of Salinas to be screened Dec. 9 11
 date: December 6 2013
-slug: tales-of-salinas-to-be-screened-dec--9-11
+slug: tales-of-salinas-to-be-screened-dec.-9-11
 ---
 
+```html
 
 
 
@@ -37,3 +38,4 @@ contacting Elizabeth Welden-Smith at <a href="mailto:Elizabeth@steinbeck.org">El
 
 
 
+```

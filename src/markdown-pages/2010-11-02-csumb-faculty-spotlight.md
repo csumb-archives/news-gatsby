@@ -4,6 +4,7 @@ date: November 2 2010
 slug: csumb-faculty-spotlight
 ---
 
+```html
 
 
 
@@ -87,3 +88,4 @@ crafted suite by DCYO alumnus John Wineglass.&#x201D;</p>
 
 
 
+```

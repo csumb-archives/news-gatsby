@@ -4,6 +4,7 @@ date: July 26 2006
 slug: csumb-getting-facelift
 ---
 
+```html
 
 
 
@@ -21,3 +22,4 @@ decades.<br>
 
 
 
+```

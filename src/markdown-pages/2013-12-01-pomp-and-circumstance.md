@@ -4,6 +4,7 @@ date: December 1 2013
 slug: pomp-and-circumstance
 ---
 
+```html
 
 
 
@@ -17,3 +18,4 @@ the political, economic and civic life of the region.<br>
 
 
 
+```

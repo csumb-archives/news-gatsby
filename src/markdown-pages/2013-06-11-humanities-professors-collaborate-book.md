@@ -4,6 +4,7 @@ date: June 11 2013
 slug: humanities-professors-collaborate-on-book
 ---
 
+```html
 
 
 
@@ -40,3 +41,4 @@ doing.</a></br></br></p>
 
 
 
+```

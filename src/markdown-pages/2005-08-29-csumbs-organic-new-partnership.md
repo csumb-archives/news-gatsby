@@ -1,9 +1,10 @@
 ---
 title: CSUMB&apos;s Organic New Partnership
 date: August 29 2005
-slug: csumb-apos-s-organic-new-partnership
+slug: csumb&apos;s-organic-new-partnership
 ---
 
+```html
 
 
 
@@ -17,3 +18,4 @@ sticks on campus.<br>
 
 
 
+```

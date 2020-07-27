@@ -1,9 +1,10 @@
 ---
 title: Alcohol Awareness Week Oct. 2125
 date: October 21 2013
-slug: alcohol-awareness-week-oct--2125
+slug: alcohol-awareness-week-oct.-2125
 ---
 
+```html
 
 
 
@@ -79,3 +80,4 @@ Recovery Centers and the California Highway Patrol.<br>
 
 
 
+```

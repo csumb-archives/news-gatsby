@@ -4,6 +4,7 @@ date: November 3 2011
 slug: blue-goes-green
 ---
 
+```html
 
 
 
@@ -38,3 +39,4 @@ said. &#x201C;We&#x2019;re lucky to have it.&quot;</br></br></br></br></p>
 
 
 
+```

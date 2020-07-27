@@ -4,6 +4,7 @@ date: July 8 2013
 slug: from-csumb-to-the-minor-leagues
 ---
 
+```html
 
 
 
@@ -18,3 +19,4 @@ players.<br>
 
 
 
+```

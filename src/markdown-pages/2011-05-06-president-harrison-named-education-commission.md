@@ -4,6 +4,7 @@ date: May 6 2011
 slug: president-harrison-named-to-education-commission
 ---
 
+```html
 
 
 
@@ -26,3 +27,4 @@ Dr. Harrison&#x2019;s appointment will run until Oct. 31, 2014.<br>
 
 
 
+```

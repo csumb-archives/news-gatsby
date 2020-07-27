@@ -4,6 +4,7 @@ date: December 18 2014
 slug: plant-yourself-at-csumb
 ---
 
+```html
 
 
 
@@ -61,3 +62,4 @@ future, solidifying a passion and commitment to service . .
 
 
 
+```

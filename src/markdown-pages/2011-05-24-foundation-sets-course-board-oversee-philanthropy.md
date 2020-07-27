@@ -1,9 +1,10 @@
 ---
 title: Foundation sets course&amp;colon; board to oversee philanthropy
 date: May 24 2011
-slug: foundation-sets-course-amp-colon--board-to-oversee-philanthropy
+slug: foundation-sets-course&amp;colon;-board-to-oversee-philanthropy
 ---
 
+```html
 <span class="date">Posted on May 24, 2011 </span>
 
 <p>The new Foundation of California State University, Monterey Bay
@@ -34,3 +35,4 @@ private support its &#x201C;sole focus,&#x201D; Mahan said.</p>
 <p>Dr. Harrison said she is grateful for the directors&#x2019; service and
 their substantial contribution to the university.</p>
 <p><img alt="Board of Directors" src="http://news.csumb.edu/sites/default/files/imagecache/large/65/attachments/news/images/board-of-directors.jpg"/></p>
+```

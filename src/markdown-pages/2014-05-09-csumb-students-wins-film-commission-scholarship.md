@@ -4,10 +4,10 @@ date: May 9 2014
 slug: csumb-student-wins-film-commission-scholarship
 ---
 
+`html`html
 
+<span class="date">Posted on May 09, 2014 </span>
 
-
-<span class="date">Posted on May 09, 2014    </span>
 <p><br>
 Jessica Moss is this year&#x2019;s recipient of the Monterey County Film
 Commission&#x2019;s student scholarship.</br></p>
@@ -53,7 +53,6 @@ Jeff Clark, scholarship program chair and film commission board
 member, and winner Jessica Moss</br></em><br>
 &#xA0;</br></p>
 
+```
 
-
-
-
+```

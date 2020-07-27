@@ -1,9 +1,10 @@
 ---
 title: Study hall&amp;colon; new library is all things to all people
 date: April 28 2011
-slug: study-hall-amp-colon--new-library-is-all-things-to-all-people
+slug: study-hall&amp;colon;-new-library-is-all-things-to-all-people
 ---
 
+```html
 <span class="date">Posted on Apr 28, 2011 </span>
 
 <p>From the moment it opened at 8 a.m. on Dec. 1, 2008, the
@@ -72,3 +73,4 @@ is.</p>
 and uninviting,&#x201D; said junior Madison Gipe. &#x201C;This one is really
 geared for students. And they serve the best coffee. I&#x2019;m in here
 nearly every day.&#x201D;</p>
+```

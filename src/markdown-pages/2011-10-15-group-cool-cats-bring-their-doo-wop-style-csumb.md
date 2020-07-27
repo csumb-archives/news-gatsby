@@ -4,6 +4,7 @@ date: October 15 2011
 slug: group-of-cool-cats-bring-their-doowop-style-to-csumb
 ---
 
+```html
 
 
 
@@ -47,3 +48,4 @@ csumb.edu/worldtheater or by calling the box office at
 
 
 
+```

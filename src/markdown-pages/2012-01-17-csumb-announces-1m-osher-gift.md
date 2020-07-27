@@ -1,9 +1,10 @@
 ---
 title: CSUMB announces $1M Osher gift
 date: January 17 2012
-slug: csumb-announces--1m-osher-gift
+slug: csumb-announces-$1m-osher-gift
 ---
 
+```html
 
 
 
@@ -51,3 +52,4 @@ studies professor Lila Staples; and several literature classes.</p>
 
 
 
+```

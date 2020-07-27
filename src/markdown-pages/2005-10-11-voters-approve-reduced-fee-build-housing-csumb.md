@@ -4,6 +4,7 @@ date: October 11 2005
 slug: voters-approve-reduced-fee-to-build-housing-at-csumb
 ---
 
+```html
 
 
 
@@ -20,3 +21,4 @@ charged by the Fort Ord Reuse Authority.<br>
 
 
 
+```

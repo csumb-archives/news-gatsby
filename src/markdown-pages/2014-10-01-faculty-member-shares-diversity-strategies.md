@@ -4,6 +4,7 @@ date: October 1 2014
 slug: faculty-member-shares-diversity-strategies
 ---
 
+```html
 
 
 
@@ -52,3 +53,4 @@ campuses,&quot; he said.</br></br></p>
 
 
 
+```

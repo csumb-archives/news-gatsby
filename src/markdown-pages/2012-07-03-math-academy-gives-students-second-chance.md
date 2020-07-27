@@ -4,6 +4,7 @@ date: July 3 2012
 slug: math-academy-gives-students-a-second-chance
 ---
 
+```html
 
 
 
@@ -66,3 +67,4 @@ class sessions being held both in Santa Cruz and at CSUMB.</p>
 
 
 
+```

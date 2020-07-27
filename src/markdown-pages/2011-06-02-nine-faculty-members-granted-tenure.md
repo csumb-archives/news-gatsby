@@ -4,6 +4,7 @@ date: June 2 2011
 slug: nine-faculty-members-granted-tenure
 ---
 
+```html
 
 
 
@@ -40,3 +41,4 @@ professor.<br>
 
 
 
+```

@@ -1,9 +1,10 @@
 ---
 title: Banners tell farm workers&apos; stories
 date: May 30 2006
-slug: banners-tell-farm-workers-apos--stories
+slug: banners-tell-farm-workers&apos;-stories
 ---
 
+```html
 
 
 
@@ -23,3 +24,4 @@ who teaches the public art class.<br>
 
 
 
+```

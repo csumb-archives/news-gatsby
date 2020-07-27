@@ -4,6 +4,7 @@ date: February 21 2011
 slug: csumb-spreads-gospel-of-higher-education
 ---
 
+```html
 
 
 
@@ -70,3 +71,4 @@ Tunnell</em><br>
 
 
 
+```

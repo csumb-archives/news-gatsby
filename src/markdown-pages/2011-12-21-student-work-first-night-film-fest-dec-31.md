@@ -1,9 +1,10 @@
 ---
 title: Student work at First Night Film Fest Dec. 31
 date: December 21 2011
-slug: student-work-at-first-night-film-fest-dec--31
+slug: student-work-at-first-night-film-fest-dec.-31
 ---
 
+```html
 
 
 
@@ -61,3 +62,4 @@ respond to what they hear, as well as how to manage a project.&quot;</p>
 program&#xA0;<a href="http://tat.csumb.edu" rel="nofollow">here</a>.</p>
 <p>Learn more about the communication design program <a href="http://itcd.csumb.edu/bs-cd" rel="nofollow">here</a>.</p>
 
+```

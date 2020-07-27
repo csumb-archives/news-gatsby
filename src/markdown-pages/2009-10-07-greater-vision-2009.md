@@ -4,6 +4,7 @@ date: October 7 2009
 slug: a-greater-vision
 ---
 
+```html
 
 
 
@@ -110,3 +111,4 @@ extends beyond the food chain.&quot;</p>
 
 
 
+```

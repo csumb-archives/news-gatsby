@@ -4,6 +4,7 @@ date: September 23 2011
 slug: csumb-ranked-for-contributing-to-the-public-good
 ---
 
+```html
 
 
 
@@ -60,3 +61,4 @@ September/October issue of the printed magazine and <a href="http://www.washingt
 
 
 
+```

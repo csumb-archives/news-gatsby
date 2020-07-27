@@ -1,9 +1,10 @@
 ---
 title: Photographer Jeff Sheng lectures Nov. 30
 date: December 1 2010
-slug: photographer-jeff-sheng-lectures-nov--30
+slug: photographer-jeff-sheng-lectures-nov.-30
 ---
 
+```html
 
 
 
@@ -70,3 +71,4 @@ more information, or to request disability accommodations, call
 
 
 
+```

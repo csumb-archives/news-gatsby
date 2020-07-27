@@ -4,10 +4,10 @@ date: May 29 2013
 slug: thousands-celebrate-commencement
 ---
 
+`html`html
 
+<span class="date">Posted on May 29, 2013 </span>
 
-
-<span class="date">Posted on May 29, 2013    </span>
 <h3>President Ochoa presides over first ceremony</h3>
 <p>Enduring one final test &#x2013; a two-hour-plus ceremony on a warm and
 breezy day &#x2013; about 1,300 CSU Monterey Bay students celebrated their
@@ -108,7 +108,6 @@ video by the Monterey Herald.</a></p>
 <p><br>
 &#xA0;</br></p>
 
+```
 
-
-
-
+```

@@ -1,9 +1,10 @@
 ---
 title: Have a heart for students on Feb. 25
 date: February 1 2012
-slug: have-a-heart-for-students-on-feb--25
+slug: have-a-heart-for-students-on-feb.-25
 ---
 
+```html
 
 
 
@@ -50,3 +51,4 @@ RESERVATIONS: 582-4141 or <a href="http://csumb.edu/heart" rel="nofollow">online
 
 
 
+```

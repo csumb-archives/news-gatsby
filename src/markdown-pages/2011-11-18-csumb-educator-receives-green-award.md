@@ -4,6 +4,7 @@ date: November 18 2011
 slug: csumb-educator-receives-green-award
 ---
 
+```html
 
 
 
@@ -62,3 +63,4 @@ project, click <a href="http://ron.csumb.edu/" rel="nofollow">here</a>.</p>
 
 
 
+```

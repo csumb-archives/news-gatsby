@@ -4,10 +4,10 @@ date: November 13 2014
 slug: vision-and-voice
 ---
 
+`html`html
 
+<span class="date">Posted on Nov 13, 2014 </span>
 
-
-<span class="date">Posted on Nov 13, 2014    </span>
 <p class="small"><br>
 <img alt="Photo by Daniel Lyons (SBS, 2004)" height="328" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/lyons_for_web.jpg" width="530"><em>Photo by Daniel Lyons (SBS, 2004)</em></img></br></p>
 <h3>Photographer, global health researcher to give
@@ -55,7 +55,6 @@ and campus map</a><br>
 Behavioral and Global Studies at CSUMB</a><br>
 &#xA0;</br></br></br></br></br></p>
 
+```
 
-
-
-
+```

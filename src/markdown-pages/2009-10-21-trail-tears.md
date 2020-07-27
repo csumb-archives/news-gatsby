@@ -4,6 +4,7 @@ date: October 21 2009
 slug: picking-up-the-trail
 ---
 
+```html
 
 
 
@@ -72,3 +73,4 @@ deserves to be viewed widely.&quot;<br>
 
 
 
+```

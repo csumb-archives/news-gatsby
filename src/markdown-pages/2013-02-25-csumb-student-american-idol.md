@@ -1,9 +1,10 @@
 ---
 title: CSUMB music student on &apos;American Idol&apos;
 date: February 25 2013
-slug: csumb-music-student-on--apos-american-idol-apos-
+slug: csumb-music-student-on-&apos;american-idol&apos;
 ---
 
+```html
 
 
 
@@ -58,3 +59,4 @@ music program at CSUMB</a>.</br></br></p>
 
 
 
+```

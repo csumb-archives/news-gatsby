@@ -1,9 +1,10 @@
 ---
 title: A diver&apos;s eye viewwithout getting wet
 date: May 20 2014
-slug: a-diver-apos-s-eye-viewwithout-getting-wet
+slug: a-diver&apos;s-eye-viewwithout-getting-wet
 ---
 
+```html
 
 
 
@@ -81,3 +82,4 @@ more about the Seafloor Mapping Lab</a></p>
 
 
 
+```

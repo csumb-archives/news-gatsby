@@ -4,6 +4,7 @@ date: October 21 2010
 slug: more-incoming-students-coming-from-the-region
 ---
 
+```html
 
 
 
@@ -22,3 +23,4 @@ grade-point average of 3.25, up slightly from last year.<br>
 
 
 
+```

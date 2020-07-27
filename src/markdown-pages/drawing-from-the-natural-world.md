@@ -4,11 +4,77 @@ title: "Drawing from the natural world"
 date: January 01 2020
 ---
 
-<h3>Read the reviews:</h3><p><a href="http://www.latimes.com/entertainment/news/books/la-ca-discoveries-20110612,0,7898955.story">Los Angeles Times</a> (June 12) <a href="http://bnreview.barnesandnoble.com/t5/Reviews-Essays/Field-Notes-on-Science-and-Nature/ba-p/5013">Barnes and Noble Review</a> (June 8) <a href="http://www.boston.com/bostonglobe/ideas/brainiac/2011/06/field_notes_on.html">Boston Globe</a> (June 14) <a href="http://www.newscientist.com/blogs/culturelab/2011/05/research-notes-from-the-wild-side.html">New Scientist</a> (May)
-</p><h2>Instructor contributes to book from Harvard Press</h2><p>Once in a great while, as The New York Times noted recently, a naturalist writes a book that changes the way people look at the living world. John James Audubon's "Birds of America," published in 1838, was one. Roger Tory Peterson's 1934 "Field Guide to the Birds" was another.
-</p><p>Add another title to that list.
-</p><p>"Field Notes on Science and Nature," published in 2011 by Harvard University Press, allows readers to peer over the shoulders and into the notebooks of a dozen researchers, to study first-hand their observational methods, materials and fleeting impressions.
-</p><p>"Field Notes" offers specific examples that professional naturalists can emulate to fine-tune their own field methods, along with practical advice that amateur naturalists and students can use to document their adventures.
-</p><p>Some of that practical advice comes from Jenny Keller, an instructor in the Science Illustration program at CSU Monterey Bay, who contributed a chapter and the cover illustration. Her chapter is titled “Why Sketch?” In it, she encourages scientists to give it a try, and offers some basic drawing instruction. “I’m trying to make the case that it’s doable and here’s how,” she said. “It’s not that hard to add some simple visuals to your field observations, and it will deepen the amount of information your field notes can capture. The drawings will be able to say things that are hard to capture in words. “Careful observation makes you a better scientist, and drawing is a great way to observe,” Keller said. The project started several years ago when the book’s editor, Michael Canfield, contacted Keller out of the blue. “I don’t know how he found me, but we talked animatedly for about 90 minutes, and then we realized that we wanted to work together on the project,” she said. “I’m honored to be in the company of these naturalists. Some of my biggest heroes are contributors to this book,” she said. Keller came to CSUMB when the science illustration program moved to the university from its original home at UC Santa Cruz Extension in the fall of 2009. She teaches field sketching, applied techniques in natural science illustration, zoological illustration and history of scientific illustration. She combined her lifelong interests in art and science when she began keeping illustrated field journals in 1981. Since that time, sketching natural subjects from life has continued to inspire and inform her other illustration projects, which have centered on mammals, birds, and botanical subject matter. Her work has appeared in numerous books, magazine and other publications. In 1992, “Dolphin Days,” a book she illustrated, won the John Burroughs Award for best book of the year in natural history. More information on the science illustration program at CSUMB is available <a href="http://scienceillustration.org">here</a>. 
-</p><p><em>Top photo: Keller sketching at Point Lobos</em>
+```html
+<h3>Read the reviews:</h3>
+<p>
+  <a
+    href="http://www.latimes.com/entertainment/news/books/la-ca-discoveries-20110612,0,7898955.story"
+    >Los Angeles Times</a
+  >
+  (June 12)
+  <a
+    href="http://bnreview.barnesandnoble.com/t5/Reviews-Essays/Field-Notes-on-Science-and-Nature/ba-p/5013"
+    >Barnes and Noble Review</a
+  >
+  (June 8)
+  <a
+    href="http://www.boston.com/bostonglobe/ideas/brainiac/2011/06/field_notes_on.html"
+    >Boston Globe</a
+  >
+  (June 14)
+  <a
+    href="http://www.newscientist.com/blogs/culturelab/2011/05/research-notes-from-the-wild-side.html"
+    >New Scientist</a
+  >
+  (May)
 </p>
+<h2>Instructor contributes to book from Harvard Press</h2>
+<p>
+  Once in a great while, as The New York Times noted recently, a naturalist
+  writes a book that changes the way people look at the living world. John James
+  Audubon's "Birds of America," published in 1838, was one. Roger Tory
+  Peterson's 1934 "Field Guide to the Birds" was another.
+</p>
+<p>Add another title to that list.</p>
+<p>
+  "Field Notes on Science and Nature," published in 2011 by Harvard University
+  Press, allows readers to peer over the shoulders and into the notebooks of a
+  dozen researchers, to study first-hand their observational methods, materials
+  and fleeting impressions.
+</p>
+<p>
+  "Field Notes" offers specific examples that professional naturalists can
+  emulate to fine-tune their own field methods, along with practical advice that
+  amateur naturalists and students can use to document their adventures.
+</p>
+<p>
+  Some of that practical advice comes from Jenny Keller, an instructor in the
+  Science Illustration program at CSU Monterey Bay, who contributed a chapter
+  and the cover illustration. Her chapter is titled “Why Sketch?” In it, she
+  encourages scientists to give it a try, and offers some basic drawing
+  instruction. “I’m trying to make the case that it’s doable and here’s how,”
+  she said. “It’s not that hard to add some simple visuals to your field
+  observations, and it will deepen the amount of information your field notes
+  can capture. The drawings will be able to say things that are hard to capture
+  in words. “Careful observation makes you a better scientist, and drawing is a
+  great way to observe,” Keller said. The project started several years ago when
+  the book’s editor, Michael Canfield, contacted Keller out of the blue. “I
+  don’t know how he found me, but we talked animatedly for about 90 minutes, and
+  then we realized that we wanted to work together on the project,” she said.
+  “I’m honored to be in the company of these naturalists. Some of my biggest
+  heroes are contributors to this book,” she said. Keller came to CSUMB when the
+  science illustration program moved to the university from its original home at
+  UC Santa Cruz Extension in the fall of 2009. She teaches field sketching,
+  applied techniques in natural science illustration, zoological illustration
+  and history of scientific illustration. She combined her lifelong interests in
+  art and science when she began keeping illustrated field journals in 1981.
+  Since that time, sketching natural subjects from life has continued to inspire
+  and inform her other illustration projects, which have centered on mammals,
+  birds, and botanical subject matter. Her work has appeared in numerous books,
+  magazine and other publications. In 1992, “Dolphin Days,” a book she
+  illustrated, won the John Burroughs Award for best book of the year in natural
+  history. More information on the science illustration program at CSUMB is
+  available <a href="http://scienceillustration.org">here</a>.
+</p>
+<p><em>Top photo: Keller sketching at Point Lobos</em></p>
+```
