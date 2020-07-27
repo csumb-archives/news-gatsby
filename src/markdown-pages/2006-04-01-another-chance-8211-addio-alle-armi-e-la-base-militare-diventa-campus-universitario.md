@@ -3,7 +3,7 @@ title:
   &gt;- Another Chance &#x2013; Addio alle armi. E la base militare diventa campus
   universitario
 date: April 1 2006
-slug: &gt;- another-chance-&#x2013;-addio-alle-armi.-e-la-base-militare-diventa-campus-universitario
+slug: &gt;- another-chance-addio-alle-armi.-e-la-base-militare-diventa-campus-universitario
 ---
 
 ```html

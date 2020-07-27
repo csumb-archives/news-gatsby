@@ -1,7 +1,7 @@
 ---
-title: Model student &#x2013; from Twain Harte to fashion runway
+title: Model student from Twain Harte to fashion runway
 date: November 29 2006
-slug: model-student-&#x2013;-from-twain-harte-to-fashion-runway
+slug: model-student-from-twain-harte-to-fashion-runway
 ---
 
 ```html

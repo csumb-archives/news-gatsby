@@ -1,9 +1,8 @@
 ---
-title:
-  &gt;- CSUMB earns national honors from Bush initiative &#x2013; university&apos;s
+title: &gt;- CSUMB earns national honors from Bush initiative universitys
   focus on student volunteerism provides a model in community service
 date: October 17 2006
-slug: &gt;- csumb-earns-national-honors-from-bush-initiative-&#x2013;-university&apos;s-focus-on-student-volunteerism-provides-a-model-in-community-service
+slug: &gt;- csumb-earns-national-honors-from-bush-initiative-universitys-focus-on-student-volunteerism-provides-a-model-in-community-service
 ---
 
 ```html

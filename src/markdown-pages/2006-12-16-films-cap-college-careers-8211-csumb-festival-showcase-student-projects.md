@@ -1,7 +1,7 @@
 ---
-title: Films cap college careers &#x2013; CSUMB festival to showcase student projects
+title: Films cap college careers - CSUMB festival to showcase student projects
 date: December 16 2006
-slug: films-cap-college-careers-&#x2013;-csumb-festival-to-showcase-student-projects
+slug: films-cap-college-careers --csumb-festival-to-showcase-student-projects
 ---
 
 ```html

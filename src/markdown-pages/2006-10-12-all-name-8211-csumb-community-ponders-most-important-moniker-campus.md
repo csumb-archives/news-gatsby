@@ -1,9 +1,9 @@
 ---
 title:
-  &gt;- All in a Name &#x2013; the CSUMB community ponders the most important moniker
+  &gt;- All in a Name the CSUMB community ponders the most important moniker
   on campus
 date: October 12 2006
-slug: &gt;- all-in-a-name-&#x2013;-the-csumb-community-ponders-the-most-important-moniker-on-campus
+slug: &gt;- all-in-a-name-the-csumb-community-ponders-the-most-important-moniker-on-campus
 ---
 
 ```html

@@ -1,7 +1,7 @@
 ---
-title: Mission&apos;s past shines
+title: Missions past shines
 date: December 11 2006
-slug: mission&apos;s-past-shines
+slug: mission-past-shines
 ---
 
 ```html

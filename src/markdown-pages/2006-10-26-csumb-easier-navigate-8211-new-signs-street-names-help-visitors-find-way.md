@@ -1,9 +1,8 @@
 ---
-title:
-  &gt;- CSUMB easier to navigate &#x2013; new signs street names help visitors find
+title: &gt;- CSUMB easier to navigate new signs street names help visitors find
   way
 date: October 26 2006
-slug: &gt;- csumb-easier-to-navigate-&#x2013;-new-signs-street-names-help-visitors-find-way
+slug: &gt;- csumb-easier-to-navigate-new-signs-street-names-help-visitors-find-way
 ---
 
 ```html

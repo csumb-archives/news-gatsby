@@ -1,7 +1,7 @@
 ---
-title: Home Bass &#x2013; Ray Drummond a Peninsula professor and New York jazz star
+title: Home Bass Ray Drummond a Peninsula professor and New York jazz star
 date: May 3 2007
-slug: home-bass-&#x2013;-ray-drummond-a-peninsula-professor-and-new-york-jazz-star
+slug: home-bass-ray-drummond-a-peninsula-professor-and-new-york-jazz-star
 ---
 
 ```html

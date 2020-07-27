@@ -1,9 +1,8 @@
 ---
-title:
-  &gt;- On a Mission &#x2013; An archaeology professor explores secrets behind local
+title: &gt;- On a Mission An archaeology professor explores secrets behind local
   historic churches
 date: August 3 2006
-slug: &gt;- on-a-mission-&#x2013;-an-archaeology-professor-explores-secrets-behind-local-historic-churches
+slug: &gt;- on-a-mission-an-archaeology-professor-explores-secrets-behind-local-historic-churches
 ---
 
 ```html

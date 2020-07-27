@@ -1,7 +1,7 @@
 ---
-title: Carr Lake film focus &#x2013; project proposes creating 480acre Salinas park
+title: Carr Lake film focus project proposes creating 480acre Salinas park
 date: December 2 2006
-slug: carr-lake-film-focus-&#x2013;-project-proposes-creating-480acre-salinas-park
+slug: carr-lake-film-focus-project-proposes-creating-480acre-salinas-park
 ---
 
 ```html

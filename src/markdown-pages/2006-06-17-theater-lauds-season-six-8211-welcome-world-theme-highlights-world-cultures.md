@@ -1,9 +1,8 @@
 ---
-title:
-  &gt;- Theater lauds season six &#x2013; &apos;Welcome to the World&apos; theme
+title: &gt;- Theater lauds season six Welcome to the World theme
   highlights world cultures
 date: June 17 2006
-slug: &gt;- theater-lauds-season-six-&#x2013;-&apos;welcome-to-the-world&apos;-theme-highlights-world-cultures
+slug: &gt;- theater-lauds-season-six-welcome-to-the-world-theme-highlights-world-cultures
 ---
 
 ```html

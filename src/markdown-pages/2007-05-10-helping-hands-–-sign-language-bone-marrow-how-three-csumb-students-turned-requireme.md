@@ -1,9 +1,8 @@
 ---
-title:
-  &gt;- Helping hands &#x2013; from sign language to bone marrow how three CSUMB
+title: &gt;- Helping hands from sign language to bone marrow how three CSUMB
   students turned requirements into community service
 date: May 10 2007
-slug: &gt;- helping-hands-&#x2013;-from-sign-language-to-bone-marrow-how-three-csumb-students-turned-requirements-into-community-service
+slug: &gt;- helping-hands-from-sign-language-to-bone-marrow-how-three-csumb-students-turned-requirements-into-community-service
 ---
 
 ```html

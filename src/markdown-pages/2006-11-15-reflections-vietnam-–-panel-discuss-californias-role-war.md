@@ -1,9 +1,9 @@
 ---
 title:
-  &gt;- Reflections of Vietnam &#x2013; Panel to discuss California&apos;s role in the
+  &gt;- Reflections of Vietnam Panel to discuss California&apos;s role in the
   war
 date: November 15 2006
-slug: &gt;- reflections-of-vietnam-&#x2013;-panel-to-discuss-california&apos;s-role-in-the-war
+slug: &gt;- reflections-of-vietnam-panel-to-discuss-california&apos;s-role-in-the-war
 ---
 
 ```html

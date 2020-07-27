@@ -1,7 +1,7 @@
 ---
-title: Eco Terror &#x2013; CSUMB bravely tackles the planet&apos;s looming doom
+title: Eco Terror - CSUMB bravely tackles the planets looming doom
 date: May 3 2007
-slug: eco-terror-&#x2013;-csumb-bravely-tackles-the-planet&apos;s-looming-doom
+slug: eco-terror--csumb-bravely-tackles-the-planets-looming-doom
 ---
 
 ```html

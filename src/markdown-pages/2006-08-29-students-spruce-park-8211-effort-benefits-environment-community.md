@@ -1,7 +1,7 @@
 ---
-title: Students spruce up park &#x2013; Effort benefits environment community
+title: Students spruce up park Effort benefits environment community
 date: August 29 2006
-slug: students-spruce-up-park-&#x2013;-effort-benefits-environment-community
+slug: students-spruce-up-park-effort-benefits-environment-community
 ---
 
 ```html
