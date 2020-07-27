@@ -1,6 +1,6 @@
 ---
 slug: trawling-has-negligible-effect-on-soft-bottom-seafloor
-title: "Trawling has "negligible" effect on soft-bottom seafloor"
+title: 'Trawling has "negligible" effect on soft-bottom seafloor'
 date: January 01 2020
 ---
 
