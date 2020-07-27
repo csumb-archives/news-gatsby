@@ -1,7 +1,7 @@
 ---
 title: Can coral reefs adjust to global climate change?
 date: October 28 2013
-slug: can-coral-reefs-adjust-to-global-climate-change?
+slug: can-coral-reefs-adjust-to-global-climate-change
 ---
 
 ```html

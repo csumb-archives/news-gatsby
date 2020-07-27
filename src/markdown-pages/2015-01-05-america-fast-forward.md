@@ -1,7 +1,7 @@
 ---
 title: America Fast Forward?
 date: January 5 2015
-slug: america-fast-forward?
+slug: america-fast-forward
 ---
 
 ```html
