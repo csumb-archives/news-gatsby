@@ -15,12 +15,12 @@ export default function IndexPage({ data }) {
 
 export const query = graphql`
   query {
-    allMarkdownRemark {
+    allMarkdownRemark(sort: { order: ASC, fields: frontmatter___title }) {
       totalCount
       edges {
         node {
           id
-          excerpt(pruneLength: 150, format: HTML, truncate: true)
+          excerptAst(pruneLength: 150, truncate: false)
           frontmatter {
             slug
             title
