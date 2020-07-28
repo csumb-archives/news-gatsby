@@ -1,7 +1,7 @@
 ---
 title: Should California have the highest minimum wage in the U.S.?
 date: March 17 2014
-slug: should-california-have-the-highest-minimum-wage-in-the-u.s.?
+slug: should-california-have-the-highest-minimum-wage-in-the-us
 ---
 
 ```html
