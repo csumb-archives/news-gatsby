@@ -1,6 +1,6 @@
 ---
 slug: -csumb-bachelor-of-science-in-nursing-program-receives-ccne-accreditation
-title: " CSUMB Bachelor of Science in Nursing Program Receives CCNE Accreditation"
+title: 'CSUMB Bachelor of Science in Nursing Program Receives CCNE Accreditation'
 date: January 01 2020
 ---
 

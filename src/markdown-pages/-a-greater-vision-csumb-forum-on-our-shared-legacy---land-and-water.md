@@ -1,6 +1,6 @@
 ---
 slug: -a-greater-vision-csumb-forum-on-our-shared-legacy---land-and-water
-title: " A Greater Vision: CSUMB forum on 'Our Shared Legacy - Land and Water'"
+title: "A Greater Vision: CSUMB forum on 'Our Shared Legacy - Land and Water'"
 date: January 01 2020
 ---
 

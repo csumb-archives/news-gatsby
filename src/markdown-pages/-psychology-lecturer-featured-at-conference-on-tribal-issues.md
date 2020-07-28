@@ -1,6 +1,6 @@
 ---
 slug: -psychology-lecturer-featured-at-conference-on-tribal-issues
-title: " Psychology lecturer featured at conference on tribal issues"
+title: 'Psychology lecturer featured at conference on tribal issues'
 date: January 01 2020
 ---
 

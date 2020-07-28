@@ -1,6 +1,6 @@
 ---
 slug: -csu-chancellor-timothy-white-visits-csumb
-title: " CSU Chancellor Timothy White visits CSUMB"
+title: 'CSU Chancellor Timothy White visits CSUMB'
 date: January 01 2020
 ---
 
