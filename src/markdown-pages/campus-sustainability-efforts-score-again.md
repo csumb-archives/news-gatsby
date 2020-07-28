@@ -76,7 +76,7 @@ date: January 01 2020
   and for it work on the Chinatown Renewal Project in Salinas.
 </p>
 <p>
-  <a href="http://transportation.csumb.edu/tripwise-home"
+  <a href="https://transportation.csumb.edu/tripwise-home"
     >Visit the TRIPwise website</a
   >
   Get the latest transportation information on the
@@ -88,34 +88,34 @@ date: January 01 2020
 <h4>More about sustainability at CSUMB:</h4>
 <p>
   • Visit the
-  <a href="http://ideals.csumb.edu/sustainability">sustainability website</a> •
+  <a href="https://ideals.csumb.edu/sustainability">sustainability website</a> •
   Read about CSUMB’s
-  <a href="http://sustainability.csumb.edu/campus-sustainability-committee"
+  <a href="https://sustainability.csumb.edu/campus-sustainability-committee"
     >Climate Action Plan</a
   >
 </p>
 <p>
   • Learn about CSUMB’s innovative
-  <a href="http://energy.csumb.edu/">energy management plan</a>, including the
+  <a href="https://energy.csumb.edu/">energy management plan</a>, including the
   use of solar power
 </p>
 <p>
   •
-  <a href="http://sustainability.csumb.edu/water-0"
+  <a href="https://sustainability.csumb.edu/water-0"
     >Water conservation efforts</a
   >
   on campus
 </p>
 <p>
   • CSUMB maintains a robust
-  <a href="http://sustainability.csumb.edu/waste-and-recycling"
+  <a href="https://sustainability.csumb.edu/waste-and-recycling"
     >recycling program</a
   >
 </p>
 <p>
   • CSUMB named
   <a
-    href="http://news.csumb.edu/news/2013/apr/25/csumb-earns-another-green-honor"
+    href="https://news.csumb.edu/news/2013/apr/25/csumb-earns-another-green-honor"
     >‘green’ school by Princeton Review</a
   >
 </p>

@@ -9,7 +9,7 @@ slug: making-a-habit-of-victory
 
 
 <span class="date">Posted on Apr 28, 2011    </span>
-<p class="fineprint"><img alt="Cal State Monterey Bay&apos;s Women&apos;s Basketball Team" src="http://news.csumb.edu/sites/default/files/imagecache/large/65/attachments/news/images/ccaa-champions.jpg"><br>
+<p class="fineprint"><img alt="Cal State Monterey Bay&apos;s Women&apos;s Basketball Team" src="https://news.csumb.edu/sites/default/files/imagecache/large/65/attachments/news/images/ccaa-champions.jpg"><br>
 
 <em><strong>The Cal State Monterey Bay women&#x2019;s basketball team
 celebrates its California Collegiate Athletic Association

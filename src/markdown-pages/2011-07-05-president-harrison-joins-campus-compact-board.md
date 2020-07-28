@@ -12,7 +12,7 @@ slug: president-harrison-joins-campus-compact-board
 <p>CSU Monterey Bay President Dianne Harrison has been named to the
 Execuitve Board of California Campus Compact, a coalition of
 colleges and universities committed to civic engagement.</p>
-<p><img alt="President Dianne Harrison" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/harrison1_approved_sm_0.jpg" style="float:right; width:200px; height:300px">She joins a
+<p><img alt="President Dianne Harrison" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/harrison1_approved_sm_0.jpg" style="float:right; width:200px; height:300px">She joins a
 distinguished group of leaders representing all sectors of higher
 education in California. The board guides the organization in its
 mission of building the capacity of colleges and universities to
@@ -48,7 +48,7 @@ administrators and community members involved in diverse and
 ground-breaking activities that support and expand civic and
 community engagement throughout California. For more information,
 click <a href="www.cacampuscompact.org..html" rel="nofollow">here</a>.</em></p>
-<p>To learn more about Service Learning at CSUMB, click <a href="http://service.csumb.edu/" rel="nofollow">here</a>.<br>
+<p>To learn more about Service Learning at CSUMB, click <a href="https://service.csumb.edu/" rel="nofollow">here</a>.<br>
 &#xA0;</br></p>
 
 

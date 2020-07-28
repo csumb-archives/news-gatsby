@@ -35,8 +35,8 @@ date: January 01 2020
 <p>
   Tickets are $40 premium, $29 general admission. Discounts are available for
   students, seniors and military members. Tickets can be purchased
-  <a href="http://csumb.edu/worldtheater">online</a> or by calling the box
+  <a href="https://csumb.edu/worldtheater">online</a> or by calling the box
   office at 582-4580. Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 ```

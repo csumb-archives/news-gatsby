@@ -34,7 +34,7 @@ date: January 01 2020
   Public Art in 2012.
 </p>
 <p>
-  On his <a href="http://www.lewaytes.com">website</a>, he says: “In one form or
+  On his <a href="https://www.lewaytes.com">website</a>, he says: “In one form or
   another, art has existed in my life as long as I have memory. My first
   conscious production of art was musical . . . Music also transported me into
   the medium of sculpture later in life.”

@@ -20,7 +20,7 @@ date: January 01 2020
   native who is the president of the university’s Archaeology Club. “We worked a
   lot of long nights on this over the winter break.”
 </p>
-<p><a href="http://The14thColony.org">Visit the workshop website here</a>.</p>
+<p><a href="https://The14thColony.org">Visit the workshop website here</a>.</p>
 <p>
   Lucido, a Seaside native who graduated from CSUMB and now attends graduate
   school at Sonoma State, said, “As a student, particularly as an undergraduate,
@@ -60,13 +60,13 @@ date: January 01 2020
   teach their students. A supplemental grant awarded to Dr. Mendoza will make
   that easier. The extra money will be used to develop a website that will
   provide electronic resources for teachers. <strong>UPDATE</strong>:
-  <a href="http://mrc.the14thcolony.org/">Visit the website here.</a> Meanwhile,
+  <a href="https://mrc.the14thcolony.org/">Visit the website here.</a> Meanwhile,
   Gentry and Lucido are continuing their academic collaboration. They attended
   the recent American Anthropological Association meeting in San Francisco and
   presented their first conference paper together, “Children of St. Francis: New
   Perspectives In California Mission Studies.” &#42;Photo: Dr. Ruben
   Mendoza&#42;<a
-    href="http://news.csumb.edu/news/2012/nov/25/faculty&#45;highlights"
+    href="https://news.csumb.edu/news/2012/nov/25/faculty&#45;highlights"
     >Read more faculty news</a
   >
 </p>

@@ -19,7 +19,7 @@ service professionals worldwide who hold this credential.</p>
 <p>The stringent process included an assessment of his education,
 experience, professional development, technical competencies,
 contributions to the profession and community involvement.</p>
-<p><img alt="Dick Bower, CSUMB&apos;s emergency manager" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bowerdick.jpeg" style="float:left; width:152px; height:203px">Typically, fire
+<p><img alt="Dick Bower, CSUMB&apos;s emergency manager" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bowerdick.jpeg" style="float:left; width:152px; height:203px">Typically, fire
 marshals enforce fire codes, teach fire prevention and find the
 cause of destructive fires. While the designation isn&#x2019;t directly
 related to his position at CSUMB, Bower said it had long been his

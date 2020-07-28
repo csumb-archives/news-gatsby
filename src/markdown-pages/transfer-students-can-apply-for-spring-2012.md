@@ -19,7 +19,7 @@ date: January 01 2020
 </p>
 <p>
   All students must apply online at
-  <a href="http://www.csumentor.edu" title="www.csumentor.edu"
+  <a href="https://www.csumentor.edu" title="www.csumentor.edu"
     >www.csumentor.edu</a
   >.
 </p>

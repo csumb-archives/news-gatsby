@@ -49,9 +49,9 @@ date: January 01 2020
   to the National Campaign for Grade-Level Reading and president and CEO of the
   Smarter Learning Group The summit will be held from 8:15 to 11:45 a.m. in the
   University Center ballroom.
-  <a href="http://csumb.edu/maps">Driving directions and a campus map</a> To
+  <a href="https://csumb.edu/maps">Driving directions and a campus map</a> To
   register, or for more information, visit the
-  <a href="http://www.literacycampaignmc.org">literacy campaign's website. </a>
+  <a href="https://www.literacycampaignmc.org">literacy campaign's website. </a>
 </p>
 <p></p>
 ```

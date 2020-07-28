@@ -14,7 +14,7 @@ slug: annual-business-ethics-forum-set-for-march-27
 <p>The ethical challenges facing Apple, one of the planet&#x2019;s
 wealthiest corporations, will be explored at the annual Ethics
 Forum sponsored by CSU Monterey Bay&#x2019;s schools of Business, and
-Information&#xA0;<img alt="Business Ethics Forum will be held March 27" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/business-ethics.jpg" style="float:left; width:350px; height:224px">Technology and
+Information&#xA0;<img alt="Business Ethics Forum will be held March 27" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/business-ethics.jpg" style="float:left; width:350px; height:224px">Technology and
 Communication Design. The event will be held from 1 to 3 p.m. on
 March 27 in the University Center on Sixth Avenue and B Street.
 Admission is free, but attendees must purchase a $2 parking
@@ -47,10 +47,10 @@ at this issue on March 28, when a panel will discuss &quot;Corporate
 Social Responsibility? Workers, Owners and Consumers in the Global
 Economy.&quot; The colloquium is put on by the Division of Social,
 Behavioral and Global Studies.</p>
-<p><a href="http://csumb.edu/business" rel="nofollow">Learn about
+<p><a href="https://csumb.edu/business" rel="nofollow">Learn about
 the School of Business</a>.<br>
 <br>
-<a href="http://itcd.csumb.edu/" rel="nofollow">Learn about the
+<a href="https://itcd.csumb.edu/" rel="nofollow">Learn about the
 School of Information Technology and Communication Design</a><br>
 <br>
 <br>

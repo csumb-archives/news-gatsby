@@ -23,7 +23,7 @@ date: January 01 2020
 <p>
   The
   <a
-    href="http://csumb.edu/recreationalfacilities/aquatics-center"
+    href="https://csumb.edu/recreationalfacilities/aquatics-center"
     target="_blank"
     >Aquatic Center</a
   >

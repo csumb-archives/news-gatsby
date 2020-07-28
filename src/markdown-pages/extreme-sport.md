@@ -59,7 +59,7 @@ date: January 01 2020
 <p>
   For more information or disability accommodations, call the World Theater box
   office at 582-4580. Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p><em>Photo: Roberto Rochín</em></p>
 ```

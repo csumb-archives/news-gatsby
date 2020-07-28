@@ -27,7 +27,7 @@ date: January 01 2020
   Dr. Summers Sandoval, an associate professor of history and Chicano/Latino
   Studies at Pomona College, has led an
   <a
-    href="http://ww2.kqed.org/news/2015/05/25/the&#45;invisible&#45;force&#45;latinos&#45;at&#45;war&#45;in&#45;vietnam"
+    href="https://ww2.kqed.org/news/2015/05/25/the&#45;invisible&#45;force&#45;latinos&#45;at&#45;war&#45;in&#45;vietnam"
     >oral history project</a
   >
   that examines the impact of the Vietnam War on Latino communities. He told

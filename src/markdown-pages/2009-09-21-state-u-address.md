@@ -23,7 +23,7 @@ follow in front of the theater.</p>
 <p>Please RSVP by calling 582-4001 or emailing <a href="mailto:specialevents@csumb.edu">specialevents@csumb.edu</a>.</p>
 <p>The State of the University address is open to the campus
 community. It will be shown on cable channel 71 and broadcast live
-via the web, accessible from <a href="http://csumb.edu/site/x12349.xml" title="http://csumb.edu/site/x12349.xml">http://csumb.edu/site/x12349.xml</a>.</p>
+via the web, accessible from <a href="https://csumb.edu/site/x12349.xml" title="https://csumb.edu/site/x12349.xml">https://csumb.edu/site/x12349.xml</a>.</p>
 <p>&#xA0;</p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>

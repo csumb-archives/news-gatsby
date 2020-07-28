@@ -30,7 +30,7 @@ admission process, including virtual tours through CSUMentor.edu,
 the website that provides the tools to plan and apply to a CSU
 campus.<br>
 <br>
-Copies of the <a href="http://www.calstate.edu/college/" rel="nofollow">How to Get to College</a>&#xA0;poster &#x2013; a practical
+Copies of the <a href="https://www.calstate.edu/college/" rel="nofollow">How to Get to College</a>&#xA0;poster &#x2013; a practical
 guide about how to prepare for college &#x2013; will be distributed. The
 guide, available in several languages, in print and electronic
 form, provides the list of classes that students need to take from

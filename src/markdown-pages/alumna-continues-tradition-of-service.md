@@ -6,7 +6,7 @@ date: January 01 2020
 
 ```html
 <p>
-  <a href="http://ci.education.nmsu.edu/faculty/judithfc/"
+  <a href="https://ci.education.nmsu.edu/faculty/judithfc/"
     >Judith Flores Carmona</a
   >
   continues to demonstrate the service and leadership she first exhibited while

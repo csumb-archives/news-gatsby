@@ -20,7 +20,7 @@ date: January 01 2020
 </p>
 <p>
   The National Ocean Sciences Bowl, a program of the
-  <a href="http://oceanleadership.org/">Consortium for Ocean Leadership</a>, is
+  <a href="https://oceanleadership.org/">Consortium for Ocean Leadership</a>, is
   an academic competition and program that addresses the national gap in
   environmental and earth sciences in public education by introducing and
   engaging high school students to ocean science.

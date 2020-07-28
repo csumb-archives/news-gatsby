@@ -65,6 +65,6 @@ date: January 01 2020
   of Student Activities and Leadership Development sponsor the program. It is
   presented as part of CSUMB’s celebration of Mental Health Awareness Week. More
   information can be found on the organization's
-  <a href="http://www.twloha.com">website</a>.
+  <a href="https://www.twloha.com">website</a>.
 </p>
 ```

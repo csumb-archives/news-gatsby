@@ -37,7 +37,7 @@ date: January 01 2020
   Business Development Center. Participants must purchase a ticket prior to the
   event. Before Dec. 21, tickets are $75 or $39 for college students and include
   meals, snacks and parking.
-  <a href="http://csumb.startupweekend.org.">Register here</a>.
+  <a href="https://csumb.startupweekend.org.">Register here</a>.
 </p>
 <p>
   For more information, contact Program Manager Mary Jo Zenk at &#40;831&#41;
@@ -46,7 +46,7 @@ date: January 01 2020
     href="&#x6d;&#97;&#x69;&#108;t&#x6f;&#58;&#x6d;&#122;&#101;&#x6e;&#107;&#x40;&#99;&#115;&#x75;&#109;&#x62;&#x2e;&#101;&#x64;&#117;"
     >mzenk@csumb.edu</a
   >
-  or <a href="http://csumb.startupweekend.org">their website</a>.
+  or <a href="https://csumb.startupweekend.org">their website</a>.
 </p>
 <p>
   &#42;The Institute for Innovation and Economic Development &#40;iiED&#41;

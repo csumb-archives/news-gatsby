@@ -33,7 +33,7 @@ date: January 01 2020
 <p>
   “It’s wonderful to see our program being recognized nationally,” said Dr. Seth
   Pollack, director of
-  <a href="http://service.csumb.edu/">Service Learning</a> at CSUMB. “No other
+  <a href="https://service.csumb.edu/">Service Learning</a> at CSUMB. “No other
   university in the country has made as significant a commitment to integrating
   learning about social justice and civic engagement into the core of the
   curriculum. Our focus on developing students’ capacity for service and social
@@ -81,11 +81,11 @@ date: January 01 2020
   Syracuse University also won awards.
 </p>
 <p>
-  <a href="http://csumb.edu/gallery/chinatown-garden"
+  <a href="https://csumb.edu/gallery/chinatown-garden"
     >See a photo gallery of the Chinatown garden</a
   >
   <a
-    href="http://news.csumb.edu/news/2013/jul/5/students-help-tell-stories-chinatown"
+    href="https://news.csumb.edu/news/2013/jul/5/students-help-tell-stories-chinatown"
     >Students help to tell stories of Chinatown</a
   >
 </p>

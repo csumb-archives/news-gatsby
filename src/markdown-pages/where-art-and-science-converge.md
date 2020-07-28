@@ -65,7 +65,7 @@ date: January 01 2020
 <p>
   Museum hours are 10 a.m.-5 p.m., Tuesday through Sunday. Admission is free.
   More information is available online at
-  <a href="http://www.pgmuseum.org/">www.pgmuseum.org</a> and
+  <a href="https://www.pgmuseum.org/">www.pgmuseum.org</a> and
   scienceillustration.org.
 </p>
 <p></p>

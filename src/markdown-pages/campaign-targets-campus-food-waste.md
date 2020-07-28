@@ -65,7 +65,7 @@ date: January 01 2020
 </p>
 <p>
   To learn more, visit
-  <a href="http://www.stopwastingfood.org" title="www.stopwastingfood.org"
+  <a href="https://www.stopwastingfood.org" title="www.stopwastingfood.org"
     >www.stopwastingfood.org</a
   >.
 </p>

@@ -9,7 +9,7 @@ date: January 01 2020
   UPDATE: As of March 2014, 31 of the original 32 students were still enrolled
   in the program and next year's class was being recruited. Read more
   <a
-    href="http://blogs.kqed.org/newsfix/2014/03/20/from-fields-to-computer-science/"
+    href="https://blogs.kqed.org/newsfix/2014/03/20/from-fields-to-computer-science/"
     >here</a
   >.
 </p>
@@ -24,7 +24,7 @@ date: January 01 2020
   Students admitted to the program, called CSIT-in-3, will benefit from $3
   million in student scholarship aid pledged by the Matsui Foundation over the
   first three years of the program.
-  <a href="http://president.csumb.edu/">Eduardo M. Ochoa</a>, interim president
+  <a href="https://president.csumb.edu/">Eduardo M. Ochoa</a>, interim president
   of Cal State Monterey Bay, and Hartnell President Willard Lewallen praised the
   generosity of Andy Matsui, a long-time supporter of educational programs in
   the area. The scholarship money is designed to allow students to attend
@@ -56,9 +56,9 @@ date: January 01 2020
   program before shifting to Cal State Monterey Bay for the final
   year-and-a-half. In the second summer semester, students would work at
   internships. More information about the program can be found at
-  <a href="http://csumb.edu/csitin3">csumb.edu/csitin3</a>.
+  <a href="https://csumb.edu/csitin3">csumb.edu/csitin3</a>.
   <a
-    href="http://www.npr.org/blogs/alltechconsidered/2013/09/01/217722966/out-of-the-fields-and-into-computer-science-classes"
+    href="https://www.npr.org/blogs/alltechconsidered/2013/09/01/217722966/out-of-the-fields-and-into-computer-science-classes"
     >Listen to a story on National Public Radio about the program</a
   >
 </p>

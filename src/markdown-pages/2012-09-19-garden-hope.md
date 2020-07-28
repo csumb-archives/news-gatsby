@@ -9,7 +9,7 @@ slug: garden-of-hope
 
 
 <span class="date">Posted on Sep 19, 2012    </span>
-<h3><img alt="The Shoreline Community Garden has 89 beds covering 1.5 acres" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/shoreline_for_web.jpg" style="width:550px; height:168px"/></h3>
+<h3><img alt="The Shoreline Community Garden has 89 beds covering 1.5 acres" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/shoreline_for_web.jpg" style="width:550px; height:168px"/></h3>
 <h3>CSUMB invites visitors to Shoreline Food Garden</h3>
 <p>A garden that has sprung up on an empty lot on the former Fort
 Ord is producing nutritious food and offering opportunities for job
@@ -43,8 +43,8 @@ Healthy&#x201D; program<br>
 Chinatown neighborhood and at Pueblo del Mar transitional housing
 program in Marina, is an initiative of CSU Monterey Bay&#x2019;s Service
 Learning Institute.</p>
-<p><a href="http://service.csumb.edu/marina-community-gardens" rel="nofollow">Learn more about the Community Food Project.</a></p>
-<p><a href="http://service.csumb.edu" rel="nofollow">Learn more
+<p><a href="https://service.csumb.edu/marina-community-gardens" rel="nofollow">Learn more about the Community Food Project.</a></p>
+<p><a href="https://service.csumb.edu" rel="nofollow">Learn more
 about the Service Learning Institute at CSUMB.</a><br>
 &#xA0;</br></p>
 

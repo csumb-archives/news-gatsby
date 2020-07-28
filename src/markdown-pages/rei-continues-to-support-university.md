@@ -36,7 +36,7 @@ date: January 01 2020
   connect children to nature.
 </p>
 <p>
-  <a href="http://csumb.edu/ron"
+  <a href="https://csumb.edu/ron"
     >Learn more about Return of the Natives at CSUMB.</a
   >
 </p>

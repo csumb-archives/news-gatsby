@@ -38,6 +38,6 @@ date: January 01 2020
   innovative ideas that lead to new business opportunities.
 </p>
 <p>
-  For more information, <a href="http://innovation.csumb.edu">click here</a>
+  For more information, <a href="https://innovation.csumb.edu">click here</a>
 </p>
 ```

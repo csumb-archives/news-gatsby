@@ -12,7 +12,7 @@ slug: junior-otter-program-wins-statewide-award
 <p>The Migrant Junior Otter program based at CSU Monterey Bay has
 won another award, the second time it has been honored in its short
 history.</p>
-<p><img alt="About 250 youngsters attend the Migrant Junior Otter program each summer" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mjo.jpeg" style="float:left; width:244px; height:192px">The program was
+<p><img alt="About 250 youngsters attend the Migrant Junior Otter program each summer" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mjo.jpeg" style="float:left; width:244px; height:192px">The program was
 recognized in 2010 at the National Migrant Education Conference as
 an outstanding example of a collaborative effort. This year, it was
 selected for a Golden Bell Award from the California School Boards
@@ -40,7 +40,7 @@ CSUMB, as well as representatives from the MCOE and El Teatro will
 attend the awards ceremony in San Diego on Dec. 3.</p>
 <p>Learn more about the Migrant Junior Otter program <a href="../../../../migrant-jr-otter-graduation.html" rel="nofollow">here.</a></p>
 <p>Learn more about CSUMB&apos;s early outreach and support programs
-<a href="http://eosp.csumb.edu/early-outreach-and-support-programs" rel="nofollow">here</a>.</p>
+<a href="https://eosp.csumb.edu/early-outreach-and-support-programs" rel="nofollow">here</a>.</p>
 <p><br>
 &#xA0;</br></p>
 

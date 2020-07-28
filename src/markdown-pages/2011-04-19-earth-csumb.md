@@ -18,7 +18,7 @@ the beauty and vitality of nature; it&apos;s also about renewing our
 commitment to saving our living planet.&#x2028;&#x2028;</p>
 <p>The Associated Students&apos; Environmental Committee has a variety
 of activities planned for the week.</p>
-<p><img alt="Earth Day, April 22, is celebrated for a full week at CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/earth_day.jpg" style="float:left; width:300px; height:317px">&#x2028;&#x2028;Bike Night kicks
+<p><img alt="Earth Day, April 22, is celebrated for a full week at CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/earth_day.jpg" style="float:left; width:300px; height:317px">&#x2028;&#x2028;Bike Night kicks
 off the week on <strong>Friday, April 15</strong>. Meet at the
 Student Center at 4:30 p.m., ride from 5 to 7 p.m. A barbecue will
 follow the ride. The Otter Cycle Center will provide rental

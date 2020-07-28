@@ -79,7 +79,7 @@ date: January 01 2020
 </p>
 <p>
   Learn more about
-  <a href="http://csumb.edu/trip.">transportation options </a>on campus and in
+  <a href="https://csumb.edu/trip.">transportation options </a>on campus and in
   the area.
 </p>
 <p>

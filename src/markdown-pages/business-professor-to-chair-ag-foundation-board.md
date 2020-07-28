@@ -22,7 +22,7 @@ date: January 01 2020
   an M.S. from Stanford as a Sloan Fellow, and an MBA from the University of
   Southern California. She has been a member of the Grower-Shipper Association
   Foundation board for six years.
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     >Read more faculty news.</a
   >
 </p>

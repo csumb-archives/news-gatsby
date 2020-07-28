@@ -12,10 +12,10 @@ slug: rugby-club-sponsors-&apos;invictus&apos;-on-oct.-7
 <p>The Rugby Club at CSU Monterey Bay invites the community to
 attend a free screening of the Oscar-nominated film &#x201C;Invictus&#x201D; on
 Oct. 7.</p>
-<p><img alt="Morgan Freeman as Nelson Mandela in &apos;Invictus&apos;" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/morganfmandela.jpg" style="float:left; width:350px; height:233px">The film will be
+<p><img alt="Morgan Freeman as Nelson Mandela in &apos;Invictus&apos;" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/morganfmandela.jpg" style="float:left; width:350px; height:233px">The film will be
 shown at 6 p.m. in Room 1188 of the Tanimura &amp; Antle Family
 Memorial Library. Driving directions and a campus map are available
-<a href="http://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</img></p>
+<a href="https://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</img></p>
 <p>Directed by Clint Eastwood, &#x201C;Invictus&#x201D; tells the story of how
 South African President Nelson Mandela (played by Morgan Freeman)
 joined forces with the captain of South Africa&apos;s rugby team,

@@ -9,7 +9,7 @@ slug: puppetbased-animation-workshops-at-csumb
 
 
 <span class="date">Posted on Apr 09, 2014    </span>
-<p><img alt="Animator Sam Koji Hale will present a workshop on April 10" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/sam_1_for_web.jpg" style="width:267px; height:187px; float:left">Sam Koji Hale, an
+<p><img alt="Animator Sam Koji Hale will present a workshop on April 10" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/sam_1_for_web.jpg" style="width:267px; height:187px; float:left">Sam Koji Hale, an
 animator and puppet maker, will visit CSU Monterey Bay on April 10
 for a pair of events open to the public.</img></p>
 <p>Hale has more than a decade of experience making animated films,
@@ -27,7 +27,7 @@ Smithereen.&#x201D;</p>
 puppet making. He will discuss his fabrication and construction
 process and show how he made &#x201C;Yamasong&#x201D; and his current
 work-in-progress, &#x201C;Monster of the Sky.&#x201D;</p>
-<p><img alt="Puppets used in animated films" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/sam_2_for_web.jpg" style="width:210px; height:157px; float:right">&#x2022; From 7-9 p.m.,
+<p><img alt="Puppets used in animated films" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/sam_2_for_web.jpg" style="width:210px; height:157px; float:right">&#x2022; From 7-9 p.m.,
 Mr. Hale will present the latest collection of Handmade Puppet
 Dreams, a film series created by Heather Henson, daughter of the
 late Jim Henson. Handmade Puppet Dreams is a touring festival of
@@ -38,7 +38,7 @@ expression. Mr. Hale works as a producer for Handmade Puppet
 Dreams.</img></p>
 <p>Both events will be held in the Cinematic Arts Building on Sixth
 Avenue and A Street. Driving directions and a campus map are
-available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.
+available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.
 While the events are free, visitors must purchase a parking permit
 from a machine on the lot.</p>
 <p>Some of the films contain mature content and are not suitable
@@ -48,7 +48,7 @@ a program for the whole family. At 1 p.m., puppet films will be
 screened, followed by puppet-making activities with Mr. Hale. The
 program is free with museum admission. MY Museum is located at 425
 Washington St., Monterey.</p>
-<p>CSUMB is developing an animation curriculum within its <a href="http://csumb.edu/tat" rel="nofollow">Cinematic Arts and Technology
+<p>CSUMB is developing an animation curriculum within its <a href="https://csumb.edu/tat" rel="nofollow">Cinematic Arts and Technology
 Department.</a> This is the program&#x2019;s first public event.<br>
 &#xA0;</br></p>
 

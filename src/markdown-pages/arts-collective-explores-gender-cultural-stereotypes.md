@@ -30,11 +30,11 @@ date: January 01 2020
   Art in Santa Clara; and Green Papaya Art Projects in Manila, the Philippines.
   The Alumni and Visitors Center is located on the corner of Gen. Jim Moore
   Boulevard and Inter-Garrison Road on the CSUMB campus.
-  <a href="http://csumb.edu/map">Driving directions and a campus map</a>.
+  <a href="https://csumb.edu/map">Driving directions and a campus map</a>.
 </p>
 <p>
   The Visiting Artist Series is presented by the university's
-  <a href="http://csumb.edu/art">Visual and Public Art Department</a>.
+  <a href="https://csumb.edu/art">Visual and Public Art Department</a>.
 </p>
 <p>
   <em

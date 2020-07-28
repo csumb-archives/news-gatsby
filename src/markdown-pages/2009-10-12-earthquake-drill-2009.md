@@ -17,14 +17,14 @@ statewide exercise involving millions of people. The date falls two
 days before the 20th anniversary of the Loma Prieta
 earthquake.<br>
 <br>
-<img alt="drop cover hold" height="103" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/drop%20cover%20hold.jpg" style="float:left" width="250">Students, faculty and staff are
+<img alt="drop cover hold" height="103" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/drop%20cover%20hold.jpg" style="float:left" width="250">Students, faculty and staff are
 encouraged to participate.<br>
 <br>
 At precisely 10:15 on Thursday morning, the university&apos;s outdoor
 alert system will broadcast a message to start the drill. An alert
 will also go out to everyone registered with the OtterAlert text
 message/e-mail service. If you have not yet registered for
-OtterAlert, visit the web at <a href="http://csumb.edu/otteralert" rel="nofollow">csumb.edu/otteralert</a> to do so.<br>
+OtterAlert, visit the web at <a href="https://csumb.edu/otteralert" rel="nofollow">csumb.edu/otteralert</a> to do so.<br>
 <br>
 After hearing the broadcast message or receiving the text, everyone
 is asked to drop, cover and hold on.<br>
@@ -57,13 +57,13 @@ the American Red Cross will participate to test their emergency
 preparedness,</p>
 <p>More information:</p>
 <p>&#x2022; To learn more about the outdoor broadcast alert system on
-campus, visit <a href="http://news.csumb.edu/site/x22188.xml" rel="nofollow">http://news.csumb.edu/site/x22188.xml</a></p>
-<p>&#x2022; To learn more about the OtterAlert system, visit <a href="index.html" title="http://news.csumb.edu/site/x20695.xml">http://news.csumb.edu/site/x20695.xml</a></p>
+campus, visit <a href="https://news.csumb.edu/site/x22188.xml" rel="nofollow">https://news.csumb.edu/site/x22188.xml</a></p>
+<p>&#x2022; To learn more about the OtterAlert system, visit <a href="index.html" title="https://news.csumb.edu/site/x20695.xml">https://news.csumb.edu/site/x20695.xml</a></p>
 <p>&#x2022; For more information about emergency preparedness efforts at
-CSUMB, visit <a href="http://police.csumb.edu/site/x5487.xml" rel="nofollow">http://police.csumb.edu/site/x5487.xml</a></p>
-<p>&#x2022;For more information on the ShakeOut, visit <a href="http://www.shakeout.org/" rel="nofollow">http://www.shakeout.org</a></p>
+CSUMB, visit <a href="https://police.csumb.edu/site/x5487.xml" rel="nofollow">https://police.csumb.edu/site/x5487.xml</a></p>
+<p>&#x2022;For more information on the ShakeOut, visit <a href="https://www.shakeout.org/" rel="nofollow">https://www.shakeout.org</a></p>
 <p>&#x2022; For more information on how to drop, cover and hold on, visit
-<a href="http://www.dropcoverholdon.org/" title="http://www.dropcoverholdon.org/">http://www.dropcoverholdon.org/</a></p>
+<a href="https://www.dropcoverholdon.org/" title="https://www.dropcoverholdon.org/">https://www.dropcoverholdon.org/</a></p>
 <p>&#xA0;</p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>

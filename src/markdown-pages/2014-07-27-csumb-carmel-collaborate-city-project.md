@@ -13,7 +13,7 @@ Monterey Bay faculty, staff and students responded.</p>
 <p>For their work in mapping the city&#x2019;s trails using geographic
 information systems, the team was honored at a City Council meeting
 in early July.</p>
-<p><img alt="Map of Carmel" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/carmel_map.png" style="float:right; width:275px; height:341px">The project came
+<p><img alt="Map of Carmel" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/carmel_map.png" style="float:right; width:275px; height:341px">The project came
 about when Councilwoman Victoria Beach wanted to have an
 alternative transportation mapping project done. She contacted
 Megan Tolbert, CSUMB&#x2019;s transportation planner. Tolbert knew that
@@ -34,7 +34,7 @@ map of Carmel&#x2019;s bike and pedestrian routes.</p>
 allowing them to allocate resources in a way that closes those
 gaps. For example, it could help determine where sidewalks need to
 be provided.</p>
-<p><img alt="Carmel Mayor Jason Burnett and CSUMB President Eduardo Ochoa" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mayor_burnett_pres._ochoa.jpg" style="float:left; width:300px; height:225px">The map will also
+<p><img alt="Carmel Mayor Jason Burnett and CSUMB President Eduardo Ochoa" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mayor_burnett_pres._ochoa.jpg" style="float:left; width:300px; height:225px">The map will also
 help the city promote eco-tourism. It needed to know if visitors
 who found their way to Carmel would be able to get around the city
 without a car.</img></p>
@@ -46,7 +46,7 @@ of the Carmel Planning Commission.</p>
 <p>&#x201C;We are grateful for the opportunity to connect Carmel and their
 collaborating organizations with valuable GIS skills,&#x201D; Tolbert
 said. &#x201C;It&#x2019;s a need for agencies, but many times unfunded.&#x201D;</p>
-<p><a href="http://catalog.csumb.edu/undergrad-education/majors/social-behavioral-sciences/course-pathways/geographic-information-systems" rel="nofollow">Learn about GIS classes at CSUMB</a></p>
+<p><a href="https://catalog.csumb.edu/undergrad-education/majors/social-behavioral-sciences/course-pathways/geographic-information-systems" rel="nofollow">Learn about GIS classes at CSUMB</a></p>
 <p class="small"><em>Carmel Mayor Jason Burnett presents CSUMB
 President Eduardo Ochoa a proclamation thanking the university for
 its help with a city project</em><br>

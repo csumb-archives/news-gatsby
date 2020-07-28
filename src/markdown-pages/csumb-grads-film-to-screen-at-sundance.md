@@ -9,7 +9,7 @@ date: January 01 2020
 <p>
   <em
     >Professor Enid Baxter Blader and two students are attending the festival.
-    Read their blog <a href="http://local909er.typepad.com/">here</a>.</em
+    Read their blog <a href="https://local909er.typepad.com/">here</a>.</em
   >
 </p>
 <p>
@@ -56,7 +56,7 @@ date: January 01 2020
 </p>
 <p>
   To view a short trailer, click
-  <strong><a href="http://www.charlieandtherabbit.com/trailer">here</a></strong
+  <strong><a href="https://www.charlieandtherabbit.com/trailer">here</a></strong
   >.
 </p>
 <p>
@@ -67,9 +67,9 @@ date: January 01 2020
 <p>
   For more information, visit the festival's website at
   <a
-    href="http://festival.news/csumb-grads-film-screen-sundance.org/2010/press_industry/releases/2010_news/csumb-grads-film-screen-sundance_film_festival_announces_short_film_program/"
-    title="http://festival.news/csumb-grads-film-screen-sundance.org/2010/press_industry/releases/2010_news/csumb-grads-film-screen-sundance_film_festival_announces_short_film_program/"
-    >http://festival.news/csumb-grads-film-screen-sundance.org/2010/press_industry/releases/2010_news/csumb-grads-film-screen-sundance_...</a
+    href="https://festival.news/csumb-grads-film-screen-sundance.org/2010/press_industry/releases/2010_news/csumb-grads-film-screen-sundance_film_festival_announces_short_film_program/"
+    title="https://festival.news/csumb-grads-film-screen-sundance.org/2010/press_industry/releases/2010_news/csumb-grads-film-screen-sundance_film_festival_announces_short_film_program/"
+    >https://festival.news/csumb-grads-film-screen-sundance.org/2010/press_industry/releases/2010_news/csumb-grads-film-screen-sundance_...</a
   >
 </p>
 <p></p>

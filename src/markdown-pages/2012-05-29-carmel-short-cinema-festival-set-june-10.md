@@ -13,7 +13,7 @@ slug: carmel-short-cinema-festival-set-for-june-10
 <p>The Carmel Short Cinema Festival returns on June 10, sponsored
 by the Forest Theater Guild and CSUMB&#x2019;s Monterey Bay Film
 Society.</p>
-<p><img alt="Orbit(film) will be shown in Carmel June 10" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/orbitfilm_poster.jpg" style="float:left; width:400px; height:607px">Attendees will see
+<p><img alt="Orbit(film) will be shown in Carmel June 10" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/orbitfilm_poster.jpg" style="float:left; width:400px; height:607px">Attendees will see
 the Orbit Film Series, a project that uses the art of cinema to
 inspire the art of science and education. A collaborative,
 80-minute omnibus movie about the solar system, Orbit(film) is
@@ -42,7 +42,7 @@ warm clothing and may want to bring a blanket. Concessions will be
 available.<br>
 <br>
 The Forest Theater is located at the corner of Mountain View and
-Santa Rita streets near downtown Carmel. For information, <a href="http://www.foresttheaterguild.org." rel="nofollow">click
+Santa Rita streets near downtown Carmel. For information, <a href="https://www.foresttheaterguild.org." rel="nofollow">click
 here</a>.&#xA0;<br>
 <br>
 The Monterey Bay Film Society is the Central Coast&#x2019;s premiere
@@ -59,12 +59,12 @@ underserved youngsters throughout Monterey County.<br>
 <div class="field field-type-emvideo field-field-attach-video">
 <div class="field-items">
 <div class="field-item odd">
-<div class="emvideo emvideo-video emvideo-vimeo"><object type="application/x-shockwave-flash" width="425" height="350" data="http://www.vimeo.com/moogaloop.swf?clip_id=23394565&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=">
+<div class="emvideo emvideo-video emvideo-vimeo"><object type="application/x-shockwave-flash" width="425" height="350" data="https://www.vimeo.com/moogaloop.swf?clip_id=23394565&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=">
 <param name="quality" value="best">
 <param name="wmode" value="transparent">
 <param name="allowfullscreen" value="true">
 <param name="scale" value="showAll">
-<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=23394565&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color="/></param></param></param></param></object></div>
+<param name="movie" value="https://www.vimeo.com/moogaloop.swf?clip_id=23394565&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color="/></param></param></param></param></object></div>
 </div>
 </div>
 </div>

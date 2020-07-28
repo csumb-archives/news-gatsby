@@ -9,7 +9,7 @@ date: January 01 2020
 <p>
   California State University, Monterey Bay invites the public to learn more
   about the master’s degree program in
-  <a href="http://csumb.edu/mist">Instructional Science and Technology</a> at an
+  <a href="https://csumb.edu/mist">Instructional Science and Technology</a> at an
   open house on Oct. 29.
 </p>
 <p>
@@ -38,12 +38,12 @@ date: January 01 2020
 </p>
 <p>
   More information about the MIST program is available
-  <a href="http://csumb.edu/mist">here</a>, by calling the School of School of
+  <a href="https://csumb.edu/mist">here</a>, by calling the School of School of
   Computing and Design at 582-4790, or by e-mailing
   <a
     href="m&#97;&#105;&#108;&#116;&#111;&#x3a;&#x6d;&#x69;&#x73;&#x74;&#x40;c&#115;&#117;&#109;&#98;&#46;&#101;&#x64;&#x75;"
     >mist@csumb.edu</a
   >.
 </p>
-<p><a href="http://csumb.edu/maps">Driving directions and a campus map</a>.</p>
+<p><a href="https://csumb.edu/maps">Driving directions and a campus map</a>.</p>
 ```

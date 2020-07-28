@@ -75,7 +75,7 @@ date: January 01 2020
   parking lot <strong>Information/ticket purchases:</strong> (831) 582-3595
 </p>
 <p>
-  <strong>Online:</strong><a href="http://www.ww2rps.com">www.ww2rps.com</a>;
-  <a href="http://foaa.csumb.edu">http://foaa.csumb.edu</a>
+  <strong>Online:</strong><a href="https://www.ww2rps.com">www.ww2rps.com</a>;
+  <a href="https://foaa.csumb.edu">https://foaa.csumb.edu</a>
 </p>
 ```

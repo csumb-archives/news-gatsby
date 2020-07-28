@@ -10,7 +10,7 @@ slug: students-try-their-hand-at-balancing-state-budget
 
 <span class="date">Posted on Jun 20, 2012    </span>
 <h3>Two CHHS students acknowledged for creative efforts</h3>
-<p><img alt="Next 10 logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/next10_home_logo_06.png" style="float:left; width:245px; height:119px">When it comes to
+<p><img alt="Next 10 logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/next10_home_logo_06.png" style="float:left; width:245px; height:119px">When it comes to
 spending state taxpayer dollars, many people think they can do
 better than the politicians elected to do the job. Students in Mary
 Jo Zenk&#x2019;s Introduction to Nonprofit and Public Administration class
@@ -19,7 +19,7 @@ got a chance to find out.<br>
 During the spring semester, she invited a representative of Next
 10, a nonpartisan, nonprofit policy organization based in San
 Francisco, to lead her class through an exercise involving budget
-priorities, called the <a href="http://www.budgetchallenge.org/respondents/new" rel="nofollow">California Budget Challenge</a>.&#xA0;</br></br></img></p>
+priorities, called the <a href="https://www.budgetchallenge.org/respondents/new" rel="nofollow">California Budget Challenge</a>.&#xA0;</br></br></img></p>
 <p>The students had to decide how much to spend on education,
 prisons and healthcare, and then they decided whether to raise or
 lower taxes.<br>
@@ -30,7 +30,7 @@ in a creative way. They could submit an essay, short story, poem,
 blog post, song lyric, video or comic strip explaining the choices
 they think the state should make to balance the budget.<br>
 <br>
-<img alt="California State Capitol" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/state-capitol-sacramento-ca338.jpg" style="float:right; width:300px; height:200px">Zenk gave her
+<img alt="California State Capitol" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/state-capitol-sacramento-ca338.jpg" style="float:right; width:300px; height:200px">Zenk gave her
 students the option of entering the contest or submitting an
 assignment that required them to balance the budget. About half
 opted for the creative approach.<br>
@@ -65,7 +65,7 @@ tradeoffs,&#x201D; she said.<br>
 &#x201C;The most exciting part for me was afterward, when some of the
 students told me that the exercise has motivated them to
 vote.&#x201D;&#xA0;</br></br></p>
-<p><em>Read all the contest entries <a href="http://next10.org/2012-student-contest" rel="nofollow">here</a>.&#xA0;<br>
+<p><em>Read all the contest entries <a href="https://next10.org/2012-student-contest" rel="nofollow">here</a>.&#xA0;<br>
 <br>
 Photo: California State Capitol in Sacramento</br></br></em></p>
 <p><br>

@@ -22,9 +22,9 @@ slug: learn-how-to-protect-your-business-from-cyber-threats
   Presentations &#x2013; available in English and Spanish and closed-captioned
   &#x2013; are posted online at
   <a
-    href="http://sbdc.csumb.edu/cyber-security"
-    title="http://sbdc.csumb.edu/cyber-security"
-    >http://sbdc.csumb.edu/cyber-security</a
+    href="https://sbdc.csumb.edu/cyber-security"
+    title="https://sbdc.csumb.edu/cyber-security"
+    >https://sbdc.csumb.edu/cyber-security</a
   >
   and can easily be downloaded.
 </p>
@@ -39,7 +39,7 @@ slug: learn-how-to-protect-your-business-from-cyber-threats
   the California Consumer Protection Foundation.
 </p>
 <p>
-  <a href="http://csumb.edu/sbdc" rel="nofollow"
+  <a href="https://csumb.edu/sbdc" rel="nofollow"
     >Learn more about CSUMB&#x2019;s Small Business Development Center</a
   >
 </p>

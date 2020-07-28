@@ -14,7 +14,7 @@ Department, was honored at the annual teaching awards ceremony
 sponsored by the Community Foundation for Monterey County. This
 year&#x2019;s event was held May 5 at the Embassy Suites hotel in
 Seaside.</p>
-<p><img alt="Dr. Scott Waltz" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/scott_waltz_small.jpg" style="float:left; width:200px; height:294px">Dr. Waltz received
+<p><img alt="Dr. Scott Waltz" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/scott_waltz_small.jpg" style="float:left; width:200px; height:294px">Dr. Waltz received
 the Allen Griffin Award for excellence in teaching at the
 post-secondary level. Faculty members from Monterey Peninsula
 College, Monterey Institute of International Studies, Defense

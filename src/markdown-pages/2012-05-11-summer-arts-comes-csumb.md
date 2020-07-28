@@ -12,7 +12,7 @@ slug: summer-arts-comes-to-csumb
 <h3>Classes, public performances highlight program</h3>
 <p>Sword fights, improvisational comedy, animation, hip-hop: Summer
 school was never this much fun.</p>
-<p><img alt="Painting is among the Summer Arts offerings" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/painting_student_small.jpg" style="float:left; width:300px; height:240px">Several hundred
+<p><img alt="Painting is among the Summer Arts offerings" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/painting_student_small.jpg" style="float:left; width:300px; height:240px">Several hundred
 students from throughout the California State University system and
 beyond will come to CSU Monterey Bay in July for the annual CSU
 Summer Arts program. High school and community college students and
@@ -35,7 +35,7 @@ more interesting.</p>
 years. The university beat out Fresno State, which housed the
 program for more than a decade, San Francisco State and Chico State
 to be the host campus.</p>
-<p><img alt="Summer Arts banner on CSUMB campus" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/summer_arts_banner.jpg" style="float:right; width:300px; height:681px">&#x201C;We were selected
+<p><img alt="Summer Arts banner on CSUMB campus" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/summer_arts_banner.jpg" style="float:right; width:300px; height:681px">&#x201C;We were selected
 because our facilities are multi-purpose and we were open to a wide
 variety of art forms,&#x201D; Dr. Curry said. &#x201C;And we have great support
 from local arts organizations.&#x201D;</img></p>
@@ -76,7 +76,7 @@ director at York School.</p>
 <h3><br>
 To get involved</br></h3>
 <p>&#x2022; Schedule, registration and scholarship information are
-available <a href="http://www.csusummerarts.org" rel="nofollow">here</a>. More than 70 percent of students receive
+available <a href="https://www.csusummerarts.org" rel="nofollow">here</a>. More than 70 percent of students receive
 scholarships.</p>
 <p>&#x2022; In mid-May, the schedule of public performances will be
 available online. Tickets can be ordered online or by phone

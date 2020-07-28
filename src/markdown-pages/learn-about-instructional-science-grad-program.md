@@ -34,7 +34,7 @@ date: January 01 2020
 </p>
 <p>
   More information about the MIST program is available
-  <a href="http://itcd.csumb.edu/mist">online</a>, by calling
+  <a href="https://itcd.csumb.edu/mist">online</a>, by calling
   831&#45;582&#45;4790 or by e&#45;mailing
   <a
     href="m&#97;&#105;&#108;&#116;&#111;&#x3a;&#x6d;&#x69;&#x73;&#x74;&#x40;c&#115;&#117;&#109;&#98;&#46;&#101;&#x64;&#x75;"
@@ -43,6 +43,6 @@ date: January 01 2020
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 ```

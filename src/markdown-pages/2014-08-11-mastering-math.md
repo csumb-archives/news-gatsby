@@ -11,10 +11,10 @@ slug: mastering-math
 <span class="date">Posted on Aug 11, 2014    </span>
 <h3>Algebra Academy gives middle schoolers a head start</h3>
 <p>More than 100 incoming eighth-graders will spend the last days
-of their summer break immersed in math at the <a href="http://www.algebraacademy.net" rel="nofollow">Bruce W. Woolpert
+of their summer break immersed in math at the <a href="https://www.algebraacademy.net" rel="nofollow">Bruce W. Woolpert
 Algebra Academy</a>, which began Aug. 7 at Graniterock headquarters
 in Watsonville.</p>
-<p><img alt="Dr. Hongde Hu" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/hongde_hu_small_2.jpg" style="width:400px; height:274px; float:left">This is the fifth
+<p><img alt="Dr. Hongde Hu" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/hongde_hu_small_2.jpg" style="width:400px; height:274px; float:left">This is the fifth
 year Graniterock has opened its doors to provide a fun, safe
 environment for students to sharpen their algebra skills with
 college professors, including Dr. Hongde Hu of CSU Monterey Bay,
@@ -47,7 +47,7 @@ again, a vicious cycle that wastes learning time and resources.
 That&#x2019;s according to a study that was commissioned by the Center for
 the Future of Teaching and Learning at WestEd and released in 2012.
 The Sacramento nonprofit focuses on policies and practices to
-improve teaching. (<a href="http://www.cftl.org/documents/2012/CFTL_MathPatterns_Main_Report.pdf" rel="nofollow">Read the WestEd report here.</a>)&#xA0;<br>
+improve teaching. (<a href="https://www.cftl.org/documents/2012/CFTL_MathPatterns_Main_Report.pdf" rel="nofollow">Read the WestEd report here.</a>)&#xA0;<br>
 <br>
 And that reinforces a point Dr. Hu makes every chance he
 gets.<br>

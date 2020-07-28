@@ -21,6 +21,6 @@ date: January 01 2020
   which will be on display at the Nov. 3 lecture-demonstration. For more
   information, or to request disability accommodations, call Shirlene Campbell
   at 582-3009. To learn more about Mr. Barron, visit his website at
-  <a href="http://www.kennybarron.com">www.kennynews/barron.com</a>.
+  <a href="https://www.kennybarron.com">www.kennynews/barron.com</a>.
 </p>
 ```

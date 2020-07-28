@@ -16,7 +16,7 @@ Dia de Los Padres, a reception and information session to be held
 Saturday, March 12 from 9 a.m. to 12:30 p.m. at the Boys and Girls
 Club in Salinas. This event is co-hosted by Monterey County Office
 of Education, Migrant Education, Region XVI.</p>
-<p><img alt="information for Spanish-speakers" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/images_1.jpg" style="float:left; width:276px; height:183px">The event is aimed
+<p><img alt="information for Spanish-speakers" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/images_1.jpg" style="float:left; width:276px; height:183px">The event is aimed
 at parents of students who have been admitted to CSU Monterey Bay
 for the fall of 2011 from Monterey, Santa Cruz and San Benito
 counties, as well as parents of high school students who are
@@ -46,7 +46,7 @@ our close partnership with Migrant Education (Region 16) and the
 Boys and Girls Club.&#x201D;<br>
 <br>
 Those interested in attending are asked to RSVP by March 4.
-Registration can be completed online at <a href="http://admissions.csumb.edu/dia-de-los-padres-spanish-reception" title="http://admissions.csumb.edu/dia-de-los-padres-spanish-reception">http://admissions.csumb.edu/dia-de-los-padres-spanish-reception</a></br></br></br></br></br></br></br></br></br></br></br></br></img></p>
+Registration can be completed online at <a href="https://admissions.csumb.edu/dia-de-los-padres-spanish-reception" title="https://admissions.csumb.edu/dia-de-los-padres-spanish-reception">https://admissions.csumb.edu/dia-de-los-padres-spanish-reception</a></br></br></br></br></br></br></br></br></br></br></br></br></img></p>
 
 
 

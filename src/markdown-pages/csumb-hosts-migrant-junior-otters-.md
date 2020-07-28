@@ -44,6 +44,6 @@ date: January 01 2020
 <p>
   Learn more about CSUMB's various
   <a href="https://csumb.edu/eosp">outreach and support programs</a
-  ><a href="http://csumb.edu/site/x4434.xml">.</a>
+  ><a href="https://csumb.edu/site/x4434.xml">.</a>
 </p>
 ```

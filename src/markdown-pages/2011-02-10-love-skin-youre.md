@@ -17,7 +17,7 @@ Mathers.<br>
 The free event will take place at 7 p.m., Feb. 22, in the
 University Center living room. The public is invited.<br>
 <br>
-<img alt="Brie Mathers" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mathers.jpg" style="float:left; width:125px; height:150px">Mathers&#x2019; topic is
+<img alt="Brie Mathers" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mathers.jpg" style="float:left; width:125px; height:150px">Mathers&#x2019; topic is
 &#x201C;Love the Skin You&#x2019;re In &#x2013; Taking out the Social Programming that
 Rules our Self-Images and Pocketbooks.&#x201D; She&#x2019;ll share the story of
 her near-miss Olympic dream due to anorexia and her healing, which
@@ -40,7 +40,7 @@ encourage people to get help. The goal is also to spread a message
 of hope: Help is available, recovery is possible and those affected
 are not alone in their struggle.<br>
 <br>
-According to the group&#x2019;s website, <a href="http://www.nationaleatingdisorders.org" title="www.nationaleatingdisorders.org:">www.nationaleatingdisorders.org:</a><br>
+According to the group&#x2019;s website, <a href="https://www.nationaleatingdisorders.org" title="www.nationaleatingdisorders.org:">www.nationaleatingdisorders.org:</a><br>
 
 <br>
 &#x2022; Nearly 10 million females and 1 million males in the U.S. are

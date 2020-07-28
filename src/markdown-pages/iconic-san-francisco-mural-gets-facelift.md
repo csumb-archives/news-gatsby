@@ -24,7 +24,7 @@ date: January 01 2020
 <p>
   Poethig said on her
   <a
-    href="http://johannapoethig.wordpress.com/2013/07/31/statue-of-liberty-mural-restoration/"
+    href="https://johannapoethig.wordpress.com/2013/07/31/statue-of-liberty-mural-restoration/"
     >blog</a
   >:
 </p>
@@ -44,7 +44,7 @@ date: January 01 2020
   It’s not the first foray into public art for Floriani – for his capstone
   project, he created
   <a
-    href="http://news.csumb.edu/news/2013/may/16/art-students-work-adorns-skate-park"
+    href="https://news.csumb.edu/news/2013/may/16/art-students-work-adorns-skate-park"
     >a mural for the Marina Skate Park</a
   >. And he took a page from Poethig’s book by enlisting the help of youngsters
   from the Marina Teen Center and Los Arboles Middle School.
@@ -58,7 +58,7 @@ date: January 01 2020
   It was also Amezcua's first experience working on such a large scale. And
   while he spent some time earlier this summer helping with
   <a
-    href="http://news.csumb.edu/news/2013/jul/14/csumb-art-students-get-hands-museum"
+    href="https://news.csumb.edu/news/2013/jul/14/csumb-art-students-get-hands-museum"
     >a project at the Monterey Museum of Art</a
   >, he had never worked on a restoration. He learned a valuable lesson.
 </p>
@@ -85,7 +85,7 @@ date: January 01 2020
 </p>
 <p></p>
 <p>
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights">
     More faculty news</a
   >
 </p>

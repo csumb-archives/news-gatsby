@@ -32,6 +32,6 @@ date: January 01 2020
 <p>
   The analysis comes as the governor prepares to release his revised budget
   Friday. The report is available
-  <a href="http://www.calstate.edu/impact">here</a>.
+  <a href="https://www.calstate.edu/impact">here</a>.
 </p>
 ```

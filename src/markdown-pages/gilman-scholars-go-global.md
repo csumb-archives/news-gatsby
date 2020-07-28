@@ -61,8 +61,8 @@ date: January 01 2020
 </p>
 <p>
   Learn more about the Gilman scholarship program
-  <a href="http://www.iie.org/en/Programs/Gilman-Scholarship-Program">here</a>.
+  <a href="https://www.iie.org/en/Programs/Gilman-Scholarship-Program">here</a>.
   Learn more about the international programs at CSUMB
-  <a href="http://international.csumb.edu/">here</a>.
+  <a href="https://international.csumb.edu/">here</a>.
 </p>
 ```

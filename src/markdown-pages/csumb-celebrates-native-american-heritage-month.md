@@ -14,7 +14,7 @@ date: January 01 2020
 <p>
   All activities are free and open to the public but parking permits must be
   purchased from machines on the parking lots or
-  <a href="http://parking.csumb.edu/buy-permit">online</a>.
+  <a href="https://parking.csumb.edu/buy-permit">online</a>.
 </p>
 <p>
   RSVPs are requested and can be made by e-mailing Brendan Taylor at
@@ -94,7 +94,7 @@ date: January 01 2020
   through tribal reorganization, integration of new technologies, and education.
   He is a founding faculty member at CSUMB and a professor in the Social,
   Behavioral, and Global Studies Division. Driving directions and a campus map
-  are available <a href="http://csumb.edu/maps">here</a>.
+  are available <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   <em

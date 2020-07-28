@@ -11,7 +11,7 @@ slug: university-expands-online-mba-program
 <span class="date">Posted on Jul 12, 2011    </span>
 <p>CSU Monterey Bay&apos;s online MBA program is now offering a second
 track for students without extensive management experience.</p>
-<p><img alt="An MBA prepares students the next step of their careers" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mba_0.jpeg" style="float:left; width:211px; height:239px">The new track began
+<p><img alt="An MBA prepares students the next step of their careers" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mba_0.jpeg" style="float:left; width:211px; height:239px">The new track began
 in January as a pilot program and will now become an ongoing
 program with a full cohort of students. The curriculum mirrors the
 university&#x2019;s original online MBA program, with a focus on global

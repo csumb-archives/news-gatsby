@@ -40,25 +40,25 @@ date: January 01 2020
   unsafe structure could cause in an earthquake.
 </p>
 <p>
-  <a href="http://www.sanclementedamremoval.org"
+  <a href="https://www.sanclementedamremoval.org"
     >Read more about the San Clemente dam removal</a
   >
 </p>
 <p>
   <a
-    href="http://www.ksbw.com/news/central&#45;california/monterey/csu&#45;monterey&#45;bay&#45;students&#45;helping&#45;with&#45;carmel&#45;river&#45;dam&#45;removal/21164836#!bLMi0"
+    href="https://www.ksbw.com/news/central&#45;california/monterey/csu&#45;monterey&#45;bay&#45;students&#45;helping&#45;with&#45;carmel&#45;river&#45;dam&#45;removal/21164836#!bLMi0"
     >Read a story by KSBW&#45;TV news on students helping with dam removal</a
   >
 </p>
 <p>
-  <a href="http://sep.csumb.edu/amws/"
+  <a href="https://sep.csumb.edu/amws/"
     >Learn about CSUMB’s master’s degree in applied marine and watershed
     science</a
   >
 </p>
 <p>
   &#42;Reprinted from the newsletter of CSU Monterey Bay’s
-  <a href="http://watershed.csumb.edu/wi/">Watershed Institute.</a> Used by
+  <a href="https://watershed.csumb.edu/wi/">Watershed Institute.</a> Used by
   permission. &#42;
 </p>
 <p>

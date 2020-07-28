@@ -11,7 +11,7 @@ slug: professor-honored-for-lifetime-achievement
 <span class="date">Posted on Feb 12, 2014    </span>
 <p>Professor Yoshiko Saito-Abbott has been honored by her peers
 with a lifetime achievement award.</p>
-<p><img alt="Dr. Yoshiko Saito-Abbott" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/saito-abbott.jpg" style="width:310px; height:233px; float:left">At its annual
+<p><img alt="Dr. Yoshiko Saito-Abbott" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/saito-abbott.jpg" style="width:310px; height:233px; float:left">At its annual
 meeting in March, the California Language Teachers Association will
 present her with its Hal Wingard Award. It recognizes an
 individual&#x2019;s dedication and commitment to the language teaching
@@ -33,11 +33,11 @@ others&#x2019; languages and cultures leads to better understanding.&#x201D;</p>
 Hal Wingard Lifetime Achievement Award in 1995, in recognition of
 his dedication and service. Since then, the annual has been given
 annually.</p>
-<p><a href="http://wlc.csumb.edu/node/10934" rel="nofollow">Read
+<p><a href="https://wlc.csumb.edu/node/10934" rel="nofollow">Read
 more about Dr. Saito-Abbott</a></p>
-<p><a href="http://catalog.csumb.edu/undergrad-education/majors/japanese-language-culture" rel="nofollow">Learn about the Japanese Language and Culture
+<p><a href="https://catalog.csumb.edu/undergrad-education/majors/japanese-language-culture" rel="nofollow">Learn about the Japanese Language and Culture
 program</a></p>
-<p><a href="http://wlc.csumb.edu" rel="nofollow">Learn about the
+<p><a href="https://wlc.csumb.edu" rel="nofollow">Learn about the
 School of World Languages and Cultures</a><br>
 <br>
 <br>

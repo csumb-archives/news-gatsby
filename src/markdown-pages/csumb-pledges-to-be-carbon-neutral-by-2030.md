@@ -85,7 +85,7 @@ date: January 01 2020
 <p>
   The American College and University Presidents' Climate Commitment (ACUPCC),
   which began in 2007, is a network of
-  <a href="http://www.presidentsclimatecommitment.org/signatories/list"
+  <a href="https://www.presidentsclimatecommitment.org/signatories/list"
     >650 signatory schools</a
   >
   dedicated to making an environmental impact. The schools commit to becoming
@@ -119,13 +119,13 @@ date: January 01 2020
   submitted their greenhouse gas inventories, the first step to determining and
   reducing their carbon footprint. CSUMB submitted its greenhouse gas inventory
   on Sept. 15, 2008. It can be found at
-  <a href="http://acupcc.aashe.org/ghg-report.php?id=370"
-    >http://acupcc.aashe.org/ghg-report.php?id=370</a
+  <a href="https://acupcc.aashe.org/ghg-report.php?id=370"
+    >https://acupcc.aashe.org/ghg-report.php?id=370</a
   >.
 </p>
 <p>
   To read more about CSUMB's efforts to go green, visit the web at
-  <a href="http://csumb.edu/green">http://csumb.edu/green</a>.
+  <a href="https://csumb.edu/green">https://csumb.edu/green</a>.
 </p>
 <p></p>
 <p></p>

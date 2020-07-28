@@ -35,7 +35,7 @@ Center.<br>
 How can the CSUMB SBDC help? By assisting local employers with
 adding new employees. According to a recent study, SBDC clients
 experienced six times the sales growth, and created 13 times the
-jobs of average businesses (see <a href="http://www.californiasbdc.org" title="www.californiasbdc.org">www.californiasbdc.org</a>).<br>
+jobs of average businesses (see <a href="https://www.californiasbdc.org" title="www.californiasbdc.org">www.californiasbdc.org</a>).<br>
 <br>
 Also, 65 percent of the center&#x2019;s clients are in the Salinas area.
 Plans are to move to 106 Lincoln St., where the city will provide a

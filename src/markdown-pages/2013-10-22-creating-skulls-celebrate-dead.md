@@ -15,7 +15,7 @@ decorated sugar skulls to welcome their lost loved ones. Widely
 celebrated in Latin America, the day honors the dead as living
 entities. It celebrates the departed, and helps keep them present
 in life.</p>
-<p><img alt="Student-made sugar skulls will be display at the Oct. 31 event" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/skulls_on_display_for_web.jpg" style="float:left; width:375px; height:212px"/></p>
+<p><img alt="Student-made sugar skulls will be display at the Oct. 31 event" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/skulls_on_display_for_web.jpg" style="float:left; width:375px; height:212px"/></p>
 <p>Dia de los Muertos is a tradition at CSU Monterey Bay, where
 now-retired Professor Amalia Mesa-Bains started it 17 years ago.
 This year&apos;s celebration will be held on Oct. 31 at the Visual and
@@ -32,7 +32,7 @@ will be served.&#xA0;</p>
 209, Day of the Dead workshop. This year, members of the student
 art club, Raising Eyebrows, were also involved.<br>
 <br>
-<a href="http://csumb.edu/maps" rel="nofollow">Driving directions
+<a href="https://csumb.edu/maps" rel="nofollow">Driving directions
 and a campus map</a></br></br></p>
 <p class="small"><em>Photo by Tom Burns<br>
 These student-made sugar skulls will be on display at CSUMB&apos;s Day
@@ -40,7 +40,7 @@ of the Dead celebration Oct. 31</br></em><br>
 &#xA0;</br></p>
 <p class="small">In 2009, KQED, the Public Broadcasting System
 affiliate in San Francisco, filmed a story on the VPA class taught
-by Dr. Amalia Mesa-Bains. <a href="http://www.youtube.com/watch?v=su1pDr9oxQc&amp;feature=player_embedded#!" rel="nofollow">View it here</a>.&#xA0;</p>
+by Dr. Amalia Mesa-Bains. <a href="https://www.youtube.com/watch?v=su1pDr9oxQc&amp;feature=player_embedded#!" rel="nofollow">View it here</a>.&#xA0;</p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">
@@ -48,7 +48,7 @@ by Dr. Amalia Mesa-Bains. <a href="http://www.youtube.com/watch?v=su1pDr9oxQc&am
 <div class="field-item odd">
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
-<div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/ZWVkccd7_vk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1"><param name="movie" value="http://www.youtube.com/v/ZWVkccd7_vk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
+<div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/ZWVkccd7_vk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1"><param name="movie" value="https://www.youtube.com/v/ZWVkccd7_vk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
 <param name="allowScriptAccess" value="sameDomain">
 <param name="quality" value="best">
 <param name="allowFullScreen" value="true">

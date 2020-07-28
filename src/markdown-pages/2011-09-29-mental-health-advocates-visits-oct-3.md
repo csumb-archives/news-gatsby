@@ -13,7 +13,7 @@ slug: mental-health-advocate-visits-campus-oct.-3
 organization. He didn&#x2019;t do it for money, praise or fame.</p>
 <p>His motivation was simple &#x2013; he started a suicide prevention
 group to help a friend.</p>
-<p><img alt="Jamie Tworkowski" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/twloha-founder-jamie-tworkowski.jpg" style="float:left; width:300px; height:450px">The founder of To
+<p><img alt="Jamie Tworkowski" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/twloha-founder-jamie-tworkowski.jpg" style="float:left; width:300px; height:450px">The founder of To
 Write Love on Her Arms &#x2013; a global movement dedicated to presenting
 hope and finding help for those who suffer from depression,
 addiction, self-injury and suicidal tendencies &#x2013; will speak Oct. 3
@@ -61,5 +61,5 @@ and the office of Student Activities and Leadership Development
 sponsor the program. It is presented as part of CSUMB&#x2019;s celebration
 of Mental Health Awareness Week.<br>
 <br>
-More information can be found on the organization&apos;s <a href="http://www.twloha.com" rel="nofollow">website</a>.</br></br></p>
+More information can be found on the organization&apos;s <a href="https://www.twloha.com" rel="nofollow">website</a>.</br></br></p>
 ```

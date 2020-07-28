@@ -32,7 +32,7 @@ date: January 01 2020
 </p>
 <p>
   The afternoon keynote speaker,
-  <a href="http://www.ce.berkeley.edu/people/faculty/sedlak">David L. Sedlak</a
+  <a href="https://www.ce.berkeley.edu/people/faculty/sedlak">David L. Sedlak</a
   >, is the Malozemoff Professor in the Department of Civil &amp; Environmental
   Engineering at U.C. Berkeley. He is Co-Director of the Berkeley Water Center
   and Deputy Director of the NSF Engineering Research Center for Reinventing the
@@ -49,10 +49,10 @@ date: January 01 2020
 </p>
 <p>
   The evening capnote speaker,
-  <a href="http://premierespeakers.com/doc_hendley/bio">Doc Hendley</a>, is
+  <a href="https://premierespeakers.com/doc_hendley/bio">Doc Hendley</a>, is
   the<i> </i><i>Founder and President of </i
   ><a href="https://www.winetowater.org">Wine To Water</a> &amp;
-  <a href="http://www.cnn.com/SPECIALS/cnn.heroes/archive09/doc.hendley.html"
+  <a href="https://www.cnn.com/SPECIALS/cnn.heroes/archive09/doc.hendley.html"
     ><i>2009 CNN Hero</i></a
   ><i>,</i
   ><i>

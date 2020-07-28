@@ -57,7 +57,7 @@ date: January 01 2020
 <p>
   The program continues through July 21. To read more about Upward Bound at
   CSUMB, go to
-  <a href="http://csumb.edu/eosp/upward&#45;bound"
+  <a href="https://csumb.edu/eosp/upward&#45;bound"
     >csumb.edu/eosp/upward&#45;bound</a
   >.
 </p>

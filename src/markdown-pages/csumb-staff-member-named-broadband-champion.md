@@ -12,7 +12,7 @@ date: January 01 2020
 </p>
 <p>
   Krebs, founding director of the
-  <a href="http://wetec.csumb.edu/about-wetec"
+  <a href="https://wetec.csumb.edu/about-wetec"
     >Wireless Education and Technology Center</a
   >
   (WeTEC) at CSUMB, is one of 15 people recognized for their groundbreaking work

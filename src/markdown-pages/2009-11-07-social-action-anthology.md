@@ -15,7 +15,7 @@ Writers on Fire<br>
 &quot;Fire and Ink, An Anthology of Social Action Writing&quot; at a literary
 event at 7 p.m., Nov. 16 in the University Center ballroom at CSU
 Monterey Bay.</p>
-<p><img alt="fire and ink" height="299" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/fire%20and%20ink.jpg" style="float:left" width="200">The anthology includes stories,
+<p><img alt="fire and ink" height="299" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/fire%20and%20ink.jpg" style="float:left" width="200">The anthology includes stories,
 poems, interviews and essays that confront some of the most
 pressing social issues of our day. Designed to inspire and inform,
 the book embodies the concepts of &quot;breaking silence,&quot; &quot;bearing

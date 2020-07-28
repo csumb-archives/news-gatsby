@@ -15,7 +15,7 @@ fourth Monterey Bay Regional Business Plan Competition, set for May
 3.<br>
 <br>
 All start-ups that can show how they will create jobs in the
-tri-county area are eligible. Contestants must submit a <a href="http://www.MBRCompetition.com" rel="nofollow">one-page
+tri-county area are eligible. Contestants must submit a <a href="https://www.MBRCompetition.com" rel="nofollow">one-page
 application</a>&#xA0;by March 18.<br>
 <br>
 To help with the application process, a free 90-minute introductory
@@ -56,7 +56,7 @@ Finalists will present their ideas and business plans to a panel of
 investors, successful entrepreneurs, regional CEOs and venture
 capitalists.<br>
 <br>
-<a href="http://www.MBRCompetition.com/" rel="nofollow">More
+<a href="https://www.MBRCompetition.com/" rel="nofollow">More
 information is available at Monterey Regional Business Plan
 Competition.</a></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 

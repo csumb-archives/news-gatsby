@@ -17,7 +17,7 @@ predictions.</p>
 <p>The grant is part of a $137 million award to the Bay Area
 Environmental Research Institute of Sonoma, which will collaborate
 with CSUMB, UC Davis and the University of North Dakota.&#xA0;</p>
-<p><img alt="California agriculture has benefitted from CSUMB-NASA research" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/row_crops_in_calif._0.jpg" style="float:left; width:300px; height:214px">The research being
+<p><img alt="California agriculture has benefitted from CSUMB-NASA research" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/row_crops_in_calif._0.jpg" style="float:left; width:300px; height:214px">The research being
 funded concerns critical areas such as basic climate processes and
 how they impact global ecosystems. Some of the work will involve
 satellites and unmanned drones.</img></p>
@@ -58,9 +58,9 @@ opportunity to work with researchers at NASA Ames. They will learn
 advanced geospatial technologies, conduct hands-on research
 activities in earth systems science, and participate in internship
 and career development programs at NASA.</p>
-<p><a href="http://www.kazu.org/post/nasa-satellite-images-will-help-farmers-conserve-water" rel="nofollow">Here a National Public Radio story about the
+<p><a href="https://www.kazu.org/post/nasa-satellite-images-will-help-farmers-conserve-water" rel="nofollow">Here a National Public Radio story about the
 grant</a></p>
-<p><a href="http://home.csumb.edu/a/alexandersusan/world/coop.htm" rel="nofollow">Learn more about the CSUMB-NASA Ames cooperative
+<p><a href="https://home.csumb.edu/a/alexandersusan/world/coop.htm" rel="nofollow">Learn more about the CSUMB-NASA Ames cooperative
 agreement.</a><br>
 <br>
 Learn about research conducted through the CSUMB-NASA Ames

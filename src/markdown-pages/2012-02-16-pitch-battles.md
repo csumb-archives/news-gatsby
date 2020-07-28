@@ -14,7 +14,7 @@ slug: pitch-battles
 visit CSU Monterey Bay for two public events Wednesday and
 Thursday, Feb. 15 and 16, sponsored by the Teledramatic Arts and
 Technology Department and the Monterey Bay Film Society.</p>
-<p><img alt="Chris Kallmyer of L.A.-based Machine Project" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/headshot_by_alex_stephens_.jpg" style="float:left; width:300px; height:200px">On Thursday at 6:30
+<p><img alt="Chris Kallmyer of L.A.-based Machine Project" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/headshot_by_alex_stephens_.jpg" style="float:left; width:300px; height:200px">On Thursday at 6:30
 p.m., writer Colin Dickey, artist Nicole Antebi and musician Chris
 Kallmyer will explore a bit of musical history and the controversy
 it has generated.</img></p>
@@ -38,7 +38,7 @@ Project, its work and approach to sound programming.</p>
 Avenue adjacent to the World Theater. Both are free, supported by
 the Broadband Technology Opportunity Program in partnership with
 the Monterey County Office of Education.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 <p class="small"><em>Photo of Chris Kallmyer by Alex
 Stephens</em><br>
 &#xA0;</br></p>

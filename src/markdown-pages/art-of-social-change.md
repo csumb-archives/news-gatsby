@@ -25,7 +25,7 @@ date: January 01 2020
   Visiting Artists Series, will start at 6 p.m. in the University Center living
   room. The University Center is located on Sixth Avenue at B Street. Driving
   directions and a campus map can be found
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   Howard has founded educational programs, managed an art and communities
@@ -40,7 +40,7 @@ date: January 01 2020
   scheduled to speak on Nov. 8.
 </p>
 <p>
-  <a href="http://csumb.edu/vpa"
+  <a href="https://csumb.edu/vpa"
     >Learn about the Visual and Public Art Department at CSUMB.</a
   >
 </p>

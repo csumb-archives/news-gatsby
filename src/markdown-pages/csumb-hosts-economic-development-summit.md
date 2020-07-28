@@ -32,9 +32,9 @@ date: January 01 2020
   directions and a campus map are available at csumb.edu/map. Registration is
   required and can be accomplished at
   <a
-    href="http://californiasbdc.org/collaborative/monterey"
-    title="http://californiasbdc.org/collaborative/monterey"
-    >http://californiasbdc.org/collaborative/monterey</a
+    href="https://californiasbdc.org/collaborative/monterey"
+    title="https://californiasbdc.org/collaborative/monterey"
+    >https://californiasbdc.org/collaborative/monterey</a
   >
   or by calling 675-7232.
 </p>

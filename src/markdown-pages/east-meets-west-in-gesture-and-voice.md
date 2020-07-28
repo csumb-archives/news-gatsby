@@ -43,7 +43,7 @@ date: January 01 2020
 <p>
   This event is free; no tickets or reservations are required. Attendees must
   purchase a parking pass for a nominal fee. Driving directions and a campus map
-  are available <a href="http://csumb.edu/map">here</a>.
+  are available <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   The performance is sponsored by Student Activities and Leadership Development

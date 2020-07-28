@@ -24,7 +24,7 @@ was a vital center during much of the 20th century. More than a
 million people lived and worked at the base, embedding the current
 architectural ruin with layers of murals and traces of their
 lives.</p>
-<p><img alt="from a film to be shown May 9" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/planet_ord.png" style="float:left; width:310px; height:244px">The May 9 event
+<p><img alt="from a film to be shown May 9" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/planet_ord.png" style="float:left; width:310px; height:244px">The May 9 event
 will feature work by:</img></p>
 <p>&#x2022; Lorraine Cardoza and Neal Allen &#x2013; Restoration: The Watershed
 Institute of CSU Monterey Bay</p>
@@ -44,7 +44,7 @@ maritime chaparral</p>
 <p>&#x2022; Lucas O. Seastrom &#x2013; Life in Fort Ord&#x2019;s microclimates</p>
 <p>&#x2022; Kyle Stueve &#x2013; Nature&#x2019;s reclamation of Fort Ord&#x2019;s
 buildings&#xA0;</p>
-<p><a href="http://enviroarts.tumblr.com" rel="nofollow">TAT 424
+<p><a href="https://enviroarts.tumblr.com" rel="nofollow">TAT 424
 tumblr, where students post their findings and works in
 progress</a></p>
 <fieldset class="fieldgroup group-attachments">
@@ -52,12 +52,12 @@ progress</a></p>
 <div class="field field-type-emvideo field-field-attach-video">
 <div class="field-items">
 <div class="field-item odd">
-<div class="emvideo emvideo-video emvideo-vimeo"><object type="application/x-shockwave-flash" width="425" height="350" data="http://www.vimeo.com/moogaloop.swf?clip_id=91927133&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=">
+<div class="emvideo emvideo-video emvideo-vimeo"><object type="application/x-shockwave-flash" width="425" height="350" data="https://www.vimeo.com/moogaloop.swf?clip_id=91927133&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=">
 <param name="quality" value="best">
 <param name="wmode" value="transparent">
 <param name="allowfullscreen" value="true">
 <param name="scale" value="showAll">
-<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=91927133&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color="/></param></param></param></param></object></div>
+<param name="movie" value="https://www.vimeo.com/moogaloop.swf?clip_id=91927133&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color="/></param></param></param></param></object></div>
 </div>
 </div>
 </div>

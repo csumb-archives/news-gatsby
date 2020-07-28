@@ -59,6 +59,6 @@ date: January 01 2020
   <strong>COST</strong>: $20 per student prior to Nov. 22; $25 after that date
 </p>
 <p>
-  <strong><a href="http://www.hackucsc.com/">REGISTER FOR HACK UCSC</a></strong>
+  <strong><a href="https://www.hackucsc.com/">REGISTER FOR HACK UCSC</a></strong>
 </p>
 ```

@@ -13,7 +13,7 @@ slug: thousands-celebrate-commencement
 <p>Enduring one final test &#x2013; a two-hour-plus ceremony on a warm and
 breezy day &#x2013; about 1,300 CSU Monterey Bay students celebrated their
 graduation May 18 in Freeman Stadium on the Seaside campus.</p>
-<p><img alt="Keynote speaker Robert Danziger" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/danziger_for_web.jpg" style="float:right; width:300px; height:312px">It was the largest
+<p><img alt="Keynote speaker Robert Danziger" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/danziger_for_web.jpg" style="float:right; width:300px; height:312px">It was the largest
 graduating class in school history. They received their diplomas
 before a capacity crowd of about 8,000 family members and
 friends.</img></p>
@@ -44,9 +44,9 @@ setbacks along the way, they prevailed.</p>
 it. Almost everyone here today has been hit, rallied, and redeemed
 themselves, and at this time I am delighted to note that we were
 right and those who doubted us were wrong.&#x201D;</p>
-<p><img alt="President Eduardo Ochoa" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ochoa_web.jpg" style="float:left; width:250px; height:381px">The commencement
+<p><img alt="President Eduardo Ochoa" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ochoa_web.jpg" style="float:left; width:250px; height:381px">The commencement
 ceremony, the 17th in the university&#x2019;s history, was the first
-presided over by<a href="http://president.csumb.edu/" rel="nofollow">Dr. Eduardo Ochoa,</a> who took over as the university&#x2019;s
+presided over by<a href="https://president.csumb.edu/" rel="nofollow">Dr. Eduardo Ochoa,</a> who took over as the university&#x2019;s
 president last July.</img></p>
 <p>The ceremony opened with the traditional welcome in Spanish,
 Japanese, Chinese and Vietnamese, delivered by members of the
@@ -86,11 +86,11 @@ here.</a><br>
 <br>
 To see the event captured in social media, <a href="../22/commencements-social-media.html" rel="nofollow">click
 here</a>.</br></br></p>
-<p><a href="http://bcove.me/o55pn0t8" rel="nofollow">Watch a short
+<p><a href="https://bcove.me/o55pn0t8" rel="nofollow">Watch a short
 video by the Monterey Herald.</a></p>
 <p>To read about the API community&apos;s graduation celebration,
 <a href="../23/api-community-celebrates-graduation.html" rel="nofollow">click here</a>.</p>
-<p><img alt="Master of Arts in Education grads with Monte Rey" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mae_grads_with_monte_for_web.jpg" style="float:left; width:550px; height:425px"/></p>
+<p><img alt="Master of Arts in Education grads with Monte Rey" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mae_grads_with_monte_for_web.jpg" style="float:left; width:550px; height:425px"/></p>
 <p><br>
 &#xA0;</br></p>
 <p>&#xA0;</p>

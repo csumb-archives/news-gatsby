@@ -17,13 +17,13 @@ date: January 01 2020
   Visual and Public Art Building (Bldg. 71). The public is invited. The art
   department is housed in buildings located at the intersection of
   Inter-Garrison Road and Fifth Avenue. An exhibit catalog can be found
-  <a href="http://vpa2.csumb.edu/capstone/capstone2011/">here</a>. The work will
+  <a href="https://vpa2.csumb.edu/capstone/capstone2011/">here</a>. The work will
   be on display until the final capstone and medal ceremony, 10 a.m. to 3 p.m.,
   Friday, May 20. The public is invited to this free event or to view the
   exhibit during normal business hours. Driving directions and a campus map are
-  available <a href="http://csumb.edu/map">here.</a> The campuswide Capstone
+  available <a href="https://csumb.edu/map">here.</a> The campuswide Capstone
   Festival will take place Thursday and Friday, May 19 and 20. For a schedule of
   capstone presentations in all academic departments, click
-  <a href="http://csumb.edu/capstone">here</a>.
+  <a href="https://csumb.edu/capstone">here</a>.
 </p>
 ```

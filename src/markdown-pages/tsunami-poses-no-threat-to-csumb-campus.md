@@ -25,9 +25,9 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://www.conservation.ca.gov/cgs/geologic_hazards/Tsunami/Inundation_Maps/Monterey/Documents/Tsunami_Inundation_Marina_Quad_Monterey.pdf"
-    title="http://www.conservation.ca.gov/cgs/geologic_hazards/Tsunami/Inundation_Maps/Monterey/Documents/Tsunami_Inundation_Marina_Quad_Monterey.pdf"
-    >http://www.conservation.ca.gov/cgs/geologic_hazards/Tsunami/Inundation_M...</a
+    href="https://www.conservation.ca.gov/cgs/geologic_hazards/Tsunami/Inundation_Maps/Monterey/Documents/Tsunami_Inundation_Marina_Quad_Monterey.pdf"
+    title="https://www.conservation.ca.gov/cgs/geologic_hazards/Tsunami/Inundation_Maps/Monterey/Documents/Tsunami_Inundation_Marina_Quad_Monterey.pdf"
+    >https://www.conservation.ca.gov/cgs/geologic_hazards/Tsunami/Inundation_M...</a
   >
 </p>
 ```

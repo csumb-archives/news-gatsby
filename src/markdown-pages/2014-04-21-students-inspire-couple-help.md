@@ -13,7 +13,7 @@ slug: students-inspire-couple-to-help
 <p>Two more CSU Monterey Bay students have benefitted from the
 generosity of Barbara Baldock and Phillip Butler.</p>
 <p>The Monterey residents have sponsored students through CSU
-Monterey Bay&#x2019;s <a href="http://uroc.csumb.edu" rel="nofollow">Undergraduate Research Opportunities Center</a> since
+Monterey Bay&#x2019;s <a href="https://uroc.csumb.edu" rel="nofollow">Undergraduate Research Opportunities Center</a> since
 2010-11.</p>
 <p>&#x201C;We see it as helping give a little bit of a push to students on
 their way to a higher-level degree,&#x201D; Dr. Butler told the
@@ -25,7 +25,7 @@ financial need, graduate school aspirations and a commitment to
 serve the community.</p>
 <p>Each student will receive $4,000 to support her research and
 graduate school application activities.</p>
-<p><img alt="Breanna Orozco (on right)" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/brianna_for_web.jpg" style="width:255px; height:247px; float:right">A junior, Orozco
+<p><img alt="Breanna Orozco (on right)" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/brianna_for_web.jpg" style="width:255px; height:247px; float:right">A junior, Orozco
 (right) is a McNair Scholar and the first in her family to attend
 college. She spent last summer working at the University of
 Southern California&#x2019;s Clinical Exercise Research Center. She&#x2019;ll
@@ -36,7 +36,7 @@ worksite wellness program for CSUMB employees; the program doubled
 as a research study to determine if the program increased physical
 activity and decreased stress in employees. The work has been
 accepted for publication in the Journal of Fitness Research.</p>
-<p><img alt="Lilyana Gross" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/lilyana_for_web.jpg" style="width:251px; height:239px; float:left">Gross, a junior,
+<p><img alt="Lilyana Gross" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/lilyana_for_web.jpg" style="width:251px; height:239px; float:left">Gross, a junior,
 intends to pursue a doctoral program in applied mathematics and
 statistics with applications to biology and public health. Her
 research interests include stochastic modeling, epidemiology and

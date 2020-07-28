@@ -9,7 +9,7 @@ slug: scientific-illustration
 
 
 <span class="date">Posted on Jul 20, 2009    </span>
-<h4><img alt="Scientific illustration of a monkey" height="490" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/monkey.jpg" style="float:left" width="236"/></h4>
+<h4><img alt="Scientific illustration of a monkey" height="490" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/monkey.jpg" style="float:left" width="236"/></h4>
 <h4>Sketching out a career in science<br>
 <em>Illustration program comes to CSUMB</em></br></h4>
 <p>A science illustration program now based at UC Santa Cruz
@@ -60,7 +60,7 @@ The program director, Ann Caudle, and current staff members Jenny
 Keller and Amadeo Bachar will continue with the program when it
 moves to CSUMB.<br>
 <br>
-More information about the program is available online at <a href="http://www.scienceillustration.org" target="_blank" rel="nofollow">scienceillustration.org</a>.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
+More information about the program is available online at <a href="https://www.scienceillustration.org" target="_blank" rel="nofollow">scienceillustration.org</a>.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 <p>&#xA0;</p>
 <p>May 8, 2009</p>
 <p>&#xA0;</p>

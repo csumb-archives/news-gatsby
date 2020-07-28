@@ -58,7 +58,7 @@ date: January 01 2020
 </p>
 <p>
   To learn more about the Service Learning Institute at CSUMB,<a
-    href="http://csumb.edu/site/x3561.xml"
+    href="https://csumb.edu/site/x3561.xml"
   >
     click here</a
   >.

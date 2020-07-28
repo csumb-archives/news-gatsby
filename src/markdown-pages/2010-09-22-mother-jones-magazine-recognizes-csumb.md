@@ -35,9 +35,9 @@ has captured the attention of Mother Jones magazine.
 <p>
   The article can be found here:
   <a
-    href="http://www.motherjones.com/politics/2009/09/mojo-mini-college-guide"
+    href="https://www.motherjones.com/politics/2009/09/mojo-mini-college-guide"
     rel="nofollow"
-    >http://www.motherjones.com/politics/2009/09/mojo-mini-college-guide</a
+    >https://www.motherjones.com/politics/2009/09/mojo-mini-college-guide</a
   >
 </p>
 <p>&#xA0;</p>

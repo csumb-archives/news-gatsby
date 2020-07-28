@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>
   <strong>UPDATE</strong>: Omar Davila received a top honor at the 10th annual
-  <a href="http://www.yale.edu/graduateschool/diversity/bouchet_conf.html"
+  <a href="https://www.yale.edu/graduateschool/diversity/bouchet_conf.html"
     >Bouchet Conference on Diversity and Graduate Education</a
   >
   at Yale University in New Haven, Conn.
@@ -83,5 +83,5 @@ date: January 01 2020
   success.” He will apply to graduate fellowships and Ph.D. programs in
   sociology in fall 2013, and plans to be a university professor.
 </p>
-<p><a href="http://uroc.csumb.edu">Learn more about UROC here.</a></p>
+<p><a href="https://uroc.csumb.edu">Learn more about UROC here.</a></p>
 ```

@@ -53,6 +53,6 @@ date: January 01 2020
 </p>
 <p>
   To learn more about disc golf at CSUMB, visit the club
-  <a href="http://clubs.csumb.edu/discgolf/">online.</a>
+  <a href="https://clubs.csumb.edu/discgolf/">online.</a>
 </p>
 ```

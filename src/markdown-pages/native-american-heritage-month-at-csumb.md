@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <h3>CSUMB Professor George Baldwin among presenters</h3>
 <p>
-  Flute player <a href="http://akaflutemanent.com/">David Wolfs Robe</a> will
+  Flute player <a href="https://akaflutemanent.com/">David Wolfs Robe</a> will
   visit CSU Monterey Bay as part of the university’s celebration of Native
   American Heritage Month.
 </p>
@@ -103,7 +103,7 @@ date: January 01 2020
 </p>
 <p>
   • <strong>6-8 p.m</strong>. –
-  <a href="http://twospirits.org/">“Two Spirits”</a> movie screening and
+  <a href="https://twospirits.org/">“Two Spirits”</a> movie screening and
   discussion, in the Otter Cross Cultural Center located in the Student Center.
   The Student Center faces the main quad, enter parking lot 12 off
   Inter-Garrison Road.
@@ -116,7 +116,7 @@ date: January 01 2020
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   Native American Heritage Month is sponsored by the Division of Social,
@@ -136,7 +136,7 @@ date: January 01 2020
   – David Wolfs Robe<em>.</em>
 </p>
 <p>
-  <a href="http://library.csumb.edu/native-american-heritage-month-2013"
+  <a href="https://library.csumb.edu/native-american-heritage-month-2013"
     ><em
       >The CSUMB Library provides materials that may be of interest to those
       wishing to delve further into the themes covered by some of these

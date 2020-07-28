@@ -22,7 +22,7 @@ demonstrate a notable commitment to sustainability in their
 academic offerings, campus infrastructure, activities and career
 preparation.<br>
 <br>
-<img alt="The solar installation provides 16 percent of CSUMB&apos;s energy" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/solar_sm_1_0.jpg" style="float:right; width:300px; height:156px">Officials with the
+<img alt="The solar installation provides 16 percent of CSUMB&apos;s energy" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/solar_sm_1_0.jpg" style="float:right; width:300px; height:156px">Officials with the
 publication say schools were chosen based on a survey of hundreds
 of colleges in 2012. The survey asked administrators more than 50
 questions about their institution&#x2019;s sustainability-related
@@ -62,8 +62,8 @@ all the way to graduation &#x2013; when students cross the stage to
 receive their degrees in gowns sewn with material made from
 recycled plastic bottles.<br>
 <br>
-The free guide can be <a href="http://www.princetonreview.com/greenguide" rel="nofollow">downloaded here</a>. More information on CSUMB&#x2019;s
-commitment to sustainability can be found <a href="http://csumb.edu/sustainability" rel="nofollow">here</a>.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></br></br></br></br></p>
+The free guide can be <a href="https://www.princetonreview.com/greenguide" rel="nofollow">downloaded here</a>. More information on CSUMB&#x2019;s
+commitment to sustainability can be found <a href="https://csumb.edu/sustainability" rel="nofollow">here</a>.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></br></br></br></br></p>
 <p><strong>Related stories</strong>:<br>
 <br>
 <a href="../15/charge-your-ride.html" rel="nofollow">Drivers of

@@ -51,8 +51,8 @@ date: January 01 2020
 </p>
 <p>
   To read more about Imagine College, click
-  <a href="http://csumb.edu/site/x24396.xml">here</a> and
-  <a href="http://csumb.edu/site/x22184.xml">here</a>.
+  <a href="https://csumb.edu/site/x24396.xml">here</a> and
+  <a href="https://csumb.edu/site/x22184.xml">here</a>.
 </p>
 <p></p>
 ```

@@ -9,7 +9,7 @@ slug: professor-continues-work-on-african-diaspora
 
 
 <span class="date">Posted on Aug 05, 2013    </span>
-<p>Professor <a href="http://umiart.com/" rel="nofollow">Umi
+<p>Professor <a href="https://umiart.com/" rel="nofollow">Umi
 Vaughan</a> continues to explore the African diaspora with his work
 on a dance festival and symposium this month in San
 Francisco.<br>

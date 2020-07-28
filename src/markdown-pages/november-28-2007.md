@@ -47,12 +47,12 @@ date: January 01 2020
   to win the war. And they instantly validated the antiwar protest movement.
   He'll be talking about his book, "Secrets: A Memoir of Vietnam and the
   Pentagon Papers," copies of which will be available for sale.
-  <a href="http://csumb.edu/site/x19928.xml"
+  <a href="https://csumb.edu/site/x19928.xml"
     >Reserve a seat for the free event here</a
   >.
 </p>
 <p>
-  <a href="http://news.csumb.edu/site/x20764.xml"
+  <a href="https://news.csumb.edu/site/x20764.xml"
     >Read more about Dr. Ellsberg</a
   >. The lecture will be broadcast on campus cable channel 71.
 </p>
@@ -84,7 +84,7 @@ date: January 01 2020
   assured that OTTERalert is for emergency alerts only; those who sign up will
   not receive spam. Privacy is protected, and only campus administrators and
   members of the University Police Department can originate the messages.
-  <a href="http://news.csumb.edu/site/x20695.xml%20"
+  <a href="https://news.csumb.edu/site/x20695.xml%20"
     >Read more about OTTERalert</a
   >.
 </p>
@@ -96,7 +96,7 @@ date: January 01 2020
   with a lecture and hands&#45;on workshop with scientific illustrator and CSUMB
   Provost Kathy Cruz&#45;Uribe, reception 6 p.m., lecture and workshop, 6:30
   p.m., University Center living room.
-  <a href="http://vpa.csumb.edu/">For more information, click here</a>.
+  <a href="https://vpa.csumb.edu/">For more information, click here</a>.
   <strong>Sunday, Dec. 2</strong>: Winter Concert put on by the Music and
   Performing Arts Department, free, 3&#45;5 p.m., World Theater
   <strong>Tuesday, Dec. 4</strong>: Opening reception for new exhibit of student
@@ -128,7 +128,7 @@ date: January 01 2020
 <p>
   Our campus is under construction. Please be cautious around construction
   areas. We invite you to view this
-  <a href="http://cdo.csumb.edu/site/x4929.xml">short slide show</a> created
+  <a href="https://cdo.csumb.edu/site/x4929.xml">short slide show</a> created
   with yoursafety in mind.
 </p>
 <p>
@@ -194,6 +194,6 @@ date: January 01 2020
 </p>
 <p>
   For campus news, activities and events, please visit our
-  <a href="http://www.csumb.edu/news%20">news website</a>.
+  <a href="https://www.csumb.edu/news%20">news website</a>.
 </p>
 ```

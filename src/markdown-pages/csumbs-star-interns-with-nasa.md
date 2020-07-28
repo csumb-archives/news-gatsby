@@ -75,11 +75,11 @@ date: January 01 2020
 </p>
 <p>
   To learn about the math program at CSUMB, click
-  <a href="http://csumb.edu/math">here</a>.
+  <a href="https://csumb.edu/math">here</a>.
 </p>
 <p>
   To learn about CSU's STAR program, click
-  <a href="http://www.cesame.calpoly.edu/programs-star.html">here</a>.
+  <a href="https://www.cesame.calpoly.edu/programs-star.html">here</a>.
 </p>
 <h3>Update</h3>
 <p>

@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>
   Cal State Monterey Bay sophomore Regan Porteous has been selected to receive a
-  <a href="http://www.calstate.edu/foundation/hearst/"
+  <a href="https://www.calstate.edu/foundation/hearst/"
     >CSU Trustees’ Award for Outstanding Achievement. </a
   >She and the other award winners were honored on Sept. 24 at the CSU board
   meeting in Long Beach.

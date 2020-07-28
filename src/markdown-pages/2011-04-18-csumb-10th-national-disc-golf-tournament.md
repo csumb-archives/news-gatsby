@@ -10,7 +10,7 @@ slug: csumb-10th-at-national-disc-golf-tournament
 
 <span class="date">Posted on Apr 18, 2011    </span>
 <p>&#xA0;</p>
-<h2><img alt="James Lustenader at the 2010 national tournament" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/2010_nationals.jpg" style="width:533px; height:400px"/></h2>
+<h2><img alt="James Lustenader at the 2010 national tournament" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/2010_nationals.jpg" style="width:533px; height:400px"/></h2>
 <h2>THE PERFECT FLING</h2>
 <p>Disc golfers representing three dozen colleges and universities
 will compete in the fifth annual Collegiate Disc Golf Championships
@@ -22,7 +22,7 @@ the nation.&#xA0;</p>
 <p>The national team championship will be decided at the tourney,
 as well as singles and doubles titles. The top six individual
 finishers will earn &quot;All American&quot; honors.</p>
-<p><img alt="Daniel Messina at last year&apos;s tournament" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/disc_golf_0.jpg" style="float:right; width:350px; height:263px">Members of CSUMB&apos;s
+<p><img alt="Daniel Messina at last year&apos;s tournament" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/disc_golf_0.jpg" style="float:right; width:350px; height:263px">Members of CSUMB&apos;s
 team are&#xA0;Danny Messina, Brandon White,&#xA0;Clark Hardenbergh,
 Ross Sauceda,&#xA0;Samuel Bahlenhorst and Brian Ramler.</img></p>
 <p>&#x2028;&#x2028;Unlike the contestants at that better-known golf event in
@@ -42,12 +42,12 @@ has grown six-fold. Augusta State University of Georgia won last
 year&#x2019;s team title, the first school outside the Southeastern
 Conference to do so. The University of Georgia won the first two
 titles, followed by Mississippi State in 2009.</br></br></br></br></p>
-<p>Follow the team on <a href="http://twitter.com/csumbdiscgolf" rel="nofollow">Twitter</a>.<br>
+<p>Follow the team on <a href="https://twitter.com/csumbdiscgolf" rel="nofollow">Twitter</a>.<br>
 <br>
-To learn more about disc golf at CSUMB, click <a href="http://discgolf.clubs.csumb.edu/" rel="nofollow">here</a>.&#xA0;<br>
+To learn more about disc golf at CSUMB, click <a href="https://discgolf.clubs.csumb.edu/" rel="nofollow">here</a>.&#xA0;<br>
 <br>
 To learn more about the National Collegiate Disc Golf
-Championships, <a href="http://www.ncdgc.com/" rel="nofollow">click
+Championships, <a href="https://www.ncdgc.com/" rel="nofollow">click
 here</a>.&#xA0;</br></br></br></br></p>
 <p><br>
 &#xA0;</br></p>

@@ -14,7 +14,7 @@ choice.</p>
 <p>&#x201C;Just as she helped me, I want to return the favor to my
 community,&#x201D; said the CalState TEACH student and Salinas resident.
 &#x201C;I want to be as committed as she was.&#x201D;</p>
-<p><img alt="Maritza Bautista" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bautista_single_0038.gif" style="width:250px; float:right; height:293px">Bautista, a 2013
+<p><img alt="Maritza Bautista" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bautista_single_0038.gif" style="width:250px; float:right; height:293px">Bautista, a 2013
 graduate of CSU Monterey Bay, has just gotten some help in her
 pursuit of a teaching credential, in the form of the John and
 Dorothy Perry Scholarship. The $2,000 scholarship honors longtime
@@ -46,7 +46,7 @@ remote areas. The program&#x2019;s foundation is self-study with online
 materials, e-texts, videos, web-based class discussions and on-site
 coaching. The state is served from four regional offices, including
 one at CSUMB.</p>
-<p><a href="http://calstateteach.net/?_csumbsearch=CalStateTeach" rel="nofollow">Learn more about CalState TEACH</a><br>
+<p><a href="https://calstateteach.net/?_csumbsearch=CalStateTeach" rel="nofollow">Learn more about CalState TEACH</a><br>
 &#xA0;</br></p>
 
 

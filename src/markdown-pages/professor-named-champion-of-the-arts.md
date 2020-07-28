@@ -61,7 +61,7 @@ date: January 01 2020
   She is the fourth faculty member at CSUMB to be honored by the Arts Council,
   joining 2007 honoree Jennifer Colby, 2009 honoree Amalia Mesa-Bains, and last
   year’s honoree Enid Baxter Blader.
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     ><em>Read more faculty news</em></a
   >
 </p>

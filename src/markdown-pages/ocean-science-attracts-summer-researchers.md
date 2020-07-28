@@ -60,12 +60,12 @@ date: January 01 2020
   She plans to apply to graduate school in marine ecology and is looking into
   internships.
   <a
-    href="http://www.facebook.com/pages/Monterey-Bay-Regional-Ocean-Science-Research-Experiences-for-Undergraduates/289392764542256"
+    href="https://www.facebook.com/pages/Monterey-Bay-Regional-Ocean-Science-Research-Experiences-for-Undergraduates/289392764542256"
     >Follow the REU on Facebook</a
   >
 </p>
 <p>
-  <a href="http://reu.csumb.edu"
+  <a href="https://reu.csumb.edu"
     >Learn more about the REU at Cal State Monterey Bay</a
   >
 </p>

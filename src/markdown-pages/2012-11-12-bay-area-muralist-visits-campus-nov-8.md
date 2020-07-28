@@ -12,7 +12,7 @@ slug: bay-area-muralist-visits-campus-nov.-8
 <p>John Wehrle specializes in public art, and his thought-provoking
 work is a familiar sight in the San Francisco Bay area, especially
 the East Bay.</p>
-<p><img alt="John Wehrle served as a combat artist in Vietnam" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/vietnam_combat_for_web.jpg" style="float:left; width:350px; height:208px">But 47 years ago,
+<p><img alt="John Wehrle served as a combat artist in Vietnam" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/vietnam_combat_for_web.jpg" style="float:left; width:350px; height:208px">But 47 years ago,
 when he was a just-commissioned lieutenant in the Army signal
 corps, his subject matter was altogether different &#x2013; soldiers at
 war.<br>
@@ -34,7 +34,7 @@ University, Monterey Bay, at 6 p.m., Nov. 8, in the University
 Center. The University Center is located on Sixth Avenue at B
 Street.<br>
 <br>
-<img alt="Self-portrait by John Wehrle" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/john_wehrle_mirror.jpg" style="float:right; width:400px; height:242px">Wehrle has been
+<img alt="Self-portrait by John Wehrle" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/john_wehrle_mirror.jpg" style="float:right; width:400px; height:242px">Wehrle has been
 creating really big art since 1975. He specializes in site-specific
 public artworks; his projects include mural-size paintings for
 interior and exterior walls as well as elaborate architectural
@@ -52,9 +52,9 @@ visiting artist series. It opened in September with a presentation
 by installation artist Julio Cesar Morales and continues with a
 talk by Bay Area artist Mildred Howard on Oct. 25.<br>
 <br>
-Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</br></br></br></br></br></br></img></br></br></br></br></br></br></br></br></img></p>
+Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</br></br></br></br></br></br></img></br></br></br></br></br></br></br></br></img></p>
 <p class="small">Learn about CSUMB&apos;s Visual and Public Art
-Department <a href="http://csumb.edu/art" rel="nofollow">here.</a><br>
+Department <a href="https://csumb.edu/art" rel="nofollow">here.</a><br>
 <br>
 <em>Top image: Landing Zone by John Wehrle, 1966, Vietnam Combat
 Artists Program</em></br></br></p>

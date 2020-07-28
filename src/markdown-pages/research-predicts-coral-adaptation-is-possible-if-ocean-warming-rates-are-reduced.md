@@ -10,7 +10,7 @@ date: January 01 2020
   UCLA, Stanford University and California State University, Monterey Bay
   (CSUMB) predicts coral adaptation is possible if ocean warming rates are
   reduced. Published in the
-  <a href="http://advances.sciencemag.org/content/3/11/e1701413"
+  <a href="https://advances.sciencemag.org/content/3/11/e1701413"
     >Science Advances</a
   >
   publication November 1, 2017, this research provides a clearer picture of how

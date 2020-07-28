@@ -28,7 +28,7 @@ date: January 01 2020
 <p>
   The experiment eventually became an Internet sensation with journals
   circulating around the globe. People started going
-  <a href="http://www.1000journals.com">online</a> to request them. At one
+  <a href="https://www.1000journals.com">online</a> to request them. At one
   point, 17,000 people were waiting to receive journals.
 </p>
 <p>
@@ -38,14 +38,14 @@ date: January 01 2020
 <p>
   They decorated the covers of a handful of journals and left them around
   campus. A
-  <a href="http://www.facebook.com/csumbjournalsaroundcampus">Facebook page</a>
+  <a href="https://www.facebook.com/csumbjournalsaroundcampus">Facebook page</a>
   they started for the project invites members of the campus community to find
   them and contribute something.
 </p>
 <p>
   “These are for your own creative expression, so go crazy and keep us updated,”
   the
-  <a href="http://www.facebook.com/csumbjournalsaroundcampus">Facebook page</a>
+  <a href="https://www.facebook.com/csumbjournalsaroundcampus">Facebook page</a>
   says, inviting people to take photos of the journals and post them.
 </p>
 <p>

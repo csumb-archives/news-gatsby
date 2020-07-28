@@ -17,7 +17,7 @@ Central Campus and East Campus housing last month, announcing that
 the area will become the home of Monterey-Salinas Transit.</p>
 <p>The transit agency has acquired about 24 acres of a 58-acre
 parcel owned by Monterey County.</p>
-<p><img alt="MST facility on Inter-Garrison Road" height="200" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/MST.jpg" style="float:left" width="300">The county Redevelopment Agency
+<p><img alt="MST facility on Inter-Garrison Road" height="200" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/MST.jpg" style="float:left" width="300">The county Redevelopment Agency
 plans to subdivide the remaining 34 acres for sale to approximately
 a dozen developers in 1.5- to 2.5-acre parcels. That area is known
 as the Whispering Oaks Business Park and is designated for light

@@ -11,7 +11,7 @@ slug: faculty-member-at-white-house-summit
 <span class="date">Posted on Jun 19, 2014    </span>
 <p>CSU Monterey Bay faculty member Lisa Stewart is taking her
 research on work-family issues to a national stage.</p>
-<p><img alt="Dr. Lisa Stewart" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/lisa_single.jpg" style="width:300px; height:397px; float:left">Dr. Stewart, who
+<p><img alt="Dr. Lisa Stewart" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/lisa_single.jpg" style="width:300px; height:397px; float:left">Dr. Stewart, who
 teaches in the master of social work program, will take part in the
 White House Summit on Working Families in Washington, D.C., on June
 23.<br>
@@ -44,9 +44,9 @@ disability-related caregiving for a portion of one&#x2019;s working life,&#x201D
 she said.<br>
 <br>
 President Barack Obama, First Lady Michelle Obama, Vice President
-Joe Biden and Dr. Jill Biden will be in attendance. <a href="http://workingfamiliessummit.org" rel="nofollow">Learn more about
+Joe Biden and Dr. Jill Biden will be in attendance. <a href="https://workingfamiliessummit.org" rel="nofollow">Learn more about
 the summit here.</a></br></br></br></br></br></br></br></br></p>
-<p><a href="http://msw.csumb.edu" rel="nofollow">Learn about the
+<p><a href="https://msw.csumb.edu" rel="nofollow">Learn about the
 MSW program at CSUMB</a><br>
 &#xA0;</br></p>
 <p><br>

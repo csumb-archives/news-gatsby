@@ -37,7 +37,7 @@ date: January 01 2020
   said. "They recruit themselves."The program director, Ann Caudle, and current
   staff members Jenny Keller and Amadeo Bachar will continue with the program
   when it moves to CSUMB.More information about the program is available online
-  at <a href="http://www.scienceillustration.org">scienceillustration.org</a>.
+  at <a href="https://www.scienceillustration.org">scienceillustration.org</a>.
 </p>
 <p></p>
 <p>May 8, 2009</p>

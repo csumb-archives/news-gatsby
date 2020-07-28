@@ -12,7 +12,7 @@ date: January 01 2020
   residents in Monterey County.
 </p>
 <p>
-  The <a href="http://www.digitalotter.org">Digital Otter Center’s</a> free
+  The <a href="https://www.digitalotter.org">Digital Otter Center’s</a> free
   services are available every Friday from Sept. 30 to Dec. 2 between 4&#45;7
   p.m. at the
   <a
@@ -21,7 +21,7 @@ date: January 01 2020
   >.
 </p>
 <h2>
-  <a href="http://www.digitalotter.org"
+  <a href="https://www.digitalotter.org"
     >Digital Otter Center free services include:</a
   >
 </h2>

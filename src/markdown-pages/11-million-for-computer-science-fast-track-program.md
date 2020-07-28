@@ -55,7 +55,7 @@ date: January 01 2020
   collaboration between the University of Washington and Washington State
   University.
 </p>
-<p><a href="http://csumb.edu/csitin3">Learn more about the program</a>.</p>
+<p><a href="https://csumb.edu/csitin3">Learn more about the program</a>.</p>
 <p>
   <em
     >Photo: National Science Foundation Acting Director Cora Marrett and CSUMB

@@ -27,7 +27,7 @@ date: January 01 2020
 </p>
 <p>
   The
-  <a href="http://research.calpoly.edu/csusrc31"
+  <a href="https://research.calpoly.edu/csusrc31"
     >CSU Student Research Competition</a
   >
   is held each spring to promote excellence in undergraduate and graduate

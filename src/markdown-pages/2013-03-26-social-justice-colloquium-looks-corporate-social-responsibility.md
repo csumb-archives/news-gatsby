@@ -12,7 +12,7 @@ slug: social-justice-colloquium-looks-at-corporate-social-responsibility
 <p>This year&#x2019;s Social Justice Colloquium at CSU Monterey Bay will
 address a topic from the business world.<br>
 <br>
-<img alt="The social justice colloquium will be held March 28" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/social_justice_image.jpg" style="float:left; width:250px; height:181px">A panel will
+<img alt="The social justice colloquium will be held March 28" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/social_justice_image.jpg" style="float:left; width:250px; height:181px">A panel will
 discuss &#x201C;Corporate Social Responsibility? Workers, Owners and
 Consumers in the Global Economy,&#x201D; at noon on March 28, in the
 University Center. The focus will be on owners, workers, students
@@ -46,7 +46,7 @@ Wilde at 582-4332.<br>
 <br>
 The Social Justice Colloquium follows on the March 27 <a href="../5/annual-business-ethics-forum-set-march-27.html" rel="nofollow">Business Ethics Forum, &#x201C;Is corporate social
 responsibility good business?</a>&quot;</br></br></br></br></br></br></br></br></br></br></br></br></p>
-<p><a href="http://sbgs.csumb.edu/" rel="nofollow">Learn about the
+<p><a href="https://sbgs.csumb.edu/" rel="nofollow">Learn about the
 Division of Social, Behavioral and Global Studies.</a></p>
 
 

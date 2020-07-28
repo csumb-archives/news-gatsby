@@ -43,7 +43,7 @@ date: January 01 2020
   being used by the growing movement against student debt, and members of CSU
   Students for Quality Education will facilitate a discussion of the issue.
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>. More information is available from
+  <a href="https://csumb.edu/map">here</a>. More information is available from
   Professor Caitlin Manning at
   <a
     href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#58;&#x63;&#109;&#x61;&#110;&#x6e;&#105;&#x6e;g&#64;&#x63;&#115;&#x75;&#109;&#x62;&#46;&#x65;&#100;&#x75;"

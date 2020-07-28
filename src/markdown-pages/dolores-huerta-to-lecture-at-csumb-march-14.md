@@ -39,7 +39,7 @@ date: January 01 2020
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here.</a> For more information, contact Tim
+  <a href="https://csumb.edu/map">here.</a> For more information, contact Tim
   Bills at 582-4645.
 </p>
 ```

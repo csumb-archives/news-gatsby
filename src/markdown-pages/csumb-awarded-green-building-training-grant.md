@@ -31,7 +31,7 @@ date: January 01 2020
   issue and support research into ways to reverse climate change. The
   combination of climate neutrality, research and education is what makes the
   initiative unique. To read more about the Presidents' Climate Commitment at
-  CSUMB, visit <a href="http://csumb.edu/green">csumb.edu/green</a>.
+  CSUMB, visit <a href="https://csumb.edu/green">csumb.edu/green</a>.
 </p>
 <p></p>
 <p></p>

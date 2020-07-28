@@ -9,12 +9,12 @@ slug: first-class-of-nursing-students-gets-&apos;pinned&apos;
 
 
 <span class="date">Posted on Jan 15, 2015    </span>
-<p><img alt="The 10 members of the first graduating class of nurses" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/all_10_grads_wearing_their_pins.jpg" style="float:left; width:550px; height:367px">For one group of
+<p><img alt="The 10 members of the first graduating class of nurses" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/all_10_grads_wearing_their_pins.jpg" style="float:left; width:550px; height:367px">For one group of
 history-making Cal State Monterey Bay graduates, it&#x2019;s not about the
 caps and gowns. It&#x2019;s all about the pin.</img></p>
 <p>CSUMB&#x2019;s first class of 10 nursing graduates participated in a
 pinning ceremony on Dec. 20. Commencement will follow in May.</p>
-<p><img alt="CSUMB pin" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bsnpin_for_web.jpg" style="width:300px; height:298px; float:left">&#x201C;The ceremony is a
+<p><img alt="CSUMB pin" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bsnpin_for_web.jpg" style="width:300px; height:298px; float:left">&#x201C;The ceremony is a
 tradition in nursing, where graduates receive a pin unique to that
 program,&#x201D; said Dr. Marianne Hultgren, director of nursing at CSUMB.
 &#x201C;It dates back to the days of Florence Nightingale, when a pin was
@@ -44,7 +44,7 @@ education at one of the two-year schools, spend time in a &quot;blended&quot;
 learning environment, and then complete their studies at CSUMB.
 They receive an associate degree in nursing from their community
 college and a bachelor of science in nursing (BSN) from CSUMB.</p>
-<p><img alt="Jennifer Riccobono" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jennifer-small.jpg" style="float:right; width:216px; height:342px">In the summer of
+<p><img alt="Jennifer Riccobono" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jennifer-small.jpg" style="float:right; width:216px; height:342px">In the summer of
 2014, a second track was added that allows already-employed nurses
 with associate&#x2019;s degrees to earn a BSN while continuing to work.
 Classes are offered on campus, online and at local hospitals to
@@ -54,7 +54,7 @@ matter what nursing position we fill in the community, we will put
 our patient&#x2019;s needs first and strive to make positive changes in
 health care,&#x201D; Riccobono said.<br>
 <br>
-<a href="http://csumb.edu/nursing" rel="nofollow">Learn more about
+<a href="https://csumb.edu/nursing" rel="nofollow">Learn more about
 the nursing program at CSUMB</a></br></br></p>
 <p class="small"><em>Photos<br>
 <br>

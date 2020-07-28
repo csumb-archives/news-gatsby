@@ -18,7 +18,7 @@ sustainability and the ethics of &#x201C;green.&#x201D;</p>
 of Humanities and Communication, will be held from 3 to 5 p.m.,
 Tuesday, April 12, in the University Center on Sixth Avenue. It&#x2019;s
 free and the public is invited.</p>
-<p><img alt="Annual Ethics Panel will look at the ethics of " src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/office-ethics-the-competitive-edge-of-green-office-supplies.jpg" style="float:left; width:125px; height:145px">The topic under
+<p><img alt="Annual Ethics Panel will look at the ethics of " src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/office-ethics-the-competitive-edge-of-green-office-supplies.jpg" style="float:left; width:125px; height:145px">The topic under
 discussion is &#x201C;Greenwashing vs. Sustainability . . . does virtue
 ethics apply?&#x201D;</img></p>
 <p>Ever since the first Earth Day celebration more than 30 years
@@ -39,7 +39,7 @@ Takikawa of Whole Foods; Kari Murray of CCOF, an organic
 certification and trade association; and Dr. Suzanne Worcester,
 professor of Science and Environmental Policy at CSUMB will make
 presentations as part of the greenwashing panel.</p>
-<p><img alt="Annual Ethics Panel is set for April 12" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ethics.jpeg" style="float:right; width:200px; height:150px">Four students from
+<p><img alt="Annual Ethics Panel is set for April 12" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ethics.jpeg" style="float:right; width:200px; height:150px">Four students from
 the School of Business and the Division of Humanities and
 Communication will field questions on ethical issues.</img></p>
 <p>The ethics panel is held annually to raise awareness of ethical

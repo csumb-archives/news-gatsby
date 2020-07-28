@@ -30,9 +30,9 @@ date: January 01 2020
   The State of the University address is open to the campus community. It will
   be shown on cable channel 71 and broadcast live via the web, accessible from
   <a
-    href="http://csumb.edu/site/x12349.xml"
-    title="http://csumb.edu/site/x12349.xml"
-    >http://csumb.edu/site/x12349.xml</a
+    href="https://csumb.edu/site/x12349.xml"
+    title="https://csumb.edu/site/x12349.xml"
+    >https://csumb.edu/site/x12349.xml</a
   >.
 </p>
 <p></p>

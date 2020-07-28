@@ -34,7 +34,7 @@ date: January 01 2020
   Comes Home, an initiative from Cal Humanities. “The images presented by Planet
   Ord are powerful and evoke emotions that tell the stories of many local
   veterans,” said Jenna Severson, MCFL programming librarian.
-  <a href="http://planetord.com">Learn more about Planet Ord</a>
+  <a href="https://planetord.com">Learn more about Planet Ord</a>
 </p>
-<p><a href="http://enviroarts.tumblr.com">View student films</a></p>
+<p><a href="https://enviroarts.tumblr.com">View student films</a></p>
 ```

@@ -11,7 +11,7 @@ slug: festival-benefits-return-of-the-natives
 <span class="date">Posted on Feb 04, 2014    </span>
 <h3>Adventure awaits at Banff Mountain Film Festival&apos;s world
 tour</h3>
-<p><img alt="Banff Mountain Film Festival screening benefits RON" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/banff.jpeg" style="width:227px; height:222px; float:left">Experience
+<p><img alt="Banff Mountain Film Festival screening benefits RON" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/banff.jpeg" style="width:227px; height:222px; float:left">Experience
 adventure on the big screen &#x2013; from mountaintops to crashing waves
 to foaming river rapids &#x2013; when the Banff Mountain Film Festival
 World Tour makes a stop at Monterey&#x2019;s Golden State Theatre on Feb.
@@ -26,10 +26,10 @@ The tour brings Banff to audiences around the globe. Immediately
 after the festival ends in November, a selection of the best films
 goes on tour to more than 360 locations worldwide.<br>
 <br>
-Tickets are $20 and can be purchased <a href="http://www.brownpapertickets.com/e/538600http://www.brownpapertickets.com/e/538600" rel="nofollow">online</a>.&#xA0;For more information, call
+Tickets are $20 and can be purchased <a href="https://www.brownpapertickets.com/e/538600https://www.brownpapertickets.com/e/538600" rel="nofollow">online</a>.&#xA0;For more information, call
 883-8048.<br>
 <br>
-The <a href="http://csumb.edu/ron" rel="nofollow">Return of the
+The <a href="https://csumb.edu/ron" rel="nofollow">Return of the
 Natives</a> restoration project is the education and outreach
 branch of the Watershed Institute at CSUMB. RON&apos;s environmental
 goal is to protect the waters of the Monterey Bay through

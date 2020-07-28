@@ -94,7 +94,7 @@ slug: csumb-ready-to-serve-those-who-served
 </p>
 <p>
   To learn more about veterans educational benefits, visit
-  <a href="http://www.gibill.va.gov/" rel="nofollow">http://www.gibill.va.gov</a
+  <a href="https://www.gibill.va.gov/" rel="nofollow">https://www.gibill.va.gov</a
   >. CSUMB&apos;s veterans information is available at csumb.edu/veterans or by
   e-mailing
   <a href="mailto:veteran_services@csumb.edu" rel="nofollow"

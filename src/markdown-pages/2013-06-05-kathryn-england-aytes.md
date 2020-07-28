@@ -16,7 +16,7 @@ Program as visiting scholar</strong></h4>
 classroom.</em><br>
 &#x2013; &#xA0;Wilma Mankiller</br></p>
 <p>The quotation from the late principal chief of the Cherokee
-Nation is displayed <img alt="Kathryn England-Aytes" height="180" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Kathryn.jpg" style="float:left" width="127">in the cubicle of Kathryn
+Nation is displayed <img alt="Kathryn England-Aytes" height="180" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Kathryn.jpg" style="float:left" width="127">in the cubicle of Kathryn
 England-Aytes, a lecturer in the Social, Behavioral and Global
 Studies Division at California State University, Monterey
 Bay.&#xA0;</img></p>

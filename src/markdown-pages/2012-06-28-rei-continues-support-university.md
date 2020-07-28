@@ -47,7 +47,7 @@ through its philanthropic activities. In 2011, the Kent,
 Washington-based company gave away $4.48 million to 330 local and
 national nonprofit organizations to support outdoor stewardship and
 connect children to nature.</br></br></br></br></br></br></br></br></br></br></br></br></p>
-<p><a href="http://csumb.edu/ron" rel="nofollow">Learn more about
+<p><a href="https://csumb.edu/ron" rel="nofollow">Learn more about
 Return of the Natives at CSUMB.</a><br>
 <br>
 &#xA0;</br></br></p>

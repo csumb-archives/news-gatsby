@@ -27,6 +27,6 @@ date: January 01 2020
 </p>
 <p>
   For more information on the Elite 88 award winners, click
-  <a href="http://www.ncaa.com/elite88">here</a>.
+  <a href="https://www.ncaa.com/elite88">here</a>.
 </p>
 ```

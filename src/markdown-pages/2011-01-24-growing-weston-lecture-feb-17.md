@@ -16,7 +16,7 @@ Monterey Bay on Feb. 17.</p>
 <p>The event will be held in the University Center living room
 starting with a reception at 6 p.m. The talk will follow at 6:30.
 The public is invited to attend this free event.</p>
-<p><img alt="Kim Weston" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kweston_0.jpg" style="float:left; width:200px; height:273px">&#x201C;Growing Up Weston&#x201D;
+<p><img alt="Kim Weston" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kweston_0.jpg" style="float:left; width:200px; height:273px">&#x201C;Growing Up Weston&#x201D;
 is the title of his illustrated lecture. Kim&#x2019;s talk will reveal
 insights into three generations of one of the most important and
 creative families in photography.</img></p>

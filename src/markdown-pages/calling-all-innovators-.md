@@ -11,7 +11,7 @@ date: January 01 2020
   Bay Regional Business Plan Competition, set for May 3. All start-ups that can
   show how they will create jobs in the tri-county area are eligible.
   Contestants must submit a
-  <a href="http://www.MBRCompetition.com">one-page application</a> by March 18.
+  <a href="https://www.MBRCompetition.com">one-page application</a> by March 18.
   To help with the application process, a free 90-minute introductory workshop
   will be offered seven times. The workshops are scheduled for: • 6 p.m., Feb.
   11, Sam Karas Room in the Monterey Peninsula College library • Noon, Feb.12,
@@ -30,7 +30,7 @@ date: January 01 2020
   International Studies. Finalists will present their ideas and business plans
   to a panel of investors, successful entrepreneurs, regional CEOs and venture
   capitalists.
-  <a href="http://www.MBRCompetition.com/"
+  <a href="https://www.MBRCompetition.com/"
     >More information is available at Monterey Regional Business Plan
     Competition.</a
   >

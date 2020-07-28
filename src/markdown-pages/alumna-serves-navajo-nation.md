@@ -59,7 +59,7 @@ date: January 01 2020
 <p>
   She's no stranger to the nation's capital – while a student at CSUMB, she
   spent a semester in Washington, D.C., as a Panetta Congressional intern.
-  <a href="http://csumb.edu/alumni"
+  <a href="https://csumb.edu/alumni"
     >Learn about the Alumni Association at CSUMB.</a
   >
 </p>

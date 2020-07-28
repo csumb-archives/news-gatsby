@@ -11,7 +11,7 @@ slug: a-pearl-of-a-singer
 <span class="date">Posted on Sep 25, 2012    </span>
 <h3>Perla Batalla brings her sublime voice to World Theater</h3>
 <p>One voice. Two languages. Many traditions.</p>
-<p><img alt="Perla Batalla will perform at the World Theater Oct. 18" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/perla_for_web.jpg" style="float:left; width:300px; height:224px">That&#x2019;s what will be
+<p><img alt="Perla Batalla will perform at the World Theater Oct. 18" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/perla_for_web.jpg" style="float:left; width:300px; height:224px">That&#x2019;s what will be
 on display when Grammy nominated vocalist and composer Perla
 Batalla returns to California State University, Monterey Bay&#x2019;s
 World Theater on Oct. 18 as the Performing Arts Series continues.
@@ -67,7 +67,7 @@ director of University Performances and Special Events.</p>
 stage. She&#x2019;s the ultimate professional and a pleasure to work
 with.&#x201D;</p>
 <p>Tickets range from $25 to $40 and can be purchased by calling
-the World Theater box office at (831) 582-4580 or <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>.<br>
+the World Theater box office at (831) 582-4580 or <a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>.<br>
 <br>
 The World Theater is located on Sixth Avenue between A and B
 streets on the CSUMB campus. Driving directions and a campus map

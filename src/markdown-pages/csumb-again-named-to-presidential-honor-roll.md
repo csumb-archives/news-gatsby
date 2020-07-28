@@ -53,7 +53,7 @@ date: January 01 2020
   Distinction List and 621 schools were named to the Honor Roll. In total, 742
   schools were recognized. A full list is available at
   <a
-    href="http://www.nationalservice.gov/honorroll"
+    href="https://www.nationalservice.gov/honorroll"
     title="www.nationalservice.gov/honorroll"
     >www.nationalservice.gov/honorroll</a
   >.
@@ -92,7 +92,7 @@ date: January 01 2020
   and Serve America, a program that supports service learning in schools,
   institutions of higher education and community-based organizations. For more
   information, go to
-  <a href="http://www.nationalservice.gov" title="www.nationalservice.gov"
+  <a href="https://www.nationalservice.gov" title="www.nationalservice.gov"
     >www.nationalservice.gov</a
   >.
 </p>

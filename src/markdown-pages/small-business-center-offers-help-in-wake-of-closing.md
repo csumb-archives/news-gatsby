@@ -30,7 +30,7 @@ date: January 01 2020
   assisting local employers with adding new employees. According to a recent
   study, SBDC clients experienced six times the sales growth, and created 13
   times the jobs of average businesses (see
-  <a href="http://www.californiasbdc.org" title="www.californiasbdc.org"
+  <a href="https://www.californiasbdc.org" title="www.californiasbdc.org"
     >www.californiasbdc.org</a
   >). Also, 65 percent of the center’s clients are in the Salinas area. Plans
   are to move to 106 Lincoln St., where the city will provide a lease at $1 a

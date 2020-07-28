@@ -9,7 +9,7 @@ slug: movein-day-kicks-off-school-year
 
 
 <span class="date">Posted on Aug 28, 2012    </span>
-<p><img alt="Students started moving into campus housing Aug. 24" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/folks_moving_in.small_.jpg" style="float:right; width:400px; height:274px">Hundreds of
+<p><img alt="Students started moving into campus housing Aug. 24" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/folks_moving_in.small_.jpg" style="float:right; width:400px; height:274px">Hundreds of
 excited students carried, dragged and wheeled their belongings into
 the residence halls at CSU Monterey Bay on Aug. 24, the first day
 of the three-day move-in weekend.</img></p>
@@ -22,7 +22,7 @@ faculty and students who had volunteered for the Otter Welcome
 Team. They directed traffic, answered questions, carried boxes and
 gave directions to the new students, most of whom had parents and
 siblings along to help.</p>
-<p><img alt="President Ochoa greets students on the campus quad" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/pres.ochoa_on_quad.small_.jpg" style="float:left; width:300px; height:209px">President Eduardo
+<p><img alt="President Ochoa greets students on the campus quad" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/pres.ochoa_on_quad.small_.jpg" style="float:left; width:300px; height:209px">President Eduardo
 Ochoa greeted students and their parents on the main quad for part
 of the day.</img></p>
 <p>New students had a variety of reasons for choosing CSUMB, but

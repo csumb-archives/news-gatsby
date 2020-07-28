@@ -113,6 +113,6 @@ date: January 01 2020
 <p>
   And, maybe have some fun while “learning a bunch of stuff,” as Dr. Moore says.
   To learn more about the Science and Environmental Policy program, click
-  <a href="http://sep.csumb.edu/sep/">here</a>.
+  <a href="https://sep.csumb.edu/sep/">here</a>.
 </p>
 ```

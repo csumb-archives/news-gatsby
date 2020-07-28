@@ -50,7 +50,7 @@ date: January 01 2020
   technology needs and provide a variety of other services helpful to small
   businesses. In addition to the free one-on-one consulting, the center offers a
   variety of workshops and seminars. For information in English or Spanish,
-  click <a href="http://csumbsbdc.webuda.com/">here</a>.
+  click <a href="https://csumbsbdc.webuda.com/">here</a>.
 </p>
 <p>
   <em

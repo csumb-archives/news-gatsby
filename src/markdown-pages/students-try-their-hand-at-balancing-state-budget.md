@@ -13,7 +13,7 @@ date: January 01 2020
   to find out. During the spring semester, she invited a representative of Next
   10, a nonpartisan, nonprofit policy organization based in San Francisco, to
   lead her class through an exercise involving budget priorities, called the
-  <a href="http://www.budgetchallenge.org/respondents/new"
+  <a href="https://www.budgetchallenge.org/respondents/new"
     >California Budget Challenge</a
   >.
 </p>
@@ -62,7 +62,7 @@ date: January 01 2020
 <p>
   <em
     >Read all the contest entries
-    <a href="http://next10.org/2012-student-contest">here</a>. Photo: California
+    <a href="https://next10.org/2012-student-contest">here</a>. Photo: California
     State Capitol in Sacramento</em
   >
 </p>

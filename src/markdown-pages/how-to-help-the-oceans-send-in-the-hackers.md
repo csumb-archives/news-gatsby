@@ -9,7 +9,7 @@ date: January 01 2020
 <p>
   “Speakers to winners, an Otter theme ran throughout,” said John Wood, product
   manager at the Monterey Bay Aquarium. Wood was referring to Cal State Monterey
-  Bay's mascot at <a href="http://www.fishackathon.co">Fishackathon</a> 2016,
+  Bay's mascot at <a href="https://www.fishackathon.co">Fishackathon</a> 2016,
   held over Earth Day weekend. The aquarium was one of dozens of sites on six
   continents to host the annual event.
 </p>

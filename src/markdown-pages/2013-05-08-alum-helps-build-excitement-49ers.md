@@ -9,14 +9,14 @@ slug: alum-helps-build-excitement-for-49ers
 
 
 <span class="date">Posted on May 08, 2013    </span>
-<p><img alt="Media day at the New Orleans Superdome" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/media_day_small.jpg" style="width:550px; height:224px"/></p>
+<p><img alt="Media day at the New Orleans Superdome" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/media_day_small.jpg" style="width:550px; height:224px"/></p>
 <h3>Former baseball player is graphic designer for Super-Bowl bound
 team</h3>
 <p>Cal State Monterey Bay alum Ben Mayberry arrived in New Orleans
 almost a week before his San Francisco 49er colleagues Colin
 Kaepernick, Michael Crabtree and Patrick Willis. As a graphic
 designer and member of the 49ers marketing team, Mayberry is the
-artist behind the <a href="http://instagram.com/49dzn" rel="nofollow">Quest for Six graphics</a> that have been building
+artist behind the <a href="https://instagram.com/49dzn" rel="nofollow">Quest for Six graphics</a> that have been building
 excitement for a Niners Super Bowl run.</p>
 <p>&#x201C;It&#x2019;s crazy being here for the Super Bowl,&#x201D; says Mayberry. &#x201C;It&#x2019;s
 unbelievable. And it&#x2019;s Mardi Gras.&#x201D;</p>
@@ -24,7 +24,7 @@ unbelievable. And it&#x2019;s Mardi Gras.&#x201D;</p>
 back when the team was still at the NFC Championship stage in order
 to have everything ready to go as soon as the team won. The sole
 graphic designer for the franchise, Mayberry has contributed to
-everything from the team-<img alt="Mayberry designed the 49ers Super Bowl logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/quest_for_six.jpg" style="float:left; width:300px; height:300px">building posters on
+everything from the team-<img alt="Mayberry designed the 49ers Super Bowl logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/quest_for_six.jpg" style="float:left; width:300px; height:300px">building posters on
 the walls of the players&#x2019; hotel rooms to the design of the rally
 towels. He&#x2019;s responsible for presenting a consistent team image,
 but admits that when the team wins, &#x201C;it just takes over.&#x201D;</img></p>
@@ -52,7 +52,7 @@ anything and everything, which is one of the reasons I&#x2019;ve been
 successful,&#x201D; says Mayberry. &#x201C;Knowing the technologies and how
 everything works together is inspirational.&#x201D;</p>
 <p>This knowledge and inspiration has also fed into a side business
-Mayberry runs with his brother, <a href="http://www.diehard.co/" rel="nofollow">Die Hard apparel,</a> which they started while he
+Mayberry runs with his brother, <a href="https://www.diehard.co/" rel="nofollow">Die Hard apparel,</a> which they started while he
 was still working at CSUMB. The company produces and sells clothing
 for Bay Area sports fans, and the fact that the teams are winning
 has been a boon for the company&#x2019;s sales. &#x201C;It&#x2019;s a great time for Bay

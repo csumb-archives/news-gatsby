@@ -39,7 +39,7 @@ date: January 01 2020
   Every week it serves approximately 10,800 people.
 </p>
 <p>
-  <a href="http://csumb.edu/worldtheater">Learn more about the World Theater</a
+  <a href="https://csumb.edu/worldtheater">Learn more about the World Theater</a
   >.
 </p>
 ```

@@ -42,8 +42,8 @@ date: January 01 2020
 <p>
   The complete listings can be found at
   <a
-    href="http://www.washingtonmonthly.com/college_guide/rankings_2010/liberal_arts_service.php"
-    >http://www.washingtonmonthly.com/college_guide/rankings_2010/liberal_arts_service.php</a
+    href="https://www.washingtonmonthly.com/college_guide/rankings_2010/liberal_arts_service.php"
+    >https://www.washingtonmonthly.com/college_guide/rankings_2010/liberal_arts_service.php</a
   >
 </p>
 <p><strong> </strong></p>

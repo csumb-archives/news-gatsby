@@ -15,11 +15,11 @@ they see it.</p>
 Hartnell College that enables students to earn a bachelor&#x2019;s degree
 in computer science in three years. The program started in 2013 and
 has just admitted its second cohort of 32 students.</p>
-<p><img alt="SharkPulse sample photo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/sharkpulse_image.jpg" style="float:left; width:400px; height:229px">The university&#x2019;s
-<a href="http://uroc.csumb.edu" rel="nofollow">Undergraduate
+<p><img alt="SharkPulse sample photo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/sharkpulse_image.jpg" style="float:left; width:400px; height:229px">The university&#x2019;s
+<a href="https://uroc.csumb.edu" rel="nofollow">Undergraduate
 Research Opportunities Center</a> was notified of an unpaid
 position for a student volunteer to work with Hopkins Marine
-Station&#x2019;s <a href="http://baseline.stanford.edu" rel="nofollow">Shark Baselines Project</a>. When students learned of
+Station&#x2019;s <a href="https://baseline.stanford.edu" rel="nofollow">Shark Baselines Project</a>. When students learned of
 it, many of them wanted to participate.</img></p>
 <p>&#x201C;They need to have worked on projects to help them get
 internships,&#x201D; said Katie Cunningham, computer science education

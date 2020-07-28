@@ -11,7 +11,7 @@ slug: csumb-ready-for-challenges-ahead
 <span class="date">Posted on Sep 24, 2009    </span>
 <p>Sept. 24, 2009</p>
 CSUMB ready for challenges ahead
-<p><img alt="Dianne Harrison" height="300" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Dianne_SOUsmall.jpg" style="float:right" width="200">California State University,
+<p><img alt="Dianne Harrison" height="300" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Dianne_SOUsmall.jpg" style="float:right" width="200">California State University,
 Monterey Bay President Dianne Harrison on Sept. 24 presented her
 2009 State of the University address, hailing the school&apos;s efforts
 to overcome the state budget cuts, and urging her audience to stay

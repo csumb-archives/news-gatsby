@@ -18,7 +18,7 @@ that distinction.</p>
 University system and the second public university in California to
 qualify for the gold rating from the Association for the
 Advancement of Sustainability in Higher Education.</p>
-<p><img alt="Students lead campus recycling efforts" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/csumb_recycles_--_it_starts_with_you.jpg" style="float:left; width:350px; height:251px">The rating, awarded
+<p><img alt="Students lead campus recycling efforts" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/csumb_recycles_--_it_starts_with_you.jpg" style="float:left; width:350px; height:251px">The rating, awarded
 in the organization&apos;s STARS program, signifies that the university
 is doing an outstanding job of going &#x201C;green&#x201D; in areas ranging from
 curriculum and construction to conservation of resources.<br>

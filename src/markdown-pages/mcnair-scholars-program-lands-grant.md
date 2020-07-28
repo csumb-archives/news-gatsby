@@ -59,7 +59,7 @@ date: January 01 2020
 <p>
   <em
     >Learn more about the McNair program and other opportunities for
-    undergraduate research at CSUMB <a href="http://uroc.csumb.edu">here.</a>
+    undergraduate research at CSUMB <a href="https://uroc.csumb.edu">here.</a>
   </em>
 </p>
 ```

@@ -69,16 +69,16 @@ mental health care community before they are seeking career
 positions is helpful for them; Kinship Center makes it truly
 meaningful,&quot; Professor England-Aytes said.<br>
 <br>
-<a href="http://csumb.edu/psychology" rel="nofollow">Learn about
+<a href="https://csumb.edu/psychology" rel="nofollow">Learn about
 the psychology program at CSUMB</a>.<br>
 <br>
-<a href="http://www.kinshipcenter.org" rel="nofollow">Learn about
+<a href="https://www.kinshipcenter.org" rel="nofollow">Learn about
 the Kinship Center</a></br></br></br></br></p>
 <p class="small"><em>Clinical psychology students enjoy the
 benefits of a collaboration with the Kinship Center. Professor
 Kathryn England-Aytes is pictured at far left.<br>
 &#xA0;</br></em></p>
-<p><img alt="Students in a clinical psychology class visit Kinship Center" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kinship_picture_with_students.jpg" style="float:left; width:550px; height:350px"/></p>
+<p><img alt="Students in a clinical psychology class visit Kinship Center" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kinship_picture_with_students.jpg" style="float:left; width:550px; height:350px"/></p>
 
 
 

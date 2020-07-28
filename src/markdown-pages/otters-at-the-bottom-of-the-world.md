@@ -65,13 +65,13 @@ date: January 01 2020
   >
 </p>
 <p>
-  <a href="http://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm"
+  <a href="https://www.usap.gov/videoclipsandmaps/mcmwebcam.cfm"
     >Learn about McMurdo Station and the U.S. Antarctic Program and view photos
     from its webcam</a
   >
 </p>
 <p>
-  <a href="http://csumb.edu/UROC"
+  <a href="https://csumb.edu/UROC"
     >Learn about CSUMB's Undergraduate Research Opportunities Center</a
   >
 </p>

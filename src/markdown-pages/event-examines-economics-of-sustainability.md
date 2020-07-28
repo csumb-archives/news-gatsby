@@ -6,7 +6,7 @@ date: January 01 2020
 
 ```html
 <p>
-  <a href="http://www.youtube.com/watch?v=hdaAeTts9tI"
+  <a href="https://www.youtube.com/watch?v=hdaAeTts9tI"
     ><strong>WATCH**** A VIDEO OF THE EVENT</strong></a
   >
 </p>
@@ -28,7 +28,7 @@ date: January 01 2020
   An attachment clips to the back of the bike; when the rear wheel turns, it
   spins the blender mechanism – a creative way to conserve energy. The day’s
   activities – including lunch – are free. Those wishing to stay for lunch are
-  asked to <a href="http://rsvp.csumb.edu">RSVP</a>.
+  asked to <a href="https://rsvp.csumb.edu">RSVP</a>.
 </p>
 <p>
   Exhibitors, including SunPods, Applied Solar Energy, Passion Purveyors,
@@ -37,9 +37,9 @@ date: January 01 2020
 </p>
 <p>
   Attendees are encouraged to bike, take public transportation (route
-  information: <a href="http://www.mst.org" title="www.mst.org">www.mst.org</a>)
+  information: <a href="https://www.mst.org" title="www.mst.org">www.mst.org</a>)
   or carpool to the event. There is a $2 campus parking fee. A complete schedule
-  is available <a href="http://ideals.csumb.edu/focus-region-2011">here</a>. For
+  is available <a href="https://ideals.csumb.edu/focus-region-2011">here</a>. For
   more information, please contact Dr. Daniel Fernandez at (831) 582-3786 or
   <a
     href="&#109;a&#x69;&#108;&#x74;&#111;&#x3a;&#100;&#x66;&#101;&#x72;&#110;a&#x6e;&#100;&#x65;&#122;&#x40;&#99;&#x73;&#117;&#x6d;&#98;&#x2e;&#101;d&#x75;"

@@ -54,12 +54,12 @@ date: January 01 2020
 </p>
 <p>
   The lecture is free. Reservations are recommended and can be made online by
-  clicking <a href="http://rsvp.csumb.edu/index.php?eid=70">here</a>. For more
+  clicking <a href="https://rsvp.csumb.edu/index.php?eid=70">here</a>. For more
   information, or to request disability accommodations, call (831) 582-4580.
 </p>
 <p>
   For driving directions and a campus map, click
-  <a href="http://csumb.edu/map.">here</a>.
+  <a href="https://csumb.edu/map.">here</a>.
 </p>
 <p></p>
 ```

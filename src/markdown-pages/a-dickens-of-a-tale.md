@@ -70,7 +70,7 @@ date: January 01 2020
 <p>
   Tickets range from $10 to $40. Special offer: buy-one, get-one-free. Tickets
   may be purchased by calling the World Theater box office at (831) 582-4580 or
-  online at <a href="http://csumb.edu/worldtheater">csumb.edu/worldtheater</a>.
+  online at <a href="https://csumb.edu/worldtheater">csumb.edu/worldtheater</a>.
   Concertgoers can have a pre-show holiday dinner in the Otter Bay Restaurant,
   located next to the theater. A <em>prix fixe</em> menu will be offered for
   $19.95. Dinner reservations can be made by calling the box office. For

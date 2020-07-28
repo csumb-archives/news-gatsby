@@ -14,7 +14,7 @@ slug: become-an-entrepreneur-in-54-hours
 Bay will be a great place to find out when the university hosts
 Startup Weekend Monterey Bay Jan. 23-25.<br>
 <br>
-<img alt="Startup Weekend logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/startup_weekend_0.jpeg" style="width:348px; height:145px; float:left">Startup Weekend
+<img alt="Startup Weekend logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/startup_weekend_0.jpeg" style="width:348px; height:145px; float:left">Startup Weekend
 will connect local entrepreneurs, developers, designers and startup
 enthusiasts with mentors and resources. Throughout the course of
 this 54-hour event, attendees will share ideas, form teams and
@@ -46,7 +46,7 @@ expertise and give talks on their experiences.<br>
 About 70 people participated in CSUMB&#x2019;s Startup Weekend in 2014.
 With the help of 18 coaches and five judges, 10 companies were
 formed over the weekend.</br></br></br></br></p>
-<p>The event is organized by the College of Business&#x2019; <a href="http://innovation.csumb.edu" rel="nofollow">Institute for
+<p>The event is organized by the College of Business&#x2019; <a href="https://innovation.csumb.edu" rel="nofollow">Institute for
 Innovation and Economic Development.</a> The institute focuses on
 the need for more job opportunities in the region and offers
 programs that work toward developing entrepreneurs and supporting
@@ -56,26 +56,26 @@ Participants must purchase a ticket prior to the event. Tickets are
 currently on sale as Early Bird discounted prices of $75 and $39
 for students. Tickets will increase to $99 and $49 after Jan. 3.
 Each ticket includes registration, meals for the weekend, snacks
-and parking. <a href="http://www.up.co/communities/usa/monterey-bay/startup-weekend/4824" rel="nofollow">Register here</a>.<br>
+and parking. <a href="https://www.up.co/communities/usa/monterey-bay/startup-weekend/4824" rel="nofollow">Register here</a>.<br>
 <br>
 The public is invited to attend the final team presentations and
 judging, and to meet these new entrepreneurs starting at 4 p.m.,
-Sunday, Jan. 25. Tickets are $25 and include dinner. <a href="http://www.up.co/communities/usa/monterey-bay/startup-weekend/4824" rel="nofollow">Register here</a>.<br>
+Sunday, Jan. 25. Tickets are $25 and include dinner. <a href="https://www.up.co/communities/usa/monterey-bay/startup-weekend/4824" rel="nofollow">Register here</a>.<br>
 <br>
 For more information, contact Program Manager Mary Jo Zenk at (831)
 582-3230 or <a href="mailto:mzenk@csumb.edu">mzenk@csumb.edu</a> or
-<a href="http://www.up.co/communities/usa/monterey-bay/" rel="nofollow">online</a>.&#xA0;</br></br></br></br></br></br></p>
+<a href="https://www.up.co/communities/usa/monterey-bay/" rel="nofollow">online</a>.&#xA0;</br></br></br></br></br></br></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">
 <div class="field-items">
 <div class="field-item odd">
-<div class="emvideo emvideo-video emvideo-vimeo"><object type="application/x-shockwave-flash" width="425" height="350" data="http://www.vimeo.com/moogaloop.swf?clip_id=28872840&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=">
+<div class="emvideo emvideo-video emvideo-vimeo"><object type="application/x-shockwave-flash" width="425" height="350" data="https://www.vimeo.com/moogaloop.swf?clip_id=28872840&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=">
 <param name="quality" value="best">
 <param name="wmode" value="transparent">
 <param name="allowfullscreen" value="true">
 <param name="scale" value="showAll">
-<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=28872840&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color="/></param></param></param></param></object></div>
+<param name="movie" value="https://www.vimeo.com/moogaloop.swf?clip_id=28872840&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color="/></param></param></param></param></object></div>
 </div>
 </div>
 </div>

@@ -13,7 +13,7 @@ slug: alumna-honored-with-teaching-award
 School in Greenfield, has been honored for her work in the
 classroom.<br>
 <br>
-<img alt="Miriam Lopez with news anchor Dan Green" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/miriam_lopez.png" style="width:400px; height:232px; float:left">Lopez, who earned a
+<img alt="Miriam Lopez with news anchor Dan Green" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/miriam_lopez.png" style="width:400px; height:232px; float:left">Lopez, who earned a
 teaching credential from CSU Monterey Bay and is currently enrolled
 in the university&#x2019;s master of arts in education program, was given
 the Crystal Apple Award by television station KSBW.<br>
@@ -28,7 +28,7 @@ been able to learn and apply the best techniques from the great
 teachers around her,&#x201D; Green told the viewers. &#x201C;The kids have really
 responded.&#x201D;<br>
 <br>
-<a href="http://www.ksbw.com/news/central-california/salinas/Greenfield-teacher-honored-with-Crystal-Apple-Award/25026738" rel="nofollow">Watch the segment here.</a><br>
+<a href="https://www.ksbw.com/news/central-california/salinas/Greenfield-teacher-honored-with-Crystal-Apple-Award/25026738" rel="nofollow">Watch the segment here.</a><br>
 &#xA0;</br></br></br></br></br></br></br></img></br></br></p>
 <p><br>
 &#xA0;</br></p>

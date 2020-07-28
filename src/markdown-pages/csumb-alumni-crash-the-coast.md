@@ -64,8 +64,8 @@ date: January 01 2020
 </p>
 <p>
   More information is available, including a
-  <a href="http://tower11films.com/">blog</a> and
-  <a href="http://www.facebook.com/crashthecoast.">Facebook</a> page.
+  <a href="https://tower11films.com/">blog</a> and
+  <a href="https://www.facebook.com/crashthecoast.">Facebook</a> page.
 </p>
 <p>
   Learn more about the university's

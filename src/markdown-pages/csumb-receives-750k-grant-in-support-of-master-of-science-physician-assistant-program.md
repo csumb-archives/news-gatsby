@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   SEASIDE, Ca., April 24, 2018 – California State University, Monterey Bay
   (CSUMB) has received a $750,000 workforce development grant from
-  <a href="http://www.ccah-alliance.org"
+  <a href="https://www.ccah-alliance.org"
     >Central California Alliance for Health</a
   >
   to support CSUMB’s new Master of Science Physician Assistant (MSPA) program.

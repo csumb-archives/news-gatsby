@@ -24,7 +24,7 @@ date: January 01 2020
   designed for those working in the areas of teaching, instructional design and
   training. Classes start Sept. 2. Two courses will be offered during each
   eight-week session over the 16 months of study. Find more information
-  <a href="http://www.calstateonline.com/cso/home/montereyBayMIST">here</a>.
+  <a href="https://www.calstateonline.com/cso/home/montereyBayMIST">here</a>.
 </p>
 <p>
   <strong
@@ -40,12 +40,12 @@ date: January 01 2020
   technology management such as chief technology officers and high-tech
   entrepreneurs. Classes start Sept. 2. One course will be offered during each
   eight-week session over the 20 months of study. Find more information
-  <a href="http://www.calstateonline.com/cso/home/montereyBayMSMIT">here</a>.
+  <a href="https://www.calstateonline.com/cso/home/montereyBayMSMIT">here</a>.
 </p>
 <p>
   Applications are now being accepted for both programs. Students can apply to
   these and a variety of other bachelor’s and master’s program
-  <a href="http://www.calstateonline.com">online</a>.
+  <a href="https://www.calstateonline.com">online</a>.
 </p>
 <p>
   Cal State Online offers students the ability to learn on their time, from
@@ -59,7 +59,7 @@ date: January 01 2020
 </p>
 <p>
   For more information, visit the
-  <a href="http://www.calstateonline.net">website</a> or call 1-800-247-5268 to
+  <a href="https://www.calstateonline.net">website</a> or call 1-800-247-5268 to
   speak with a Cal State Online coach.
 </p>
 <p>The university has offered an online MBA program since 2008.</p>

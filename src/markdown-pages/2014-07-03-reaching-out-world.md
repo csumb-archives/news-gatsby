@@ -13,7 +13,7 @@ slug: reaching-out-to-the-world
 Coast. About 100 students from other nations attend CSUMB each year
 for a semester or two, and at least that many CSUMB students travel
 abroad.</p>
-<p><img alt="Dr. Jyh-tong Teng and President Eduardo Ochoa " src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/cycu_photo_for_web.jpg" style="float:left; width:300px; height:279px">In addition, dozens
+<p><img alt="Dr. Jyh-tong Teng and President Eduardo Ochoa " src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/cycu_photo_for_web.jpg" style="float:left; width:300px; height:279px">In addition, dozens
 of international students come to campus each year to study English
 through an intensive American language and culture program.<br>
 <br>
@@ -35,7 +35,7 @@ Higher Education rankings of universities in Asia lists it among
 the top 100 schools, based on teaching, research, knowledge
 transfer and international outlook.<br>
 <br>
-<a href="http://international.csumb.edu" rel="nofollow">Learn more
+<a href="https://international.csumb.edu" rel="nofollow">Learn more
 about international programs at CSUMB</a>.</br></br></br></br></br></br></br></br></br></br></img></p>
 <p class="small"><em>Photo: Dr. Jyh-tong Teng of Chung Yuan
 Christian University and CSUMB President Eduardo Ochoa at a

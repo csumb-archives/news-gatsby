@@ -58,7 +58,7 @@ date: January 01 2020
 <p>
   The New York Times article can be found
   <a
-    href="http://well.blogs.nytimes.com/2011/07/01/what-cellphone-calls-say-about-parent-teenager-relations/#more-54921"
+    href="https://well.blogs.nytimes.com/2011/07/01/what-cellphone-calls-say-about-parent-teenager-relations/#more-54921"
     >here</a
   >.
 </p>

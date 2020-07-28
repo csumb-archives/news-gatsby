@@ -15,7 +15,7 @@ topic of economic inequality and its impact on democracy. CSU
 Monterey Bay, which has long been a leader in the area of service
 learning in higher education, is one of 31 institutions
 participating in the effort.</p>
-<p><img alt="AASCU logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/aascu.png" style="float:right; width:336px; height:64px">&#x201C;AASCU is excited
+<p><img alt="AASCU logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/aascu.png" style="float:right; width:336px; height:64px">&#x201C;AASCU is excited
 to assemble this group of two- and four-year institutions that
 together will examine and address the growing economic inequality
 in this county, a trend that poses a serious threat to our
@@ -25,7 +25,7 @@ leadership and change.</img></p>
 Learning Institute, Cal State Monterey Bay plans to strengthen its
 100-plus service learning courses and curriculum so they are more
 effective in helping students think about and address issues of
-economic inequality; develop new&#xA0;<img alt="Dr. Manuel Pastor" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/manuel_pastor_for_website.jpg" style="float:left; width:250px; height:259px">partnerships with
+economic inequality; develop new&#xA0;<img alt="Dr. Manuel Pastor" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/manuel_pastor_for_website.jpg" style="float:left; width:250px; height:259px">partnerships with
 community organizations to enhance student involvement with local
 economic development initiatives; and work together with Hartnell
 and Monterey Peninsula colleges to develop a dialogue about issues

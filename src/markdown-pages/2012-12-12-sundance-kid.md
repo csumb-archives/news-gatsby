@@ -14,7 +14,7 @@ slug: sundance-kid
 the Teledramatic Arts and Technology program at CSU Monterey Bay on
 the stage of the most prestigious film festival in the United
 States.</p>
-<p><img alt="Robert Machoian, a 2007 graduate of CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/robert_machoian.jpg" style="float:left; width:250px; height:378px">Robert Machoian
+<p><img alt="Robert Machoian, a 2007 graduate of CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/robert_machoian.jpg" style="float:left; width:250px; height:378px">Robert Machoian
 will have two entries screened as part of the narrative short films
 program at the Sundance Film Festival in Park City, Utah, Jan.
 17-27.</img></p>
@@ -70,8 +70,8 @@ because in time we may be working on projects together or in search
 of someone to do a project with.</p>
 <p>&#x201C;And the people you meet at Sundance are the people you should
 seriously consider working with,&#x201D; he said.</p>
-<p>For more information, visit the <a href="http://www.sundance.org/festival/release/2013-sundance-film-festival-announces-short-film-program/" rel="nofollow">festival website</a>.</p>
-<p><a href="http://csumb.edu/tat" rel="nofollow">Learn more about
+<p>For more information, visit the <a href="https://www.sundance.org/festival/release/2013-sundance-film-festival-announces-short-film-program/" rel="nofollow">festival website</a>.</p>
+<p><a href="https://csumb.edu/tat" rel="nofollow">Learn more about
 the Teledramatic Arts and Technology Department at CSUMB.</a></p>
 
 

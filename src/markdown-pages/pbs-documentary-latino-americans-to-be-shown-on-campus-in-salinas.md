@@ -19,7 +19,7 @@ date: January 01 2020
   American Library Association will fund screenings of the six&#45;part
   documentary,
   <em
-    ><a href="http://www.pbs.org/latino&#45;americans/en/"
+    ><a href="https://www.pbs.org/latino&#45;americans/en/"
       >Latino Americans</a
     ></em
   >, created for PBS in 2013. Programs, lectures and performances will accompany

@@ -55,10 +55,10 @@ date: January 01 2020
 </p>
 <p>
   Learn more about the Teledramatic Arts and Technology Department
-  <a href="http://csumb.edu/tat">here</a>.
+  <a href="https://csumb.edu/tat">here</a>.
 </p>
 <p>
   Learn more about the TAT Capstone Festival
-  <a href="http://tat.csumb.edu/capstone">here</a>.
+  <a href="https://tat.csumb.edu/capstone">here</a>.
 </p>
 ```

@@ -57,12 +57,12 @@ date: January 01 2020
 </p>
 <p>
   To reserve a seat, click
-  <a href="http://rsvp.csumb.edu/index.php?eid=69">here</a>.
+  <a href="https://rsvp.csumb.edu/index.php?eid=69">here</a>.
 </p>
 <p>
   The World Theater is located on Sixth Avenue on the CSU Monterey Bay campus.
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   <em

@@ -8,7 +8,7 @@ date: January 01 2020
 <h2>Student evaluations the best they've ever been</h2>
 <p>
   <em
-    ><a href="http://blogs.calstate.edu/voicesviews/?p=1510"
+    ><a href="https://blogs.calstate.edu/voicesviews/?p=1510"
       >View a photo blog of Summer Arts</a
     ></em
   >
@@ -47,7 +47,7 @@ date: January 01 2020
   Sharp, putting it "where we expected it to be,” she said.
 </p>
 <p>
-  <a href="http://www.csusummerarts.org/courses2013/"
+  <a href="https://www.csusummerarts.org/courses2013/"
     >Next summer’s schedule is available here.</a
   >
 </p>

@@ -51,7 +51,7 @@ date: January 01 2020
 </p>
 <p>
   Click here for more information or to download a<a
-    href="http://www.unitedwaymcca.org/Free_Tax%3Ci%3EAssistance%3C/i%3EProgram.php"
+    href="https://www.unitedwaymcca.org/Free_Tax%3Ci%3EAssistance%3C/i%3EProgram.php"
     >flyer listing the Monterey County locations</a
   >, or call 211.
 </p>

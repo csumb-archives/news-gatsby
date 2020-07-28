@@ -43,7 +43,7 @@ date: January 01 2020
   dominated by ice plant. So many of the newly planted natives are doing well
   even during such a dry year; this is what is supposed to be growing here.”
   <em
-    ><a href="http://fmp.csumb.edu/campus-planning-development"
+    ><a href="https://fmp.csumb.edu/campus-planning-development"
       >Learn more about Campus Planning and Development and read the master
       plan</a
     ></em

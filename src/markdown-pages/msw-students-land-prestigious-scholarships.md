@@ -84,7 +84,7 @@ date: January 01 2020
   and Families. Students must also complete an internship of 1,000 hours, 250
   hours per semester starting in the second year. They will spend an academic
   year in each of their internship placements.
-  <a href="http://csumb.edu/msw">Learn more about the MSW program.</a>
+  <a href="https://csumb.edu/msw">Learn more about the MSW program.</a>
 </p>
 <p></p>
 <p></p>

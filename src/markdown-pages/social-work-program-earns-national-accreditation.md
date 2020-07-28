@@ -53,7 +53,7 @@ date: January 01 2020
   complete 16 hours a week of field experience during the second and third years
   of study.
 </p>
-<p>Learn more about the program <a href="http://msw.csumb.edu">here</a>.</p>
+<p>Learn more about the program <a href="https://msw.csumb.edu">here</a>.</p>
 <p></p>
 <p></p>
 <p></p>

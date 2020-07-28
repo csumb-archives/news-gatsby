@@ -9,9 +9,9 @@ slug: csumb-makes-magazine-list-of-top-schools
 
 
 <span class="date">Posted on Aug 28, 2014    </span>
-<p>CSU Monterey Bay fared well in the annual <a href="http://www.washingtonmonthly.com/college_guide/" rel="nofollow">College Guide and Rankings</a> released Aug. 25 by
+<p>CSU Monterey Bay fared well in the annual <a href="https://www.washingtonmonthly.com/college_guide/" rel="nofollow">College Guide and Rankings</a> released Aug. 25 by
 Washington Monthly magazine.</p>
-<p><img alt="Washington Monthly cover" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/washington_monthly_cover.png" style="width:125px; float:left; height:159px">The nonprofit
+<p><img alt="Washington Monthly cover" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/washington_monthly_cover.png" style="width:125px; float:left; height:159px">The nonprofit
 magazine measures schools based on how well they enroll and
 graduate low-income students, support research, and encourage
 students&#x2019; public service. Among the factors it uses are the
@@ -20,7 +20,7 @@ low-income students; the net price of attendance after financial
 aid; the numbers of students who join the Peace Corps; and faculty
 awards for research.<br>
 <br>
-CSUMB was rated in the top 15 percent of schools in the <a href="http://www.washingtonmonthly.com/college_guide/rankings-2014/masters-universities-rank.php" rel="nofollow">master&#x2019;s universities category</a>. According to the
+CSUMB was rated in the top 15 percent of schools in the <a href="https://www.washingtonmonthly.com/college_guide/rankings-2014/masters-universities-rank.php" rel="nofollow">master&#x2019;s universities category</a>. According to the
 magazine, 42 percent of CSUMB students receive Pell grants; the net
 cost is $8,918; and 39 percent of students graduate after six
 years.</br></br></img></p>

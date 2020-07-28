@@ -65,11 +65,11 @@ date: January 01 2020
 </p>
 <p>
   To learn more about the master’s program in Applied Marine and Watershed
-  Science, click <a href="http://sep.csumb.edu/amws/">here</a>.
+  Science, click <a href="https://sep.csumb.edu/amws/">here</a>.
 </p>
 <p>
   To learn more about the Institute for Applied Marine Ecology, click
-  <a href="http://sep.csumb.edu/ifame/">here</a>.
+  <a href="https://sep.csumb.edu/ifame/">here</a>.
 </p>
 <p></p>
 <p></p>

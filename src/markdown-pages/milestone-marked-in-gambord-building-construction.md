@@ -21,7 +21,7 @@ date: January 01 2020
   contained on site; water conserving plumbing fixtures will be used; and
   heat-producing direct sunlight kept to a minimum with the exterior screen
   wall. The building has been designed to LEED Gold standards.
-  <a href="http://media.csumb.edu/bitcam/">View the construction site webcam</a>
+  <a href="https://media.csumb.edu/bitcam/">View the construction site webcam</a>
 </p>
 <p>
   <em

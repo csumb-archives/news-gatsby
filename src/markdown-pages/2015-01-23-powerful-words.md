@@ -12,7 +12,7 @@ slug: powerful-words
 <h3>Monologues tell women&apos;s stories</h3>
 <p>The Vagina Monologues returns to CSU Monterey Bay Feb.12, 13 and
 14.</p>
-<p><img alt="Event flier" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/vm_15_poster_for_web.jpg" style="width:350px; height:506px; float:right">The play has
+<p><img alt="Event flier" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/vm_15_poster_for_web.jpg" style="width:350px; height:506px; float:right">The play has
 received rave reviews in San Francisco, Los Angeles and New York.
 Written by Eve Ensler, the Vagina Monologues tells the stories of a
 variety of women, their connections with each other and with the
@@ -58,7 +58,7 @@ machine on the parking lot<br>
 Herrera-Keehn, <a href="mailto:mherrera-keehn@csumb.edu">mherrera-keehn@csumb.edu</a><br>
 
 <br>
-<strong>Driving directions/campus map</strong>: Available <a href="http://csumb.edu/maps" rel="nofollow">here</a>&#xA0;</br></br></br></br></br></br></br></br></br></br></br></br></p>
+<strong>Driving directions/campus map</strong>: Available <a href="https://csumb.edu/maps" rel="nofollow">here</a>&#xA0;</br></br></br></br></br></br></br></br></br></br></br></br></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">
@@ -67,8 +67,8 @@ Herrera-Keehn, <a href="mailto:mherrera-keehn@csumb.edu">mherrera-keehn@csumb.ed
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/wGQMiVaE5J8&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/wGQMiVaE5J8&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/wGQMiVaE5J8&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/wGQMiVaE5J8&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -79,7 +79,7 @@ Herrera-Keehn, <a href="mailto:mherrera-keehn@csumb.edu">mherrera-keehn@csumb.ed
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r7---sn-o097znee.googlevideo.com/videoplayback?ms=au&amp;upn=_suMQlvTF-w&amp;mv=m&amp;source=youtube&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;id=o-AFXapiO9FEW1VnTZjuQQjSm7BwbSYe1znN-KesVAceNW&amp;initcwndbps=4356250&amp;mt=1422315984&amp;signature=45EB0FE23AC646D4B68FD74D775839CB50BF962B.5A5B60C24A20ECD8BD65AF78B5665571FF7099A7&amp;ratebypass=yes&amp;sver=3&amp;key=yt5&amp;expire=1422337630&amp;pl=23&amp;itag=18&amp;dur=287.880&amp;ipbits=0&amp;mm=31&amp;ip=198.189.249.65&amp;name=wGQMiVaE5J8" type="video/mp4"/></video></div>
+<source src="https://r7---sn-o097znee.googlevideo.com/videoplayback?ms=au&amp;upn=_suMQlvTF-w&amp;mv=m&amp;source=youtube&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;id=o-AFXapiO9FEW1VnTZjuQQjSm7BwbSYe1znN-KesVAceNW&amp;initcwndbps=4356250&amp;mt=1422315984&amp;signature=45EB0FE23AC646D4B68FD74D775839CB50BF962B.5A5B60C24A20ECD8BD65AF78B5665571FF7099A7&amp;ratebypass=yes&amp;sver=3&amp;key=yt5&amp;expire=1422337630&amp;pl=23&amp;itag=18&amp;dur=287.880&amp;ipbits=0&amp;mm=31&amp;ip=198.189.249.65&amp;name=wGQMiVaE5J8" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

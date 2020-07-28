@@ -30,7 +30,7 @@ date: January 01 2020
 <p>
   To receive email notices of upcoming clinics, youngsters can sign up for the
   Otter Pups Kids Club at
-  <a href="http://www.otterathletics.com" title="www.otterathletics.com"
+  <a href="https://www.otterathletics.com" title="www.otterathletics.com"
     >www.otterathletics.com</a
   >.
 </p>

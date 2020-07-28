@@ -41,7 +41,7 @@ residents and community leaders who donated $2.5 million toward the
 cost of construction.<br>
 <br>
 For more information about the awards, visit the CMACN website at
-<a href="http://www.cmacn.org/" rel="nofollow">http://www.cmacn.org</a>.</br></br></br></br></br></br></br></br></br></br></br></br></p>
+<a href="https://www.cmacn.org/" rel="nofollow">https://www.cmacn.org</a>.</br></br></br></br></br></br></br></br></br></br></br></br></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">

@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>
   CSUMB’s<a
-    href="http://news.csumb.edu/news/2013/may/18/thousands-celebrate-commencement"
+    href="https://news.csumb.edu/news/2013/may/18/thousands-celebrate-commencement"
   >
     Class of 2013 marked its graduation </a
   >on Twitter, Instagram and Vine during commencement ceremonies on May 18.

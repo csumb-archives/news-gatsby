@@ -12,21 +12,21 @@ slug: kazu-earns-two-murrow-awards
   Awards for excellence in electronic journalism. The awards are given by the
   Radio, Television, Digital News Association.<img
     alt="Murrow Awards logo"
-    src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/murrow_award_2014.jpg"
+    src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/murrow_award_2014.jpg"
     style="width:280px; height:233px; float:right"
   />
 </p>
 <p>She took the top awards for:</p>
 <p>
   &#x2022; Hard news reporting for her story &#x201C;<a
-    href="http://kazu.org/post/labor-shortage-hastens-push-immigration-reform"
+    href="https://kazu.org/post/labor-shortage-hastens-push-immigration-reform"
     rel="nofollow"
     >Labor Shortage Hastens Push for Immigration Reform</a
   >&#x201D; that aired last July
 </p>
 <p>
   &#x2022; Use of sound for her story &#x201C;<a
-    href="http://kazu.org/post/salinas-playground-designed-bring-kids-all-abilities-together"
+    href="https://kazu.org/post/salinas-playground-designed-bring-kids-all-abilities-together"
     rel="nofollow"
     >Salinas Playground Designed to Bring Kids of All Abilities Together</a
   >&#x201D; that aired in September
@@ -37,7 +37,7 @@ slug: kazu-earns-two-murrow-awards
   California, Hawaii, Nevada and Guam. It has won Murrow Awards every year since
   2010.&#xA0;<img
     alt="Krista Almanzan"
-    src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/almanzan.krista.jpg"
+    src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/almanzan.krista.jpg"
     style="width:236px; height:310px; float:left"
   />
 </p>
@@ -51,7 +51,7 @@ slug: kazu-earns-two-murrow-awards
   Considered.
 </p>
 <p>
-  <a href="http://kazu.org" rel="nofollow">KAZU 90.3 FM</a> &#x2013; NPR for the
+  <a href="https://kazu.org" rel="nofollow">KAZU 90.3 FM</a> &#x2013; NPR for the
   Monterey Bay Area &#x2013; is a community service of California State
   University, Monterey Bay.
 </p>

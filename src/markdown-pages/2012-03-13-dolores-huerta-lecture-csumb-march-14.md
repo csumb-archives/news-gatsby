@@ -10,7 +10,7 @@ slug: dolores-huerta-to-lecture-at-csumb-march-14
 
 <span class="date">Posted on Mar 13, 2012    </span>
 <h3>Visit part of Women&apos;s History Month celebration</h3>
-<p><img alt="Dolores Huerta" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/dolores_huerta.jpg" style="float:right; width:300px; height:200px">In recognition of
+<p><img alt="Dolores Huerta" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/dolores_huerta.jpg" style="float:right; width:300px; height:200px">In recognition of
 Women&#x2019;s History Month, Dolores Huerta will speak at CSU Monterey
 Bay on March 14. The public is invited to this free event,
 scheduled for 7 p.m. in the World Theater.</img></p>
@@ -35,9 +35,9 @@ workers.</p>
 won numerous awards, including the Eleanor Roosevelt Human Rights
 Award in 1998, and was inducted into the National Women&#x2019;s Hall of
 Fame in 1993.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here.</a> For more
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here.</a> For more
 information, contact Tim Bills at 582-4645.</p>
-<p><img alt="flyer for Dolores Huerta visit March 14" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/huerta_lettersize.jpg" style="float:left; width:600px; height:464px"/></p>
+<p><img alt="flyer for Dolores Huerta visit March 14" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/huerta_lettersize.jpg" style="float:left; width:600px; height:464px"/></p>
 
 
 

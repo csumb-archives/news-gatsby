@@ -76,6 +76,6 @@ date: January 01 2020
 </p>
 <p>
   For more information on One Day Without Shoes, click
-  <a href="http://www.onedaywithoutshoes.com">here</a>.
+  <a href="https://www.onedaywithoutshoes.com">here</a>.
 </p>
 ```

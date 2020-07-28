@@ -13,7 +13,7 @@ slug: hiramoto-named-vp-for-advancement
 Harrison has announced the appointment of Dr. Patti Hiramoto as
 Vice President for University Advancement.<br>
 <br>
-<img alt="Patti Hiramoto" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/hiramoto_image_small.jpg" style="float:left; width:300px; height:292px">After serving as
+<img alt="Patti Hiramoto" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/hiramoto_image_small.jpg" style="float:left; width:300px; height:292px">After serving as
 President Harrison&#x2019;s Chief of Staff since 2009, Dr. Hiramoto will
 lead CSU Monterey Bay&#x2019;s Division of University Advancement, which
 encompasses development, communications, and external and

@@ -31,12 +31,12 @@ date: January 01 2020
   The clinic runs from 9 to 11 a.m. at the Otter Soccer Complex. Registration is
   required and can be completed
   <a
-    href="http://www.otterathletics.com/sports/2011/8/1/OtterPups_FreeClinics.aspx?id=249"
+    href="https://www.otterathletics.com/sports/2011/8/1/OtterPups_FreeClinics.aspx?id=249"
     >here</a
   >.
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 ```

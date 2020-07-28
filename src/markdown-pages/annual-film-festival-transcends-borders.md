@@ -22,7 +22,7 @@ date: January 01 2020
   A question-and-answer session with the director (pictured at left) will follow
   the screening. General admission tickets are $10; $5 for students and
   military.
-  <a href="http://montereybayfilmfestival.com"
+  <a href="https://montereybayfilmfestival.com"
     >Tickets may be purchased online</a
   >.
 </p>
@@ -42,7 +42,7 @@ date: January 01 2020
   7:30 p.m. showing of “Miss Bala,” followed by a question-and-answer session
   with the director, Gerardo Naranjo (pictured at right). General admission
   tickets are $10; $5 for students and military, and
-  <a href="http://montereybayfilmfestival.com">may be purchased online</a>.
+  <a href="https://montereybayfilmfestival.com">may be purchased online</a>.
 </p>
 <p>
   “Miss Bala" – bala means bullet – takes viewers to the front lines of Mexico's
@@ -56,7 +56,7 @@ date: January 01 2020
   promotes short films and makes them available by subscription. The screening
   will get under way at 3 p.m. at the Museum of Monterey. General admission
   tickets are $10; $5 for students and military.
-  <a href="http://montereybayfilmfestival.com">Buy tickets online</a>.
+  <a href="https://montereybayfilmfestival.com">Buy tickets online</a>.
 </p>
 <p>
   The Monterey Bay Film Society is the Central Coast’s premiere organization for
@@ -77,14 +77,14 @@ date: January 01 2020
 <p>
   The World Theater is located on Sixth Avenue near the intersection with A
   Street. Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   For information on the festival, call Jennifer Benge at (831) 582-3743 or
-  <a href="http://www.montereybayfilmsociety.org/events.html">visit the web</a>.
+  <a href="https://www.montereybayfilmsociety.org/events.html">visit the web</a>.
 </p>
 <p>
-  <a href="http://csumb.edu/tat"
+  <a href="https://csumb.edu/tat"
     >Learn more about CSUMB’s Teledramatic Arts and Technology Department.</a
   >
 </p>
@@ -94,7 +94,7 @@ date: January 01 2020
   Oversimplification of Her Beauty” followed by question-and-answer session with
   filmmaker Terence Nance. CSUMB’s World Theater, Sixth Avenue near A Street,
   $10 general admission, $5 for students/military.
-  <a href="http://www.brownpapertickets.com/event/269684"
+  <a href="https://www.brownpapertickets.com/event/269684"
     >Tickets can be purchased online</a
   >
   or by calling Brown Paper Tickets at 1-800-838-3006.

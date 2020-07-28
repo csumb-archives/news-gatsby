@@ -13,7 +13,7 @@ slug: student-wins-film-scholarship
 <p>Dominic Parisi is this year&#x2019;s recipient of the $1,000 prize in
 the Monterey County Film Commission&#x2019;s Film Student Scholarship and
 Awards Program.</p>
-<p><img alt="Dominic Parisi works on a film project" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/dominic_sm.jpg" style="float:right; width:350px; height:283px">Parisi, who will
+<p><img alt="Dominic Parisi works on a film project" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/dominic_sm.jpg" style="float:right; width:350px; height:283px">Parisi, who will
 be a senior in the Teledramatic Arts and Technology Department, is
 from Glendora. He plans to use the grant to help with expenses for
 his capstone film, a documentary that looks at women who

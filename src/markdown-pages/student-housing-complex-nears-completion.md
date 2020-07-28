@@ -48,7 +48,7 @@ date: January 01 2020
 <p>
   •
   <a
-    href="http://www.montereycountyweekly.com/news/local_news/new&#45;student&#45;housing&#45;at&#45;csumb&#45;replaces&#45;blight&#45;and&#45;makes&#45;a/article_aa7f4254&#45;eece&#45;11e4&#45;9cc0&#45;3b7a63333e32.html"
+    href="https://www.montereycountyweekly.com/news/local_news/new&#45;student&#45;housing&#45;at&#45;csumb&#45;replaces&#45;blight&#45;and&#45;makes&#45;a/article_aa7f4254&#45;eece&#45;11e4&#45;9cc0&#45;3b7a63333e32.html"
     >Monterey County Weekly</a
   >
   story from April 30, 2015
@@ -56,7 +56,7 @@ date: January 01 2020
 <p>
   •
   <a
-    href="http://www.montereyherald.com/ci_23590055/marina&#45;approves&#45;csu&#45;monterey&#45;bay&#45;dorm&#45;complex"
+    href="https://www.montereyherald.com/ci_23590055/marina&#45;approves&#45;csu&#45;monterey&#45;bay&#45;dorm&#45;complex"
     >Monterey Herald</a
   >
   story from July 2, 2013

@@ -39,7 +39,7 @@ date: January 01 2020
   beating out 450 other schools. CSU Chico was second best in the state last
   year and seventh in the nation. The competition ends March 27; results will be
   published in April at
-  <a href="http://news/students-work-make-university-green.org/"
+  <a href="https://news/students-work-make-university-green.org/"
     >news/students-work-make-university-green.org</a
   >.
 </p>

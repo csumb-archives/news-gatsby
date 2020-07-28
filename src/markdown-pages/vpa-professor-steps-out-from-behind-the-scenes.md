@@ -48,16 +48,16 @@ date: January 01 2020
   Fine Arts in Houston, among other venues. She has had one-person shows at the
   Center for African American Life and Culture and the African American
   Historical Society, both in San Francisco.
-  <a href="http://www.lightessencedesign.com"
+  <a href="https://www.lightessencedesign.com"
     >Visit Professor Johnson's website</a
   >
 </p>
 <p>
-  <a href="http://csumb.edu/art"
+  <a href="https://csumb.edu/art"
     >Learn about the Visual and Public Art Department at CSUMB</a
   >
-  <a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights">R</a>
-  <a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2013/jan/31/faculty-highlights">R</a>
+  <a href="https://news.csumb.edu/news/2013/jan/31/faculty-highlights"
     >ead more faculty highlights</a
   >
 </p>

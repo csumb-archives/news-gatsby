@@ -79,7 +79,7 @@ date: January 01 2020
   who demonstrate an exceptional commitment to the community. Nominations are
   rated by a team of reviewers from the local AFP and DEN chapters, business
   leaders and leaders of private foundations. For more information, click
-  <a href="http://www.centralcoastnpd.org">here.</a>
+  <a href="https://www.centralcoastnpd.org">here.</a>
   <strong>Also being honored at the luncheon:</strong> • Outstanding
   Philanthropic Foundation: ST.A.R. Foundation of Monterey County
 </p>

@@ -18,7 +18,7 @@ architectural ruin with layers of murals and traces of their lives.
 Planet Ord explores the contemporary experience and historical
 echoes of their abandoned city, relating it to the many lost places
 in contemporary America.&#xA0;</p>
-<p><img alt="One of the panels on display at Planet Ord exhibit" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/tumblr_inline_n1is66ptcw1qmabjg.jpg" style="width:350px; height:356px; float:left">This multi-media
+<p><img alt="One of the panels on display at Planet Ord exhibit" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/tumblr_inline_n1is66ptcw1qmabjg.jpg" style="width:350px; height:356px; float:left">This multi-media
 exhibition at the Santa Cruz Museum of Art and History is guest
 curated by Enid Baxter Ryce, who reveals the artwork and stories
 within this ever-changing icon of Monterey County. Partnering with
@@ -48,12 +48,12 @@ curator for the exhibit, 5:30 p.m.</p>
 a.m.</p>
 <p>Related links:<br>
 <br>
-<a href="http://www.santacruzmah.org/event/free-first-friday-15/" rel="nofollow">Exhibit opening</a><br>
+<a href="https://www.santacruzmah.org/event/free-first-friday-15/" rel="nofollow">Exhibit opening</a><br>
 <br>
-<a href="http://www.santacruzmah.org/2014/planet-ord-april-4-june-22/" rel="nofollow">Exhibition</a></br></br></br></br></p>
-<p><a href="http://enidbb.tumblr.com" rel="nofollow">Professor
+<a href="https://www.santacruzmah.org/2014/planet-ord-april-4-june-22/" rel="nofollow">Exhibition</a></br></br></br></br></p>
+<p><a href="https://enidbb.tumblr.com" rel="nofollow">Professor
 Ryce&apos;s tumblr previewing images for the show</a></p>
-<p><a href="http://planetord.com" rel="nofollow">Planet
+<p><a href="https://planetord.com" rel="nofollow">Planet
 Ord</a><br>
 <br>
 &#xA0;</br></br></p>
@@ -65,8 +65,8 @@ Ord</a><br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/a9M4E7bGXmA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/a9M4E7bGXmA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/a9M4E7bGXmA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/a9M4E7bGXmA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -77,7 +77,7 @@ Ord</a><br>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r17---sn-o097zne6.googlevideo.com/videoplayback?ratebypass=yes&amp;ipbits=0&amp;key=yt5&amp;ip=198.189.249.65&amp;initcwndbps=4201250&amp;dur=99.033&amp;upn=G7HnDSLEdSM&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;mm=31&amp;source=youtube&amp;id=o-ADGX4dyUFY8tMImyyQirWwIgdy5OCCYoe10mjVxO4Hz0&amp;ms=au&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;mt=1422316728&amp;pl=23&amp;mv=m&amp;sver=3&amp;expire=1422338370&amp;signature=48BC19499A3307C9D3864CB11D552FBAE7FBBD91.4B68B69F1CC04685C71AC400B1E4A4836C4B7873&amp;itag=18&amp;name=a9M4E7bGXmA" type="video/mp4"/></video></div>
+<source src="https://r17---sn-o097zne6.googlevideo.com/videoplayback?ratebypass=yes&amp;ipbits=0&amp;key=yt5&amp;ip=198.189.249.65&amp;initcwndbps=4201250&amp;dur=99.033&amp;upn=G7HnDSLEdSM&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;mm=31&amp;source=youtube&amp;id=o-ADGX4dyUFY8tMImyyQirWwIgdy5OCCYoe10mjVxO4Hz0&amp;ms=au&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;mt=1422316728&amp;pl=23&amp;mv=m&amp;sver=3&amp;expire=1422338370&amp;signature=48BC19499A3307C9D3864CB11D552FBAE7FBBD91.4B68B69F1CC04685C71AC400B1E4A4836C4B7873&amp;itag=18&amp;name=a9M4E7bGXmA" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

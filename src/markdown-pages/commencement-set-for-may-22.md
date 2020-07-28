@@ -62,7 +62,7 @@ date: January 01 2020
 </p>
 <p>
   For more information on commencement, visit the web at
-  <a href="http://csumb.edu/grad">csumb.edu/grad</a>.
+  <a href="https://csumb.edu/grad">csumb.edu/grad</a>.
 </p>
 <p></p>
 <p></p>

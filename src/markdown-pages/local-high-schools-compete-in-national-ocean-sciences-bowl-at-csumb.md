@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   SEASIDE, Ca., February 1, 2018 – Eleven high schools from the Northern and
   Central California region will face off in the regional component of the 21st
-  annual <a href="http://nosb.org/">National Ocean Sciences Bowl</a> (NOSB) at
+  annual <a href="https://nosb.org/">National Ocean Sciences Bowl</a> (NOSB) at
   California State University, Monterey Bay (CSUMB) on Saturday, Feb. 3, 2018.
   The competition, called the
   <a href="https://sealionbowl.org/">Sea Lion Bowl</a> and themed
@@ -19,7 +19,7 @@ date: January 01 2020
 </p>
 <p>
   The NOSB, an interdisciplinary ocean science education program of the
-  <a href="http://oceanleadership.org/">Consortium for Ocean Leadership</a>, is
+  <a href="https://oceanleadership.org/">Consortium for Ocean Leadership</a>, is
   a quiz-bowl style academic competition that tests students’ knowledge of
   ocean-related topics, including cross-disciplines of biology, chemistry,
   policy, physics and geology.

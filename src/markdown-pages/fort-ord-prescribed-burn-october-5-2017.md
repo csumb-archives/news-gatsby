@@ -21,14 +21,14 @@ date: January 01 2020
   Road. Access to the Fort Ord National Monument will be limited to the
   trailheads located off of Highway 68 (Badger Hills and Creekside Terrace
   Trailheads).
-  <a href="http://fortordcleanup.com/programs/blm-area-b/."
+  <a href="https://fortordcleanup.com/programs/blm-area-b/."
     >See access map at Fort Ord Cleanup's page</a
   >.
 </p>
 <p>
   Additional information concerning the Fort Ord Military Munitions
   ResponseProgram and the prescribed burn program is available on the
-  <a href="http://fortordcleanup.com/prescribed-burns/"
+  <a href="https://fortordcleanup.com/prescribed-burns/"
     >Fort OrdEnvironmental Cleanup website.</a
   >
 </p>

@@ -13,7 +13,7 @@ date: January 01 2020
 <p>
   The
   <a
-    href="http://www.csgc.ucsd.edu/EDUCATION/STATEFELLOW/StateFellow_current.html"
+    href="https://www.csgc.ucsd.edu/EDUCATION/STATEFELLOW/StateFellow_current.html"
     >Sea Grant College program</a
   >
   is a part of the National Oceanic and Atmospheric Administration

@@ -15,7 +15,7 @@ regulations</h3>
 diesel-powered trucks, including those used to transport farm
 products.<br>
 <br>
-<img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/truck.jpg" style="float:left; width:220px; height:156px">Implemented by the
+<img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/truck.jpg" style="float:left; width:220px; height:156px">Implemented by the
 California Air Resources Board (CARB), these regulations will
 require significant and expensive replacing or retrofitting of
 older engines to bring trucks into compliance.</img></br></br></p>
@@ -48,7 +48,7 @@ Control District, Reiter Affiliated Companies, Business and
 Entreprensurship Center at Cabrillo College, Youth Entrepreneurship
 Program, and the Small Business Development Center (SBDC) Northern
 Regional Network.</br></br></p>
-<p><a href="http://csumb.edu/maps" rel="nofollow">Driving
+<p><a href="https://csumb.edu/maps" rel="nofollow">Driving
 directions and a campus map</a><br>
 &#xA0;</br></p>
 

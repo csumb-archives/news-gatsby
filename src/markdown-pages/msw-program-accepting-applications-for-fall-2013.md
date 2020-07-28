@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   Anyone interested in the Master of Social Work program at CSU Monterey Bay is
   encouraged to
-  <a href="http://msw.csumb.edu/">visit the program’s website</a> and consider
+  <a href="https://msw.csumb.edu/">visit the program’s website</a> and consider
   applying in time to be considered in March. The general application period is
   March 1 through April 30.
 </p>
@@ -31,6 +31,6 @@ date: January 01 2020
     >vorgel@csumb.edu</a
   >
   or 831-582-5315. Admission requirements and application materials are
-  available <a href="http://msw.csumb.edu/">online</a>.??
+  available <a href="https://msw.csumb.edu/">online</a>.??
 </p>
 ```

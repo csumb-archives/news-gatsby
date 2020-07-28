@@ -32,7 +32,7 @@ partnerships and measurable outcomes as a result of the
 service.</p>
 <p class="pullquote"><br>
 Salinas Public Library and f&#xFA;tbol &#x2013; an inspiring match helped along
-by Service Learners. <a href="http://service.csumb.edu/sites/default/files/101/attachments/files/sp_12_reflections.pdf" rel="nofollow">Read about it here</a></br></p>
+by Service Learners. <a href="https://service.csumb.edu/sites/default/files/101/attachments/files/sp_12_reflections.pdf" rel="nofollow">Read about it here</a></br></p>
 <p>CSUMB is the only public university in California, and one of
 the few nationally, where service learning is a requirement for all
 students. Each year, nearly 50 percent of CSUMB&#x2019;s students enroll
@@ -58,7 +58,7 @@ to which service-learning is embedded in the curriculum, the
 school&#x2019;s commitment to long-term campus-community partnerships, and
 measurable community outcomes as a result of the service.<br>
 <br>
-<a href="http://service.csumb.edu/" rel="nofollow">Learn more about
+<a href="https://service.csumb.edu/" rel="nofollow">Learn more about
 the Service Learning Institute at CSUMB</a>.</br></br></p>
 
 

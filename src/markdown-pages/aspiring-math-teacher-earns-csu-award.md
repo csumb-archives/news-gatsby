@@ -61,7 +61,7 @@ date: January 01 2020
 </p>
 <p>CSU Trustees’ Scholars are nominated by their campus presidents.</p>
 <p>
-  <a href="http://www.calstate.edu/foundation/trusteesawards"
+  <a href="https://www.calstate.edu/foundation/trusteesawards"
     >More information on the CSU Trustees Award program</a
   >
 </p>

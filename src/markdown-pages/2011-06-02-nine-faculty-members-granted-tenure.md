@@ -13,7 +13,7 @@ slug: nine-faculty-members-granted-tenure
 members have been granted tenure.<br>
 <br>
 The newly tenured faculty members and their departments:</br></br></p>
-<p><img alt="books" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/books0.jpg" style="float:left; width:135px; height:90px">&#x2022; Dr. Rebecca Bales,
+<p><img alt="books" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/books0.jpg" style="float:left; width:135px; height:90px">&#x2022; Dr. Rebecca Bales,
 Social, Behavioral and Global Studies<br>
 &#x2022; Ms. Enid Blader, Teledramatic Arts and Technology<br>
 &#x2022; Dr. James Lindholm, Division of Science and Environmental

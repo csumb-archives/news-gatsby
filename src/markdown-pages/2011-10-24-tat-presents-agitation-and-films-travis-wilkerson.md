@@ -12,10 +12,10 @@ slug: tat-presents-agitation-and-films-by-travis-wilkerson
 <p>Travis Wilkerson describes himself as a &#x201C;radical filmmaker.&#x201D;
 Local audiences will be able to sample his work on Oct. 25 when the
 Los Angeles resident kicks off this year&#x2019;s visiting artist series
-presented by the <a href="http://csumb.edu/tat" rel="nofollow">Teledramatic Arts and Technology Department</a> (TAT) at
+presented by the <a href="https://csumb.edu/tat" rel="nofollow">Teledramatic Arts and Technology Department</a> (TAT) at
 CSU Monterey Bay and the Monterey Bay Film Society.<br>
 <br>
-<img alt="Travis Wilkerson" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wilkerson.jpg" style="float:left; width:200px; height:154px">He will make two
+<img alt="Travis Wilkerson" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wilkerson.jpg" style="float:left; width:200px; height:154px">He will make two
 presentations, both free and open to the public, at noon and again
 at 2 p.m. Both will be held in the TAT studio on Sixth Avenue at A
 Street.<br>

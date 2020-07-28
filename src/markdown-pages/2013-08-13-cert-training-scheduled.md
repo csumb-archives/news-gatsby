@@ -10,7 +10,7 @@ slug: cert-training-scheduled
 
 <span class="date">Posted on Aug 13, 2013    </span>
 <h3>Community members invited to free class</h3>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/cert_logo.jpeg" style="float:right; width:296px; height:170px">When disaster
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/cert_logo.jpeg" style="float:right; width:296px; height:170px">When disaster
 strikes, Community Emergency Response Teams &#x2013; or CERTS &#x2013; step in to
 assist, helping communities respond to and recover from the
 emergency.</img></p>
@@ -32,7 +32,7 @@ extinguisher.</p>
 <p>Upon successful completion, participants will receive
 certification as a CERT member and will be eligible to register as
 Disaster Service Workers.</p>
-<p>While the university is building the <a href="http://police.csumb.edu/cert" rel="nofollow">Otter CERT team</a>,
+<p>While the university is building the <a href="https://police.csumb.edu/cert" rel="nofollow">Otter CERT team</a>,
 the training is open to anyone in Monterey County. Upon completion
 of the training, community members will be able to join one of the
 local CERT teams active in the area.</p>

@@ -85,7 +85,7 @@ date: January 01 2020
 </p>
 <p>
   For more information, contact Helen Meyers at 582-4723, visit the
-  <a href="http://csumb.edu/foaa">web</a>, or e-mail FOAA chair Donna Johnson at
+  <a href="https://csumb.edu/foaa">web</a>, or e-mail FOAA chair Donna Johnson at
   <a
     href="&#x6d;&#97;&#x69;&#108;t&#x6f;&#58;&#x64;&#106;&#109;&#x31;&#50;&#x31;&#49;&#64;&#x61;&#111;&#x6c;&#x2e;&#99;&#x6f;&#109;"
     >djm1211@aol.com</a
@@ -95,7 +95,7 @@ date: January 01 2020
   To read about scholarship recipient – and cross-country runner – Hayley Tharp,
   click
   <a
-    href="http://www.otterathletics.com/news/2011/9/20/XC_0920115452.aspx?elinkdata=32453"
+    href="https://www.otterathletics.com/news/2011/9/20/XC_0920115452.aspx?elinkdata=32453"
     >here</a
   >.
 </p>

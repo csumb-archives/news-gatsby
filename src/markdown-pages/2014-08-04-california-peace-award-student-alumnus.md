@@ -15,7 +15,7 @@ Assemblyman Luis Alejo as California Peace Award winners for the
 <p>Elizabet Zepeda-Gonzalez, a social and behavioral sciences
 major, believes that keeping young people involved in their
 community is a way to keep the peace.</p>
-<p><img alt="Peace Award logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/california-peace-award.jpg" style="float:left; width:200px; height:119px">As a high school
+<p><img alt="Peace Award logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/california-peace-award.jpg" style="float:left; width:200px; height:119px">As a high school
 student in Hollister, she got involved with the League of United
 Latin American Citizens. Through that work, she has helped to
 address the needs of local communities.</img></p>

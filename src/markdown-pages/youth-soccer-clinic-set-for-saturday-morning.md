@@ -27,7 +27,7 @@ date: January 01 2020
 <p>
   A CSUMB parking permit is required. Permits are available from automated
   ticket machines located in the parking lots or can be purchased
-  <a href="http://store.csumb.edu/products/daily-parking-permit">online</a>.
+  <a href="https://store.csumb.edu/products/daily-parking-permit">online</a>.
 </p>
 <p></p>
 <p>

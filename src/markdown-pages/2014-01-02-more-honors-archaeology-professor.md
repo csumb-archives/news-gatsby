@@ -9,7 +9,7 @@ slug: more-honors-for-archaeology-professor
 
 
 <span class="date">Posted on Jan 02, 2014    </span>
-<p><img alt="Dr. Ruben Mendoza" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mendoza.jpg" style="float:left; width:140px; height:140px">Professor Ruben
+<p><img alt="Dr. Ruben Mendoza" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mendoza.jpg" style="float:left; width:140px; height:140px">Professor Ruben
 Mendoza has been selected to deliver the keynote address at the
 annual meeting of the California Mission Studies Association
 (CMSA). The meeting will be held Feb. 14-16 at Mission San Antonio

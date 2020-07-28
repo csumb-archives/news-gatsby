@@ -14,7 +14,7 @@ date: January 01 2020
 </p>
 <p>
   The address will also be streamed live on the station's website at
-  <a href="http://www.kazu.org">KAZU.org</a> and on iTunes.
+  <a href="https://www.kazu.org">KAZU.org</a> and on iTunes.
 </p>
 <p>
   KAZU, NPR for the Monterey Bay area, is a community service of California

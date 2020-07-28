@@ -47,12 +47,12 @@ date: January 01 2020
   National Weather Service – the university was named a Weather-Ready Nation
   Ambassador and a Storm Ready university.
   <a
-    href="http://news.csumb.edu/news/2014/jun/26/csumb-recognized-preparedness-efforts"
+    href="https://news.csumb.edu/news/2014/jun/26/csumb-recognized-preparedness-efforts"
     >Read more here.</a
   >
 </p>
 <p>
-  <a href="http://police.csumb.edu/emergency-management"
+  <a href="https://police.csumb.edu/emergency-management"
     >Learn about the Division of Emergency Management, Health and Safety at
     CSUMB</a
   >

@@ -49,12 +49,12 @@ date: January 01 2020
   an initiative of CSU Monterey Bay’s Service Learning Institute.
 </p>
 <p>
-  <a href="http://service.csumb.edu/marina-community-gardens"
+  <a href="https://service.csumb.edu/marina-community-gardens"
     >Learn more about the Community Food Project.</a
   >
 </p>
 <p>
-  <a href="http://service.csumb.edu"
+  <a href="https://service.csumb.edu"
     >Learn more about the Service Learning Institute at CSUMB.</a
   >
 </p>

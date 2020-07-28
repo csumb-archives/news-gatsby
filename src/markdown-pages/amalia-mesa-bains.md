@@ -40,8 +40,8 @@ date: January 01 2020
 </p>
 <p>
   For more information on Dr. Bains, visit
-  <a href="http://vpa.csumb.edu/faculty/mesa_bains.htm"
-    >http://vpa.csumb.edu/faculty/mesa_bains.htm</a
+  <a href="https://vpa.csumb.edu/faculty/mesa_bains.htm"
+    >https://vpa.csumb.edu/faculty/mesa_bains.htm</a
   >
 </p>
 ```

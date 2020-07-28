@@ -11,7 +11,7 @@ slug: carmel&apos;s-robert-danziger-to-be-commencement-speaker
 <span class="date">Posted on Jan 31, 2013    </span>
 <p>Robert Danziger will be the keynote speaker at CSU Monterey
 Bay&apos;s 17th commencement ceremony, to be held May 18.</p>
-<p><img alt="Bob Danziger accepts an honorary degree from CSUMB in September 2011" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bob_getting_honorary_degree.png" style="float:right; width:260px; height:325px">The Carmel
+<p><img alt="Bob Danziger accepts an honorary degree from CSUMB in September 2011" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bob_getting_honorary_degree.png" style="float:right; width:260px; height:325px">The Carmel
 resident received an honorary Doctor of Fine Arts from CSUMB in
 September 2011, in recognition of his accomplishments as a
 musician, inventor and sustainable energy pioneer.</img></p>
@@ -31,7 +31,7 @@ it from a jazz point of view,&#x201D; he said.</p>
 campus. Approximately 1,300 students will receive bachelor&#x2019;s and
 master&#x2019;s degrees.<br>
 <br>
-<a href="http://commencement.csumb.edu/commencement-home" rel="nofollow">Learn more about commencement</a>.<br>
+<a href="https://commencement.csumb.edu/commencement-home" rel="nofollow">Learn more about commencement</a>.<br>
 <br>
 <em>Photo: Mr. Danziger addresses the audience after receiving an
 honorary Doctor of Fine Arts degree from CSUMB in September

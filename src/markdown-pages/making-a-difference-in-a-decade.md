@@ -36,7 +36,7 @@ date: January 01 2020
 </p>
 <p>
   For more information and a list of this summer's activities,<a
-    href="http://www.campsealab.org"
+    href="https://www.campsealab.org"
   >
     click here.</a
   >

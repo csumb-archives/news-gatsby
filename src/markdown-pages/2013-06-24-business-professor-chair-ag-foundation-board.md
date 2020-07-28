@@ -9,7 +9,7 @@ slug: business-professor-to-chair-ag-foundation-board
 
 
 <span class="date">Posted on Jun 24, 2013    </span>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/shockley.portrait.jpg" style="float:right; width:310px; height:464px">Marylou Shockley,
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/shockley.portrait.jpg" style="float:right; width:310px; height:464px">Marylou Shockley,
 a professor in the College of Business at CSU Monterey Bay, has
 been elected chair of the Grower-Shipper Association Foundation
 board. She will serve a one-year term.<br>

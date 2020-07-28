@@ -11,7 +11,7 @@ slug: red-shouldered-hawks
 <span class="date">Posted on Jun 12, 2009    </span>
 <p>June 12, 2009</p>
 <h2><strong>Feathered friends in high places</strong></h2>
-<p><img alt="hawk chick" height="200" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/a%20hawk%20chick.JPG" style="float:left" width="300">For a mother who recently watched
+<p><img alt="hawk chick" height="200" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/a%20hawk%20chick.JPG" style="float:left" width="300">For a mother who recently watched
 an offspring hatch, the red-shouldered hawk that has taken up
 residence at the Tanimura &amp; Antle library seems to be in good
 shape.</img></p>

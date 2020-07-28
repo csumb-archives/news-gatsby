@@ -18,10 +18,10 @@ date: January 01 2020
   festival ends in November, a selection of the best films goes on tour to more
   than 360 locations worldwide. Tickets are $20 and can be purchased
   <a
-    href="http://www.brownpapertickets.com/e/538600http://www.brownpapertickets.com/e/538600"
+    href="https://www.brownpapertickets.com/e/538600https://www.brownpapertickets.com/e/538600"
     >online</a
   >. For more information, call 883-8048. The
-  <a href="http://csumb.edu/ron">Return of the Natives</a> restoration project
+  <a href="https://csumb.edu/ron">Return of the Natives</a> restoration project
   is the education and outreach branch of the Watershed Institute at CSUMB.
   RON's environmental goal is to protect the waters of the Monterey Bay through
   restoration of the waterways and the lands draining into the bay. RON's social

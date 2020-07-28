@@ -12,7 +12,7 @@ slug: blood-drive
       &#xA0;<img
         style="width:150px; height:112px"
         alt="Elizabeth Valle, first time donor"
-        src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/0%20Elizabeth%20Valle.bmp"
+        src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/0%20Elizabeth%20Valle.bmp"
       />
     </th>
   </tr>

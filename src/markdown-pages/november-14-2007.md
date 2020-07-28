@@ -59,7 +59,7 @@ date: January 01 2020
   in the Monterey Bay region. He holds a master of library science degree from
   the University of California, Berkeley, and a bachelor of science degree in
   biology from Stanford University.
-  <a href="http://news.csumb.edu/site/x20899.xml"
+  <a href="https://news.csumb.edu/site/x20899.xml"
     >Read more about Steven Watkins here</a
   >.
 </p>
@@ -93,8 +93,8 @@ date: January 01 2020
   to win the war. And they instantly validated the antiwar protest movement.
   He'll be talking about his book, "Secrets: A Memoir of Vietnam and the
   Pentagon Papers," copies of which will be available for sale.
-  <a href="http://csumb.edu/site/x19928.xml%20">Reserve a seat here</a>.
-  <a href="http://news.csumb.edu/site/x20764.xml%20"
+  <a href="https://csumb.edu/site/x19928.xml%20">Reserve a seat here</a>.
+  <a href="https://news.csumb.edu/site/x20764.xml%20"
     >Read more about Dr. Ellsberg here</a
   >.
 </p>
@@ -109,7 +109,7 @@ date: January 01 2020
   assured that OTTERalert is for emergency alerts only; those who sign up will
   not receive spam. Privacy is protected, and only campus administrators and
   members of the University Police Department can originate the messages.
-  <a href="http://news.csumb.edu/site/x20695.xml%20"
+  <a href="https://news.csumb.edu/site/x20695.xml%20"
     >Read more about OTTERalert here</a
   >.
 </p>
@@ -153,7 +153,7 @@ date: January 01 2020
   reflections of hope in the new Castas images.
 </p>
 <p>
-  <a href="http://news.csumb.edu/site/x20889.xml"
+  <a href="https://news.csumb.edu/site/x20889.xml"
     ><strong>Students benefit from real&#45;world experience</strong></a
   >
 </p>
@@ -189,7 +189,7 @@ date: January 01 2020
 <p>
   Our campus is under construction. Please be cautious around construction
   areas. We invite you to view this
-  <a href="http://cdo.csumb.edu/site/x4929.xml%20">short slide show</a> created
+  <a href="https://cdo.csumb.edu/site/x4929.xml%20">short slide show</a> created
   with your safety in mind.
 </p>
 <p><strong>CSUMB heads to Santa Clara</strong></p>
@@ -232,6 +232,6 @@ date: January 01 2020
 </p>
 <p>
   For campus news, activities and events, please visit our
-  <a href="http://www.csumb.edu/news%20">news website</a>.
+  <a href="https://www.csumb.edu/news%20">news website</a>.
 </p>
 ```

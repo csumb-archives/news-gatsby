@@ -39,7 +39,7 @@ date: January 01 2020
 <p>
   Both events will be held in the Cinematic Arts Building on Sixth Avenue and A
   Street. Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>. While the events are free, visitors
+  <a href="https://csumb.edu/maps">here</a>. While the events are free, visitors
   must purchase a parking permit from a machine on the lot.
 </p>
 <p>
@@ -54,7 +54,7 @@ date: January 01 2020
 </p>
 <p>
   CSUMB is developing an animation curriculum within its
-  <a href="http://csumb.edu/tat">Cinematic Arts and Technology Department.</a>
+  <a href="https://csumb.edu/tat">Cinematic Arts and Technology Department.</a>
   This is the program’s first public event.
 </p>
 ```

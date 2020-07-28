@@ -12,7 +12,7 @@ slug: csumb-presents-an-evening-with-lea-delaria
 <h3><em>Orange is the New Blac</em>k actress visits Oct. 15</h3>
 <p>An evening with Lea DeLaria will highlight Cal State Monterey
 Bay&#x2019;s celebration of LGBTQ history month.</p>
-<p><img alt="Lea DeLaria" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/delaria_high_res_2014.jpg" style="width:350px; height:233px; float:left">DeLaria&#x2019;s talk,
+<p><img alt="Lea DeLaria" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/delaria_high_res_2014.jpg" style="width:350px; height:233px; float:left">DeLaria&#x2019;s talk,
 followed by a question-and-answer session, will get under way at 7
 p.m., Oct. 15, in the University Center ballroom.</img></p>
 <p>Featured in Netflix&#x2019;s hit series <em>Orange is the New
@@ -34,8 +34,8 @@ Admission is free for CSUMB students with Otter ID; $4 for CSUMB
 staff and faculty with ID; $6 for non-CSUMB students with ID; and
 $8 for everyone else.</br></br></br></br></p>
 <p>The University Center is located on Sixth Avenue at B Street.
-Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</p>
-<p>For a complete schedule of LGBTQ history month events, <a href="http://activities.csumb.edu/out-ober-history-month" rel="nofollow">click here</a>.</p>
+Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</p>
+<p>For a complete schedule of LGBTQ history month events, <a href="https://activities.csumb.edu/out-ober-history-month" rel="nofollow">click here</a>.</p>
 <p><br>
 &#xA0;</br></p>
 

@@ -46,7 +46,7 @@ date: January 01 2020
   with jazz clarinetist Alvin Batiste. Her debut CD, Let Me Take You There, won
   an Image Award from the NAACP in the category of Outstanding World Music
   Album.” Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>. While the lecture is free, visitors
+  <a href="https://csumb.edu/map">here</a>. While the lecture is free, visitors
   must buy a parking permit from machines located on the adjacent lot.
 </p>
 <p>

@@ -45,12 +45,12 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://www.kickstarter.com/projects/945448437/slime-molds-an-illustrated-guide"
+    href="https://www.kickstarter.com/projects/945448437/slime-molds-an-illustrated-guide"
     >See example of Mele’s slime mold drawings</a
   >
 </p>
 <p>
-  <a href="http://scienceillustration.org/"
+  <a href="https://scienceillustration.org/"
     >Read about CSUMB's Science Illustration program</a
   >
 </p>

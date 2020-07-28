@@ -37,11 +37,11 @@ date: January 01 2020
 </p>
 <p>
   The event will be held in the Media Learning Center on the CSUMB campus.
-  <a href="http://csumb.edu/map">Driving directions and a campus map</a>.
+  <a href="https://csumb.edu/map">Driving directions and a campus map</a>.
 </p>
 <p>
   To enter the competition or to submit an idea for an app, visit the
-  <a href="http://innovation.csumb.edu/ideas-march"
+  <a href="https://innovation.csumb.edu/ideas-march"
     >Institute for Innovation and Economic Development</a
   >. For information, call the institute at 582-3230 or e-mail Professor Kate
   Lockwood at
@@ -54,7 +54,7 @@ date: January 01 2020
   Prospective competitors should note that all code created during the
   competition will be open source and will be posted on the web.?
   <a
-    href="http://www.ksbw.com/news/central-california/monterey/Get-your-app-on-CSUMB-hosts-app-invention-event/-/5738820/9401890/-/3vkgjpz/-/index.html"
+    href="https://www.ksbw.com/news/central-california/monterey/Get-your-app-on-CSUMB-hosts-app-invention-event/-/5738820/9401890/-/3vkgjpz/-/index.html"
     >View a TV news story from last year's competition</a
   >.
 </p>

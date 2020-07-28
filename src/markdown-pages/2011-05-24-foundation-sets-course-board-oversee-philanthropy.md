@@ -34,5 +34,5 @@ auxiliary business operations. The foundation will be able to make
 private support its &#x201C;sole focus,&#x201D; Mahan said.</p>
 <p>Dr. Harrison said she is grateful for the directors&#x2019; service and
 their substantial contribution to the university.</p>
-<p><img alt="Board of Directors" src="http://news.csumb.edu/sites/default/files/imagecache/large/65/attachments/news/images/board-of-directors.jpg"/></p>
+<p><img alt="Board of Directors" src="https://news.csumb.edu/sites/default/files/imagecache/large/65/attachments/news/images/board-of-directors.jpg"/></p>
 ```

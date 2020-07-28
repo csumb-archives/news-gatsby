@@ -17,7 +17,7 @@ great-grandfather, a marine scientist who was a Stanford University
 professor for nearly 40 years and led research at Stanford&apos;s
 Hopkins Marine Station in Pacific Grove. Dr. Heath and his family
 lived across the street from the Marine Station campus.</p>
-<p><img alt="The vessel will be named for Harold Heath, the donor&apos;s great-grandfather" src="http://news.csumb.edu/sites/default/files/imagecache/medium/65/attachments/news/images/boat_interior.jpg" style="float:left">The vessel will be used by CSUMB&#x2019;s Seafloor
+<p><img alt="The vessel will be named for Harold Heath, the donor&apos;s great-grandfather" src="https://news.csumb.edu/sites/default/files/imagecache/medium/65/attachments/news/images/boat_interior.jpg" style="float:left">The vessel will be used by CSUMB&#x2019;s Seafloor
 Mapping Lab, where it will support marine research, training and
 education. It will also be used to support remotely operated
 vehicles and habitat survey work done by the university&apos;s Institute
@@ -64,7 +64,7 @@ tow-sled surveys right away,&#x201D; Dr. Kvitek said.</p>
 <p>To read about CSUMB&apos;s new degree program in marine science,
 click <a href="../../sep/22/new-marine-science-bs-awaits-approval.html" rel="nofollow">here.</a></p>
 <p>To learn more about the Seafloor Mapping Lab at CSUMB, click
-<a href="http://seafloor.csumb.edu/" rel="nofollow">here</a>.</p>
+<a href="https://seafloor.csumb.edu/" rel="nofollow">here</a>.</p>
 
 
 

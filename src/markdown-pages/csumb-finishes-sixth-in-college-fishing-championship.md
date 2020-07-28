@@ -52,7 +52,7 @@ date: January 01 2020
     href="https://www.facebook.com/pages/Cal-State-Monterey-Bay-Bass-Team-CSUMB/155760781183675"
     >Follow CSUMB's bass fishing club on Facebook</a
   >.??
-  <a href="http://activities.csumb.edu/outdoor-recreation"
+  <a href="https://activities.csumb.edu/outdoor-recreation"
     >Learn about the outdoor recreation program at CSUMB</a
   >.
   <a href="https://www.facebook.com/CSUMB.OutdoorRec"

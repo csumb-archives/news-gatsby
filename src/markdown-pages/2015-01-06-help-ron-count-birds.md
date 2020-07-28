@@ -15,7 +15,7 @@ Watershed Institute&#x2019;s 10th annual winter bird count at Upper Carr
 Lake in Salinas. Everyone is welcome to help during the three-hour
 count.&#x2028;&#x2028;<br>
 <br>
-<img alt="A volunteer helps count the birds" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bird_count_for_web.jpg" style="width:448px; height:343px; float:right">The lake, on East
+<img alt="A volunteer helps count the birds" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bird_count_for_web.jpg" style="width:448px; height:343px; float:right">The lake, on East
 Laurel Drive between Constitution Boulevard and Sanborn Road, is a
 resting stop for migratory birds. In 2014, volunteers from CSU
 Monterey Bay&#x2019;s Return of the Natives project identified more than
@@ -53,7 +53,7 @@ the bay. RON&apos;s social goal is to bring people and nature together
 on its restoration and garden projects in the watersheds of the
 Monterey Bay.<br>
 <br>
-&#x2028;&#x2028;For more information, <a href="http://ron.csumb.edu/" rel="nofollow">click here</a> or call 582-3686.</br></br></p>
+&#x2028;&#x2028;For more information, <a href="https://ron.csumb.edu/" rel="nofollow">click here</a> or call 582-3686.</br></br></p>
 <p><br>
 &#xA0;</br></p>
 

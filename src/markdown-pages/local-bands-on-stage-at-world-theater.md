@@ -68,9 +68,9 @@ date: January 01 2020
 <p>
   Tickets are $25 general admission. Discounts are available for students,
   military members and seniors. Tickets can be purchased
-  <a href="http://csumb.edu/worldtheater">online</a>, by calling the box office
+  <a href="https://csumb.edu/worldtheater">online</a>, by calling the box office
   at 582-4580, or at the theater. The World Theater is located on Sixth Avenue
   between A and B streets. Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 ```

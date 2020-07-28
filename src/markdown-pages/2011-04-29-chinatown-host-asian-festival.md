@@ -32,7 +32,7 @@ included a neighborhood garden and community learning center and
 the @risk Art Gallery, a project of the Franciscan Workers.The
 community is invited to this free event.<br>
 <br>
-For more information, visit <a href="http://www.salinasasianfestival.com" title="www.salinasasianfestival.com">www.salinasasianfestival.com</a>.</br></br></br></br></br></br></p>
+For more information, visit <a href="https://www.salinasasianfestival.com" title="www.salinasasianfestival.com">www.salinasasianfestival.com</a>.</br></br></br></br></br></br></p>
 
 
 

@@ -17,7 +17,7 @@ Avenue.</p>
 <p>After the screening, writer-director Josh Tickell and producer
 Rebecca Harrell Tickell will be on stage to discuss the film and
 answer questions.</p>
-<p><img alt="Fuel screens April 27" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/fuel.jpg" style="float:left; width:186px; height:266px">Though the film&#x2019;s
+<p><img alt="Fuel screens April 27" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/fuel.jpg" style="float:left; width:186px; height:266px">Though the film&#x2019;s
 premise is simple enough &#x2013; we are too reliant on oil &#x2013; its
 ramifications (economic, environmental and political) are
 enormous.</img></p>

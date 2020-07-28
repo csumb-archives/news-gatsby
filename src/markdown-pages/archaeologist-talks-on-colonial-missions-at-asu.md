@@ -36,7 +36,7 @@ date: January 01 2020
   <em
     >Read about a
     <a
-      href="http://news.csumb.edu/news/2012/nov/21/professor-students-land-grant-teach-about-missions"
+      href="https://news.csumb.edu/news/2012/nov/21/professor-students-land-grant-teach-about-missions"
       >National Endowment for the Humanities grant</a
     >
     Dr. Mendoza and two of his students secured for summer workshops for
@@ -46,13 +46,13 @@ date: January 01 2020
 <p>
   <em
     ><a
-      href="http://sbgs.csumb.edu/social-behavioral-sciences-major/archaeology"
+      href="https://sbgs.csumb.edu/social-behavioral-sciences-major/archaeology"
       >Learn more about archaeology at CSUMB</a
     >.</em
   >
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     ><em>Read more faculty news.</em></a
   >
 </p>

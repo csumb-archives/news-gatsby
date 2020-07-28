@@ -46,7 +46,7 @@ date: January 01 2020
   the VPA studio using plastic, fabric, Styrofoam and paper. On April 12, it was
   moved to a location outside the library, where it will be on display until
   commencement.
-  <a href="http://news.csumb.edu/news/2014/apr/17/mona-mammoth"
+  <a href="https://news.csumb.edu/news/2014/apr/17/mona-mammoth"
     >Read more about Mona the Mammoth</a
   >.
 </p>
@@ -113,7 +113,7 @@ date: January 01 2020
   by recycling and reusing items that would othewise be thrown away.
 </p>
 <p>
-  <a href="http://ideals.csumb.edu/sustainability"
+  <a href="https://ideals.csumb.edu/sustainability"
     >Learn more about sustainability at CSUMB</a
   >
 </p>

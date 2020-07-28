@@ -14,7 +14,7 @@ speaker</h3>
 <p>On a breezy, sunny morning, Cecilia Mu&#xF1;oz urged the graduates of
 California State University, Monterey Bay to maintain the quest for
 learning that brought them to the university.</p>
-<p><img alt="Cecilia Mu&#xF1;oz" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/cecilia_munoz_smile.jpg" style="width:300px; height:426px; float:left">Ms. Mu&#xF1;oz, an
+<p><img alt="Cecilia Mu&#xF1;oz" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/cecilia_munoz_smile.jpg" style="width:300px; height:426px; float:left">Ms. Mu&#xF1;oz, an
 adviser to President Obama and director of the Domestic Policy
 Council, was the keynote speaker at the university&#x2019;s May 17
 commencement.</img></p>
@@ -41,7 +41,7 @@ the ceremony. She and the aquarium have become a force for
 advancing ocean conservation worldwide through the aquarium&#x2019;s
 exhibits and programs, and its work in scientific research,
 education and public policy.</p>
-<p><img alt="Students" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/red.jpg" style="width:400px; height:267px; float:right">&#x201C;The ocean is
+<p><img alt="Students" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/red.jpg" style="width:400px; height:267px; float:right">&#x201C;The ocean is
 central to our lives,&#x201D; she said. &#x201C;It&#x2019;s our pantry, our lungs, our
 playground. It&#x2019;s a massive driver of global commerce and an
 incubator for innovative technologies that will drive our
@@ -51,7 +51,7 @@ nature that sustains us, we won&#x2019;t be able to pursue our dreams and
 aspirations, whatever they may be.</p>
 <p>&#x201C;You have the power for change,&#x201D; she reminded them. &#x201C;Use
 it.&#x201D;</p>
-<p><img alt="A student snaps a selfie" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/selfie.jpg" style="width:300px; height:200px; float:right">The ceremony
+<p><img alt="A student snaps a selfie" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/selfie.jpg" style="width:300px; height:200px; float:right">The ceremony
 opened with the traditional welcome in Spanish, Japanese, Chinese
 and Vietnamese, delivered by the members of the faculty. Student
 speaker Alijah Jade Marquez, winner of the President&#x2019;s Award for

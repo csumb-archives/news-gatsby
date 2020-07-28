@@ -77,6 +77,6 @@ date: January 01 2020
   ever-changing needs of the people of California. With its commitment to
   excellence, diversity and innovation, the CSU is the university system that is
   working for California. See
-  <a href="http://www.calstate.edu">www.calstate.edu</a>.
+  <a href="https://www.calstate.edu">www.calstate.edu</a>.
 </p>
 ```

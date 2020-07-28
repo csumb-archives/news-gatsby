@@ -29,7 +29,7 @@ date: January 01 2020
 </p>
 <p>
   Related story:
-  <a href="http://news.csumb.edu/news/2013/apr/15/charge&#45;your&#45;ride"
+  <a href="https://news.csumb.edu/news/2013/apr/15/charge&#45;your&#45;ride"
     >Campus gets two EV charging stations</a
   >
 </p>

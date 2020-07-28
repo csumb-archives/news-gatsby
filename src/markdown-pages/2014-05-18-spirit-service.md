@@ -16,7 +16,7 @@ Monterey Bay on May 17, 2014.</p>
 <p>Here are her remarks:</p>
 <p>I&#x2019;d like to start by congratulating the Class of 2014 &#x2014; you look
 pretty good!</p>
-<p><img alt="Cecilia Mu&#xF1;oz" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/cecilia_munoz.jpg" style="float:left; width:300px; height:229px">My oldest daughter
+<p><img alt="Cecilia Mu&#xF1;oz" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/cecilia_munoz.jpg" style="float:left; width:300px; height:229px">My oldest daughter
 graduated from college two weeks ago, so I know as a proud parent,
 exactly how much work, how many tears, and how little sleep went
 into this moment for so many of you.<br>

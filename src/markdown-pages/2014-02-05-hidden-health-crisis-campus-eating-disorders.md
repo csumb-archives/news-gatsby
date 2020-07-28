@@ -9,7 +9,7 @@ slug: hidden-health-crisis-on-campus&amp;colon;-eating-disorders
 
 <h3>Feb. 26 film showing, discussion will address the issue</h3>
 <p>The National Institute of Mental Health estimates that 25
-percent of college students have eating&#xA0;<img alt="Approximately 25 percent of college students have eating disorders" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/stigma_1.jpg" style="float:left; width:300px; height:323px">disorders. The same
+percent of college students have eating&#xA0;<img alt="Approximately 25 percent of college students have eating disorders" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/stigma_1.jpg" style="float:left; width:300px; height:323px">disorders. The same
 percent of college women report managing weight by binging and
 purging, says the National Association of Anorexia Nervosa and
 Associated Disorders.</img></p>

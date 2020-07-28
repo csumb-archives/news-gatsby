@@ -14,7 +14,7 @@ slug: local-bands-on-stage-at-world-theater
 for its audience on March 8 when it presents a concert featuring
 Rio Salinas. Showtime is 7:30 p.m., with the opening band Tom Faia
 and The Juice.</p>
-<p><img alt="Rio Salinas will take the stage at the World Theater on March 8" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rio_salinas.jpg" style="float:left; width:350px; height:207px">Rio Salinas brings
+<p><img alt="Rio Salinas will take the stage at the World Theater on March 8" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rio_salinas.jpg" style="float:left; width:350px; height:207px">Rio Salinas brings
 a wide array of musical styles and influences to the stage: Cali,
 Tex Mex, country, rock &#x2019;n&#x2019; blues. Members of the group have played
 with great bands and have come together to form Rio Salinas. Band
@@ -64,10 +64,10 @@ group Tom Faia and The Juice.</br></br></p>
 audience.&#x201D;</p>
 <p>Tickets are $25 general admission. Discounts are available for
 students, military members and seniors. Tickets can be purchased
-<a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>,
+<a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>,
 by calling the box office at 582-4580, or at the theater.<br>
 <br>
 The World Theater is located on Sixth Avenue between A and B
-streets. Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</br></br></p>
+streets. Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</br></br></p>
 
 ```

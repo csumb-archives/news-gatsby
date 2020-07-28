@@ -111,7 +111,7 @@ healthy relationship with the local art community, noting that the
 community has been welcoming to students, and, in turn, the
 students have contributed a younger perspective.<br>
 &#x2013; July 24, 2014</br></p>
-<p>&#x2022;&#xA0;Dr. Angie Tran was <a href="http://newsletter.cineresie.info/2014/06/23/vietnamese-workers-on-strike-an-interview-with-angie-tran-ngoc/" rel="nofollow">interviewed in the April-May issue of the
+<p>&#x2022;&#xA0;Dr. Angie Tran was <a href="https://newsletter.cineresie.info/2014/06/23/vietnamese-workers-on-strike-an-interview-with-angie-tran-ngoc/" rel="nofollow">interviewed in the April-May issue of the
 e-newsletter Made in China.</a> She explained the dynamics of labor
 activism in Vietnam, based on research for her recent book,
 <em>Ties That Bind,</em> a study of Vietnamese labor

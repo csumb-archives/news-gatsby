@@ -15,7 +15,7 @@ date: January 01 2020
   Entry deadline is Feb. 12 for the second annual festival, which will be held
   at CSU Monterey Bay's World Theater on April 3. Entries can be submitted
   online at
-  <a href="http://csumb.edu/filmfestival">csumb.edu/filmfestival</a>.?Filmmakers
+  <a href="https://csumb.edu/filmfestival">csumb.edu/filmfestival</a>.?Filmmakers
   between 13 and 19 years old are invited to submit films and videos up to five
   minutes in length. Entries may be in English or Spanish and there is no entry
   fee.
@@ -42,7 +42,7 @@ date: January 01 2020
 <p>
   Last year's inaugural event drew more than 100 entries and several hundred
   people attended the screening. Some of last year's entries can be viewed
-  online at<a href="http://csumb.edu/filmfestival">csumb.edu/filmfestival</a>.
+  online at<a href="https://csumb.edu/filmfestival">csumb.edu/filmfestival</a>.
 </p>
 <p>
   For information is available from Hayley Allison at

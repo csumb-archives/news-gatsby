@@ -16,7 +16,7 @@ until the recession hit.</p>
 <p>&#x201C;I&#x2019;d just go from one job to the next,&#x201D; said Bakker, who moved
 to Salinas from his native Colorado and founded his company, Bakker
 Construction, in 2008.</p>
-<p><img alt="Shawn Bakker" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/shawn_bakker_sm.jpg" style="float:left; width:325px; height:121px">A year later, he
+<p><img alt="Shawn Bakker" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/shawn_bakker_sm.jpg" style="float:left; width:325px; height:121px">A year later, he
 realized that he needed to be proactive in his approach, rather
 than simply react to the economy. That&#x2019;s when his lender referred
 him to the Small Business Development Center at CSU Monterey Bay
@@ -61,7 +61,7 @@ large skill set&#x201D; of counselors, said Andrea Zeller-Nield, associate
 director of the center. Some of the counselors have knowledge of
 key local industries, such as wine and agriculture.<br>
 <br>
-To learn more, click <a href="http://csumb.edu/sbdc" rel="nofollow">here</a>.&#xA0;</br></br></br></br></br></br></p>
+To learn more, click <a href="https://csumb.edu/sbdc" rel="nofollow">here</a>.&#xA0;</br></br></br></br></br></br></p>
 <p class="fineprint"><br>
 <em>This cooperative agreement is partially funded by the U.S.
 Small Business Administration and the University of California,

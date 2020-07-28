@@ -88,9 +88,9 @@ date: January 01 2020
 <p>
   To read Coach White’s comments on each player, click
   <a
-    href="http://otterathletics.com/news/2010/11/29/BB_1129103236.aspx"
-    title="http://otterathletics.com/news/2010/11/29/BB_1129103236.aspx"
-    >http://otterathletics.com/news/2010/11/29/BB_1129103236.aspx</a
+    href="https://otterathletics.com/news/2010/11/29/BB_1129103236.aspx"
+    title="https://otterathletics.com/news/2010/11/29/BB_1129103236.aspx"
+    >https://otterathletics.com/news/2010/11/29/BB_1129103236.aspx</a
   >
 </p>
 ```

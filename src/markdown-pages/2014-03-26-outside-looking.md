@@ -14,7 +14,7 @@ Islander Heritage Month</h3>
 <p>Short-story writer Lysley Tenorio will read from his work April
 8 at CSU Monterey Bay. The public is invited to this free
 event.</p>
-<p><img alt="Lysley Tenorio photo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/tenoriohiresbw.jpg" style="float:left; width:300px; height:293px">Tenorio is the
+<p><img alt="Lysley Tenorio photo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/tenoriohiresbw.jpg" style="float:left; width:300px; height:293px">Tenorio is the
 author of&#xA0;<em>Monstress</em>, which binds together eight tales
 of isolated misfits in San Francisco and the Philippines. They have
 been described as &#x201C;tender&#x201D; and &#x201C;quirky,&#x201D; written from the point of
@@ -29,7 +29,7 @@ a home eager to assimilate.</p>
 <p>His stories have appeared in <em>The Atlantic</em> magazine and
 <em>The Best New American Voices</em> and Pushcart Prize
 anthologies. A Whiting Writer&apos;s Award winner and a former Stegner
-Fellow at&#xA0;<img alt="Book cover of Monstress" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/book.png" style="width:296px; height:445px; float:right">Stanford
+Fellow at&#xA0;<img alt="Book cover of Monstress" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/book.png" style="width:296px; height:445px; float:right">Stanford
 University, he has received fellowships from the University of
 Wisconsin and the National Endowment for the Arts.</img></p>
 <p>Tenorio lives in San Francisco and is an associate professor at
@@ -37,7 +37,7 @@ Saint Mary&#x2019;s College of California.</p>
 <p>The event will be held at 7 p.m. in the University Center living
 room, located on Sixth Avenue and B Street. While the reading is
 free, visitors must purchase a parking permit from a machine on the
-lot. Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.&#xA0;</p>
+lot. Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.&#xA0;</p>
 <p>Tenorio&#x2019;s appearance is part of CSUMB&#x2019;s celebration of Asian
 Pacific Islander Heritage Month and is part of a series of readings
 called Writers from the Edge. In March, poet Aimee Suzara read from

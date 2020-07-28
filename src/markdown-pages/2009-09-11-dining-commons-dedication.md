@@ -11,7 +11,7 @@ slug: campus-dining-in-style-at-renovated-dc
 <span class="date">Posted on Sep 11, 2009    </span>
 <p>Sept. 11, 2009</p>
 Campus dining in style at renovated DC<br>
-<p><img alt="students lunch in dc" height="200" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/DC-3.jpg" style="float:right" width="300">Declaring that &quot;it was worth the
+<p><img alt="students lunch in dc" height="200" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/DC-3.jpg" style="float:right" width="300">Declaring that &quot;it was worth the
 wait,&quot; President Dianne Harrison on Thursday officially dedicated
 the renovated Dining Commons.</img></p>
 <p>Dr. Harrison was joined by staff members of CSU Monterey Bay,
@@ -26,7 +26,7 @@ Harrison:</p>
 would want to gather<br>
 &#x2022; And it had to be completed on a tight schedule - 112 days between
 spring break and the start of the school year</br></br></br></p>
-<p><img alt="chef at the dc" height="200" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/DC-4.jpg" style="float:left" width="300">Judging by the reaction of
+<p><img alt="chef at the dc" height="200" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/DC-4.jpg" style="float:left" width="300">Judging by the reaction of
 students who have used the facility since it opened on Aug. 21, the
 project is a success on all counts.</img></p>
 <p>The renovation of the 11,000-square-foot former Army mess hall
@@ -44,7 +44,7 @@ and feel of a restaurant.&#xA0;</p>
 materials that were used, the indoor environmental quality and
 other features, the project qualifies for LEED silver
 certification.</p>
-<p><img alt="renovated dc welcomes guests" height="200" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/DC-2.jpg" style="float:right" width="300">The contractor had help from
+<p><img alt="renovated dc welcomes guests" height="200" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/DC-2.jpg" style="float:right" width="300">The contractor had help from
 someone with campus knowledge.</img></p>
 <p>Tyler Trietman, a 2008 graduate of CSUMB, works as a project
 engineer for SBI Builders. &quot;Tyler was on site during the course of

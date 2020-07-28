@@ -12,7 +12,7 @@ date: January 01 2020
 <p>
   More students, more outside support, a commitment to the environment and a
   full&#45;fledged senior leadership team marked 2007 at CSUMB...<a
-    href="http://news.csumb.edu/year&#45;review&#45;0"
+    href="https://news.csumb.edu/year&#45;review&#45;0"
     >continue reading</a
   >
 </p>
@@ -22,7 +22,7 @@ date: January 01 2020
   &#42;December 13, 2007A billboard on display in Salinas is the result of a
   project involving students in the digital mural class at California State
   University, Monterey Bay and the Center for Community Advocacy...<strong
-    ><a href="http://news.csumb.edu/news/2010/sep/22/vpa&#45;cca&#45;team"
+    ><a href="https://news.csumb.edu/news/2010/sep/22/vpa&#45;cca&#45;team"
       >continue reading</a
     ></strong
   >
@@ -34,7 +34,7 @@ date: January 01 2020
   Monterey Bay turned out to donate blood Dec. 12, despite the crush of
   end&#45;of&#45;semester work. A donor team staffed by the American Red Cross
   spent the afternoon in the Alumni and Visitors Center as part of its holiday
-  blood drive...<a href="http://news.csumb.edu/blood&#45;drive&#45;2"
+  blood drive...<a href="https://news.csumb.edu/blood&#45;drive&#45;2"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -43,7 +43,7 @@ date: January 01 2020
 <p>
   Volunteers are needed to help the Return of the Natives Project at California
   State University, Monterey Bay, get rid of invasive weeds in Natividad Creek
-  Park in Salinas on Saturday, Dec. 8...<a href="http://news.csumb.edu/weeds"
+  Park in Salinas on Saturday, Dec. 8...<a href="https://news.csumb.edu/weeds"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -54,7 +54,7 @@ date: January 01 2020
   is set for a stellar crop of student films and original media productions to
   be premiered at the Fall Capstone Festival, scheduled for Wednesday, Dec. 12
   at 6 p.m...
-  <a href="http://news.csumb.edu/tat&#45;film&#45;festival"
+  <a href="https://news.csumb.edu/tat&#45;film&#45;festival"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -64,7 +64,7 @@ date: January 01 2020
   After a rigorous application process, seventeen students from California State
   University, Monterey Bay have been chosen to study abroad for an academic
   year, through the university's Office of International Programs...<a
-    href="http://news.csumb.edu/study&#45;abroad&#45;07&#45;08"
+    href="https://news.csumb.edu/study&#45;abroad&#45;07&#45;08"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -75,7 +75,7 @@ date: January 01 2020
   headquartered in Torrance, has made a $22,000 pledge to support the
   Recruitment in Science Education Program &#40;RISE&#41; at California State
   University, Monterey Bay...<a
-    href="http://news.csumb.edu/american&#45;honda&#45;foundation"
+    href="https://news.csumb.edu/american&#45;honda&#45;foundation"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -84,7 +84,7 @@ date: January 01 2020
 <p>
   Two exhibitions will open in the art gallery at California State University,
   Monterey Bay on Dec. 4 with a reception for the artists from 3 to 4 p.m. that
-  day...<a href="http://news.csumb.edu/vpa&#45;student&#45;art&#45;exhibit"
+  day...<a href="https://news.csumb.edu/vpa&#45;student&#45;art&#45;exhibit"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -105,7 +105,7 @@ date: January 01 2020
   Michael W. Mahan has joined California State University, Monterey Bay as
   executive director of development. He will oversee the university's
   fundraising efforts and alumni relations...<strong
-    ><a href="http://news.csumb.edu/ed&#45;development&#45;named"
+    ><a href="https://news.csumb.edu/ed&#45;development&#45;named"
       >continue reading</a
     ></strong
   >
@@ -116,7 +116,7 @@ date: January 01 2020
   Steven Watkins, one of CSU Monterey Bay's founding librarians, was awarded the
   first ever lifetime membership by a marine science library association for his
   contributions throughout the years...<a
-    href="http://news.csumb.edu/watkins&#45;award"
+    href="https://news.csumb.edu/watkins&#45;award"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -127,7 +127,7 @@ date: January 01 2020
   California State University, Monterey Bay's Music and Performing Arts
   Department will present its annual winter concert on Dec. 2. This year's theme
   is Winter Solstice...<a
-    href="http://news.csumb.edu/winter&#45;concert&#45;2007"
+    href="https://news.csumb.edu/winter&#45;concert&#45;2007"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -141,7 +141,7 @@ date: January 01 2020
   events to commemorate National Hunger and Homelessness Awareness Week, Nov.
   13&#45;19. The week's activities will give students and community members an
   opportunity to get involved as well as raise awareness around issues of hunger
-  and homelessness...<a href="http://news.csumb.edu/homelessness&#45;week"
+  and homelessness...<a href="https://news.csumb.edu/homelessness&#45;week"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -153,7 +153,7 @@ date: January 01 2020
   and golf shoes aren't required. The disc golf courses at California State
   University, Monterey Bay won't remind anyone of Pebble Beach, but for disc
   golfers, the 36 holes of the Oaks and Cypress courses are magical..<a
-    href="http://news.csumb.edu/disc&#45;golf&#45;tourney&#45;2007"
+    href="https://news.csumb.edu/disc&#45;golf&#45;tourney&#45;2007"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -164,7 +164,7 @@ date: January 01 2020
   California State University, Monterey Bay and the Defense Manpower Data Center
   have worked together in a variety of ways since 1996. The two organizations
   recently agreed to continue the arrangement for several more years...
-  <a href="http://news.csumb.edu/dcmc&#45;mou&#45;2007"
+  <a href="https://news.csumb.edu/dcmc&#45;mou&#45;2007"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -174,7 +174,7 @@ date: January 01 2020
   Inter&#45;Garrison Road, one of the main east&#45;west streets on the
   California State University, Monterey Bay campus, will be closed to through
   traffic starting Wednesday, Nov. 14...
-  <a href="http://news.csumb.edu/inter&#45;garrison&#45;close"
+  <a href="https://news.csumb.edu/inter&#45;garrison&#45;close"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -183,7 +183,7 @@ date: January 01 2020
 <p>
   California Sea Grant has named Jasmine Ruvalcaba a 2007 John D. Isaacs Marine
   Undergraduate Scholar...
-  <a href="http://news.csumb.edu/covina&#45;student&#45;earns&#45;award"
+  <a href="https://news.csumb.edu/covina&#45;student&#45;earns&#45;award"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -193,7 +193,7 @@ date: January 01 2020
   San Jose Taiko will take the stage at California State University, Monterey
   Bay's World Theater on Dec. 6 as the performing arts series
   continues...<strong
-    ><a href="http://news.csumb.edu/taiko&#45;wt&#45;release"
+    ><a href="https://news.csumb.edu/taiko&#45;wt&#45;release"
       >continue reading</a
     ></strong
   >
@@ -210,7 +210,7 @@ date: January 01 2020
   with a Nov. 28 visit by Dr. Daniel Ellsberg, the RAND Corp. analyst who, in
   1971, leaked the classified Pentagon Papers to the New York Times... [<strong
     >continue reading</strong
-  >](http://policy.csumb.edu/policy&#45;home/policy&#45;tracking &quot;Daniel
+  >](https://policy.csumb.edu/policy&#45;home/policy&#45;tracking &quot;Daniel
   Ellsberg&quot;)
 </p>
 <p><strong>CSUMB receives McNair Scholars grant</strong></p>
@@ -220,7 +220,7 @@ date: January 01 2020
   Monterey Bay nearly $1 million in grant money to help students from
   underrepresented backgrounds prepare for doctoral studies, President Dianne F.
   Harrison has announced...<a
-    href="http://news.csumb.edu/csumb&#45;receives&#45;mcnair&#45;scholars&#45;grant"
+    href="https://news.csumb.edu/csumb&#45;receives&#45;mcnair&#45;scholars&#45;grant"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -229,7 +229,7 @@ date: January 01 2020
 <p>
   California State University, Monterey Bay has received a $2 million federal
   grant aimed at enrolling more migrant students in higher education...<a
-    href="http://news.csumb.edu/camp&#45;grant&#45;2007"
+    href="https://news.csumb.edu/camp&#45;grant&#45;2007"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -239,7 +239,7 @@ date: January 01 2020
   Prospective students interested in enrolling at California State University,
   Monterey Bay in fall 2008 are encouraged to submit their applications for
   admission by Nov. 30...
-  <a href="http://news.csumb.edu/priority&#45;applications"
+  <a href="https://news.csumb.edu/priority&#45;applications"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -248,7 +248,7 @@ date: January 01 2020
 <p>
   Tony Boles has joined California State University, Monterey Bay as associate
   vice president of Campus Development and Operations...<a
-    href="http://news.csumb.edu/avp&#45;hired"
+    href="https://news.csumb.edu/avp&#45;hired"
     ><strong>continue reading</strong></a
   >
 </p>
@@ -260,7 +260,7 @@ date: January 01 2020
 <p>
   Applications are being accepted for the Master's in Public Policy program at
   California State University, Monterey Bay...<a
-    href="http://news.csumb.edu/mpp&#45;2007"
+    href="https://news.csumb.edu/mpp&#45;2007"
     ><strong>continue reading</strong></a
   >
 </p>

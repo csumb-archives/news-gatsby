@@ -10,7 +10,7 @@ slug: csumb-video-wins-case-silver-medal
 
 <span class="date">Posted on Jul 15, 2014    </span>
 <p>A video telling the story of CSUMB has taken a top honor in the
-CASE (Council for Advancement and&#xA0;<img alt="Opening shot of " src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/screen_shot_fom_video_for_web.jpg" style="width:370px; height:340px; float:right">Support of
+CASE (Council for Advancement and&#xA0;<img alt="Opening shot of " src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/screen_shot_fom_video_for_web.jpg" style="width:370px; height:340px; float:right">Support of
 Education) Circle of Excellence competition. The awards program is
 open to member colleges, universities, independent schools and
 nonprofits around the world.</img></p>
@@ -38,7 +38,7 @@ decommissioning of Fort Ord. The new video looks forward to the
 future and discusses President Ochoa&apos;s view of where the university
 is headed in the next decade.<br>
 <br>
-View the three-minute version <a href="http://media.csumb.edu/www/details.php?id=5245" rel="nofollow">here</a>. View the 11minute version <a href="http://media.csumb.edu/www/details.php?id=5247" rel="nofollow">here</a>.<br>
+View the three-minute version <a href="https://media.csumb.edu/www/details.php?id=5245" rel="nofollow">here</a>. View the 11minute version <a href="https://media.csumb.edu/www/details.php?id=5247" rel="nofollow">here</a>.<br>
 <br>
 &#xA0;</br></br></br></br></br></br></br></br></br></br></br></p>
 

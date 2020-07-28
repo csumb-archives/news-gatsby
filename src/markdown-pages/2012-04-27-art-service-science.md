@@ -11,7 +11,7 @@ slug: art-in-the-service-of-science
 <span class="date">Posted on Apr 27, 2012    </span>
 <h3>Science illustration students exhibit work at P.G. Museum</h3>
 <p>If you&#x2019;ve ever wondered about the artwork that illustrates
-science textbooks, field guides, and&#xA0;<img alt="Tiger swallowtail butterflies" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/web_tiger_swallowtail.jpg" style="float:left; width:250px; height:270px">interpretive signs
+science textbooks, field guides, and&#xA0;<img alt="Tiger swallowtail butterflies" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/web_tiger_swallowtail.jpg" style="float:left; width:250px; height:270px">interpretive signs
 in parks and nature preserves, you have the opportunity to learn
 about it at an exhibit in Pacific Grove.</img></p>
 <p>Illustrating Nature, the third annual exhibit of work by
@@ -28,7 +28,7 @@ digital media.<br>
 <br>
 Several instructional workshops for adults and children will be
 held in conjunction with the exhibit.</br></br></br></br></p>
-<p><img alt="Fairy wrens" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/web_fairywrens.jpg" style="float:right; width:250px; height:332px">In 2009, the
+<p><img alt="Fairy wrens" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/web_fairywrens.jpg" style="float:right; width:250px; height:332px">In 2009, the
 science illustration program relocated from UC Santa Cruz Extension
 to CSUMB. One of the most prestigious programs of its kind in the
 nation, it prepares students who are sought after by scientific
@@ -46,9 +46,9 @@ Natural History.&#x201D;&#x2028;<br>
 <br>
 Museum hours are 10 a.m.-5 p.m., Tuesday through Sunday. Admission
 is free. More information about the Pacific Grove Museum of Natural
-History is available <a href="http://www.pgmuseum.org/" rel="nofollow">here</a>.</br></br></br></br></img></p>
+History is available <a href="https://www.pgmuseum.org/" rel="nofollow">here</a>.</br></br></br></br></img></p>
 <p>To learn more about the science illustration program at CSUMB,
-click <a href="http://scienceillustration.org/" rel="nofollow">here</a>.<br>
+click <a href="https://scienceillustration.org/" rel="nofollow">here</a>.<br>
 <br>
 The exhibit is only one example of the partnership between CSU
 Monterey Bay and the museum.</br></br></p>
@@ -75,7 +75,7 @@ be a million years older than the ones that roamed Europe and Asia
 in the Ice Age. <strong>Julie Naylor</strong>, a graduate of CSU
 Monterey Bay&#x2019;s Science Illustration program, is helping to bring
 that discovery to the world. To read more, click <a href="../../../2011/sep/9/science-illustrated.html" rel="nofollow">here</a>.</br></p>
-<p><img alt="Instructor Jenny Keller" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/keller_pt._lobos_sm_0_0.jpg" style="float:left; width:200px; height:150px"><strong>Instructor
+<p><img alt="Instructor Jenny Keller" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/keller_pt._lobos_sm_0_0.jpg" style="float:left; width:200px; height:150px"><strong>Instructor
 contributes to book from Harvard Press</strong><br>
 <strong>Jenny Keller</strong>, an instructor in the Science
 Illustration program, contributed a chapter and the cover

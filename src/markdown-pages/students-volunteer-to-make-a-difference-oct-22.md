@@ -53,7 +53,7 @@ date: January 01 2020
 </p>
 <p>
   A list of other volunteer opportunities is available
-  <a href="http://service.csumb.edu/purposeful-service-opportunities">here</a>.
+  <a href="https://service.csumb.edu/purposeful-service-opportunities">here</a>.
 </p>
 <p>
   For more than two decades, Make a Difference Day has been celebrated on the

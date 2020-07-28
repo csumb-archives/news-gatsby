@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>
   SEASIDE, Ca., December 4, 2019 –
-  <a href="http://www.firstnightmonterey.org/">First Night Monterey</a> unveiled
+  <a href="https://www.firstnightmonterey.org/">First Night Monterey</a> unveiled
   its 2020 theme, “Light Up the Night!” and artwork for the upcoming New Year’s
   Eve Celebration at CSUMB’s Alumni and Visitor Center today.
 </p>

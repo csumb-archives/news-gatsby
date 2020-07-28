@@ -54,7 +54,7 @@ date: January 01 2020
 <p>
   For more information about the 2017 Inspiring Leaders in STEM Award and
   <i>INSIGHT Into Diversity</i> magazine,
-  <a href="http://www.insightintodiversity.com"
+  <a href="https://www.insightintodiversity.com"
     >visit insightintodiversity.com</a
   >.&nbsp;
 </p>

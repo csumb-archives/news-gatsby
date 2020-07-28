@@ -14,7 +14,7 @@ slug: spokenword-artist-performs-feb.-1
 <p>In celebration of Black History Month, spoken-word artist Saul
 Williams will perform at CSU Monterey at 7 p.m., Feb. 1, in the
 University Center ballroom.</p>
-<p><img alt="Saul Williams" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/williams_saul3001.jpg" style="float:left; width:300px; height:199px">Williams has been
+<p><img alt="Saul Williams" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/williams_saul3001.jpg" style="float:left; width:300px; height:199px">Williams has been
 called a &#x201C;new-age hip-hop renaissance man&#x201D; by the Fresno Bee.
 Esquire magazine called him the &#x201C;Bob Marley of American poets.&#x201D;</img></p>
 <p>He&#x2019;s a slam poet, author, actor and a musician who raps and

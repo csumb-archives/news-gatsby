@@ -50,8 +50,8 @@ date: January 01 2020
 </p>
 <p>
   To learn more about CSUMB's Watershed Institute, click
-  <a href="http://watershed.csumb.edu/wi/">here</a>. To learn more about the
+  <a href="https://watershed.csumb.edu/wi/">here</a>. To learn more about the
   Return of the Natives restoration education project, click
-  <a href="http://ron.csumb.edu/">here</a>.
+  <a href="https://ron.csumb.edu/">here</a>.
 </p>
 ```

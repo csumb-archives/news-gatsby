@@ -24,7 +24,7 @@ when adolescents are initiating the communication and are seeking
 out social support and guidance from their parents, then almost
 across the board they tend to have better reports of getting along
 with their parents.&#x201D;</p>
-<p><img alt="Dr. Rob Weisskirch" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rob_weisskirch.jpg" style="float:left; width:250px; height:236px">But, &#x201C;when the
+<p><img alt="Dr. Rob Weisskirch" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rob_weisskirch.jpg" style="float:left; width:250px; height:236px">But, &#x201C;when the
 parents call and have a lot of communication around &#x2018;what are you
 doing?&#x2019; or &#x2018;who are you with?&#x2019; or when they&#x2019;re angry at the child
 and upset or scared, the kids report more conflict in the family,&#x201D;
@@ -47,7 +47,7 @@ children (i.e., when children acts as translators for parents and
 other adults), acculturation, and ethnic identity development. In
 addition, he studies the effect of technology on adolescent
 relationships.</p>
-<p>The New York Times article can be found <a href="http://well.blogs.nytimes.com/2011/07/01/what-cellphone-calls-say-about-parent-teenager-relations/#more-54921" rel="nofollow">here</a>.&#xA0;<br>
+<p>The New York Times article can be found <a href="https://well.blogs.nytimes.com/2011/07/01/what-cellphone-calls-say-about-parent-teenager-relations/#more-54921" rel="nofollow">here</a>.&#xA0;<br>
 &#xA0;</br></p>
 
 

@@ -49,7 +49,7 @@ date: January 01 2020
   <em
     >CSUMB offers a
     <a
-      href="http://catalog.csumb.edu/graduate-education/graduate-degrees/marine-science-ms"
+      href="https://catalog.csumb.edu/graduate-education/graduate-degrees/marine-science-ms"
       >master of science degree in marine science</a
     >
     through Moss Landing Marine Labs and is the closest of the seven CSU
@@ -59,7 +59,7 @@ date: January 01 2020
 <p>
   <em
     >Learn about the
-    <a href="http://catalog.csumb.edu/undergrad-education/majors/marine-science"
+    <a href="https://catalog.csumb.edu/undergrad-education/majors/marine-science"
       >undergraduate marine science program</a
     >
     at CSUMB.</em

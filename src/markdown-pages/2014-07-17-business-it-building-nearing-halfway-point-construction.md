@@ -11,7 +11,7 @@ slug: business-it-building-nearing-halfway-point-of-construction
 <span class="date">Posted on Jul 17, 2014    </span>
 <p>As of July 1, the Business and Information Technology (BIT)
 building was approximately 40 percent complete.</p>
-<p><img alt="Rendering of the Business and Information Technology Building" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/csu_monterey_bay_exterior_cam3_small.jpg" style="float:left; width:400px; height:267px">Groundbreaking for
+<p><img alt="Rendering of the Business and Information Technology Building" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/csu_monterey_bay_exterior_cam3_small.jpg" style="float:left; width:400px; height:267px">Groundbreaking for
 CSUMB&apos;s newest academic building was held on Nov. 12. The $43
 million, 58,000-square-foot structure will house the College of
 Business and the School of Information Technology and
@@ -24,8 +24,8 @@ innovation and entrepreneurship crucial for learning.</p>
 will have eight classrooms, 12 labs, offices, conference rooms and
 student study areas.</p>
 <p class="pullquote">Check out the progress of construction via
-<a href="http://media.csumb.edu/bitcam/" rel="nofollow">webcam</a><br>
-View the latest <a href="http://media.csumb.edu/bitcam/latest.php" rel="nofollow">image</a></br></p>
+<a href="https://media.csumb.edu/bitcam/" rel="nofollow">webcam</a><br>
+View the latest <a href="https://media.csumb.edu/bitcam/latest.php" rel="nofollow">image</a></br></p>
 <p>Sustainability strategies are incorporated into the design.
 Spaces are organized to ensure learning environments and staff
 areas receive natural light; storm water runoff will be contained
@@ -56,7 +56,7 @@ designed to be LEED Gold certified.</p>
 projects include San Francisco State University library renovation
 and expansion; UC San Diego School of Management; College of the
 Desert Nursing Complex)</p>
-<p class="small"><img alt="Interior of the BIT Building" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/csu_monterey_bay_interior_cam4_small.jpg" style="float:right; width:450px; height:300px">&#x2022; General
+<p class="small"><img alt="Interior of the BIT Building" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/csu_monterey_bay_interior_cam4_small.jpg" style="float:right; width:450px; height:300px">&#x2022; General
 contractor: Rudolph and Sletten</img></p>
 <p class="small">&#x2022; Size: 58,000 gross square feet</p>
 <p class="small">&#x2022; Start of construction: November 2013</p>
@@ -75,7 +75,7 @@ furniture and equipment, etc.)</p>
 <div class="field-item odd">
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
-<div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/1D8lGYPAh4s&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1"><param name="movie" value="http://www.youtube.com/v/1D8lGYPAh4s&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
+<div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/1D8lGYPAh4s&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1"><param name="movie" value="https://www.youtube.com/v/1D8lGYPAh4s&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
 <param name="allowScriptAccess" value="sameDomain">
 <param name="quality" value="best">
 <param name="allowFullScreen" value="true">

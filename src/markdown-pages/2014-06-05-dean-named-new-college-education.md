@@ -10,7 +10,7 @@ slug: dean-named-for-new-college-of-education
 
 <span class="date">Posted on Jun 05, 2014    </span>
 <p>Jose Luis Alvarado, who has served as associate dean for the
-College of Education at San Diego&#xA0;<img alt="Dr. Jose Luis Alvarado joins CSUMB from San Diego State" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/joseluis-alvarado-.jpg" style="float:left; width:186px; height:260px">State University
+College of Education at San Diego&#xA0;<img alt="Dr. Jose Luis Alvarado joins CSUMB from San Diego State" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/joseluis-alvarado-.jpg" style="float:left; width:186px; height:260px">State University
 since 2010, has been named dean of Cal State Monterey Bay&#x2019;s newly
 created College of Education.</img></p>
 <p>Dr. Alvarado will begin his new duties July 14.</p>

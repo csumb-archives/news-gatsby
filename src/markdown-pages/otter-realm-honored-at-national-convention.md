@@ -36,7 +36,7 @@ date: January 01 2020
 </p>
 <p>
   The Otter Realm is published the first and third Thursday during the school
-  year. It also operates a <a href="http://OtterRealm.net">website</a> where
+  year. It also operates a <a href="https://OtterRealm.net">website</a> where
   news stories are posted on a regular basis. Students in Human Communication
   389, Otter Realm Workshop, produce both.
 </p>

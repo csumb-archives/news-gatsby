@@ -12,25 +12,25 @@ slug: faculty-filmmakers-featured-at-days-and-nights-festival
 <p>Work by CSU Monterey Bay faculty members Soyeon Kim and Luis
 Camara will be part of the program of locally made films when their
 work screens as part of the Philip Glass Center for the Arts,
-Science and Environment&#x2019;s annual <a href="http://daysandnightsfestival.com/" rel="nofollow">Days and Nights
+Science and Environment&#x2019;s annual <a href="https://daysandnightsfestival.com/" rel="nofollow">Days and Nights
 Festival</a>.<br>
 <br>
-<img alt="Ahco on the Road, animated film by Soyeon Kim" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kim_animation.jpg" style="float:right; width:243px; height:171px">Both films explore
+<img alt="Ahco on the Road, animated film by Soyeon Kim" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kim_animation.jpg" style="float:right; width:243px; height:171px">Both films explore
 primary connections between parents and children in relation to
 specific landscapes.</img></br></br></p>
 <p>Created by international award-winning animator Kim, <em>Ahco on
 the Road</em> is a rich and haunting animation that draws its
 inspiration from a nature documentary. Ahco, a baby elephant, is
 separated from her mother, and must make a perilous journey to try
-to find her way back home. <a href="http://daysandnightsfestival.com/festival/ahco-on-the-road/" rel="nofollow">Read more about the film here</a>.<br>
+to find her way back home. <a href="https://daysandnightsfestival.com/festival/ahco-on-the-road/" rel="nofollow">Read more about the film here</a>.<br>
 <br>
 Directed by international independent filmmaker Camara (and
 starring his son and wife, who also co-wrote the script),
-<em>Silencio</em> is a poetic, magical and&#xA0;<img alt="From Silencio, a film by Luis Camara" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/camara_for_web.jpg" style="float:left; width:241px; height:169px">sometimes tragic
+<em>Silencio</em> is a poetic, magical and&#xA0;<img alt="From Silencio, a film by Luis Camara" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/camara_for_web.jpg" style="float:left; width:241px; height:169px">sometimes tragic
 immersion into the imagination of a child whose mother is about to
 abandon him. Drawn into a restaging of the Don Juan story in
 Qeuratero, Mexico, the characters navigate a world re-arranged by a
-child&#x2019;s consciousness. <a href="http://daysandnightsfestival.com/festival/silencio-film/" rel="nofollow">Read more about the film here</a>.</img></br></br></p>
+child&#x2019;s consciousness. <a href="https://daysandnightsfestival.com/festival/silencio-film/" rel="nofollow">Read more about the film here</a>.</img></br></br></p>
 <p>Both films will be screened on Oct. 4 starting at 3 p.m. in
 Sunset Center&#x2019;s Studio 105.</p>
 <p>Last summer, the Monterey Bay Film Society and the Philip Glass

@@ -13,7 +13,7 @@ slug: west&apos;-goes-east
 audience</h3>
 <p>Most Californians are familiar with how struggles over water
 have shaped the modern American West.</p>
-<p><img alt="Enid Baxter Blader" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bladerbaxter_1.jpg" style="float:left; width:250px; height:165px">Enid Baxter Blader
+<p><img alt="Enid Baxter Blader" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bladerbaxter_1.jpg" style="float:left; width:250px; height:165px">Enid Baxter Blader
 will help to educate New Yorkers about that history on Sept. 28,
 when her video, &#x201C;The West,&#x201D; will be projected onto the Manhattan
 Bridge anchorage and archway.</img></p>
@@ -24,7 +24,7 @@ States.<br>
 <br>
 The version that will be shown in New York is drawn from a longer
 film that features a score by If Thousands, and is part of the
-Water, CA video and <a href="http://waterca.net" rel="nofollow">book project</a>&#xA0;co-edited with Nicole
+Water, CA video and <a href="https://waterca.net" rel="nofollow">book project</a>&#xA0;co-edited with Nicole
 Antebi.<br>
 <br>
 &#x201C;I&apos;ve never made such a labor-intensive series,&#x201D; said Blader, chair
@@ -37,7 +37,7 @@ Dumbo Arts Festival in Brooklyn.</p>
 artists, the Codex exhibition is epic-size eye candy that
 transforms space, time and our perceived reality,&#x201D; said the
 Huffington Post.</p>
-<p><img alt="Part of an exhibit at the Armory Center for the Arts in Pasadena" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/painting_for_web.jpg" style="float:right; width:350px; height:396px">Blader&#x2019;s artworks
+<p><img alt="Part of an exhibit at the Armory Center for the Arts in Pasadena" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/painting_for_web.jpg" style="float:right; width:350px; height:396px">Blader&#x2019;s artworks
 have been shown at the Smithsonian in Washington, D.C; the Museum
 of Contemporary Art in Los Angeles; Location One in New York;
 Sundance; and in Vienna, London, Glasgow and Mallorca, among other
@@ -69,7 +69,7 @@ contextualized within the history of Anglo Americans&#x2019; relationships
 with the American West, its people and its landscapes,&#x201D; Blader
 said.</p>
 <p>&#x2022; On Oct. 6, the Water, CA project will be featured in an
-<a href="http://www.armoryarts.org/exhibitions/exhibitions-2012/facing-the-sublime-in-water-ca/" rel="nofollow">exhibition</a> at the Armory Center for Arts in
+<a href="https://www.armoryarts.org/exhibitions/exhibitions-2012/facing-the-sublime-in-water-ca/" rel="nofollow">exhibition</a> at the Armory Center for Arts in
 Pasadena. &#x201C;The West&#x201D; will be projected and screened continuously in
 the museum&apos;s galleries.</p>
 <p>Also on display will be the Water, CA website and two paintings
@@ -79,9 +79,9 @@ contemporary water projects in place. (One of the paintings is
 displayed above.)<br>
 <br>
 &#x2022; On Oct. 16, Blader will give part of a plenary address to several
-thousand scientists at the biennial <a href="http://scienceconf.deltacouncil.ca.gov/" rel="nofollow">Bay-Delta
+thousand scientists at the biennial <a href="https://scienceconf.deltacouncil.ca.gov/" rel="nofollow">Bay-Delta
 Science Conference</a>.&#xA0;</br></br></p>
-<p>&#x2022; On Oct. 17, she will chair a <a href="http://scienceconf.deltacouncil.ca.gov/sites/default/files/documents/BD12ProgramFinal_091812.pdf" rel="nofollow">panel</a> at the conference on the topic, &#x201C;Not Just
+<p>&#x2022; On Oct. 17, she will chair a <a href="https://scienceconf.deltacouncil.ca.gov/sites/default/files/documents/BD12ProgramFinal_091812.pdf" rel="nofollow">panel</a> at the conference on the topic, &#x201C;Not Just
 a Pretty Picture: The Synergy between Art and Science.&#x201D;&#xA0;</p>
 <p>That evening, an exhibition featuring the work of six artists
 she curated for the conference as well as &#x201C;The West&#x201D; will open at

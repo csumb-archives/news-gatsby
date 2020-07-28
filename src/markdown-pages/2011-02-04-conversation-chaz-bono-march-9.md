@@ -19,7 +19,7 @@ public is invited.</br></p>
 <p>The event will take the form of a conversation with the audience
 on physical and social gender transitions, and will include an
 opportunity for attendees to submit written questions.</p>
-<p><img alt="Chaz Bono" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/chazbono_photo.jpg" style="float:right; width:250px; height:166px">Bono is an
+<p><img alt="Chaz Bono" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/chazbono_photo.jpg" style="float:right; width:250px; height:166px">Bono is an
 advocate for the rights of lesbian, gay, bisexual and transgender,
 queer and intersex people, an author and speaker. He came out
 publicly in 1995 in an interview with The Advocate, the national
@@ -37,7 +37,7 @@ journey of identity and self-discovery. Beyond hormone treatments
 and surgeries, the film walks moviegoers through Bono&#x2019;s changing
 relationship with his mother, and with his partner, Jennifer Elia.
 He says he&#x2019;s now infinitely happier and more fulfilled.</p>
-<p><img alt="&apos;Transition&apos; book cover" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/transition_bookcover_photo.jpg" style="float:left; width:200px; height:303px">&#x201C;It&#x2019;s the greatest
+<p><img alt="&apos;Transition&apos; book cover" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/transition_bookcover_photo.jpg" style="float:left; width:200px; height:303px">&#x201C;It&#x2019;s the greatest
 thing I&#x2019;ve ever done in my life. It&#x2019;s the only time I&#x2019;ve felt like
 a complete person,&#x201D; he says in the film.</img></p>
 <p>Parts of his story are familiar to many. Three years ago,

@@ -9,7 +9,7 @@ date: January 01 2020
   A long-extinct creature roams the earth – at least CSUMB's piece of it – once
   again. Mona the Mammoth is part of
   <a
-    href="http://news.csumb.edu/news/2014/apr/14/csumb-goes-green-earth-day-events"
+    href="https://news.csumb.edu/news/2014/apr/14/csumb-goes-green-earth-day-events"
     >CSUMB's celebration of Earth Day</a
   >, and will remain on display through May 17.
 </p>

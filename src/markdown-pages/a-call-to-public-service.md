@@ -30,13 +30,13 @@ date: January 01 2020
   service.
 </p>
 <p>
-  <a href="http://blogs.calstate.edu/voicesviews/?p=1905"
+  <a href="https://blogs.calstate.edu/voicesviews/?p=1905"
     >Continue reading . . . .</a
   >
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2010/jul/22/csumb-student-headed-nations-capital"
+    href="https://news.csumb.edu/news/2010/jul/22/csumb-student-headed-nations-capital"
     >Read an earlier story about Avila</a
   >
 </p>

@@ -23,7 +23,7 @@ date: January 01 2020
 </p>
 <p>
   Admission requirements and application materials are available
-  <a href="http://csumb.edu/msw">here</a>.
+  <a href="https://csumb.edu/msw">here</a>.
 </p>
 <p>
   Potential students who are lacking a prerequisite – human biology and

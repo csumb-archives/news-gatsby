@@ -13,7 +13,7 @@ slug: wakatsuki-houston-visits-csumb-sept.-28
 <p>Author Jeanne Wakatsuki Houston will visit Cal State Monterey
 Bay on Sept. 28 as part of a series of talks around the theme,
 &#x201C;What does democracy mean to you?&#x201D;</p>
-<p><img alt="Jeanne Wakatsuki Houston" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jeanne_houston2.jpg" style="float:right; width:300px; height:169px">She will discuss
+<p><img alt="Jeanne Wakatsuki Houston" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jeanne_houston2.jpg" style="float:right; width:300px; height:169px">She will discuss
 her compelling memoir about her Japanese-American internment
 experience, &#x201C;Farewell to Manzanar,&#x201D; written with her husband James
 D. Houston, which provides her unique perspective on this chapter
@@ -48,7 +48,7 @@ discussion.<br>
 <br>
 The free talk will start at 6 p.m. in the University Center
 ballroom. The University Center is located on Sixth Avenue near B
-Street. Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here.</a>&#xA0;<br>
+Street. Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here.</a>&#xA0;<br>
 <br>
 The event is sponsored by the Monterey County Free Libraries and
 Cal Humanities.<br>

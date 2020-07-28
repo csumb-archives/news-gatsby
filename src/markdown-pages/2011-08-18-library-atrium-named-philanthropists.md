@@ -9,7 +9,7 @@ slug: library-atrium-named-for-philanthropists
 
 
 <span class="date">Posted on Aug 18, 2011    </span>
-<p><img alt="Mike and Linda Dorn with President Harrison and Jim Bracher" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/dornsphoto_081511.jpg" style="float:left; width:300px; height:200px">The three-story
+<p><img alt="Mike and Linda Dorn with President Harrison and Jim Bracher" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/dornsphoto_081511.jpg" style="float:left; width:300px; height:200px">The three-story
 atrium in the Tanimura &amp; Antle Family Memorial Library at
 California State University, Monterey Bay has been named in honor
 of philanthropists Linda and Michael Dorn and their support of the
@@ -93,8 +93,8 @@ he concluded his remarks.</p>
 <p>&#x201C;Nothing would have gotten in the way of my climb toward
 graduation,&#x201D; Capistrano said, &#x201C;but without Pay It Forward, the
 ladder would have been drastically different.&#x201D;</p>
-<p>To learn more about Executives-in-Residence, click <a href="http://csumb.org/about-executives-residence" rel="nofollow">here</a>.</p>
-<p>To learn more about Pay It Forward, click <a href="http://csumb.org/about-pay-it-forward" rel="nofollow">here</a>.</p>
+<p>To learn more about Executives-in-Residence, click <a href="https://csumb.org/about-executives-residence" rel="nofollow">here</a>.</p>
+<p>To learn more about Pay It Forward, click <a href="https://csumb.org/about-pay-it-forward" rel="nofollow">here</a>.</p>
 <p class="small"><em>Photo by Randy Tunnell</em><br>
 <em>Left to right: Michael and Linda Dorn, CSUMB President Dianne
 Harrison and Jim Bracher of the Executives-in-Residence program at

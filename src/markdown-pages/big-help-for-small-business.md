@@ -50,9 +50,9 @@ date: January 01 2020
 </p>
 <p>
   More information about the SBDC is available at
-  <a href="http://ucmsbdc.ecenterdirect.com/"
-    >http://ucmsbdc.ecenterdirect.com/</a
+  <a href="https://ucmsbdc.ecenterdirect.com/"
+    >https://ucmsbdc.ecenterdirect.com/</a
   >
-  or <a href="http://www.sba.gov/sbdc">www.sba.gov/sbdc</a>.
+  or <a href="https://www.sba.gov/sbdc">www.sba.gov/sbdc</a>.
 </p>
 ```

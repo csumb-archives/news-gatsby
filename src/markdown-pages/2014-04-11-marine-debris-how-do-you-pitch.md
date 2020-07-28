@@ -14,7 +14,7 @@ that doesn&apos;t involve the discovery of marine debris in some form &#x2013;
 a beer can, bottle cap or cigarette butt. But there are many
 potential solutions, from small-scale beach cleanups to much larger
 scale bans on plastic bags.</p>
-<p><img alt="An example of marine debris in the ocean" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/marine_debris_for_web.jpg" style="width:300px; height:266px; float:left">CSU Monterey Bay&#x2019;s
+<p><img alt="An example of marine debris in the ocean" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/marine_debris_for_web.jpg" style="width:300px; height:266px; float:left">CSU Monterey Bay&#x2019;s
 annual Sanctuary Currents Symposium &#x2013; held in collaboration with
 the Monterey Bay National Marine Sanctuary &#x2013; brings scientists,
 managers, students and members of the public together to address
@@ -28,7 +28,7 @@ concludes with the Ricketts Memorial Lecture at 2:15 p.m.</p>
 presentation scheduled for 9:15. All activities will be held in the
 University Center on the campus of Cal State Monterey Bay. The
 University Center is located on Sixth Avenue at B Street. Driving
-directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here.</a></p>
+directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here.</a></p>
 <p>Sponsors include CSUMB and its Institute for Applied Marine
 Ecology; NOAA and the National Marine Sanctuaries; the Monterey Bay
 Aquarium and Save the Earth.</p>
@@ -56,7 +56,7 @@ Monterey Bay National Marine Sanctuary Today and in the Future by
 Dr. Francisco Chavez of the Monterey Bay Aquarium Research
 Institute</p>
 <p>For more information, to pre-register and to order a box lunch,
-<a href="http://www.montereybay.noaa.gov/research/currsymp2014" rel="nofollow">click here</a>.&#xA0;</p>
+<a href="https://www.montereybay.noaa.gov/research/currsymp2014" rel="nofollow">click here</a>.&#xA0;</p>
 <p><br>
 &#xA0;</br></p>
 ```

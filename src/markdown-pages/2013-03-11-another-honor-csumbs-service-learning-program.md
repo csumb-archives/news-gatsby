@@ -11,7 +11,7 @@ slug: another-honor-for-csumb&apos;s-service-learning-program
 <span class="date">Posted on Mar 11, 2013    </span>
 <h3>Most decorated service learning program in the country</h3>
 <p>CSU Monterey Bay was named to the 2013 President&#x2019;s Higher
-Education Community Service Honor&#xA0;<img alt="logo for Higher Education Community Service Honor Roll" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/03_honorroll_logo.jpg" style="float:left; width:300px; height:300px">Roll. This
+Education Community Service Honor&#xA0;<img alt="logo for Higher Education Community Service Honor Roll" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/03_honorroll_logo.jpg" style="float:left; width:300px; height:300px">Roll. This
 designation is the highest honor a college or university can
 receive for its commitment to service learning and civic
 engagement.</img></p>
@@ -55,7 +55,7 @@ scope and innovation of service projects, the extent to which
 service-learning is embedded in the curriculum, the school&#x2019;s
 commitment to long-term campus-community partnerships, and
 measurable community outcomes as a result of the service.</p>
-<p><a href="http://csumb.edu/service" rel="nofollow">Learn more
+<p><a href="https://csumb.edu/service" rel="nofollow">Learn more
 about Service Learning at CSUMB.</a></p>
 
 

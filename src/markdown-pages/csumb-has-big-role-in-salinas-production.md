@@ -119,7 +119,7 @@ date: January 01 2020
 </p>
 <p>
   To learn more about the Teledramatic Arts and Technology Department at CSUMB,
-  click <a href="http://csumb.edu/tat">here</a>.
+  click <a href="https://csumb.edu/tat">here</a>.
 </p>
 <p>
   Photos by Richard Green for The Western Stage Top photo: CSUMB alum

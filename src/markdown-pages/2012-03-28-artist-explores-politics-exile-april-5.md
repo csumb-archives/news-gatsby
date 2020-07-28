@@ -11,7 +11,7 @@ slug: artist-explores-politics-of-exile-on-april-5
 <span class="date">Posted on Mar 28, 2012    </span>
 <h3>Iranian-born Taraneh Hemami visits CSUMB</h3>
 <p>Iranian-born visual artist Taraneh Hemami has two homes &#x2013; and
-she also has none. When Hemami&#xA0;<img alt="&apos;Free,&apos; on display at San Francisco&apos;s Yerba Buena Center for the Arts" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/free-neon300.jpg" style="float:left; width:300px; height:200px">came to the United
+she also has none. When Hemami&#xA0;<img alt="&apos;Free,&apos; on display at San Francisco&apos;s Yerba Buena Center for the Arts" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/free-neon300.jpg" style="float:left; width:300px; height:200px">came to the United
 States in 1978 to attend the University of Oregon, she planned to
 return home after she finished school. Within a year, however, the
 Iranian Revolution had changed her homeland forever and prevented
@@ -27,9 +27,9 @@ KQED&#x2019;s Quest program in an interview several years ago.</br></p>
 <p>The local community will have the opportunity to learn about
 Hemami&#x2019;s work when she visits CSU Monterey Bay on April 5. Her free
 talk, part of the Visiting Artists Series, will start at 6 p.m. in
-the&#xA0;<img alt="Taraneh Hemami" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/hemami.taraneh.jpg" style="float:right; width:233px; height:175px">University Center
+the&#xA0;<img alt="Taraneh Hemami" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/hemami.taraneh.jpg" style="float:right; width:233px; height:175px">University Center
 ballroom. The University Center is located on Sixth Avenue at B
-Street. Driving directions and a campus map can be found <a href="http://csumb.edu/map" rel="nofollow">here</a>.</img></p>
+Street. Driving directions and a campus map can be found <a href="https://csumb.edu/map" rel="nofollow">here</a>.</img></p>
 <p>One of her public art projects is currently on display at San
 Francisco&#x2019;s Yerba Buena Center for the Arts. The installation, on
 display until August of 2013, is a neon sign with the word &#x201C;free&#x201D; &#x2013;

@@ -29,7 +29,7 @@ date: January 01 2020
   75,000 school children, 450 CSUMB students, 6,500 youth and 1,300 Monterey
   County families have worked with RON.
 </p>
-<p><a href="http://ron.csumb.edu">Learn more about RON</a></p>
+<p><a href="https://ron.csumb.edu">Learn more about RON</a></p>
 <p>
   <a href="https://www.montereycountygives.com/"
     >Learn more about Monterey County Gives</a

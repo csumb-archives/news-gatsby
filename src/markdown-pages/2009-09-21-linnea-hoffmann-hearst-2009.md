@@ -13,7 +13,7 @@ Sept. 21, 2009<br>
 <br>
 <br>
 <strong>CSUMB student earns Hearst Scholarship</strong>
-<p><img alt="Linnea Hoffmann" height="133" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Hoffman_small.jpg" style="float:right" width="200">Linnea Hoffmann, a sophomore at
+<p><img alt="Linnea Hoffmann" height="133" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Hoffman_small.jpg" style="float:right" width="200">Linnea Hoffmann, a sophomore at
 California State University, Monterey Bay, has won a William
 Randolph Hearst/CSU Trustees&apos; Award for Outstanding Achievement.
 The award is among the highest forms of recognition for students in

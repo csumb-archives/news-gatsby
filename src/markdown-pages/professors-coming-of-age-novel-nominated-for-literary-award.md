@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   Professor Deb Busman’s novel <em>Like a Woman</em> is a finalist for a
   <a
-    href="http://www.lambdaliterary.org/features/news/03/08/28th&#45;annual&#45;lambda&#45;literary&#45;award&#45;finalists&#45;announced/"
+    href="https://www.lambdaliterary.org/features/news/03/08/28th&#45;annual&#45;lambda&#45;literary&#45;award&#45;finalists&#45;announced/"
     >Lambda Literary Award</a
   >. The awards, in multiple categories, celebrate achievement in lesbian, gay,
   bisexual and transgender writing published in 2015.
@@ -20,7 +20,7 @@ date: January 01 2020
 
   <em
     ><a
-      href="http://www.lambdaliterary.org/reviews/03/26/like&#45;a&#45;woman&#45;by&#45;debra&#45;busman/"
+      href="https://www.lambdaliterary.org/reviews/03/26/like&#45;a&#45;woman&#45;by&#45;debra&#45;busman/"
       >Like a Woman</a
     ></em
   >

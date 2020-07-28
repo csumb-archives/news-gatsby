@@ -12,7 +12,7 @@ slug: keepin&apos;-it-reel
 <h3>Annual Reel Work film festival returns to CSUMB</h3>
 <p>CSU Monterey Bay is set to host three events as part of the 11th
 annual Reel Work May Day Labor Film Festival.</p>
-<p><img alt="The annual Reel World film festival returns to CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/reel_work_logo.jpg" style="float:left; width:200px; height:261px">The festival
+<p><img alt="The annual Reel World film festival returns to CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/reel_work_logo.jpg" style="float:left; width:200px; height:261px">The festival
 features films that illuminate the lives and struggles of workers
 in the United States and around the world. Two of the campus
 showings will be accompanied by a speaker, the third will include a
@@ -48,10 +48,10 @@ Admission to all events is by voluntary donation; the $2 university
 parking fee must be paid. The California Faculty Association,
 student and community groups are sponsoring all events.</br></br></p>
 <p>For a complete listing of this year&#x2019;s films in Monterey, Santa
-Cruz and Santa Clara counties, click <a href="http://www.reelwork.org" rel="nofollow">here</a>. For more
+Cruz and Santa Clara counties, click <a href="https://www.reelwork.org" rel="nofollow">here</a>. For more
 information on the CSUMB screenings, contact Jennifer Colby at
 726-2006 or <a href="mailto:jcolby@csumb.edu">jcolby@csumb.edu</a>.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here.</a><br>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here.</a><br>
 &#xA0;</br></p>
 
 

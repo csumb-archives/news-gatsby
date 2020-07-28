@@ -21,7 +21,7 @@ date: January 01 2020
   Skinner expects to graduate in May and intends to pursue a master’s degree in
   Spanish and become an educator. The award helped her participate in CSUMB’s
   <a
-    href="http://news.csumb.edu/news/2014/jun/17/students&#45;travel&#45;spain&#45;summer&#45;school"
+    href="https://news.csumb.edu/news/2014/jun/17/students&#45;travel&#45;spain&#45;summer&#45;school"
     >summer program in Spain</a
   >.
 </p>
@@ -50,7 +50,7 @@ date: January 01 2020
 <p>
   The Singleton Scholarships are made possible by contributions from members of
   the
-  <a href="http://www.wacmb.org/WACMB/WACMB&#45;Home&#45;Page.html"
+  <a href="https://www.wacmb.org/WACMB/WACMB&#45;Home&#45;Page.html"
     >World Affairs Council of the Monterey Bay.</a
   >
 </p>

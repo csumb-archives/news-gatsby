@@ -35,10 +35,10 @@ date: January 01 2020
 <p>
   Tickets are $40 premium, $29 general. Discounts are available for students,
   military members and seniors. Tickets can be purchased
-  <a href="http://csumb.edu/worldtheater">online</a> or by calling the box
+  <a href="https://csumb.edu/worldtheater">online</a> or by calling the box
   office at 582-4580.
 </p>
-<p><a href="http://csumb.edu/maps">Driving directions and a campus map</a></p>
+<p><a href="https://csumb.edu/maps">Driving directions and a campus map</a></p>
 <p>
   <em
     >The Hungarian State Folk Ensemble has a special character. Behind the

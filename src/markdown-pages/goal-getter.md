@@ -72,7 +72,7 @@ date: January 01 2020
   my life,” she said. To learn more about the Panetta Institute’s Congressional
   Internship Program, click
   <a
-    href="http://www.panettainstitute.org/programs/study-with-us/congressional-intern-training/"
+    href="https://www.panettainstitute.org/programs/study-with-us/congressional-intern-training/"
     >here</a
   >.
 </p>

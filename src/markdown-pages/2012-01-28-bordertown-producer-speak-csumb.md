@@ -13,10 +13,10 @@ slug: producer-to-speak-at-csumb
 Feb. 22 when documentary filmmaker and human rights activist
 Barbara Martinez Jitner visits campus. Her topic: &#x201C;Femicide at our
 Border: To be a Woman in Juarez is a Death Sentence.&#x201D;</p>
-<p><img alt="Barbara Martinez Jitner" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jitner-b.jpg" style="float:left; width:200px; height:200px">The talk will start
+<p><img alt="Barbara Martinez Jitner" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jitner-b.jpg" style="float:left; width:200px; height:200px">The talk will start
 at 7 p.m. at the World Theater, and will be followed by a
 question-and-answer session. Tickets are not required for this free
-event, but reservations are recommended and can be made <a href="http://csumb.edu/speakers" rel="nofollow">online</a>&#xA0;or by
+event, but reservations are recommended and can be made <a href="https://csumb.edu/speakers" rel="nofollow">online</a>&#xA0;or by
 calling the World Theater box office at (831) 582-4580.</img></p>
 <p>The border town of Juarez, Mexico, has been nicknamed the
 &#x201C;capital of murdered women&#x201D; because more than 400 women have been
@@ -45,7 +45,7 @@ She is currently adapting Victor Villasenor&#x2019;s bestselling book,
 &#x201C;Rain of Gold,&#x201D; for an HBO miniseries.<br>
 <br>
 For more information on the lecture or the movie showing, contact
-the World Theater at (831) 582-3653 or go&#xA0;<a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>.<br>
+the World Theater at (831) 582-3653 or go&#xA0;<a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>.<br>
 <br>
 <br>
 &#xA0;</br></br></br></br></br></br></br></p>

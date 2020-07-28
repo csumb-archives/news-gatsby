@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>
   <a
-    href="http://www.awareandprepare.org/news/october-is-fire-preparedness-month/"
+    href="https://www.awareandprepare.org/news/october-is-fire-preparedness-month/"
     >October is National Fire Preparedness Month</a
   >. CSU Monterey Bay uses it as an opportunity to perform safety assessments of
   campus buildings and to remind everyone to pay attention to safety issues.
@@ -31,7 +31,7 @@ date: January 01 2020
 <p>
   More information is
   <a
-    href="http://police.csumb.edu/news/2013/oct/7/october-fire-preparedness-month"
+    href="https://police.csumb.edu/news/2013/oct/7/october-fire-preparedness-month"
     >available here</a
   >.
 </p>

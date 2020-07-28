@@ -13,7 +13,7 @@ slug: blue-goes-green
 <p>CSU Monterey Bay&#x2019;s Police Department has joined a growing number
 of law enforcement agencies parking Toyota Prius hybrids next to
 their Crown Victorias as they go green.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/prius_small.jpg" style="float:right; width:425px; height:271px">It reflects an
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/prius_small.jpg" style="float:right; width:425px; height:271px">It reflects an
 international trend &#x2013; dozens of police departments including
 Lincoln, Neb., New York City, London and Abu Dhabi have adopted the
 fuel-efficient vehicles for various uses.<br>

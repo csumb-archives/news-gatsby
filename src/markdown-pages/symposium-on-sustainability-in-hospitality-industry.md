@@ -55,14 +55,14 @@ date: January 01 2020
 <p>
   Lunch and a wine and cheese networking reception are included in the $75
   registration fee. Registration may be completed online at
-  <a href="http://hospitalitysymposium.eventbrite.com/">http://</a>
-  <a href="http://hospitalitysymposium.eventbrite.com/"
+  <a href="https://hospitalitysymposium.eventbrite.com/">https://</a>
+  <a href="https://hospitalitysymposium.eventbrite.com/"
     >hospitalitysymposium.eventbrite.com</a
   >
 </p>
 <p>
   More information on the Institute of Innovation and Economic Development is
-  available <a href="http://innovation.csumb.edu">here</a>; learn more about the
-  Monterey County Business Council <a href="http://www.mcbc.biz.">here</a>.
+  available <a href="https://innovation.csumb.edu">here</a>; learn more about the
+  Monterey County Business Council <a href="https://www.mcbc.biz.">here</a>.
 </p>
 ```

@@ -39,12 +39,12 @@ date: January 01 2020
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
-  Learn more about VPA <a href="http://vpa.csumb.edu/">here</a>. Learn more
+  Learn more about VPA <a href="https://vpa.csumb.edu/">here</a>. Learn more
   about the Balfour/Brutzman Gallery
-  <a href="http://balbrutzgallery.tumblr.com/">here</a>.
+  <a href="https://balbrutzgallery.tumblr.com/">here</a>.
 </p>
 <p>Above:* Battle Flag of the Unknown Artist *by Xavier Bellante.</p>
 ```

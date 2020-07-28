@@ -42,7 +42,7 @@ Visitors Center, on the corner of Gen. Jim Moore Boulevard and
 Inter-Garrison Road. Driving directions and a campus map are
 available at csumb.edu/map.<br>
 <br>
-Registration is required and can be accomplished at <a href="http://californiasbdc.org/collaborative/monterey" title="http://californiasbdc.org/collaborative/monterey">http://californiasbdc.org/collaborative/monterey</a>
+Registration is required and can be accomplished at <a href="https://californiasbdc.org/collaborative/monterey" title="https://californiasbdc.org/collaborative/monterey">https://californiasbdc.org/collaborative/monterey</a>
 or by calling 675-7232.</br></br></br></br></br></br></br></br></br></br></p>
 
 

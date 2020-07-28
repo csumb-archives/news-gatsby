@@ -15,7 +15,7 @@ Classroom becomes stage in &apos;A Midsummer Night&apos;s Dream&apos;
 Midsummer Night&apos;s Dream.&quot; As the class begins, the students chat
 among themselves about the usual things &#x2013; their personal
 relationships, school events and such.</p>
-<p><img alt="Titiana" height="224" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Titania%20smile.jpg" style="float:right" width="150">Then something unusual happens.
+<p><img alt="Titiana" height="224" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Titania%20smile.jpg" style="float:right" width="150">Then something unusual happens.
 The students and professor begin to slip into the play, becoming
 the characters and performing their actions as if taken over by the
 power of the verse itself.</img></p>

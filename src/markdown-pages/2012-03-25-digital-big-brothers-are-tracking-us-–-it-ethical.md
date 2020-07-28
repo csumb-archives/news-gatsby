@@ -14,7 +14,7 @@ slug: digital-big-brothers-are-tracking-us-is-it-ethical
 credit card or drive across a toll bridge using FastTrak, we leave
 a digital trail.<br>
 <br>
-<img alt="March 28 forum examines issues of data mining" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/essay_bazalgette.jpg" style="float:right; width:250px; height:250px">Who&#x2019;s paying
+<img alt="March 28 forum examines issues of data mining" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/essay_bazalgette.jpg" style="float:right; width:250px; height:250px">Who&#x2019;s paying
 attention to that trail? It&apos;s not just Big Brother Government; it&apos;s
 also Big Brother Google, Big Brother Target and Big Brother
 Facebook. It&apos;s called data mining and it happens because our

@@ -14,7 +14,7 @@ celebrate Heritage&#xA0;Month on Nov. 8</br></em></h3>
 <p>Flute player Vince Redhouse will visit Cal State Monterey Bay as
 part of the university&#x2019;s celebration of Native American Heritage
 Month.</p>
-<p><img alt="Vince Redhouse visits CSUMB Nov. 8 as part of Native American Heritage Month" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/vince_redhouse.jpg" style="float:left; width:400px; height:267px">Redhouse will be on
+<p><img alt="Vince Redhouse visits CSUMB Nov. 8 as part of Native American Heritage Month" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/vince_redhouse.jpg" style="float:left; width:400px; height:267px">Redhouse will be on
 campus on Nov. 8 for a full day of activities, including a
 workshop; a concert; and a panel discussion on contemporary
 American Indian identity.</img></p>
@@ -37,7 +37,7 @@ Seaside, where the family was raised.)</p>
 <p>&quot;I think I was 7 years old when I first started playing the
 little recorders that they give in elementary school, which leads
 to clarinet and then the saxophone,&quot; he told the Voice of America
-in a 2009&#xA0;<img alt="Redhouse with Native American flute" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/vince_redhouse_with_native_flute.jpg" style="float:right; width:250px; height:387px">interview. &quot;So I
+in a 2009&#xA0;<img alt="Redhouse with Native American flute" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/vince_redhouse_with_native_flute.jpg" style="float:right; width:250px; height:387px">interview. &quot;So I
 started playing clarinet. And then about a year after I started
 playing the clarinet, I was introduced to piano lessons and then
 the Beatles hit and I started playing guitar . . . .&quot;</img></p>
@@ -91,9 +91,9 @@ Discourse.&quot;&#xA0;<br>
 <br>
 The community is invited to attend the events. Reservations are
 requested and can be made by calling 582-3890. Driving directions
-and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>. &#xA0;<br>
+and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>. &#xA0;<br>
 <br>
-<a href="http://sbgs.csumb.edu/" rel="nofollow">Learn more about
+<a href="https://sbgs.csumb.edu/" rel="nofollow">Learn more about
 the Division of Social, Behavioral and Global Studies.</a></br></br></br></br></br></br></br></br></p>
 
 

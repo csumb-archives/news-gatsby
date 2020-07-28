@@ -61,33 +61,33 @@ date: January 01 2020
 </p>
 <p>
   The list is featured in the magazine's summer issue and can be found online at
-  <a href="http://www.filmmakermagazine.com/">www.filmmakermagazine.com</a>.
+  <a href="https://www.filmmakermagazine.com/">www.filmmakermagazine.com</a>.
   Established in 1992, the publication covers the craft and business of
   filmmaking and has a readership of 60,000.
 </p>
 <p><strong>For more information:</strong></p>
 <p>
   <em>American Nobodies</em> can be viewed
-  <a href="http://www.americannobodies.com/">here.</a>
+  <a href="https://www.americannobodies.com/">here.</a>
 </p>
 <p>
   View the trailer for <em>Charlie and the Rabbit</em
-  ><a href="http://www.charlieandtherabbit.com/">here.</a>
-  <a href="http://www.charlieandtherabbit.com/"></a>
+  ><a href="https://www.charlieandtherabbit.com/">here.</a>
+  <a href="https://www.charlieandtherabbit.com/"></a>
 </p>
 <p>
   View the trailer for <em>Ella and the Astronaut</em
-  ><a href="http://www.ellaandtheastronaut.com/">here</a>.<a
-    href="http://www.ellaandtheastronaut.com/"
+  ><a href="https://www.ellaandtheastronaut.com/">here</a>.<a
+    href="https://www.ellaandtheastronaut.com/"
   ></a>
 </p>
 <p>
   Read more about Machoian and Ojeda-Beck
-  <a href="http://news.csumb.edu/site/x24887.xml">here.</a>
+  <a href="https://news.csumb.edu/site/x24887.xml">here.</a>
 </p>
 <p>
   Learn more about CSUMB's Teledramatic Arts and Technology Department
-  <a href="http://tat.csumb.edu/">here.</a>
+  <a href="https://tat.csumb.edu/">here.</a>
 </p>
 <p>
   *Photo by Don PorterRobert Machoian (left) and Rodrigo Ojeda-Beck talk with

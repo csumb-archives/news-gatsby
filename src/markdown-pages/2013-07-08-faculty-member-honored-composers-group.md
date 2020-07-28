@@ -67,9 +67,9 @@ well as recent performances.<br>
 According to the organization, the grants support the growth and
 development of the nation&#x2019;s musical future.<br>
 <br>
-<a href="http://www.laniersammons.com/Main/" rel="nofollow">Read
+<a href="https://www.laniersammons.com/Main/" rel="nofollow">Read
 more about Dr. Sammons</a>.</br></br></br></br></br></br></br></br></br></br></br></br></br></p>
-<p><a href="http://csumb.edu/music" rel="nofollow">Learn more about
+<p><a href="https://csumb.edu/music" rel="nofollow">Learn more about
 the Music and Performing Arts program at CSUMB.</a></p>
 <p><a href="../../../2012/nov/25/faculty-highlights.html" rel="nofollow">Read more faculty news</a><br>
 &#xA0;</br></p>

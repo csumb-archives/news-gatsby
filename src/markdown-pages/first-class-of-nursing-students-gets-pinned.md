@@ -59,7 +59,7 @@ date: January 01 2020
   “The one thing I know for sure about our graduating class is no matter what
   nursing position we fill in the community, we will put our patient’s needs
   first and strive to make positive changes in health care,” Riccobono said.
-  <a href="http://csumb.edu/nursing"
+  <a href="https://csumb.edu/nursing"
     >Learn more about the nursing program at CSUMB</a
   >
 </p>

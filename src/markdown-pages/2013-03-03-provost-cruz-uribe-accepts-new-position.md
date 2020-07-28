@@ -13,7 +13,7 @@ slug: provost-cruzuribe-accepts-new-position
 <p><br>
 CSU Monterey Bay Provost Kathy Cruz-Uribe has accepted the position
 of chancellor at Indiana University East.</br></p>
-<p><img alt="Provost Kathy Cruz-Uribe" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kathy_cruz-uribe.jpg" style="float:left; width:250px; height:375px">Dr. Cruz-Uribe, who
+<p><img alt="Provost Kathy Cruz-Uribe" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kathy_cruz-uribe.jpg" style="float:left; width:250px; height:375px">Dr. Cruz-Uribe, who
 has served the campus as provost and vice president of academic
 affairs since 2007, will assume her new position July 1.</img></p>
 <p>&#x201C;As I move to a new chapter of my life as Chancellor of Indiana

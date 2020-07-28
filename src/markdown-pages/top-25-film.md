@@ -42,8 +42,8 @@ date: January 01 2020
 <p>
   View the film here:
   <a
-    href="http://edcommunity.apple.com/insomnia_fall07/collection.php?collectionID=5"
-    >http://edcommunity.apple.com/insomnia_fall07/collection.php?collectionID=5</a
+    href="https://edcommunity.apple.com/insomnia_fall07/collection.php?collectionID=5"
+    >https://edcommunity.apple.com/insomnia_fall07/collection.php?collectionID=5</a
   >
 </p>
 ```

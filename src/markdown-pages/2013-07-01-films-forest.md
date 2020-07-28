@@ -12,7 +12,7 @@ slug: films-in-the-forest
 <h4>CSUMB presents student-made short screen gems July 14</h4>
 <p>Grab your blankets and pillows and head to the forest.<br>
 <br>
-The Forest Theater Guild will host a stellar&#xA0;<img alt="From the film &apos;Blue&apos; by Leanna Munoz" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/blue.jpg" style="float:right; width:300px; height:225px">selection of CSU
+The Forest Theater Guild will host a stellar&#xA0;<img alt="From the film &apos;Blue&apos; by Leanna Munoz" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/blue.jpg" style="float:right; width:300px; height:225px">selection of CSU
 Monterey Bay student films at this year&#x2019;s Carmel Short Cinema
 Festival on July 14 at the outdoor Forest Theater. The showing will
 begin at sunset. Admission is $10. The program is about an hour
@@ -40,7 +40,7 @@ Tickets can be purchased at the door. The program is expected to
 start around 8:30 p.m. Spectators are advised to wear warm clothing
 and may want to bring a blanket. Concessions will be available. The
 Forest Theater is located at the corner of Mountain View and Santa
-Rita streets near downtown Carmel. For information, visit <a href="http://www.foresttheaterguild.org./" title="http://www.foresttheaterguild.org./">http://www.foresttheaterguild.org./</a><br>
+Rita streets near downtown Carmel. For information, visit <a href="https://www.foresttheaterguild.org./" title="https://www.foresttheaterguild.org./">https://www.foresttheaterguild.org./</a><br>
 
 <br>
 This program is presented with support from the Monterey Bay Film

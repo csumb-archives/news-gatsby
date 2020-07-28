@@ -120,9 +120,9 @@ date: January 01 2020
   like mine. I’ve never felt more connected to mankind and I can’t wait to
   travel to the countries of my new friends.”
 </p>
-<p><a href="http://www.soliya.net">Learn more about Soliya</a>.</p>
+<p><a href="https://www.soliya.net">Learn more about Soliya</a>.</p>
 <p>
-  <a href="http://sbgs.csumb.edu/programs/global-studies-major"
+  <a href="https://sbgs.csumb.edu/programs/global-studies-major"
     >Learn about the Global Studies program at CSUMB.</a
   >
 </p>

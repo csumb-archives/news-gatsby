@@ -28,7 +28,7 @@ date: January 01 2020
   schoolchildren, and "The River of Photos," a 24&#45;inch by 200&#45;foot
   montage. Both were part of a recent exhibit at the National Steinbeck Center.
   To read more about the exhibit,
-  <a href="http://csumb.edu/site/x24937.xml">click here</a>. The other grant
+  <a href="https://csumb.edu/site/x24937.xml">click here</a>. The other grant
   supported a 2004 exhibition about the Pajaro Watershed.
 </p>
 <p>

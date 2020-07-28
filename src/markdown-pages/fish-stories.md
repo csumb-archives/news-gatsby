@@ -55,7 +55,7 @@ date: January 01 2020
   Admission for the festival is $20; students are free.
 </p>
 <p>
-  The <a href="http://museumofmonterey.org/fishing-2014/">exhibits</a> to follow
+  The <a href="https://museumofmonterey.org/fishing-2014/">exhibits</a> to follow
   include:
 </p>
 <p>
@@ -73,7 +73,7 @@ date: January 01 2020
 <p>
   The Museum of Monterey is located in Monterey’s Custom House Plaza. Hours of
   operation and admission information can be found
-  <a href="http://museumofmonterey.org/about-mom/">here</a>.
+  <a href="https://museumofmonterey.org/about-mom/">here</a>.
 </p>
 <p>
   <em

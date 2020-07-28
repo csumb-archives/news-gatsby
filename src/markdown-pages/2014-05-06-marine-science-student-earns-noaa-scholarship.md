@@ -11,7 +11,7 @@ slug: marine-science-student-earns-noaa-scholarship
 <span class="date">Posted on May 06, 2014    </span>
 <p>Emily Aiken sounds like a campus recruiter when she explains why
 she chose CSU Monterey Bay for graduate school.</p>
-<p><img alt="Emily in diving mask" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/emily_in_mask_for_web.jpg" style="width:300px; height:361px; float:left">&#x201C;It&#x2019;s got a booming
+<p><img alt="Emily in diving mask" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/emily_in_mask_for_web.jpg" style="width:300px; height:361px; float:left">&#x201C;It&#x2019;s got a booming
 marine science program,&#x201D; she said, &#x201C;and an excellent faculty who
 are actively involved in research and serve as great advisers.&#x201D;</img></p>
 <p>Then she shifts into Chamber-of-Commerce mode and mentions the
@@ -33,7 +33,7 @@ support.</p>
 vehicle project in the Gulf of the Farallones National Marine
 Sanctuary, looking at the distribution of fishes relative to deep
 water corals.</p>
-<p><img alt="Emily and friend" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/emily_and_friend_for_web.jpg" style="width:250px; height:229px; float:right">During three years
+<p><img alt="Emily and friend" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/emily_and_friend_for_web.jpg" style="width:250px; height:229px; float:right">During three years
 with the university&#x2019;s Undergraduate Research Opportunities Center,
 she led several underwater projects, participated in research
 cruises and collaborated with the Monterey Bay National Marine
@@ -51,9 +51,9 @@ Only a few are awarded annually.</p>
 June 2000, as a means of honoring her life&#x2019;s work as a marine
 scientist and her contribution to the nation.</p>
 <p>To learn more about the master&#x2019;s program in Applied Marine and
-Watershed Science, click <a href="http://sep.csumb.edu/amws/" rel="nofollow">here</a>.</p>
+Watershed Science, click <a href="https://sep.csumb.edu/amws/" rel="nofollow">here</a>.</p>
 <p>To learn more about the Institute for Applied Marine Ecology,
-click <a href="http://sep.csumb.edu/ifame/" rel="nofollow">here</a>.<br>
+click <a href="https://sep.csumb.edu/ifame/" rel="nofollow">here</a>.<br>
 &#xA0;</br></p>
 <p>&#xA0;</p>
 <p><br>

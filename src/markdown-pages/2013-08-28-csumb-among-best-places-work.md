@@ -16,7 +16,7 @@ Places to Work&quot; study. The purpose of the program is to provide
 vital information to local companies about the practices they use
 to attract and retain talented employees.<br>
 <br>
-<img alt="Best Place to Work logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/best_places_to_work_web.jpg" style="float:left; width:221px; height:143px">CSUMB President
+<img alt="Best Place to Work logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/best_places_to_work_web.jpg" style="float:left; width:221px; height:143px">CSUMB President
 Eduardo Ochoa accepted the award at a luncheon on Aug. 23 at the
 Beach Resort Monterey.</img></br></br></p>
 <p>Personal Dynamics Consulting of Florida designed a 40-question

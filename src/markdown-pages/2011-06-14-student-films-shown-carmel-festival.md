@@ -11,7 +11,7 @@ slug: student-films-shown-at-carmel-festival-june-19
 <span class="date">Posted on Jun 14, 2011    </span>
 <h3>Outdoor Forest Theater hosts third annual event&#xA0;<br>
 <br>
-<img alt="movie cameras" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/slimgnews012.jpg" style="float:left; width:150px; height:159px"/></br></br></h3>
+<img alt="movie cameras" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/slimgnews012.jpg" style="float:left; width:150px; height:159px"/></br></br></h3>
 <p>Work by students at California State University, Monterey Bay
 will be presented at the third annual Carmel Short Film Festival
 scheduled for dusk on June 19 at the Outdoor Forest Theater.</p>
@@ -31,7 +31,7 @@ expected to start around 8 p.m.<br>
 Spectators are advised to wear warm clothing and may want to bring
 a blanket. Concessions will be available.The Forest Theater is
 located at the corner of Mountain View and Santa Rita streets near
-downtown Carmel. For information, visit the web at <a href="http://www.foresttheaterguild.org" title="www.foresttheaterguild.org">www.foresttheaterguild.org</a>.<br>
+downtown Carmel. For information, visit the web at <a href="https://www.foresttheaterguild.org" title="www.foresttheaterguild.org">www.foresttheaterguild.org</a>.<br>
 <br>
 On the program are:</br></br></br></br></br></br></p>
 <p><em>Into the Dream</em> by&#xA0;Evelyn Montes<br>

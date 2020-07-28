@@ -13,7 +13,7 @@ date: January 01 2020
 <p>
   The free event gets under way at 9 a.m. For more information, click
   <a
-    href="http://ideals.csumb.edu/ripple-effects-far-reaching-impacts-local-ocean-research"
+    href="https://ideals.csumb.edu/ripple-effects-far-reaching-impacts-local-ocean-research"
     >here</a
   >.
 </p>

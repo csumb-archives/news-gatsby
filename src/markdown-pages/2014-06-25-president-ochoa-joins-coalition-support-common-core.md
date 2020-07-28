@@ -11,9 +11,9 @@ slug: president-ochoa-joins-coalition-to-support-common-core
 <span class="date">Posted on Jun 25, 2014    </span>
 <p>CSU Monterey Bay President Eduardo Ochoa has joined more than
 200 college and university leaders from 33 states in a new
-coalition, <a href="http://www.higheredforhigherstandards.org" rel="nofollow">Higher Ed for Higher Standards</a>, to mobilize in
+coalition, <a href="https://www.higheredforhigherstandards.org" rel="nofollow">Higher Ed for Higher Standards</a>, to mobilize in
 support of the Common Core State Standards.</p>
-<p><img alt="Higher Ed for Higher Standards logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/higher_ed.jpg" style="width:240px; height:100px; float:left">Postsecondary
+<p><img alt="Higher Ed for Higher Standards logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/higher_ed.jpg" style="width:240px; height:100px; float:left">Postsecondary
 leaders view the Common Core standards, with their focus on career
 and college readiness, as critical for improving student
 success.</img></p>
@@ -57,8 +57,8 @@ programs.</p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/5s0rRk9sER0&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/5s0rRk9sER0&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/5s0rRk9sER0&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/5s0rRk9sER0&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>

@@ -22,7 +22,7 @@ date: January 01 2020
 <p>
   • A virtual oral history
   <a
-    href="http://news.csumb.edu/news/2013/jul/5/students-help-tell-stories-chinatown"
+    href="https://news.csumb.edu/news/2013/jul/5/students-help-tell-stories-chinatown"
     >walking tour of Chinatown</a
   >
 </p>
@@ -47,7 +47,7 @@ date: January 01 2020
 <p>
   In 2010, Dr. Tchen was the keynote speaker at CSUMB’s symposium,
   <a
-    href="http://news.csumb.edu/news/2010/oct/18/news/home-holidays-will-have-national-significance-speaker-says"
+    href="https://news.csumb.edu/news/2010/oct/18/news/home-holidays-will-have-national-significance-speaker-says"
     >Salinas Chinatown: Once and Again.</a
   >
 </p>
@@ -57,11 +57,11 @@ date: January 01 2020
   Dorothy’s Place, a soup kitchen and shelter on Soledad Street. In 2005, the
   university and Chinatown stakeholders formed a partnership for renewal. The
   next year, the
-  <a href="http://service.csumb.edu/community-garden-park"
+  <a href="https://service.csumb.edu/community-garden-park"
     >Soledad Street Unity Garden</a
   >
   and a community center opened. In 2011, a
-  <a href="http://wetec.csumb.edu/public-computing-center-salinas-chinatown"
+  <a href="https://wetec.csumb.edu/public-computing-center-salinas-chinatown"
     >computer lab and digital literacy classroom</a
   >
   was added to the center.

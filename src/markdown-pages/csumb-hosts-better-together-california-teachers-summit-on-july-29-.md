@@ -47,6 +47,6 @@ date: January 01 2020
 <p>
   All California teachers, teacher candidates and school administrators are
   invited to participate. Registration is available online at
-  <a href="http://cateacherssummit.com/">cateacherssummit.com</a>
+  <a href="https://cateacherssummit.com/">cateacherssummit.com</a>
 </p>
 ```

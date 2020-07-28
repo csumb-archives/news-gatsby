@@ -13,7 +13,7 @@ slug: university-earns-community-engagement-classification
 again honored CSU Monterey Bay for its focus on service and public
 engagement, making it one of only 361 institutions in the United
 States to hold the classification.</p>
-<p><img alt="Community Engagement badge" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/carnegie_cec_digital_seal.jpg" style="width:300px; height:299px; float:left">The 2015 Community
+<p><img alt="Community Engagement badge" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/carnegie_cec_digital_seal.jpg" style="width:300px; height:299px; float:left">The 2015 Community
 Engagement Classification documents CSUMB&#x2019;s &#x201C;excellent alignment
 among campus mission, culture, leadership, resources and practices
 that support dynamic and noteworthy community engagement,&#x201D;
@@ -32,7 +32,7 @@ to continue to build on our tradition of service learning and to
 seek new and meaningful ways to build partnerships that help move
 our community forward,&#x201D; the president said.</p>
 <p>In 1970, the Carnegie Commission on Higher Education developed
-the first <a href="http://carnegieclassifications.iu.edu" rel="nofollow">classification system</a> for American colleges and
+the first <a href="https://carnegieclassifications.iu.edu" rel="nofollow">classification system</a> for American colleges and
 universities as a research tool to describe and represent the
 diversity of U.S. higher education. The Community Engagement
 category was first created in 2006, and the designation was awarded
@@ -47,7 +47,7 @@ from every academic program, emblematic of CSUMB&apos;s commitment to
 active learning and its concern for its role as a &quot;steward of the
 region.&quot;</br></br></br></p>
 <p>CSUMB is one of the few universities in the nation &#x2013; public or
-private &#x2013; to have made <a href="http://service.csumb.edu" rel="nofollow">service learning</a> a graduation requirement for all
+private &#x2013; to have made <a href="https://service.csumb.edu" rel="nofollow">service learning</a> a graduation requirement for all
 students. Through service learning, all CSUMB academic departments
 and programs have been able to develop strong relationships
 throughout the community.</p>
@@ -58,15 +58,15 @@ in the region.<br>
 <br>
 A few examples of the university&#x2019;s outstanding accomplishments in
 service learning and community engagement include:</br></br></p>
-<p>&#x2022; CSUMB&apos;s <a href="http://service.csumb.edu/programs/chinatown-renewal-project" rel="nofollow">Chinatown Renewal Project</a>, which involves over 100
+<p>&#x2022; CSUMB&apos;s <a href="https://service.csumb.edu/programs/chinatown-renewal-project" rel="nofollow">Chinatown Renewal Project</a>, which involves over 100
 students each year in the revitalization of Chinatown neighborhood
 in Salinas;</p>
-<p>&#x2022; <a href="http://ron.csumb.edu" rel="nofollow">Return of the
+<p>&#x2022; <a href="https://ron.csumb.edu" rel="nofollow">Return of the
 Natives</a> environmental restoration project, which works with
 over 60 students in various environmental efforts;</p>
-<p>&#x2022; The <a href="http://seafloor.otterlabs.org" rel="nofollow">Seafloor Mapping Project</a>, which develops detailed
+<p>&#x2022; The <a href="https://seafloor.otterlabs.org" rel="nofollow">Seafloor Mapping Project</a>, which develops detailed
 maps for state agencies;</p>
-<p>&#x2022; The <a href="http://archaeology.csumb.edu/Courses/MissionArchaeology/introduction.htm" rel="nofollow">Mission Conservation Program</a>, which involves
+<p>&#x2022; The <a href="https://archaeology.csumb.edu/Courses/MissionArchaeology/introduction.htm" rel="nofollow">Mission Conservation Program</a>, which involves
 dozens of students in conservation and interpretation projects at
 the region&apos;s historic missions;</p>
 <p>&#x2022; </p>

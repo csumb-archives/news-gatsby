@@ -79,11 +79,11 @@ date: January 01 2020
 <p>
   <em
     >Learn more about
-    <a href="http://eosp.csumb.edu/upward-bound">Upward Bound</a> and
-    <a href="http://eosp.csumb.edu/educational-talent-search"
+    <a href="https://eosp.csumb.edu/upward-bound">Upward Bound</a> and
+    <a href="https://eosp.csumb.edu/educational-talent-search"
       >Educational Talent S</a
     >
-    <a href="http://eosp.csumb.edu/educational-talent-search">earch</a> at Cal
+    <a href="https://eosp.csumb.edu/educational-talent-search">earch</a> at Cal
     State Monterey Bay.</em
   >
 </p>

@@ -11,7 +11,7 @@ slug: students-in-a-jam
 <span class="date">Posted on Jun 24, 2013    </span>
 <h3>Upward Bound, Talent Search participants learn teamwork at
 Summer Jam</h3>
-<p><img alt="More than 500 high school students attended Upward Bound&apos;s Summer Jam at CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/summer_jam_2013_for_web.jpg" style="width:550px; height:381px"/></p>
+<p><img alt="More than 500 high school students attended Upward Bound&apos;s Summer Jam at CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/summer_jam_2013_for_web.jpg" style="width:550px; height:381px"/></p>
 <p>Kevin Martinez will have to make some tough decisions about his
 education when he graduates from Soledad High School in 2016.</p>
 <p>The 14-year-old, who is thinking about becoming a doctor, is
@@ -64,8 +64,8 @@ rate.</p>
 <p>CSUMB&#x2019;s Education Talent Search program serves students at
 Alisal, Gonzales, Greenfield, King City, Seaside, Soledad and
 Watsonville high schools.</p>
-<p><em>Learn more about <a href="http://eosp.csumb.edu/upward-bound" rel="nofollow">Upward
-Bound</a> and <a href="http://eosp.csumb.edu/educational-talent-search" rel="nofollow">Educational Talent S</a><a href="http://eosp.csumb.edu/educational-talent-search" rel="nofollow">earch</a> at Cal State Monterey Bay.</em><br>
+<p><em>Learn more about <a href="https://eosp.csumb.edu/upward-bound" rel="nofollow">Upward
+Bound</a> and <a href="https://eosp.csumb.edu/educational-talent-search" rel="nofollow">Educational Talent S</a><a href="https://eosp.csumb.edu/educational-talent-search" rel="nofollow">earch</a> at Cal State Monterey Bay.</em><br>
 &#xA0;</br></p>
 
 

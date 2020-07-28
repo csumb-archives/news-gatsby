@@ -33,7 +33,7 @@ representatives of today&#x2019;s Western culture. These artists express
 the vitality and power of tradition.</p>
 <p>Performers include:<br>
 <br>
-<img alt="Wylie Gustafson" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wylie_gustafson_sm.jpg" style="float:left; width:200px; height:306px">&#x2022; <strong>Wylie
+<img alt="Wylie Gustafson" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wylie_gustafson_sm.jpg" style="float:left; width:200px; height:306px">&#x2022; <strong>Wylie
 &amp; The Wild West</strong>: Five-thirty in the morning is not an
 hour generally claimed by musicians. Despite his successful career
 as one of America&#x2019;s most popular Western entertainers, singer and
@@ -57,7 +57,7 @@ player Warren Buffet couldn&#x2019;t resist joining them on a song.</p>
 song: North Bear&#x2019;s members represent tribes from across the Great
 Plains. The group performs hand drum songs with youthful energy and
 style influenced by modern rhythm and blues and hip-hop.</p>
-<p><img alt="The Quebe Sisters" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/the_quebe_sisters_band_sm.jpg" style="float:right; width:250px; height:183px">&#x2022; <strong>Paul
+<p><img alt="The Quebe Sisters" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/the_quebe_sisters_band_sm.jpg" style="float:right; width:250px; height:183px">&#x2022; <strong>Paul
 Zarzyski</strong>, rodeo poet: Recipient of the Montana Governor&apos;s
 Award for Literature, Zarzyski spent 15 years on the rodeo circuit
 as a bareback bronc rider before deciding to concentrate solely on
@@ -72,7 +72,7 @@ cultural expressions &#x2013; music, crafts, stories and dance passed down
 through time by families, communities, tribal, ethnic and
 occupational groups.<br>
 <br>
-<img alt="Los Texmaniacs" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/los_texmaniacs_sm.jpg" style="float:left; width:200px; height:148px">Bring the entire
+<img alt="Los Texmaniacs" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/los_texmaniacs_sm.jpg" style="float:left; width:200px; height:148px">Bring the entire
 family for this evening of fiddling, song, poetry and Native
 American drumming.<br>
 <br>
@@ -80,17 +80,17 @@ Tickets are $50 for reserved table seats with beverage service; all
 other seats at first-come, first-seated and range from $35 for
 general admission to $10 for children. Senior citizens, military
 and student discounts are available. Tickets can be purchased by
-calling the World Theater box office at (831) 582-4580 or <a href="http://csumb.edu/worldtheater." rel="nofollow">online</a>.<br>
+calling the World Theater box office at (831) 582-4580 or <a href="https://csumb.edu/worldtheater." rel="nofollow">online</a>.<br>
 <br>
 The University Center is located on Sixth Avenue on the CSUMB
-campus. Driving directions and a campus map are available <a href="http://csumb.edu/map." rel="nofollow">here</a>.&#xA0;<br>
+campus. Driving directions and a campus map are available <a href="https://csumb.edu/map." rel="nofollow">here</a>.&#xA0;<br>
 <br>
 IF YOU COME<br>
 &#x2022; WHAT: Don&#x2019;t Fence Me In, Music and Poetry of the American
 West<br>
 &#x2022; WHERE: CSUMB&#x2019;s University Center<br>
 &#x2022; WHEN: 7:30 p.m., Feb. 29<br>
-&#x2022; TICKETS: $10 to $50; reserve <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>&#xA0;or
+&#x2022; TICKETS: $10 to $50; reserve <a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>&#xA0;or
 by calling the box office at 582-4580<br>
 &#x2022; INFORMATION: (831) 582-4580&#xA0;</br></br></br></br></br></br></br></br></br></br></br></img></br></br></p>
 <p class="small">Photos (from top)<br>

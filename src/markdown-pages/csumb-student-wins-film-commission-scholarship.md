@@ -48,10 +48,10 @@ date: January 01 2020
   was last year’s recipient.
 </p>
 <p>
-  <a href="http://csumb.edu/tat"
+  <a href="https://csumb.edu/tat"
     >Learn more about the Cinematic Arts and Technology Department</a
   >
-  <a href="http://www.FilmMonterey.org"
+  <a href="https://www.FilmMonterey.org"
     >Learn more about the Monterey County Film Commission</a
   >
 </p>

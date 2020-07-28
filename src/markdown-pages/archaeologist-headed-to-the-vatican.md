@@ -36,7 +36,7 @@ date: January 01 2020
 <p>
   In a March
   <a
-    href="http://www.latimes.com/local/great&#45;reads/la&#45;me&#45;c1&#45;serra&#45;awakening&#45;20150317&#45;story.html#page=1"
+    href="https://www.latimes.com/local/great&#45;reads/la&#45;me&#45;c1&#45;serra&#45;awakening&#45;20150317&#45;story.html#page=1"
     >interview</a
   >, Dr. Mendoza told the Los Angeles Times that he grew up believing that
   Father Serra, founder of nine of the California missions, imposed a slave

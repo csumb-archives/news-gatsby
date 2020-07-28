@@ -13,7 +13,7 @@ slug: east-meets-west-in-gesture-and-voice
 <p>Nationally acclaimed choreographer and performer Sheetal Gandhi
 will visit California State University, Monterey Bay&#x2019;s World
 Theater on Oct. 9. Showtime is 7:30 p.m.</p>
-<p><img alt="Sheetal Gandhi visits campus Oct. 9" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/sheetal.mac_version.jpg" style="float:left; width:400px; height:275px">She will perform
+<p><img alt="Sheetal Gandhi visits campus Oct. 9" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/sheetal.mac_version.jpg" style="float:left; width:400px; height:275px">She will perform
 her one-woman show, &#x201C;Bahu-Beti-Biwi&#x201D; (Daughter-in-law, Daughter,
 Wife), which explores her cultural heritage as a 21st century
 Californian whose life is still shaped by age-old Indian
@@ -33,14 +33,14 @@ with her equally urgent desire to break from it.</p>
 collaboration with composer Joe Trapanese whose music for the stage
 has been described as &#x201C;precise and evocative&#x201D; by the New York
 Times.</p>
-<p><img alt="Sheetal Gandhi has toured with Cirque du Soleil and acted on broadway" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/headshot4.jpg" style="float:right; width:200px; height:134px">Gandhi has a
+<p><img alt="Sheetal Gandhi has toured with Cirque du Soleil and acted on broadway" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/headshot4.jpg" style="float:right; width:200px; height:134px">Gandhi has a
 varied resume. She has toured with Cirque du Soleil, performed with
 the National Dance Ensemble of Ghana, and acted on Broadway; she&#x2019;s
 a percussionist with a university degree in psychology and
 dance.</img></p>
 <p>This event is free; no tickets or reservations are required.
 Attendees must purchase a parking pass for a nominal fee. Driving
-directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 <p>The performance is sponsored by Student Activities and
 Leadership Development and the World Theater, with funding support
 from the New England Foundation for the Arts National Dance

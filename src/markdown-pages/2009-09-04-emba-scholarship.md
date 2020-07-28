@@ -39,7 +39,7 @@ slug: emba-scholarship
   100% online program, please feel free to share this with them.
 </p>
 <p>
-  <a href="http://emba.csumb.edu/index.aspx" rel="nofollow"
+  <a href="https://emba.csumb.edu/index.aspx" rel="nofollow"
     >Click here for information</a
   >
   or call 877.813.2215 to speak with an Admissions Advisor.

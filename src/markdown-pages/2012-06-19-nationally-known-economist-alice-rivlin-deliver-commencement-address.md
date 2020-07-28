@@ -10,7 +10,7 @@ slug: nationally-known-economist-alice-rivlin-to-deliver-commencement-address
 
 <span class="date">Posted on Jun 19, 2012    </span>
 <h3>University holds 16th graduation ceremony May 19</h3>
-<p><img alt="Economist Alice Rivlin" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rivlina_original.jpg" style="float:right; width:300px; height:450px">Dr. Alice Rivlin,
+<p><img alt="Economist Alice Rivlin" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rivlina_original.jpg" style="float:right; width:300px; height:450px">Dr. Alice Rivlin,
 a member of President Barack Obama&apos;s National Commission on
 Fiscal&#xA0;Responsibility and Reform, founding director of the
 Congressional Budget Office and a senior fellow at the Brookings
@@ -72,7 +72,7 @@ Mason University and The New School universities.<br>
 She has a bachelor&apos;s degree from Bryn Mawr College and a doctorate
 from Radcliffe College at Harvard University, both in
 economics.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
-<p>Learn more about commencement <a href="http://csumb.edu/commencement" rel="nofollow">here</a>.<br>
+<p>Learn more about commencement <a href="https://csumb.edu/commencement" rel="nofollow">here</a>.<br>
 <br>
 &#xA0;</br></br></p>
 

@@ -42,17 +42,17 @@ date: January 01 2020
   Affairs Committee will sponsor a night hike from 7:30 to 10 p.m. The week ends
   with a reggae concert on <strong>Friday, April 26</strong>, at the Black Box
   Cabaret.
-  <a href="http://ron.csumb.edu/calendar"
+  <a href="https://ron.csumb.edu/calendar"
     >See what CSUMB’s Return of the Natives project has planned for April 20 to
     celebrate Earth Day.</a
   >
-  <a href="http://news.csumb.edu/news/2013/apr/15/charge-your-ride"
+  <a href="https://news.csumb.edu/news/2013/apr/15/charge-your-ride"
     >A variety of recent transportation initiatives are helping to reduce
     vehicle-related greenhouse gas emissions on campus.</a
   >
 </p>
 <p>
-  <a href="http://ideals.csumb.edu/sustainability"
+  <a href="https://ideals.csumb.edu/sustainability"
     >Learn more about sustainability efforts at CSUMB.</a
   >
 </p>

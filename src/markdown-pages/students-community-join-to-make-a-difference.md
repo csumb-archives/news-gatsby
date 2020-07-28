@@ -21,17 +21,17 @@ date: January 01 2020
   this the biggest Make a Difference Day that Monterey County has ever seen. The
   goal is to get 500 students registered to participate by Oct. 20. Students can
   pledge to participate as individuals or as a group, club or class. Sign up
-  <a href="http://service.csumb.edu/2012-make-difference-day">here</a>. Make a
+  <a href="https://service.csumb.edu/2012-make-difference-day">here</a>. Make a
   Difference Day volunteer opportunities can be found
-  <a href="http://service.csumb.edu/make-difference-day-opportunities">here</a>
-  or <a href="http://www.volunteermontereycounty.org/csumb_serves">here</a>. As
+  <a href="https://service.csumb.edu/make-difference-day-opportunities">here</a>
+  or <a href="https://www.volunteermontereycounty.org/csumb_serves">here</a>. As
   of Oct. 8, approximately 100 students have signed up. They’re being encouraged
   to wear CSUMB attire while doing their volunteer work so the county can see
   the impact they are making. CSUMB’s Make a Difference Day is coordinated by
   Purposeful Service Opportunities, a project of the Service Learning Institute
   and AmeriCorps’ Volunteer Infrastructure Project. More information about
   service opportunities is available
-  <a href="http://service.csumb.edu/purposeful-service-opportunities">here</a>
+  <a href="https://service.csumb.edu/purposeful-service-opportunities">here</a>
   or by contacting Steven Goings at
   <a
     href="&#109;&#97;&#105;&#x6c;&#x74;o&#58;&#115;&#103;&#x6f;&#x69;n&#103;&#115;&#64;&#x63;&#x73;u&#109;&#98;&#x2e;&#x65;&#x64;u"

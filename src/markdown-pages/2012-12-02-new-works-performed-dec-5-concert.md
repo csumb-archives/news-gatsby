@@ -9,7 +9,7 @@ slug: concert-features-chamber-music-by-csumb-instructor
 <span class="date">Posted on Dec 02, 2012 </span>
 
 <h3>Community invited to free event</h3>
-<p><img alt="Dr. Lanier Sammons" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/sammons.lanier.small_.jpg" style="float:right; width:250px; height:338px">Dr. Lanier
+<p><img alt="Dr. Lanier Sammons" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/sammons.lanier.small_.jpg" style="float:right; width:250px; height:338px">Dr. Lanier
 Sammons, a lecturer in the Music and Performing Arts Department,
 will premiere some of his compositions on Dec. 5 at a free concert
 in the Music Hall. The performance will get under way at 8
@@ -18,9 +18,9 @@ p.m.<br>
 &#x201C;I have an ensemble of great musicians and they&#x2019;ll be performing
 pieces I wrote for my dissertation&#x201D; while a graduate student at the
 University of Virginia, he said. The performers, all active chamber
-musicians based in San Francisco, are <a href="http://www.mstraus.net/" rel="nofollow">Michael Straus</a>
-(saxophone), <a href="http://www.danajessen.com/" rel="nofollow">Dana Jessen</a> (bassoon), <a href="http://www.kylebruckmann.com/" rel="nofollow">Kyle Bruckmann</a>
-(oboe) and <a href="http://www.giacomofiore.com/" rel="nofollow">Giacomo Fiore</a> (guitar).<br>
+musicians based in San Francisco, are <a href="https://www.mstraus.net/" rel="nofollow">Michael Straus</a>
+(saxophone), <a href="https://www.danajessen.com/" rel="nofollow">Dana Jessen</a> (bassoon), <a href="https://www.kylebruckmann.com/" rel="nofollow">Kyle Bruckmann</a>
+(oboe) and <a href="https://www.giacomofiore.com/" rel="nofollow">Giacomo Fiore</a> (guitar).<br>
 <br>
 All the pieces are audience-interactive. &#x201C;The audience is in some
 way vital to the performance of each piece. The pieces literally
@@ -50,7 +50,7 @@ performances.<br>
 <br>
 According to the organization, the grants support the growth and
 development of the nation&#x2019;s musical future.&#x2028;&#x2028;This is his first
-semester at CSUMB. For more information, visit his <a href="http://www.laniersammons.com/Main/" rel="nofollow">website</a>.<br>
+semester at CSUMB. For more information, visit his <a href="https://www.laniersammons.com/Main/" rel="nofollow">website</a>.<br>
 <br>
 <em>Photo courtesy of Dr. Sammons</em></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></p>
 

@@ -12,7 +12,7 @@ slug: csumb-awarded-$8.6-million-to-boost-teacher-quality
 <p>CSU Monterey Bay has received one of 24 grants from the U.S
 Department of Education to recruit, train and support new teachers
 primarily in science, technology, engineering and math (STEM).</p>
-<p><img alt="teacher education logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/teacher_education.jpg" style="float:left; width:350px; height:560px">The Teacher Quality
+<p><img alt="teacher education logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/teacher_education.jpg" style="float:left; width:350px; height:560px">The Teacher Quality
 Partnership grant totals $8.6 million over five years and will
 allow the university to work with high-need school districts to
 strengthen teacher preparation programs, ensuring that teachers
@@ -47,7 +47,7 @@ has received recently. The university was awarded $14 million to
 start a GEAR UP program that will work with local students as they
 progress from middle school through high school and into
 college.</p>
-<p><a href="http://teach.csumb.edu" rel="nofollow">Learn more about
+<p><a href="https://teach.csumb.edu" rel="nofollow">Learn more about
 teacher education programs at CSUMB</a>.</p>
 
 

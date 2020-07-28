@@ -55,7 +55,7 @@ date: January 01 2020
   living in poverty around the world,” she said.
 </p>
 <p>
-  <a href="http://wlc.csumb.edu/"
+  <a href="https://wlc.csumb.edu/"
     >Learn more about the School of World Languages and Cultures at CSUMB.</a
   >
 </p>

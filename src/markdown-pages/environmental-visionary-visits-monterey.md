@@ -63,11 +63,11 @@ date: January 01 2020
 </p>
 <p>
   The talk is free and open to the public. Reservations are requested and can be
-  made <a href="http://CSUMB.EDU/forum">online</a>.
+  made <a href="https://CSUMB.EDU/forum">online</a>.
 </p>
 <p>For more information, call Dr. Dan Fernandez at 582-3786.</p>
 <p>
-  <a href="http://ideals.csumb.edu/sustainability"
+  <a href="https://ideals.csumb.edu/sustainability"
     >Learn about sustainability at CSUMB</a
   >.
 </p>

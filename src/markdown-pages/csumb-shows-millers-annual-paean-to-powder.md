@@ -31,10 +31,10 @@ date: January 01 2020
   Sponsors include CSUMB Outdoor Recreation, Outdoor Adventure Club and the
   Otter Student Union.
 </p>
-<p><a href="http://csumb.edu/map">Driving directions and a campus map.</a></p>
-<p><a href="http://www.skinet.com/warrenmiller/">Watch the trailer</a>.</p>
+<p><a href="https://csumb.edu/map">Driving directions and a campus map.</a></p>
+<p><a href="https://www.skinet.com/warrenmiller/">Watch the trailer</a>.</p>
 <p>
-  <a href="http://csumb.edu/outdoor"
+  <a href="https://csumb.edu/outdoor"
     >Learn more about outdoor recreation at CSUMB.</a
   >
 </p>

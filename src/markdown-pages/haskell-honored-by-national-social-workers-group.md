@@ -28,14 +28,14 @@ date: January 01 2020
 </p>
 <p>
   She is the campus affiliate director of the
-  <a href="http://ncbi.org">National Coalition Building Institute</a>,an
+  <a href="https://ncbi.org">National Coalition Building Institute</a>,an
   international organization whose mission is to eliminate racism and other
   forms of oppression.
 </p>
 <p>
   Her 2013 book,
   <em
-    ><a href="http://www.combineddestinies.com"
+    ><a href="https://www.combineddestinies.com"
       >Combined Destinies: Whites Sharing Grief About Racism</a
     ></em
   >, co&#45;edited with Ann Jealous, explores the social and emotional

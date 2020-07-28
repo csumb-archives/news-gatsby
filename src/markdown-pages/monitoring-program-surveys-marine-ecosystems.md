@@ -53,7 +53,7 @@ date: January 01 2020
 </p>
 <p>
   For more information, visit the California Sea Grant website at
-  <a href="http://www.csgc.ucsd.edu" title="www.csgc.ucsd.edu"
+  <a href="https://www.csgc.ucsd.edu" title="www.csgc.ucsd.edu"
     >www.csgc.ucsd.edu</a
   >.
 </p>

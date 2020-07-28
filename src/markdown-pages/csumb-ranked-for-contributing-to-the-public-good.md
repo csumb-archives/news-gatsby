@@ -45,7 +45,7 @@ date: January 01 2020
   shape the character of future leaders.” The 2011 Washington Monthly College
   Rankings appear in the September/October issue of the printed magazine and
   <a
-    href="http://www.washingtonmonthly.com/college_guide/rankings_2011/liberal_arts_rank.php"
+    href="https://www.washingtonmonthly.com/college_guide/rankings_2011/liberal_arts_rank.php"
     >online</a
   >.
 </p>

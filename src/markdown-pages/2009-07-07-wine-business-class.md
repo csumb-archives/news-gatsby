@@ -13,7 +13,7 @@ slug: wine-business-class
 <h2>Build that dream wine business<em><br>
 Wine entrepreneurship course at CSUMB can help</br></em></h2>
 <br>
-<img alt="wine glass" height="451" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/wine%20glass.jpg" style="float:left" width="200">Thinking of starting a
+<img alt="wine glass" height="451" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/wine%20glass.jpg" style="float:left" width="200">Thinking of starting a
 wine-related business?&#xA0; If you do, will customers flock to
 it?<br>
 <br>

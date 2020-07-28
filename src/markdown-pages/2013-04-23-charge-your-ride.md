@@ -15,7 +15,7 @@ improvements</br></h3>
 <p>Drivers of electric vehicles can zap their rides at CSU Monterey
 Bay, and it&#x2019;s as easy as plugging in a toaster.<br>
 <br>
-<img alt="Nissan Leaf" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/nissan_leaf.jpg" style="float:right; width:300px; height:225px">The university has
+<img alt="Nissan Leaf" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/nissan_leaf.jpg" style="float:right; width:300px; height:225px">The university has
 installed two electric vehicle &#x2013; EV, in car lingo &#x2013; charging
 stations on campus, accessible by the CSUMB community and the
 public.<br>
@@ -33,11 +33,11 @@ Visitors Center. The other can be found in the lot adjacent to the
 Student Center. Both can charge two vehicles &#x2013; cars, motorcycles,
 electric bikes &#x2013; simultaneously.<br>
 <br>
-<img alt="Electric motorcycles can charge up on campus" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/electric_motorcycle_for_web.jpg" style="float:left; width:275px; height:361px">The spaces are
+<img alt="Electric motorcycles can charge up on campus" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/electric_motorcycle_for_web.jpg" style="float:left; width:275px; height:361px">The spaces are
 available on a first-come, first-served basis. Vehicles must
 display a university parking permit.<br>
 <br>
-Drivers can sign up for a <a href="http://chargepoint.com/chargepointnet/how-sign-up.php" rel="nofollow">ChargePoint access card</a>&#xA0;or they can use a
+Drivers can sign up for a <a href="https://chargepoint.com/chargepointnet/how-sign-up.php" rel="nofollow">ChargePoint access card</a>&#xA0;or they can use a
 credit card (except Discover cards) to open the locked door to the
 charger connection. The service is free, but a card is necessary to
 access the connection.<br>
@@ -86,7 +86,7 @@ recently:<br>
 <br>
 &#x2022; The Bike Bunker, which provides secure, convenient, indoor
 bicycle parking, opened in February. It&#x2019;s located behind the Otter
-Cycle Center. <a href="http://activities.csumb.edu/bike-bunker" rel="nofollow">There are still a few spots available for
+Cycle Center. <a href="https://activities.csumb.edu/bike-bunker" rel="nofollow">There are still a few spots available for
 reservation.</a></br></br></br></br></br></br></br></br></p>
 <p>&#x2022; A real-time bus arrival display has been installed at the
 library stop. And a smart phone app for finding bus stops and
@@ -97,7 +97,7 @@ Transit over its regular bus routes is more convenient than ever.
 Riders need only to swipe their Otter ID cards and take a
 seat.<br>
 <br>
-<a href="http://transportation.csumb.edu/tripwise-home" rel="nofollow">Learn more about transportation resources on
+<a href="https://transportation.csumb.edu/tripwise-home" rel="nofollow">Learn more about transportation resources on
 campus</a>.<br>
 <br>
 <a href="../../../2011/sep/30/blue-goes-green.html" rel="nofollow">Blue goes green: University Police Department gets

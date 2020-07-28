@@ -62,7 +62,7 @@ date: January 01 2020
 </p>
 <p>
   To learn more about summer orientation, click
-  <a href="http://activities.csumb.edu/new-student-otter-orientation">here</a>.
+  <a href="https://activities.csumb.edu/new-student-otter-orientation">here</a>.
 </p>
 <p>?</p>
 ```

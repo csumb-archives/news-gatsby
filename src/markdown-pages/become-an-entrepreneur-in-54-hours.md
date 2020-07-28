@@ -33,7 +33,7 @@ date: January 01 2020
 </p>
 <p>
   The event is organized by the College of Business’
-  <a href="http://innovation.csumb.edu"
+  <a href="https://innovation.csumb.edu"
     >Institute for Innovation and Economic Development.</a
   >
   The institute focuses on the need for more job opportunities in the region and
@@ -44,13 +44,13 @@ date: January 01 2020
   $99 and $49 after Jan. 3. Each ticket includes registration, meals for the
   weekend, snacks and parking.
   <a
-    href="http://www.up.co/communities/usa/monterey&#45;bay/startup&#45;weekend/4824"
+    href="https://www.up.co/communities/usa/monterey&#45;bay/startup&#45;weekend/4824"
     >Register here</a
   >. The public is invited to attend the final team presentations and judging,
   and to meet these new entrepreneurs starting at 4 p.m., Sunday, Jan. 25.
   Tickets are $25 and include dinner.
   <a
-    href="http://www.up.co/communities/usa/monterey&#45;bay/startup&#45;weekend/4824"
+    href="https://www.up.co/communities/usa/monterey&#45;bay/startup&#45;weekend/4824"
     >Register here</a
   >. For more information, contact Program Manager Mary Jo Zenk at &#40;831&#41;
   582&#45;3230 or
@@ -58,6 +58,6 @@ date: January 01 2020
     href="&#x6d;&#97;&#x69;&#108;t&#x6f;&#58;&#x6d;&#122;&#101;&#x6e;&#107;&#x40;&#99;&#115;&#x75;&#109;&#x62;&#x2e;&#101;&#x64;&#117;"
     >mzenk@csumb.edu</a
   >
-  or <a href="http://www.up.co/communities/usa/monterey&#45;bay/">online</a>.
+  or <a href="https://www.up.co/communities/usa/monterey&#45;bay/">online</a>.
 </p>
 ```

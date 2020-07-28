@@ -15,7 +15,7 @@ stellar selection of student films at this year&#x2019;s Capstone
 Festival, scheduled for two public screenings on May 17. The
 matinee showing will begin at 1 p.m.; the program repeats at 6
 o&#x2019;clock. Admission is free.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/tat_capstone_image.jpeg" style="float:left; width:300px; height:225px">Each semester, the
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/tat_capstone_image.jpeg" style="float:left; width:300px; height:225px">Each semester, the
 Teledramatic Arts and Tecnology Department&#x2019;s Capstone Festival
 celebrates the culminating projects of graduating seniors. These
 projects reflect the synthesis of knowledge, skills, and abilities
@@ -24,13 +24,13 @@ year&#x2019;s festival will feature 16 professional-quality film
 productions spanning genres, including documentary, animation,
 narrative and experimental works.<br>
 <br>
-For a list of the films to be screened, <a href="http://tat.csumb.edu/capstone" rel="nofollow">click here</a>.</br></br></img></p>
+For a list of the films to be screened, <a href="https://tat.csumb.edu/capstone" rel="nofollow">click here</a>.</br></br></img></p>
 <p>Please note that some films in the program contain mature
 language or violence.</p>
 <p>The World Theater is located on Sixth Avenue, near the
 intersection with A Street. While the event is free; a $2 parking
 permit must be purchased. Driving directions and a campus map are
-available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 <p>For more information, contact Professor Luis Camara of the
 Teledramatic Arts and Technology Department at <a href="mailto:lcamara@csumb.edu">lcamara@csumb.edu</a> or call 582-43743.
 For disability accommodations, e-mail <a href="mailto:jbenge@csumb.edu">jbenge@csumb.edu</a>.</p>

@@ -49,6 +49,6 @@ date: January 01 2020
 </p>
 <p>
   Learn more about commencement
-  <a href="http://csumb.edu/commencement">here</a>.
+  <a href="https://csumb.edu/commencement">here</a>.
 </p>
 ```

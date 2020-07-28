@@ -14,7 +14,7 @@ date: January 01 2020
 <p>
   The Fresno native will take classes at Nagasaki University this coming school
   year, thanks to the
-  <a href="http://www.iie.org/Programs/Gilman&#45;Scholarship&#45;Program"
+  <a href="https://www.iie.org/Programs/Gilman&#45;Scholarship&#45;Program"
     >Benjamin Gilman International Scholarship</a
   >, a program aimed at helping underrepresented students – those with financial
   need, students with diverse ethnic backgrounds, and students with disabilities

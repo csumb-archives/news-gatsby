@@ -64,12 +64,12 @@ date: January 01 2020
   Ruiz, Germany • Richard Sweet, Japan • Julio Tellez-Gonzalez, Japan
 </p>
 <p>
-  <a href="http://international.csumb.edu/"
+  <a href="https://international.csumb.edu/"
     >Learn more about CSUMB’s international programs</a
   >
 </p>
 <p>
-  <a href="http://www.iie.org/en/Programs/Gilman-Scholarship-Program"
+  <a href="https://www.iie.org/en/Programs/Gilman-Scholarship-Program"
     >Learn more the Gilman International Scholarship program</a
   >
 </p>

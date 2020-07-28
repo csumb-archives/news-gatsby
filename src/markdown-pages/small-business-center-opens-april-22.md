@@ -28,7 +28,7 @@ date: January 01 2020
   a variety of other services helpful to small businesses. In addition to the
   free one-on-one consulting, the centers offer a variety of workshops and
   seminars. For more information, call 422-6232 or<a
-    href="http://sbdc.csumb.edu"
+    href="https://sbdc.csumb.edu"
   >
     visit the center online</a
   >.

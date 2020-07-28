@@ -12,7 +12,7 @@ date: January 01 2020
   Colloquium jointly present a program of speakers, films and panel discussions.
 </p>
 <p>
-  A complete schedule is available <a href="http://csumb.edu/focus">here</a>
+  A complete schedule is available <a href="https://csumb.edu/focus">here</a>
 </p>
 <p>
   "We think of sustainability in terms of environmental issues, economic issues
@@ -49,12 +49,12 @@ date: January 01 2020
   At 6:45: For International Women’s Day, panels will examine women’s rights
   around land, work, health, culture and education. The day’s activities,
   including a vegetarian lunch (available from 11 a.m. to 1 p.m.), are free.
-  Lunch guests are asked to <a href="http://csumb.edu/focus">RSVP</a>.
+  Lunch guests are asked to <a href="https://csumb.edu/focus">RSVP</a>.
   Exhibitors, including AMBAG, Applied Solar Energy, Hartnell College
   Sustainable Construction, Monterey Regional Water Pollution Control Agency,
   MST and the U.S. Green Building Council will have displays set up starting at
   11 a.m. Attendees are encouraged to bike, take public transportation (<a
-    href="http://www.mst.org"
+    href="https://www.mst.org"
     >route information</a
   >) or carpool to the event. There is a $2 campus parking fee. For more
   information, please contact Dr. Daniel Fernandez at (831) 582-3786 or

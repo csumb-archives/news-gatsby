@@ -17,7 +17,7 @@ have in common?</p>
 in the spring through the Osher Lifelong Learning Institute &#x2013; OLLI
 &#x2013; at California State University, Monterey Bay. The courses and
 speakers are specifically geared for those 50 and better.</p>
-<p><img alt="Cover of spring OLLI catalog" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/olli_2015_cover.jpg" style="width:300px; height:388px; float:left">OLLI at CSU
+<p><img alt="Cover of spring OLLI catalog" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/olli_2015_cover.jpg" style="width:300px; height:388px; float:left">OLLI at CSU
 Monterey Bay, with support from the Bernard Osher Foundation, is
 part of a national network that recognizes learning and exploration
 have no age limits. Members are inspired to take a fresh look at
@@ -43,7 +43,7 @@ sign up for a spring semester membership &#x2013; which includes up to
 three courses for $105. Membership includes discounts on World
 Theater and athletic events on campus.</p>
 <p>For more information or to register for classes, call 582-5500
-or visit <a href="http://csumb.edu/olli" rel="nofollow">OLLI
+or visit <a href="https://csumb.edu/olli" rel="nofollow">OLLI
 online</a>.</p>
 <p>Spring catalogs will be mailed to current members the week of
 Dec. 23.</p>

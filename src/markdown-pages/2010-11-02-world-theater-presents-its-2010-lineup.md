@@ -24,7 +24,7 @@ Known as Hawaii&#x2019;s Renaissance man, Kahumoku is an accomplished
 musician as well as a sculptor, painter, teacher, farmer and
 captivating storyteller.</p>
 <p>All performances start at 7:30 p.m. For ticket information,
-visit the theater online at <a href="http://worldtheater.csumb.edu/" rel="nofollow">CSUMB.EDU/worldtheater</a> or call 831-582-4580.<br>
+visit the theater online at <a href="https://worldtheater.csumb.edu/" rel="nofollow">CSUMB.EDU/worldtheater</a> or call 831-582-4580.<br>
 <br>
 &#xA0;</br></br></p>
 <p><br>

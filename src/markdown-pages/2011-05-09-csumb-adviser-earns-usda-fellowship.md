@@ -14,7 +14,7 @@ slug: csumb-adviser-earns-usda-fellowship
 Success at CSU Monterey Bay, was chosen to participate in the U.S.
 Department of Agriculture&#x2019;s Kika de la Garza Education Fellowship
 Program this summer in Washington, D.C.</p>
-<p><img alt="Jihan Ejan" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jihan_headshot.jpg" style="float:right; width:350px; height:527px">The program is
+<p><img alt="Jihan Ejan" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jihan_headshot.jpg" style="float:right; width:350px; height:527px">The program is
 named for the Texas Congressman and former chairman of the House
 Agriculture Committee. It is part of the USDA&#x2019;s Hispanic-Serving
 Institutions program.</img></p>

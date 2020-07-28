@@ -32,7 +32,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://about.csumb.edu/sites/default/files/53/attachments/files/avc.pdf"
+    href="https://about.csumb.edu/sites/default/files/53/attachments/files/avc.pdf"
     >Find driving directions and a campus map here</a
   >.
 </p>
@@ -48,7 +48,7 @@ date: January 01 2020
   >, or call 582-3672.
 </p>
 <p>
-  <a href="http://sdr.csumb.edu/student-disability-resources"
+  <a href="https://sdr.csumb.edu/student-disability-resources"
     >Learn more about Student Disability Resources at CSUMB.</a
   >
 </p>

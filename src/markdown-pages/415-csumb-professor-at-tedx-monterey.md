@@ -45,7 +45,7 @@ date: January 01 2020
 <p>
   Tickets are no longer available, but the conference can be viewed online at
   <a
-    href="http://www.tedxmonterey.org/livestream"
+    href="https://www.tedxmonterey.org/livestream"
     title="www.tedxmonterey.org/livestream"
     >www.tedxmonterey.org/livestream</a
   >.

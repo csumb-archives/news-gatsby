@@ -13,7 +13,7 @@ slug: should-california-have-the-highest-minimum-wage-in-the-us
 <p>Tens of thousands of California&#x2019;s hourly workers will become the
 best paid in the country when a new minimum wage law goes into
 effect.</p>
-<p><img alt="The minimum wage is topic of March 27 ethics panel" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/money.jpeg" style="float:left; width:275px; height:183px">Last September, the
+<p><img alt="The minimum wage is topic of March 27 ethics panel" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/money.jpeg" style="float:left; width:275px; height:183px">Last September, the
 state Legislature voted to raise the minimum wage from $8 to $9 on
 July 1, and to $10 on Jan. 1, 2016. Gov. Jerry Brown and state
 lawmakers said the increase is needed to keep up with rising
@@ -46,9 +46,9 @@ Hospitality Association.</p>
 increases?<br>
 &#x2022; How will the increase impact Monterey County&#x2019;s two biggest
 industries &#x2013; agriculture and hospitality?</br></br></br></p>
-<p>The <a href="http://business.csumb.edu" rel="nofollow">College
-of Business</a> and the <a href="http://itcd.csumb.edu" rel="nofollow">School of Information Technology and Communication
-Design</a> are sponsors of the forum, with support from <a href="http://as.csumb.edu/" rel="nofollow">Associated Students</a>.</p>
+<p>The <a href="https://business.csumb.edu" rel="nofollow">College
+of Business</a> and the <a href="https://itcd.csumb.edu" rel="nofollow">School of Information Technology and Communication
+Design</a> are sponsors of the forum, with support from <a href="https://as.csumb.edu/" rel="nofollow">Associated Students</a>.</p>
 
 
 

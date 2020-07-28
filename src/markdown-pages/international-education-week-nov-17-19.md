@@ -29,7 +29,7 @@ date: January 01 2020
   Nigeria, Brazil, and Serbia. • <strong>Nov. 19</strong>, 6-9 p.m., University
   Center Living Room Culture Panel II –Students will talk about their home
   countries. Hear about Brazil, Serbia, Guatamala Norway and others.
-  <a href="http://international.csumb.edu"
+  <a href="https://international.csumb.edu"
     >Learn about International Programs at CSUMB</a
   >
 </p>

@@ -56,7 +56,7 @@ date: January 01 2020
   communication, business, music and kinesiology.
 </p>
 <p>
-  To learn more about UROC, click <a href="http://uroc.csumb.edu/">here</a>.
+  To learn more about UROC, click <a href="https://uroc.csumb.edu/">here</a>.
 </p>
 <p>
   <em

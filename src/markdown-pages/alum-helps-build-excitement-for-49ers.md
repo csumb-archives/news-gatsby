@@ -11,7 +11,7 @@ date: January 01 2020
   before his San Francisco 49er colleagues Colin Kaepernick, Michael Crabtree
   and Patrick Willis. As a graphic designer and member of the 49ers marketing
   team, Mayberry is the artist behind the
-  <a href="http://instagram.com/49dzn">Quest for Six graphics</a> that have been
+  <a href="https://instagram.com/49dzn">Quest for Six graphics</a> that have been
   building excitement for a Niners Super Bowl run.
 </p>
 <p>
@@ -57,7 +57,7 @@ date: January 01 2020
 </p>
 <p>
   This knowledge and inspiration has also fed into a side business Mayberry runs
-  with his brother, <a href="http://www.diehard.co/">Die Hard apparel,</a> which
+  with his brother, <a href="https://www.diehard.co/">Die Hard apparel,</a> which
   they started while he was still working at CSUMB. The company produces and
   sells clothing for Bay Area sports fans, and the fact that the teams are
   winning has been a boon for the company’s sales. “It’s a great time for Bay

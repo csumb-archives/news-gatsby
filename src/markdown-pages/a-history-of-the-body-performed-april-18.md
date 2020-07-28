@@ -31,7 +31,7 @@ date: January 01 2020
   The production will take place at 7:30 p.m. in the World Theater. The event is
   free, but visitors must purchase a $2 parking permit. The theater is located
   on Sixth Avenue near B Street. Driving directions and a campus map are
-  available <a href="http://csumb.edu/map">here</a>.
+  available <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   CSUMB’s Special Events Committee, Division of Humanities and Communication,
@@ -39,7 +39,7 @@ date: January 01 2020
 </p>
 <p>
   For more information or to request disability accommodations, call
-  <a href="http://activities.csumb.edu/otter-cross-cultural-center"
+  <a href="https://activities.csumb.edu/otter-cross-cultural-center"
     >Cross Cultural Center</a
   >
   coordinator rita zhang at 582-4676.

@@ -15,7 +15,7 @@ move the Salinas Chinatown Cultural Center and Museum another step
 closer to reality.</p>
 <p>The $40,000 grant will be used to plan and design three public
 programs for the future museum.</p>
-<p><img alt="The Republic Cafe will house the Chinatown Cultural Center and Museum" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/chop_suey_sign.for_web.jpg" style="float:right; width:254px; height:415px">Those programs
+<p><img alt="The Republic Cafe will house the Chinatown Cultural Center and Museum" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/chop_suey_sign.for_web.jpg" style="float:right; width:254px; height:415px">Those programs
 are:</img></p>
 <p>&#x2022; A core historical exhibition for the museum, which will be
 housed in the former Republic Caf&#xE9; on Soledad Street</p>
@@ -40,8 +40,8 @@ decades. Almost from the beginning of the university, students
 performed service learning at Dorothy&#x2019;s Place, a soup kitchen and
 shelter on Soledad Street. In 2005, the university and Chinatown
 stakeholders formed a partnership for renewal. The next year, the
-<a href="http://service.csumb.edu/community-garden-park" rel="nofollow">Soledad Street Unity Garden</a> and a community center
-opened. In 2011, a <a href="http://wetec.csumb.edu/public-computing-center-salinas-chinatown" rel="nofollow">computer lab and digital literacy classroom</a> was
+<a href="https://service.csumb.edu/community-garden-park" rel="nofollow">Soledad Street Unity Garden</a> and a community center
+opened. In 2011, a <a href="https://wetec.csumb.edu/public-computing-center-salinas-chinatown" rel="nofollow">computer lab and digital literacy classroom</a> was
 added to the center.</p>
 <p>Over the years, hundreds of service learning students in a
 variety of academic disciplines have worked in the area.&#xA0;</p>

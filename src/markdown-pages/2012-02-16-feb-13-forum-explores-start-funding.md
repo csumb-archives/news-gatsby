@@ -12,11 +12,11 @@ slug: feb.-13-forum-explores-startup-funding
 <p>A panel of experts will visit CSU Monterey Bay on Feb. 13 to
 give a presentation on funding for startups. The public is invited
 to attend.</p>
-<p><img alt="Innovation Forum set for Feb. 13" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/innovation9.jpg" style="float:left; width:300px; height:225px">The free event &#x2013;
+<p><img alt="Innovation Forum set for Feb. 13" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/innovation9.jpg" style="float:left; width:300px; height:225px">The free event &#x2013;
 billed as an Innovation Forum &#x2013; will be held from 4 to 6 p.m. in
 the Alumni and Visitors Center, on Gen. Jim Moore Boulevard and
 Inter-Garrison Road. Driving directions and a campus map are
-available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</img></p>
+available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</img></p>
 <p>Panel members include:</p>
 <p>&#x2022; Terrie Fuentes, Salinas Valley District manager and vice
 president of Wells Fargo</p>

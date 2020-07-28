@@ -13,7 +13,7 @@ slug: hiphop-professor-lectures-on-dec.-6
 <p>Dr. Cheryl Keyes, professor of ethnomusicology in the School of
 Music at UCLA, will lecture on the development of rap/hip-hop music
 when she visits CSU Monterey Bay on Dec. 6.</p>
-<p><img alt="Dr. Cheryl Keyes" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/keyes1.jpg" style="float:left; width:299px; height:200px">The free lecture
+<p><img alt="Dr. Cheryl Keyes" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/keyes1.jpg" style="float:left; width:299px; height:200px">The free lecture
 will be held from 10 to 11:50 a.m. in the Music Hall on Sixth
 Avenue and Butler Street.</img></p>
 <p>Dr. Keyes is the author of &#x201C;Rap Music and Street Consciousness,&#x201D;
@@ -28,7 +28,7 @@ Press-Telegram, hip-hop embodies a larger &#x201C;youth art movement,&#x201D;
 composed of music, graffiti, attitude and dress. Her work draws on
 research she has done in West Africa, New York City, Detroit, Los
 Angeles and London.</p>
-<p><img alt="Rap Music and Street Consciousness book jacket" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/keyes_book_jacket.jpg" style="float:right; width:200px; height:309px">Rap music,
+<p><img alt="Rap Music and Street Consciousness book jacket" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/keyes_book_jacket.jpg" style="float:right; width:200px; height:309px">Rap music,
 according to Dr. Keyes, is a forum that addresses the political and
 economic disenfranchisement of black youths and other groups,
 fosters ethnic pride, and displays cultural values and aesthetics.
@@ -48,7 +48,7 @@ clarinetist Alvin Batiste. Her debut CD, Let Me Take You There, won
 an Image Award from the NAACP in the category of Outstanding World
 Music Album.&#x201D;<br>
 <br>
-Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>. While the lecture
+Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>. While the lecture
 is free, visitors must buy a parking permit from machines located
 on the adjacent lot.</br></br></br></br></br></br></img></p>
 <p>For more information or to arrange for disability

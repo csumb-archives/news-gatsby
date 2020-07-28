@@ -13,7 +13,7 @@ date: January 01 2020
 <p>
   She has worked as an adult education teacher in a family literacy program in
   Arizona, and, in 2013, used her library skills to help youngsters in Guatemala
-  through <a href="http://lwb-online.org">Librarians Without Borders</a> (LWB).
+  through <a href="https://lwb-online.org">Librarians Without Borders</a> (LWB).
 </p>
 <p>
   Founded in 2005, LWB is a volunteer-run, non-profit organization founded by
@@ -59,6 +59,6 @@ date: January 01 2020
   live in poverty, it’s almost impossible to get children excited about reading
   because they can’t get books in their hands.
 </p>
-<p><a href="http://lwb-online.org/?cat=27">Read the trip blog</a></p>
+<p><a href="https://lwb-online.org/?cat=27">Read the trip blog</a></p>
 <p></p>
 ```

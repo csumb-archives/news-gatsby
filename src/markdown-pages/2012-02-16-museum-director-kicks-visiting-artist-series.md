@@ -14,7 +14,7 @@ wants people to be excited about museums.</p>
 <p>She told the Santa Cruz Sentinel: &#x201C;To me, a great museum is like
 a great dinner party &#x2013; somebody greets you at the door and says,
 &#x2018;I&#x2019;m so glad you&#x2019;re here. Let me introduce you to everyone.&#x2019;&#x201D;</p>
-<p><img alt="Nina Simon" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/nina_simon.jpg" style="float:right; width:271px; height:249px">The executive
+<p><img alt="Nina Simon" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/nina_simon.jpg" style="float:right; width:271px; height:249px">The executive
 director of the Santa Cruz Museum of Art and History will bring
 that message to CSU Monterey Bay on Feb. 23 when she kicks off the
 Visiting Artist Lecture Series.</img></p>
@@ -36,9 +36,9 @@ experience development specialist at the International Spy Museum
 in Washington, D.C. She has presented workshops worldwide on
 visitor participation, audience development and creative uses of
 technology.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</p>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</p>
 <p>To learn more about the Visual and Public Art Department at
-CSUMB, <a href="http://vpa.csumb.edu/vpa-home-page" rel="nofollow">click here</a>.&#xA0;</p>
+CSUMB, <a href="https://vpa.csumb.edu/vpa-home-page" rel="nofollow">click here</a>.&#xA0;</p>
 <p><br>
 &#xA0;</br></p>
 

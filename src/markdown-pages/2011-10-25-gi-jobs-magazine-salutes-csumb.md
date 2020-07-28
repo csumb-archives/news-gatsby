@@ -48,14 +48,14 @@ dependents of deceased or disabled veterans through the California
 Department of Veterans Affairs. There are 87 students at CSUMB this
 semester who are using this program.</br></br></p>
 <p>To learn more about federal veterans educational benefits, click
-<a href="http://www.gibill.va.gov" rel="nofollow">here</a>.
+<a href="https://www.gibill.va.gov" rel="nofollow">here</a>.
 Information about services for veterans at CSUMB is available
-<a href="http://csumb.edu/veterans" rel="nofollow">here</a> or by
+<a href="https://csumb.edu/veterans" rel="nofollow">here</a> or by
 e-mailing <a href="mailto:veteran_services@csumb.edu">veteran_services@csumb.edu</a>.<br>
 
 <br>
 G.I. Jobs Magazine&#x2019;s list of top veteran-friendly schools can be
-viewed <a href="http://www.militaryfriendlyschools.com/mfsList.aspx" rel="nofollow">here</a>.</br></br></p>
+viewed <a href="https://www.militaryfriendlyschools.com/mfsList.aspx" rel="nofollow">here</a>.</br></br></p>
 
 
 

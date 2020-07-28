@@ -22,7 +22,7 @@ date: January 01 2020
 <p>
   In his own work as a visual artist, Wood has done a number of large-scale
   public projections. (View a video of his projection onto Coit Tower in San
-  Francisco <a href="http://www.coitlive.com">here</a>.)
+  Francisco <a href="https://www.coitlive.com">here</a>.)
 </p>
 <p>
   “The focus is to produce graphics to be integrated with the architecture of
@@ -37,7 +37,7 @@ date: January 01 2020
 </p>
 <p>
   The class created this
-  <a href="http://www.newgrounds.com/portal/view/550337">piece earlier </a>in
+  <a href="https://www.newgrounds.com/portal/view/550337">piece earlier </a>in
   the semester. It’s representative of the work that will be shown on Dec. 15.
 </p>
 ```

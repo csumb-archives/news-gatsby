@@ -22,7 +22,7 @@ date: January 01 2020
   Academic Hosts of the 29th HENAAC Conference.
 </p>
 <p>
-  <a href="http://www.greatmindsinstem.org">Great Minds in STEMTM</a> is a
+  <a href="https://www.greatmindsinstem.org">Great Minds in STEMTM</a> is a
   501(c)3 a non-profit organization dedicated to keeping America technologically
   strong by promoting Science, Technology, Engineering and Math (STEM) careers,
   especially in underserved communities. Established in 1989 and based in the

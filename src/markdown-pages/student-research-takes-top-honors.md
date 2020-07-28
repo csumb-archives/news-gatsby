@@ -36,7 +36,7 @@ date: January 01 2020
   all amazed by the hard work that went into creating them,” Osiadacz said. For
   more information about the event, click
   <a
-    href="http://conference.montereybayaep.org/conference-details/call-for-student-posters"
+    href="https://conference.montereybayaep.org/conference-details/call-for-student-posters"
     >here</a
   >.
 </p>
@@ -44,7 +44,7 @@ date: January 01 2020
   For more information about the Department of Environmental Science, Technology
   &amp; Policy, click
   <a
-    href="http://catalog.csumb.edu/undergrad-education/majors/environmental-science-technology-policy"
+    href="https://catalog.csumb.edu/undergrad-education/majors/environmental-science-technology-policy"
     >here</a
   >.
 </p>

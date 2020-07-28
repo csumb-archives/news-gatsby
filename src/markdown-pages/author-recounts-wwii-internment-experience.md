@@ -44,7 +44,7 @@ date: January 01 2020
 </p>
 <p>
   Driving directions and a campus map can be found
-  <a href="http://csumb.edu/map">here</a>. "It is a magnificent memoir, fully
+  <a href="https://csumb.edu/map">here</a>. "It is a magnificent memoir, fully
   worthy of being compared to Farewell to Manzanar. I cannot praise its
   pointillist realism, its Zen&#45;like austerity, highly enough. Exquisite."
 </p>

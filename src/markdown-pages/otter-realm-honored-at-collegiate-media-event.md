@@ -9,7 +9,7 @@ date: January 01 2020
 <p>
   For the second straight year, the
   <a
-    href="http://otterrealm.com/wp&#45;content/uploads/2015/09/spring2015ROMP.pdf"
+    href="https://otterrealm.com/wp&#45;content/uploads/2015/09/spring2015ROMP.pdf"
     >Otter Romp</a
   >, a year&#45;end issue of the Otter Realm that features investigative
   reporting, was named best special section at the California College Media
@@ -23,7 +23,7 @@ date: January 01 2020
   ceremony at the Sheraton Universal Hotel in Los Angeles. Taking first place
   for best non&#45;breaking news story was the team of Danny Simon, Katie
   Kishiand Stefan Farhner, whose story headlined “<a
-    href="http://02b9ba5eb526d198453b&#45;c8e947d35177b661dc86119dcf7bad6d.r29.cf2.rackcdn.com/109468114056609e52654d0_0.pdf"
+    href="https://02b9ba5eb526d198453b&#45;c8e947d35177b661dc86119dcf7bad6d.r29.cf2.rackcdn.com/109468114056609e52654d0_0.pdf"
     >CSUMB tries to tighten spigots on East Campus, but water district still
     wants the cash to flow</a
   >” appeared in the Otter Romp. The contest judge referred to the reporters’
@@ -48,7 +48,7 @@ date: January 01 2020
 </p>
 <p>
   The award went to Raquelle Miller and Porras for the podcast, “<a
-    href="http://otterrealm.com/podcast&#45;tired&#45;very&#45;tired/"
+    href="https://otterrealm.com/podcast&#45;tired&#45;very&#45;tired/"
     >Tired, Very Tired</a
   >.” The judge described it as a “compelling first&#45;person piece, especially
   as it rolls out the details of this very busy student’s life. . . I loved the
@@ -58,7 +58,7 @@ date: January 01 2020
   The high quality of coverage and design was also recognized by the Associated
   Collegiate Press as the Otter Realm won third place in the Best of Show
   competition. The Otter Realm is published six times each semester. It also
-  operates a <a href="http://otterrealm.com">website</a>, where stories, videos
+  operates a <a href="https://otterrealm.com">website</a>, where stories, videos
   and podcasts are posted on a regular basis. Students in HCOM 387 and HCOM 389
   produce both. Otter Romp is produced by students in HCOM 388. Awards won by
   the Otter Realm &#40;in the less&#45;than&#45;weekly category unless

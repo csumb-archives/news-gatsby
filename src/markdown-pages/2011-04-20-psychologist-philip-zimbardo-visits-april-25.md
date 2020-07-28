@@ -16,7 +16,7 @@ Monterey Bay on April 25 to lecture on &#x201C;Good and Evil: The Heroic
 Imagination Project.&#x201D;</p>
 <p>The free event will start at 7 p.m. in the University Center on
 Sixth Avenue. Reservations are requested and can be made <a href="https://spreadsheets.google.com/viewform?hl=en&amp;formkey=dEVYeDZsamd5R0QwODE5cENmSnUzb0E6MA#gid=0" rel="nofollow">here</a>.</p>
-<p><img alt="Philip Zimbardo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/zimbardo_sml_pic.jpeg" style="float:right; width:164px; height:246px">Dr. Zimbardo,
+<p><img alt="Philip Zimbardo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/zimbardo_sml_pic.jpeg" style="float:right; width:164px; height:246px">Dr. Zimbardo,
 professor emeritus at Stanford University, first lectured at CSUMB
 in September 2007, when he discussed his book, &#x201C;The Lucifer Effect:
 Understanding How Good People Turn Evil.&#x201D; A standing-room-only
@@ -37,7 +37,7 @@ people, being a celebrity has been equated with being a hero,&#x201D; he
 said.</p>
 <p>&#x201C;Heroes are ordinary people. You become a hero by doing an
 extraordinary deed.&#x201D;</p>
-<p><img alt="The Lucifer Effect book cover" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/lucifer2.jpg" style="float:left; width:250px; height:250px">Last November, Dr.
+<p><img alt="The Lucifer Effect book cover" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/lucifer2.jpg" style="float:left; width:250px; height:250px">Last November, Dr.
 Zimbardo told Monterey Herald columnist Peter Funt: &#x201C;Heroism can be
 learned by example and reinforced with practice.</img></p>
 <p>&#x201C;The definition of a hero that I promote is someone who acts

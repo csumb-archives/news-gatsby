@@ -44,12 +44,12 @@ date: January 01 2020
 </p>
 <p>The course will be offered again in the fall.</p>
 <p>
-  More information is available <a href="http://police.csumb.edu/rad">here</a>.
+  More information is available <a href="https://police.csumb.edu/rad">here</a>.
 </p>
 <p>
   <em
     ><a
-      href="http://www.montereycountyweekly.com/news/2012/oct/18/dont-mess-i-am-rad/"
+      href="https://www.montereycountyweekly.com/news/2012/oct/18/dont-mess-i-am-rad/"
       >Read a story in the Monterey County Weekly about last fall's course.</a
     ></em
   >

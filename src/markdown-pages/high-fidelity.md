@@ -17,7 +17,7 @@ date: January 01 2020
 </p>
 <p>
   Dr. Sammons served as producer of the album,
-  <a href="http://www.giacomofiore.com/#iv-american-electric-guitars"
+  <a href="https://www.giacomofiore.com/#iv-american-electric-guitars"
     ><em>iv: American electric guitars</em></a
   >by Giacomo Fiore, a collection of four pieces by contemporary American
   composers. Dr. Fiore, a former lecturer at CSUMB, was awarded a New Music USA
@@ -69,12 +69,12 @@ date: January 01 2020
 </p>
 <p>
   Learn more about the
-  <a href="http://music.csumb.edu">Music and Performing Arts Department</a> at
+  <a href="https://music.csumb.edu">Music and Performing Arts Department</a> at
   CSUMB
 </p>
 <p>
   Learn more about
-  <a href="http://www.giacomofiore.com">Giacomo Fiore</a> (pictured above, photo
+  <a href="https://www.giacomofiore.com">Giacomo Fiore</a> (pictured above, photo
   courtesy of the artist)
 </p>
 <p></p>

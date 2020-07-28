@@ -9,7 +9,7 @@ date: January 01 2020
   SEASIDE, Calif., May 16, 2018 – Four CSUMB seniors, all Sally Casanova
   Scholars for the 2017-18 academic year, have been awarded summer research
   fellowships for the summer of 2018 through the
-  <a href="http://www.calstate.edu/predoc/scholars/"
+  <a href="https://www.calstate.edu/predoc/scholars/"
     >Sally Casanova Pre-Doctoral Scholarship Program</a
   >. All four pre-doctoral scholars have been awarded up to $8,000 each in
   support of their summer research to cover the cost of housing, meals and a
@@ -50,13 +50,13 @@ date: January 01 2020
 </p>
 <p>
   As undergrads, all four Sally Casanova Scholars were part of Undergraduate
-  Research Opportunities Center (<a href="http://csumb.edu/uroc">UROC</a>) and
+  Research Opportunities Center (<a href="https://csumb.edu/uroc">UROC</a>) and
   worked with their CSUMB faculty mentors and UROC to meet their graduate and
   professional goals.
 </p>
 <p>
   The
-  <a href="http://www.calstate.edu/predoc/apply/"
+  <a href="https://www.calstate.edu/predoc/apply/"
     >California Pre-Doctoral Program</a
   >
   is designed to increase the pool of potential faculty by supporting the

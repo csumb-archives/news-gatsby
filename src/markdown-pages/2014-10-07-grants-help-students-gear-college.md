@@ -12,7 +12,7 @@ slug: grants-help-students-gear-up-for-college
 <p>Middle school students in Monterey County will be better
 equipped for college thanks to federal grants awarded to Cal State
 Monterey Bay.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/gear_up_quote.jpg" style="width:350px; height:263px; float:left">The money will
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/gear_up_quote.jpg" style="width:350px; height:263px; float:left">The money will
 allow 3,620 students to be served in San Ardo, San Lucas,
 Greenfield, King City, Salinas and Seaside.</img></p>
 <p>The grants, which amount to $2.1 million per year for six years,
@@ -23,13 +23,13 @@ GEAR UP &#x2013; administered by the U.S Department of Education.</p>
 low-income areas who are prepared for college. It provides academic
 and financial aid advising, tutoring, college field trips and other
 activities that help students prepare for and apply to college.</p>
-<p><img alt="GEAR UP logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/gear_up_logo.jpeg" style="width:169px; height:167px; float:right">The project will
+<p><img alt="GEAR UP logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/gear_up_logo.jpeg" style="width:169px; height:167px; float:right">The project will
 begin working with seventh- and eighth-grade classes this year and
 will provide services through their first year of college.</img></p>
 <p>While CSUMB offers a variety of early outreach and support
 programs for underserved students, this is the first GEAR UP grant
 for the university.</p>
-<p><a href="http://eosp.csumb.edu" rel="nofollow">Learn more about
+<p><a href="https://eosp.csumb.edu" rel="nofollow">Learn more about
 Early Outreach and Support programs at CSUMB</a></p>
 <p>&#xA0;</p>
 <h4>MORE GRANT NEWS</h4>

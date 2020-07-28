@@ -37,7 +37,7 @@ date: January 01 2020
 <p>
   Check out his
   <a
-    href="http://educheckup.com/2011/11/04/california-state-university-monterey-bay-episode-280/"
+    href="https://educheckup.com/2011/11/04/california-state-university-monterey-bay-episode-280/"
     >video review</a
   >
   DeNardis is the associate director of web communications at Wayne State
@@ -59,7 +59,7 @@ date: January 01 2020
 <p>
   See the
   <a
-    href="http://collegewebeditor.com/blog/index.php/archives/2012/01/17/top-11-highered-websites-ranked-by-edu-checkup-scores/?utm_content=emacdonald%40csumb.edu&amp;utm_source=VerticalResponse&amp;utm_medium=Email&amp;utm_term=Top%2011%20%23highered%20websites%20ranked%20by%20EDU%20Checkup%20scores&amp;utm_campaign=%5BHEE%5D%20Top%20Higher%20Ed%20Websites%2C%20Facebook%2C%20Mobile%20Web%20%26%20Pinterestcontent"
+    href="https://collegewebeditor.com/blog/index.php/archives/2012/01/17/top-11-highered-websites-ranked-by-edu-checkup-scores/?utm_content=emacdonald%40csumb.edu&amp;utm_source=VerticalResponse&amp;utm_medium=Email&amp;utm_term=Top%2011%20%23highered%20websites%20ranked%20by%20EDU%20Checkup%20scores&amp;utm_campaign=%5BHEE%5D%20Top%20Higher%20Ed%20Websites%2C%20Facebook%2C%20Mobile%20Web%20%26%20Pinterestcontent"
     >CollegeWebEditor page</a
   >
 </p>

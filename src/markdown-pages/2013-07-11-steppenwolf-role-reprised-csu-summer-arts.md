@@ -13,7 +13,7 @@ slug: steppenwolf-role-reprised-at-csu-summer-arts
 with guest artists to educate the next generation at Summer
 Arts</h4>
 <p><br>
-<img alt="Jeff Perry" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jeff_perry_at_steinbeck_3.jpg" style="float:left; width:250px; height:375px">Trading the winds
+<img alt="Jeff Perry" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jeff_perry_at_steinbeck_3.jpg" style="float:left; width:250px; height:375px">Trading the winds
 of Chicago for the gentler breezes of Monterey Bay, Jeff Perry, the
 celebrated co-founder of the Steppenwolf Theatre Company, has again
 assembled a tremendous ensemble of artists for Steppenwolf Classes
@@ -41,14 +41,14 @@ that asks us to hear how we hear, in silence as well as in
 speech.<br>
 &#x2013; <em>New York Times</em></br></p>
 <p>On July 24, the Steppenwolf program will present the play
-<em>Tribes</em>, starring Perry, which had <a href="http://theater.nytimes.com/2012/03/05/theater/reviews/tribes-by-nina-raines-at-the-barrow-street-theater.html?_r=2&amp;adxnnl=1&amp;adxnnlx=1373578403-Tjpo0TeR2B8l8DKVM6VIIg" rel="nofollow">a wonderful run in New York in 2012</a>; and, on
+<em>Tribes</em>, starring Perry, which had <a href="https://theater.nytimes.com/2012/03/05/theater/reviews/tribes-by-nina-raines-at-the-barrow-street-theater.html?_r=2&amp;adxnnl=1&amp;adxnnlx=1373578403-Tjpo0TeR2B8l8DKVM6VIIg" rel="nofollow">a wonderful run in New York in 2012</a>; and, on
 July 20, the classic play <em>Love Letters</em>, featuring Evelyn
 Carol Case and Mayer.</p>
 <p>The Steppenwolf co-founder is not alone in distinction among CSU
 Summer Arts masters. This year, a cadre of celebrated guest artists
 is providing real-life perspective of their industry along with
 artistic instruction. For more information, including a list of
-classes, visit <a href="http://www.csusummerarts.org" rel="nofollow">CSU Summer Arts</a>.</p>
+classes, visit <a href="https://www.csusummerarts.org" rel="nofollow">CSU Summer Arts</a>.</p>
 <p>&#xA0;</p>
 <p>&#xA0;</p>
 <p><br>

@@ -48,9 +48,9 @@ going off to partner schools.<br>
 <br>
 The list of available schools includes major state universities and
 smaller ones as well. A complete list is available at the program&#x2019;s
-<a href="http://www.nse.org" rel="nofollow">website</a>.<br>
+<a href="https://www.nse.org" rel="nofollow">website</a>.<br>
 <br>
-<img alt="Jillian Shweiki" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jillian_0.jpeg" style="float:left; width:81px; height:166px">Jillian Shweiki
+<img alt="Jillian Shweiki" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jillian_0.jpeg" style="float:left; width:81px; height:166px">Jillian Shweiki
 (pictured at left), a 2012 CSUMB graduate from Clovis, spent her
 sophomore year at Bridgewater State University, a 10,000-student
 institution about 30 miles south of Boston, through the NSE

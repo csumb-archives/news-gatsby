@@ -16,7 +16,7 @@ and water managers has won an award from the Federal Laboratory
 Consortium for Technology Transfer (FLC).</p>
 <p>The consortium helps federal labs link their technologies and
 expertise with the marketplace.</p>
-<p><img alt="California row crops" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/row_crops_in_calif..jpg" style="float:left; width:300px; height:214px">As part of the
+<p><img alt="California row crops" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/row_crops_in_calif..jpg" style="float:left; width:300px; height:214px">As part of the
 award-winning project, senior research scientists at CSU Monterey
 Bay &#x2013; Forrest Melton, Lars Pierce, Lee Johnson and Chris Lund &#x2013;
 teamed with engineers and scientists from NASA, the California
@@ -83,7 +83,7 @@ patterns.</p>
 Monterey.</p>
 <p>To learn more about the project, click <a href="../../../2010/sep/6/water-savings-satellite.html" rel="nofollow">her</a>e.</p>
 <p>To learn more about the CSUMB/NASA Ames Cooperative Agreement,
-click <a href="http://home.csumb.edu/a/alexandersusan/world/coop.htm" rel="nofollow">here</a>.</p>
+click <a href="https://home.csumb.edu/a/alexandersusan/world/coop.htm" rel="nofollow">here</a>.</p>
 <p class="small"><em>Photo courtesy of USDA Natural Resources
 Conservation Service</em><br>
 <br>

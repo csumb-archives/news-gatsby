@@ -50,11 +50,11 @@ date: January 01 2020
   Affordable Care Act if not for their immigration status.
 </p>
 <p>
-  <a href="http://kinesiology.csumb.edu">Learn about kinesiology at CSUMB</a>
+  <a href="https://kinesiology.csumb.edu">Learn about kinesiology at CSUMB</a>
 </p>
 <p>
   <a
-    href="http://hhspp.csumb.edu/collaborative&#45;health&#45;human&#45;services&#45;major"
+    href="https://hhspp.csumb.edu/collaborative&#45;health&#45;human&#45;services&#45;major"
     >Learn about collaborative health and human services</a
   >&#42;Left to right: Jade Fackler, Gabriela Guzman, Monica Nicholas, Dean
   Britt Rios&#45;Ellis, Congressman Jim Clyburn, Kendra Contente&#42;

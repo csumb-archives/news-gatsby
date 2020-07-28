@@ -12,7 +12,7 @@ date: January 01 2020
 <p>
   The film will be shown at 6 p.m. in Room 1188 of the Tanimura &amp; Antle
   Family Memorial Library. Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   Directed by Clint Eastwood, “Invictus” tells the story of how South African

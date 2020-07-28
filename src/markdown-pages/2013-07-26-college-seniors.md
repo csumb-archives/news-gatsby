@@ -13,8 +13,8 @@ slug: college-seniors
 50-and-better folks back to school</h4>
 <p>What do Moliere, forests of the Central Coast and Russian life
 and culture have in common?</p>
-<p><img alt="Fall 2013 OLLI catalog" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/cover_image-225-291.jpg" style="float:right; width:225px; height:291px">They are among the
-classes that will be offered this semester through the <a href="http://csumb.edu/olli" rel="nofollow">Osher Lifelong Learning
+<p><img alt="Fall 2013 OLLI catalog" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/cover_image-225-291.jpg" style="float:right; width:225px; height:291px">They are among the
+classes that will be offered this semester through the <a href="https://csumb.edu/olli" rel="nofollow">Osher Lifelong Learning
 Institute</a> &#x2013; OLLI &#x2013; at California State University, Monterey
 Bay.</img></p>
 <p>OLLI resumes this fall for its seventh year with a diverse range
@@ -48,7 +48,7 @@ sign up for an annual membership &#x2013; which includes tuition for 10
 classes for $210, or five classes for $140. Memberships include
 discounts on campus and other benefits.</p>
 <p>For more information or to register for classes, call 582-5500
-or visit <a href="http://csumb.edu/olli" rel="nofollow">OLLI
+or visit <a href="https://csumb.edu/olli" rel="nofollow">OLLI
 online</a>.</p>
 <p><br>
 &#xA0;</br></p>

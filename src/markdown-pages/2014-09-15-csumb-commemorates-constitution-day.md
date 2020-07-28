@@ -34,7 +34,7 @@ slug: csumb-commemorates-constitution-day
 <p>
   &#xA0;<img
     alt="Constitution Day is set for Sept. 17"
-    src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/constitution_flyer.jpg"
+    src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/constitution_flyer.jpg"
     style="float:left; width:550px; height:712px"
   />
 </p>

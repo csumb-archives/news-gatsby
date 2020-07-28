@@ -31,14 +31,14 @@ date: January 01 2020
 <p>
   Graduate student Sheldon Leiker and undergraduate August Delforge (an intern
   from the university’s
-  <a href="http://uroc.csumb.edu/"
+  <a href="https://uroc.csumb.edu/"
     >Undergraduate Research Opportunities Center</a
   >) are leading the charge to quantify unintended environmental consequences,
   as a way to guide future dam removal projects.
 </p>
 <p>
   Leiker, who will enter her second year in the
-  <a href="http://sep.csumb.edu/cwsp/">Applied Marine and Watershed Science</a>
+  <a href="https://sep.csumb.edu/cwsp/">Applied Marine and Watershed Science</a>
   master’s program, works in Dr. Smith’s watershed geology lab. She and her
   field team of Delforge and Elizabeth Geisler, another grad student, are
   conducting a study on sediment transport in the Carmel River. California

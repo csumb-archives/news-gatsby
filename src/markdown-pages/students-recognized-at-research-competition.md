@@ -57,9 +57,9 @@ date: January 01 2020
 </p>
 <p>
   Photos galleries are available
-  <a href="http://25thcsuannualresearhcompetition.shutterfly.com/">here</a> (May
+  <a href="https://25thcsuannualresearhcompetition.shutterfly.com/">here</a> (May
   6) and
-  <a href="http://studentresearchcompetitionday2.shutterfly.com/">here</a> (May
+  <a href="https://studentresearchcompetitionday2.shutterfly.com/">here</a> (May
   7).
 </p>
 ```

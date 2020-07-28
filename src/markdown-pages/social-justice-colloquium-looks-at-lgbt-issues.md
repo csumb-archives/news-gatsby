@@ -58,7 +58,7 @@ date: January 01 2020
 </p>
 <p>
   The University Center is located on Sixth Avenue at B Street.
-  <a href="http://csumb.edu/maps">Driving directions &amp; a campus map.</a>
+  <a href="https://csumb.edu/maps">Driving directions &amp; a campus map.</a>
   Please note that a
   <a href="https://csumb.edu/parking/permits?_search=parking+permit"
     >parking permit</a
@@ -67,10 +67,10 @@ date: January 01 2020
 </p>
 <p>
   The
-  <a href="http://sbgs.csumb.edu"
+  <a href="https://sbgs.csumb.edu"
     >Division of Social, Behavioral and Global Studies</a
   >, the
-  <a href="http://hcom.csumb.edu">Division of Humanities and Communication</a>
+  <a href="https://hcom.csumb.edu">Division of Humanities and Communication</a>
   and the Provost’s Office are sponsoring the event.
 </p>
 <p>

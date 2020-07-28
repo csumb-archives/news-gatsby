@@ -64,8 +64,8 @@ date: January 01 2020
 <p>
   Read more about
   <a href="https://csumb.edu/site/x15885.xml">Professor Poethig's projects</a>
-  and <a href="http://johannapoethig.com/">visit her website</a
-  ><a href="http://www.johannapoethig.com">.</a>
+  and <a href="https://johannapoethig.com/">visit her website</a
+  ><a href="https://www.johannapoethig.com">.</a>
 </p>
 <p>
   Also, read about

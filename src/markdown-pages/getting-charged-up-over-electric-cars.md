@@ -57,12 +57,12 @@ date: January 01 2020
   Plug In Day.
 </p>
 <p>
-  <a href="http://ideals.csumb.edu/sustainability"
+  <a href="https://ideals.csumb.edu/sustainability"
     >Learn more about sustainability at CSUMB.</a
   >
 </p>
 <p>
-  <a href="http://transportation.csumb.edu/trip-homepage"
+  <a href="https://transportation.csumb.edu/trip-homepage"
     >Learn more about transportation options at CSUMB.</a
   >
 </p>

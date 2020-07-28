@@ -11,7 +11,7 @@ date: January 01 2020
   as an outstanding champion for freshmen students.
 </p>
 <p>
-  <a href="http://hcom.csumb.edu/mar%C3%AD&#45;villaseñor">Dr. Villaseñor</a> is
+  <a href="https://hcom.csumb.edu/mar%C3%AD&#45;villaseñor">Dr. Villaseñor</a> is
   one of 10 recipients in the country chosen as “Outstanding First&#45;Year
   Advocates” for 2014&#45;15 by the National Resource Center for the
   First&#45;Year Experience at the University of South Carolina. She was
@@ -39,7 +39,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://catalog.csumb.edu/undergrad&#45;education/nondegree&#45;programs/first&#45;year&#45;seminar/"
+    href="https://catalog.csumb.edu/undergrad&#45;education/nondegree&#45;programs/first&#45;year&#45;seminar/"
     >First&#45;year seminars</a
   >
   are designed to prepare students for academicand personal success. During the

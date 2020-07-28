@@ -17,9 +17,9 @@ date: January 01 2020
   prevention advocates. The most recent information on reducing suicide and
   connecting with resources will be presented. Eight discussion groups will
   focus on topics including veterans, the elderly and higher education.
-  <a href="http://www.bascia.org"
+  <a href="https://www.bascia.org"
     >Agenda, list of discussion groups and online registration</a
-  >. <a href="http://csumb.edu/map">Campus map and driving directions</a>. The
+  >. <a href="https://csumb.edu/map">Campus map and driving directions</a>. The
   meeting is co-hosted by the Bay Area Suicide and Crisis Intervention Alliance
   (BASCIA) and co-sponsored by the university’s Health and Wellness
   Services/Personal Growth and Counseling Center; Suicide Prevention Service of

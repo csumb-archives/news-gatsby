@@ -15,7 +15,7 @@ host a stellar selection of student films at this year&#x2019;s Fall
 Capstone Festival, scheduled for two public screenings on Dec. 20
 in the World Theater. The matinee showing will begin at 1 p.m.; the
 program repeats at 6 o&#x2019;clock. Admission is free.</p>
-<p><img alt="From Kevin Protz&apos;s animated comedy, Night of the Living Food" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/nightofthelivingfoodkevinprotz.jpg" style="float:left; width:400px; height:290px">The Capstone
+<p><img alt="From Kevin Protz&apos;s animated comedy, Night of the Living Food" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/nightofthelivingfoodkevinprotz.jpg" style="float:left; width:400px; height:290px">The Capstone
 Festival event will feature 13 professional-quality film
 productions spanning genres, including documentary, narrative and
 experimental works produced by students of CSUMB&#x2019;s Teledramatic
@@ -66,10 +66,10 @@ Society.<br>
 <a href="../../../../gallery/tat-capstone-festival-fall-2012.html" rel="nofollow">View a photo gallery of stills from the
 films.</a><br>
 <br>
-<a href="http://csumb.edu/capstone" rel="nofollow">View the
+<a href="https://csumb.edu/capstone" rel="nofollow">View the
 campuswide Capstone Festival schedule.</a><br>
 <br>
-<a href="http://csumb.edu/tat" rel="nofollow">Learn more about
+<a href="https://csumb.edu/tat" rel="nofollow">Learn more about
 Teledramatic Arts and Technology at CSUMB</a>.</br></br></br></br></br></br></p>
 <p class="small"><br>
 <br>

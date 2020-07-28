@@ -40,7 +40,7 @@ date: January 01 2020
 </p>
 <p>For more information, contact Mary Jo Zenk at 582&#45;3230.</p>
 <p>
-  <a href="http://innovation.csumb.edu"
+  <a href="https://innovation.csumb.edu"
     >Learn more about the Institute for Innovation and Economic Development.</a
   >
 </p>

@@ -44,8 +44,8 @@ date: January 01 2020
 <p>
   For more information about the Master's of Public Policy program, visit the
   web at
-  <a href="http://csumb.edu/mpp;" title="http://csumb.edu/mpp;"
-    >http://csumb.edu/mpp;</a
+  <a href="https://csumb.edu/mpp;" title="https://csumb.edu/mpp;"
+    >https://csumb.edu/mpp;</a
   >
   to receive an application packet, call the Department of Health, Human
   Services and Public Policy at (831) 582-3565 or e-mail

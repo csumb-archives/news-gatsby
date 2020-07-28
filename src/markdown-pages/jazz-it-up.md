@@ -23,7 +23,7 @@ date: January 01 2020
   Arts Department, College of Arts, Humanities and Social Sciences, and the
   university’s Special Event Fund. While the concert is free, a parking permit
   must be purchased from a nearby dispenser. Driving directions and a campus map
-  are available <a href="http://csumb.edu/maps">here</a>. For more information
+  are available <a href="https://csumb.edu/maps">here</a>. For more information
   or disability accommodations, call 582-3009.
 </p>
 <p>

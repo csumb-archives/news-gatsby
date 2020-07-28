@@ -11,8 +11,8 @@ slug: one-man&apos;s-fight-to-stop-street-violence
 <span class="date">Posted on Mar 06, 2014    </span>
 <p>Dr. David Kennedy of Harvard&#x2019;s John F. Kennedy School of
 Government will speak at CSU Monterey Bay on March 28 as the
-<a href="http://president.csumb.edu/presidents-speaker-series" rel="nofollow">President&#x2019;s Speaker Series</a> continues.</p>
-<p><img alt="Dr. David Kennedy will speak at CSUMB on March 28" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/d_kennedy1.jpg" style="width:250px; float:right; height:249px">Dr. Kennedy is
+<a href="https://president.csumb.edu/presidents-speaker-series" rel="nofollow">President&#x2019;s Speaker Series</a> continues.</p>
+<p><img alt="Dr. David Kennedy will speak at CSUMB on March 28" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/d_kennedy1.jpg" style="width:250px; float:right; height:249px">Dr. Kennedy is
 director of the Center for Crime Prevention and Control at John Jay
 College of Criminal Justice and former director of the Boston Gun
 Project. A self-taught criminologist, he has devoted his career to
@@ -37,10 +37,10 @@ sharp decline in Boston&#x2019;s youth homicide rate has been christened
 &quot;The Boston Miracle.&quot;</p>
 <p>His presentation will get under way at 3:30 p.m. in the World
 Theater on Sixth Avenue near A Street. Driving directions and a
-campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</p>
+campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</p>
 <p>The community is invited to this free event. No tickets are
 necessary, but reservations are requested. Please RSVP by calling
-the World Theater box office at 582-4580, or going <a href="http://csumb.edu/rsvp" rel="nofollow">online</a>.</p>
+the World Theater box office at 582-4580, or going <a href="https://csumb.edu/rsvp" rel="nofollow">online</a>.</p>
 <p>The series, with the theme &#x201C;Flourish Monterey County,&#x201D; concludes
 on April 9 with a visit from Jeff Edmondson of Strive Together, a
 national organization that works to improve the cradle-to-career
@@ -50,7 +50,7 @@ Workforce Division of the National Governors Association. Her
 topic: &#x201C;Leveraging Universities in Regional Economic
 Development.&#x201D;</p>
 <p><em>Dr. Kennedy was interviewed on NPR on Nov. 1, 2011. Read a
-transcript of the interview <a href="http://www.npr.org/2012/11/09/164732917/interrupting-violence-with-the-message-dont-shoot" rel="nofollow">here</a>.&#xA0;<br>
+transcript of the interview <a href="https://www.npr.org/2012/11/09/164732917/interrupting-violence-with-the-message-dont-shoot" rel="nofollow">here</a>.&#xA0;<br>
 &#xA0;</br></em></p>
 
 

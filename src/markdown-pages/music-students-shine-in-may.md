@@ -23,7 +23,7 @@ date: January 01 2020
 <p>
   The concert will get under way at 3 p.m. in the World Theater on Sixth Avenue
   between A and B streets on the CSUMB campus. Driving directions and a campus
-  map are available <a href="http://csumb.edu/maps">here</a>.
+  map are available <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   While the concert is free, attendees must purchase a parking permit from a
@@ -45,7 +45,7 @@ date: January 01 2020
   featuring more than 20 students. Admission to both events is free.
 </p>
 <p>
-  <a href="http://music.csumb.edu"
+  <a href="https://music.csumb.edu"
     >Learn more about the music program at CSUMB</a
   >.
 </p>

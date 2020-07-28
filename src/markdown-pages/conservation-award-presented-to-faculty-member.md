@@ -48,11 +48,11 @@ date: January 01 2020
 <p>
   <em
     >Read Dr. Worcester’s advice on
-    <a href="http://magazine.csumb.edu/news/2012/nov/6/gardening-native-plants"
+    <a href="https://magazine.csumb.edu/news/2012/nov/6/gardening-native-plants"
       >gardening with native plants</a
     >
     in the fall/winter issue of Monterey Bay, the magazine of CSUMB.</em
-  ><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  ><a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     >Learn more about what faculty members at CSUMB are doing.</a
   >
 </p>

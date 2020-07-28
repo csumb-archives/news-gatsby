@@ -80,12 +80,12 @@ date: January 01 2020
   admission to $10 for children. Senior citizens, military and student discounts
   are available. Tickets can be purchased by calling the World Theater box
   office at (831) 582-4580 or
-  <a href="http://csumb.edu/worldtheater.">online</a>. The University Center is
+  <a href="https://csumb.edu/worldtheater.">online</a>. The University Center is
   located on Sixth Avenue on the CSUMB campus. Driving directions and a campus
-  map are available <a href="http://csumb.edu/map.">here</a>. IF YOU COME •
+  map are available <a href="https://csumb.edu/map.">here</a>. IF YOU COME •
   WHAT: Don’t Fence Me In, Music and Poetry of the American West • WHERE:
   CSUMB’s University Center • WHEN: 7:30 p.m., Feb. 29 • TICKETS: $10 to $50;
-  reserve <a href="http://csumb.edu/worldtheater">online</a> or by calling the
+  reserve <a href="https://csumb.edu/worldtheater">online</a> or by calling the
   box office at 582-4580 • INFORMATION: (831) 582-4580
 </p>
 <p>

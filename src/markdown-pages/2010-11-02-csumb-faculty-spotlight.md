@@ -36,7 +36,7 @@ Washington, D.C., in September. &#x201C;The American Experience in
 Southeast Asia, 1946-1975&#x201D; was the topic of the conference. Dr.
 Anderson participated in a session on the U.S. war debate, &#x201C;Ours to
 Reason Why: Intervention in Vietnam, Reaction in America.&#x201D;</p>
-<h4><img alt="Dr. Yong Lao" src="http://news.csumb.edu/sites/default/files/imagecache/thumbnail/65/attachments/news/images/yong_lao.jpg" style="float:right">RESEARCH</img></h4>
+<h4><img alt="Dr. Yong Lao" src="https://news.csumb.edu/sites/default/files/imagecache/thumbnail/65/attachments/news/images/yong_lao.jpg" style="float:right">RESEARCH</img></h4>
 <p><strong>Dr. Yong Lao</strong>, a professor of geography, and a
 colleague at the University of Cincinnati will spend a year
 studying transportation-related air pollution and health risks to
@@ -52,14 +52,14 @@ site, where Filipino and Chinese immigrants were evicted in 1968.
 She also completed a project at Skyline College in San Bruno
 composed of two mosaic pillars, &#x201C;Mission Tapestry&#x201D; and &#x201C;Vision
 Tapestry.&#x201D;</p>
-<h4><img alt="Dr. Enid Baxter Blader" src="http://news.csumb.edu/sites/default/files/imagecache/thumbnail/65/attachments/news/images/enid-baxter-blader.jpg" style="float:right">NEW MEDIA</img></h4>
+<h4><img alt="Dr. Enid Baxter Blader" src="https://news.csumb.edu/sites/default/files/imagecache/thumbnail/65/attachments/news/images/enid-baxter-blader.jpg" style="float:right">NEW MEDIA</img></h4>
 <p><strong>Enid Baxter Blader</strong>, chair of the Department of
 Teledramatic Arts and Technology, is co-editor of Water, CA, a
 series of 22 contemporary projects that explore California&#x2019;s
 troubled relationship with water. Blader wrote and illustrated two
 of the entries, one examining the Central Valley and the battle
 over California&#x2019;s water, the other on the history of the Salinas
-River. Visit <a href="http://www.watercalifornia.org" title="www.watercalifornia.org">www.watercalifornia.org</a>.</p>
+River. Visit <a href="https://www.watercalifornia.org" title="www.watercalifornia.org">www.watercalifornia.org</a>.</p>
 <h4>RECOGNITION</h4>
 <p><strong>Dr. Kent Adams</strong>, professor of kinesiology, was
 honored in July by the National Strength and Conditioning

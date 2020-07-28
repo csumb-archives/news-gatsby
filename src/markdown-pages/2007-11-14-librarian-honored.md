@@ -68,7 +68,7 @@ slug: librarian-honored
 </p>
 <p>
   More information about IAMSLIC is available at
-  <a href="http://www.iamslic.org/" rel="nofollow">http://www.iamslic.org</a
+  <a href="https://www.iamslic.org/" rel="nofollow">https://www.iamslic.org</a
   ><br />
 </p>
 <fieldset class="fieldgroup group-attachments">

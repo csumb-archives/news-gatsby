@@ -13,7 +13,7 @@ slug: csumb-shows-miller&apos;s-annual-paean-to-powder
 another one of Warren Miller&#x2019;s cinematic homages to high-adrenaline
 ski and snowboard action. Is there a better way to get stoked for
 the upcoming ski season?</p>
-<p><img alt="Flow State logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/flow_state_logo.jpeg" style="float:left; width:264px; height:191px">Miller&#x2019;s new film,
+<p><img alt="Flow State logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/flow_state_logo.jpeg" style="float:left; width:264px; height:191px">Miller&#x2019;s new film,
 Flow State, will be shown at Cal State Monterey Bay on Nov. 15,
 part of a 240-city tour of North America.</img></p>
 <p>Flow State guides viewers to the top of the world&#x2019;s most
@@ -32,10 +32,10 @@ students, $5 for faculty and staff, and $10 for members of the
 public. Tickets are available at the door.</br></br></p>
 <p>Sponsors include CSUMB Outdoor Recreation, Outdoor Adventure
 Club and the Otter Student Union.</p>
-<p><a href="http://csumb.edu/map" rel="nofollow">Driving directions
+<p><a href="https://csumb.edu/map" rel="nofollow">Driving directions
 and a campus map.</a></p>
-<p><a href="http://www.skinet.com/warrenmiller/" rel="nofollow">Watch the trailer</a>.</p>
-<p><a href="http://csumb.edu/outdoor" rel="nofollow">Learn more
+<p><a href="https://www.skinet.com/warrenmiller/" rel="nofollow">Watch the trailer</a>.</p>
+<p><a href="https://csumb.edu/outdoor" rel="nofollow">Learn more
 about outdoor recreation at CSUMB.</a></p>
 <p><br>
 &#xA0;</br></p>

@@ -30,7 +30,7 @@ date: January 01 2020
   supply and natural habitat.??
 </p>
 <p>
-  More information is available <a href="http://ron.csumb.edu">here</a> or by
+  More information is available <a href="https://ron.csumb.edu">here</a> or by
   calling 582&#45;3686
 </p>
 ```

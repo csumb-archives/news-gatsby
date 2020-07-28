@@ -14,7 +14,7 @@ slug: csumb-professor-celebrates-&apos;ability&apos;
 be unveiled at the Hamilton Recreation Center, has been making
 public art in San Francisco and around the world since the
 1980s.</p>
-<p><img alt="&apos;Ability&apos; is the theme of the public art project" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ability_2.jpg" style="float:left; width:250px; height:254px">The six mosaic
+<p><img alt="&apos;Ability&apos; is the theme of the public art project" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ability_2.jpg" style="float:left; width:250px; height:254px">The six mosaic
 medallions that make up the project play with words and images of
 California native species to highlight shared abilities. The goal
 was to come up with designs that would appeal to the broad range of
@@ -33,7 +33,7 @@ can include everyone and also remind us of where we live &#x2013;
 California. We need to honor our natural life in our urban areas,&#x201D;
 she said.</p>
 <p>The texts were chosen in a discussion with the staff. The
-&#x201C;Enjoy-ability&#x201D; mosiac highlights the&#xA0;<img alt="Adapt-ability is essential for everyone" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/adapt.jpg" style="float:right; width:300px; height:324px">swimming pool at
+&#x201C;Enjoy-ability&#x201D; mosiac highlights the&#xA0;<img alt="Adapt-ability is essential for everyone" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/adapt.jpg" style="float:right; width:300px; height:324px">swimming pool at
 Hamilton. The &#x201C;Endure-ability&#x201D; medallion uses the crane, a common
 image in Japanese art. It honors the elderly residents of the area,
 some of whom endured internment camps during World War II.</img></p>
@@ -50,7 +50,7 @@ Francisco where she has created public art. Others include the
 Civic Center post office, the I-Hotel, several buildings in the
 Tenderloin, the Juvenile Justice Center, Rochambeau Park and the
 South of Market area.</p>
-<p><img alt="Inside of the Hamilton Recreation Center" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rec_center.png" style="float:left; width:250px; height:318px">A founding faculty
+<p><img alt="Inside of the Hamilton Recreation Center" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rec_center.png" style="float:left; width:250px; height:318px">A founding faculty
 member at CSUMB, Poethig has worked in collaboration with other
 artists, architects, urban planners, design teams, arts
 commissions, specific communities and cultural groups during her
@@ -65,9 +65,9 @@ futurist narratives, human nature, political satire and the
 colonizing metaphors used by consumerist, capitalist
 marketing.&#xA0;<br>
 <br>
-<a href="http://johannapoethig.com/" rel="nofollow">Learn more
+<a href="https://johannapoethig.com/" rel="nofollow">Learn more
 about Poethig&#x2019;s work</a></br></br></p>
-<p><a href="http://csumb.edu/art" rel="nofollow">Learn more about
+<p><a href="https://csumb.edu/art" rel="nofollow">Learn more about
 the Visual and Public Art Department</a><br>
 <br>
 <a href="../../../2012/nov/25/faculty-highlights.html" rel="nofollow">Read more faculty news</a><br>

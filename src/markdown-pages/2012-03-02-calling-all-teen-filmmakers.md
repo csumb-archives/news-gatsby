@@ -13,7 +13,7 @@ slug: calling-all-teen-filmmakers
 <p>Young filmmakers eager to see their work on a screen bigger than
 YouTube will get the opportunity this fall, when CSU Monterey Bay
 holds its fourth annual Teen Film Festival.</p>
-<p><img alt="The fourth annual Teen Film Festival will be held next fall." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/film-making-300x144.jpg" style="float:left; width:300px; height:144px">The Teledramatic
+<p><img alt="The fourth annual Teen Film Festival will be held next fall." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/film-making-300x144.jpg" style="float:left; width:300px; height:144px">The Teledramatic
 Arts and Technology Department is accepting applications for the
 festival, which will be held at CSUMB&apos;s World Theater on Sept. 29.
 The deadline to apply is April 27.<br>
@@ -21,7 +21,7 @@ The deadline to apply is April 27.<br>
 Filmmakers between 13 and 19 years old are invited to submit films
 and videos up to five minutes in length. Entries may be in English
 or Spanish and there is no entry fee. Entries may be submitted
-<a href="http://montereybayfilmfestival.com" rel="nofollow">online</a>.<br>
+<a href="https://montereybayfilmfestival.com" rel="nofollow">online</a>.<br>
 <br>
 TAT students will organize the event and handle the judging,
 according to Professor Enid Baxter Blader.<br>
@@ -39,7 +39,7 @@ may consider enrolling.<br>
 While local teenagers are encouraged to enter the competition, it&apos;s
 also open to teenagers from around the world.<br>
 <br>
-<img alt="April 27 is the application deadline" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/filmmaking.jpg" style="float:right; width:200px; height:181px">Last year&apos;s event
+<img alt="April 27 is the application deadline" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/filmmaking.jpg" style="float:right; width:200px; height:181px">Last year&apos;s event
 drew more than 200 entries with films submitted from Afghanistan,
 South Africa, Venezuela, Salinas, Soledad and Los Angeles. Close to
 400 people attended the festival, making it the most attended event
@@ -53,7 +53,7 @@ Sundance Film Festival, and curates many other festivals
 internationally. This will be his third year as the programmer of
 the Monterey Bay Film Festival.</br></br></img></br></br></br></br></br></br></br></br></br></br></br></br></img></p>
 <p><em>Learn more about CSUMB&apos;s Teledramatic Arts and Technology
-Department <a href="http://tat.csumb.edu" rel="nofollow">here</a>.</em></p>
+Department <a href="https://tat.csumb.edu" rel="nofollow">here</a>.</em></p>
 
 
 

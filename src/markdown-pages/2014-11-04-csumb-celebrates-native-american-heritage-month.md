@@ -13,9 +13,9 @@ slug: csumb-celebrates-native-american-heritage-month
 November with talks, a film&#xA0;screening, a poetry reading,
 photography exhibit, musical performance and panel discussion &#x2013; all
 around the theme of &#x201C;generational voices.&#x201D;</p>
-<p><img alt="Native American Heritage Month logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/nahm_new_for_web.png" style="float:left; width:350px; height:350px">All activities are
+<p><img alt="Native American Heritage Month logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/nahm_new_for_web.png" style="float:left; width:350px; height:350px">All activities are
 free and open to the public but parking permits must be purchased
-from machines on the parking lots or <a href="http://parking.csumb.edu/buy-permit" rel="nofollow">online</a>.</img></p>
+from machines on the parking lots or <a href="https://parking.csumb.edu/buy-permit" rel="nofollow">online</a>.</img></p>
 <p>RSVPs are requested and can be made by e-mailing Brendan Taylor
 at <a href="mailto:bretaylor@csumb.edu">bretaylor@csumb.edu</a> or
 by calling 582-3890.</p>
@@ -71,7 +71,7 @@ the Osage and Kansa tribes of Oklahoma</p>
 George Baldwin and friends, East Lounge of the Student Center. The
 Student Center faces the main quad; visitors can access it from
 parking lot 12 off Inter-Garrison Road.</br></p>
-<p><img alt="Ann Davis and George Baldwin" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/davisbaldwin_for_web.jpg" style="float:right; width:350px; height:216px">Each of the
+<p><img alt="Ann Davis and George Baldwin" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/davisbaldwin_for_web.jpg" style="float:right; width:350px; height:216px">Each of the
 musicians shares his or her own view of Indian culture with songs
 about &#x2013; and by &#x2013; Indians.&#xA0;Dr. Baldwin (at right, with Anna
 Davis) has worked for dozens of Native tribes as a social activist,
@@ -80,7 +80,7 @@ integration of new technologies, and education. He is a founding
 faculty member at CSUMB and a professor in the Social, Behavioral,
 and Global Studies Division.<br>
 <br>
-Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</br></br></img></p>
+Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</br></br></img></p>
 <p class="small"><em>Native American Heritage Month is sponsored by
 the Division of Social, Behavioral and Global Studies; the
 Provost&#x2019;s Special Event Fund; Student Activities and Leadership
@@ -97,8 +97,8 @@ Psychology; and Sigma Theta Psi.</em></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/zudrL3Ku9bc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/zudrL3Ku9bc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/zudrL3Ku9bc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/zudrL3Ku9bc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -109,7 +109,7 @@ Psychology; and Sigma Theta Psi.</em></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r9---sn-o097znez.googlevideo.com/videoplayback?source=youtube&amp;pl=23&amp;mv=m&amp;dur=180.140&amp;sver=3&amp;expire=1422339810&amp;mt=1422318189&amp;initcwndbps=4207500&amp;itag=18&amp;id=o-AAuj1QxqUPnlUUlSDPDnMejNDeR-e07sDaEPwCFDvweK&amp;ms=au&amp;mm=31&amp;signature=294CBC9C97037CE7EC76B278022391874C2973BD.1F28BA8496844BB50E71C24C28194EDD75D53C33&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ratebypass=yes&amp;ipbits=0&amp;upn=HipF9DyqaVQ&amp;key=yt5&amp;ip=198.189.249.65&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;name=zudrL3Ku9bc" type="video/mp4"/></video></div>
+<source src="https://r9---sn-o097znez.googlevideo.com/videoplayback?source=youtube&amp;pl=23&amp;mv=m&amp;dur=180.140&amp;sver=3&amp;expire=1422339810&amp;mt=1422318189&amp;initcwndbps=4207500&amp;itag=18&amp;id=o-AAuj1QxqUPnlUUlSDPDnMejNDeR-e07sDaEPwCFDvweK&amp;ms=au&amp;mm=31&amp;signature=294CBC9C97037CE7EC76B278022391874C2973BD.1F28BA8496844BB50E71C24C28194EDD75D53C33&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ratebypass=yes&amp;ipbits=0&amp;upn=HipF9DyqaVQ&amp;key=yt5&amp;ip=198.189.249.65&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;name=zudrL3Ku9bc" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

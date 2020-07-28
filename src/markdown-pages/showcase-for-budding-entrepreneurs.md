@@ -49,7 +49,7 @@ date: January 01 2020
   opportunity to see contestants’ exhibits, hear speakers on entrepreneurship,
   network and watch the inaugural “Otter Tank” competition in the Venture
   Division. While the event is free, attendees are asked to
-  <a href="http://startupchallenge2015.eventbrite.com">register</a>.
+  <a href="https://startupchallenge2015.eventbrite.com">register</a>.
 </p>
 <p>
   The event will be held in the University Center on Sixth Avenue and B Street.

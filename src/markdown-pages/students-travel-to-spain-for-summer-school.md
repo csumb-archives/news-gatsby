@@ -55,12 +55,12 @@ date: January 01 2020
   >
 </p>
 <p>
-  <a href="http://sbgs.csumb.edu/summer-2013-field-research-school-spain"
+  <a href="https://sbgs.csumb.edu/summer-2013-field-research-school-spain"
     >Learn more about CSUMB's summer field research school in Spain</a
   >
 </p>
 <p>
-  <a href="http://international.csumb.edu"
+  <a href="https://international.csumb.edu"
     >Learn about international programs at CSUMB</a
   >
 </p>

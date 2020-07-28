@@ -12,7 +12,7 @@ date: January 01 2020
 </p>
 <p>
   Through art activities designed to celebrate creativity, the
-  <a href="http://www.maffy.org/"
+  <a href="https://www.maffy.org/"
     >Monterey Bay Art and Film Festival for Youth</a
   >
   &#40;MAFFY&#41; brings the world of imagination to young minds. Children,
@@ -23,7 +23,7 @@ date: January 01 2020
   Selections from the Children’s Film Festival Seattle will be screened, along
   with the pilot episode of
   <a
-    href="http://www.gtweekly.com/index.php/santa&#45;cruz&#45;news/santa&#45;cruz&#45;local&#45;news/6826&#45;teen&#45;screen.html"
+    href="https://www.gtweekly.com/index.php/santa&#45;cruz&#45;news/santa&#45;cruz&#45;local&#45;news/6826&#45;teen&#45;screen.html"
     >The Adventures of Catty Wompus</a
   >, a children’s television show that blends fantasy with life lessons.
 </p>

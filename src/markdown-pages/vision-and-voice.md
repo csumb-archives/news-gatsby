@@ -43,8 +43,8 @@ date: January 01 2020
 </p>
 <p>
   <strong>Cost</strong>: Free
-  <a href="http://csumb.edu/maps">Driving directions and campus map</a>
-  <a href="http://sbgs.csumb.edu"
+  <a href="https://csumb.edu/maps">Driving directions and campus map</a>
+  <a href="https://sbgs.csumb.edu"
     >Learn about Social, Behavioral and Global Studies at CSUMB</a
   >
 </p>

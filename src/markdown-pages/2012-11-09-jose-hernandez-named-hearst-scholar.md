@@ -12,7 +12,7 @@ slug: jose-hernandez-named-hearst-scholar
 <p>Cal State Monterey Bay student Jose Hernandez has received the
 2012 William R. Hearst/CSU Trustees&#x2019; Award for Outstanding
 Achievement.</p>
-<p><img alt="Jose Hernandez" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jose_for_web.jpg" style="float:left; width:300px; height:350px">The Hearst award is
+<p><img alt="Jose Hernandez" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jose_for_web.jpg" style="float:left; width:300px; height:350px">The Hearst award is
 among the highest forms of recognition for student achievement in
 the CSU. Scholars must demonstrate superior academic achievements,
 community service, financial need and the ability to overcome
@@ -52,7 +52,7 @@ of Trustees meeting in Long Beach on Sept. 18.</p>
 named during the Salinas City Council&apos;s &quot;City of Champions&quot; agenda
 item, a time when people are acknowledged for serving the community
 and for being role models.&#xA0;</p>
-<p>More information is available <a href="http://www.calstate.edu/foundation/hearst/" rel="nofollow">here</a>.&#xA0;</p>
+<p>More information is available <a href="https://www.calstate.edu/foundation/hearst/" rel="nofollow">here</a>.&#xA0;</p>
 
 
 

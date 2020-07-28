@@ -30,8 +30,8 @@ date: January 01 2020
 </p>
 <p>
   The article can be found here:
-  <a href="http://www.motherjones.com/politics/2009/09/mojo-mini-college-guide"
-    >http://www.motherjones.com/politics/2009/09/mojo-mini-college-guide</a
+  <a href="https://www.motherjones.com/politics/2009/09/mojo-mini-college-guide"
+    >https://www.motherjones.com/politics/2009/09/mojo-mini-college-guide</a
   >
 </p>
 <p></p>

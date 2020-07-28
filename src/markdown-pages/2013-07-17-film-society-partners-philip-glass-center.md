@@ -11,7 +11,7 @@ slug: film-society-partners-with-philip-glass-center
 <span class="date">Posted on Jul 17, 2013    </span>
 <p>Two dynamic arts organizations are joining forces.</p>
 <p>The Monterey Bay Film Society and the Philip Glass Center for
-the Arts, Science and the&#xA0;<img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mb_film_society_logo.jpg" style="float:left; width:201px; height:116px">Environment are
+the Arts, Science and the&#xA0;<img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mb_film_society_logo.jpg" style="float:left; width:201px; height:116px">Environment are
 developing a long-term partnership to bring celebration of the arts
 and sciences to Monterey County. The first steps in this process
 will happen Oct. 2-6 at the Henry Miller Library and Carmel&#x2019;s
@@ -32,7 +32,7 @@ and the Environment. Developed by Mr. Glass, the festival is
 designed to encompass and nurture the arts in a way that welcomes
 the future while exploring the seminal developments in the arts
 throughout history.</p>
-<p><img alt="Days and Nights Festival logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/days_and_nights_logo.jpg" style="float:right; width:213px; height:213px">The mission of the
+<p><img alt="Days and Nights Festival logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/days_and_nights_logo.jpg" style="float:right; width:213px; height:213px">The mission of the
 Center is to gather the world&#x2019;s leaders in the fields of art,
 science and the environment for a broad array of interdisciplinary
 activities including performances, seminars and education programs

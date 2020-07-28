@@ -8,7 +8,7 @@ slug: women-in-jazz&amp;colon;-history-for-the-ears
 <span class="date">Posted on Sep 26, 2013 </span>
 
 <h3>Vocalist Pamela Rose comes to the World Theater</h3>
-<p><img alt="Pamela Rose comes to the World Theater Oct. 17" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/pamela_rose.jpg" style="float:left; width:250px; height:376px">Jazz vocalist
+<p><img alt="Pamela Rose comes to the World Theater Oct. 17" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/pamela_rose.jpg" style="float:left; width:250px; height:376px">Jazz vocalist
 Pamela Rose has been described by Downbeat Magazine as &quot;playful,
 sure and sassy.&quot;</img></p>
 <p>That&apos;s what an ongoing successful run of the multi-media &quot;Wild
@@ -37,7 +37,7 @@ pleasant evening of music.</p>
 <p>&quot;It&apos;s like putting on a play,&quot; Rose told the San Jose Mercury
 News in 2011. &quot;We are sort of reconstructing this era for
 people.&quot;</p>
-<p><img alt="Peggy Lee is one of the female jazz artists featured in the program" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rose_peggy_lee.jpg" style="float:right; width:350px; height:256px">Said World Theater
+<p><img alt="Peggy Lee is one of the female jazz artists featured in the program" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rose_peggy_lee.jpg" style="float:right; width:350px; height:256px">Said World Theater
 artistic director Joe Cardinalli: &quot;What really hooked me on
 presenting Pamela Rose at the World Theater was listening to her
 album &apos;Wild Women of Song.&apos; Every song was written by a woman. The
@@ -45,11 +45,11 @@ songs brought back childhood memories of my mother singing them in
 the kitchen in our home in Monterey.&quot;</img></p>
 <p>Tickets are $40 premium, $29 general. Discounts are available
 for students, military members and seniors. Tickets can be
-purchased <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>&#xA0;or by calling the box office at
+purchased <a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>&#xA0;or by calling the box office at
 582-4580.<br>
 <br>
 The World Theater is located on Sixth Avenue between A and B
-streets. Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here.</a><br>
+streets. Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here.</a><br>
 <br>
 <em>Her multimedia show is equal parts concert and history lesson.
 Rose and her talented band routinely draw rave reviews from fans

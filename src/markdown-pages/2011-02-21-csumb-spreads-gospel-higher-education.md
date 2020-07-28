@@ -42,7 +42,7 @@ the value of a college degree: While those without a high school
 diploma have an unemployment rate of 19 percent, the rate for those
 with a bachelor&#x2019;s degree is only 6 percent.<br>
 <br>
-<img alt="Service awards were given to 10 CSUMB students and a staff member" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/sunday_group.jpg" style="float:left; width:250px; height:166px">The road to college
+<img alt="Service awards were given to 10 CSUMB students and a staff member" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/sunday_group.jpg" style="float:left; width:250px; height:166px">The road to college
 begins early &#x2013; in the sixth grade, when students should begin
 taking English. Algebra needs to be tackled in the eighth grade and
 calculus in the 12th grade, Dr. Harrison told them.<br>

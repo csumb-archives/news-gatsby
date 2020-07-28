@@ -54,16 +54,16 @@ date: January 01 2020
 </p>
 <p>
   Her work – from buttons to magnets, cards to pillows – is available
-  <a href="http://www.etsy.com/shop/studiomargo">online</a>.
+  <a href="https://www.etsy.com/shop/studiomargo">online</a>.
 </p>
 <p>
   At CSUMB, Mullen is best known as the artist behind the mural at the Aquatic
   Center. Read about that project
-  <a href="http://success.csumb.edu/margo-mullen">here</a>.
+  <a href="https://success.csumb.edu/margo-mullen">here</a>.
 </p>
-<p><a href="http://studiomargo.blogspot.com/">Read Margo’s blog</a>.</p>
+<p><a href="https://studiomargo.blogspot.com/">Read Margo’s blog</a>.</p>
 <p>
-  <a href="http://vpa.csumb.edu/"
+  <a href="https://vpa.csumb.edu/"
     >Read about the Visual and Public Art Department</a
   >.
 </p>

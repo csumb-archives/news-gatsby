@@ -12,7 +12,7 @@ slug: foreign-landing
 <h3>TRIO student selected for Global Leaders program</h3>
 <p>This summer, Jesus Garcia-Valdez will find himself in Spain, his
 first trip outside of North America.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jesus_garcia-valdez.jpg" style="float:left; width:350px; height:505px">The sophomore from
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jesus_garcia-valdez.jpg" style="float:left; width:350px; height:505px">The sophomore from
 Gonzales is one of 20 students nationwide selected for the Keith
 Sherin Global Leaders program, named for an executive with the
 General Electric Co. A scholarship will help pay for the trip.</img></p>
@@ -49,7 +49,7 @@ to the college or university of their choice.</p>
 first-generation students so they take advantage of the
 opportunities that are offered to us,&#x201D; Garcia-Valdez said.<br>
 <br>
-<a href="http://eosp.csumb.edu/our-programs-0" rel="nofollow">Learn
+<a href="https://eosp.csumb.edu/our-programs-0" rel="nofollow">Learn
 about early outreach and support programs at CSUMB</a>.</br></br></p>
 <p class="small"><em>Photo: Jesus Garcia-Valdez and Monte Rey
 during CSUMB&apos;s annual open house</em></p>

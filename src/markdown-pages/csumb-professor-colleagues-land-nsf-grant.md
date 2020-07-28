@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>
   CSU Monterey Bay Professor
-  <a href="http://sep.csumb.edu/staff/cheryl/cheryl/Home.html">Cheryl Logan</a>
+  <a href="https://sep.csumb.edu/staff/cheryl/cheryl/Home.html">Cheryl Logan</a>
   and four colleagues have won a grant of nearly $900,000 from the National
   Science Foundation to conduct research on ocean acidification and hypoxia.
 </p>
@@ -42,12 +42,12 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/oct/28/can&#45;coral&#45;reefs&#45;adjust&#45;global&#45;climate&#45;change"
+    href="https://news.csumb.edu/news/2013/oct/28/can&#45;coral&#45;reefs&#45;adjust&#45;global&#45;climate&#45;change"
     >Read more about Dr. Logan’s research</a
   >
 </p>
 <p>
-  Learn more about <a href="http://calstate.edu/coast/">COAST</a>, which is now
+  Learn more about <a href="https://calstate.edu/coast/">COAST</a>, which is now
   based in the Division of Science and Environmental Policy at CSU Monterey Bay.
 </p>
 <p>

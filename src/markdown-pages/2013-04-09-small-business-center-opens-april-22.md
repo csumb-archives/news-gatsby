@@ -14,7 +14,7 @@ New Salinas location convenient for more clients</br></h3>
 <p>The CSU Monterey Bay Small Business Development Center will
 celebrate its grand opening at a new location in Salinas on Monday,
 April 22.</p>
-<p><img alt="The new office in Salinas will open April 22" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/small_business_words.jpeg" style="float:left; width:298px; height:169px">From 2:30 to 5
+<p><img alt="The new office in Salinas will open April 22" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/small_business_words.jpeg" style="float:left; width:298px; height:169px">From 2:30 to 5
 p.m., the public is invited to the center, now located at 106
 Lincoln Ave. CSUMB President Eduardo Ochoa will attend along with
 Business School chair and director of the center Marylou Shockley,
@@ -40,7 +40,7 @@ helpful to small businesses. In addition to the free one-on-one
 consulting, the centers offer a variety of workshops and
 seminars.<br>
 <br>
-For more information, call 422-6232 or<a href="http://sbdc.csumb.edu" rel="nofollow">visit the center
+For more information, call 422-6232 or<a href="https://sbdc.csumb.edu" rel="nofollow">visit the center
 online</a>.<br>
 &#xA0;</br></br></br></br></br></br></br></br></br></img></p>
 

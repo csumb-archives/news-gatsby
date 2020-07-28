@@ -13,7 +13,7 @@ slug: college-seniors
 school</h3>
 <p>What do Woody Allen, nature photography and spy novels have in
 common?</p>
-<p><img alt="OLLI spring 2014 catalog cover" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/olli_spring-2014_275x356.jpg" style="float:left; width:275px; height:356px">They are among the
+<p><img alt="OLLI spring 2014 catalog cover" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/olli_spring-2014_275x356.jpg" style="float:left; width:275px; height:356px">They are among the
 classes that will be offered this semester through the Osher
 Lifelong Learning Institute &#x2013; OLLI &#x2013; at California State
 University, Monterey Bay specifically for those 50 and better.</img></p>
@@ -46,7 +46,7 @@ sign up for an annual membership &#x2013; which includes tuition for 10
 classes for $210, or five classes for $140. Memberships include
 discounts on campus and other benefits.</p>
 <p>For more information or to register for classes, call 582-5500
-or visit <a href="http://csumb.edu/olli" rel="nofollow">OLLI
+or visit <a href="https://csumb.edu/olli" rel="nofollow">OLLI
 online</a>.</p>
 <p><br>
 &#xA0;</br></p>

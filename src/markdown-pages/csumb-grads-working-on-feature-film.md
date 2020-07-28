@@ -57,10 +57,10 @@ date: January 01 2020
 </p>
 <p>Read more about Machoian and Ojeda-Beck:</p>
 <p>
-  <a href="http://news.csumb.edu/news/2010/sep/22/tat-alums-make-new-faces-list"
+  <a href="https://news.csumb.edu/news/2010/sep/22/tat-alums-make-new-faces-list"
     >TAT alums make ‘New Faces’ list</a
   >
-  <a href="http://news.csumb.edu/news/csumb-grads-film-screen-sundance"
+  <a href="https://news.csumb.edu/news/csumb-grads-film-screen-sundance"
     >Grads’ film to screen at Sundance</a
   >
 </p>

@@ -71,7 +71,7 @@ date: January 01 2020
 </p>
 <p>
   For a complete listing of this year’s films in Monterey, Santa Cruz and Santa
-  Clara counties, visit <a href="http://www.reelwork.org">www.reelwork.org</a>.
+  Clara counties, visit <a href="https://www.reelwork.org">www.reelwork.org</a>.
   For more information on the CSUMB screenings, contact Jennifer Colby at
   <a
     href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;&#x6a;&#99;&#x6f;l&#98;&#x79;&#64;&#99;&#x73;&#117;&#x6d;b&#46;&#x65;&#100;&#117;"

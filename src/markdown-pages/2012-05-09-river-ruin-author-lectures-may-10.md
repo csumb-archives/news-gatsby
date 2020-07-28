@@ -11,7 +11,7 @@ slug: in-ruin&apos;-author-lectures-on-may-10
 <span class="date">Posted on May 09, 2012    </span>
 <h2>Journalist explores ills of Monterey Peninsula&apos;s primary water
 source</h2>
-<p><img alt="Author Ray March will visit CSUMB on May 10" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/river_in_ruin.jpeg" style="float:left; width:200px; height:309px">&#x201C;The Carmel River
+<p><img alt="Author Ray March will visit CSUMB on May 10" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/river_in_ruin.jpeg" style="float:left; width:200px; height:309px">&#x201C;The Carmel River
 presents a remarkable test case for a messed-up river. Almost
 everything that can go wrong with a river system through human
 activity has happened,&quot; said hydrologist (and former CSU Monterey
@@ -71,7 +71,7 @@ forces readers to reconsider water as a commodity that requires
 protection.<br>
 &#x2013; <em>Kirkus Reviews</em><br>
 <br>
-<img alt="Ray March is a career journalist" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ray_author_photo_2010-11-08.jpg" style="float:left; width:185px; height:200px"><strong>About the
+<img alt="Ray March is a career journalist" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ray_author_photo_2010-11-08.jpg" style="float:left; width:185px; height:200px"><strong>About the
 author</strong>:</img></br></br></br></p>
 <p>Ray A. March, author of several nonfiction books, is a career
 journalist and co-founder and editor of the Modoc Independent News.
@@ -79,7 +79,7 @@ He is also the co-founder of Modoc Forum, a nonprofit perpetuating
 an awareness of rural life through literature and the arts.</p>
 <p><br>
 The event is sponsored by CSUMB&apos;s Osher Lifelong Learning
-Institute. Learn more about OLLI <a href="http://csumb.edu/olli" rel="nofollow">here</a>.</br></p>
+Institute. Learn more about OLLI <a href="https://csumb.edu/olli" rel="nofollow">here</a>.</br></p>
 
 
 

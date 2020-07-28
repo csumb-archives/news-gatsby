@@ -10,7 +10,7 @@ slug: bakersfield-dean-named-interim-provost
 
 <span class="date">Posted on May 20, 2013    </span>
 <p>Julio Blanco, dean of the School of Natural Sciences,
-Mathematics and Engineering and professor of&#xA0;<img alt="Dr. Julio Blanco has been named interim provost" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/blanco_-_picture.jpg" style="float:right; width:250px; height:313px">physics at CSU
+Mathematics and Engineering and professor of&#xA0;<img alt="Dr. Julio Blanco has been named interim provost" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/blanco_-_picture.jpg" style="float:right; width:250px; height:313px">physics at CSU
 Bakersfield, has been named interim provost and vice president for
 academic affairs for Cal State Monterey Bay.</img></p>
 <p>Blanco succeeds Kathryn Cruz-Uribe, who is leaving CSUMB to

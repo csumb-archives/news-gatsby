@@ -9,7 +9,7 @@ slug: teen-film-festival-deadline-approaching
 
 
 <span class="date">Posted on Dec 20, 2010    </span>
-<p><img alt="Teen Film Festival will be held April 9, 2011" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/filmstrip2.jpg" style="float:left; width:320px; height:153px">Young filmmakers
+<p><img alt="Teen Film Festival will be held April 9, 2011" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/filmstrip2.jpg" style="float:left; width:320px; height:153px">Young filmmakers
 eager to see their work on a screen bigger than YouTube will get
 the opportunity in April, when Cal State Monterey Bay holds its
 third annual Teen Film Festival.</img></p>

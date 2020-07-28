@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>BYRON RUMFORD CHAMPIONED LANDMARK STATE LEGISLATION</p>
 <p>
-  <a href="http://dougharrismedia.com/home.html">Doug Harris</a> has been making
+  <a href="https://dougharrismedia.com/home.html">Doug Harris</a> has been making
   socially conscious films for 20 years. He perfected his media skills by
   earning a Master of Arts in Interdisciplinary Studies at CSU Monterey Bay in
   1998.

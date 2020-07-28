@@ -9,8 +9,8 @@ slug: an-animation-celebration-set-for-dec-8.
 
 
 <span class="date">Posted on Dec 05, 2014    </span>
-<p><img alt="Wonderland Film Festival will be held Dec. 8" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wonderland_film_festival_for_web.jpg" style="width:350px; height:514px; float:right">CSU Monterey Bay&#x2019;s
-<a href="http://csumb.edu/tat" rel="nofollow">Cinematic Arts and
+<p><img alt="Wonderland Film Festival will be held Dec. 8" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wonderland_film_festival_for_web.jpg" style="width:350px; height:514px; float:right">CSU Monterey Bay&#x2019;s
+<a href="https://csumb.edu/tat" rel="nofollow">Cinematic Arts and
 Technology Department</a> presents its third Wonderland Film
 Festival on Monday, Dec. 8.</img></p>
 <p>The semi-annual showcase of student work from animation, visual
@@ -23,8 +23,8 @@ Artwork used for the films will be on display.</br></br></p>
 introduce our new animation program to the public,&#x201D; said Enid Ryce,
 chair of the Cinematic Arts program.</p>
 <p>The public is invited to this free event. Parking permits must
-be purchased from a machine on the lot or <a href="http://parking.csumb.edu/buy-permit" rel="nofollow">online</a>.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</p>
+be purchased from a machine on the lot or <a href="https://parking.csumb.edu/buy-permit" rel="nofollow">online</a>.</p>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</p>
 <p>&#xA0;</p>
 <p>&#xA0;</p>
 <p><br>

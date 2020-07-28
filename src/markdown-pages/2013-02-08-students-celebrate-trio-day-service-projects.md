@@ -15,7 +15,7 @@ first-generation students enter college and earn a degree.</p>
 <p>At CSU Monterey Bay, it&#x2019;s also a day of service to the
 community.<br>
 <br>
-<img alt="Toiletries collected during last year&apos;s drive" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/toiletries.jpg" style="float:left; width:300px; height:371px">Sponsored by TRiO
+<img alt="Toiletries collected during last year&apos;s drive" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/toiletries.jpg" style="float:left; width:300px; height:371px">Sponsored by TRiO
 Student Support Services, students are collecting toiletries
 throughout the month of February for Dorothy&apos;s Place in Salinas, a
 provider of services to the homeless.<br>
@@ -67,7 +67,7 @@ Over the years, the TRiO programs have been expanded and improved
 to provide a wider range of services and to reach more students.
 All are federally funded.<br>
 <br>
-<a href="http://eosp.csumb.edu/student-support-services" rel="nofollow">Learn more about TRiO programs at CSUMB</a>.<br>
+<a href="https://eosp.csumb.edu/student-support-services" rel="nofollow">Learn more about TRiO programs at CSUMB</a>.<br>
 <br>
 For more information about National TRiO Day, please contact Chloe
 English at 582-4451.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></br></br></p>

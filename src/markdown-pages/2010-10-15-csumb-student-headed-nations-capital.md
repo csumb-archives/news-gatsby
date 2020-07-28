@@ -13,7 +13,7 @@ slug: csumb-student-headed-for-nation&apos;s-capital
 <strong>CSUMB student headed for nation&apos;s capital</strong>
 <p>Steven Avila has a passion for politics and government, and that
 passion will soon take him to Washington, D.C.</p>
-<p><img alt="Steven Avila" height="217" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Avila.Steven_sm.jpg" style="float:left" width="200">The 21-year-old senior business
+<p><img alt="Steven Avila" height="217" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Avila.Steven_sm.jpg" style="float:left" width="200">The 21-year-old senior business
 major at CSU Monterey Bay will spend the fall semester working in
 the office of a member of the California delegation through the
 Panetta Institute for Public Policy&apos;s Congressional Internship
@@ -89,7 +89,7 @@ of the United States, it really resonated with me. I&apos;m not saying I
 want to be president, but I believe that if you work hard and do
 the right thing, there is opportunity to be had.&quot;</p>
 <p>For more information on the Panetta Institute&apos;s Congressional
-Internship program, <a href="http://www.panettainstitute.org/programs/study-with-us/congressional-intern-training/" rel="nofollow">click here</a>.</p>
+Internship program, <a href="https://www.panettainstitute.org/programs/study-with-us/congressional-intern-training/" rel="nofollow">click here</a>.</p>
 <p>&#xA0;</p>
 <p>&#xA0;</p>
 <p>&#xA0;</p>

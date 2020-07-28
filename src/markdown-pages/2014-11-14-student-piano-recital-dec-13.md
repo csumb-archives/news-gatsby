@@ -9,7 +9,7 @@ slug: student-piano-recital-dec.-13
 <p>
   <img
     alt="Student piano recital Dec. 13"
-    src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/piano_recital_fall2014.jpg"
+    src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/piano_recital_fall2014.jpg"
     style="float:left; width:550px; height:731px"
   />
 </p>

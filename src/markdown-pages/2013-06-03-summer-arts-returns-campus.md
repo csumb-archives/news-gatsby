@@ -9,7 +9,7 @@ slug: summer-arts-returns-to-campus
 
 
 <span class="date">Posted on Jun 03, 2013    </span>
-<p><img alt="CSU Summer Arts returns to campus for a second year" height="360" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/web_summer-arts.jpg" width="540"/></p>
+<p><img alt="CSU Summer Arts returns to campus for a second year" height="360" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/web_summer-arts.jpg" width="540"/></p>
 <p>After an exciting debut in 2012, CSU Summer Arts returns to
 campus in July with a lineup of 17 classes and 52 public
 events.</p>
@@ -35,7 +35,7 @@ audience. In addition, each course offers a free public performance
 or &#x201C;culmination&#x201D; at the end of the session where students showcase
 their talents.</br></br></p>
 <p>A list of classes as well as the schedule of public performances
-is available <a href="http://www.csusummerarts.org" rel="nofollow">here</a>.<br>
+is available <a href="https://www.csusummerarts.org" rel="nofollow">here</a>.<br>
 <br>
 <em><strong>Here&#x2019;s a preview of the kinds of events that will be
 open to the public during July</strong>:</em></br></br></p>

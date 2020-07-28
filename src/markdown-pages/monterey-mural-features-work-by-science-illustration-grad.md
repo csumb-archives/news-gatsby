@@ -11,7 +11,7 @@ date: January 01 2020
 </p>
 <p>
   A 2011 graduate of CSU Monterey Bay’s
-  <a href="http://scienceillustration.org/">science illustration program</a>,
+  <a href="https://scienceillustration.org/">science illustration program</a>,
   Rozzo was commissioned to create a 12&#45;foot by 5&#45;foot mural that was
   unveiled recently between Old Fisherman’s Wharf and Fisherman’s Shoreline Park
   on the city’s recreation trail.
@@ -28,7 +28,7 @@ date: January 01 2020
   Creek, which emptied into the bay.
 </p>
 <p>
-  <a href="http://www.stephanierozzo.com/">Rozzo</a> is a portrait and
+  <a href="https://www.stephanierozzo.com/">Rozzo</a> is a portrait and
   scientific illustrator who specializes in plants, animals, people and geology.
   Her work has been featured in museums, textbooks and other publications
   including National Geographic magazine.

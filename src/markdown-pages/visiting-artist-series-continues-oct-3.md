@@ -39,7 +39,7 @@ date: January 01 2020
 <p>
   The University Center is located on Sixth Avenue at B Street. Driving
   directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>. Please note that visitors must
+  <a href="https://csumb.edu/maps">here</a>. Please note that visitors must
   purchase a parking permit from a dispenser on the parking lot or
   <a href="https://store.csumb.edu/products/daily-parking-permit">online</a>
 </p>

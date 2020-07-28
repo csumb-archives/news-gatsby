@@ -116,13 +116,13 @@ date: January 01 2020
 <p>
   Indications are it has been successful at CSUMB. To learn more about
   <a
-    href="http://news.csumb.edu/news/2010/jul/6/online&#45;course&#45;gets&#45;students&#45;thinking&#45;about&#45;drinking"
+    href="https://news.csumb.edu/news/2010/jul/6/online&#45;course&#45;gets&#45;students&#45;thinking&#45;about&#45;drinking"
     >AlcoholEdu</a
   >.
 </p>
 <p>
   Learn more about
-  <a href="http://pgcc.csumb.edu/health&#45;wellness&#45;services"
+  <a href="https://pgcc.csumb.edu/health&#45;wellness&#45;services"
     >health and wellness services CSUMB</a
   >.
 </p>

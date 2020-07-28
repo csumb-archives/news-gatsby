@@ -11,7 +11,7 @@ slug: admin-and-teachers
 <span class="date">Posted on May 19, 2009    </span>
 <p>May 19, 2009</p>
 <h4>CSUMB administrator honored for work with teachers</h4>
-<p>A<img alt="Alice Flores" height="225" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/flores.alice.JPG" style="float:left" width="300">lice Flores, regional director of
+<p>A<img alt="Alice Flores" height="225" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/flores.alice.JPG" style="float:left" width="300">lice Flores, regional director of
 CalStateTEACH based at CSU Monterey Bay, was recently honored by
 the Association of California School Administrators.</img></p>
 <p>Dr. Flores was named administrator of the year in Region 10,

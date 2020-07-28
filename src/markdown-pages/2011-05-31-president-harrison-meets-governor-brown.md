@@ -14,7 +14,7 @@ slug: president-harrison-meets-with-governor-brown
 Charles Reed and her fellow CSU presidents today in a meeting with
 Gov. Jerry Brown in Sacramento to discuss the state budget and its
 impact on higher education.</p>
-<p><img alt="President Harrison, Chancellor Reed and other CSU presidents meet with governor" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/presidents_governor_small.jpg" style="float:left; width:396px; height:264px">Like her
+<p><img alt="President Harrison, Chancellor Reed and other CSU presidents meet with governor" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/presidents_governor_small.jpg" style="float:left; width:396px; height:264px">Like her
 counterparts, Harrison was accompanied at the meeting by a local
 business leader, Mary Ann Leffel, president of the Monterey County
 Business Council.</img></p>
@@ -53,8 +53,8 @@ ultimately lead to a smaller tax base,&#x201D; she said.<br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/hLHU8cixVV0&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/hLHU8cixVV0&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/hLHU8cixVV0&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/hLHU8cixVV0&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -65,7 +65,7 @@ ultimately lead to a smaller tax base,&#x201D; she said.<br>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r13---sn-o097zne7.googlevideo.com/videoplayback?dur=240.721&amp;ipbits=0&amp;pl=23&amp;itag=18&amp;mm=31&amp;ip=198.189.249.65&amp;ratebypass=yes&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;sver=3&amp;mt=1422326579&amp;id=o-AK9QgcaMYQCDzkeeXlYmewzSB7iFANh5STCZRFqi9Jh4&amp;expire=1422348256&amp;signature=5DBB56DD1C6C381A9BE2FFCB7B50BAD6A0CDFFC9.28CFCDC52536C8A02BA2FCBEEEFB1BCDB3AA2A09&amp;initcwndbps=4356250&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;key=yt5&amp;ms=au&amp;source=youtube&amp;upn=BrH6m_6K38M&amp;mv=m&amp;name=hLHU8cixVV0" type="video/mp4"/></video></div>
+<source src="https://r13---sn-o097zne7.googlevideo.com/videoplayback?dur=240.721&amp;ipbits=0&amp;pl=23&amp;itag=18&amp;mm=31&amp;ip=198.189.249.65&amp;ratebypass=yes&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;sver=3&amp;mt=1422326579&amp;id=o-AK9QgcaMYQCDzkeeXlYmewzSB7iFANh5STCZRFqi9Jh4&amp;expire=1422348256&amp;signature=5DBB56DD1C6C381A9BE2FFCB7B50BAD6A0CDFFC9.28CFCDC52536C8A02BA2FCBEEEFB1BCDB3AA2A09&amp;initcwndbps=4356250&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;key=yt5&amp;ms=au&amp;source=youtube&amp;upn=BrH6m_6K38M&amp;mv=m&amp;name=hLHU8cixVV0" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

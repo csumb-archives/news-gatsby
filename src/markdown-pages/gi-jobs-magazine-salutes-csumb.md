@@ -46,13 +46,13 @@ date: January 01 2020
 </p>
 <p>
   To learn more about federal veterans educational benefits, click
-  <a href="http://www.gibill.va.gov">here</a>. Information about services for
-  veterans at CSUMB is available <a href="http://csumb.edu/veterans">here</a> or
+  <a href="https://www.gibill.va.gov">here</a>. Information about services for
+  veterans at CSUMB is available <a href="https://csumb.edu/veterans">here</a> or
   by e-mailing
   <a
     href="&#x6d;&#97;&#x69;&#108;&#x74;&#111;&#x3a;&#x76;&#101;&#x74;&#101;&#x72;&#97;&#x6e;&#95;&#115;&#x65;&#114;&#x76;&#105;&#x63;&#101;&#115;&#x40;&#99;&#x73;&#117;&#x6d;&#98;&#46;&#x65;&#100;&#x75;"
     >veteran_services@csumb.edu</a
   >. G.I. Jobs Magazine’s list of top veteran-friendly schools can be viewed
-  <a href="http://www.militaryfriendlyschools.com/mfsList.aspx">here</a>.
+  <a href="https://www.militaryfriendlyschools.com/mfsList.aspx">here</a>.
 </p>
 ```

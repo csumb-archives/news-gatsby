@@ -16,7 +16,7 @@ date: January 01 2020
   winning story, “Converting to Pure Electric,” is about electric car
   enthusiasts and their efforts to convert their gas cars to electric in a
   hands-on workshop. The story can be found
-  athttp://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1653461/news/Converting.to.Pure.Electric
+  athttps://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1653461/news/Converting.to.Pure.Electric
   Regional winners automatically become eligible for the national awards
   competition in June.
 </p>

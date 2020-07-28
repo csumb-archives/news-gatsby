@@ -14,7 +14,7 @@ slug: arts-collective-explores-gender-cultural-stereotypes
 Reanne Estrada have worked collaboratively as the arts collective
 Mail Order Brides/M.O.B.<br>
 <br>
-<img alt="M.O.B. explores issues of gender and cultural stereotypes" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mob_always_a_bridesmaid_flowers.jpg" style="float:left; width:400px; height:267px">Through humor, the
+<img alt="M.O.B. explores issues of gender and cultural stereotypes" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mob_always_a_bridesmaid_flowers.jpg" style="float:left; width:400px; height:267px">Through humor, the
 group explores gender, race and cultural stereotypes of Filipinas
 in work that has included karaoke videos, museum makeovers,
 photographic psychodramas, installations and posters. The name is a
@@ -37,10 +37,10 @@ Papaya Art Projects in Manila, the Philippines.<br>
 <br>
 The Alumni and Visitors Center is located on the corner of Gen. Jim
 Moore Boulevard and Inter-Garrison Road on the CSUMB campus.
-<a href="http://csumb.edu/map" rel="nofollow">Driving directions
+<a href="https://csumb.edu/map" rel="nofollow">Driving directions
 and a campus map</a>.</br></br></p>
 <p>The Visiting Artist Series is presented by the university&apos;s
-<a href="http://csumb.edu/art" rel="nofollow">Visual and Public Art
+<a href="https://csumb.edu/art" rel="nofollow">Visual and Public Art
 Department</a>.</p>
 <p class="small"><br>
 <em>Photo courtesy of M.O.B.<br>

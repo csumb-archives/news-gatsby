@@ -62,6 +62,6 @@ date: January 01 2020
 </p>
 <p>
   More information is available
-  <a href="http://www.calstate.edu/foundation/hearst/">here</a>.
+  <a href="https://www.calstate.edu/foundation/hearst/">here</a>.
 </p>
 ```

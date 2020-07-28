@@ -44,7 +44,7 @@ date: January 01 2020
   The event will be held at 7 p.m. in the University Center living room, located
   on Sixth Avenue and B Street. While the reading is free, visitors must
   purchase a parking permit from a machine on the lot. Driving directions and a
-  campus map are available <a href="http://csumb.edu/maps">here</a>.
+  campus map are available <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   Tenorio’s appearance is part of CSUMB’s celebration of Asian Pacific Islander

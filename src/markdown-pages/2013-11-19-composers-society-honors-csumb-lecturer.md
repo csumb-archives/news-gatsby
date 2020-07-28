@@ -9,11 +9,11 @@ slug: composers-society-honors-csumb-lecturer
 
 
 <span class="date">Posted on Nov 19, 2013    </span>
-<p>For the second consecutive year, <a href="http://www.laniersammons.com/Main/" rel="nofollow">Dr. Lanier
-Sammons</a>, a lecturer in the <a href="http://csumb.edu/music" rel="nofollow">Music and Performing Arts Department</a>, has won
+<p>For the second consecutive year, <a href="https://www.laniersammons.com/Main/" rel="nofollow">Dr. Lanier
+Sammons</a>, a lecturer in the <a href="https://csumb.edu/music" rel="nofollow">Music and Performing Arts Department</a>, has won
 the ASCAP Plus Award &#x2013; Concert Music Division.<br>
 <br>
-<img alt="Dr. Lanier Sammons" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/sammons.lanier.small__0.jpg" style="float:right; width:250px; height:338px">The ASCAP Awards
+<img alt="Dr. Lanier Sammons" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/sammons.lanier.small__0.jpg" style="float:right; width:250px; height:338px">The ASCAP Awards
 are made by the American Society of Composers, Authors, and
 Publishers to honor the past catalog and recent performances of
 member composers. With the cash award, ASCAP supports the careers

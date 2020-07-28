@@ -18,7 +18,7 @@ Valley,&#x201D; said he &#x201C;nagged&#x201D; his students to apply for summer 
 and specifically mentioned Tesla, the electric car company
 headquartered in Palo Alto. (Manufacturing and production take
 place at the former Nummi plant in Fremont.)</p>
-<p><img alt="Brett Roberts" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/brett_roberts_0.jpg" style="float:left; width:300px; height:300px">Roberts followed up
+<p><img alt="Brett Roberts" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/brett_roberts_0.jpg" style="float:left; width:300px; height:300px">Roberts followed up
 on the suggestion, in part because his best friend &#x201C;always talked
 about how much he wanted to work at Tesla.&#x201D; An application to work
 in the company&#x2019;s information technology division brought a call
@@ -44,7 +44,7 @@ manufacturing &#x2013; &#x201C;information about when things have been shipped,
 what&#x2019;s been ordered, progression. It really improves product
 output.&#x201D;</p>
 <p>Roberts, the 2013-14 student body president, is a senior
-<a href="http://itcd.csumb.edu/bs-computer-science-information-technology?utm_source=redirect&amp;utm_medium=marketing&amp;utm_campaign=redirect" rel="nofollow">computer science</a> major with a concentration in
+<a href="https://itcd.csumb.edu/bs-computer-science-information-technology?utm_source=redirect&amp;utm_medium=marketing&amp;utm_campaign=redirect" rel="nofollow">computer science</a> major with a concentration in
 software engineering. He will graduate in December.</p>
 <p>&#x201C;When I graduate, I really would love to work for Tesla
 full-time,&#x201D; he said. &#x201C;I think this internship is a good first step

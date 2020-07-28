@@ -13,7 +13,7 @@ slug: music-dance-performance-by-group-from-ghana
 African Show Boyz, will be held at CSU Monterey Bay on Feb. 7.</p>
 <p>The free program will get under way at 7 p.m. in the Music
 Hall.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/african_showboyz.for_web.jpg" style="float:left; width:400px; height:258px">Born and raised in
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/african_showboyz.for_web.jpg" style="float:left; width:400px; height:258px">Born and raised in
 Binaba, a small village in northeast Ghana, brothers Napoleon,
 Joseph, Isaac, Francis and JJ Sabbah have performed for
 enthusiastic audiences in the U.S. and Africa, and have
@@ -29,7 +29,7 @@ question-and-answer session following the performance.</p>
 <p>The performance is free, but a parking permit must be purchased.
 The Music Hall is located on Sixth Avenue, between Butler Street
 and Col. Durham Road.</p>
-<p><a href="http://hcom.csumb.edu/umi-vaughan-0" rel="nofollow">Professor Umi Vaughan</a> will host the event.</p>
+<p><a href="https://hcom.csumb.edu/umi-vaughan-0" rel="nofollow">Professor Umi Vaughan</a> will host the event.</p>
 
 
 

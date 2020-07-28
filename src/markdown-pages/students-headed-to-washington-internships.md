@@ -33,11 +33,11 @@ date: January 01 2020
   Insurance Company, and $2,500 from CSUMB to help with the costs. The Met Life
   scholarships became available as part of the
   <a
-    href="http://news.csumb.edu/news/2013/jul/29/another-service-learning-award-csumb"
+    href="https://news.csumb.edu/news/2013/jul/29/another-service-learning-award-csumb"
     >Higher Education Civic Engagement Award</a
   >
   the university's
-  <a href="http://service.csumb.edu">Service Learning</a> program won last year.
+  <a href="https://service.csumb.edu">Service Learning</a> program won last year.
 </p>
 <p>
   The Washington Center arranges internships for approximately 300 students each

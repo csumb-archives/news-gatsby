@@ -24,7 +24,7 @@ directors collaborated on the film, reflecting on the meaning of
 revolution in contemporary Mexico. It&#x2019;s made up of 10 films, each
 10 minutes long, and showcases a wide range of voices from the
 vibrant Mexican film scene.</p>
-<p><img alt="Rodrigo Garcia" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rodrigo_garcia.jpg" style="float:left; width:220px; height:329px">One of those
+<p><img alt="Rodrigo Garcia" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rodrigo_garcia.jpg" style="float:left; width:220px; height:329px">One of those
 voices, Rodrigo Garcia, will be on hand to introduce the film and
 answer questions after the showing. Son of Colombian writer Gabriel
 Garcia Marquez, he directed the film&#x2019;s final segment, called &#x201C;7th
@@ -37,7 +37,7 @@ Film Festival.</p>
 <p>On Saturday, April 9, the festival moves to California State
 University, Monterey Bay&#x2019;s World Theater on Sixth Avenue.
 Saturday&#x2019;s screenings are free, but reservations are requested and
-can be made <a href="http://rsvp.csumb.edu" rel="nofollow">here</a>.</p>
+can be made <a href="https://rsvp.csumb.edu" rel="nofollow">here</a>.</p>
 <p>Young filmmakers will be in the spotlight as 16 short works &#x2013;
 all under 5 minutes &#x2013; will be shown starting at 1 p.m. Doors open
 at 12:30 p.m.</p>
@@ -56,9 +56,9 @@ was held March 5, when the documentary &#x201C;I Am Secretly an Important
 Man&#x201D; was shown at the Osio Theater in Monterey. Peter Sillen, the
 film&#x2019;s director, was on hand to answer questions from the
 audience.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>. For information on
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>. For information on
 the festival, call Jennifer Benge at (831) 582-3743 or visit the
-<a href="http://montereybayfilmfestival.com." rel="nofollow">web</a>.</p>
+<a href="https://montereybayfilmfestival.com." rel="nofollow">web</a>.</p>
 <p>&#xA0;</p>
 <p>&#xA0;</p>
 <p>&#xA0;</p>

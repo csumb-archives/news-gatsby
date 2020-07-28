@@ -14,7 +14,7 @@ slug: watershed-alumni-work-on-san-clemente-dam-project
 CSU Monterey Bay&apos;s Applied Marine and Watershed Science program,
 are working on the removal of the San Clemente Dam from the Carmel
 River.</p>
-<p><img alt="CSUMB alumni work for Granite Construction on the Carmel River dam project" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/san_clemente_dam_alums.jpg" style="width:350px; height:254px; float:left">Because each had
+<p><img alt="CSUMB alumni work for Granite Construction on the Carmel River dam project" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/san_clemente_dam_alums.jpg" style="width:350px; height:254px; float:left">Because each had
 worked extensively on the river, they were hired by Granite
 Construction to be part of the environmental compliance team.<br>
 <br>
@@ -44,14 +44,14 @@ the river and give steelhead trout &#x2013; a threatened species &#x2013; access
 to 25 miles of additional spawning habitat. It will also eliminate
 potential problems the seismically unsafe structure could cause in
 an earthquake.</p>
-<p><a href="http://www.sanclementedamremoval.org" rel="nofollow">Read more about the San Clemente dam removal</a></p>
-<p><a href="http://www.ksbw.com/news/central-california/monterey/csu-monterey-bay-students-helping-with-carmel-river-dam-removal/21164836#!bLMi0" rel="nofollow">Read a story by KSBW-TV news on students helping
+<p><a href="https://www.sanclementedamremoval.org" rel="nofollow">Read more about the San Clemente dam removal</a></p>
+<p><a href="https://www.ksbw.com/news/central-california/monterey/csu-monterey-bay-students-helping-with-carmel-river-dam-removal/21164836#!bLMi0" rel="nofollow">Read a story by KSBW-TV news on students helping
 with dam removal</a></p>
-<p><a href="http://sep.csumb.edu/amws/" rel="nofollow">Learn about
+<p><a href="https://sep.csumb.edu/amws/" rel="nofollow">Learn about
 CSUMB&#x2019;s master&#x2019;s degree in applied marine and watershed
 science</a></p>
 <p class="small"><em>Reprinted from the newsletter of CSU Monterey
-Bay&#x2019;s <a href="http://watershed.csumb.edu/wi/" rel="nofollow">Watershed Institute.</a> Used by permission.</em></p>
+Bay&#x2019;s <a href="https://watershed.csumb.edu/wi/" rel="nofollow">Watershed Institute.</a> Used by permission.</em></p>
 <p class="small">Photo: (left to right) Evan DeLay, Sheldon Leiker
 and Elizabeth Geisler are employed by Granite Construction, working
 on removal of the San Clemente dam</p>

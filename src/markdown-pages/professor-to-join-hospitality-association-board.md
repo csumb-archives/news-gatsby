@@ -29,12 +29,12 @@ date: January 01 2020
   customer and staff to create loyalty.
 </p>
 <p>
-  <a href="http://csumb.edu/business"
+  <a href="https://csumb.edu/business"
     >Learn more about the School of Business at CSUMB</a
   >.
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     ><em>Read more faculty news</em></a
   >
 </p>

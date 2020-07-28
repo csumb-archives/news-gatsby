@@ -20,7 +20,7 @@ recommended for a healthy diet. The agriculture industry and public
 health are working together to protect the environment and prevent
 diseases such as diabetes. A public-private partnership, uneasy at
 times, is emerging to address this challenge.</p>
-<p><img alt="lettuce" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/lettuce_mix.jpg" style="width:350px; height:263px; float:left">This series will
+<p><img alt="lettuce" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/lettuce_mix.jpg" style="width:350px; height:263px; float:left">This series will
 address how the systems of production agriculture and the promotion
 of public health can work together to provide value-added produce
 at an affordable price while protecting farm workers and the
@@ -37,7 +37,7 @@ Gina Nucci of Mann Packing.</p>
 <p>The event will be held in the University Center on Sixth Avenue
 and B Street, starting at 2 p.m. The event is free; however, a
 parking permit must be purchased from the machine on the lot.
-Driving directions and a campus map can be downloaded <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</p>
+Driving directions and a campus map can be downloaded <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</p>
 <p>&#xA0;&#x201C;A Greater Vision&#x201D; is an annual educational event hosted
 by the Grower-Shipper Association Foundation, and supported by
 CSUMB and the Central Coast Ag Task Force. It provides a series of

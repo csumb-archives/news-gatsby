@@ -57,10 +57,10 @@ date: January 01 2020
   archived in the Salinas Chinatown Cultural Center and Museum.
 </p>
 <p>
-  <a href="http://hcom.csumb.edu/oral-history"
+  <a href="https://hcom.csumb.edu/oral-history"
     >Learn about CSUMB’s Oral History and Community Memory Archive</a
   >
-  <a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2013/jan/31/faculty-highlights"
     >More faculty news</a
   >
 </p>

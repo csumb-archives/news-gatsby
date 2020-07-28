@@ -18,7 +18,7 @@ date: January 01 2020
   program for disabled veterans that holds fishing derbies on Monterey Bay. The
   story can be found
   <a
-    href="http://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1561717/news/Rec.Rehab.Program.Hooks.National.Interest"
+    href="https://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1561717/news/Rec.Rehab.Program.Hooks.National.Interest"
     >here</a
   >.
 </p>

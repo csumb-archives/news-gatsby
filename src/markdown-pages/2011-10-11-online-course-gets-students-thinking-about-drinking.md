@@ -13,7 +13,7 @@ slug: online-course-gets-students-thinking-about-drinking
 this fall, the university expected them to complete a homework
 assignment on a subject they won&apos;t get class credit for &#x2013;
 alcohol.</p>
-<p><img alt="beer bottle" height="80" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/beer%20bottle.jpg" style="float:right" width="128">During the summer, incoming
+<p><img alt="beer bottle" height="80" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/beer%20bottle.jpg" style="float:right" width="128">During the summer, incoming
 students were required to spend about three hours completing a
 mandatory web-based course that deals with a variety of
 alcohol-related topics.</img></p>
@@ -46,7 +46,7 @@ learned.</p>
 Judicial Affairs after AlcoholEdu was introduced,&quot; Andy
 Klingelhoefer, CSUMB&apos;s judicial affairs officer, said in 2010 when
 the program was first introduced.</p>
-<p><img alt="red cups" height="84" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/red%20cups.jpg" style="float:left" width="149">He noted that CSUMB also saw a
+<p><img alt="red cups" height="84" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/red%20cups.jpg" style="float:left" width="149">He noted that CSUMB also saw a
 drop in alcohol-related cases last spring, and so far this year,
 he&apos;s seen an even bigger drop.</img></p>
 <p>&quot;The educational part of it gets students thinking about the

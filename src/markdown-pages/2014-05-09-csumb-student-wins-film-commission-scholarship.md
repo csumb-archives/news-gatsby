@@ -16,7 +16,7 @@ Commission&#x2019;s student scholarship.</br></p>
 Cinematic Arts and Technology. She plans to use the $2,000 grant to
 help with expenses for her capstone project, &#x201C;The Maw,&#x201D; an animated
 film short.</p>
-<p><img alt="Jeff Clark, Jessica Moss" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jeff_clark_mcfc_board_member_and_scholarship_chair__and_jessica_moss.jpg" style="width:300px; height:371px; float:left">She chose the
+<p><img alt="Jeff Clark, Jessica Moss" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jeff_clark_mcfc_board_member_and_scholarship_chair__and_jessica_moss.jpg" style="width:300px; height:371px; float:left">She chose the
 challenge of an animated film, which entails doing frame-by-frame
 traditional animation in addition to digital animation. It requires
 specialized equipment as well as an extended time commitment.</img></p>
@@ -43,10 +43,10 @@ Cinematic Arts Department as a media specialist &#x2013; was the winner.
 Rachel Asendorf received the award in 2010; Dominic Parisi won it
 in 2011; Joey Blackburn won in 2012, and Nicholas Fryou was last
 year&#x2019;s recipient.&#xA0;</p>
-<p><a href="http://csumb.edu/tat" rel="nofollow">Learn more about
+<p><a href="https://csumb.edu/tat" rel="nofollow">Learn more about
 the Cinematic Arts and Technology Department</a><br>
 <br>
-<a href="http://www.FilmMonterey.org" rel="nofollow">Learn more
+<a href="https://www.FilmMonterey.org" rel="nofollow">Learn more
 about the Monterey County Film Commission</a></br></br></p>
 <p class="small"><em>Photo courtesy of the Monterey County Film
 Commission<br>

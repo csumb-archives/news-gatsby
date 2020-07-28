@@ -13,7 +13,7 @@ slug: historically-african-american-sorority-comes-to-campus
 committed to public service, with a primary focus on the black
 community.<br>
 <br>
-<img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/delta-sigma-theta.jpg" style="float:left; width:400px; height:262px">Now, there is a
+<img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/delta-sigma-theta.jpg" style="float:left; width:400px; height:262px">Now, there is a
 chapter at CSU Monterey Bay, the first historically African
 American sorority established on campus.<br>
 <br>
@@ -29,7 +29,7 @@ members. It was founded in 1913 at Howard University to promote
 academic excellence and provide assistance to those in need.</p>
 <p>Delta Sigma Theta is the eighth sorority to be chartered at
 CSUMB; six fraternities are also active. (A complete list can be
-found <a href="http://activities.csumb.edu/multicultural-greek-council-0" rel="nofollow">here</a>.)</p>
+found <a href="https://activities.csumb.edu/multicultural-greek-council-0" rel="nofollow">here</a>.)</p>
 <p>&quot;We are grateful for CSUMB&apos;s enthusiastic support for a
 collegiate chapter. Upsilon Xi will extend Delta&apos;s legacy of
 scholarship, service and sisterhood to the campus community, while

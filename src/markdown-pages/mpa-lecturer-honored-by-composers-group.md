@@ -36,15 +36,15 @@ date: January 01 2020
   relationship between play and composition, new music for the guitar, and the
   intersection and overlap between "popular" music and "art" music. This is his
   first semester at CSUMB. For more information, visit his
-  <a href="http://www.laniersammons.com/Main/">website</a>.
+  <a href="https://www.laniersammons.com/Main/">website</a>.
 </p>
 <p>
   Learn more about the
-  <a href="http://csumb.edu/music">Music and Performing Arts</a> program at
+  <a href="https://csumb.edu/music">Music and Performing Arts</a> program at
   CSUMB.
   <em
-    ><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">R</a>
-    <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+    ><a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights">R</a>
+    <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
       >ead more faculty news</a
     ></em
   >

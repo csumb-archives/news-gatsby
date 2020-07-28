@@ -29,17 +29,17 @@ date: January 01 2020
   Services and Student Recreation.
 </p>
 <p>
-  <a href="http://transportation.csumb.edu/biking"
+  <a href="https://transportation.csumb.edu/biking"
     >Learn more about biking at CSUMB</a
   >
 </p>
 <p>
-  <a href="http://activities.csumb.edu/otter&#45;cycle&#45;center"
+  <a href="https://activities.csumb.edu/otter&#45;cycle&#45;center"
     >See what services are available at the Cycle Center</a
   >
 </p>
 <p>
-  <a href="http://activities.csumb.edu/bike&#45;bunker"
+  <a href="https://activities.csumb.edu/bike&#45;bunker"
     >Learn about the bike bunker</a
   >
 </p>

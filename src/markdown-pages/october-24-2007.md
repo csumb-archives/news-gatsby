@@ -18,7 +18,7 @@ date: January 01 2020
   assured that OTTERalert is for emergency alerts only; those who sign up will
   not receive spam. Privacy is protected, and only campus administrators and
   members of the University Police Department can originate the messages.
-  <a href="http://news.csumb.edu/site/x20695.xml%20"
+  <a href="https://news.csumb.edu/site/x20695.xml%20"
     >Read more about OTTERalert here</a
   >.
 </p>
@@ -41,7 +41,7 @@ date: January 01 2020
   compact fluorescent light bulbs &#40;CFLs&#41; to the public. The student
   Environmental Committee, led by Associated Students Environmental Senator Mary
   Berube, is organizing the event.
-  <a href="http://news.csumb.edu/site/x20682.xml"
+  <a href="https://news.csumb.edu/site/x20682.xml"
     >Read more about this energy&#45;saving initiative.</a
   >
 </p>
@@ -66,12 +66,12 @@ date: January 01 2020
   by William Gibson from his Broadway play of the same name. The film, edited by
   David, opened recently in New York and is currently playing in Los Angeles.
   Read the
-  <a href="http://www.goldasbalconythefilm.com/index.html">review</a> in the
+  <a href="https://www.goldasbalconythefilm.com/index.html">review</a> in the
   Oct. 10 edition of the New York Times. A 2001 graduate, David was part of a
   team that won the Oscar for best documentary short for "A Note of Triumph: The
   Golden Age of Norman Corwin," a story about the historic radio program run by
   Corwin, a broadcaster and poet during World War II.
-  <a href="http://csumb.edu/site/x15529.xml"
+  <a href="https://csumb.edu/site/x15529.xml"
     >Learn more about David Kashevaroff here</a
   >.
 </p>
@@ -83,7 +83,7 @@ date: January 01 2020
   campuses across the United States. NCAAW strives to provide students with
   alternatives to alcohol and to educate them on the personal choice of
   responsible alcohol use. View the
-  <a href="http://activities.csumb.edu/site/x20677.xml">calendar</a> of events
+  <a href="https://activities.csumb.edu/site/x20677.xml">calendar</a> of events
   at CSUMB.
 </p>
 <p>
@@ -167,7 +167,7 @@ date: January 01 2020
   accessed via a newly constructed entrance at the southwest corner of Parking
   Lot 23. Our campus is under construction. Please be cautious around
   construction areas. We invite you to view this short
-  <a href="http://cdo.csumb.edu/site/x4929.xml">slide show</a> created with your
+  <a href="https://cdo.csumb.edu/site/x4929.xml">slide show</a> created with your
   safety in mind.
 </p>
 <p>
@@ -294,6 +294,6 @@ date: January 01 2020
 </p>
 <p>
   For campus news, activities and events, please visit our
-  <a href="http://www.csumb.edu/news%20">news website</a>.
+  <a href="https://www.csumb.edu/news%20">news website</a>.
 </p>
 ```

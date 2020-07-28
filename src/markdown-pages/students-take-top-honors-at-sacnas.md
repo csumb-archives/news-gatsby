@@ -67,16 +67,16 @@ date: January 01 2020
   director of the Monterey Bay Regional Ocean Science REU and the university’s
   SACNAS chapter adviser.
 </p>
-<p><a href="http://sacnas.org">Learn more about SACNAS</a></p>
+<p><a href="https://sacnas.org">Learn more about SACNAS</a></p>
 <p>
   Learn about the
-  <a href="http://uroc.csumb.edu/mcnair">McNair Scholars</a> program and CSUMB’s
-  <a href="http://uroc.csumb.edu"
+  <a href="https://uroc.csumb.edu/mcnair">McNair Scholars</a> program and CSUMB’s
+  <a href="https://uroc.csumb.edu"
     >Undergraduate Research Opportunities Center</a
   >
 </p>
 <p>
-  Learn more about the <a href="http://reu.csumb.edu">Ocean Science REU</a> at
+  Learn more about the <a href="https://reu.csumb.edu">Ocean Science REU</a> at
   CSUMB
 </p>
 <p>

@@ -62,7 +62,7 @@ date: January 01 2020
   Policy.
 </p>
 <p>
-  <a href="http://www.flickr.com/photos/csumb/sets/72157627894867792/detail/"
+  <a href="https://www.flickr.com/photos/csumb/sets/72157627894867792/detail/"
     ><em>More photos of the garden are posted in CSUMB’s Flickr gallery</em></a
   >
 </p>

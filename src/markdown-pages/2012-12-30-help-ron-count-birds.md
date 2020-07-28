@@ -10,7 +10,7 @@ slug: help-ron-count-the-birds
 
 <span class="date">Posted on Dec 30, 2012    </span>
 <h3>CSUMB&#x2019;s Return of the Natives&#x2019; annual event Jan. 19</h3>
-<p><img alt="White pelican" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/white_pelican_detail_1.jpg" style="float:right; width:225px; height:169px">Volunteers will be
+<p><img alt="White pelican" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/white_pelican_detail_1.jpg" style="float:right; width:225px; height:169px">Volunteers will be
 out at 7 a.m. Saturday, Jan. 19, looking for hawks, geese, ducks,
 wrens and a variety of other species at the Watershed Institute&#x2019;s
 eighth annual winter bird count at Upper Carr Lake in Salinas.
@@ -47,7 +47,7 @@ the squawking, quacking and tweeting flocks.<br>
 Return of the Natives will submit the information it gathers to
 California eBird, the Audubon Society&#x2019;s online database.<br>
 <br>
-For more information, <a href="http://ron.csumb.edu" rel="nofollow">click here</a> or call 582-3686.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></p>
+For more information, <a href="https://ron.csumb.edu" rel="nofollow">click here</a> or call 582-3686.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></p>
 <p><em>Photo: Detail of a white pelican</em></p>
 <p><br>
 &#xA0;</br></p>

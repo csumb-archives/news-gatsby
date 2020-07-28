@@ -16,14 +16,14 @@ Salinas story<em><br/></em></strong>
 <p>KAZU news director Krista Almanzan was honored Nov. 7 by the
 Radio-Television News Directors Association of Northern California
 at the organization&apos;s annual awards dinner in San Francisco.</p>
-<p><img alt="Krista Almanzan" height="263" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Krista_Almanzan.jpg" style="float:left" width="200">She was recognized in the category
+<p><img alt="Krista Almanzan" height="263" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Krista_Almanzan.jpg" style="float:left" width="200">She was recognized in the category
 of best feature reporting on a serious subject for &quot;A Second Chance
 in Salinas.&quot; The story examined a program called Take the Lead,
 which pairs at-risk youngsters with dogs surrendered to the local
 SPCA. The kids learn to train the dogs &#x2013; making the pets more
 adoptable &#x2013; while making a better connection with their school and
-doing better in the classroom. Read the story <a href="http://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1511786/news/A.Second.Chance.in.Salinas" rel="nofollow">here</a>.</img></p>
-<p><a href="http://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1511786/news/A.Second.Chance.in.Salinas" rel="nofollow"/></p>
+doing better in the classroom. Read the story <a href="https://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1511786/news/A.Second.Chance.in.Salinas" rel="nofollow">here</a>.</img></p>
+<p><a href="https://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1511786/news/A.Second.Chance.in.Salinas" rel="nofollow"/></p>
 <p>The Nor-Cal RTNDA represents electronic journalists in radio,
 television and online from the Oregon border to the California
 Central Coast and Reno. The entry period covered July 1, 2008

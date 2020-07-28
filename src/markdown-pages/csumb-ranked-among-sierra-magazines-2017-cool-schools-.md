@@ -39,7 +39,7 @@ date: January 01 2020
 <p>
   The full ranking of 227 colleges and universities, including each school’s
   completed questionnaire, is online at
-  <a href="http://www.sierraclub.org/coolschools">Sierra Magazine’s Homepage</a
+  <a href="https://www.sierraclub.org/coolschools">Sierra Magazine’s Homepage</a
   >.
 </p>
 ```

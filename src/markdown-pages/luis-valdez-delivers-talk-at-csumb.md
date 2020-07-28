@@ -33,12 +33,12 @@ date: January 01 2020
 <p>
   The event is free to the public, but a parking permit must be purchased from a
   dispenser on the parking lot or
-  <a href="http://parking.csumb.edu/buy-permit">online</a>. No tickets or
+  <a href="https://parking.csumb.edu/buy-permit">online</a>. No tickets or
   reservations are needed.
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   The talk is sponsored by CSUMB’s Otter Cross Cultural Center and Student

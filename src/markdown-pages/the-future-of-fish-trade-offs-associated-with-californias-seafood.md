@@ -33,7 +33,7 @@ date: January 01 2020
 </p>
 <p>
   The
-  <a href="http://resources.ca.gov/secretarys_page/">Honorable John Laird</a>,
+  <a href="https://resources.ca.gov/secretarys_page/">Honorable John Laird</a>,
   California Secretary for Natural Resources, will moderate the luncheon. Guests
   from legislature, state agencies, non-profit organizations and private sector
   are anticipated to be in attendance.

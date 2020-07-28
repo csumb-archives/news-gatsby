@@ -13,7 +13,7 @@ slug: political-satirist-visits-campus-march-8
 <em>Elect to laugh with Will Durst at the World Theater</em></br></h3>
 <p>The World Theater gets in the spirit of the political season
 when it hosts comedian Will Durst on March 8.</p>
-<p><img alt="Will Durst" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/durst_mugshot_sm.jpg" style="float:left; width:200px; height:197px">One of the premier
+<p><img alt="Will Durst" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/durst_mugshot_sm.jpg" style="float:left; width:200px; height:197px">One of the premier
 political satirists in the country, Durst has patched together a
 comedy quilt of a career, weaving together columns, books, radio
 and television commentaries, acting and stand-up comedy.</img></p>
@@ -36,9 +36,9 @@ networks and the BBC.<br>
 <br>
 Tickets are $40 premium, $29 general admission. Discounts are
 available for students, seniors and military members. Tickets can
-be purchased <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>&#xA0;or by calling the box office at
+be purchased <a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>&#xA0;or by calling the box office at
 582-4580. Driving directions and a campus map are available
-<a href="http://csumb.edu/map" rel="nofollow">here</a>.</br></br></p>
+<a href="https://csumb.edu/map" rel="nofollow">here</a>.</br></br></p>
 <p><em>A modern-day Will Rogers</em>.<br>
 &#x2013; Boston Globe<br>
 &#xA0;</br></br></p>

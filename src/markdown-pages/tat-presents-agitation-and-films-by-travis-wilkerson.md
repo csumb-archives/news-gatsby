@@ -9,7 +9,7 @@ date: January 01 2020
   Travis Wilkerson describes himself as a “radical filmmaker.” Local audiences
   will be able to sample his work on Oct. 25 when the Los Angeles resident kicks
   off this year’s visiting artist series presented by the
-  <a href="http://csumb.edu/tat">Teledramatic Arts and Technology Department </a
+  <a href="https://csumb.edu/tat">Teledramatic Arts and Technology Department </a
   >(TAT) at CSU Monterey Bay and the Monterey Bay Film Society. He will make two
   presentations, both free and open to the public, at noon and again at 2 p.m.
   Both will be held in the TAT studio on Sixth Avenue at A Street. Wilkerson is

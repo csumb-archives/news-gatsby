@@ -10,7 +10,7 @@ slug: asian-cultural-center-will-have-national-significance-speaker-says
 
 <span class="date">Posted on Oct 28, 2010    </span>
 <p>Oct. 18, 2010</p>
-<img alt="crowd at symposium" height="255" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/crowd%20at%20symposium_sm.jpg" width="400">
+<img alt="crowd at symposium" height="255" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/crowd%20at%20symposium_sm.jpg" width="400">
 <p>Dr. Jack Tchen, keynote speaker at the Salinas Chinatown: Once
 and Again Symposium on Oct. 15,&#xA0; told the gathering of 200
 people at CSU Monterey Bay, &quot;We, too, are in search of
@@ -18,7 +18,7 @@ America.&quot;</p>
 <p>He was referring to the subtitle of John Steinbeck&apos;s book,
 <em>Travels with Charley</em>. &quot;In some ways,&quot; he said, &quot;the legacy
 of Steinbeck&apos;s writing is what keeps us going.&quot;</p>
-<p><img alt="Dr. Tchen at the symposium" height="300" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Dr.%20Jack%20Tchen_sm.jpg" style="float:right" width="200">Dr. Tchen, a historian, professor
+<p><img alt="Dr. Tchen at the symposium" height="300" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Dr.%20Jack%20Tchen_sm.jpg" style="float:right" width="200">Dr. Tchen, a historian, professor
 at New York University and co-founder of New York&apos;s Museum of
 Chinese in America, as well as several other museum professionals
 and artists were invited to the university to talk about the
@@ -47,7 +47,7 @@ material that will be displayed in the center.</p>
 the plans for the museum.</p>
 <p>&quot;You guys are going to get there. It&apos;s just a matter of time,&quot;
 he told the group.</p>
-<p>To read more about the symposium, click <a href="http://csumb.edu/site/x25524.xml" rel="nofollow">here</a>.</p>
+<p>To read more about the symposium, click <a href="https://csumb.edu/site/x25524.xml" rel="nofollow">here</a>.</p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">
@@ -55,7 +55,7 @@ he told the group.</p>
 <div class="field-item odd">
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
-<div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/M2-YON15JAQ&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1"><param name="movie" value="http://www.youtube.com/v/M2-YON15JAQ&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
+<div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/M2-YON15JAQ&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1"><param name="movie" value="https://www.youtube.com/v/M2-YON15JAQ&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
 <param name="allowScriptAccess" value="sameDomain">
 <param name="quality" value="best">
 <param name="allowFullScreen" value="true">

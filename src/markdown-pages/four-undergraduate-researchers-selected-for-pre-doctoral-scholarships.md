@@ -22,7 +22,7 @@ date: January 01 2020
 </p>
 <p>
   The
-  <a href="http://www.calstate.edu/predoc/apply/"
+  <a href="https://www.calstate.edu/predoc/apply/"
     >California Pre-Doctoral Program</a
   >
   is designed to increase the pool of potential faculty by supporting the

@@ -20,9 +20,9 @@ date: January 01 2020
   She won a regional Edward R. Murrow Award last spring for the same story. Read
   or listen to the story here:
   <a
-    href="http://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1561717/news/Rec.Rehab.Program.Hooks.Natioinal.Interest"
-    title="http://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1561717/news/Rec.Rehab.Program.Hooks.Natioinal.Interest"
-    >http://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1561717...</a
+    href="https://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1561717/news/Rec.Rehab.Program.Hooks.Natioinal.Interest"
+    title="https://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1561717/news/Rec.Rehab.Program.Hooks.Natioinal.Interest"
+    >https://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1561717...</a
   >
   The Nor-Cal RTNDA represents electronic journalists in radio, television and
   online from the Oregon border to the California Central Coast and Reno. The

@@ -13,7 +13,7 @@ slug: trio-of-employees-honored-with-president&apos;s-medal-for-2011
 honored for their leadership and dedication to the CSU Monterey Bay
 Vision at the Day of Welcome gathering Aug. 17 in the World
 Theater.</p>
-<p><img alt="Medal winners Kevin Miller and Kathy Cruz-Uribe flank President Harrison" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kevin_kcu_with_pres._harrison.jpg" style="float:left; width:350px; height:234px">President Dianne
+<p><img alt="Medal winners Kevin Miller and Kathy Cruz-Uribe flank President Harrison" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kevin_kcu_with_pres._harrison.jpg" style="float:left; width:350px; height:234px">President Dianne
 Harrison welcomed the campus community back for the fall semester,
 delivered her annual State of the University address, and then
 introduced the President&#x2019;s Medal recipients.</img></p>
@@ -44,7 +44,7 @@ progress in many important areas, including the reaffirmation of
 the university&#x2019;s accreditation by the Western Association of
 Schools and Colleges (WASC); general education reform, retention
 and graduation, strategic planning and program review.</p>
-<p><img alt="Ilene Feinman" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ilenefinal.jpg" style="float:right; width:200px; height:207px">Dr.
+<p><img alt="Ilene Feinman" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ilenefinal.jpg" style="float:right; width:200px; height:207px">Dr.
 Feinman&#xA0;(at right) was awarded the faculty medal. The quality
 described by her nominators was leadership &#x2013; the ability to bring
 people together to solve complex problems, find consensus and make

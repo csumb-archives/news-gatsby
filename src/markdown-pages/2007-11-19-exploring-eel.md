@@ -109,15 +109,15 @@ together for research, discovery, education and conservation. Just
 watch out for the green lasers.<br>
 <br>
 <strong>Related Links:</strong><br>
-Division of Science and Environmental Policy (<a href="http://sep.csumb.edu/sep/" rel="nofollow">http://sep.csumb.edu/sep/</a>)<br>
+Division of Science and Environmental Policy (<a href="https://sep.csumb.edu/sep/" rel="nofollow">https://sep.csumb.edu/sep/</a>)<br>
 More about the ROVing Otter:<br>
-WeTEC Page ([ <a href="http://csumb.edu/site/x17370.xml" rel="nofollow">http://csumb.edu/site/x17370.xml</a>
-]http://csumb.edu/site/x17370.xml)<br>
-ROVing Otter Homepage ([ <a href="http://science.csumb.edu/ro/" rel="nofollow">http://science.csumb.edu/ro/</a>
-]http://science.csumb.edu/ro/)<br>
-Institute for Applied Marine Ecology ([ <a href="http://sep.csumb.edu/iame/" rel="nofollow">http://sep.csumb.edu/iame/</a>
-]http://sep.csumb.edu/iame/)<br>
-Carmel Middle School Owl Cam (<a href="http://home.csumb.edu/m/mooresteve/world/courses/zoology/OwlCam/CMS_OwlCam_Moore.htm" rel="nofollow">http://home.csumb.edu/m/mooresteve/world/courses/zoology/OwlCam/CMS_OwlCam_Moore.htm</a>)</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
+WeTEC Page ([ <a href="https://csumb.edu/site/x17370.xml" rel="nofollow">https://csumb.edu/site/x17370.xml</a>
+]https://csumb.edu/site/x17370.xml)<br>
+ROVing Otter Homepage ([ <a href="https://science.csumb.edu/ro/" rel="nofollow">https://science.csumb.edu/ro/</a>
+]https://science.csumb.edu/ro/)<br>
+Institute for Applied Marine Ecology ([ <a href="https://sep.csumb.edu/iame/" rel="nofollow">https://sep.csumb.edu/iame/</a>
+]https://sep.csumb.edu/iame/)<br>
+Carmel Middle School Owl Cam (<a href="https://home.csumb.edu/m/mooresteve/world/courses/zoology/OwlCam/CMS_OwlCam_Moore.htm" rel="nofollow">https://home.csumb.edu/m/mooresteve/world/courses/zoology/OwlCam/CMS_OwlCam_Moore.htm</a>)</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">

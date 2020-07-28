@@ -18,13 +18,13 @@ date: January 01 2020
   more.
 </p>
 <p>
-  <a href="http://capstonefestival.csumb.edu"
+  <a href="https://capstonefestival.csumb.edu"
     >This semester’s Capstone Festival will be held Dec. 18 and 19 at locations
     around campus. A schedule can be found here.</a
   >
   The public is invited to attend. While the event is free, a parking permit
   must be purchased from a machine on the lot or
-  <a href="http://parking.csumb.edu/buy-permit">online</a>.
+  <a href="https://parking.csumb.edu/buy-permit">online</a>.
 </p>
 <p>
   <strong>NEW THIS SEMESTER</strong> Nursing students will present their

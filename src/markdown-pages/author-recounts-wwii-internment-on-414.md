@@ -47,7 +47,7 @@ date: January 01 2020
 </p>
 <p>
   For driving directions and a campus map, click
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   <em

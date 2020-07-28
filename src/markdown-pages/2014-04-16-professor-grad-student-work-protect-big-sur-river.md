@@ -9,7 +9,7 @@ slug: professor-grad-student-work-to-protect-big-sur-river
 
 
 <span class="date">Posted on Apr 16, 2014    </span>
-<p><img alt="Sam Phillips works on a watershed plan for he Big Sur River" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/big_sur_river.jpg" style="float:left; width:400px; height:533px">Doug Smith,
+<p><img alt="Sam Phillips works on a watershed plan for he Big Sur River" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/big_sur_river.jpg" style="float:left; width:400px; height:533px">Doug Smith,
 professor in the Division of Science and Environmental Policy, and
 graduate student Sam Phillips are collaborating with federal and
 state resource agencies to develop the Big Sur River Watershed

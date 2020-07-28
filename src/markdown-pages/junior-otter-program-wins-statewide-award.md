@@ -46,13 +46,13 @@ date: January 01 2020
 <p>
   Learn more about the Migrant Junior Otter program
   <a
-    href="http://news.csumb.edu/news/arts-are-key-future-migrant-junior-otters-told"
+    href="https://news.csumb.edu/news/arts-are-key-future-migrant-junior-otters-told"
     >here.</a
   >
 </p>
 <p>
   Learn more about CSUMB's early outreach and support programs
-  <a href="http://eosp.csumb.edu/early-outreach-and-support-programs">here</a>.
+  <a href="https://eosp.csumb.edu/early-outreach-and-support-programs">here</a>.
 </p>
 <p></p>
 ```

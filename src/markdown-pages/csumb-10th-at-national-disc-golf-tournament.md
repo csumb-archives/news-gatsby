@@ -41,10 +41,10 @@ date: January 01 2020
   Mississippi State in 2009.
 </p>
 <p>
-  Follow the team on <a href="http://twitter.com/csumbdiscgolf">Twitter</a>.
+  Follow the team on <a href="https://twitter.com/csumbdiscgolf">Twitter</a>.
   Learn more about
-  <a href="http://discgolf.clubs.csumb.edu/">disc golf at CSUMB</a> &amp; the
-  <a href="http://www.ncdgc.com/">National Collegiate Disc Gold Championships</a
+  <a href="https://discgolf.clubs.csumb.edu/">disc golf at CSUMB</a> &amp; the
+  <a href="https://www.ncdgc.com/">National Collegiate Disc Gold Championships</a
   >.
 </p>
 ```

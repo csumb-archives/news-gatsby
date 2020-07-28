@@ -66,9 +66,9 @@ date: January 01 2020
 </p>
 <p>
   Tickets range from $10 to $40 and can be purchased
-  <a href="http://csumb.edu/worldtheater">online</a> or by calling the box
+  <a href="https://csumb.edu/worldtheater">online</a> or by calling the box
   office at 582-4580. Driving directions and a campus map are available<a
-    href="http://csumb.edu/map"
+    href="https://csumb.edu/map"
   >
     here</a
   >.

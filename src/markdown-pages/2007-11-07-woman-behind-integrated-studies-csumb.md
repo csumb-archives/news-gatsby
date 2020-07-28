@@ -10,7 +10,7 @@ slug: the-woman-behind-integrated-studies-at-csumb
 
 <span class="date">Posted on Nov 07, 2007    </span>
 <p><br>
-<img style="width:150px; height:200px" alt="Dr. Barbara Mossberg" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/zzzzzzzzz%20integrated%20studies.bmp">
+<img style="width:150px; height:200px" alt="Dr. Barbara Mossberg" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/zzzzzzzzz%20integrated%20studies.bmp">
 Teacher, thespian, poet, environmentalist, lecturer, scholar - Dr.
 Barbara Mossberg is a living example of integrated studies and the
 potential for interdisciplinary. Or, as she describes it, living

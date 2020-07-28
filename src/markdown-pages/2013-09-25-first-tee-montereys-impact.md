@@ -17,7 +17,7 @@ stay local and become leaders in the community once they graduate
 from CSUMB.&quot;<br>
 &#x2013; <em>The Golf Channel</em>, Sept. 14, 2013<br>
 <br>
-<a href="http://www.golfchannel.com/media/golf-central-first-tee-monterey-092413/" rel="nofollow">Watch the segment</a>&#xA0;<br>
+<a href="https://www.golfchannel.com/media/golf-central-first-tee-monterey-092413/" rel="nofollow">Watch the segment</a>&#xA0;<br>
 &#xA0;</br></br></br></br></p>
 
 

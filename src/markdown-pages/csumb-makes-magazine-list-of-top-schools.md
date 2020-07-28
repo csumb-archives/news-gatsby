@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>
   CSU Monterey Bay fared well in the annual
-  <a href="http://www.washingtonmonthly.com/college_guide/"
+  <a href="https://www.washingtonmonthly.com/college_guide/"
     >College Guide and Rankings</a
   >
   released Aug. 25 by Washington Monthly magazine.

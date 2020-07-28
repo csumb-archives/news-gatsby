@@ -14,7 +14,7 @@ slug: alcohol-awareness-week-oct.-2125
 Oct. 21&#x2013;25, CSU Monterey Bay is offering contests, games, and panel
 discussions to help students understand the ramifications of
 alcohol and its effect.</p>
-<p><img alt="Aware Awake Alive program comes to CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/for_web.png" style="float:left; width:350px; height:153px">The activities are
+<p><img alt="Aware Awake Alive program comes to CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/for_web.png" style="float:left; width:350px; height:153px">The activities are
 designed to reinforce personal responsibility and respect for state
 laws and campus policies when it comes to the consumption of
 alcohol.</img></p>

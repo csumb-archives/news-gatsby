@@ -11,7 +11,7 @@ slug: csumb-earns-national-honor-for-service-learning
 <span class="date">Posted on Jan 07, 2015    </span>
 <p>Cal State Monterey Bay&#x2019;s Service Learning program has earned
 another honor.</p>
-<p><img alt="Service Learning prism" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/service_learning.jpg" style="width:300px; height:225px; float:left">The university was
+<p><img alt="Service Learning prism" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/service_learning.jpg" style="width:300px; height:225px; float:left">The university was
 recently named to the President&#x2019;s Higher Education Community
 Service Honor Roll for 2014. It is the highest federal honor
 universities can receive for their commitment to service learning
@@ -42,7 +42,7 @@ including the scope and innovation of service projects, the extent
 to which service-learning is embedded in the curriculum, the
 school&#x2019;s commitment to long-term campus-community partnerships, and
 measurable community outcomes as a result of the service.</p>
-<p><a href="http://service.csumb.edu" rel="nofollow">Learn more
+<p><a href="https://service.csumb.edu" rel="nofollow">Learn more
 about Service Learning at CSUMB</a></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
@@ -52,8 +52,8 @@ about Service Learning at CSUMB</a></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/F0ut4nKnaoc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/F0ut4nKnaoc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/F0ut4nKnaoc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/F0ut4nKnaoc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>

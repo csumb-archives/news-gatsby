@@ -52,7 +52,7 @@ date: January 01 2020
 <p></p>
 <p></p>
 <p>
-  <a href="http://csumb.edu/vpa"
+  <a href="https://csumb.edu/vpa"
     >Learn about the Visual and Public Art Department at CSUMB</a
   >.
 </p>

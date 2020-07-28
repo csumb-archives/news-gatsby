@@ -13,7 +13,7 @@ date: January 01 2020
 <p>
   The showing is part of
   <a
-    href="http://news.csumb.edu/news/2014/mar/19/professor-creates-fort-ord-exhibit"
+    href="https://news.csumb.edu/news/2014/mar/19/professor-creates-fort-ord-exhibit"
     >Planet Ord</a
   >, a multi-media exhibition curated by CSUMB professor Enid Baxter Ryce that
   will be on display through July 20. The presentation of student work is one of
@@ -55,7 +55,7 @@ date: January 01 2020
 <p>• Lucas O. Seastrom – Life in Fort Ord’s microclimates</p>
 <p>• Kyle Stueve – Nature’s reclamation of Fort Ord’s buildings</p>
 <p>
-  <a href="http://enviroarts.tumblr.com"
+  <a href="https://enviroarts.tumblr.com"
     >TAT 424 tumblr, where students post their findings and works in progress</a
   >
 </p>

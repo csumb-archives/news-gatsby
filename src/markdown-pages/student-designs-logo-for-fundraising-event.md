@@ -67,6 +67,6 @@ date: January 01 2020
 </p>
 <p>
   To learn more about the design program at CSUMB, click
-  <a href="http://itcd.csumb.edu/bs-cd">here</a>.?
+  <a href="https://itcd.csumb.edu/bs-cd">here</a>.?
 </p>
 ```

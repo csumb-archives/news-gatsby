@@ -24,7 +24,7 @@ date: January 01 2020
 </p>
 <p>
   The event is free, but community members are asked to register
-  <a href="http://tinyurl.com/Crowdcsumb">here</a>.
+  <a href="https://tinyurl.com/Crowdcsumb">here</a>.
 </p>
 <p>
   Jim White, chief executive officer of JL White International, and Dr. Brad
@@ -47,15 +47,15 @@ date: January 01 2020
     >bbarbeau@csumb.edu</a
   >. The World Theater is located on Sixth Avenue near A Street. Driving
   directions and a campus map can be found
-  <a href="http://csumb.edu/map">here.</a> Visitors must purchase a parking
+  <a href="https://csumb.edu/map">here.</a> Visitors must purchase a parking
   permit from the machine on the lot.
 </p>
 <p>
   The forum is sponsored by the
-  <a href="http://innovation.csumb.edu/"
+  <a href="https://innovation.csumb.edu/"
     >Institute for Innovation and Economic Development</a
-  >, CSUMB’s <a href="http://business.csumb.edu/">School of Business</a>, and
-  the <a href="http://sbdc.csumb.edu/">Small Business Development Center</a> of
+  >, CSUMB’s <a href="https://business.csumb.edu/">School of Business</a>, and
+  the <a href="https://sbdc.csumb.edu/">Small Business Development Center</a> of
   CSUMB.
 </p>
 <p>

@@ -17,7 +17,7 @@ date: January 01 2020
 <p>
   The lecture will be held at 4:30 p.m. in Room 3145 of the Tanimura and Antle
   Family Memorial Library. The public is invited. Driving direction and a campus
-  map are available <a href="http://csumb.edu/map">here</a>.
+  map are available <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   Dr. Stallworth is board-certified in public health and preventive medicine. He

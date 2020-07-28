@@ -57,7 +57,7 @@ date: January 01 2020
 </p>
 <p>
   &#42;Learn about Health and Wellness Services at CSUMB
-  <a href="http://pgcc.csumb.edu/health&#45;wellness&#45;services">here</a
+  <a href="https://pgcc.csumb.edu/health&#45;wellness&#45;services">here</a
   >.&#42;
 </p>
 ```

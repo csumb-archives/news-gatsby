@@ -80,7 +80,7 @@ date: January 01 2020
   At CSUMB, he teaches music and film, composition and musicianship, and theory.
 </p>
 <p>
-  <a href="http://music.csumb.edu/site/x5130.xml"
+  <a href="https://music.csumb.edu/site/x5130.xml"
     >Learn more about the music program</a
   >
   at CSUMB.

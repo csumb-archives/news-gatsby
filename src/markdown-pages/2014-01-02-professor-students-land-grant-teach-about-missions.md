@@ -20,8 +20,8 @@ that will bring teachers to the Central Coast next summer.</p>
 Gentry, a Riverside native who is the president of the university&#x2019;s
 Archaeology Club. &#x201C;We worked a lot of long nights on this over the
 winter break.&#x201D;</p>
-<p><img alt="Detail from California mission" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/for_web_mission_story.jpg" style="width:550px; height:269px"/></p>
-<p class="pullquote">Visit the workshop website <a href="http://The14thColony.org" rel="nofollow">here</a>.</p>
+<p><img alt="Detail from California mission" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/for_web_mission_story.jpg" style="width:550px; height:269px"/></p>
+<p class="pullquote">Visit the workshop website <a href="https://The14thColony.org" rel="nofollow">here</a>.</p>
 <p>Lucido, a Seaside native who graduated from CSUMB and now
 attends graduate school at Sonoma State, said, &#x201C;As a student,
 particularly as an undergraduate, the opportunity to write and to
@@ -54,7 +54,7 @@ The grant, through the NEH&#x2019;s &quot;Landmarks of American History and
 Culture&quot; program, was one of only three awarded in California and
 22 awarded nationwide.<br>
 <br>
-<img alt="Dr. Ruben Mendoza" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mendoza.ruben__0_0.jpg" style="float:right; width:200px; height:280px">Dr. Mendoza
+<img alt="Dr. Ruben Mendoza" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mendoza.ruben__0_0.jpg" style="float:right; width:200px; height:280px">Dr. Mendoza
 (pictured at right) said the grant program was so competitive that
 he was worried all the work that the students had put in might end
 in disappointment. &#x201C;When Sen. Boxer&#x2019;s office called (to notify them
@@ -77,7 +77,7 @@ The goal is to help the teachers incorporate the missions&#x2019; history
 into the lessons they teach their students. A supplemental grant
 awarded to Dr. Mendoza will make that easier. The extra money will
 be used to develop a website that will provide electronic resources
-for teachers. <strong>UPDATE</strong>: <a href="http://mrc.the14thcolony.org/" rel="nofollow">Visit the website
+for teachers. <strong>UPDATE</strong>: <a href="https://mrc.the14thcolony.org/" rel="nofollow">Visit the website
 here.</a><br>
 <br>
 Meanwhile, Gentry and Lucido are continuing their academic

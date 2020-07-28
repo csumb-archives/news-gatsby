@@ -71,7 +71,7 @@ date: January 01 2020
 </p>
 <p>
   To learn more about Professor Lopez, click
-  <a href="http://ls.csumb.edu/liberal-studies-home/dr-miguel-lopez">here</a>.
+  <a href="https://ls.csumb.edu/liberal-studies-home/dr-miguel-lopez">here</a>.
 </p>
 <p>
   <em

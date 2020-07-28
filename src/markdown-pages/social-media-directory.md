@@ -18,7 +18,7 @@ date: January 01 2020
 <p>
   Note: These communities are open to all students, staff &amp; faculty but
   restricted to csumb.edu accounts. Make sure you
-  <a href="http://mail.google.com/a/csumb.edu">login to your email account</a>
+  <a href="https://mail.google.com/a/csumb.edu">login to your email account</a>
   to access them.
 </p>
 <h2>Departments and services</h2>

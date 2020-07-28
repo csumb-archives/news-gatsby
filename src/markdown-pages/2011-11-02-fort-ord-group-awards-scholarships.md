@@ -18,7 +18,7 @@ the Alumni and Visitors Center on campus.</p>
 in the amount of $1,000 &#x2013; given by FOAA since its scholarship
 program began in 1997.<br>
 <br>
-<img alt="Donna Johnson, Helen Rucker and President Harrison at FOAA event" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/foaa_--_helen_small.jpg" style="float:left; width:400px; height:382px">The highlight of
+<img alt="Donna Johnson, Helen Rucker and President Harrison at FOAA event" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/foaa_--_helen_small.jpg" style="float:left; width:400px; height:382px">The highlight of
 this year&#x2019;s event was the announcement of an endowed scholarship
 set up by Helen Rucker of Seaside in honor of her late husband,
 James, who served at Fort Ord.</img></br></br></p>
@@ -75,10 +75,10 @@ the heritage of Fort Ord and the contributions of the soldiers,
 civilians and their families who lived and worked there. Membership
 is open to anyone who wishes to join in these efforts.</p>
 <p>For more information, contact Helen Meyers at 582-4723, visit
-the <a href="http://csumb.edu/foaa" rel="nofollow">web</a>, or
+the <a href="https://csumb.edu/foaa" rel="nofollow">web</a>, or
 e-mail FOAA chair Donna Johnson at <a href="mailto:djm1211@aol.com">djm1211@aol.com</a>.</p>
 <p>To read about scholarship recipient &#x2013; and cross-country runner &#x2013;
-Hayley Tharp, click <a href="http://www.otterathletics.com/news/2011/9/20/XC_0920115452.aspx?elinkdata=32453" rel="nofollow">here</a>.</p>
+Hayley Tharp, click <a href="https://www.otterathletics.com/news/2011/9/20/XC_0920115452.aspx?elinkdata=32453" rel="nofollow">here</a>.</p>
 <p class="small"><br>
 <em>Photo (left to right): FOAA chair Donna Johnson, Helen Rucker
 and CSUMB President Dianne Harrison</em></br></p>

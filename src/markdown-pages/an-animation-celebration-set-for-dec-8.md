@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>
   CSU Monterey Bay’s
-  <a href="http://csumb.edu/tat">Cinematic Arts and Technology Department </a
+  <a href="https://csumb.edu/tat">Cinematic Arts and Technology Department </a
   >presents its third Wonderland Film Festival on Monday, Dec. 8.
 </p>
 <p>
@@ -24,11 +24,11 @@ date: January 01 2020
 <p>
   The public is invited to this free event. Parking permits must be purchased
   from a machine on the lot or
-  <a href="http://parking.csumb.edu/buy-permit">online</a>.
+  <a href="https://parking.csumb.edu/buy-permit">online</a>.
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p></p>
 <p></p>

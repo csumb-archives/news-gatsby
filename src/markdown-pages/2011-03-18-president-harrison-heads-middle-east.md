@@ -13,7 +13,7 @@ slug: president-harrison-heads-to-middle-east
 Harrison travels to Jordan and Oman later this month, she will take
 a step toward the goal of establishing exchange programs with
 universities in the Middle East.</p>
-<p><img alt="President Harrison" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/harrison1_sm.jpg" style="float:left; width:200px; height:300px">Dr. Harrison is one
+<p><img alt="President Harrison" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/harrison1_sm.jpg" style="float:left; width:200px; height:300px">Dr. Harrison is one
 of seven college and university presidents selected for the 2011
 Fulbright-Hays Seminars Abroad Program. Her group will leave March
 24 for the Middle East and return to the United States on April

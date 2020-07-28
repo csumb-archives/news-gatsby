@@ -14,7 +14,7 @@ slug: gowns-gone-green
 black, but come commencement day on May 17, they&#x2019;ll also be
 green.<br>
 <br>
-<img alt="Plastic bottles are used to make commencement gowns" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/plastic_bottles.jpeg" style="float:right; width:275px; height:367px">Herff Jones, the
+<img alt="Plastic bottles are used to make commencement gowns" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/plastic_bottles.jpeg" style="float:right; width:275px; height:367px">Herff Jones, the
 company that supplies the earth-friendly gear, has created a line
 of graduation regalia manufactured from Repreve, a fiber made of
 recycled materials, including plastic bottles. It takes

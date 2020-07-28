@@ -35,7 +35,7 @@ date: January 01 2020
 </p>
 <p>
   Live stats, audio and video are available
-  <a href="http://otterathletics.com/sports/2007/11/6/listenlive.aspx?id=62"
+  <a href="https://otterathletics.com/sports/2007/11/6/listenlive.aspx?id=62"
     >here</a
   >.
 </p>
@@ -56,6 +56,6 @@ date: January 01 2020
 <p>
   In her first season, the team won 11 games; last year, it set a school record
   with 18 wins. To read more about the Otters, click
-  <a href="http://otterathletics.com/index.aspx?path=wbball&amp;">here</a>.
+  <a href="https://otterathletics.com/index.aspx?path=wbball&amp;">here</a>.
 </p>
 ```

@@ -18,7 +18,7 @@ date: January 01 2020
   techniques from the great teachers around her,” Green told the viewers. “The
   kids have really responded.”
   <a
-    href="http://www.ksbw.com/news/central-california/salinas/Greenfield-teacher-honored-with-Crystal-Apple-Award/25026738"
+    href="https://www.ksbw.com/news/central-california/salinas/Greenfield-teacher-honored-with-Crystal-Apple-Award/25026738"
     >Watch the segment here.</a
   >
 </p>

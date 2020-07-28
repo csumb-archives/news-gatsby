@@ -14,7 +14,7 @@ food</h3>
 <p>Representatives from the Food Bank for Monterey County loaded
 hundreds of pounds of canned goods into a delivery truck parked at
 Cal State Monterey Bay&apos;s World Theater on Nov. 15.</p>
-<p><img alt="Canned food was collected for the Food Bank" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/cans_for_food_drive_small.jpg" style="float:left; width:400px; height:299px">The haul &#x2013; part of
+<p><img alt="Canned food was collected for the Food Bank" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/cans_for_food_drive_small.jpg" style="float:left; width:400px; height:299px">The haul &#x2013; part of
 1,400 pounds of people and pet food &#x2013; was collected a few days
 earlier when the December People performed at the theater. To earn
 a discount off the ticket price for the Nov. 10 performance, the
@@ -35,7 +35,7 @@ contemporary Spinal Tap.&#x201D; The group puts its own take on yuletide
 classics &#x2013; think Led Zeppelin doing &#x201C;Silent Night&#x201D; or a Latin-fused
 Santana variation of &#x201C;Deck the Halls.&#x201D;<br>
 <br>
-<img alt="Food for animals was also collected" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/dog_food_small.jpg" style="float:right; width:300px; height:210px">This was the third
+<img alt="Food for animals was also collected" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/dog_food_small.jpg" style="float:right; width:300px; height:210px">This was the third
 year the group appeared at CSUMB. &#x201C;Because of the fantastic
 audience response the last two years and the success of the food
 drive we launched, we brought December People back. The audience
@@ -49,7 +49,7 @@ Hunger remains a persistent reality in the area. According to a
 different people are served annually by the Food Bank for Monterey
 County &#x2013; one-fifth of the county&#x2019;s population. Every week it serves
 approximately 10,800 people.</br></br></img></br></br></br></br></br></br></p>
-<p><a href="http://csumb.edu/worldtheater" rel="nofollow">Learn
+<p><a href="https://csumb.edu/worldtheater" rel="nofollow">Learn
 more about the World Theater</a>.</p>
 
 

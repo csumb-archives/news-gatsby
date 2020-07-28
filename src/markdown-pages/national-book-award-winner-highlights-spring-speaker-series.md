@@ -100,8 +100,8 @@ date: January 01 2020
 <p>
   All lectures are free and open to the public. All will start at 7 p.m. in the
   World Theater, located on the CSUMB campus. To reserve seats, visit the web at
-  <a href="http://csumb.edu/speakers">csumb.edu/speakers</a>. For a map of
+  <a href="https://csumb.edu/speakers">csumb.edu/speakers</a>. For a map of
   campus and driving directions, visit
-  <a href="http://csumb.edu/map">csumb.edu/map</a>.
+  <a href="https://csumb.edu/map">csumb.edu/map</a>.
 </p>
 ```

@@ -13,7 +13,7 @@ slug: protect-your-small-business-from-cyber-threats
 workshops</h3>
 <p>Is your small business safe from cyber threats? Do you have an
 Internet security policy for your employees?</p>
-<p><img alt="Learn how to protect your small business from cyber threats" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/cyber_security.jpg" style="float:left; width:300px; height:225px">If the answer to
+<p><img alt="Learn how to protect your small business from cyber threats" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/cyber_security.jpg" style="float:left; width:300px; height:225px">If the answer to
 these questions is no, sign up for a series of four free workshops
 to learn how to protect your business in cyberspace. The workshops
 will be offered by CSU Monterey Bay&#x2019;s Small Business Development
@@ -43,8 +43,8 @@ Salinas.</p>
 award from the California Consumer Protection Foundation.
 Reservations are requested and can be made by calling 675-7232, by
 e-mailing <a href="mailto:sbdc@csumb.edu">sbdc@csumb.edu</a> or by
-going <a href="http://bit.ly/sbdcworkshops" rel="nofollow">online</a>.</p>
-<p><a href="http://csumb.edu/sbdc" rel="nofollow">Learn more about
+going <a href="https://bit.ly/sbdcworkshops" rel="nofollow">online</a>.</p>
+<p><a href="https://csumb.edu/sbdc" rel="nofollow">Learn more about
 CSUMB&#x2019;s Small Business Development Center</a>.&#xA0;</p>
 
 

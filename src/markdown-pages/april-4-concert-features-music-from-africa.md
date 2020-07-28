@@ -28,12 +28,12 @@ date: January 01 2020
   He has performed at festivals in Gambia and Senegal, as well as the U.S. The
   concert will be held at 7:30 p.m. in the Music Hall on Sixth Avenue near the
   intersection with Butler Street. Driving directions and a campus map are
-  available <a href="http://csumb.edu/map">here</a>. While the concert is free,
+  available <a href="https://csumb.edu/map">here</a>. While the concert is free,
   a parking permit must be purchased from a machine on the lot. For more
   information, call 582-4085.
 </p>
 <p>
-  <a href="http://csumb.edu/music"
+  <a href="https://csumb.edu/music"
     >Learn about the Music and Performing Arts Department at CSUMB</a
   >.
 </p>

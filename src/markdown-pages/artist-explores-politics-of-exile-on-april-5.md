@@ -27,7 +27,7 @@ date: January 01 2020
   Visiting Artists Series, will start at 6 p.m. in the University Center
   ballroom. The University Center is located on Sixth Avenue at B Street.
   Driving directions and a campus map can be found
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   One of her public art projects is currently on display at San Francisco’s

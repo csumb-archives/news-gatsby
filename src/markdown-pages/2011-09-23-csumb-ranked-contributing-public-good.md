@@ -9,7 +9,7 @@ slug: csumb-ranked-for-contributing-to-the-public-good
 
 
 <span class="date">Posted on Sep 23, 2011    </span>
-<p><img alt="Washington Monthly 2011 College Rankings" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wash-monthly-college-rankings-sm.png" style="float:left; width:150px; height:194px">CSU Monterey Bay is
+<p><img alt="Washington Monthly 2011 College Rankings" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wash-monthly-college-rankings-sm.png" style="float:left; width:150px; height:194px">CSU Monterey Bay is
 ranked fourth among the nation&#x2019;s public liberal arts colleges in
 its contribution to the public good, according to The Washington
 Monthly 2011 College Guide published Sept. 1.&#xA0;</img></p>
@@ -54,7 +54,7 @@ to a better life, and when they shape the character of future
 leaders.&#x201D;<br>
 <br>
 The 2011 Washington Monthly College Rankings appear in the
-September/October issue of the printed magazine and <a href="http://www.washingtonmonthly.com/college_guide/rankings_2011/liberal_arts_rank.php" rel="nofollow">online</a>.<br>
+September/October issue of the printed magazine and <a href="https://www.washingtonmonthly.com/college_guide/rankings_2011/liberal_arts_rank.php" rel="nofollow">online</a>.<br>
 &#xA0;</br></br></br></br></br></br></br></p>
 
 

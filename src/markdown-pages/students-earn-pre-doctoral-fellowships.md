@@ -14,7 +14,7 @@ date: January 01 2020
 <p>
   Three of the award winners –Julio Martinez, Elisabeth Carrillo and Avery
   Thurston – were named 2015&#45;16
-  <a href="http://www.calstate.edu/predoc/scholars/"
+  <a href="https://www.calstate.edu/predoc/scholars/"
     >Sally Casanova Pre&#45;Doctoral Scholars</a
   >. Each will receive $3,000, with the opportunity to apply for additional
   research funding during the summer after they graduate in 2016.

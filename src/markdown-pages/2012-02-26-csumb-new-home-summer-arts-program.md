@@ -9,7 +9,7 @@ slug: csumb-new-home-to-summer-arts-program
 
 
 <span class="date">Posted on Feb 26, 2012    </span>
-<p><a href="http://www.calstate.edu/pa/News/2011/Story/curtainsup.shtml" rel="nofollow">CSU Summer Arts says goodbye to Fresno and director Jim
+<p><a href="https://www.calstate.edu/pa/News/2011/Story/curtainsup.shtml" rel="nofollow">CSU Summer Arts says goodbye to Fresno and director Jim
 Spalding</a></p>
 <h3>Prestigious program moves to campus in 2012</h3>
 <p>California State University, Monterey Bay is the new home of CSU
@@ -24,7 +24,7 @@ hosted by the Seaside campus for at least five years.<br>
 of our arts programs,&quot; President Dianne Harrison said. &quot;Summer Arts
 will offer unprecedented opportunities for our students and our
 communities.&quot;</br></br></br></br></p>
-<p><img alt="Contemporary painting is also offered this summer" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/contemporary-rotate.gif" style="float:left; width:242px; height:288px">In April 2011, a
+<p><img alt="Contemporary painting is also offered this summer" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/contemporary-rotate.gif" style="float:left; width:242px; height:288px">In April 2011, a
 committee of arts faculty members from throughout the CSU visited
 four campuses in the running to host the program. Fresno State,
 which has housed the program for the last 13 years, was considered,
@@ -73,7 +73,7 @@ San Luis Obispo, Humboldt State, CSU Long Beach and Fresno
 State.<br>
 <br>
 For more information, including a schedule of this year&#x2019;s events,
-click <a href="http://www.csusummerarts.org." rel="nofollow">here</a>.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
+click <a href="https://www.csusummerarts.org." rel="nofollow">here</a>.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 <p>&#xA0;</p>
 <p><br>
 &#xA0;</br></p>
@@ -85,8 +85,8 @@ click <a href="http://www.csusummerarts.org." rel="nofollow">here</a>.</br></br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/IdJixs_JQ5g&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/IdJixs_JQ5g&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/IdJixs_JQ5g&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/IdJixs_JQ5g&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -97,7 +97,7 @@ click <a href="http://www.csusummerarts.org." rel="nofollow">here</a>.</br></br>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r17---sn-o097zne6.googlevideo.com/videoplayback?ipbits=0&amp;ratebypass=yes&amp;initcwndbps=4141250&amp;ip=198.189.249.65&amp;upn=f4585VzCMeU&amp;dur=311.751&amp;source=youtube&amp;mm=31&amp;ms=au&amp;id=o-ACD4vJxJ80R4294pYuGoiJQ4HdmMwAdrIdGO90QbY9eT&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;mv=m&amp;pl=23&amp;mt=1422326713&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;expire=1422348386&amp;sver=3&amp;key=yt5&amp;itag=18&amp;signature=0DCF0FA010B24E9B27B9E823C74849F5258747E9.8D68EC718DDE46E22789E66155503500D84A067E&amp;name=IdJixs_JQ5g" type="video/mp4"/></video></div>
+<source src="https://r17---sn-o097zne6.googlevideo.com/videoplayback?ipbits=0&amp;ratebypass=yes&amp;initcwndbps=4141250&amp;ip=198.189.249.65&amp;upn=f4585VzCMeU&amp;dur=311.751&amp;source=youtube&amp;mm=31&amp;ms=au&amp;id=o-ACD4vJxJ80R4294pYuGoiJQ4HdmMwAdrIdGO90QbY9eT&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;mv=m&amp;pl=23&amp;mt=1422326713&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;expire=1422348386&amp;sver=3&amp;key=yt5&amp;itag=18&amp;signature=0DCF0FA010B24E9B27B9E823C74849F5258747E9.8D68EC718DDE46E22789E66155503500D84A067E&amp;name=IdJixs_JQ5g" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

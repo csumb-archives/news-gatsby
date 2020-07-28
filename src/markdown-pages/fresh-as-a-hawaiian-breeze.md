@@ -75,8 +75,8 @@ date: January 01 2020
   csumb.edu/map. IF YOU GO • WHAT: Hawaiian Family Holiday featuring George
   Kahumoku Jr. • WHERE: CSUMB’s World Theater • WHEN: 7:30 p.m., Dec. 11 •
   TICKETS: $10 to $33; reserve online at
-  <a href="http://csumb.edu/worldtheater" title="http://csumb.edu/worldtheater"
-    >http://csumb.edu/worldtheater</a
+  <a href="https://csumb.edu/worldtheater" title="https://csumb.edu/worldtheater"
+    >https://csumb.edu/worldtheater</a
   >
   or by calling the box office at 582-4580 • INFORMATION: 582-4580
 </p>

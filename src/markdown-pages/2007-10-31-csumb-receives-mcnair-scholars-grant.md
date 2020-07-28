@@ -9,7 +9,7 @@ slug: csumb-receives-mcnair-scholars-grant
 
 
 <span class="date">Posted on Oct 31, 2007    </span>
-<p><img style="width:168px; height:108px" alt="Ronald McNair" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/zzzzzz%20mcnair%20scholar.bmp">The
+<p><img style="width:168px; height:108px" alt="Ronald McNair" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/zzzzzz%20mcnair%20scholar.bmp">The
 U.S. Department of Education has awarded CSUMB nearly $1 million in
 grant money to help students from underrepresented backgrounds
 prepare for doctoral studies, President Dianne F. Harrison has

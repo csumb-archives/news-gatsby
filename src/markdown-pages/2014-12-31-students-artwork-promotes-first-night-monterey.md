@@ -9,7 +9,7 @@ slug: student&apos;s-artwork-promotes-first-night-monterey
 
 
 <span class="date">Posted on Dec 31, 2014    </span>
-<p><img alt="First Night 2015 design" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/2015poster_350_0.jpg" style="float:left; width:300px; height:471px">Artwork by a CSU
+<p><img alt="First Night 2015 design" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/2015poster_350_0.jpg" style="float:left; width:300px; height:471px">Artwork by a CSU
 Monterey Bay student is gracing the marketing materials for First
 Night Monterey &#x2013; the result of a longstanding relationship between
 the university and the event&#x2019;s organizers.</img></p>

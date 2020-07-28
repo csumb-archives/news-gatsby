@@ -26,6 +26,6 @@ date: January 01 2020
   was O'Neal Masonry Partners. The building was named for Patricia and Robert
   Chapman, Salinas residents and community leaders who donated $2.5 million
   toward the cost of construction. For more information about the awards, visit
-  the CMACN website at <a href="http://www.cmacn.org/">http://www.cmacn.org</a>.
+  the CMACN website at <a href="https://www.cmacn.org/">https://www.cmacn.org</a>.
 </p>
 ```

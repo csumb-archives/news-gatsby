@@ -94,7 +94,7 @@ date: January 01 2020
 </p>
 <p>
   To learn more about Doug, visit the web at
-  <a href="http://www.douglasmueller.net" title="www.douglasmueller.net"
+  <a href="https://www.douglasmueller.net" title="www.douglasmueller.net"
     >www.douglasmueller.net</a
   >
 </p>

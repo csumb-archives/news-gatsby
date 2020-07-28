@@ -63,15 +63,15 @@ date: January 01 2020
   the Community Foundation changed to an every-other-year schedule.
 </p>
 <p>
-  <a href="http://itcd.csumb.edu/kate-lockwood">Learn more about Dr. Lockwood</a
+  <a href="https://itcd.csumb.edu/kate-lockwood">Learn more about Dr. Lockwood</a
   >.
 </p>
 <p>
-  <a href="http://itcd.csumb.edu/bs-computer-science-information-technology"
+  <a href="https://itcd.csumb.edu/bs-computer-science-information-technology"
     >Learn more about computer science and information technology at CSUMB.</a
   >
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">R</a>
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights">R</a>
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     >ead more faculty news.</a
   >
 </p>

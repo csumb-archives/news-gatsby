@@ -13,7 +13,7 @@ slug: vpa-professor-steps-out-from-behind-the-scenes
 lighting designer and visual artist, Stephanie Johnson will perform
 her first one-woman show on July 21 as part of the AfroSolo Arts
 Festival in San Francisco.</p>
-<p><img alt="Stephanie Johnson" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/stephanie_johnson.jpg" style="width:240px; height:360px; float:left">The performance &#x2013;
+<p><img alt="Stephanie Johnson" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/stephanie_johnson.jpg" style="width:240px; height:360px; float:left">The performance &#x2013;
 one of four that evening at the Marsh Theater in San Francisco &#x2013; is
 a sneak preview of the festival&#x2019;s Black Voices season. The works in
 progress will be shown as fully developed productions in late
@@ -51,9 +51,9 @@ of Fine Arts in Houston, among other venues. She has had one-person
 shows at the Center for African American Life and Culture and the
 African American Historical Society, both in San Francisco.<br>
 <br>
-<a href="http://www.lightessencedesign.com" rel="nofollow">Visit
+<a href="https://www.lightessencedesign.com" rel="nofollow">Visit
 Professor Johnson&apos;s website</a></br></br></br></br></br></br></p>
-<p><a href="http://csumb.edu/art" rel="nofollow">Learn about the
+<p><a href="https://csumb.edu/art" rel="nofollow">Learn about the
 Visual and Public Art Department at CSUMB</a><br>
 <br>
 <a href="../../../2013/jan/31/faculty-highlights.html" rel="nofollow">R</a><a href="../../../2013/jan/31/faculty-highlights.html" rel="nofollow">ead
@@ -66,8 +66,8 @@ more faculty highlights</a></br></br></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/FTEprQN0sRE&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/FTEprQN0sRE&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/FTEprQN0sRE&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/FTEprQN0sRE&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -78,7 +78,7 @@ more faculty highlights</a></br></br></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r2---sn-o097zne6.googlevideo.com/videoplayback?id=o-ANk74n_Vwg9cLQ7sOwebruRQWA0rXw23aTED9gcGo0Oy&amp;ms=au&amp;expire=1422338321&amp;mt=1422316654&amp;itag=18&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;sver=3&amp;mv=m&amp;signature=C9D5CDC13D70E9030B29089E3842AE84A3366ED3.EE80579B5C3E2C29A6BB7151251D50C42C4E48C3&amp;dur=1440.589&amp;upn=-TfrfxTqSco&amp;key=yt5&amp;ip=198.189.249.65&amp;initcwndbps=4201250&amp;ratebypass=yes&amp;ipbits=0&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;mm=31&amp;source=youtube&amp;pl=23&amp;name=FTEprQN0sRE" type="video/mp4"/></video></div>
+<source src="https://r2---sn-o097zne6.googlevideo.com/videoplayback?id=o-ANk74n_Vwg9cLQ7sOwebruRQWA0rXw23aTED9gcGo0Oy&amp;ms=au&amp;expire=1422338321&amp;mt=1422316654&amp;itag=18&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;sver=3&amp;mv=m&amp;signature=C9D5CDC13D70E9030B29089E3842AE84A3366ED3.EE80579B5C3E2C29A6BB7151251D50C42C4E48C3&amp;dur=1440.589&amp;upn=-TfrfxTqSco&amp;key=yt5&amp;ip=198.189.249.65&amp;initcwndbps=4201250&amp;ratebypass=yes&amp;ipbits=0&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;mm=31&amp;source=youtube&amp;pl=23&amp;name=FTEprQN0sRE" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

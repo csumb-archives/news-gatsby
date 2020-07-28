@@ -36,9 +36,9 @@ date: January 01 2020
 <p>
   Among her recent projects is a book titled, Water, CA, which she co-edited
   with Nicole Antebi. The project (<a
-    href="http://watercalifornia.org"
-    title="http://watercalifornia.org"
-    >http://watercalifornia.org</a
+    href="https://watercalifornia.org"
+    title="https://watercalifornia.org"
+    >https://watercalifornia.org</a
   >) is also a touring museum exhibition showing at the Armory Center for the
   Arts in Pasadena and the Crocker Art Museum in Sacramento.
 </p>
@@ -59,10 +59,10 @@ date: January 01 2020
 </p>
 <p>
   To learn more about Professor Blader, visit her
-  <a href="http://enidbaxterblader.com/">website</a>.
+  <a href="https://enidbaxterblader.com/">website</a>.
 </p>
 <p>
   To learn about CSUMB’s Teledramatic Arts and Technology Department, click
-  <a href="http://tat.csumb.edu/">here</a>.
+  <a href="https://tat.csumb.edu/">here</a>.
 </p>
 ```

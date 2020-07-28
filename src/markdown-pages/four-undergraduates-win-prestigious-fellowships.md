@@ -69,7 +69,7 @@ date: January 01 2020
   science and engineering research, many who have become leaders in their
   fields, and some who have been honored as Nobel laureates.”
 </p>
-<p>Learn more about <a href="http://uroc.csumb.edu/">UROC. </a></p>
+<p>Learn more about <a href="https://uroc.csumb.edu/">UROC. </a></p>
 <p>
   <em
     >Photo: Alexandra Davis conducts research in the Florida Keys as part of a

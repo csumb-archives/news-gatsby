@@ -10,7 +10,7 @@ date: January 01 2020
   to transgress” features the work of CSU Monterey Bay faculty members.
 </p>
 <p>
-  “<a href="http://www.somarts.org/glamorgeddonopens/"
+  “<a href="https://www.somarts.org/glamorgeddonopens/"
     >Glamorgeddon: The Spectacle</a
   >,” curated by Visual and Public Art Department professors Johanna Poethig,
   Dio Mendoza and Angelica Muro, is on display through Feb. 4 at the SOMArts
@@ -39,12 +39,12 @@ date: January 01 2020
 </p>
 <p>
   A series of
-  <a href="http://www.somarts.org/limolectures/">30&#45;minute lectures</a> with
+  <a href="https://www.somarts.org/limolectures/">30&#45;minute lectures</a> with
   some of the artists and scholars will be held on Jan. 30 – in a hot pink
   limousine.
 </p>
 <p>
-  The <a href="http://www.somarts.org">SOMArts Cultural Center</a> is located at
+  The <a href="https://www.somarts.org">SOMArts Cultural Center</a> is located at
   934 Brannan St., between Eighth and Ninth streets, in San Francisco. The
   exhibit will close on Feb. 4. Alumni John Elliott, Stephanie Sumler, Rachell
   Hester and Matt Florianni helped with the exhibit.

@@ -32,7 +32,7 @@ date: January 01 2020
   Hall is located on Sixth Avenue, between Butler Street and Col. Durham Road.
 </p>
 <p>
-  <a href="http://hcom.csumb.edu/umi-vaughan-0">Professor Umi Vaughan </a>will
+  <a href="https://hcom.csumb.edu/umi-vaughan-0">Professor Umi Vaughan </a>will
   host the event.
 </p>
 ```

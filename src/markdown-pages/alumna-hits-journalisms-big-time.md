@@ -82,7 +82,7 @@ date: January 01 2020
 </p>
 <p>“HCom will always have a place in my heart.”</p>
 <p>
-  <a href="http://csumb.edu/search/redirect/11312?searchterm=HCom"
+  <a href="https://csumb.edu/search/redirect/11312?searchterm=HCom"
     >Learn about CSUMB's Human Communication major</a
   >.
 </p>

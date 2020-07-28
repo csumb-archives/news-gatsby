@@ -104,7 +104,7 @@ date: January 01 2020
 <p>
   • Dr. Angie Tran was
   <a
-    href="http://newsletter.cineresie.info/2014/06/23/vietnamese-workers-on-strike-an-interview-with-angie-tran-ngoc/"
+    href="https://newsletter.cineresie.info/2014/06/23/vietnamese-workers-on-strike-an-interview-with-angie-tran-ngoc/"
     >interviewed in the April-May issue of the e-newsletter Made in China.</a
   >
   She explained the dynamics of labor activism in Vietnam, based on research for

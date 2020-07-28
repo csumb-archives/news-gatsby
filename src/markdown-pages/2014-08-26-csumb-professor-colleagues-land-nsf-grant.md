@@ -9,8 +9,8 @@ slug: csumb-professor-colleagues-land-nsf-grant
 
 
 <span class="date">Posted on Aug 26, 2014    </span>
-<p><img alt="Juvenile gopher rockfish" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/fishes.jpg" style="width:550px; height:413px; float:left"/></p>
-<p>CSU Monterey Bay Professor <a href="http://sep.csumb.edu/staff/cheryl/cheryl/Home.html" rel="nofollow">Cheryl Logan</a> and four colleagues have won a grant of
+<p><img alt="Juvenile gopher rockfish" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/fishes.jpg" style="width:550px; height:413px; float:left"/></p>
+<p>CSU Monterey Bay Professor <a href="https://sep.csumb.edu/staff/cheryl/cheryl/Home.html" rel="nofollow">Cheryl Logan</a> and four colleagues have won a grant of
 nearly $900,000 from the National Science Foundation to conduct
 research on ocean acidification and hypoxia.</p>
 <p>Dr. Logan, along with Dr. Scott Hamilton from Moss Landing
@@ -25,7 +25,7 @@ to oceanography will allow us to more efficiently address
 challenging and complex scientific questions,&#x201D; Dr. Hamilton
 said.<br>
 <br>
-<img alt="Dr. Cheryl Logan" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/logal.cheryl_for_web.jpg" style="float:right; width:391px; height:280px">The three-year
+<img alt="Dr. Cheryl Logan" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/logal.cheryl_for_web.jpg" style="float:right; width:391px; height:280px">The three-year
 study, which starts in September, will use CSU research facilities
 in central and northern California. Scientists will be able to
 study the same species of fish in two locations and determine how
@@ -54,7 +54,7 @@ on Ocean Affairs, Science &amp; Technology (COAST), the
 interdisciplinary team was able to collect the preliminary data
 that went into the proposal that helped them win the grant.</br></br></br></br></br></br></img></br></br></br></br></p>
 <p><a href="../../../2013/oct/28/can-coral-reefs-adjust-global-climate-change.html" rel="nofollow">Read more about Dr. Logan&#x2019;s research</a></p>
-<p>Learn more about <a href="http://calstate.edu/coast/" rel="nofollow">COAST</a>, which is now based in the Division of Science
+<p>Learn more about <a href="https://calstate.edu/coast/" rel="nofollow">COAST</a>, which is now based in the Division of Science
 and Environmental Policy at CSU Monterey Bay.</p>
 <p class="small"><em>Story by Stephanie Thara, CSU Public
 Affairs<br>

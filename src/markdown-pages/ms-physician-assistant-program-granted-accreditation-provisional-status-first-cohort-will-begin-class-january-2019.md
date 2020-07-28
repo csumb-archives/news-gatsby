@@ -59,7 +59,7 @@ date: January 01 2020
 <p>
   The ARC-PA noted zero (0) observations and zero (0) areas of noncompliance
   with
-  <a href="http://www.arc-pa.org/accreditation/standards-of-accreditation/"
+  <a href="https://www.arc-pa.org/accreditation/standards-of-accreditation/"
     >the standards</a
   >.
 </p>

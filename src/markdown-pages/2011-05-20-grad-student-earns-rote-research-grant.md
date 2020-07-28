@@ -12,7 +12,7 @@ slug: grad-student-earns-rote-research-grant
 <p>More will be known about raccoons, striped skunks, bobcats,
 foxes and other mammals that live on former Fort Ord lands as the
 result of a study by CSUMB graduate student Bart Kowalski.</p>
-<p><img alt="Bart Kowalski" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bart1.jpg" style="float:left; width:300px; height:200px">Kowalski is mapping
+<p><img alt="Bart Kowalski" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bart1.jpg" style="float:left; width:300px; height:200px">Kowalski is mapping
 the distribution of these animals on lands managed by the federal
 Bureau of Land Management, the Army and the Fort Ord Reuse
 Authority as part of his master&#x2019;s degree program in Coastal and

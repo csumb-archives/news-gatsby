@@ -35,8 +35,8 @@ date: January 01 2020
   There is no charge for the tax preparation, no charge for direct deposit to
   the taxpayer’s bank account and no hidden fees. A list of community locations,
   dates and hours, is available on the
-  <a href="http://www.unitedwaymcca.org/free-tax-prep">United Way website.</a>
-  ??<a href="http://csumb.edu/business"
+  <a href="https://www.unitedwaymcca.org/free-tax-prep">United Way website.</a>
+  ??<a href="https://csumb.edu/business"
     >Learn more about CSUMB's College of Business</a
   >.
 </p>

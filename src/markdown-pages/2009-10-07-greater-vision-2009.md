@@ -25,7 +25,7 @@ keynote speaker. Sysco is the global leader in supplying food
 products to restaurants, healthcare and educational facilities.
 Watson&apos;s topic: &quot;Social responsibility extends beyond the food
 chain.&quot;</p>
-<p><img alt="Salinas Valley farmworkers" height="175" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/farm_workers.jpg" style="float:left" width="175">Several speakers will address
+<p><img alt="Salinas Valley farmworkers" height="175" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/farm_workers.jpg" style="float:left" width="175">Several speakers will address
 challenges facing the agricultural industry &#x2013; poverty, job losses
 and economic trends.</img></p>
 <p>&quot;Coming together to transform lives,&quot; a panel discussion, will
@@ -39,7 +39,7 @@ Dr. Marylou Shockley, chair of CSUMB&apos;s School of Business. Mr.
 Watson&apos;s keynote address is scheduled to start at 3:30.</p>
 <p>The event is free to the public, but donations will be accepted
 to the Grower Shipper Foundation. Driving directions and a campus
-map are available online at <a href="http://csumb.edu/map" rel="nofollow">csumb.edu/map</a>.</p>
+map are available online at <a href="https://csumb.edu/map" rel="nofollow">csumb.edu/map</a>.</p>
 <p>CSUMB&apos;s School of Business, the Central Coast Ag Task Force and
 the Grower-Shipper Foundation are sponsoring the forum.</p>
 <p>This is the third and final forum addressing agricultural

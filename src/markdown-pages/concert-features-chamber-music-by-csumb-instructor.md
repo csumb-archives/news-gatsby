@@ -13,10 +13,10 @@ date: January 01 2020
   of great musicians and they’ll be performing pieces I wrote for my
   dissertation” while a graduate student at the University of Virginia, he said.
   The performers, all active chamber musicians based in San Francisco, are
-  <a href="http://www.mstraus.net/">Michael Straus</a> (saxophone),
-  <a href="http://www.danajessen.com/">Dana Jessen</a> (bassoon),
-  <a href="http://www.kylebruckmann.com/">Kyle Bruckmann</a> (oboe) and
-  <a href="http://www.giacomofiore.com/">Giacomo Fiore</a> (guitar). All the
+  <a href="https://www.mstraus.net/">Michael Straus</a> (saxophone),
+  <a href="https://www.danajessen.com/">Dana Jessen</a> (bassoon),
+  <a href="https://www.kylebruckmann.com/">Kyle Bruckmann</a> (oboe) and
+  <a href="https://www.giacomofiore.com/">Giacomo Fiore</a> (guitar). All the
   pieces are audience-interactive. “The audience is in some way vital to the
   performance of each piece. The pieces literally can’t be performed without the
   audience because they’re given a specific role to play,” he explained. That
@@ -35,7 +35,7 @@ date: January 01 2020
   original compositions as well as recent performances. According to the
   organization, the grants support the growth and development of the nation’s
   musical future.??This is his first semester at CSUMB. For more information,
-  visit his <a href="http://www.laniersammons.com/Main/">website</a>.
+  visit his <a href="https://www.laniersammons.com/Main/">website</a>.
   <em>Photo courtesy of Dr. Sammons</em>
 </p>
 ```

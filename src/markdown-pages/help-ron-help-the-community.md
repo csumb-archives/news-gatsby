@@ -24,14 +24,14 @@ date: January 01 2020
   habitat-restoration programs in Seaside. The program, Seaside Parks Go Native,
   will partner with Sustainable Seaside and neighborhood park associations to
   create native habitat gardens in five Seaside parks. To support RON’s work and
-  help it earn matching funds, click <a href="http://www.mcgives.com">here</a>.
+  help it earn matching funds, click <a href="https://www.mcgives.com">here</a>.
 </p>
 <p>
   To learn more aboout Return of the Natives, click
-  <a href="http://ron.csumb.edu">here</a>. To learn more about Seaside Parks Go
+  <a href="https://ron.csumb.edu">here</a>. To learn more about Seaside Parks Go
   Native, click
   <a
-    href="http://www.montereycountyweekly.com/news/2011/nov/23/seaside-sprouting/"
+    href="https://www.montereycountyweekly.com/news/2011/nov/23/seaside-sprouting/"
     >here</a
   >.
 </p>

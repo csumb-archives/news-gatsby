@@ -52,7 +52,7 @@ date: January 01 2020
 <p>
   <em
     >(Note: More photos can be viewed
-    <a href="http://www.flickr.com/photos/csumb/sets/72157625472252033/">here</a
+    <a href="https://www.flickr.com/photos/csumb/sets/72157625472252033/">here</a
     >.)</em
   >
 </p>

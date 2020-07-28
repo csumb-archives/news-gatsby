@@ -17,7 +17,7 @@ date: January 01 2020
   those changes, from the experts seeking to understand them. This year's
   symposium will be held from 9 a.m. to 3:30 p.m., Saturday, April 27, at CSU
   Monterey Bay's University Center.
-  <a href="http://csumb.edu/map"
+  <a href="https://csumb.edu/map"
     >Driving directions and a campus map are available here.</a
   >
 </p>

@@ -23,7 +23,7 @@ date: January 01 2020
   behavioral and genomic responses to ocean acidification in temperate fishes.
   Published in
   <a
-    href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169670"
+    href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0169670"
     >PLOS ONE</a
   >, this paper is the first of several that will come out of this collaborative
   team funded by the National Science Foundation and California SeaGrant.

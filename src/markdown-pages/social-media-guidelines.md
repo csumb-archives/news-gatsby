@@ -57,8 +57,8 @@ date: January 01 2020
   timely and appropriate fashion. If the comment is a complaint or critique,
   follow these tips to resolve the situation:
   <a
-    href="http://www.socialmediaexaminer.com/7&#45;tips&#45;for&#45;dealing&#45;with&#45;upset&#45;facebook&#45;fans/"
-    >http://www.socialmediaexaminer.com/7&#45;tips&#45;for&#45;dealing&#45;with&#45;upset&#45;faceboo...</a
+    href="https://www.socialmediaexaminer.com/7&#45;tips&#45;for&#45;dealing&#45;with&#45;upset&#45;facebook&#45;fans/"
+    >https://www.socialmediaexaminer.com/7&#45;tips&#45;for&#45;dealing&#45;with&#45;upset&#45;faceboo...</a
   >
 </p>
 <p>

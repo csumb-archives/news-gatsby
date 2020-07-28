@@ -18,7 +18,7 @@ date: January 01 2020
 </p>
 <p>
   Progress can be tracked
-  <a href="http://news/students-work-make-university-greencs.org/">online</a>.
+  <a href="https://news/students-work-make-university-greencs.org/">online</a>.
 </p>
 <p>
   Started in 2001 as a competition between collegiate sports rivals Ohio

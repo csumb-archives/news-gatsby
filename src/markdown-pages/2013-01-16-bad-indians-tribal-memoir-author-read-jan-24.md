@@ -12,7 +12,7 @@ personal</h3>
 <p>Deborah Miranda, a member of the Ohlone Costanoan Esselen
 Nation, will give a presentation at CSU Monterey Bay on Jan. 24.
 The public is invited to the free event.</p>
-<p><img alt="Dr. Deborah Miranda" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/miranda.jpg" style="float:left; width:200px; height:300px">Dr. Miranda will
+<p><img alt="Dr. Deborah Miranda" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/miranda.jpg" style="float:left; width:200px; height:300px">Dr. Miranda will
 read from her new book, &#x201C;Bad Indians: A Tribal Memoir.&#x201D; The book,
 part tribal history, part lyric, part intimate memoir &#x2013; should be
 required reading for anyone interested in California Indian
@@ -33,7 +33,7 @@ A California native, Dr. Miranda is an associate professor of
 English at Washington and Lee University in Lexington, Va., where
 she teaches creative writing, Native American literatures, poetry
 and composition.</br></br></p>
-<p><img alt="Dr. Miranda&apos;s latest book" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bad_indians_cover.jpg" style="float:right; width:200px; height:299px">She is the author
+<p><img alt="Dr. Miranda&apos;s latest book" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bad_indians_cover.jpg" style="float:right; width:200px; height:299px">She is the author
 of two poetry collections, Indian Cartography and The Zen of La
 Llorona. Her collection of essays, The Hidden Stories of Isabel
 Meadows and Other California Indian Lacunae, will be published by

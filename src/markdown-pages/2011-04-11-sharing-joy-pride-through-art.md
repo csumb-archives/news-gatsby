@@ -22,7 +22,7 @@ portraits of farm workers bending to harvest crops, suns radiating
 heat and picturesque fields and valleys. He has used his painting
 to empower himself, honor Chicano culture and honor the dignity of
 farm workers.</p>
-<p><img alt="Simon Silva&apos;s work is a bold expression of Chicano culture" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/simonsilva_0.jpg" style="float:left; width:377px; height:285px">His presentation
+<p><img alt="Simon Silva&apos;s work is a bold expression of Chicano culture" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/simonsilva_0.jpg" style="float:left; width:377px; height:285px">His presentation
 will provide parents, educators and other community members with
 tools to help students become critical thinkers, lifelong learners
 and confident leaders. He will reflect on his own experiences to
@@ -57,7 +57,7 @@ that I had my art to keep me going.&#x201D;</p>
 Enrichment Committee, Student Activities &amp; Leadership
 Development, and the Office of the Dean of Students. Books and
 prints will be available for sale at the event.</p>
-<p>For driving directions and a campus map, click <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+<p>For driving directions and a campus map, click <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 
 
 

@@ -10,7 +10,7 @@ slug: another-service-learning-award-for-csumb
 
 <span class="date">Posted on Oct 09, 2013    </span>
 <p>&#xA0;</p>
-<p><img alt="Provost Julio Blanco picked up CSUMB&apos;s award in Washington, D.C." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/dr._blanco_at_awards_ceremony.jpg" style="width:525px; height:181px"/></p>
+<p><img alt="Provost Julio Blanco picked up CSUMB&apos;s award in Washington, D.C." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/dr._blanco_at_awards_ceremony.jpg" style="width:525px; height:181px"/></p>
 <p class="small"><em>CSUMB Provost Julio Blanco (second from right)
 accepted the award at a ceremony in Washington, D.C., on Oct. 7.
 Photo courtesy of the Washington Center</em><br>
@@ -27,7 +27,7 @@ be presented in Washington, D.C., on Oct. 7.</p>
 funding to help students participate in The Washington Center&apos;s
 Academic Internship Program in Washington, D.C., in 2014.</p>
 <p>&#x201C;It&#x2019;s wonderful to see our program being recognized nationally,&#x201D;
-said Dr. Seth Pollack, director of <a href="http://service.csumb.edu/" rel="nofollow">Service Learning</a> at
+said Dr. Seth Pollack, director of <a href="https://service.csumb.edu/" rel="nofollow">Service Learning</a> at
 CSUMB. &#x201C;No other university in the country has made as significant
 a commitment to integrating learning about social justice and civic
 engagement into the core of the curriculum. Our focus on developing
@@ -70,7 +70,7 @@ of Rock the Vote and Peter Levine of CIRCLE at Tufts
 University.</p>
 <p>The Citadel, Portland State University, Southern University at
 New Orleans and Syracuse University also won awards.</p>
-<p><a href="http://csumb.edu/gallery/chinatown-garden" rel="nofollow">See a photo gallery of the Chinatown garden</a><br>
+<p><a href="https://csumb.edu/gallery/chinatown-garden" rel="nofollow">See a photo gallery of the Chinatown garden</a><br>
 <br>
 <a href="../5/students-help-tell-stories-chinatown.html" rel="nofollow">Students help to tell stories of Chinatown</a></br></br></p>
 

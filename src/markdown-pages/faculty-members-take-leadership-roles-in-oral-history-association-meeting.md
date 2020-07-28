@@ -102,11 +102,11 @@ date: January 01 2020
 </p>
 <p>
   For more information about the conference, see the Oral History Association
-  <a href="http://www.oralhistory.org">website.</a>
+  <a href="https://www.oralhistory.org">website.</a>
 </p>
 <p>
   Learn about the oral history program at CSUMB
-  <a href="http://hcom.csumb.edu/site/x4040.xml">here</a>.
+  <a href="https://hcom.csumb.edu/site/x4040.xml">here</a>.
 </p>
 <p></p>
 <p></p>

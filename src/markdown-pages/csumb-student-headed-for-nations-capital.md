@@ -116,7 +116,7 @@ date: January 01 2020
 <p>
   More information on the
   <a
-    href="http://www.panettainstitute.org/programs/study&#45;with&#45;us/congressional&#45;intern&#45;training/"
+    href="https://www.panettainstitute.org/programs/study&#45;with&#45;us/congressional&#45;intern&#45;training/"
     >Panetta Institute's Congressional Internship program</a
   >.
 </p>

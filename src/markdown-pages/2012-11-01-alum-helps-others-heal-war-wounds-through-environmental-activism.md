@@ -15,7 +15,7 @@ Corps</h3>
 9/11 terrorist attacks interrupted Ben Haberthur&#x2019;s education at Cal
 State Monterey Bay. Or you might say that his active military
 service refocused it.</p>
-<p><img alt="Ben Haberthur" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ben.jpeg" style="float:left; width:140px; height:201px">Either way,
+<p><img alt="Ben Haberthur" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ben.jpeg" style="float:left; width:140px; height:201px">Either way,
 Haberthur&#x2019;s work both as a restoration ecologist and a veterans&#x2019;
 advocate received a major boost recently when he was recognized
 with a TogetherGreen Fellowship Award from Toyota and the National

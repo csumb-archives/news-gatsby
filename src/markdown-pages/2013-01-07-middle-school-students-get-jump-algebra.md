@@ -9,7 +9,7 @@ slug: middle-school-students-get-a-jump-on-algebra
 
 
 <span class="date">Posted on Jan 07, 2013    </span>
-<p><img alt="Dr. Hongde Hu" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/hongde_hu_small_0.jpg" style="float:left; width:300px; height:206px">Standing in front
+<p><img alt="Dr. Hongde Hu" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/hongde_hu_small_0.jpg" style="float:left; width:300px; height:206px">Standing in front
 of 50 middle school students, CSU Monterey Bay Professor Hongde Hu
 demonstrated the solution to a math problem as though he were
 decoding the collective wisdom of the universe.<br>
@@ -72,16 +72,16 @@ again, a vicious cycle that wastes learning time and resources.
 That&#x2019;s according to a study that was commissioned by the Center for
 the Future of Teaching and Learning at WestEd and released in
 November. The Sacramento nonprofit focuses on policies and
-practices to improve teaching. (<a href="http://www.cftl.org/documents/2012/CFTL_MathPatterns_Main_Report.pdf" rel="nofollow">Read the WestEd report here.</a>)&#xA0;<br>
+practices to improve teaching. (<a href="https://www.cftl.org/documents/2012/CFTL_MathPatterns_Main_Report.pdf" rel="nofollow">Read the WestEd report here.</a>)&#xA0;<br>
 <br>
 And that reinforces a point Dr. Hu makes every chance he
 gets.<br>
 <br>
 Algebra is &#x201C;the gateway&#x201D; to studies in college, he says. &#x201C;Without
 it, there&#x2019;s no way students continue.&#x201D;</br></br></br></br></br></br></br></br></p>
-<p><a href="http://csumb.edu/math" rel="nofollow">Learn more about
+<p><a href="https://csumb.edu/math" rel="nofollow">Learn more about
 the math program at CSUMB.</a></p>
-<p><a href="http://success.csumb.edu/hongde-hu" rel="nofollow">Read
+<p><a href="https://success.csumb.edu/hongde-hu" rel="nofollow">Read
 a profie of Dr. Hu.</a><br>
 &#xA0;</br></p>
 

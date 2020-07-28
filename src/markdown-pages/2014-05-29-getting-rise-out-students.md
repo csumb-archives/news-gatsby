@@ -18,7 +18,7 @@ support and guidance.&#x201D;</p>
 Science Education &#x2013; program was created to do.</p>
 <p>This year&#x2019;s class of 32 high school students attended a
 graduation ceremony at CSUMB on May 21.</p>
-<p><img alt="RISE students od hands-on science projects" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rise_photo.jpg" style="width:300px; height:200px; float:right">RISE recruits high
+<p><img alt="RISE students od hands-on science projects" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rise_photo.jpg" style="width:300px; height:200px; float:right">RISE recruits high
 school students from underrepresented backgrounds and involves them
 in hands-on activities and fields trips. Its goals: to expose them
 to science, encourage them to attend college and pursue a STEM &#x2013;
@@ -46,7 +46,7 @@ program because it helped shape me to be the person I am
 today.&#x201D;</p>
 <p>The RISE program was created in 1998 by a gift from the
 Berkshire Foundation. For more information, contact program
-coordinator Louie Okamoto at 582-4556 or visit the program <a href="http://rise.csumb.edu" rel="nofollow">online</a>.</p>
+coordinator Louie Okamoto at 582-4556 or visit the program <a href="https://rise.csumb.edu" rel="nofollow">online</a>.</p>
 <p>This year&#x2019;s graduates:</p>
 <p><strong>From Everett Alvarez High</strong>: Paola Chavez,
 Spencer Harvey, Arturo Quezada</p>

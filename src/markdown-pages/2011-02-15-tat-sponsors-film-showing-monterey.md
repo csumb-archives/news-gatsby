@@ -15,7 +15,7 @@ Bay will present a screening of &#x201C;I Am Secretly an Important Man&#x201D; a
 the Osio Theater in Monterey on March 5.</p>
 <p>The documentary film, directed by Peter Sillen, will be shown at
 7 p.m.</p>
-<p><img alt="Steven Jesse Bernstein" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bernstein.jpg" style="float:left; width:192px; height:248px">In the film, Sillen
+<p><img alt="Steven Jesse Bernstein" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bernstein.jpg" style="float:left; width:192px; height:248px">In the film, Sillen
 examines the life of subculture hero Steven Jesse Bernstein.
 Bernstein, a songwriter, poet and performance artist, was a
 literary rebel and vivid presence in Seattle&#x2019;s underground scene in
@@ -30,7 +30,7 @@ interviews with the artist&#x2019;s family, friends and colleagues, and
 powerful footage of the darker side of Seattle, Sillen shows the
 poet&#x2019;s self-examination and what Bernstein called just plain &#x201C;doing
 your job.&#x201D;</p>
-<p><img alt="Movie poster for " src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/movie_poster.jpg" style="float:right; width:171px; height:253px">The director will
+<p><img alt="Movie poster for " src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/movie_poster.jpg" style="float:right; width:171px; height:253px">The director will
 be on hand to introduce the film and to take questions from the
 audience after the showing. A New York based documentary filmmaker,
 Sillen is best known for his low-tech approach and sensitivity to

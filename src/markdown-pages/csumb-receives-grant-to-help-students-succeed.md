@@ -39,7 +39,7 @@ date: January 01 2020
   Lumina Foundation for Education works to ensure that 60 percent of Americans
   are college-educated by 2025. More information about the foundation is
   available at
-  <a href="http://www.luminafoundation.org/">www.luminafoundation.org</a>
+  <a href="https://www.luminafoundation.org/">www.luminafoundation.org</a>
 </p>
 <p></p>
 <p></p>

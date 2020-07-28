@@ -18,7 +18,7 @@ date: January 01 2020
 </p>
 <p>
   That led to an opportunity for Cal State Monterey Bay graduate
-  <a href="http://ashleyquackenbush.weebly.com/">Ashley Quackenbush</a>. She
+  <a href="https://ashleyquackenbush.weebly.com/">Ashley Quackenbush</a>. She
   spent the summer of 2014 as a coastal tourism intern in the sanctuary’s
   Monterey office.
 </p>
@@ -39,7 +39,7 @@ date: January 01 2020
   and how the public can use them sustainably, but it turned into something so
   much more,” Quackenbush said. “We had such a high turnout locally that it
   inspired our headquarters in D.C. to launch
-  <a href="http://sanctuaries.noaa.gov/visit/welcome.html"
+  <a href="https://sanctuaries.noaa.gov/visit/welcome.html"
     >Get Into Your Sanctuary Day</a
   >
   nationally.”

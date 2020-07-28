@@ -11,7 +11,7 @@ slug: migrant-program-earns-national-recognition
 <span class="date">Posted on Jul 28, 2011    </span>
 <p>CSU Monterey Bay has been honored as among the best campuses in
 the country at helping migrant students succeed in college.</p>
-<p><img alt="CAMP logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/camp_image.jpg" style="float:left; width:300px; height:331px">The university&#x2019;s
+<p><img alt="CAMP logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/camp_image.jpg" style="float:left; width:300px; height:331px">The university&#x2019;s
 College Assistance Migrant Program, a federally funded project
 designed to help students from migrant farm worker families pursue
 higher education, has been named one of the top 10 at helping them
@@ -49,6 +49,6 @@ made it in the third year. It is exciting to see our program
 succeed tremendously in such a short time.&quot;&#xA0;<br>
 <br>
 To learn more about CAMP at CSUMB, and to view a video about the
-program, click <a href="http://csumb.edu/camp" rel="nofollow">here</a>.&#xA0;</br></br></p>
+program, click <a href="https://csumb.edu/camp" rel="nofollow">here</a>.&#xA0;</br></br></p>
 
 ```

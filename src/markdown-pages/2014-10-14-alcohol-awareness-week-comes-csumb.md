@@ -9,7 +9,7 @@ slug: alcohol-awareness-week-comes-to-csumb
 
 
 <span class="date">Posted on Oct 14, 2014    </span>
-<p><img alt="National Collegiate Alcohol Awareness Week" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/nationalcollegiatealcoholawarenessweek_tips.jpg" style="float:left; width:350px; height:232px">As part of National
+<p><img alt="National Collegiate Alcohol Awareness Week" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/nationalcollegiatealcoholawarenessweek_tips.jpg" style="float:left; width:350px; height:232px">As part of National
 Collegiate Alcohol Awareness Week (NCAAW) Oct. 20&#x2013;25, CSU Monterey
 Bay is offering panel discussions, games, displays and other
 activities to help students understand the ramifications of alcohol

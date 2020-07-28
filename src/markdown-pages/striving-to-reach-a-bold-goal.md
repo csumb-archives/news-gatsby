@@ -28,7 +28,7 @@ date: January 01 2020
   established in Monterey County. Edmondson’s presentation will get under way at
   3:30 p.m. in the World Theater on Sixth Avenue near A Street. Driving
   directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   The community is invited to this free event. No tickets are necessary, but

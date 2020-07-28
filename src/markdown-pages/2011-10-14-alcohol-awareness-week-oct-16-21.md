@@ -15,7 +15,7 @@ Raise your voice! You can save a life! is campaign theme</br></h3>
 University, Monterey Bay will join with their peers on more than
 800 campuses across the country to promote National Collegiate
 Alcohol Awareness Week (NCAAW).</p>
-<p><img alt="Alcohol Awareness Week Oct 16-21" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/raise-your-voice-poster.jpg" style="float:left; width:400px; height:260px">During the week,
+<p><img alt="Alcohol Awareness Week Oct 16-21" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/raise-your-voice-poster.jpg" style="float:left; width:400px; height:260px">During the week,
 students will have the opportunity to participate in a variety of
 events, all designed to reinforce personal responsibility and
 respect for state laws and campus policies when it comes to the
@@ -101,7 +101,7 @@ get formed.</p>
 <p>Indications are it has been successful at CSUMB. To learn more,
 <a href="../../../2010/jul/6/online-course-gets-students-thinking-about-drinking.html" rel="nofollow">click here</a>.</p>
 <p>To learn more about health and wellness services at CSUMB,
-<a href="http://pgcc.csumb.edu/health-wellness-services" rel="nofollow">click here</a>.</p>
+<a href="https://pgcc.csumb.edu/health-wellness-services" rel="nofollow">click here</a>.</p>
 
 
 

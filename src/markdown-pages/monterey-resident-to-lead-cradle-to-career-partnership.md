@@ -26,7 +26,7 @@ date: January 01 2020
   The Monterey County Cradle to Career partnership will be based on a model
   adopted by more than 100 communities across the country that share best
   practices through the
-  <a href="http://www.strivetogether.org/cradle-career-network"
+  <a href="https://www.strivetogether.org/cradle-career-network"
     >Cradle to Career Network</a
   >.
 </p>

@@ -33,7 +33,7 @@ date: January 01 2020
 </p>
 <p>
   Learn more about the School of World Languages and Cultures
-  <a href="http://wlc.csumb.edu">here</a>.
+  <a href="https://wlc.csumb.edu">here</a>.
 </p>
 <p>
   Also new this fall are two majors in the Division of Science and Environmental
@@ -48,7 +48,7 @@ date: January 01 2020
 </p>
 <p>
   Learn more about the Division of Science and Environmental Policy
-  <a href="http://csumb.edu/sep">here</a>.
+  <a href="https://csumb.edu/sep">here</a>.
 </p>
 <p>
   The next undergraduate degree to be offered is nursing. Pending approval from
@@ -67,7 +67,7 @@ date: January 01 2020
 <p>
   For more information on the nursing program, click
   <a
-    href="http://news.csumb.edu/news/2011/jul/12/csumb-add-nursing-program-2012"
+    href="https://news.csumb.edu/news/2011/jul/12/csumb-add-nursing-program-2012"
     >here</a
   >.
 </p>

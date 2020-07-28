@@ -18,7 +18,7 @@ date: January 01 2020
   “His Asian and global perspective will enrich the learning and knowledge of
   our students and internationalize their outlook and education,” said Dr. Shyam
   Kamath, dean of CSUMB’s
-  <a href="http://business.csumb.edu">College of Business.</a>
+  <a href="https://business.csumb.edu">College of Business.</a>
 </p>
 <p>
   Dr. Sahu comes from the Motilal Nehru National Institute of Technology in

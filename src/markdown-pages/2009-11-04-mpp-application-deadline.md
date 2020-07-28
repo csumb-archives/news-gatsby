@@ -42,7 +42,7 @@ slug: realworld-policymaking
 </p>
 <p>
   For more information and application materials, visit the web at
-  <a href="http://csumb.edu/mpp" rel="nofollow">http://csumb.edu/mpp</a> and
+  <a href="https://csumb.edu/mpp" rel="nofollow">https://csumb.edu/mpp</a> and
   click on the &quot;admit now&quot; button, call (831) 582-3565 or e-mail
   <a href="mailto:mpp@csumb.edu">mpp@csumb.edu</a>
 </p>

@@ -48,9 +48,9 @@ physical disabilities.<br>
 &quot;We&apos;ve established a unique service for our campus community,&quot;
 Krebs said, &quot;a campus resource that has become as important as the
 library and the bookstore.&quot;</br></br></p>
-<p><a href="http://csumb.edu/techrent" rel="nofollow">Visit the
+<p><a href="https://csumb.edu/techrent" rel="nofollow">Visit the
 online store</a>.</p>
-<p><img alt="iPads are among the items available for rent" height="338" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ipad_1.jpg" width="570"><br>
+<p><img alt="iPads are among the items available for rent" height="338" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ipad_1.jpg" width="570"><br>
 &#xA0;</br></img></p>
 
 

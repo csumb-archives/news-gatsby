@@ -45,9 +45,9 @@ date: January 01 2020
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>. While the talk is free, a parking
+  <a href="https://csumb.edu/maps">here</a>. While the talk is free, a parking
   permit must be purchased from a machine on the lot or
-  <a href="http://parking.csumb.edu/buy-permit">online</a>.
+  <a href="https://parking.csumb.edu/buy-permit">online</a>.
 </p>
 <p>More information is available from Lynda Oswald at 582-3736.</p>
 <p>

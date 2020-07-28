@@ -35,11 +35,11 @@ date: January 01 2020
   Butler Street. Driving directions and a campus map can be found at
   csumb.edu/maps. Please note that a parking permit must be purchased from a
   machine on the adjacent lot or
-  <a href="http://parking.csumb.edu/buy-permit">online</a>.
+  <a href="https://parking.csumb.edu/buy-permit">online</a>.
 </p>
 <p>
   For more information or to request disability accommodations, call 582-3009.
-  <a href="http://csumb.edu/music">Learn about the music program at CSUMB</a>.
+  <a href="https://csumb.edu/music">Learn about the music program at CSUMB</a>.
 </p>
 <p><em>Photo of Cosmas Magaya by Cliff Warner</em></p>
 ```

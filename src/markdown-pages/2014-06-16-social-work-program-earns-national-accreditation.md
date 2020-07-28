@@ -13,7 +13,7 @@ slug: social-work-program-earns-national-accreditation
 social work (MSW) program passed an extensive accreditation process
 recently, and is now nationally accredited.</p>
 <p>Last fall, CSUMB played host to the fourth site visitor over the
-past four years from the Council of&#xA0;<img alt="Social work logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/msw_0.jpg" style="width:350px; height:140px; float:left">Social Work
+past four years from the Council of&#xA0;<img alt="Social work logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/msw_0.jpg" style="width:350px; height:140px; float:left">Social Work
 Education (CSWE). Each met with administrators, faculty, students,
 and community advisory board members on campus, poring over the
 school&#x2019;s programs, reviewing benchmark documents, and making
@@ -48,7 +48,7 @@ also submit reports to CSWE along the way.</p>
 offers evening classes for working adults. In addition to classes,
 students must complete 16 hours a week of field experience during
 the second and third years of study.</p>
-<p>Learn more about the program <a href="http://msw.csumb.edu" rel="nofollow">here</a>.</p>
+<p>Learn more about the program <a href="https://msw.csumb.edu" rel="nofollow">here</a>.</p>
 <p>&#xA0;</p>
 <p>&#xA0;</p>
 <p><br>

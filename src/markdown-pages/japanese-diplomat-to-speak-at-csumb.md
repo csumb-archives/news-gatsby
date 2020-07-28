@@ -18,8 +18,8 @@ date: January 01 2020
   The public is invited. Driving directions and a campus map are available at
   csumb.edu/maps. While the event is free, visitors must purchase a parking
   permit from machines on the lot or online at
-  <a href="http://parking.csumb.edu/buy&#45;permit"
-    >http://parking.csumb.edu/buy&#45;permit</a
+  <a href="https://parking.csumb.edu/buy&#45;permit"
+    >https://parking.csumb.edu/buy&#45;permit</a
   >.
 </p>
 <p>

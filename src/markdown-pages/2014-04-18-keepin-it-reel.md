@@ -14,7 +14,7 @@ May Day Labor Film Festival &#x2013; will be held on the campus of Cal
 State Monterey Bay.</p>
 <p>The festival features films that illuminate the lives and
 struggles of workers in the United States and around the world.</p>
-<p><img alt="From the film Wisconsin Rising" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wisconsin.jpg" style="width:350px; height:263px; float:left">The programs are
+<p><img alt="From the film Wisconsin Rising" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wisconsin.jpg" style="width:350px; height:263px; float:left">The programs are
 sponsored by the CSUMB chapter of the California Faculty
 Association and the Student California Teachers Association.</img></p>
 <p>Schedule:</p>
@@ -33,7 +33,7 @@ Spanish-language short films with English subtitles. Many of the
 films come from Spain. With humor and irony, they explore the
 consequences of the country&#x2019;s 25 percent unemployment rate.<br>
 Co-host: School of World Languages and Cultures at CSUMB</br></p>
-<p><img alt="Pete Seeger" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/seeger.jpg" style="width:300px; height:342px; float:right"><strong>Thursday,
+<p><img alt="Pete Seeger" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/seeger.jpg" style="width:300px; height:342px; float:right"><strong>Thursday,
 May 1, 4 p.m., Chapman Science Center, Room E104, on Fifth Avenue
 and Divarty Street:</strong> Two films explore labor unions and
 economics in Haiti and South Africa.</img></p>
@@ -47,9 +47,9 @@ examines the life and times of the architect of the U.S. folk
 revival</p>
 <p>Admission to all events is free; donations will be accepted.
 Visitors must purchase a parking permit from a nearby dispenser.
-Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</p>
+Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</p>
 <p>For a complete listing of this year&#x2019;s films in Monterey, Santa
-Cruz and Santa Clara counties, <a href="http://www.reelwork.org" rel="nofollow">click here</a>. For more information on the CSUMB
+Cruz and Santa Clara counties, <a href="https://www.reelwork.org" rel="nofollow">click here</a>. For more information on the CSUMB
 screenings, contact Jennifer Colby at 582-5045 or <a href="mailto:jcolby@csumb.edu">jcolby@csumb.edu</a>.<br>
 &#xA0;</br></p>
 

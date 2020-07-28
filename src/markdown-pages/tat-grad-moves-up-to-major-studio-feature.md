@@ -78,8 +78,8 @@ date: January 01 2020
 </p>
 <p>
   Given his ever-expanding
-  <a href="http://www.imdb.com/name/nm1572421/">body of work</a>, it is a safe
+  <a href="https://www.imdb.com/name/nm1572421/">body of work</a>, it is a safe
   bet that his next project is not far away.
-  <a href="http://csumb.edu/tat">Learn about Cinematic Arts at CSUMB</a>.
+  <a href="https://csumb.edu/tat">Learn about Cinematic Arts at CSUMB</a>.
 </p>
 ```

@@ -35,7 +35,7 @@ Complexity.&#x201D;<br>
 <p><em>Read about a <a href="../../../2012/nov/21/professor-students-land-grant-teach-about-missions.html" rel="nofollow">National Endowment for the Humanities grant</a> Dr.
 Mendoza and two of his students secured for summer workshops for
 teachers on the missions and presidios of California.</em></p>
-<p><em><a href="http://sbgs.csumb.edu/social-behavioral-sciences-major/archaeology" rel="nofollow">Learn more about archaeology at CSUMB</a>.</em></p>
+<p><em><a href="https://sbgs.csumb.edu/social-behavioral-sciences-major/archaeology" rel="nofollow">Learn more about archaeology at CSUMB</a>.</em></p>
 <p><a href="../../../2012/nov/25/faculty-highlights.html" rel="nofollow"><em>Read more faculty news.</em></a></p>
 
 

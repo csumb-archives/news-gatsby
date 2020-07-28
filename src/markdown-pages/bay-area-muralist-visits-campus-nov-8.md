@@ -33,11 +33,11 @@ date: January 01 2020
   artist series. It opened in September with a presentation by installation
   artist Julio Cesar Morales and continues with a talk by Bay Area artist
   Mildred Howard on Oct. 25. Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   Learn about CSUMB's Visual and Public Art Department
-  <a href="http://csumb.edu/art">here.</a
+  <a href="https://csumb.edu/art">here.</a
   ><em
     >Top image: Landing Zone by John Wehrle, 1966, Vietnam Combat Artists
     Program</em

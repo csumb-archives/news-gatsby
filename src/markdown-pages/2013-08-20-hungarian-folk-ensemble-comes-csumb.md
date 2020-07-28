@@ -14,7 +14,7 @@ slug: hungarian-folk-ensemble-comes-to-csumb
 be 21st century when the Hungarian State Folk Ensemble opens the
 Performing Arts Series at CSU Monterey Bay&#x2019;s World Theater on Sept.
 17.</p>
-<p><img alt="The Hungarian Folk Ensemble visits CSUMB Sept. 17" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/folk_dance_for_web.jpg" style="float:left; width:450px; height:697px">Considered one of
+<p><img alt="The Hungarian Folk Ensemble visits CSUMB Sept. 17" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/folk_dance_for_web.jpg" style="float:left; width:450px; height:697px">Considered one of
 the world&#x2019;s greatest folkloric dance ensembles, these gifted
 Eastern European dancers and musicians bring their rich and
 colorful artistic traditions to the local area for the first
@@ -33,9 +33,9 @@ this performance infused with dance, acrobatics, grace, lyricism
 and passion.</p>
 <p>Tickets are $40 premium, $29 general. Discounts are available
 for students, military members and seniors. Tickets can be
-purchased <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>&#xA0;or by calling the box office at
+purchased <a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>&#xA0;or by calling the box office at
 582-4580.</p>
-<p><a href="http://csumb.edu/maps" rel="nofollow">Driving
+<p><a href="https://csumb.edu/maps" rel="nofollow">Driving
 directions and a campus map</a></p>
 <p><em>The Hungarian State Folk Ensemble has a special character.
 Behind the crackling vitality of its dancers&apos; heel-clicking male

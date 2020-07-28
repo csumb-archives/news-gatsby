@@ -33,7 +33,7 @@ achievements.</br></br></p>
 <p>Anyone interested in participating in next year&apos;s Asian Pacific
 Islander graduation celebration or being part of the planning
 committee can contact Jihan Ejan at <a href="mailto:jejan@csumb.edu">jejan@csumb.edu</a>.</p>
-<p><img alt="Student commemorate their impending graduation at API celebration" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/group_shot.jpg" style="width:550px; height:367px"><br>
+<p><img alt="Student commemorate their impending graduation at API celebration" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/group_shot.jpg" style="width:550px; height:367px"><br>
 <em>Patti Hiramoto, vice president of University Advancement at
 CSUMB (far left) and members of CSUMB&apos;s API community celebrate
 commencement on May 17.</em></br></img></p>

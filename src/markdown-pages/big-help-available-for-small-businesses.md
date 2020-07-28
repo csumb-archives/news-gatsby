@@ -63,7 +63,7 @@ date: January 01 2020
   give entrepreneurs free advice. “We’ve got quite a large skill set” of
   counselors, said Andrea Zeller-Nield, associate director of the center. Some
   of the counselors have knowledge of key local industries, such as wine and
-  agriculture. To learn more, click <a href="http://csumb.edu/sbdc">here</a>.
+  agriculture. To learn more, click <a href="https://csumb.edu/sbdc">here</a>.
 </p>
 <p>
   <em

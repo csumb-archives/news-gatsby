@@ -14,7 +14,7 @@ site-specific installation at the Monterey Museum of Art, with help
 from a trio of CSU Monterey Bay art students.</p>
 <p>His work, on display at the museum&#x2019;s La Mirada facility through
 Nov. 17, is based on local histories of Monterey.</p>
-<p><img alt="CSUMB student Jorge Amezcua works on an exhibit at the Monterey Museum of Art" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jorge_amezcua.png" style="float:left; width:300px; height:207px">For years, the
+<p><img alt="CSUMB student Jorge Amezcua works on an exhibit at the Monterey Museum of Art" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jorge_amezcua.png" style="float:left; width:300px; height:207px">For years, the
 university&#x2019;s Visual and Public Art Department and the museum have
 collaborated on projects, and countless students have done
 internships there. Last spring, Professor Johanna Poethig recruited
@@ -35,7 +35,7 @@ Monterey.&#x201D;</p>
 &#x201C;Most of the work I did was on painting walls with brick d&#xE9;cor, and
 smaller layers of brick work on the sides of mural panels within
 the largest room of the museum,&#x201D; she said.</p>
-<p><img alt="Devin Johnson with a part of the exhibit he helped install" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/devin_johnson_1.jpg" style="float:right; width:300px; height:400px">She also filled in
+<p><img alt="Devin Johnson with a part of the exhibit he helped install" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/devin_johnson_1.jpg" style="float:right; width:300px; height:400px">She also filled in
 large patches of off-white color to sections of the mural that
 Schoultz then filled in.</img></p>
 <p>Amezcua had worked on large-scale murals before, but &#x201C;being able
@@ -59,10 +59,10 @@ frequently include ephemeral, site-specific installations. In
 Process charts the most current developments in the field of
 contemporary art by championing the work of emerging and mid-career
 artists.</p>
-<p><a href="http://vpa.csumb.edu/" rel="nofollow">Read about
+<p><a href="https://vpa.csumb.edu/" rel="nofollow">Read about
 VPA</a></p>
-<p><a href="http://vpa.csumb.edu/people/johanna-poethig" rel="nofollow">Read more about Professor Poethig</a></p>
-<p><a href="http://www.montereyart.org/category/current-exhibitions/" rel="nofollow">Read about the exhibit</a><br>
+<p><a href="https://vpa.csumb.edu/people/johanna-poethig" rel="nofollow">Read more about Professor Poethig</a></p>
+<p><a href="https://www.montereyart.org/category/current-exhibitions/" rel="nofollow">Read about the exhibit</a><br>
 &#xA0;</br></p>
 <p class="small"><em>Photos:</em></p>
 <p class="small"><em>Top: CSUMB student Jorge Amezcua working on an
@@ -82,8 +82,8 @@ Photo courtesy of Devin Johnson</br></br></em></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/1PinSPFW5fg&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/1PinSPFW5fg&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/1PinSPFW5fg&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/1PinSPFW5fg&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -94,7 +94,7 @@ Photo courtesy of Devin Johnson</br></br></em></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r12---sn-o097znee.googlevideo.com/videoplayback?fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ipbits=0&amp;mm=31&amp;signature=FA3813B5F7C3DF5FC16039575A84D482EC49EC44.0BCBCFEF96AEEF69E938F5BC1917CD8AC9513CA3&amp;pl=23&amp;key=yt5&amp;mv=m&amp;dur=137.462&amp;source=youtube&amp;ratebypass=yes&amp;itag=18&amp;ms=au&amp;initcwndbps=4287500&amp;expire=1422340912&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;mt=1422319250&amp;upn=yolvg--bctY&amp;sver=3&amp;ip=198.189.249.65&amp;id=o-ALbfto68bUDqXrAo141ORxjRlMUUANe8Nel-vnrc90Ku&amp;name=1PinSPFW5fg" type="video/mp4"/></video></div>
+<source src="https://r12---sn-o097znee.googlevideo.com/videoplayback?fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ipbits=0&amp;mm=31&amp;signature=FA3813B5F7C3DF5FC16039575A84D482EC49EC44.0BCBCFEF96AEEF69E938F5BC1917CD8AC9513CA3&amp;pl=23&amp;key=yt5&amp;mv=m&amp;dur=137.462&amp;source=youtube&amp;ratebypass=yes&amp;itag=18&amp;ms=au&amp;initcwndbps=4287500&amp;expire=1422340912&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;mt=1422319250&amp;upn=yolvg--bctY&amp;sver=3&amp;ip=198.189.249.65&amp;id=o-ALbfto68bUDqXrAo141ORxjRlMUUANe8Nel-vnrc90Ku&amp;name=1PinSPFW5fg" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

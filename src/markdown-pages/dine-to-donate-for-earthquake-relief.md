@@ -42,8 +42,8 @@ date: January 01 2020
 </p>
 <p>
   To view local news coverage of the event, click
-  <a href="http://www.flickr.com/photos/csumbdiningserv/5572360917/">here</a>.
+  <a href="https://www.flickr.com/photos/csumbdiningserv/5572360917/">here</a>.
   To view a video made by CSUMB Strategic Communications, click
-  <a href="http://www.youtube.com/watch?v=GvBxchvVoJU">here</a>.
+  <a href="https://www.youtube.com/watch?v=GvBxchvVoJU">here</a>.
 </p>
 ```

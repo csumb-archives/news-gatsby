@@ -59,6 +59,6 @@ date: January 01 2020
   The play will be presented on weekends through Feb. 14 at the Golden Bough
   Theatre, located on Monte Verde between Eighth and Ninth avenues in Carmel.
   For tickets or more information, call 622-0100 or go online at
-  <a href="http://www.pacrep.org/">www.pacrep.org</a>.
+  <a href="https://www.pacrep.org/">www.pacrep.org</a>.
 </p>
 ```

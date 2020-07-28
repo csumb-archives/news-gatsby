@@ -62,7 +62,7 @@ date: January 01 2020
 </p>
 <p>
   There's
-  <a href="http://www.montereybayfilmfestival.com/"
+  <a href="https://www.montereybayfilmfestival.com/"
     >more information about the festival</a
   >, including a list of the short films to be presented.
 </p>

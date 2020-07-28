@@ -40,7 +40,7 @@ date: January 01 2020
 <p>
   The event is free, but visitors must purchase a $2 parking permit. The Music
   Hall is located on Sixth Avenue near Butler Street.
-  <a href="http://csumb.edu/map"
+  <a href="https://csumb.edu/map"
     >Driving directions and a campus map are available here.</a
   >
 </p>

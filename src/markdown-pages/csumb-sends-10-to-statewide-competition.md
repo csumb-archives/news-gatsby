@@ -14,7 +14,7 @@ date: January 01 2020
 <p>
   Nine student projects were selected by the Faculty Senate’s Postgraduate
   Studies and Research Committee to represent the university at the 30th annual
-  <a href="http://www.csub.edu/nsme/CSUStudentResearchCompetition/index.html"
+  <a href="https://www.csub.edu/nsme/CSUStudentResearchCompetition/index.html"
     >CSU Student Research Competition</a
   >at Cal State Bakersfield April 29 and 30. Students will make 10&#45;minute
   oral presentations before juries of professional experts from major

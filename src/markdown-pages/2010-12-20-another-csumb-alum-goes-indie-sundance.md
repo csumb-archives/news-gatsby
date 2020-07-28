@@ -21,7 +21,7 @@ films were selected for their innovative and original work on a
 budget of less than $500,000 &#x2013; a pittance in the movie industry.
 Although the NEXT category is non-competitive, an audience choice
 award is up for grabs.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/lignite_030.jpg" style="float:left; width:250px; height:188px">Over 10,000 films &#x2013;
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/lignite_030.jpg" style="float:left; width:250px; height:188px">Over 10,000 films &#x2013;
 a record number &#x2013; were submitted to Sundance this year, and just
 under 200 were accepted, according to the festival website.</img></p>
 <p>Sundance will be held in and around Park City, Utah, Jan. 20-30.
@@ -52,7 +52,7 @@ script from the start, I worked on storyboards, location scouting,
 casting, costumes, coordinating between the departments, along with
 making sure whatever we were shooting next was going to be
 ready.&#x201D;</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/gena_first_day_051.jpg" style="float:left; width:250px; height:188px">He was quick to add
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/gena_first_day_051.jpg" style="float:left; width:250px; height:188px">He was quick to add
 that his role included a lot of things that weren&#x2019;t so much fun &#x2013;
 cleaning up, shoveling snow, getting cars out of ditches, and
 &#x201C;asking for things for free.&#x201D;</img></p>
@@ -79,7 +79,7 @@ movies,&#x201D; said TAT instructor Steven Levinson. &#x201C;He was always a
 great writer and producer. Once he got into the real world, he
 seriously applied the &#x2018;real world&#x2019; training he got here at
 CSUMB.&quot;</p>
-<p>To learn more about Doug, visit the web at <a href="http://www.douglasmueller.net" title="www.douglasmueller.net">www.douglasmueller.net</a></p>
+<p>To learn more about Doug, visit the web at <a href="https://www.douglasmueller.net" title="www.douglasmueller.net">www.douglasmueller.net</a></p>
 <p>Last year&#x2019;s Sundance festival saw the premiere of &#x201C;Charlie and
 the Rabbit&#x201D; by TAT alums Robert Machoian and Rodrigo Ojeda-Beck.
 &#x201C;Charlie&#x201D; and their previous film, &#x201C;Ella and the Astronaut,&#x201D; were

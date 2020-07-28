@@ -64,7 +64,7 @@ date: January 01 2020
 <p>
   Tickets range from $25 to $40 and can be purchased by calling the World
   Theater box office at (831) 582-4580 or
-  <a href="http://csumb.edu/worldtheater">online</a>. The World Theater is
+  <a href="https://csumb.edu/worldtheater">online</a>. The World Theater is
   located on Sixth Avenue between A and B streets on the CSUMB campus. Driving
   directions and a campus map are available at CSUMB.edu/map.
   <em

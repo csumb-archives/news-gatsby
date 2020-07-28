@@ -17,7 +17,7 @@ slug: getting-a-rise-out-of-students
       <img
         alt="Student speaks about RISE"
         height="269"
-        src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/IMG_3660.JPG"
+        src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/IMG_3660.JPG"
         style="float:right"
         width="201"
       />
@@ -92,7 +92,7 @@ slug: getting-a-rise-out-of-students
 <p>
   For more information, contact program coordinator Bobby Quinonez, at 582-4556.
   Information is also available online at
-  <a href="http://rise.csumb.edu" rel="nofollow">http://rise.csumb.edu</a>.
+  <a href="https://rise.csumb.edu" rel="nofollow">https://rise.csumb.edu</a>.
 </p>
 <table style="width:339px; height:336px">
   <tr class="odd">
@@ -100,7 +100,7 @@ slug: getting-a-rise-out-of-students
       <img
         alt="RISE Graduates"
         height="226"
-        src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/IMG_3675.JPG"
+        src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/IMG_3675.JPG"
         width="305"
       />
     </td>

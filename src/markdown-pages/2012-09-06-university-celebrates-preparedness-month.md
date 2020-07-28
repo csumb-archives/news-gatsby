@@ -13,7 +13,7 @@ slug: university-celebrates-preparedness-month
 mark National Preparedness Month, an annual campaign that
 encourages people to prepare their families, schools, businesses
 and communities to deal with disasters.</p>
-<p><img alt="September is National Preparedness Month" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/pledge_square.jpg" style="float:left; width:250px; height:250px">This represents the
+<p><img alt="September is National Preparedness Month" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/pledge_square.jpg" style="float:left; width:250px; height:250px">This represents the
 ninth year the Federal Emergency Management Agency has observed
 NPM. This year&#x2019;s theme is Resolve to be Ready.</img></p>
 <p>&#x201C;CSUMB wants to help everyone be better prepared for the
@@ -45,7 +45,7 @@ terrorism response. At the end of the training, a simulation will
 be held on campus.</p>
 <p>To register for the CERT training or for more information,
 contact Bower at 582-3589.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>. Campus visitors
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>. Campus visitors
 must purchase a parking pass from machines located on the parking
 lots.</p>
 <p>&#xA0;</p>

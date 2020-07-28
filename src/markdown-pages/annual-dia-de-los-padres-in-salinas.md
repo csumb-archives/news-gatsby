@@ -33,9 +33,9 @@ date: January 01 2020
   the Boys and Girls Club.” Those interested in attending are asked to RSVP by
   March 4. Registration can be completed online at
   <a
-    href="http://admissions.csumb.edu/dia-de-los-padres-spanish-reception"
-    title="http://admissions.csumb.edu/dia-de-los-padres-spanish-reception"
-    >http://admissions.csumb.edu/dia-de-los-padres-spanish-reception</a
+    href="https://admissions.csumb.edu/dia-de-los-padres-spanish-reception"
+    title="https://admissions.csumb.edu/dia-de-los-padres-spanish-reception"
+    >https://admissions.csumb.edu/dia-de-los-padres-spanish-reception</a
   >
 </p>
 ```

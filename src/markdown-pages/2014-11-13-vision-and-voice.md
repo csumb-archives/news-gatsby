@@ -9,7 +9,7 @@ slug: vision-and-voice
 <span class="date">Posted on Nov 13, 2014 </span>
 
 <p class="small"><br>
-<img alt="Photo by Daniel Lyons (SBS, 2004)" height="328" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/lyons_for_web.jpg" width="530"><em>Photo by Daniel Lyons (SBS, 2004)</em></img></br></p>
+<img alt="Photo by Daniel Lyons (SBS, 2004)" height="328" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/lyons_for_web.jpg" width="530"><em>Photo by Daniel Lyons (SBS, 2004)</em></img></br></p>
 <h3>Photographer, global health researcher to give
 presentations</h3>
 <p>CSU Monterey Bay alumnus Daniel Jack Lyons will visit campus
@@ -31,7 +31,7 @@ future.</p>
 and reporting to document the process as well as the lives of
 participants in his work.<br>
 <br>
-<img alt="Portrait of Daniel Lyons" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/daniel.jpg" style="width:250px; height:264px; float:left">Lyons (at left) has
+<img alt="Portrait of Daniel Lyons" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/daniel.jpg" style="width:250px; height:264px; float:left">Lyons (at left) has
 held positions and consulted as a researcher for the Foundation for
 AIDS Research, Columbia University, the United Nations, PCI Media
 Impact and Vanderbilt University. His work has been published on
@@ -48,10 +48,10 @@ B-120<br>
 Ocean Hall, B-120</br></br></br></p>
 <p><strong>Cost</strong>: Free<br>
 <br>
-<a href="http://csumb.edu/maps" rel="nofollow">Driving directions
+<a href="https://csumb.edu/maps" rel="nofollow">Driving directions
 and campus map</a><br>
 <br>
-<a href="http://sbgs.csumb.edu" rel="nofollow">Learn about Social,
+<a href="https://sbgs.csumb.edu" rel="nofollow">Learn about Social,
 Behavioral and Global Studies at CSUMB</a><br>
 &#xA0;</br></br></br></br></br></p>
 

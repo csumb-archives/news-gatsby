@@ -14,7 +14,7 @@ May 3 event is fundraiser for Monterey Bay Film Society</br></h3>
 <p>The Monterey Bay Film Society will show the 2011
 Sundance-screened feature film, &#x201C;Prairie Love,&#x201D; on May 3 at
 Monterey&#x2019;s Osio Theater.</p>
-<p><img alt="Doug Mueller" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/douglas_mueller_sm_-_photo_by_dusty_bias.jpg" style="float:left; width:300px; height:249px">The film was
+<p><img alt="Doug Mueller" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/douglas_mueller_sm_-_photo_by_dusty_bias.jpg" style="float:left; width:300px; height:249px">The film was
 produced by Doug Mueller of Carmel Valley, a 2003 graduate of CSU
 Monterey Bay&#x2019;s Teledramatic Arts and Technology Department.
 Mueller, a staff member of the Carmel Bach Festival, will speak at
@@ -36,9 +36,9 @@ how it achieves its mission.</p>
 and startlingly composed drama.&quot;<br>
 &#x2013; The Huffington Post</br></p>
 <p>The 7 p.m. screening is a fundraiser for the film society&apos;s
-<a href="http://www.montereybayfilmsociety.org/workshops.html" rel="nofollow">youth programs</a>. Tickets are $100 and include a
+<a href="https://www.montereybayfilmsociety.org/workshops.html" rel="nofollow">youth programs</a>. Tickets are $100 and include a
 reception with wine and hors d&#x2019;oeuvres starting at 5:30. Tickets
-may be purchased <a href="http://store.csumb.edu/products/monterey-bay-film-society-prairie-love-tickets" rel="nofollow">here</a>.</p>
+may be purchased <a href="https://store.csumb.edu/products/monterey-bay-film-society-prairie-love-tickets" rel="nofollow">here</a>.</p>
 <p>The society is the Central Coast&#x2019;s premiere organization for
 independent filmmaking, media art and community and is presented by
 the Teledramatic Arts and Technology Department at California State
@@ -54,7 +54,7 @@ Plante will be in attendance at the May 3 event.</p>
 information on the event, call CSUMB&#x2019;s Teledramatic Arts and
 Technology Department at 582-3750.</p>
 <p>Learn more about the Teledramatic Arts and Technology Department
-<a href="http://csumb.edu/tat" rel="nofollow">here</a>.</p>
+<a href="https://csumb.edu/tat" rel="nofollow">here</a>.</p>
 <p class="small"><em>Photo of Doug Mueller by Dusty Bias</em></p>
 
 

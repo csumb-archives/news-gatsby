@@ -54,7 +54,7 @@ date: January 01 2020
   “I hope my experience serves as a motivation to other Latino first-generation
   students so they take advantage of the opportunities that are offered to us,”
   Garcia-Valdez said.
-  <a href="http://eosp.csumb.edu/our-programs-0"
+  <a href="https://eosp.csumb.edu/our-programs-0"
     >Learn about early outreach and support programs at CSUMB</a
   >.
 </p>

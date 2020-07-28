@@ -9,7 +9,7 @@ slug: faculty-members-granted-tenure
 
 
 <span class="date">Posted on Jun 04, 2013    </span>
-<p><img alt="tenure logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/tenure.jpeg" style="float:left; width:281px; height:179px">President Eduardo
+<p><img alt="tenure logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/tenure.jpeg" style="float:left; width:281px; height:179px">President Eduardo
 Ochoa has announced that five faculty members at California State
 University, Monterey Bay have been granted tenure.<br>
 <br>

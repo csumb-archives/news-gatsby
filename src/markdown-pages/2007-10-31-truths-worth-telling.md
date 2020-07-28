@@ -9,7 +9,7 @@ slug: truths-worth-telling
 
 
 <span class="date">Posted on Oct 31, 2007    </span>
-<h4><img style="width:141px; height:182px" alt="Daniel Ellsberg" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/ellsberg_sml.jpg">Pentagon
+<h4><img style="width:141px; height:182px" alt="Daniel Ellsberg" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/ellsberg_sml.jpg">Pentagon
 Papers whistleblower Daniel Ellsberg visits campus Nov. 28</img></h4>
 <p>The President&apos;s Speakers Series concludes this semester&apos;s
 presentations with a Nov. 28 visit by Dr. Daniel Ellsberg, the RAND
@@ -66,7 +66,7 @@ intersection affects the lives of real people,&quot; said Dean
 Curry.</p>
 <p>The series got off to a great start when Dr. Zimbardo drew a
 standing-room-only crowd to the World Theater.</p>
-<p><img style="width:100px; height:143px" alt="Dr. Zimbardo" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/zimbardo_sml.jpg">One
+<p><img style="width:100px; height:143px" alt="Dr. Zimbardo" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/zimbardo_sml.jpg">One
 of the world&apos;s leading psychologists, he is best known for
 conducting the Stanford Prison Experiment. His 1971 experiment
 &quot;showed how anonymity, conformity and boredom can be used to induce

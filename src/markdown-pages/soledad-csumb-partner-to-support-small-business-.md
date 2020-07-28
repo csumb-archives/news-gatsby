@@ -38,7 +38,7 @@ date: January 01 2020
 <p>
   Entrepreneurs often find that discussing questions in a confidential and
   unbiased setting can help identify and clarify key decisions. Appointments can
-  be made online at <a href="http://csumb.edu/sbdc">csumb.edu/sbdc</a> or by
+  be made online at <a href="https://csumb.edu/sbdc">csumb.edu/sbdc</a> or by
   calling Ana Martinez at 675-7232.
 </p>
 <p>

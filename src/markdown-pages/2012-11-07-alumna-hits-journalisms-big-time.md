@@ -11,7 +11,7 @@ slug: alumna-hits-journalism&apos;s-big-time
 <span class="date">Posted on Nov 07, 2012    </span>
 <p>Christy Khoshaba has hit the big time &#x2013; journalistically
 speaking.</p>
-<p><img alt="Christy Khoshaba" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/christy-khoshaba.jpg" style="float:left; width:150px; height:150px">The 2011 Human
+<p><img alt="Christy Khoshaba" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/christy-khoshaba.jpg" style="float:left; width:150px; height:150px">The 2011 Human
 Communication major has gone from CSU Monterey Bay&#x2019;s student
 newspaper, the <em>Otter Realm</em>, to <em>The New York Times</em>
 &#x2013; and done so in just over a year.<br>
@@ -65,7 +65,7 @@ topics such as journalism, gender studies, media studies, law,
 literature, philosophy and creative writing. I enjoyed my classes
 and the professors who taught them.</p>
 <p>&#x201C;HCom will always have a place in my heart.&#x201D;</p>
-<p><a href="http://csumb.edu/search/redirect/11312?searchterm=HCom" rel="nofollow">Learn about CSUMB&apos;s Human Communication
+<p><a href="https://csumb.edu/search/redirect/11312?searchterm=HCom" rel="nofollow">Learn about CSUMB&apos;s Human Communication
 major</a>.<br>
 &#xA0;</br></p>
 

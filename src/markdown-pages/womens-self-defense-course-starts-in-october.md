@@ -28,6 +28,6 @@ date: January 01 2020
     href="&#x6d;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#x63;&#109;&#x63;&#x69;&#110;&#x74;&#121;&#x72;&#x65;&#64;&#x63;&#115;&#x75;&#x6d;&#98;&#x2e;&#101;&#x64;&#x75;"
     >cmcintyre@csumb.edu</a
   >. The course will be offered again in February. More information is available
-  <a href="http://police.csumb.edu/rad">here</a>.
+  <a href="https://police.csumb.edu/rad">here</a>.
 </p>
 ```

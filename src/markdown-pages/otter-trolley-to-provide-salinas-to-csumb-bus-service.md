@@ -67,7 +67,7 @@ date: January 01 2020
 </p>
 <p>
   More information about Monterey Salinas Transit is available at
-  <a href="http://www.mst.org/">http://www.mst.org</a>.
+  <a href="https://www.mst.org/">https://www.mst.org</a>.
 </p>
 <p></p>
 ```

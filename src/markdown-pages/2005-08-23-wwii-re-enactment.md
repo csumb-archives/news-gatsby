@@ -69,7 +69,7 @@ Wall&quot; of Germany in the autumn of 1944<br>
 <strong>Parking:</strong> Park on the lot located at Fifth Street
 and Third Avenue. Tickets can be purchased at the parking lot<br>
 <strong>Information/ticket purchases:</strong> (831) 582-3595</br></br></br></p>
-<p><strong>Online:</strong> <a href="http://www.ww2rps.com" rel="nofollow">www.ww2rps.com</a>; <a href="http://foaa.csumb.edu" rel="nofollow">http://foaa.csumb.edu</a></p>
+<p><strong>Online:</strong> <a href="https://www.ww2rps.com" rel="nofollow">www.ww2rps.com</a>; <a href="https://foaa.csumb.edu" rel="nofollow">https://foaa.csumb.edu</a></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">

@@ -41,7 +41,7 @@ date: January 01 2020
   focused on simple ingredients and portion size.
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/drop-cheeseburger">Meatless Monday</a>
+  <a href="https://news.csumb.edu/news/drop-cheeseburger">Meatless Monday</a>
   will continue at all five campus dining locations this year – the Dining
   Commons, the newly renovated Otter Express, Starbucks, the library café and
   the Otter Bay Restaurant. The restaurant will be closed during the fall

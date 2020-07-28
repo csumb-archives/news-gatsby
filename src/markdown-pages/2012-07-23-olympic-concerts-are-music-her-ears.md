@@ -12,7 +12,7 @@ slug: olympics-concerts-are-music-to-her-ears
 <h3>CSUMB librarian part of group performing in London</h3>
 <p>Cal State Monterey Bay didn&#x2019;t land an athlete at the Olympics,
 but the university will be represented in another way.</p>
-<p><img alt="Sarah Dahlen" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/sarah_dehlen.jpg" style="float:left; width:300px; height:345px">Reference and
+<p><img alt="Sarah Dahlen" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/sarah_dehlen.jpg" style="float:left; width:300px; height:345px">Reference and
 instruction librarian Sarah Dahlen is a member of the Monterey
 Peninsula Choral Society. The 113-member group will perform at
 several venues in London during the Games, one of just six choirs

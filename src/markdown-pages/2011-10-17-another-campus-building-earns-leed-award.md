@@ -13,7 +13,7 @@ slug: another-campus-building-earns-leed-award
 second project to earn the U.S. Green Building Council&apos;s
 prestigious Leadership in Energy and Environmental Design (LEED)
 silver certification.</p>
-<p><img alt="Dining Commons on the main quad" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/dining_commons-after-500x332.jpg" style="float:right; width:400px; height:266px">The renovation
+<p><img alt="Dining Commons on the main quad" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/dining_commons-after-500x332.jpg" style="float:right; width:400px; height:266px">The renovation
 took place in 2009 and was finished on a tight schedule &#x2013; 112 days
 between spring break and the start of the fall semester. It was the
 first significant improvement to the building since the campus
@@ -24,7 +24,7 @@ geared to visual appeal and convenience.</p>
 <p>The renovation of the 11,000-square-foot building cost $3.45
 million. A new entryway was installed, the roof was replaced,
 structural steel framing was added, new serving-line areas were
-installed,&#xA0;<img alt="Interior shot of the Dining Commons" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/dc-4.jpg" style="float:left; width:300px; height:200px">serpentine quarry
+installed,&#xA0;<img alt="Interior shot of the Dining Commons" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/dc-4.jpg" style="float:left; width:300px; height:200px">serpentine quarry
 tile was added throughout the serving area, a conveyor dishwashing
 system was installed along with new heating and ventilation
 systems, and custom booth and banquette seating were added to

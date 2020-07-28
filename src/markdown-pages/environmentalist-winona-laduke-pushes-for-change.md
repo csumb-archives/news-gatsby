@@ -40,7 +40,7 @@ date: January 01 2020
 <p>
   <em
     >For Women's History Month, CSUMB's library is featuring books on
-    <a href="http://library.csumb.edu/womens-history-month-2012"
+    <a href="https://library.csumb.edu/womens-history-month-2012"
       >women and the environment</a
     >.
   </em>

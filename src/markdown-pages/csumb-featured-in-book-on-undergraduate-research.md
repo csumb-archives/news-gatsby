@@ -53,9 +53,9 @@ date: January 01 2020
     Practices by Joyce Kinkead (Utah State University) and Linda Blockus
     (University of Missouri). Published by the Council on Undergraduate
     Research. Order it
-    <a href="http://www.cur.org/publications.html">here</a>.</em
+    <a href="https://www.cur.org/publications.html">here</a>.</em
   >
 </p>
-<p>Learn more about UROC at CSUMB <a href="http://csumb.edu/uroc">here</a>.</p>
+<p>Learn more about UROC at CSUMB <a href="https://csumb.edu/uroc">here</a>.</p>
 <p></p>
 ```

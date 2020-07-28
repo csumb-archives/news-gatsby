@@ -21,7 +21,7 @@ date: January 01 2020
   conditions of the western United States. The version that will be shown in New
   York is drawn from a longer film that features a score by If Thousands, and is
   part of the Water, CA video and
-  <a href="http://waterca.net">book project</a> co-edited with Nicole Antebi.
+  <a href="https://waterca.net">book project</a> co-edited with Nicole Antebi.
   “I've never made such a labor-intensive series,” said Blader, chair of CSUMB’s
   Teledramatic Arts and Technology Department and associate professor of
   experimental film.
@@ -66,7 +66,7 @@ date: January 01 2020
 <p>
   • On Oct. 6, the Water, CA project will be featured in an
   <a
-    href="http://www.armoryarts.org/exhibitions/exhibitions-2012/facing-the-sublime-in-water-ca/"
+    href="https://www.armoryarts.org/exhibitions/exhibitions-2012/facing-the-sublime-in-water-ca/"
     >exhibition</a
   >
   at the Armory Center for Arts in Pasadena. “The West” will be projected and
@@ -78,14 +78,14 @@ date: January 01 2020
   the second is California with contemporary water projects in place. (One of
   the paintings is displayed above.) • On Oct. 16, Blader will give part of a
   plenary address to several thousand scientists at the biennial
-  <a href="http://scienceconf.deltacouncil.ca.gov/"
+  <a href="https://scienceconf.deltacouncil.ca.gov/"
     >Bay-Delta Science Conference</a
   >.
 </p>
 <p>
   • On Oct. 17, she will chair a
   <a
-    href="http://scienceconf.deltacouncil.ca.gov/sites/default/files/documents/BD12ProgramFinal_091812.pdf"
+    href="https://scienceconf.deltacouncil.ca.gov/sites/default/files/documents/BD12ProgramFinal_091812.pdf"
     >panel</a
   >
   at the conference on the topic, “Not Just a Pretty Picture: The Synergy
@@ -98,8 +98,8 @@ date: January 01 2020
 </p>
 <p>
   <em
-    ><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights">R</a>
-    <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+    ><a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights">R</a>
+    <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
       >ead more faculty news</a
     ></em
   >

@@ -44,13 +44,13 @@ date: January 01 2020
   insight into that you’re doing more than just <em>talking</em> about making a
   difference,” Olden told KION. “You’re learning how to <em>make</em> a
   difference.”
-  <a href="http://as.csumb.edu/?_csumbsearch=Associated%2BStudents"
+  <a href="https://as.csumb.edu/?_csumbsearch=Associated%2BStudents"
     >Learn about Associated Students at CSUMB</a
   >
 </p>
 <p>
   <a
-    href="http://www.panettainstitute.org/programs/study-with-us/student-leadership-training/"
+    href="https://www.panettainstitute.org/programs/study-with-us/student-leadership-training/"
     >Read more about the Student Leadership Institute at the Panetta
     Institute</a
   >

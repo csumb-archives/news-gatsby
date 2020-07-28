@@ -53,7 +53,7 @@ date: January 01 2020
   “I needed to determine which program would benefit my daughter as well as me,”
   she said. Martinez was accepted into the master’s programs at UC Santa Cruz
   and USC. She hasn't yet decided which one she'll attend.
-  <a href="http://csumb.edu/math"
+  <a href="https://csumb.edu/math"
     >Learn about the Mathematics and Statistics Department at CSUMB</a
   >.
 </p>

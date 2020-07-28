@@ -20,7 +20,7 @@ date: January 01 2020
 <p>
   The
   <a
-    href="http://www.csus.edu/research/csu%20research%20competition%202017-18.html"
+    href="https://www.csus.edu/research/csu%20research%20competition%202017-18.html"
     >CSU Student Research Competition</a
   >
   (SRC) is held each spring to promote excellence in undergraduate and graduate

@@ -22,7 +22,7 @@ date: January 01 2020
   Cross Cultural Center and Associated Students. The World Theater is located on
   Sixth Avenue. While the performance is free, visitors must purchase a parking
   permit for $2.
-  <a href="http://csumb.edu/map"
+  <a href="https://csumb.edu/map"
     >Driving directions and a campus map are available here</a
   >.
 </p>

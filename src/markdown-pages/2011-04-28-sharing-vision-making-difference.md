@@ -18,7 +18,7 @@ other places somewhat &#x201C;off the beaten path.&#x201D;</p>
 Teledramatic Arts &amp; Technology Department, or TAT &#x2013; continues
 to create buzz, win acclaim and produce graduates who find success
 in the varied and competitive world of film and video.</p>
-<p class="fineprint"><img alt="Chris Carpenter, media production specialist for the TAT program" src="http://news.csumb.edu/sites/default/files/imagecache/large/65/attachments/news/images/tat_feature.jpg"><br>
+<p class="fineprint"><img alt="Chris Carpenter, media production specialist for the TAT program" src="https://news.csumb.edu/sites/default/files/imagecache/large/65/attachments/news/images/tat_feature.jpg"><br>
 
 <em><strong>Chris Carpenter, media production specialist for the
 Teledramatic Arts &amp; Technology Department, demonstrates use of

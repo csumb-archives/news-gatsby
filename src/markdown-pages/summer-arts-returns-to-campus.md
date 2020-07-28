@@ -33,7 +33,7 @@ date: January 01 2020
 </p>
 <p>
   A list of classes as well as the schedule of public performances is available
-  <a href="http://www.csusummerarts.org">here</a>.
+  <a href="https://www.csusummerarts.org">here</a>.
   <em
     ><strong
       >Here’s a preview of the kinds of events that will be open to the public

@@ -29,7 +29,7 @@ slug: first-night-monterey
   Jennie Banta&apos;s design was this year&apos;s winning entry. The Marina
   resident is pursuing a degree in publications design at CSUMB; a portfolio of
   her work is available at
-  <a href="http://www.jenniebanta.com" title="www.jenniebanta.com"
+  <a href="https://www.jenniebanta.com" title="www.jenniebanta.com"
     >www.jenniebanta.com</a
   >.
 </p>

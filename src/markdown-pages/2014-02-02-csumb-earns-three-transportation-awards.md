@@ -16,11 +16,11 @@ for Monterey County. The awards were among 10 presented at TAMC&apos;s
 board meeting on Jan. 22; they recognize individuals, groups and
 businesses for efforts to improve the way people get around in
 Monterey County.</p>
-<p>The university&#x2019;s <a href="http://activities.csumb.edu/bike-bunker" rel="nofollow">Bike
+<p>The university&#x2019;s <a href="https://activities.csumb.edu/bike-bunker" rel="nofollow">Bike
 Bunker</a>, which opened last year, was honored in the projects
 category. It provides secure, convenient indoor storage for 36
 bicycles. All spaces are currently rented.</p>
-<p><img alt="Award being presented to CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/tamc_photo_for_web_0.jpg" style="float:left; width:400px; height:314px">CSUMB&#x2019;s
+<p><img alt="Award being presented to CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/tamc_photo_for_web_0.jpg" style="float:left; width:400px; height:314px">CSUMB&#x2019;s
 transportation planner Megan Tolbert led the project team, which
 included students and staff members from across campus. Otto
 Construction and Telemetrix did the construction and electrical
@@ -42,8 +42,8 @@ bunker.<br>
 aesthetically pleasing,&#x201D; Tolbert said. &#x201C;We&#x2019;ve used Richard&#x2019;s
 bicycle icon around campus.&#x201D;<br>
 <br>
-<img alt="Casey Andrews" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/casey_for_web_0.jpg" style="float:right; width:350px; height:691px">Andrews worked on
-<a href="http://transportation.csumb.edu/tripwise-home" rel="nofollow">TRIPwise</a>, an identity for programs, infrastructure
+<img alt="Casey Andrews" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/casey_for_web_0.jpg" style="float:right; width:350px; height:691px">Andrews worked on
+<a href="https://transportation.csumb.edu/tripwise-home" rel="nofollow">TRIPwise</a>, an identity for programs, infrastructure
 and events that support a robust alternative transportation program
 on campus. His Transit Tree poster and website updates have led to
 an increase in transit ridership on campus &#x2013; up 300 percent since
@@ -79,7 +79,7 @@ courtesy of TAMC</em><br>
 courtesy of Megan Tolbert<br>
 <br>
 Below: Richard Vasquez, who designed the identity package for the
-Bike Bunker. Photo by Richard Green</br></br></em><img alt="Richard Vasquez" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/richard_for_web.jpg" style="float:left; width:300px; height:379px"/></br></br></p>
+Bike Bunker. Photo by Richard Green</br></br></em><img alt="Richard Vasquez" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/richard_for_web.jpg" style="float:left; width:300px; height:379px"/></br></br></p>
 <p class="small"><br>
 &#xA0;</br></p>
 

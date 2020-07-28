@@ -51,6 +51,6 @@ date: January 01 2020
 <p>
   The public is invited to this free lecture. For more information or to request
   disability accommodations, call 582-4337. Driving directions and a campus map
-  are available <a href="http://csumb.edu/map">here</a>.
+  are available <a href="https://csumb.edu/map">here</a>.
 </p>
 ```

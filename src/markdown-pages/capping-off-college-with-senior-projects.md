@@ -14,7 +14,7 @@ date: January 01 2020
   To fulfill a CSU Monterey Bay requirement that all students complete a
   capstone – a creative or research project – Tyler developed a website to help
   Heidi reach a larger audience with her message of hope, inspiration and
-  education. <a href="http://www.heidisheroes.org">Heidi’s Heroes</a> took the
+  education. <a href="https://www.heidisheroes.org">Heidi’s Heroes</a> took the
   communication design major a year to create. It’s just one example of the work
   that will be on display during the Capstone Festival May 13&#45;15.
 </p>

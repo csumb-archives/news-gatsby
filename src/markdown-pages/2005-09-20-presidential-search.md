@@ -75,7 +75,7 @@ teaching and for the job-ready graduates it produces. Its mission
 is to provide high-quality, affordable education to meet the
 ever-changing needs of the people of California. With its
 commitment to excellence, diversity and innovation, the CSU is the
-university system that is working for California. See <a href="http://www.calstate.edu" rel="nofollow">www.calstate.edu</a>.</p>
+university system that is working for California. See <a href="https://www.calstate.edu" rel="nofollow">www.calstate.edu</a>.</p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">

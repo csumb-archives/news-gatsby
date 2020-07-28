@@ -38,7 +38,7 @@ date: January 01 2020
 </p>
 <p>
   For more information on SNS, check
-  <a href="http://csumb.edu/naturalsciences">csumb.edu/naturalsciences</a>, on
+  <a href="https://csumb.edu/naturalsciences">csumb.edu/naturalsciences</a>, on
   <a href="https://twitter.com/CSUMBNatSci">Twitter</a> or
   <a href="https://www.facebook.com/CSUMBNatSci/?fref=ts">Facebook</a>.
 </p>

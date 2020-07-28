@@ -13,7 +13,7 @@ slug: grad-student-lands-prestigious-scholarship
 Foster Scholarship for outstanding graduate students in the fields
 of marine biology and coastal resource management.<br>
 <br>
-<img alt="Heather Kelley" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/heather_kelley_small.jpg" style="float:right; width:350px; height:453px">The scholarships
+<img alt="Heather Kelley" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/heather_kelley_small.jpg" style="float:right; width:350px; height:453px">The scholarships
 are presented annually by the Department of Commerce&apos;s National
 Oceanic and Atmospheric Administration (NOAA).<br>
 <br>
@@ -63,9 +63,9 @@ June 2000, as a means of honoring her life&#x2019;s work as a marine
 scientist and contribution to the nation. The program is
 administered through NOAA&#x2019;s Office of Education.</p>
 <p>To learn more about the master&apos;s program in Coastal and
-Watershed Science and Policy, click <a href="http://sep.csumb.edu/cwsp/" rel="nofollow">here</a>.</p>
+Watershed Science and Policy, click <a href="https://sep.csumb.edu/cwsp/" rel="nofollow">here</a>.</p>
 <p>To learn more about the Institute for Applied Marine Ecology,
-click <a href="http://sep.csumb.edu/ifame/index.php" rel="nofollow">here</a>.<br>
+click <a href="https://sep.csumb.edu/ifame/index.php" rel="nofollow">here</a>.<br>
 &#xA0;</br></p>
 
 

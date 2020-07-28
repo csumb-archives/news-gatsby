@@ -38,9 +38,9 @@ date: January 01 2020
   directions and a campus map can be found at csumb.edu/maps. Visitors must
   purchase a parking permit from the machine on the lot or online at
   <a
-    href="http://parking.csumb.edu/buy-permit"
-    title="http://parking.csumb.edu/buy-permit"
-    >http://parking.csumb.edu/buy-permit</a
+    href="https://parking.csumb.edu/buy-permit"
+    title="https://parking.csumb.edu/buy-permit"
+    >https://parking.csumb.edu/buy-permit</a
   >
 </p>
 <p>

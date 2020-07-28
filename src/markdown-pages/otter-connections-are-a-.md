@@ -12,7 +12,7 @@ date: January 01 2020
 </p>
 <p>
   &#40;Requires that you are
-  <a href="http://mail.google.com/a/csumb.edu"
+  <a href="https://mail.google.com/a/csumb.edu"
     >logged in to your CSUMB Gmail account</a
   >&#41;
 </p>

@@ -57,7 +57,7 @@ date: January 01 2020
 <p>
   The RISE program was created in 1998 by a gift from the Berkshire Foundation.
   For more information, contact program coordinator Louie Okamoto at 582-4556 or
-  visit the program <a href="http://rise.csumb.edu">online</a>.
+  visit the program <a href="https://rise.csumb.edu">online</a>.
 </p>
 <p>This year’s graduates:</p>
 <p>

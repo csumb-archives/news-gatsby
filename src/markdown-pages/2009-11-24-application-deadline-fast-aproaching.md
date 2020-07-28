@@ -14,7 +14,7 @@ slug: application-deadline-fast-approaching
 <p>A Nov. 30 application deadline for students seeking admission to
 California State University, Monterey Bay for the fall 2010
 semester is fast approaching.</p>
-<p><img alt="application form" height="92" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/apps%20image.jpeg" style="float:left" width="124">Since the application period
+<p><img alt="application form" height="92" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/apps%20image.jpeg" style="float:left" width="124">Since the application period
 opened Oct. 1, CSU Monterey Bay has received about 8,000
 applications for next fall. Up to another 1,000 are expected by
 next Monday&apos;s deadline, said Ronnie Higgs, associate vice president
@@ -31,7 +31,7 @@ mid-December.</p>
 because of state budget cuts, and a lack of funding is also
 limiting how many students CSU Monterey Bay can accept for next
 fall.</p>
-<p>High school seniors can visit <a href="http://www.csumentor.edu" title="www.csumentor.edu">www.csumentor.edu</a> to submit
+<p>High school seniors can visit <a href="https://www.csumentor.edu" title="www.csumentor.edu">www.csumentor.edu</a> to submit
 applications. More information is available by calling the CSUMB
 Office of Admissions at 831-582-3738.</p>
 <fieldset class="fieldgroup group-attachments">

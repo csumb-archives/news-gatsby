@@ -8,16 +8,16 @@ slug: csumb-reaches-out-to-black-community
 
 <span class="date">Posted on Mar 02, 2013 </span>
 
-<p><a href="http://blogs.calstate.edu/voicesviews/?p=1607" rel="nofollow">View a photo essay from Super Sunday<br>
+<p><a href="https://blogs.calstate.edu/voicesviews/?p=1607" rel="nofollow">View a photo essay from Super Sunday<br>
 <br>
-L</br></br></a><a href="http://www.californiareport.org/archive/R201303011630/b" rel="nofollow">isten to an NPR report here</a></p>
+L</br></br></a><a href="https://www.californiareport.org/archive/R201303011630/b" rel="nofollow">isten to an NPR report here</a></p>
 <p>Super Sunday encourages more students to enroll</p>
 <p>CSU Monterey Bay President Eduardo Ochoa and Provost Kathy
 Cruz-Uribe will be featured speakers at predominantly black
 churches to spread the word about the importance of going to
 college.</p>
 <p>On Feb. 17, President Ochoa will address the congregation at
-<a href="http://www.greatervictorytemple.org/" rel="nofollow">Greater Victory Temple</a> at 11:05 a.m. The previous
+<a href="https://www.greatervictorytemple.org/" rel="nofollow">Greater Victory Temple</a> at 11:05 a.m. The previous
 day, Dr. Ronnie Higgs, vice president for Student Affairs, will
 visit the Seaside Community Seventh-Day Adventist church for a
 10:50 a.m. presentation.</p>
@@ -43,13 +43,13 @@ aid workshops, distribution of college materials to sixth through
 12th-grade students and their parents, and the development of a
 how-to-guide for church educational advisers who work directly with
 families are among the programs that have been implemented.</p>
-<p><a href="http://www.calstate.edu/pa/news/2012/release/chancellor.shtml" rel="nofollow">CSU Chancellor Timothy White</a> will participate in
-this year&#x2019;s <a href="http://www.calstate.edu/supersunday/" rel="nofollow">Super Sunday</a> events when he visits a church in
+<p><a href="https://www.calstate.edu/pa/news/2012/release/chancellor.shtml" rel="nofollow">CSU Chancellor Timothy White</a> will participate in
+this year&#x2019;s <a href="https://www.calstate.edu/supersunday/" rel="nofollow">Super Sunday</a> events when he visits a church in
 Bakersfield on Feb. 17. His visit is one of 100 Super Sunday visits
 organized by the CSU at predominantly African American churches all
 over the state.</p>
 <p>Now in its seventh year, Super Sunday is part of an educational
-outreach led by the <a href="http://www.calstate.edu/externalrelations/partnerships/african-american.shtml" rel="nofollow">CSU African American Initiative</a> &#x2013; a partnership
+outreach led by the <a href="https://www.calstate.edu/externalrelations/partnerships/african-american.shtml" rel="nofollow">CSU African American Initiative</a> &#x2013; a partnership
 with churches &#x2013; to increase college preparation, student enrollment
 and graduation rates among African American students.</p>
 <p>For more information, contact CSUMB&#x2019;s Office of Admissions at

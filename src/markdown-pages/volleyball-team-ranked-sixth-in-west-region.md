@@ -23,11 +23,11 @@ date: January 01 2020
 </p>
 <p>
   The tournament field will be announced on Monday, Nov. 15, on
-  <a href="http://www.ncaa.com" title="www.ncaa.com">www.ncaa.com</a>.
+  <a href="https://www.ncaa.com" title="www.ncaa.com">www.ncaa.com</a>.
 </p>
 <p>
   For more information and photos, click
-  <a href="http://otterathletics.com/news/2010/11/4/WVB_1104102632.aspx">here</a
+  <a href="https://otterathletics.com/news/2010/11/4/WVB_1104102632.aspx">here</a
   >.
 </p>
 ```

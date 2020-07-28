@@ -33,7 +33,7 @@ date: January 01 2020
 </p>
 <p>
   In 1970, the Carnegie Commission on Higher Education developed the first<a
-    href="http://carnegieclassifications.iu.edu/"
+    href="https://carnegieclassifications.iu.edu/"
     >classification system</a
   >
   for American colleges and universities as a research tool to describe and
@@ -50,7 +50,7 @@ date: January 01 2020
 </p>
 <p>
   CSUMB is one of the few universities in the nation – public or private – to
-  have made<a href="http://service.csumb.edu/">service learning</a> a graduation
+  have made<a href="https://service.csumb.edu/">service learning</a> a graduation
   requirement for all students. Through service learning, all CSUMB academic
   departments and programs have been able to develop strong relationships
   throughout the community.
@@ -66,36 +66,36 @@ date: January 01 2020
 </p>
 <p>
   • CSUMB's
-  <a href="http://service.csumb.edu/programs/chinatown&#45;renewal&#45;project"
+  <a href="https://service.csumb.edu/programs/chinatown&#45;renewal&#45;project"
     >Chinatown Renewal Project</a
   >, which involves over 100 students each year in the revitalization of
   Chinatown neighborhood in Salinas;
 </p>
 <p>
-  • <a href="http://ron.csumb.edu/">Return of the Natives</a> environmental
+  • <a href="https://ron.csumb.edu/">Return of the Natives</a> environmental
   restoration project, which works with over 60 students in various
   environmental efforts;
 </p>
 <p>
-  • The <a href="http://seafloor.otterlabs.org/">Seafloor Mapping Project</a>,
+  • The <a href="https://seafloor.otterlabs.org/">Seafloor Mapping Project</a>,
   which develops detailed maps for state agencies;
 </p>
 <p>
   • The
   <a
-    href="http://archaeology.csumb.edu/Courses/MissionArchaeology/introduction.htm"
+    href="https://archaeology.csumb.edu/Courses/MissionArchaeology/introduction.htm"
     >Mission Conservation Program</a
   >, which involves dozens of students in conservation and interpretation
   projects at the region's historic missions;
 </p>
 <p>
   • The
-  <a href="http://news.csumb.edu/news/2014/aug/1/mastering&#45;math"
+  <a href="https://news.csumb.edu/news/2014/aug/1/mastering&#45;math"
     >Algebra Academy</a
   >
   and
   <a
-    href="http://news.csumb.edu/news/2014/jun/25/high&#45;school&#45;students&#45;imagine&#45;college"
+    href="https://news.csumb.edu/news/2014/jun/25/high&#45;school&#45;students&#45;imagine&#45;college"
     >Imagine College</a
   >, which work directly with local youth in college preparation courses.
 </p>

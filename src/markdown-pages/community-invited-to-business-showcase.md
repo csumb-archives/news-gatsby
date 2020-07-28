@@ -59,7 +59,7 @@ date: January 01 2020
   April 9.
 </p>
 <p>
-  <a href="http://csumb.edu/business">Learn more about the School of Business</a
+  <a href="https://csumb.edu/business">Learn more about the School of Business</a
   >.
 </p>
 <p></p>

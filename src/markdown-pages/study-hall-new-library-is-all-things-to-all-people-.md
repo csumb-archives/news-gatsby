@@ -15,7 +15,7 @@ date: January 01 2020
   Library is at the intersection of Fifth Avenue and Divarty Street, with
   parking accessible from Divarty. <strong>Ways to help</strong> • To buy a book
   for the library from its wish list, visit the Alumni
-  <a href="http://csumb.edu/alumni/giving-back">"giving back" page</a>. • Naming
+  <a href="https://csumb.edu/alumni/giving-back">"giving back" page</a>. • Naming
   opportunities still exist for library spaces. Contact Executive Director of
   University Development Mike Mahan at 582-3366 or
   <a
@@ -25,7 +25,7 @@ date: January 01 2020
   open 8 a.m. to midnight Monday through Thursday; 8 a.m. to 5 p.m. on Friday;
   10 a.m. to 5 p.m. on Saturday; and 2 p.m. to midnight on Sunday. • Hours vary
   during finals, the summer and holidays. A schedule is available at the
-  <a href="http://csumb.edu/library">CSUMB library page</a>. • Public visitors
+  <a href="https://csumb.edu/library">CSUMB library page</a>. • Public visitors
   must purchase a parking pass from machines on the lots. Cost is 50 cents per
   hour.
 </p>

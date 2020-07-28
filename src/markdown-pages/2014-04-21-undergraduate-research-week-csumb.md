@@ -14,7 +14,7 @@ through 18.</p>
 <p>At CSU Monterey Bay, it&#x2019;s an annual celebration of research and
 creative activity. Undergraduates can explore the opportunities
 available to them and find ways to get involved.</p>
-<p><img alt="UROC logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/uroc_updated_logo_for_web.jpg" style="float:left; width:300px; height:94px">Three participants
+<p><img alt="UROC logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/uroc_updated_logo_for_web.jpg" style="float:left; width:300px; height:94px">Three participants
 in the university&#x2019;s Undergraduate Research Opportunities Center
 (known as UROC) have planned several events to encourage students
 to do just that.</img></p>
@@ -43,7 +43,7 @@ real world experiences,&#x201D; said Dr. William Head, director of UROC.
 &#x201C;This translates to long-term academic success, self-confidence and
 persistence and has career benefits.&#x201D;<br>
 <br>
-<a href="http://uroc.csumb.edu" rel="nofollow">Learn more about
+<a href="https://uroc.csumb.edu" rel="nofollow">Learn more about
 UROC</a>.</br></br></p>
 
 

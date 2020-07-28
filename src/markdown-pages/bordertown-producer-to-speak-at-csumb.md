@@ -15,7 +15,7 @@ date: January 01 2020
   The talk will start at 7 p.m. at the World Theater, and will be followed by a
   question-and-answer session. Tickets are not required for this free event, but
   reservations are recommended and can be made
-  <a href="http://csumb.edu/speakers">online</a> or by calling the World Theater
+  <a href="https://csumb.edu/speakers">online</a> or by calling the World Theater
   box office at (831) 582-4580.
 </p>
 <p>
@@ -48,6 +48,6 @@ date: January 01 2020
   Victor Villasenor’s bestselling book, “Rain of Gold,” for an HBO miniseries.
   For more information on the lecture or the movie showing, contact the World
   Theater at (831) 582-3653 or go
-  <a href="http://csumb.edu/worldtheater">online</a>.
+  <a href="https://csumb.edu/worldtheater">online</a>.
 </p>
 ```

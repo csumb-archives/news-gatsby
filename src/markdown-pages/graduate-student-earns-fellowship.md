@@ -34,9 +34,9 @@ date: January 01 2020
   California Test Bureau (known as CTB). In 1965, the company was sold to
   McGraw-Hill and is now known as CTB/McGraw-Hill.
 </p>
-<p><a href="http://emba.csumb.edu/">Learn about the MBA program at CSUMB</a></p>
+<p><a href="https://emba.csumb.edu/">Learn about the MBA program at CSUMB</a></p>
 <p>
-  <a href="http://financialaid.csumb.edu/financial-aid-home"
+  <a href="https://financialaid.csumb.edu/financial-aid-home"
     >Learn about financial aid at CSUMB</a
   >
 </p>

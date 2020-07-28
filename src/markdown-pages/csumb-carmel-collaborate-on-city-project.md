@@ -60,7 +60,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://catalog.csumb.edu/undergrad-education/majors/social-behavioral-sciences/course-pathways/geographic-information-systems"
+    href="https://catalog.csumb.edu/undergrad-education/majors/social-behavioral-sciences/course-pathways/geographic-information-systems"
     >Learn about GIS classes at CSUMB</a
   >
 </p>

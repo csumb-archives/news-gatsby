@@ -40,7 +40,7 @@ date: January 01 2020
   Bamba and the Beatles on film and meet other rock music lovers? Registration
   takes place on the first day of class. The spring semester starts Jan. 21. For
   more information, visit
-  <a href="http://extended.csumb.edu">extended education</a> or e-mail
+  <a href="https://extended.csumb.edu">extended education</a> or e-mail
   <a
     href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#111;&#112;&#x65;&#110;&#x75;&#64;&#99;&#x73;&#117;&#x6d;b&#46;&#x65;&#100;&#x75;"
     >openu@csumb.edu</a

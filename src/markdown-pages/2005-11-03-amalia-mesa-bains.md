@@ -41,8 +41,8 @@ slug: amalia-mesabains
 </p>
 <p>
   For more information on Dr. Bains, visit
-  <a href="http://vpa.csumb.edu/faculty/mesa_bains.htm" rel="nofollow"
-    >http://vpa.csumb.edu/faculty/mesa_bains.htm</a
+  <a href="https://vpa.csumb.edu/faculty/mesa_bains.htm" rel="nofollow"
+    >https://vpa.csumb.edu/faculty/mesa_bains.htm</a
   >
 </p>
 <fieldset class="fieldgroup group-attachments">

@@ -36,7 +36,7 @@ date: January 01 2020
 <p>
   The ceremony will be held at Freeman Stadium on the CSUMB campus.
   Approximately 1,300 students will receive bachelor’s and master’s degrees.
-  <a href="http://commencement.csumb.edu/commencement-home"
+  <a href="https://commencement.csumb.edu/commencement-home"
     >Learn more about commencement</a
   >.
   <em

@@ -53,7 +53,7 @@ date: January 01 2020
   of men are victims of sexual assault while in college. According to data
   collected under the Jeanne Clery Disclosure of Campus Crime Statistics Act in
   2009, college campuses reported nearly 3,300 forcible sex offenses. (<a
-    href="http://www2.ed.gov/about/offices/list/ocr/letters/colleague-201104.pdf"
+    href="https://www2.ed.gov/about/offices/list/ocr/letters/colleague-201104.pdf"
     >Source: United States Department of Education, Office for Civil Rights</a
   >))
 </p>

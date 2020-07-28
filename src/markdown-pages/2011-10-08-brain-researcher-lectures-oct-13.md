@@ -17,7 +17,7 @@ skills in healthy ones.</br></p>
 <p>He will talk about his work at California State University,
 Monterey Bay&#x2019;s World Theater on Oct. 13, as the President&#x2019;s Speaker
 Series continues.</p>
-<p><img alt="Michael Merzenich" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/merzenich_0.jpg" style="float:right; width:119px; height:133px">Merzenich has
+<p><img alt="Michael Merzenich" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/merzenich_0.jpg" style="float:right; width:119px; height:133px">Merzenich has
 studied how brains develop for more than three decades. His
 research has shown that the brain retains its ability to alter
 itself well into adulthood &#x2013; suggesting that brains with injuries
@@ -49,9 +49,9 @@ University of California, San Francisco. He has published more than
 than 50 patents. He was elected to the National Academy of Sciences
 in 1999 and is a member of the Institute of Medicine.</p>
 <p>The 7 p.m. lecture is free and open to the public. Reservations
-are strongly encouraged and can be made <a href="http://rsvp.csumb.edu/index.php?eid=69" rel="nofollow">here</a> or
+are strongly encouraged and can be made <a href="https://rsvp.csumb.edu/index.php?eid=69" rel="nofollow">here</a> or
 by calling the World Theater box office at 582-4580.&#xA0;Driving
-directions and a map of campus are available&#xA0;<a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+directions and a map of campus are available&#xA0;<a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 
 
 

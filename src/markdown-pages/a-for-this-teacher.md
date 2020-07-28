@@ -68,12 +68,12 @@ date: January 01 2020
 </p>
 <p><em>©Monterey Bay Aquarium, photo by Tyson Rininger</em></p>
 <p>
-  <a href="http://www.mrspechan.com/students.html"
+  <a href="https://www.mrspechan.com/students.html"
     >Visit Pechan’s class website</a
   >
 </p>
 <p>
-  <a href="http://teach.csumb.edu/?_csumbsearch=teacher%2Beducation"
+  <a href="https://teach.csumb.edu/?_csumbsearch=teacher%2Beducation"
     >Learn about teacher education programs at CSUMB</a
   >
 </p>

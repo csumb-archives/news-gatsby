@@ -14,7 +14,7 @@ date: January 01 2020
 <p>
   Illustrating Nature, the annual exhibit of work by students in the CSU
   Monterey Bay Science Illustration Program, will be on display at the
-  <a href="http://www.pgmuseum.org/">Pacific Grove Museum of Natural History</a>
+  <a href="https://www.pgmuseum.org/">Pacific Grove Museum of Natural History</a>
   May 7 through June 12. The museum is located at 165 Forest Ave., Pacific
   Grove.
 </p>

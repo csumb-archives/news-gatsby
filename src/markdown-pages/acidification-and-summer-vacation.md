@@ -70,7 +70,7 @@ date: January 01 2020
   “And he’s been a big help to the two graduate students in my lab,” Dr. Garza
   said.
 </p>
-<p><a href="http://csumb.edu/uroc">Learn more about UROC here</a>.</p>
+<p><a href="https://csumb.edu/uroc">Learn more about UROC here</a>.</p>
 <p>A sampling of the work students are doing this summer:</p>
 <p>
   <strong>Emily Aiken (Marine Science)</strong> Emily is analyzing photo and

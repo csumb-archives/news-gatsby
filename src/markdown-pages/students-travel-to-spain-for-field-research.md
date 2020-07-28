@@ -13,7 +13,7 @@ date: January 01 2020
   David Macko, Timothy Davis, A.J. Cibulsky, Karina Gomez, Megan Thomas and
   Susan Dyar took part in the ethnographic field research school sponsored by
   the
-  <a href="http://sbgs.csumb.edu/social-behavioral-sciences-major"
+  <a href="https://sbgs.csumb.edu/social-behavioral-sciences-major"
     >Division of Social and Behavioral Sciences.</a
   >
   During June, the students and Dr. Juan Gutierrez, the program director,
@@ -58,11 +58,11 @@ date: January 01 2020
 </p>
 <p>
   To learn more about the program, contact
-  <a href="http://sbgs.csumb.edu/faculty/dr-juan-josé-gutiérrez"
+  <a href="https://sbgs.csumb.edu/faculty/dr-juan-josé-gutiérrez"
     >Dr. Gutierrez</a
   >
   or the
-  <a href="http://international.csumb.edu/index.htm"
+  <a href="https://international.csumb.edu/index.htm"
     >Office of International Programs</a
   >.
 </p>

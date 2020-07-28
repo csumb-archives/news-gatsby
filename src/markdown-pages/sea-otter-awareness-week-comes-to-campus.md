@@ -10,7 +10,7 @@ date: January 01 2020
   your time of year.
 </p>
 <p>
-  <a href="http://www.seaotterweek.org">Sea Otter Awareness Week</a>, the annual
+  <a href="https://www.seaotterweek.org">Sea Otter Awareness Week</a>, the annual
   recognition of the vital role these marine mammals play in the near&#45;shore
   ecosystem, will be celebrated Sept. 20&#45;26.
 </p>

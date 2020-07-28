@@ -18,7 +18,7 @@ April 16.</p>
 <p>The 7 p.m. performance will be held in the University Center
 ballroom on Sixth Avenue and is free. No tickets or reservations
 are required.</p>
-<p><img alt="Dimensions Dance Theater" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/women_in_between_shores_sm.jpg" style="float:right; width:300px; height:166px">Deborah Vaughan,
+<p><img alt="Dimensions Dance Theater" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/women_in_between_shores_sm.jpg" style="float:right; width:300px; height:166px">Deborah Vaughan,
 founder and artistic director of the Oakland-based dance company,
 has collaborated with world renowned musicians, poets, rappers and
 other dance companies for decades.</img></p>
@@ -57,10 +57,10 @@ Richard Bains, chair of the Music and Performing Arts Department,
 the festival&#x2019;s sponsor. &#x201C;We are looking at multiple disciplines,
 including dance. Dimensions Dance Theater is a great way to try out
 this new approach,&#x201D; Professor Bains said.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 <p>For more information or disability accommodations, call Nicole
 Mendoza at 582-3009. To learn more about the Music and Performing
-Arts Department at CSUMB, click<a href="http://csumb.edu/music" rel="nofollow">here</a>.</p>
+Arts Department at CSUMB, click<a href="https://csumb.edu/music" rel="nofollow">here</a>.</p>
 <p><br>
 &#xA0;</br></p>
 

@@ -14,7 +14,7 @@ slug: students-in-csuwide-research-competition
 ranging from juvenile offenders to the distribution of mammals on
 former Fort Ord land will be presented at a system-wide competition
 next month.</p>
-<p><img alt="CSU-wide competition takes place May 4 and 5" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/beaker.jpeg" style="float:left; width:201px; height:251px">Five student
+<p><img alt="CSU-wide competition takes place May 4 and 5" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/beaker.jpeg" style="float:left; width:201px; height:251px">Five student
 projects were selected by a committee of CSUMB&#x2019;s Faculty Senate to
 represent the university at the 26th annual CSU Student Research
 Competition at Long Beach State May 4 and 5.<br>

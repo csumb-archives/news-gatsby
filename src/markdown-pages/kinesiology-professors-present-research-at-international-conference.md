@@ -12,7 +12,7 @@ date: January 01 2020
 <p>
   CSU Monterey Bay kinesiology professors Brian Cook and Ryan Luke will present
   research to address these questions, among others, at the
-  <a href="http://www.icba2016.org/"
+  <a href="https://www.icba2016.org/"
     >International Conference on Behavioral Addictions</a
   >
   in Geneva, Switzerland, March 14&#45;16.

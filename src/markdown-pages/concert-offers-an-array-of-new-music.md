@@ -41,10 +41,10 @@ date: January 01 2020
   Avenue and Butler Street. Driving directions and a campus map can be found at
   csumb.edu/maps. Please note that a parking permit must be purchased from a
   machine on the adjacent lot or
-  <a href="http://parking.csumb.edu/buy-permit">online</a>.
+  <a href="https://parking.csumb.edu/buy-permit">online</a>.
 </p>
-<p><a href="http://abduo.net">Read more about A/B Duo</a></p>
+<p><a href="https://abduo.net">Read more about A/B Duo</a></p>
 <p>
-  <a href="http://mpa.csumb.edu">Learn more about the music program at CSUMB</a>
+  <a href="https://mpa.csumb.edu">Learn more about the music program at CSUMB</a>
 </p>
 ```

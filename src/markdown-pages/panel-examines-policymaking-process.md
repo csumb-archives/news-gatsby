@@ -34,7 +34,7 @@ date: January 01 2020
 </p>
 <p>
   The University Center is located on Sixth Avenue. Driving directions and a
-  campus map are available at <a href="http://csumb.edu/map">csumb.edu/map</a>.
+  campus map are available at <a href="https://csumb.edu/map">csumb.edu/map</a>.
 </p>
 <p></p>
 ```

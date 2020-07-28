@@ -41,7 +41,7 @@ date: January 01 2020
 </p>
 <p>
   New this year is an expo that will showcase ag tech companies. Reserve a space
-  at the expo <a href="http://greatervision2015.eventbrite.com">here</a>.
+  at the expo <a href="https://greatervision2015.eventbrite.com">here</a>.
 </p>
 <p>
   “A Greater Vision” is sponsored by the Grower&#45;Shipper Association

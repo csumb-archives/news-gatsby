@@ -69,11 +69,11 @@ date: January 01 2020
   communities that have given me so many great things."
 </p>
 <p>
-  <a href="http://service.csumb.edu"
+  <a href="https://service.csumb.edu"
     >Learn more about Service Learning at CSUMB.</a
   >
 </p>
 <p>
-  <a href="http://csumb.edu/alumni/">Learn about CSUMB's Alumni Association.</a>
+  <a href="https://csumb.edu/alumni/">Learn about CSUMB's Alumni Association.</a>
 </p>
 ```

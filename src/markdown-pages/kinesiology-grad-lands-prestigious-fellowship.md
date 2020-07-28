@@ -97,11 +97,11 @@ date: January 01 2020
 </p>
 <p>
   To learn more about UROC, click
-  <a href="http://csumb.edu/search/redirect/11498?searchterm=UROC">here</a>.
+  <a href="https://csumb.edu/search/redirect/11498?searchterm=UROC">here</a>.
 </p>
 <p>
   To learn more about the kinesiology program at CSUMB, click
-  <a href="http://catalog.csumb.edu/undergrad-education/majors/kinesiology"
+  <a href="https://catalog.csumb.edu/undergrad-education/majors/kinesiology"
     >here</a
   >.
 </p>

@@ -14,7 +14,7 @@ funding&#x2019;</h3>
 <p>Last April, the Jumpstart Our Business Startups &#x2013; JOBS &#x2013; Act was
 signed into law. It has a &#x201C;crowd funding&#x201D; amendment that changes
 restrictions on how small businesses can raise capital.</p>
-<p><img alt="The JOBS Act allows small businesses to tap crowd funding for capital" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/thumb.php_.jpeg" style="float:left; width:340px; height:192px">Under the original
+<p><img alt="The JOBS Act allows small businesses to tap crowd funding for capital" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/thumb.php_.jpeg" style="float:left; width:340px; height:192px">Under the original
 law, a business could have a maximum of 35 investors. The JOBS Act
 eliminates that cap for startups and lets entrepreneurs raise money
 by tapping the potentially large crowd of small investors on the
@@ -34,7 +34,7 @@ that operated in 43 countries and generated in excess of $1.8
 billion in revenue. He holds a bachelor&#x2019;s degree in civil
 engineering, an MBA, and a Ph.D. in psychology and organizational
 behavior.</p>
-<p>Pre-registration is required and can be done <a href="http://bit.ly/sbdcworkshops" rel="nofollow">online</a>&#xA0;or by
+<p>Pre-registration is required and can be done <a href="https://bit.ly/sbdcworkshops" rel="nofollow">online</a>&#xA0;or by
 calling Veronica at 675-7232.<br>
 &#x2028;<br>
 The workshop is co-sponsored by the Institute for Innovation and

@@ -7,9 +7,9 @@ date: January 01 2020
 ```html
 <p>
   For the second consecutive year,
-  <a href="http://www.laniersammons.com/Main/">Dr. Lanier Sammons</a>, a
+  <a href="https://www.laniersammons.com/Main/">Dr. Lanier Sammons</a>, a
   lecturer in the
-  <a href="http://csumb.edu/music">Music and Performing Arts Department</a>, has
+  <a href="https://csumb.edu/music">Music and Performing Arts Department</a>, has
   won the ASCAP Plus Award – Concert Music Division. The ASCAP Awards are made
   by the American Society of Composers, Authors, and Publishers to honor the
   past catalog and recent performances of member composers. With the cash award,
@@ -37,7 +37,7 @@ date: January 01 2020
   overlap between "popular" music and "art" music.?
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     >Read more faculty highlights</a
   >
 </p>

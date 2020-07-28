@@ -8,22 +8,22 @@ date: January 01 2020
 <h3>Read the reviews:</h3>
 <p>
   <a
-    href="http://www.latimes.com/entertainment/news/books/la-ca-discoveries-20110612,0,7898955.story"
+    href="https://www.latimes.com/entertainment/news/books/la-ca-discoveries-20110612,0,7898955.story"
     >Los Angeles Times</a
   >
   (June 12)
   <a
-    href="http://bnreview.barnesandnoble.com/t5/Reviews-Essays/Field-Notes-on-Science-and-Nature/ba-p/5013"
+    href="https://bnreview.barnesandnoble.com/t5/Reviews-Essays/Field-Notes-on-Science-and-Nature/ba-p/5013"
     >Barnes and Noble Review</a
   >
   (June 8)
   <a
-    href="http://www.boston.com/bostonglobe/ideas/brainiac/2011/06/field_notes_on.html"
+    href="https://www.boston.com/bostonglobe/ideas/brainiac/2011/06/field_notes_on.html"
     >Boston Globe</a
   >
   (June 14)
   <a
-    href="http://www.newscientist.com/blogs/culturelab/2011/05/research-notes-from-the-wild-side.html"
+    href="https://www.newscientist.com/blogs/culturelab/2011/05/research-notes-from-the-wild-side.html"
     >New Scientist</a
   >
   (May)
@@ -74,7 +74,7 @@ date: January 01 2020
   magazine and other publications. In 1992, “Dolphin Days,” a book she
   illustrated, won the John Burroughs Award for best book of the year in natural
   history. More information on the science illustration program at CSUMB is
-  available <a href="http://scienceillustration.org">here</a>.
+  available <a href="https://scienceillustration.org">here</a>.
 </p>
 <p><em>Top photo: Keller sketching at Point Lobos</em></p>
 ```

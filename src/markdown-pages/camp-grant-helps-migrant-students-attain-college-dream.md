@@ -34,14 +34,14 @@ date: January 01 2020
   An estimated 31,000 migrant students live in the four-county area served by
   the grant, making the Central Coast home to 25 percent of migrant students in
   California. In Monterey County, the average farm worker has an annual income
-  of $18,397. Click <a href="http://eosp.csumb.edu/how-apply-1">here</a> for
+  of $18,397. Click <a href="https://eosp.csumb.edu/how-apply-1">here</a> for
   information on how to apply.
 </p>
 <p>
   <em
     >Earlier story:
     <a
-      href="http://news.csumb.edu/news/2011/jul/28/migrant-program-earns-national-recognition"
+      href="https://news.csumb.edu/news/2011/jul/28/migrant-program-earns-national-recognition"
       >Migrant program earns national recognition</a
     >
   </em>

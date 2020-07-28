@@ -59,10 +59,10 @@ date: January 01 2020
 </p>
 <p>
   Learn about the work done by
-  <a href="http://uroc.csumb.edu/highlights">UROC students</a>.
+  <a href="https://uroc.csumb.edu/highlights">UROC students</a>.
 </p>
 <p>
-  <strong><a href="http://uroc.csumb.edu/highlights">About UROC</a>:</strong>
+  <strong><a href="https://uroc.csumb.edu/highlights">About UROC</a>:</strong>
   UROC is home to CSU Monterey Bay’s strong and growing undergraduate
   research&#45;related programs, such as the McNair Scholars Program, the
   National Science Foundation Louis Stokes Alliance for Minority Participation

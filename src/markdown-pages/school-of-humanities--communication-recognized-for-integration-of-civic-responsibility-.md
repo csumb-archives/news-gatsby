@@ -30,7 +30,7 @@ date: January 01 2020
   invest most of their academic attention: their majors.
 </p>
 <p>
-  <a href="http://secure.aacu.org/imis/ItemDetail?iProductCode=CRUCIBLE"
+  <a href="https://secure.aacu.org/imis/ItemDetail?iProductCode=CRUCIBLE"
     ><i>A Crucible Moment: Civic Learning and Democracy’s Future</i></a
   >
   (2012) found that most civic-oriented study occurs in the first two years of a

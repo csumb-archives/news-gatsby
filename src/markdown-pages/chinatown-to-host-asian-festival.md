@@ -26,7 +26,7 @@ date: January 01 2020
   Gallery, a project of the Franciscan Workers.The community is invited to this
   free event. For more information, visit
   <a
-    href="http://www.salinasasianfestival.com"
+    href="https://www.salinasasianfestival.com"
     title="www.salinasasianfestival.com"
     >www.salinasasianfestival.com</a
   >.

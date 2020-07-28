@@ -27,7 +27,7 @@ date: January 01 2020
 <p>
   Delta Sigma Theta is the eighth sorority to be chartered at CSUMB; six
   fraternities are also active. (A complete list can be found
-  <a href="http://activities.csumb.edu/multicultural-greek-council-0">here</a>.)
+  <a href="https://activities.csumb.edu/multicultural-greek-council-0">here</a>.)
 </p>
 <p>
   "We are grateful for CSUMB's enthusiastic support for a collegiate chapter.

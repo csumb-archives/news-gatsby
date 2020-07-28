@@ -20,7 +20,7 @@ date: January 01 2020
 <p>
   The full article is available here:
   <a
-    href="http://paidpost.nytimes.com/ncaa/for&#45;student&#45;athletes&#45;mental&#45;health.html"
+    href="https://paidpost.nytimes.com/ncaa/for&#45;student&#45;athletes&#45;mental&#45;health.html"
     ><em>Mental Health: A More Educated Approach</em></a
   >
   in The New York Times.

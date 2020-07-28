@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   Students at CSU Monterey Bay will gather on Feb. 13 to protest sexual violence
   toward women across the globe as part of the “<a
-    href="http://onebillionrising.org/"
+    href="https://onebillionrising.org/"
     >One Billion Rising</a
   >” movement.
 </p>

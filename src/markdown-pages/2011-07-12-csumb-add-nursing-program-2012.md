@@ -16,7 +16,7 @@ a bachelor&#x2019;s degree in nursing. Pending approval from the regional
 accrediting body, the program will be available in summer
 2012.<br>
 <br>
-<img alt="The sky&apos;s the limit with a bachelor of science in nursing" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/nursing_0.jpg" style="float:left; width:340px; height:180px">The university is
+<img alt="The sky&apos;s the limit with a bachelor of science in nursing" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/nursing_0.jpg" style="float:left; width:340px; height:180px">The university is
 collaborating with established nursing programs at the four
 community colleges in the area &#x2013; Monterey Peninsula, Hartnell,
 Cabrillo and Gavilan &#x2013; in a unique way that avoids duplication of

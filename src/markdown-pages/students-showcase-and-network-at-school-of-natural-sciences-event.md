@@ -29,6 +29,6 @@ date: January 01 2020
 <p>
   For more information about this event and future School of Natural Sciences
   events, contact Gabriela Alberola at galberola@csumb.edu or go online to
-  <a href="http://csumb.edu/naturalsciences">csumb.edu/naturalsciences</a>.
+  <a href="https://csumb.edu/naturalsciences">csumb.edu/naturalsciences</a>.
 </p>
 ```

@@ -16,7 +16,7 @@ Council.</p>
 <p>The event will be held on Feb. 4 at the InterContinental The
 Clement in Monterey.<br>
 <br>
-<img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ta_library_small.jpg" style="float:left; width:400px; height:497px">The university, one
+<img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ta_library_small.jpg" style="float:left; width:400px; height:497px">The university, one
 of six organizations to be honored in key industry clusters, is
 being recognized in the education and research category.<br>
 <br>

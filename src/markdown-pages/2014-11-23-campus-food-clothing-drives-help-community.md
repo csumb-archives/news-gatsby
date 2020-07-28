@@ -12,7 +12,7 @@ slug: campus-food-clothing-drives-help-the-community
 <p>CSU Monterey Bay is embracing the spirit of the holiday season
 with a flurry of charitable activities intended to help the local
 community.</p>
-<p><img alt="World Theater staff members with food donations" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/santas_helpers.jpg" style="float:right; width:350px; height:261px">&#x2022; Representatives
+<p><img alt="World Theater staff members with food donations" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/santas_helpers.jpg" style="float:right; width:350px; height:261px">&#x2022; Representatives
 from the Food Bank for Monterey County loaded hundreds of pounds of
 canned goods into a delivery truck parked at the World Theater on
 Nov. 13. The haul &#x2013; totaling more than two tons of people and pet
@@ -23,7 +23,7 @@ bring cans of food.</img></p>
 <p>The drive was a collaboration between the World Theater and
 radio station HIPPO 104.3 FM. The donations were given to the food
 bank, the local SPCA and the Santa Cruz animal shelter.</p>
-<p><img alt="Stop Hunger food drive logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/share_your_heart_for_web.jpg" style="float:left; width:250px; height:463px">&#x2022; Through the
+<p><img alt="Stop Hunger food drive logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/share_your_heart_for_web.jpg" style="float:left; width:250px; height:463px">&#x2022; Through the
 generosity of CSUMB students, staff and faculty and the sponsorship
 of Sodexo, the university&#x2019;s food service provider, the Stop Hunger
 drive netted 900 pounds of food in time to reach needy families for

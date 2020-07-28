@@ -10,7 +10,7 @@ slug: naacp-student-chapter-expands-campus-role
 <p>They have no memories of the civil-rights milestones of the
 mid-1960s, but that didn&#x2019;t prevent students at Cal State Monterey
 Bay from starting a campus chapter of the NAACP last year.</p>
-<p><img alt="Charter members of CSUMB&apos;s student chapter of the NAACP" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/small_naacp_photo_for_web_1.jpg" style="float:left; width:300px; height:149px">At the chapter&#x2019;s
+<p><img alt="Charter members of CSUMB&apos;s student chapter of the NAACP" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/small_naacp_photo_for_web_1.jpg" style="float:left; width:300px; height:149px">At the chapter&#x2019;s
 inaugural meeting in September of 2013, students heard community
 members &#x2013; all veterans of the civil rights struggle &#x2013; talk about
 the movement&#x2019;s history and urge them to continue the work.</img></p>

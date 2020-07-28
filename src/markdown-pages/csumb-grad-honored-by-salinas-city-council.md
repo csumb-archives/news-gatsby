@@ -56,7 +56,7 @@ date: January 01 2020
   has a vision that the Salinas Valley will be as well known for “growing
   scientists as it is for growing vegetables.” To learn more about the
   Undergraduate Research Opportunities Center at CSUMB, click
-  <a href="http://uroc.csumb.edu">here</a>.
+  <a href="https://uroc.csumb.edu">here</a>.
 </p>
 <p>
   <em

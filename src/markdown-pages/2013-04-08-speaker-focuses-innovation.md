@@ -13,7 +13,7 @@ slug: speaker-focuses-on-innovation
 <p>The President&#x2019;s Speaker Series at California State University,
 Monterey Bay continues April 25, when Jamie Merisotis of the Lumina
 Foundation visits campus.</p>
-<p><img alt="Jamie Merisotis" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jamie_merisotis_for_web.jpg" style="float:left; width:250px; height:280px">With the theme of
+<p><img alt="Jamie Merisotis" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jamie_merisotis_for_web.jpg" style="float:left; width:250px; height:280px">With the theme of
 &#x201C;Disruptive Innovation in Higher Education,&#x201D; the series focuses on
 the challenges facing higher education in an era of increased
 demand, changing demographics and declining state support. The
@@ -42,7 +42,7 @@ csumb.edu/map.</p>
 <p>The community is invited to this free event. No tickets are
 necessary, but reservations are requested. Please RSVP before April
 22 by calling Jeannie Lopez at 582-3530, emailing <a href="mailto:jealopez@csumb.edu">jealopez@csumb.edu</a> or going
-<a href="http://csumb.edu/rsvp" rel="nofollow">online</a>.
+<a href="https://csumb.edu/rsvp" rel="nofollow">online</a>.
 Attendees must purchase a parking permit from a dispenser on the
 lot.</p>
 <p>The speaker series is in keeping with Cal State Monterey Bay&#x2019;s

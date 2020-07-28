@@ -44,7 +44,7 @@ date: January 01 2020
   On July 24, the Steppenwolf program will present the play <em>Tribes</em>,
   starring Perry, which had
   <a
-    href="http://theater.nytimes.com/2012/03/05/theater/reviews/tribes-by-nina-raines-at-the-barrow-street-theater.html?_r=2&amp;adxnnl=1&amp;adxnnlx=1373578403-Tjpo0TeR2B8l8DKVM6VIIg"
+    href="https://theater.nytimes.com/2012/03/05/theater/reviews/tribes-by-nina-raines-at-the-barrow-street-theater.html?_r=2&amp;adxnnl=1&amp;adxnnlx=1373578403-Tjpo0TeR2B8l8DKVM6VIIg"
     >a wonderful run in New York in 2012</a
   >; and, on July 20, the classic play <em>Love Letters</em>, featuring Evelyn
   Carol Case and Mayer.
@@ -54,7 +54,7 @@ date: January 01 2020
   masters. This year, a cadre of celebrated guest artists is providing real-life
   perspective of their industry along with artistic instruction. For more
   information, including a list of classes, visit
-  <a href="http://www.csusummerarts.org">CSU Summer Arts</a>.
+  <a href="https://www.csusummerarts.org">CSU Summer Arts</a>.
 </p>
 <p></p>
 <p></p>

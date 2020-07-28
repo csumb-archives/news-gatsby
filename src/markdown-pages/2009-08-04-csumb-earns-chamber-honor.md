@@ -10,7 +10,7 @@ slug: university-earns-business-excellence-award
 
 <span class="date">Posted on Aug 04, 2009    </span>
 Aug. 4, 2009<br>
-<p><img alt="Business Excellence Award" height="213" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/BEA%202009%20Web%20Res-092.jpg" width="320"/></p>
+<p><img alt="Business Excellence Award" height="213" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/BEA%202009%20Web%20Res-092.jpg" width="320"/></p>
 <p>From left to right: Master of Ceremonies Hunter Finnell, Chamber
 CEO Astrid Coleman, Jeff Clark of Robert Louis Stevenson School,
 CSUMB President Dianne Harrison, Professor Pat Tinsely McGill,

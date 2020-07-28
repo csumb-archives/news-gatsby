@@ -16,7 +16,7 @@ date: January 01 2020
   Several hundred students are on campus, attending 14 classes in the visual and
   performing arts. A robust schedule of public performances accompanies the
   academic portion of the program.
-  <a href="http://www.csusummerarts.org/public_events_calendar_2012/"
+  <a href="https://www.csusummerarts.org/public_events_calendar_2012/"
     >See the schedule of public performances.</a
   >
 </p>
@@ -46,9 +46,9 @@ date: January 01 2020
   Theater
 </p>
 <p>
-  <a href="http://www.csusummerarts.org/index.shtml"
+  <a href="https://www.csusummerarts.org/index.shtml"
     >More information on Summer Arts.</a
   >
 </p>
-<p><a href="http://csumb.edu/map">Driving directions and a campus map.</a></p>
+<p><a href="https://csumb.edu/map">Driving directions and a campus map.</a></p>
 ```

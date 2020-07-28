@@ -22,7 +22,7 @@ date: January 01 2020
   Backpacks (no solid red or blue), 3-ring binders, dividers, binder paper,
   spiral notebooks, crayons, pencils, pens, rulers, glue sticks, construction
   paper, pink erasers, yellow highlighters, pocket dictionaries.
-  <a href="http://www.unitedwaymcca.org/stuff-bus"
+  <a href="https://www.unitedwaymcca.org/stuff-bus"
     >For more information, please visit the United Way Monterey County</a
   >
 </p>

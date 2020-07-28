@@ -34,7 +34,7 @@ date: January 01 2020
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>. Visitors are reminded that a parking
+  <a href="https://csumb.edu/maps">here</a>. Visitors are reminded that a parking
   permit must be purchased from a dispenser on the parking lot.
 </p>
 <p>

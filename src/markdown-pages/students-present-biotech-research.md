@@ -79,15 +79,15 @@ date: January 01 2020
 <p>
   • Symposium:
   <a
-    href="http://www.calstate.edu/csuperb/symposium/2011/"
-    title="http://www.calstate.edu/csuperb/symposium/2011/"
-    >http://www.calstate.edu/csuperb/symposium/2011/</a
+    href="https://www.calstate.edu/csuperb/symposium/2011/"
+    title="https://www.calstate.edu/csuperb/symposium/2011/"
+    >https://www.calstate.edu/csuperb/symposium/2011/</a
   >
   • CSUPERB:
   <a
-    href="http://www.calstate.edu/csuperb"
-    title="http://www.calstate.edu/csuperb"
-    >http://www.calstate.edu/csuperb</a
+    href="https://www.calstate.edu/csuperb"
+    title="https://www.calstate.edu/csuperb"
+    >https://www.calstate.edu/csuperb</a
   >
 </p>
 ```

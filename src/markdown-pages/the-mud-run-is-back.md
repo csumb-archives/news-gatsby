@@ -32,7 +32,7 @@ date: January 01 2020
 <p>
   Interested runners can sign up for next year's Mud Run starting Nov.1. For
   more information, visit the web at
-  <a href="http://www.bigsurmudrun.org/">www.bigsurmudrun.org</a> or call
+  <a href="https://www.bigsurmudrun.org/">www.bigsurmudrun.org</a> or call
   625-6226.
 </p>
 ```

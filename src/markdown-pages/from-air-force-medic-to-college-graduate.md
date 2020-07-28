@@ -38,7 +38,7 @@ date: January 01 2020
   working on my own book of short stories this summer,” she said. “My life now
   is like night and day. I’m doing so much better than I was four years ago, and
   I may even retire Hans within the next year or two.”
-  <a href="http://ar.csumb.edu/veterans-services"
+  <a href="https://ar.csumb.edu/veterans-services"
     >Learn about veterans services at CSUMB</a
   >
 </p>

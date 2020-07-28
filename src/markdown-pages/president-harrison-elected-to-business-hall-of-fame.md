@@ -42,7 +42,7 @@ date: January 01 2020
 </p>
 <p>
   For more information, visit the web at
-  <a href="http://www.jasvmb.org" title="www.jasvmb.org">www.jasvmb.org</a> or
+  <a href="https://www.jasvmb.org" title="www.jasvmb.org">www.jasvmb.org</a> or
   call (831) 251-0671.
 </p>
 ```

@@ -11,7 +11,7 @@ slug: csumb-to-host-9-11-commemoration-sunday
 <span class="date">Posted on Oct 04, 2011    </span>
 <p>CSU Monterey Bay hosted a day of remembrance on Sunday, the 10th
 anniversary of the 9/11 attacks.</p>
-<p><img alt="American flag" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/flag_photo.jpg" style="float:left; width:270px; height:203px">The day&apos;s events,
+<p><img alt="American flag" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/flag_photo.jpg" style="float:left; width:270px; height:203px">The day&apos;s events,
 planned by organizations across campus, included an 8 a.m.
 Gathering of Remembrance and Service, volunteer opportunities
 throughout the day, and a town hall meeting in the evening.</img></p>
@@ -25,7 +25,7 @@ included reflections from CSUMB students, Service Learning faculty
 and staff members and President Dianne Harrison. It ended at
 approximately 8:45 with a send-off to public service.</p>
 <p>A list of volunteer opportunities for the day can be found
-<a href="http://service.csumb.edu/911-national-day-service" rel="nofollow">here</a>.</p>
+<a href="https://service.csumb.edu/911-national-day-service" rel="nofollow">here</a>.</p>
 <p>After a day of memorials, service and programs, a town hall was
 held from 6:30 to 8 p.m. in the Student Center, providing an
 opportunity for the community to come back together and reflect.
@@ -39,8 +39,8 @@ a discussion and ended with a candlelight vigil.</p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/_-Xhf4eLNyU&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/_-Xhf4eLNyU&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/_-Xhf4eLNyU&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/_-Xhf4eLNyU&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>

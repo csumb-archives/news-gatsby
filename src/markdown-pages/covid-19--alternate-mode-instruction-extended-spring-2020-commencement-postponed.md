@@ -36,7 +36,7 @@ date: January 01 2020
 <p>
   Students who live on campus who do not intend to return to campus for the
   semester should take their belongings and complete an
-  <a href="http://www.csumb.edu/housing/emergency-express-checkout-procedure"
+  <a href="https://www.csumb.edu/housing/emergency-express-checkout-procedure"
     >express check-out</a
   >
   with Student Housing and Residential Life.
@@ -53,7 +53,7 @@ date: January 01 2020
   - 8 p.m. The furniture in public locations is rearranged to accommodate health
   and safety standards; please leave it in place. Student Life is creating
   virtual engagement opportunities to maintain connections with all students.
-  Please check the <a href="http://csumb.edu/studentlife">website</a> for
+  Please check the <a href="https://csumb.edu/studentlife">website</a> for
   creative activities and ways to participate during this time.
 </p>
 <h3>Events</h3>

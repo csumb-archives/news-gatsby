@@ -29,10 +29,10 @@ date: January 01 2020
   colors at work. Extra points will also be awarded for philanthropic efforts,
   such as fundraisers and food drives, and for civic engagement, such as
   participation in student government and attendance at city council meetings.
-  <a href="http://service.csumb.edu/king-chavez-semester-service-challenge"
+  <a href="https://service.csumb.edu/king-chavez-semester-service-challenge"
     >Registration, contest rules and point system can be found here.</a
   >
-  <a href="http://service.csumb.edu/"
+  <a href="https://service.csumb.edu/"
     >Learn more about CSUMB's Service Learning Institute.</a
   >
 </p>

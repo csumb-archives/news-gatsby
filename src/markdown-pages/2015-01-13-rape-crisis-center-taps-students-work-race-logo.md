@@ -11,7 +11,7 @@ slug: rape-crisis-center-taps-student&apos;s-work-for-race-logo
 <span class="date">Posted on Jan 13, 2015    </span>
 <p>As publicity kicks in for the annual Together with Love 5 and
 10K run, colorful posters are popping up around the local area.</p>
-<p><img alt="Race logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/twl_2015_design_final.jpg" style="width:350px; height:248px; float:left">The artwork was
+<p><img alt="Race logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/twl_2015_design_final.jpg" style="width:350px; height:248px; float:left">The artwork was
 done by CSU Monterey Bay student Diana Mejia in Professor Bobbi
 Long&#x2019;s introduction to digital graphic design class.</img></p>
 <p>This is the fifth year the Monterey County Rape Crisis Center,
@@ -50,7 +50,7 @@ a client,&#x201D; Professor Long said. &#x201C;They learn business design
 practices and project management and acquire advanced digital
 production skills while creating professional quality projects for
 community clients,&#x201D; she said.</p>
-<p>Learn more about the <a href="http://itcd.csumb.edu/bs-cd" rel="nofollow">communication design program</a> at CSUMB.<br>
+<p>Learn more about the <a href="https://itcd.csumb.edu/bs-cd" rel="nofollow">communication design program</a> at CSUMB.<br>
 &#xA0;</br></p>
 <p><br>
 &#xA0;</br></p>

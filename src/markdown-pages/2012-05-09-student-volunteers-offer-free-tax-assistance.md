@@ -26,7 +26,7 @@ Saturdays in March at the university.<br>
 <br>
 The last session will be held on March 24 from 9 a.m. to noon in
 Room 115 of Valley Hall. For driving directions and a campus map,
-click <a href="http://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</br></br></p>
+click <a href="https://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</br></br></p>
 <p>Families and individuals who earned less than $50,000 in 2011
 are eligible. Filers must bring photo identification, Social
 Security card or ITIN card for workers and all family members,
@@ -49,7 +49,7 @@ help families who really need every penny. &#x201C;There are a lot of
 unclaimed credits in the system, so we try to help families get
 every credit they are eligible for. The people are very grateful,&#x201D;
 Warner said. &#xA0;</p>
-<p><img alt="Business students will prepare taxes for those who qualify" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/income_tax_1.jpg" style="float:right; width:250px; height:250px">According to Dr.
+<p><img alt="Business students will prepare taxes for those who qualify" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/income_tax_1.jpg" style="float:right; width:250px; height:250px">According to Dr.
 Cathy Ku, professor of accounting at CSUMB, &#x201C;It&#x2019;s a good service
 learning opportunity for students. The first year &#x2013; 2010 &#x2013; five
 students participated. Last year, 20 students volunteered at eight
@@ -70,7 +70,7 @@ qualify.<br>
 deposit to the taxpayer&#x2019;s bank account and no hidden fees,&#x201D; said
 Fatima Dias, director of marketing and communication for United
 Way.</br></br></br></br></br></br></p>
-<p>To learn more about the School of Business, click <a href="http://business.csumb.edu/" rel="nofollow">here</a>.</p>
+<p>To learn more about the School of Business, click <a href="https://business.csumb.edu/" rel="nofollow">here</a>.</p>
 
 
 

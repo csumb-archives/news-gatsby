@@ -58,12 +58,12 @@ date: January 01 2020
   changing needs.
 </p>
 <p>
-  <a href="http://instagram.com/p/rIBvd-rmPw"
+  <a href="https://instagram.com/p/rIBvd-rmPw"
     >Watch a short video on Instagram</a
   >
 </p>
 <p>
-  <a href="http://eosp.csumb.edu/educational-opportunity-program"
+  <a href="https://eosp.csumb.edu/educational-opportunity-program"
     >Learn about CSUMB’s early outreach and support programs</a
   ><em
     >Photos and video by Patia Stephens Top: Monterey County Office of Education

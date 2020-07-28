@@ -10,7 +10,7 @@ slug: upward-bound-program-continues-to-soar
 
 <span class="date">Posted on Jun 13, 2012    </span>
 <h3>CSUMB lands $2.7 million for pre-college program</h3>
-<p><img alt="Upward Bound makes college real for many students" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ub_small.jpg" style="float:left; width:300px; height:170px">CSU Monterey Bay&#x2019;s
+<p><img alt="Upward Bound makes college real for many students" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ub_small.jpg" style="float:left; width:300px; height:170px">CSU Monterey Bay&#x2019;s
 Upward Bound program will continue to soar for at least five more
 years &#x2013; and better than ever.</img></p>
 <p>The program &#x2013; which guides low-income and first-generation
@@ -38,7 +38,7 @@ education.</p>
 <p>&#x201C;Upward Bound empowers students by giving them the skills to
 succeed not just in college, but in life,&#x201D; said Perry Angle, CSUMB
 director of early outreach and support programs.</p>
-<p>To read more about Upward Bound at CSUMB, click <a href="http://eosp.csumb.edu/upward-bound" rel="nofollow">here</a>.</p>
+<p>To read more about Upward Bound at CSUMB, click <a href="https://eosp.csumb.edu/upward-bound" rel="nofollow">here</a>.</p>
 
 
 

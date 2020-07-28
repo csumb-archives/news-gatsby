@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   <strong>SEASIDE, Ca., Nov. 8, 2016 &#45;&#45;</strong> President Eduardo Ochoa
   is one of 25 leaders recognized by Hispanic Outlook in Higher Education’s “<a
-    href="http://www.hispanicoutlook.com/prnewswire/2016/10/17/hispanic&#45;leaders&#45;and&#45;role&#45;models&#45;in&#45;higher&#45;education"
+    href="https://www.hispanicoutlook.com/prnewswire/2016/10/17/hispanic&#45;leaders&#45;and&#45;role&#45;models&#45;in&#45;higher&#45;education"
     >Hispanic Leaders and Role Models in Higher Education</a
   >.”
 </p>

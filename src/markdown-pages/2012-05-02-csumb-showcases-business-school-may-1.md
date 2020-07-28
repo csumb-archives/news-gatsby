@@ -33,7 +33,7 @@ will also be presented at the showcase.<br>
 Dr. Marylou Shockley, chair of the School of Business. &#x201C;We want to
 celebrate them, and we want the business community to do that with
 us &#x2013; especially those who are employers in the area.&#x201D;</br></br></br></br></p>
-<p>More information is available <a href="http://business.csumb.edu/school-business-showcase" rel="nofollow">here</a>.&#xA0;</p>
+<p>More information is available <a href="https://business.csumb.edu/school-business-showcase" rel="nofollow">here</a>.&#xA0;</p>
 
 
 

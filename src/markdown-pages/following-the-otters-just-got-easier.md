@@ -10,7 +10,7 @@ date: January 01 2020
   All of these options are available by clicking “Connect With the Otters” from
   the
   <a
-    href="http://www.otterathletics.com/sports/2011/3/15/GEN_0315113623.aspx?id=238"
+    href="https://www.otterathletics.com/sports/2011/3/15/GEN_0315113623.aspx?id=238"
     >multimedia link</a
   >
   or by searching the specific sites directly. The options include:
@@ -18,7 +18,7 @@ date: January 01 2020
 <p>
   • OtterAthletics.com •
   <a
-    href="http://www.otterathletics.com/mobile"
+    href="https://www.otterathletics.com/mobile"
     title="www.otterathletics.com/mobile"
     >www.otterathletics.com/mobile</a
   >

@@ -15,7 +15,7 @@ date: January 01 2020
 </p>
 <p>
   The
-  <a href="http://www.calstate.edu/foundation/trusteesawards"
+  <a href="https://www.calstate.edu/foundation/trusteesawards"
     >Trustees’ Awards</a
   >
   are the highest recognition of student achievement in the California State

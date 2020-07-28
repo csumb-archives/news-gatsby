@@ -12,7 +12,7 @@ slug: sketching-out-a-career-in-science
 <p>A coloring book is helping children in New Zealand learn about
 that country&#x2019;s marine environment, thanks to the work of a graduate
 of CSU Monterey Bay&#x2019;s Science Illustration program.</p>
-<p><img alt="Corlis Schneider" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/corlis_small.jpg" style="float:right; width:300px; height:415px">Corlis Schneider,
+<p><img alt="Corlis Schneider" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/corlis_small.jpg" style="float:right; width:300px; height:415px">Corlis Schneider,
 who earned a certificate from the program in 2011, created
 illustrations for the book as part of an internship at the New
 Zealand Marine Studies Centre and Aquarium in Dunedin.</img></p>

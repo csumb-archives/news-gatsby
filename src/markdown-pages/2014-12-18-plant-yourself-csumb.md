@@ -8,7 +8,7 @@ slug: plant-yourself-at-csumb
 
 <span class="date">Posted on Dec 18, 2014 </span>
 
-<p><img alt="Volunteers plant more than 22,000 natives each year" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ron_photo.jpg" style="float:left; width:550px; height:275px">Return of the
+<p><img alt="Volunteers plant more than 22,000 natives each year" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ron_photo.jpg" style="float:left; width:550px; height:275px">Return of the
 Natives, the education and outreach arm of CSU Monterey Bay&#x2019;s
 Watershed Institute, has a big idea for 2015.<br>
 <br>
@@ -33,7 +33,7 @@ watersheds of the Monterey Bay.<br>
 Over the past 20 years, more than 75,000 school children, 450 CSUMB
 students, 6,500 youth and 1,300 Monterey County families have
 worked with RON.</br></br></p>
-<p><a href="http://ron.csumb.edu" rel="nofollow">Learn more about
+<p><a href="https://ron.csumb.edu" rel="nofollow">Learn more about
 RON</a></p>
 <p><a href="https://www.montereycountygives.com/" rel="nofollow">Learn more about Monterey County Gives</a><br>
 &#xA0;</br></p>
@@ -46,12 +46,12 @@ future, solidifying a passion and commitment to service . .
 <div class="field field-type-emvideo field-field-attach-video">
 <div class="field-items">
 <div class="field-item odd">
-<div class="emvideo emvideo-video emvideo-vimeo"><object type="application/x-shockwave-flash" width="425" height="350" data="http://www.vimeo.com/moogaloop.swf?clip_id=93193169&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=">
+<div class="emvideo emvideo-video emvideo-vimeo"><object type="application/x-shockwave-flash" width="425" height="350" data="https://www.vimeo.com/moogaloop.swf?clip_id=93193169&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=">
 <param name="quality" value="best">
 <param name="wmode" value="transparent">
 <param name="allowfullscreen" value="true">
 <param name="scale" value="showAll">
-<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=93193169&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color="/></param></param></param></param></object></div>
+<param name="movie" value="https://www.vimeo.com/moogaloop.swf?clip_id=93193169&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color="/></param></param></param></param></object></div>
 </div>
 </div>
 </div>

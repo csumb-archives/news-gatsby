@@ -9,7 +9,7 @@ slug: egyptian-human-rights-activist-visits-oct.-28
 
 
 <span class="date">Posted on Oct 01, 2013    </span>
-<p><img alt="Gihan Abou Zeid visits campus Oct. 28" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/gihan.jpg" style="float:right; width:300px; height:200px">Egyptian human
+<p><img alt="Gihan Abou Zeid visits campus Oct. 28" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/gihan.jpg" style="float:right; width:300px; height:200px">Egyptian human
 rights activist, journalist and author Gihan Abou Zeid will speak
 at CSU Monterey Bay on Oct. 28. Her topic: &#x201C;Egypt&#x2019;s women push back
 against the past.&#x201D;</img></p>
@@ -27,7 +27,7 @@ organizations.</p>
 <p>The public is invited to this free event, but attendees are
 asked to RSVP to <a href="mailto:hwilde@csumb.edu">hwilde@csumb.edu</a> or call
 582-3890.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>. Visitors are
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>. Visitors are
 reminded that a parking permit must be purchased from a dispenser
 on the parking lot.</p>
 <p>The talk is sponsored by the Division of Social, Behavioral and

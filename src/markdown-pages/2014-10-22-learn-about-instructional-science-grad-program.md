@@ -35,12 +35,12 @@ slug: learn-about-instructional-science-grad-program
 </p>
 <p>
   More information about the MIST program is available
-  <a href="http://itcd.csumb.edu/mist" rel="nofollow">online</a>, by calling
+  <a href="https://itcd.csumb.edu/mist" rel="nofollow">online</a>, by calling
   831-582-4790 or by e-mailing
   <a href="mailto:mist@csumb.edu">mist@csumb.edu</a>.
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps" rel="nofollow">here</a>.
+  <a href="https://csumb.edu/maps" rel="nofollow">here</a>.
 </p>
 ```

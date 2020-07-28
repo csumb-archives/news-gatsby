@@ -20,7 +20,7 @@ Research Building on the main quad.</p>
 Air Pollution Control District. It is intended to encourage people
 to commute to campus via bicycle &#x2013; and reduce harmful greenhouse
 gas emissions from vehicle traffic.</p>
-<p><img alt="TRIPwise logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/logo_2_inch_wide_041511.jpg" style="float:left; width:300px; height:136px">The contest is open
+<p><img alt="TRIPwise logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/logo_2_inch_wide_041511.jpg" style="float:left; width:300px; height:136px">The contest is open
 to students of CSUMB, Monterey Peninsula College and the Monterey
 Institute of International Studies. &#xA0;Entries will be judged on
 feasibility, creativity, sustainability, place-making, flow and
@@ -52,7 +52,7 @@ built as proposed, at the discretion of CSUMB Campus Planning &amp;
 Development.</p>
 <p>For additional information, please contact Megan Tolbert at
 582-4262 or at mtolbert@csumb.edu.&#xA0;</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 
 
 

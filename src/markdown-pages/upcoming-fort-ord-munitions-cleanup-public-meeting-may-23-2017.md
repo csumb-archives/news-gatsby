@@ -14,7 +14,7 @@ date: January 01 2020
 <p>
   This is a
   <a
-    href="http://fortordcleanup.com/archives/2017/invitation&#45;may&#45;23&#45;fort&#45;ord&#45;national&#45;monument&#45;northern&#45;portion&#45;us&#45;army&#45;munitions&#45;cleanup&#45;kickoff&#45;meeting/"
+    href="https://fortordcleanup.com/archives/2017/invitation&#45;may&#45;23&#45;fort&#45;ord&#45;national&#45;monument&#45;northern&#45;portion&#45;us&#45;army&#45;munitions&#45;cleanup&#45;kickoff&#45;meeting/"
     >public notice regarding upcoming munitions cleanup activities</a
   >
   from the U.S. Army Fort Ord Cleanup and the Bureau of Land Management:

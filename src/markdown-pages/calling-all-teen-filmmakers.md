@@ -18,7 +18,7 @@ date: January 01 2020
   Filmmakers between 13 and 19 years old are invited to submit films and videos
   up to five minutes in length. Entries may be in English or Spanish and there
   is no entry fee.
-  <a href="http://montereybayfilmfestival.com."
+  <a href="https://montereybayfilmfestival.com."
     >Entries may be submitted online</a
   >. TAT students will organize the event and handle the judging, according to
   Professor Enid Baxter Blader. "It's an educational experience for our

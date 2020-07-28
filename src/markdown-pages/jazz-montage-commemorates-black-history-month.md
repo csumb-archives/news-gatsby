@@ -33,8 +33,8 @@ date: January 01 2020
   hit people over the head. We’ve been told by people that after they’ve heard
   the program, they want to go out and learn.” Tickets are $5 and can be
   purchased online at
-  <a href="http://worldtheater.csumb.edu" title="http://worldtheater.csumb.edu"
-    >http://worldtheater.csumb.edu</a
+  <a href="https://worldtheater.csumb.edu" title="https://worldtheater.csumb.edu"
+    >https://worldtheater.csumb.edu</a
   >
   or by calling the World Theater box office 582-4580. The event is sponsored by
   Student Activities and Leadership Development, Associated Students, College of

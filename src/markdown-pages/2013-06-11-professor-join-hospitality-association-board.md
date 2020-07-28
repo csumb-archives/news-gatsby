@@ -12,7 +12,7 @@ slug: professor-to-join-hospitality-association-board
 <p>John Avella has been elected to the Monterey County Hospitality
 Association&#x2019;s board of directors.<br>
 <br>
-<img alt="Professor John Avella" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/avella.john_.web_.jpg" style="float:left; width:250px; height:270px">Dr. Avella,
+<img alt="Professor John Avella" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/avella.john_.web_.jpg" style="float:left; width:250px; height:270px">Dr. Avella,
 assistant professor of hospitality management and hotel/resort
 management in CSU Monterey Bay&apos;s School of Business, will join the
 board in January. He&#x2019;ll serve on the association&#x2019;s education
@@ -47,7 +47,7 @@ Among his research interests is the application of emotional
 intelligence to customer service/loyalty, emotional labor and
 leadership. He has developed a process that teaches people to
 &#x201C;connect&#x201D; to the customer and staff to create loyalty.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></br></br></p>
-<p><a href="http://csumb.edu/business" rel="nofollow">Learn more
+<p><a href="https://csumb.edu/business" rel="nofollow">Learn more
 about the School of Business at CSUMB</a>.</p>
 <p><a href="../../nov/25/faculty-highlights.html" rel="nofollow"><em>Read more faculty news</em></a><br>
 &#xA0;</br></p>

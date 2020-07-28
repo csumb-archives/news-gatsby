@@ -43,7 +43,7 @@ System Aqua and Terra satellites.<br>
 <br>
 Under the direction of the CSUMB team, the NASA model has been
 applied to many regions throughout the world, with particular focus
-on <a href="http://geo.arc.nasa.gov/sge/casa/" rel="nofollow">watersheds in California</a>. On this project, the team
+on <a href="https://geo.arc.nasa.gov/sge/casa/" rel="nofollow">watersheds in California</a>. On this project, the team
 will continue using this model to generate 1 km resolution maps of
 soil moisture, potential and actual evapotranspiration, volumetric
 water content, and runoff in Brazil and Mexico. The team has
@@ -68,12 +68,12 @@ and intensity, will be provided to help them gauge the level of the
 threat.<br>
 <br>
 For more information:<br>
-<a href="http://geo.arc.nasa.gov/sge/casa/" rel="nofollow">NASA-CASA Project website</a><br>
-<a href="http://hydrology.asu.edu" rel="nofollow">ASU
+<a href="https://geo.arc.nasa.gov/sge/casa/" rel="nofollow">NASA-CASA Project website</a><br>
+<a href="https://hydrology.asu.edu" rel="nofollow">ASU
 Hydrology</a><br>
-<a href="http://planetaryskin.org/rd-programs/water/global-drought-monitoring" rel="nofollow">Planetary Skin Institute</a><br>
+<a href="https://planetaryskin.org/rd-programs/water/global-drought-monitoring" rel="nofollow">Planetary Skin Institute</a><br>
 &#xA0;</br></br></br></br></br></br></p>
-<p><img alt="Drought monitoring " src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/drought-monitoring.jpg" style="width:600px; height:370px"><br>
+<p><img alt="Drought monitoring " src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/drought-monitoring.jpg" style="width:600px; height:370px"><br>
 Title: Drought Monitoring #1<br>
 <em>PSI ALERTS, a platform for visualizing natural resources and
 aiding decisions. Here, ALERTS shows vegetation disturbances

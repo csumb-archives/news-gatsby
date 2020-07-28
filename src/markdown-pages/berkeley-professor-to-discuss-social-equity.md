@@ -36,5 +36,5 @@ date: January 01 2020
   Technology Group, Arts Council for Monterey County, Pebble Beach Company and
   United Way Monterey County.
 </p>
-<p><a href="http://csumb.edu/maps">Driving directions and a campus map</a></p>
+<p><a href="https://csumb.edu/maps">Driving directions and a campus map</a></p>
 ```

@@ -48,9 +48,9 @@ date: January 01 2020
   Pictured above is the installation by Adam Flores at the Service Learning
   Building. To see more photos, visit
   <a
-    href="http://vpa.csumb.edu/peoplearetalking.htm"
-    title="http://vpa.csumb.edu/peoplearetalking.htm"
-    >http://vpa.csumb.edu/peoplearetalking.htm</a
+    href="https://vpa.csumb.edu/peoplearetalking.htm"
+    title="https://vpa.csumb.edu/peoplearetalking.htm"
+    >https://vpa.csumb.edu/peoplearetalking.htm</a
   >
 </p>
 ```

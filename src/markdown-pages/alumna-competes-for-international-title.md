@@ -9,7 +9,7 @@ date: January 01 2020
 <p>
   “Saltwater runs through my veins,” said Chanel Hason, a 2010 graduate of the
   <a
-    href="http://catalog.csumb.edu/undergrad-education/majors/environmental-science-technology-policy"
+    href="https://catalog.csumb.edu/undergrad-education/majors/environmental-science-technology-policy"
     >Environmental Science, Technology and Policy</a
   >
   program.

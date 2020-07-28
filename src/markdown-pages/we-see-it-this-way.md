@@ -61,7 +61,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2014/may/12/news/capping-college-senior-projects"
+    href="https://news.csumb.edu/news/2014/may/12/news/capping-college-senior-projects"
     >Read more about the Capstone Festival at CSUMB</a
   >
 </p>

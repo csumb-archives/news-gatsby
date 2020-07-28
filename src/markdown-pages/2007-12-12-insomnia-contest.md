@@ -37,7 +37,7 @@ Campbell, Adam Newacheck, Haley Pikhart and Derek Tekus - placed
 <p>They contest rules promised them a showing in a nearby Apple
 store, but that hasn&apos;t yet been arranged. Stay tuned.</p>
 <p>Here&apos;s the link to the contest
-website:http://edcommunity.apple.com/insomnia_fall07/collection.php?collectionID=5<br>
+website:https://edcommunity.apple.com/insomnia_fall07/collection.php?collectionID=5<br>
 </br></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>

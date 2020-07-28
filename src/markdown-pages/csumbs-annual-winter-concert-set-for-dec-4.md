@@ -24,10 +24,10 @@ date: January 01 2020
   The event is free; no tickets or reservations are required. Free parking is
   available in the lot adjacent to the theater. For more information or to
   request disability accommodations, call 582-3009. For driving directions and a
-  campus map, click <a href="http://csumb.edu/map">here</a>.
+  campus map, click <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   To learn more about the Music and Performing Arts program, click
-  <a href="http://mpa.csumb.edu/">here</a>.
+  <a href="https://mpa.csumb.edu/">here</a>.
 </p>
 ```

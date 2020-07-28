@@ -12,7 +12,7 @@ date: January 01 2020
 <p>
   Learn more about campus closure dates on the
   <a
-    href="http://catalog.csumb.edu/introduction/calendars/2011-2012-academic-calendar"
+    href="https://catalog.csumb.edu/introduction/calendars/2011-2012-academic-calendar"
     >Academic Calendar</a
   >.
 </p>

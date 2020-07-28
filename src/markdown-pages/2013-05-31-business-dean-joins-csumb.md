@@ -11,7 +11,7 @@ slug: business-dean-joins-csumb
 <span class="date">Posted on May 31, 2013    </span>
 <p>CSU Monterey Bay President Eduardo Ochoa has named Shyam Kamath
 dean of the university&#x2019;s College of Business Administration.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/shyam_kamath_mugshot.jpg" style="float:right; width:300px; height:332px">Dr. Kamath assumes
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/shyam_kamath_mugshot.jpg" style="float:right; width:300px; height:332px">Dr. Kamath assumes
 leadership of the newly created college on Sept. 1.</img></p>
 <p>&#x201C;I am delighted to join CSUMB as the founding dean of the new
 College of Business. I look forward to building on the excellent

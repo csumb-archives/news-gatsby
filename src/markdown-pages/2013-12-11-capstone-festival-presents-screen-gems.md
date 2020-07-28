@@ -19,11 +19,11 @@ at 6 p.m. Admission and parking are free.<br>
 The Capstone Festival will feature 11 professional-quality
 productions spanning a range of genres, including comedic and
 dramatic live-action movies, as well as animation, documentary and
-experimental work produced by students of CSUMB&#x2019;s <a href="http://tat.csumb.edu/" rel="nofollow">Department of Cinematic Arts
+experimental work produced by students of CSUMB&#x2019;s <a href="https://tat.csumb.edu/" rel="nofollow">Department of Cinematic Arts
 and Technology.</a><br>
 <br>
 The program includes director Tia Beem&#x2019;s <em>Science Time</em>, a
-puppet-populated educational&#xA0;<img alt="A still from " src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/heartbreak_syndrome_for_web.jpg" style="float:left; width:300px; height:250px">experience, where
+puppet-populated educational&#xA0;<img alt="A still from " src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/heartbreak_syndrome_for_web.jpg" style="float:left; width:300px; height:250px">experience, where
 learning meets uproarious fun, and Alexandra Davis and Elissa
 Barton&#x2019;s <em>Heartbreak Syndrome</em> (left), a bittersweet and
 sassy comedy exploring how we act and react when grieving a lost
@@ -73,7 +73,7 @@ Society.<br>
 <a href="../../../../gallery/fall-capstone-festival-presents-screen-gems.html" rel="nofollow">See a photo gallery of stills from all 11
 films.</a><br>
 <br>
-<a href="http://capstonefestival.csumb.edu/" rel="nofollow">Complete Capstone Festival schedule, including work by
+<a href="https://capstonefestival.csumb.edu/" rel="nofollow">Complete Capstone Festival schedule, including work by
 students in all academic departments, is available here</a>.<br>
 &#xA0;</br></br></br></br></br></p>
 

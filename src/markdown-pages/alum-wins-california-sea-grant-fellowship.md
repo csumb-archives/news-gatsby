@@ -49,7 +49,7 @@ date: January 01 2020
 </p>
 <p>
   Learn about the Coastal and Watershed Science and Policy program
-  <a href="http://sep.csumb.edu/cwsp/">here</a>.
+  <a href="https://sep.csumb.edu/cwsp/">here</a>.
 </p>
 <p></p>
 ```

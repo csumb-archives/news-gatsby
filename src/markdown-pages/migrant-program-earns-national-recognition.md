@@ -57,6 +57,6 @@ date: January 01 2020
   myself, 'CSUMB CAMP will be on that list one day.' And we made it in the third
   year. It is exciting to see our program succeed tremendously in such a short
   time." To learn more about CAMP at CSUMB, and to view a video about the
-  program, click <a href="http://csumb.edu/camp">here</a>.
+  program, click <a href="https://csumb.edu/camp">here</a>.
 </p>
 ```

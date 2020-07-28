@@ -30,9 +30,9 @@ date: January 01 2020
   women’s basketball and volleyball games have been mandated by the California
   Collegiate Athletic Association and are available via the CCAA Network at
   <a
-    href="http://goccaa.org/sports/2009/8/26/ccaanetwork.aspx"
-    title="http://goccaa.org/sports/2009/8/26/ccaanetwork.aspx"
-    >http://goccaa.org/sports/2009/8/26/ccaanetwork.aspx</a
+    href="https://goccaa.org/sports/2009/8/26/ccaanetwork.aspx"
+    title="https://goccaa.org/sports/2009/8/26/ccaanetwork.aspx"
+    >https://goccaa.org/sports/2009/8/26/ccaanetwork.aspx</a
   >.
 </p>
 <p>

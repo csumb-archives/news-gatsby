@@ -66,7 +66,7 @@ date: January 01 2020
   partnerships, and measurable community outcomes as a result of the service.
 </p>
 <p>
-  <a href="http://csumb.edu/service"
+  <a href="https://csumb.edu/service"
     >Learn more about Service Learning at CSUMB.</a
   >
 </p>

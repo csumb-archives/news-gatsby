@@ -9,7 +9,7 @@ slug: salomejens
 
 
 <span class="date">Posted on Nov 17, 2006    </span>
-<img height="156" alt="Salome Jens - Acting Advice" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/salomejens3.jpg" width="620">
+<img height="156" alt="Salome Jens - Acting Advice" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/salomejens3.jpg" width="620">
 <p>Actress Salome Jens brought the poetry of Anne Sexton to the
 World Theater stage with her one-woman performance, About Anne, in
 November. The New York Times raved about the play, calling it &quot;a

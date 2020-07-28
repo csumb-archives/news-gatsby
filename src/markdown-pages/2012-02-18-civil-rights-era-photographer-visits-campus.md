@@ -37,7 +37,7 @@ Smithsonian traveling exhibits and been reproduced globally in
 print, film, and electronic media.</p>
 <p>He has captured images of the farm worker movement, Dorothy Day
 and the Catholic Workers, and Joan Baez and the peace movement, as
-well as the Civil Rights movement. Visit his <a href="http://bobfitchphoto.com" rel="nofollow">website</a>&#xA0;to see
+well as the Civil Rights movement. Visit his <a href="https://bobfitchphoto.com" rel="nofollow">website</a>&#xA0;to see
 some of his work.</p>
 <p>He lives in Watsonville and stays active in local political
 empowerment campaigns and non-violent campaigns for peace and

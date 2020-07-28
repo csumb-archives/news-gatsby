@@ -14,7 +14,7 @@ seminar</h3>
 <p>Ian Olden of CSU Monterey Bay was one of 28 students who
 attended the Panetta Institute for Public Policy&#x2019;s annual Student
 Leadership Seminar in June.</p>
-<p><img alt="AS President Ian Olden" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/olden.ian_for_web.jpg" style="float:left; width:300px; height:319px">Olden, a
+<p><img alt="AS President Ian Olden" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/olden.ian_for_web.jpg" style="float:left; width:300px; height:319px">Olden, a
 fourth-year psychology major from Inglewood, clearly has a passion
 for leadership. He was elected Associated Students president for
 the upcoming school year on a campaign platform of &quot;Building a
@@ -40,8 +40,8 @@ it gives you insight into that you&#x2019;re doing more than just
 <em>talking</em> about making a difference,&#x201D; Olden told KION.
 &#x201C;You&#x2019;re learning how to <em>make</em> a difference.&#x201D;<br>
 <br>
-<a href="http://as.csumb.edu/?_csumbsearch=Associated%2BStudents" rel="nofollow">Learn about Associated Students at CSUMB</a></br></br></p>
-<p><a href="http://www.panettainstitute.org/programs/study-with-us/student-leadership-training/" rel="nofollow">Read more about the Student Leadership Institute at
+<a href="https://as.csumb.edu/?_csumbsearch=Associated%2BStudents" rel="nofollow">Learn about Associated Students at CSUMB</a></br></br></p>
+<p><a href="https://www.panettainstitute.org/programs/study-with-us/student-leadership-training/" rel="nofollow">Read more about the Student Leadership Institute at
 the Panetta Institute</a><br>
 &#xA0;</br></p>
 

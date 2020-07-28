@@ -64,7 +64,7 @@ date: January 01 2020
 </p>
 <p>
   For more information, visit the RecycleMania website or CSUMB's
-  <a href="http://ideals.csumb.edu/news/students-work-make-university-green"
+  <a href="https://ideals.csumb.edu/news/students-work-make-university-green"
     >webpage</a
   >. To view the weekly results compiled by residence hall, check the display
   cases in front of the Otter Express.

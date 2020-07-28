@@ -11,8 +11,8 @@ slug: csumb-recognized-for-preparedness-efforts
 <span class="date">Posted on Sep 08, 2014    </span>
 <p>CSU Monterey Bay&#x2019;s efforts to prepare for natural disasters have
 won recognition from the National Weather Service.</p>
-<p><img alt="CSUMB emergency manager Dick Bower" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/dick_bower_and_nws_person_for_web.jpg" style="width:300px; height:303px; float:left">The university has
-recently been named a <a href="http://www.nws.noaa.gov/com/weatherreadynation/ambassadors.html#.U6xKxv1D7Ys" rel="nofollow">Weather-Ready Nation Ambassador</a> and a Storm
+<p><img alt="CSUMB emergency manager Dick Bower" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/dick_bower_and_nws_person_for_web.jpg" style="width:300px; height:303px; float:left">The university has
+recently been named a <a href="https://www.nws.noaa.gov/com/weatherreadynation/ambassadors.html#.U6xKxv1D7Ys" rel="nofollow">Weather-Ready Nation Ambassador</a> and a Storm
 Ready university.</img></p>
 <p>The ambassador designation means that the university will work
 with the National Weather Service to educate the community about
@@ -23,11 +23,11 @@ universities, businesses, government agencies, non-profits &#x2013;
 committed to helping the nation be better prepared for, respond to,
 and recover from weather-related disasters.<br>
 <br>
-CSUMB is the <a href="http://www.stormready.noaa.gov/university.htm" rel="nofollow">ninth campus in California</a> &#x2013; and second in the CSU
+CSUMB is the <a href="https://www.stormready.noaa.gov/university.htm" rel="nofollow">ninth campus in California</a> &#x2013; and second in the CSU
 system &#x2013; to be designated storm-ready. Nationwide, 147 colleges and
 universities have earned the designation.<br>
 <br>
-<a href="http://www.stormready.noaa.gov/" rel="nofollow">StormReady</a> is a nationwide community preparedness
+<a href="https://www.stormready.noaa.gov/" rel="nofollow">StormReady</a> is a nationwide community preparedness
 program that uses a grassroots approach to help communities develop
 plans to handle all types of severe weather &#x2014; from tornadoes to
 tsunamis.</br></br></br></br></p>
@@ -44,7 +44,7 @@ Approximately 90 percent of all presidentially declared disasters
 are weather related, leading to around 500 deaths per year and
 billions of dollars in damage.<br>
 <br>
-<a href="http://police.csumb.edu/emergency-management" rel="nofollow">Learn about emergency management at CSUMB</a>.</br></br></br></br></br></br></p>
+<a href="https://police.csumb.edu/emergency-management" rel="nofollow">Learn about emergency management at CSUMB</a>.</br></br></br></br></br></br></p>
 
 
 

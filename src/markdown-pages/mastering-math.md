@@ -9,7 +9,7 @@ date: January 01 2020
 <p>
   More than 100 incoming eighth-graders will spend the last days of their summer
   break immersed in math at the
-  <a href="http://www.algebraacademy.net">Bruce W. Woolpert Algebra Academy</a>,
+  <a href="https://www.algebraacademy.net">Bruce W. Woolpert Algebra Academy</a>,
   which began Aug. 7 at Graniterock headquarters in Watsonville.
 </p>
 <p>
@@ -35,7 +35,7 @@ date: January 01 2020
   the Future of Teaching and Learning at WestEd and released in 2012. The
   Sacramento nonprofit focuses on policies and practices to improve teaching.
   (<a
-    href="http://www.cftl.org/documents/2012/CFTL_MathPatterns_Main_Report.pdf"
+    href="https://www.cftl.org/documents/2012/CFTL_MathPatterns_Main_Report.pdf"
     >Read the WestEd report here.</a
   >) And that reinforces a point Dr. Hu makes every chance he gets. Algebra is
   “the gateway” to studies in college, he says. “Without it, there’s no way

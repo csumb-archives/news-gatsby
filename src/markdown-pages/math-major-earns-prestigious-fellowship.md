@@ -44,7 +44,7 @@ date: January 01 2020
 <p>
   •
   <a
-    href="http://news.csumb.edu/news/2012/apr/19/math-teacher-be-adds-100k-stipends"
+    href="https://news.csumb.edu/news/2012/apr/19/math-teacher-be-adds-100k-stipends"
     >Christina Depweg</a
   >, who graduated in May, was awarded a Math for America fellowship to pay for
   graduate school at USC and to supplement her salary as a math teacher for the
@@ -53,7 +53,7 @@ date: January 01 2020
 </p>
 <p>
   •
-  <a href="http://news.csumb.edu/news/2012/jun/11/csumbs-star-interns-nasa"
+  <a href="https://news.csumb.edu/news/2012/jun/11/csumbs-star-interns-nasa"
     >Kim Margosian</a
   >
   is spending her summer at NASA’s Dryden Flight Research Center at Edwards Air
@@ -62,7 +62,7 @@ date: January 01 2020
   better understand physical phenomena.
 </p>
 <p>
-  <a href="http://csumb.edu/math"
+  <a href="https://csumb.edu/math"
     >Learn more about the Department of Mathematics at CSUMB</a
   >.
 </p>

@@ -58,7 +58,7 @@ date: January 01 2020
   <em
     >Zoe Carter, another CSUMB graduate, was a White House intern last fall.
     Read her story
-    <a href="http://news.csumb.edu/news/2012/jan/22/alumna-interns-white-house"
+    <a href="https://news.csumb.edu/news/2012/jan/22/alumna-interns-white-house"
       >here</a
     >.</em
   >

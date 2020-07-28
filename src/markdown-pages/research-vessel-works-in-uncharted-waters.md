@@ -53,6 +53,6 @@ date: January 01 2020
 </p>
 <p>
   Learn more about the Seafloor Mapping Project
-  <a href="http://seafloor.csumb.edu/">here</a>.
+  <a href="https://seafloor.csumb.edu/">here</a>.
 </p>
 ```

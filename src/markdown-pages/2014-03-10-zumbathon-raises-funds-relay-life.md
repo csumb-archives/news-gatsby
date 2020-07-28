@@ -13,7 +13,7 @@ slug: zumbathon-raises-funds-for-relay-for-life
 <p>The CSU Monterey Bay Rotaract Club will host a Zumbathon to
 benefit the American Cancer Society&#x2019;s Relay for Life from 10 a.m.
 to noon, Saturday, March 29 at Water City Skate in Marina.</p>
-<p><img alt="Zumba logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/zumbathon_logo_for_web.jpg" style="float:left; width:250px; height:293px">Relay for Life is
+<p><img alt="Zumba logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/zumbathon_logo_for_web.jpg" style="float:left; width:250px; height:293px">Relay for Life is
 more than just a fundraiser. It&#x2019;s a time to &#x201C;celebrate, remember
 and fight back&#x201D; against cancer. CSUMB Rotaract, a campus
 organization dedicated to community service and affiliated with
@@ -33,7 +33,7 @@ and we have several members from each of those institutions.&#x201D;</br></br></
 All proceeds will go to the American Cancer Society. Raffles,
 prizes and giveaways from local restaurants and businesses will be
 part of the fun.</p>
-<p><img alt="Relay for Life logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/zumba2_for_web.jpg" style="float:right; width:250px; height:265px">Relay for Life is
+<p><img alt="Relay for Life logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/zumba2_for_web.jpg" style="float:right; width:250px; height:265px">Relay for Life is
 a life-changing event that gives everyone a chance to celebrate the
 lives of those who have battled cancer, remember loved ones lost
 and fight back against the disease.</img></p>

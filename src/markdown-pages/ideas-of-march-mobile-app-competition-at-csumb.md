@@ -25,15 +25,15 @@ date: January 01 2020
   apply by Feb. 21. Food and beverages will be provided during event hours. The
   event will be held in the Media Learning Center (Bldg. 18) on the CSUMB
   campus.
-  <a href="http://csumb.edu/maps">Driving directions and a campus map.</a> To
+  <a href="https://csumb.edu/maps">Driving directions and a campus map.</a> To
   enter the competition or to submit an idea for an app, visit the
-  <a href="http://innovation.csumb.edu/ideas-march"
+  <a href="https://innovation.csumb.edu/ideas-march"
     >Institute for Innovation and Economic Development</a
   >. For information, call the institute at 582-3230. Prospective competitors
   should note that all code created during the competition will be open source
   and will be posted on the web.?
   <a
-    href="http://www.ksbw.com/news/central-california/monterey/Get-your-app-on-CSUMB-hosts-app-invention-event/9401890"
+    href="https://www.ksbw.com/news/central-california/monterey/Get-your-app-on-CSUMB-hosts-app-invention-event/9401890"
     >View a TV news story from the 2012 competition</a
   >.
 </p>

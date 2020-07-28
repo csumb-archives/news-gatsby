@@ -15,7 +15,7 @@ State and director of the National Council of La Raza/CSULB Center
 for Latino Community Health, Evaluation and Leadership Training,
 has been named the founding dean of Cal State Monterey Bay&apos;s
 College of Health Sciences and Human Services.</p>
-<p><img alt="Dr. Britt Rios-Ellis" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/dr.britt_rios_ellis.jpg" style="float:left; width:250px; height:319px">Dr. Rios-Ellis
+<p><img alt="Dr. Britt Rios-Ellis" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/dr.britt_rios_ellis.jpg" style="float:left; width:250px; height:319px">Dr. Rios-Ellis
 begins her new duties on Aug. 20.</img></p>
 <p>&#x201C;The right leadership can make all the difference in launching a
 new college. In Dr. Rios-Ellis, we have been able to attract a

@@ -10,7 +10,7 @@ slug: experience-japanese-tea-ceremony
 
 <span class="date">Posted on Sep 10, 2014    </span>
 <p>&#xA0;</p>
-<p><img alt="Tea ceremony" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/tea_ceremony.jpg" style="float:left; width:225px; height:300px"/></p>
+<p><img alt="Tea ceremony" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/tea_ceremony.jpg" style="float:left; width:225px; height:300px"/></p>
 <p>&#xA0;</p>
 <p>The School of World Languages and Cultures will hold its annual
 fall tea ceremony on Sept. 17 in the University Center living room.

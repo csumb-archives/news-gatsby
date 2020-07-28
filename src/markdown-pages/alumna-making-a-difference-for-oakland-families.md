@@ -86,7 +86,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://sanfrancisco.cbslocal.com/2013/04/10/jefferson-award-winner-helps-oakland-preschoolers-thrive/"
+    href="https://sanfrancisco.cbslocal.com/2013/04/10/jefferson-award-winner-helps-oakland-preschoolers-thrive/"
     >View a video from KPIX.</a
   >
 </p>

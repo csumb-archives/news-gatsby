@@ -11,7 +11,7 @@ slug: capstone-story
 <span class="date">Posted on May 04, 2009    </span>
 <h4>Capstone Festival gets under way May 8<br>
 <em>Most presentations May 14-15</em></br></h4>
-<p><img alt="TRistan Manssone-Perrone" height="182" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Capstone%20story.JPG" style="float:left" width="250">California State University,
+<p><img alt="TRistan Manssone-Perrone" height="182" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Capstone%20story.JPG" style="float:left" width="250">California State University,
 Monterey Bay will hold its 13th annual Capstone Festival starting
 on May 8 with the Policy Forum, presented by graduating students in
 the Master of Public Policy program. The forum will take place from

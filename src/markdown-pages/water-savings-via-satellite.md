@@ -66,7 +66,7 @@ date: January 01 2020
 <p>
   Listen to a
   <a
-    href="http://www.kazu.org/post/nasa-satellite-images-will-help-farmers-conserve-water"
+    href="https://www.kazu.org/post/nasa-satellite-images-will-help-farmers-conserve-water"
     >National Public Radio story about the project</a
   >.
 </p>

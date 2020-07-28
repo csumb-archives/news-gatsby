@@ -55,16 +55,16 @@ date: January 01 2020
   Following the services, CSU outreach staff and church education counselors
   will provide information about college applications and financial aid.
   Students will also be introduced to
-  <a href="http://www.csumentor.edu/">CSU Mentor</a>, the website that
+  <a href="https://www.csumentor.edu/">CSU Mentor</a>, the website that
   prospective students use to find information and apply to a CSU campus.
-  Participants will also receive the "<a href="http://www.calstate.edu/college/"
+  Participants will also receive the "<a href="https://www.calstate.edu/college/"
     >How to Get to College</a
   >" poster, which provides middle and high school students and their parents
   with step-by-step information on planning for college.
 </p>
 <p>
   For more information, visit
-  <a href="http://news.csumb.edu/site/www.calstate.edu/supersunday"
+  <a href="https://news.csumb.edu/site/www.calstate.edu/supersunday"
     >www.calstate.edu/supersunday</a
   >.
 </p>

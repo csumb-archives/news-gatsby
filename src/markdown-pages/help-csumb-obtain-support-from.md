@@ -14,8 +14,8 @@ date: January 01 2020
 <p>
   (Read the article and **download a donation form **here:
   <a
-    href="http://www.montereycountyweekly.com/archives/2009/2009-Nov-25/in-this-special-issue-the-weekly-showcases-73-local-nonprofit-initiatives-worth-supporting--and-pledges-100000-from-our-community-fund-to-match-readers-donations/1/@@index"
-    >http://www.montereycountyweekly.com/archives/2009/2009-Nov-25/in-this-special-issue-the-weekly-showcases-73-local-nonprofit-initiatives-worth-supporting--and-pledges-100000-from-our-community-fund-to-match-readers-donations/1/@@index</a
+    href="https://www.montereycountyweekly.com/archives/2009/2009-Nov-25/in-this-special-issue-the-weekly-showcases-73-local-nonprofit-initiatives-worth-supporting--and-pledges-100000-from-our-community-fund-to-match-readers-donations/1/@@index"
+    >https://www.montereycountyweekly.com/archives/2009/2009-Nov-25/in-this-special-issue-the-weekly-showcases-73-local-nonprofit-initiatives-worth-supporting--and-pledges-100000-from-our-community-fund-to-match-readers-donations/1/@@index</a
   >)
 </p>
 <p>

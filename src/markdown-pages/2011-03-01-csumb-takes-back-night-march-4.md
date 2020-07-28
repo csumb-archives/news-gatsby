@@ -20,7 +20,7 @@ her life.</em></p>
 or even 100 years ago. Historically, women faced the anxiety of
 walking alone at night and that is why Take Back the Night
 began.</p>
-<p><img alt="Take Back the Night logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/tbtn_logo.jpg" style="float:right; width:300px; height:327px">The annual Take
+<p><img alt="Take Back the Night logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/tbtn_logo.jpg" style="float:right; width:300px; height:327px">The annual Take
 Back the Night speak-out and march to protest sexual violence will
 be held from 7 to 9 p.m., March 4 at CSU Monterey Bay.</img></p>
 <p>The evening will start at 7 p.m., when people will gather in the

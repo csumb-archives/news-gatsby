@@ -23,7 +23,7 @@ date: January 01 2020
   college and schools. The Times Higher Education rankings of universities in
   Asia lists it among the top 100 schools, based on teaching, research,
   knowledge transfer and international outlook.
-  <a href="http://international.csumb.edu"
+  <a href="https://international.csumb.edu"
     >Learn more about international programs at CSUMB</a
   >.
 </p>

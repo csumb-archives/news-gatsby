@@ -40,10 +40,10 @@ date: January 01 2020
 <p>
   For more information on the exhibit and the lecture by Dr. Staples, visit the
   Steinbeck Center
-  <a href="http://www.steinbeck.org/pages/belle-yang-forget-sorrow-exhibition"
+  <a href="https://www.steinbeck.org/pages/belle-yang-forget-sorrow-exhibition"
     >online</a
   >.
-  <a href="http://vpa.csumb.edu/"
+  <a href="https://vpa.csumb.edu/"
     >Learn about CSUMB’s Visual and Public Art Department.</a
   >
 </p>

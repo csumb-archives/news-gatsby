@@ -42,7 +42,7 @@ date: January 01 2020
 <p>
   Read about Lauren’s
   <a
-    href="http://www.peacecorps.gov/index.cfm?shell=response.volstories.goodwin"
+    href="https://www.peacecorps.gov/index.cfm?shell=response.volstories.goodwin"
     >experiences in Malawi</a
   >.
 </p>

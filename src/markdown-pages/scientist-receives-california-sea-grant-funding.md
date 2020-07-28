@@ -35,7 +35,7 @@ date: January 01 2020
   more evidence to support their conservation efforts.”
 </p>
 <p>
-  <a href="http://sep.csumb.edu/sep/"
+  <a href="https://sep.csumb.edu/sep/"
     >Learn more about the Division of Science and Environmental Policy.</a
   >
 </p>

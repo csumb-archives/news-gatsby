@@ -6,7 +6,7 @@ date: January 01 2020
 
 ```html
 <p>
-  <a href="http://www.youtube.com/view_play_list?p=F609CCBE53E848D5"
+  <a href="https://www.youtube.com/view_play_list?p=F609CCBE53E848D5"
     ><strong>MEET THE ENTERING CLASS</strong></a
   >
 </p>

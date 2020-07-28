@@ -12,7 +12,7 @@ slug: symposium-explores-serra-legacy-of-franciscan-missions
 <p>Jun&#xED;pero Serra &#x2013; and the impact of the missions he founded &#x2013; is
 the subject of a symposium to be held at CSU Monterey Bay on Nov.
 19.</p>
-<p><img alt="Pillars at Mission San Miguel" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/pillars.jpg" style="float:left; width:350px; height:286px">The symposium,
+<p><img alt="Pillars at Mission San Miguel" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/pillars.jpg" style="float:left; width:350px; height:286px">The symposium,
 &#x201C;Jun&#xED;pero Serra, Native Californians and the Legacy of the
 Franciscan Missions&#x201D; coincides with the 300th anniversary of
 Serra&#x2019;s birth. Spain, Mexico and the state of California are
@@ -35,11 +35,11 @@ Canyon; Kathryn England-Aytes, a psychology lecturer at CSUMB; and
 Father Carl Faria of the Diocese of Monterey.</p>
 <p>The symposium will be held from 6:30 to 9 p.m. in the University
 Center living room. The building is located on Sixth Avenue at B
-Street. <a href="http://csumb.edu/maps" rel="nofollow">Driving
+Street. <a href="https://csumb.edu/maps" rel="nofollow">Driving
 directions and a campus map</a></p>
 <p>While the event is free, a parking permit must be purchased from
 a dispenser on the lot or <a href="https://store.csumb.edu/products/daily-parking-permit" rel="nofollow">online</a>.</p>
-<p><img alt="Dr. Ruben Mendoza" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ruben_mendoza_0.jpg" style="float:right; width:190px; height:266px">An exhibit of
+<p><img alt="Dr. Ruben Mendoza" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ruben_mendoza_0.jpg" style="float:right; width:190px; height:266px">An exhibit of
 mission photography by Dr. Ruben Mendoza, an archaeologist and
 leading expert on California missions, will open in the Student
 Center West Lounge at 5 p.m., Nov. 14, in conjunction with the
@@ -67,8 +67,8 @@ Bottom photo: CSUMB archaeology professor Ruben Mendoza</br></em></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -79,7 +79,7 @@ Bottom photo: CSUMB archaeology professor Ruben Mendoza</br></em></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r5---sn-o097znez.googlevideo.com/videoplayback?ms=au&amp;source=youtube&amp;mt=1422331698&amp;mv=m&amp;itag=18&amp;initcwndbps=3846250&amp;ip=198.189.249.65&amp;key=yt5&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;sver=3&amp;ipbits=0&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;expire=1422353334&amp;dur=431.393&amp;id=o-AAa4o-FOA5iuNBxivpihVth0hD9r-mDSc-VLJiMIJ00R&amp;ratebypass=yes&amp;pl=23&amp;signature=79D18A5416E5DBE016991F817206F0E2A105C3FF.8627A304B34F0B9A76422BC43AA3BBC1F346E29A&amp;mm=31&amp;upn=IyTAQ-ubL6o&amp;name=ERqVfXwZy2Y" type="video/mp4"/></video></div>
+<source src="https://r5---sn-o097znez.googlevideo.com/videoplayback?ms=au&amp;source=youtube&amp;mt=1422331698&amp;mv=m&amp;itag=18&amp;initcwndbps=3846250&amp;ip=198.189.249.65&amp;key=yt5&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;sver=3&amp;ipbits=0&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;expire=1422353334&amp;dur=431.393&amp;id=o-AAa4o-FOA5iuNBxivpihVth0hD9r-mDSc-VLJiMIJ00R&amp;ratebypass=yes&amp;pl=23&amp;signature=79D18A5416E5DBE016991F817206F0E2A105C3FF.8627A304B34F0B9A76422BC43AA3BBC1F346E29A&amp;mm=31&amp;upn=IyTAQ-ubL6o&amp;name=ERqVfXwZy2Y" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

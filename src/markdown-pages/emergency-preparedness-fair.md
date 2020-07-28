@@ -18,7 +18,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://police.csumb.edu/sites/default/files/79/attachments/files/2013_preparednessfairflyer.pdf"
+    href="https://police.csumb.edu/sites/default/files/79/attachments/files/2013_preparednessfairflyer.pdf"
     >View the event flyer.</a
   >
 </p>

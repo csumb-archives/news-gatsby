@@ -33,6 +33,6 @@ date: January 01 2020
 </p>
 <p>
   More information is available
-  <a href="http://business.csumb.edu/school-business-showcase">here</a>.
+  <a href="https://business.csumb.edu/school-business-showcase">here</a>.
 </p>
 ```

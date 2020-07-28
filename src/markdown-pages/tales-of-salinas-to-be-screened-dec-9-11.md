@@ -11,7 +11,7 @@ date: January 01 2020
 </p>
 <p>
   Students in her
-  <a href="http://hcom.csumb.edu/oral-history"
+  <a href="https://hcom.csumb.edu/oral-history"
     >Oral History and Community Memory</a
   >
   service learning classes have designed, conducted and archived oral histories

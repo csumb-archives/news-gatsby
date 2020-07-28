@@ -13,7 +13,7 @@ slug: film-showcases-young-people-succeeding-despite-the-odds
 <p>A feature-length documentary that had its California premiere at
 the Carmel International Film Festival features a CSU Monterey Bay
 student.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/yahaira_.jpg" style="width:350px; height:466px; float:right">Yajaira, a senior
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/yahaira_.jpg" style="width:350px; height:466px; float:right">Yajaira, a senior
 at the university, is one of four young adults profiled in &#x201C;The
 Salinas Project&#x201D; by American University journalism professor and
 filmmaker Carolyn Brown.</img></p>
@@ -47,12 +47,12 @@ broadcast on public television, perhaps as soon as next summer.</p>
 <div class="field field-type-emvideo field-field-attach-video">
 <div class="field-items">
 <div class="field-item odd">
-<div class="emvideo emvideo-video emvideo-vimeo"><object type="application/x-shockwave-flash" width="425" height="350" data="http://www.vimeo.com/moogaloop.swf?clip_id=83868901&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=">
+<div class="emvideo emvideo-video emvideo-vimeo"><object type="application/x-shockwave-flash" width="425" height="350" data="https://www.vimeo.com/moogaloop.swf?clip_id=83868901&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=">
 <param name="quality" value="best">
 <param name="wmode" value="transparent">
 <param name="allowfullscreen" value="true">
 <param name="scale" value="showAll">
-<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=83868901&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color="/></param></param></param></param></object></div>
+<param name="movie" value="https://www.vimeo.com/moogaloop.swf?clip_id=83868901&amp;server=www.vimeo.com&amp;fullscreen=1&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color="/></param></param></param></param></object></div>
 </div>
 </div>
 </div>

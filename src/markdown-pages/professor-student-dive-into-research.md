@@ -9,7 +9,7 @@ date: January 01 2020
 <p>
   <strong
     >CHECK OUT THE VIDEO FROM THE MISSION
-    <a href="http://isc.gso.uri.edu/oceanslive">HERE</a></strong
+    <a href="https://isc.gso.uri.edu/oceanslive">HERE</a></strong
   >
 </p>
 <p>
@@ -89,17 +89,17 @@ date: January 01 2020
 <p>
   More information, including a schedule of broadcasts is available here:
   <a
-    href="http://sanctuaries.noaa.gov/missions/2010aquarius/"
-    title="http://sanctuaries.noaa.gov/missions/2010aquarius/"
-    >http://sanctuaries.noaa.gov/missions/2010aquarius/</a
+    href="https://sanctuaries.noaa.gov/missions/2010aquarius/"
+    title="https://sanctuaries.noaa.gov/missions/2010aquarius/"
+    >https://sanctuaries.noaa.gov/missions/2010aquarius/</a
   >
 </p>
 <p>
   Follow the mission on Twitter:
   <a
-    href="http://twitter.com/sanctuaries"
-    title="http://twitter.com/sanctuaries"
-    >http://twitter.com/sanctuaries</a
+    href="https://twitter.com/sanctuaries"
+    title="https://twitter.com/sanctuaries"
+    >https://twitter.com/sanctuaries</a
   >
 </p>
 <p></p>

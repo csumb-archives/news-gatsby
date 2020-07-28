@@ -48,7 +48,7 @@ date: January 01 2020
   result of the service.
 </p>
 <p>
-  <a href="http://service.csumb.edu"
+  <a href="https://service.csumb.edu"
     >Learn more about Service Learning at CSUMB</a
   >
 </p>

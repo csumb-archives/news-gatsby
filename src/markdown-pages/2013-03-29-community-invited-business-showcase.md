@@ -18,7 +18,7 @@ Monterey Bay&#x2019;s School of Business Showcase.</p>
 <p>The event will be held April 23 in the University Center
 starting with a reception and strolling dinner at 6 p.m. The
 program will follow at 7:30 p.m.</p>
-<p><img alt="CSUMB&apos;s Business Showcase will be held April 23" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/business_showcase_web.jpg" style="float:left; width:300px; height:85px">The showcase is
+<p><img alt="CSUMB&apos;s Business Showcase will be held April 23" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/business_showcase_web.jpg" style="float:left; width:300px; height:85px">The showcase is
 intended to play a part in developing a strong relationship between
 the local business community and the university&apos;s School of
 Business. Proceeds benefit the school&#x2019;s program fund.<br>
@@ -57,7 +57,7 @@ senior, will also be given out at the showcase.</p>
 <p>Tickets are $100 each or $1,000 for a table of eight plus two
 students. For more information or to make reservations, call Callie
 Chastain at 582-5222 by April 9.</p>
-<p><a href="http://csumb.edu/business" rel="nofollow">Learn more
+<p><a href="https://csumb.edu/business" rel="nofollow">Learn more
 about the School of Business</a>.</p>
 <p><br>
 &#xA0;</br></p>

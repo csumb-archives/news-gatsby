@@ -31,7 +31,7 @@ The film students will show their work at 1 and again at 6 p.m. on
 Dec. 20 in the World Theater.<br>
 <br>
 For a schedule of times and locations, visit csumb.edu/capstone.
-Driving directions and a campus map can be found <a href="http://csumb.edu/map" rel="nofollow">here.</a>&#xA0;Visitors must
+Driving directions and a campus map can be found <a href="https://csumb.edu/map" rel="nofollow">here.</a>&#xA0;Visitors must
 purchase a parking permit from dispensers located on the parking
 lots.&#xA0;</br></br></br></br></br></br></p>
 <p><a href="../../nov/30/film-students-work-be-shown-dec-20.html" rel="nofollow">Read about the Teledramatic Arts and Technology

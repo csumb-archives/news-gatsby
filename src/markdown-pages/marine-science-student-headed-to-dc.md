@@ -34,7 +34,7 @@ date: January 01 2020
 </p>
 <p>
   Her involvement with the
-  <a href="http://csumb.edu/uroc"
+  <a href="https://csumb.edu/uroc"
     >Undergraduate Research Opportunities Center</a
   >
   at CSUMB has prepared her for the experience. She has been involved with

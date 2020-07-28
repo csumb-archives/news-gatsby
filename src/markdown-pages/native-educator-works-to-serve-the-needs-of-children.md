@@ -10,7 +10,7 @@ date: January 01 2020
   created national organization that serves the needs of children.
 </p>
 <p>
-  <a href="http://sbgs.csumb.edu/faculty/kathryn&#45;england&#45;aytes"
+  <a href="https://sbgs.csumb.edu/faculty/kathryn&#45;england&#45;aytes"
     >Dr. England&#45;Aytes</a
   >
   will serve as a consultant with the National Center on Adoption and

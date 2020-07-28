@@ -79,7 +79,7 @@ date: January 01 2020
 <p>• Mauricio Miller, social services innovator</p>
 <p>• Natalia Almada, filmmaker</p>
 <p>
-  <a href="http://www.macfound.org/programs/fellows/"
+  <a href="https://www.macfound.org/programs/fellows/"
     >Learn more about the MacArthur Fellows</a
   >
 </p>

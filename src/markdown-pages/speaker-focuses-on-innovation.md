@@ -48,7 +48,7 @@ date: January 01 2020
     href="m&#97;&#105;&#108;&#116;&#111;&#58;&#x6a;&#x65;&#x61;&#x6c;&#x6f;&#x70;&#x65;z&#64;&#99;&#115;&#117;&#109;&#98;&#46;&#x65;&#x64;&#x75;"
     >jealopez@csumb.edu</a
   >
-  or going <a href="http://csumb.edu/rsvp">online</a>. Attendees must purchase a
+  or going <a href="https://csumb.edu/rsvp">online</a>. Attendees must purchase a
   parking permit from a dispenser on the lot.
 </p>
 <p>

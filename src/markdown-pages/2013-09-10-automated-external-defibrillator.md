@@ -10,7 +10,7 @@ slug: lifesaving-devices-installed-on-campus
 
 <span class="date">Posted on Sep 10, 2013    </span>
 <h3>Automated exteral defibrillators: there when you need them</h3>
-<h3><img alt="AED logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/aed_logo.jpg" style="float:left; width:250px; height:250px"/></h3>
+<h3><img alt="AED logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/aed_logo.jpg" style="float:left; width:250px; height:250px"/></h3>
 <p>Over the summer, the campus became a safer place . . . for
 victims of a heart attack.</p>
 <p>Lifesaving devices called Automated External Defibrillators &#x2013; or

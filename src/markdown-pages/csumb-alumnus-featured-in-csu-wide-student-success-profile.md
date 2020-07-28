@@ -37,7 +37,7 @@ date: January 01 2020
 </p>
 <p>
   Ten years ago, Perez and his father, Pablo, started
-  <a href="http://www.jporganics.com/">J&amp;P Organics</a>—"J" for Juan and "P"
+  <a href="https://www.jporganics.com/">J&amp;P Organics</a>—"J" for Juan and "P"
   for Pablo—a family&#45;run farm in Salinas. The small enterprise grows
   USDA&#45;certified organic fruits, vegetables and flowers on 10 acres and
   delivers weekly farm boxes of produce to more than 500 local customers.
@@ -141,7 +141,7 @@ date: January 01 2020
 </p>
 <p>
   They leased one acre with the support of a $5,000 loan from the
-  <a href="http://www.calcoastal.org/"
+  <a href="https://www.calcoastal.org/"
     >California Coastal Rural Development Corporation</a
   >. They then leased a second acre, a third, and when they were farming six
   acres, they found a 10&#45;acre farm in Salinas for sale.

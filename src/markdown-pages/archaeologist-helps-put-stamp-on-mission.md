@@ -77,10 +77,10 @@ date: January 01 2020
 <p>
   To read more about Dr. Mendoza, click
   <a
-    href="http://news.csumb.edu/sites/default/files/65/igx_migrate/files/2810CSUMBMagazineSpringSummer2010-lores.pdf"
+    href="https://news.csumb.edu/sites/default/files/65/igx_migrate/files/2810CSUMBMagazineSpringSummer2010-lores.pdf"
     >here</a
   >. To learn more about the archaeology program at CSUMB, click
-  <a href="http://archaeology.csumb.edu/">here</a>.
+  <a href="https://archaeology.csumb.edu/">here</a>.
   <strong>DID YOU KNOW?</strong> • The express mail stamp will cost $18.95. •
   It’s not the first time the Carmel Mission has been featured on a stamp. A
   depiction of the mission’s bells was featured on a first-class stamp in 1969,

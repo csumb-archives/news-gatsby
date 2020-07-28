@@ -57,12 +57,12 @@ date: January 01 2020
   (GHRI),<a href="https://www.vet.cornell.edu/">
     Cornell University College of Veterinary Medicine</a
   >, and<a href="https://www.montereybayaquarium.org/"> Monterey Bay Aquarium</a
-  >. The team also included scientists from<a href="http://www.clemson.edu/">
+  >. The team also included scientists from<a href="https://www.clemson.edu/">
     Clemson University</a
   >,<a href="https://sigarra.up.pt/up/pt/web_base.gera_pagina?p_pagina=home">
     University of Porto, Portugal</a
   >
-  and the<a href="http://dobzhanskycenter.spbu.ru/">
+  and the<a href="https://dobzhanskycenter.spbu.ru/">
     Theodosius Dobzhansky Center for Genome Bioinformatics</a
   >, Russia.
 </p>

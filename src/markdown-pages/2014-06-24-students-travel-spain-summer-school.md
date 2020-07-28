@@ -13,7 +13,7 @@ slug: students-travel-to-spain-for-summer-school
 Spain. Under the direction of Dr. Juan Jose Gutierrez, they are
 collecting and analyzing data, and getting service learning
 experience.</p>
-<p><img alt="Dr. Gutierrez and students in the ethnographic research summer school" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/juan_students.jpg" style="width:370px; height:234px; float:left">Brianna Skinner,
+<p><img alt="Dr. Gutierrez and students in the ethnographic research summer school" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/juan_students.jpg" style="width:370px; height:234px; float:left">Brianna Skinner,
 Maria Andrea Cervantes, Yocelin Ruiz, Reyna Flores, Karina Gomez,
 Maria Rivera, Guddi Ramsaran, Llaritza Rodriguez and Susan Dyar are
 taking part in the ethnographic field research summer school
@@ -30,7 +30,7 @@ studies and observation, students explore the past and present of
 these communities, which are still struggling with the collapse of
 the local mining industry and the downturn of the Spanish
 economy.</p>
-<p><img alt="map of Spain" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/map_of_spain_0.jpg" style="width:350px; height:243px; float:right">&#x201C;The people are
+<p><img alt="map of Spain" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/map_of_spain_0.jpg" style="width:350px; height:243px; float:right">&#x201C;The people are
 welcoming &#x2013; not at first, as they seem to have a hard time opening
 up, but then they are helpful and welcoming,&#x201D; Rivera said.</img></p>
 <p>As for the service learning part of their stay, the students are
@@ -47,12 +47,12 @@ time I went the couple we visited invited us to sit down, learn
 about the history of the community and see the things they have
 preserved from long ago.&#x201D;</p>
 <p><a href="https://www.facebook.com/csumbleon.spain" rel="nofollow">Follow the group on Facebook</a></p>
-<p><a href="http://sbgs.csumb.edu/summer-2013-field-research-school-spain" rel="nofollow">Learn more about CSUMB&apos;s summer field research
+<p><a href="https://sbgs.csumb.edu/summer-2013-field-research-school-spain" rel="nofollow">Learn more about CSUMB&apos;s summer field research
 school in Spain</a></p>
-<p><a href="http://international.csumb.edu" rel="nofollow">Learn
+<p><a href="https://international.csumb.edu" rel="nofollow">Learn
 about international programs at CSUMB</a></p>
 <p class="small"><em>Photo courtesy of Dr. Gutierrez</em></p>
-<p class="small"><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/artichokes.jpg" style="float:left; width:300px; height:200px"/></p>
+<p class="small"><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/artichokes.jpg" style="float:left; width:300px; height:200px"/></p>
 <p class="small">&#xA0;</p>
 <p class="small">Student Susan Dyar notes on the group&apos;s Facebook
 page that she was able to find vegan-friendly food. &quot;They even have

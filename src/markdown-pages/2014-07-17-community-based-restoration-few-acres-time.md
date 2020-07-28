@@ -13,7 +13,7 @@ slug: communitybased-restoration-a-few-acres-at-a-time
 Watershed Science program at CSU&#xA0;Monterey Bay, has left her
 mark on the campus while helping the university implement its
 master plan.</p>
-<p><img alt="Volunteers helped to restore three acres at the south end of campus" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/volunteers_working_for_web.jpg" style="float:left; width:400px; height:199px">For her senior
+<p><img alt="Volunteers helped to restore three acres at the south end of campus" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/volunteers_working_for_web.jpg" style="float:left; width:400px; height:199px">For her senior
 thesis, she developed a Habitat Management Plan for 109 acres of
 open space located south of the library. Months later, Ashbach was
 hired to implement her plan for three of those acres along the
@@ -26,7 +26,7 @@ experience working at the Bureau of Land Management.<br>
 Community events were organized where volunteers planted and
 watered 2,000 seedlings.<br>
 <br>
-<img alt="Japanese students studying English at CSUMB volunteered for a day" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/cute_volunteers_for_web.jpg" style="float:right; width:300px; height:187px">Volunteers &#x2013;
+<img alt="Japanese students studying English at CSUMB volunteered for a day" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/cute_volunteers_for_web.jpg" style="float:right; width:300px; height:187px">Volunteers &#x2013;
 staff, faculty, university students and community members &#x2013; also
 created a half-mile nature trail through the area, removed invasive
 species and collected seeds that were then grown at the Watershed
@@ -55,7 +55,7 @@ on a site previously dominated by ice plant. So many of the newly
 planted natives are doing well even during such a dry year; this is
 what is supposed to be growing here.&#x201D;<br>
 <br>
-<em><a href="http://fmp.csumb.edu/campus-planning-development" rel="nofollow">Learn more about Campus Planning and Development and
+<em><a href="https://fmp.csumb.edu/campus-planning-development" rel="nofollow">Learn more about Campus Planning and Development and
 read the master plan</a></em></br></br></p>
 <p class="small">Photos<br>
 <em>Top:</em>&#xA0;Volunteers help to restore three acres on the

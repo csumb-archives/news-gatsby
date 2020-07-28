@@ -27,8 +27,8 @@ date: January 01 2020
   Members of the community are invited to honor the memory of their departed
   relatives and friends by registering them for the university's Wall of
   Remembrance. A photo, name and brief memorial message can be submitted at
-  <a href="http://csumb&#45;archives.github.io/vpa/dead/wall.htm"
-    >http://csumb&#45;archives.github.io/vpa/dead/wall.htm</a
+  <a href="https://csumb&#45;archives.github.io/vpa/dead/wall.htm"
+    >https://csumb&#45;archives.github.io/vpa/dead/wall.htm</a
   >. Photos, which should be submitted in jpg format no larger than 500kb, will
   be printed and displayed on our Wall of Remembrance and a candle in each name
   will be placed on the large community altar.
@@ -38,10 +38,10 @@ date: January 01 2020
   information is available at csumb.edu/art.
 </p>
 <p>
-  <a href="http://vpa.csumb.edu/dead/">Learn more about Day of the Dead.</a>
+  <a href="https://vpa.csumb.edu/dead/">Learn more about Day of the Dead.</a>
 </p>
 <p>
-  <a href="http://cahss.csumb.edu/site/x21204.xml"
+  <a href="https://cahss.csumb.edu/site/x21204.xml"
     >View a video of Day of the Dead</a
   >
   at CSUMB, including a video featuring Dr. Amalia Mesa&#45;Bains.

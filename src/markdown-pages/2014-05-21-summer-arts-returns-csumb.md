@@ -14,7 +14,7 @@ classes offered</h3>
 <p>CSU Summer Arts returns to the Monterey Bay campus with a lineup
 of 16 classes, including two coordinated by CSUMB faculty
 members.</p>
-<p><img alt="Drum Talk poster" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/drum_talk_poster_11x14.jpg" style="float:left; width:350px; height:445px">Courses are two
+<p><img alt="Drum Talk poster" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/drum_talk_poster_11x14.jpg" style="float:left; width:350px; height:445px">Courses are two
 weeks long; some start on June 27, others begin on July 14.
 Students study with well-known master teachers in dance, creative
 writing, filmmaking and videography, music, new media, theater and
@@ -73,9 +73,9 @@ apprenticeship program, it also helps students build bridges to
 future employment.<br>
 <br>
 Have an interest in traveling to Italy? &quot;Drawing and Painting in
-Florence&quot; is another Summer Arts option. <a href="http://www.csusummerarts.org" rel="nofollow">See a list of all
+Florence&quot; is another Summer Arts option. <a href="https://www.csusummerarts.org" rel="nofollow">See a list of all
 classes</a>.</br></br></p>
-<p>To apply, <a href="http://blogs.calstate.edu/summerarts/" rel="nofollow">click here</a>.</p>
+<p>To apply, <a href="https://blogs.calstate.edu/summerarts/" rel="nofollow">click here</a>.</p>
 
 
 

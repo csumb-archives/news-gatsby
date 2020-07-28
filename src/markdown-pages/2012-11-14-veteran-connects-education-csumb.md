@@ -13,7 +13,7 @@ slug: veteran-&apos;connects-to-education&apos;-at-csumb
 a roadside bomb while on patrol in Iraq. It took out his right eye
 and damaged the retina of his left, bruised his brain and crushed
 the bones in his face.</p>
-<p><img alt="Travis Fugate and his service dog, Mr. Fess" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/travis.fugate.web__1.jpg" style="float:left; width:350px; height:306px">Fugate had enlisted
+<p><img alt="Travis Fugate and his service dog, Mr. Fess" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/travis.fugate.web__1.jpg" style="float:left; width:350px; height:306px">Fugate had enlisted
 in the Kentucky National Guard in 2003 for the usual reasons:
 patriotism, adventure, money for college. Sixteen months later, his
 military service ended suddenly. A long period of rehabilitation
@@ -86,9 +86,9 @@ what I can to help tech companies reach accessibility goals.&#x201D;</p>
 <p>Says Young: &#x201C;I would like to do this 100 percent of the time.
 The people who do this work are passionate about it. It&#x2019;s very
 satisfying.&#x201D;</p>
-<p><a href="http://csumb.edu/veterans" rel="nofollow">Learn more
+<p><a href="https://csumb.edu/veterans" rel="nofollow">Learn more
 about services for veterans at CSUMB.</a></p>
-<p><a href="http://blogs.calstate.edu/voicesviews/?p=1557" rel="nofollow">Read Travis&apos;s story in his own words at the CSU Voices
+<p><a href="https://blogs.calstate.edu/voicesviews/?p=1557" rel="nofollow">Read Travis&apos;s story in his own words at the CSU Voices
 &amp; Views blog.&#xA0;</a></p>
 <p class="small"><em>Story by Joan Weiner. Photo by Kevin Garcia:
 Travis Fugate and his service dog, Mr. Fess, at CSUMB</em></p>

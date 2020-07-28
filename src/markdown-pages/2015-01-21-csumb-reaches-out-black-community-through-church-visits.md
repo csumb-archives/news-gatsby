@@ -21,7 +21,7 @@ is scheduled to address the congregation at Greater Victory Temple.
 At 11 a.m., Associate Vice President for University Affairs Andre
 Lewis will speak at Bethel Missionary Baptist Church.<br>
 <br>
-<img alt="ow to Get to College brochure" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/how_to_get_to_college_for_web.jpg" style="float:left; width:400px; height:101px">They will discuss
+<img alt="ow to Get to College brochure" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/how_to_get_to_college_for_web.jpg" style="float:left; width:400px; height:101px">They will discuss
 the importance of getting a college degree for today&#x2019;s competitive
 job market, when to start planning for college, programs offered at
 CSUMB, financial aid and parent involvement.</img></br></br></p>

@@ -23,7 +23,7 @@ date: January 01 2020
 </p>
 <p>
   Download an application at
-  <a href="http://www.thestartupchallenge.org/">www.thestartupchallenge.org</a>.
+  <a href="https://www.thestartupchallenge.org/">www.thestartupchallenge.org</a>.
 </p>
 <p>
   The Challenge includes three divisions: Venture, for businesses intended to

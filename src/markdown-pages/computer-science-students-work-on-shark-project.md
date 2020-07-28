@@ -16,12 +16,12 @@ date: January 01 2020
 </p>
 <p>
   The university’s
-  <a href="http://uroc.csumb.edu"
+  <a href="https://uroc.csumb.edu"
     >Undergraduate Research Opportunities Center</a
   >
   was notified of an unpaid position for a student volunteer to work with
   Hopkins Marine Station’s
-  <a href="http://baseline.stanford.edu">Shark Baselines Project</a>. When
+  <a href="https://baseline.stanford.edu">Shark Baselines Project</a>. When
   students learned of it, many of them wanted to participate.
 </p>
 <p>

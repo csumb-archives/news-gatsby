@@ -12,7 +12,7 @@ slug: math-majors-get-help-preparing-for-teaching-career
 <p>&#x201C;By teaching, we touch the lives of other people.&#x201D;</p>
 <p>That simple statement explains why Javier Martinez-Cabrera
 decided to be a teacher.</p>
-<p><img alt="Five CSUMB students have won prestigious Noyce Scholarships" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/teaching_math.jpg" style="float:left; width:320px; height:320px">It&#x2019;s a sentiment
+<p><img alt="Five CSUMB students have won prestigious Noyce Scholarships" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/teaching_math.jpg" style="float:left; width:320px; height:320px">It&#x2019;s a sentiment
 shared by Cindy Fowles, who decided on her career path while still
 in high school. &#x201C;My math teachers were amazing and I wanted to
 share that same passion with other students,&#x201D; she said.</img></p>
@@ -43,7 +43,7 @@ receive.</p>
 Teachers Corps Act in 1990 as a tribute to the late Robert N.
 Noyce, co-inventor of the computer chip and founder of Intel.<br>
 <br>
-<a href="http://csumb.edu/math" rel="nofollow">Learn more about the
+<a href="https://csumb.edu/math" rel="nofollow">Learn more about the
 math program at CSUMB</a><br>
 &#xA0;</br></br></br></p>
 

@@ -75,7 +75,7 @@ date: January 01 2020
 <p>
   Information about resources for veterans at CSUMB is available
   <a
-    href="http://catalog.csumb.edu/services-activities/campus-services/veterans-services"
+    href="https://catalog.csumb.edu/services-activities/campus-services/veterans-services"
     >here</a
   >.
 </p>

@@ -19,12 +19,12 @@ date: January 01 2020
 <p>
   The event will feature two speakers:
   <a
-    href="http://academicdepartments.musc.edu/pr/featured_expert/archive/ford.htm#.WK9qclUrJaQ"
+    href="https://academicdepartments.musc.edu/pr/featured_expert/archive/ford.htm#.WK9qclUrJaQ"
     >Marvella E. Ford</a
   >, associate director of cancer disparities at Hollings Cancer Center of the
   Medical University of South Carolina, and
   <a
-    href="http://www.rwjf.org/en/about&#45;rwjf/leadership&#45;staff/N/jennifer&#45;m&#45;ng&#45;andu.html"
+    href="https://www.rwjf.org/en/about&#45;rwjf/leadership&#45;staff/N/jennifer&#45;m&#45;ng&#45;andu.html"
     >Jennifer Ng’andu</a
   >, senior program officer of the Robert Wood Johnson Foundation.
 </p>

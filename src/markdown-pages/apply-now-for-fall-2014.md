@@ -20,9 +20,9 @@ date: January 01 2020
   application. Everything you need to know is available on our Admissions
   website,
   <a
-    href="http://admissions.csumb.edu/home"
-    title="http://admissions.csumb.edu/home"
-    >http://admissions.csumb.edu/home</a
+    href="https://admissions.csumb.edu/home"
+    title="https://admissions.csumb.edu/home"
+    >https://admissions.csumb.edu/home</a
   >. For more information, call CSUMB’s Office of Admissions at 831-582-3738.
 </p>
 ```

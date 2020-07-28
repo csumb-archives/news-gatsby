@@ -109,7 +109,7 @@ faculty member Soyeon Kim), talks and a social event.<br>
 &#x2013; Sept. 18, 2014</br></br></p>
 <p><strong>Kinesiology professor publishes on carb
 loading</strong><br>
-Dr. Brian Cook contributed an article to <a href="http://www.everythingtrackandfield.com/webapp/wcs/stores/servlet/PBOnePieceView?storeId=10152&amp;catalogId=10753&amp;languageId=-1&amp;pagename=525" rel="nofollow">Everything Track and Field</a> outlining a runner&apos;s
+Dr. Brian Cook contributed an article to <a href="https://www.everythingtrackandfield.com/webapp/wcs/stores/servlet/PBOnePieceView?storeId=10152&amp;catalogId=10753&amp;languageId=-1&amp;pagename=525" rel="nofollow">Everything Track and Field</a> outlining a runner&apos;s
 need for carbohydrates during training and competition.<br>
 &#x2013; Sept. 11, 2014<br>
 <br>
@@ -134,10 +134,10 @@ developed productions in late September.<br>
 &#x2013; July 14, 2014</br></p>
 <p><strong>Work by humanities professor to appear in literary
 quarterly</strong><br>
-<a href="http://hcom.csumb.edu/diana-garcia" rel="nofollow">Diana
+<a href="https://hcom.csumb.edu/diana-garcia" rel="nofollow">Diana
 Garcia</a>, a professor in the Division of Humanities and
 Communication, has had two poems accepted for the winter issue of
-<a href="http://prairieschooner.unl.edu" rel="nofollow"><em>Prairie
+<a href="https://prairieschooner.unl.edu" rel="nofollow"><em>Prairie
 Schooner</em></a>. The issue is tentatively titled, &#x201C;Women and the
 Global Imagination.&#x201D;</br></p>
 <p><em>Prairie Schooner</em> is a national literary quarterly
@@ -244,7 +244,7 @@ professor of Japanese. She is currently chair of the School of
 World Languages and Cultures and site director for the Monterey Bay
 Foreign Language Project.<br>
 &#x2013; Feb. 12, 2014</br></br></br></p>
-<p><a href="http://sbgs.csumb.edu/psychology-major" rel="nofollow"><strong>Psychology faculty members present
+<p><a href="https://sbgs.csumb.edu/psychology-major" rel="nofollow"><strong>Psychology faculty members present
 research</strong></a><br>
 At the upcoming biennial meeting of the Society for Research in
 Adolescence, Ranu Sinha and Vickie Nam will present their work on
@@ -385,7 +385,7 @@ Her standing-room-only performances raised over $700 for The Niroga
 Yoga Institute&#x2019;s outreach programs to youth, the incarcerated, and
 underserved populations.<br>
 &#x2013; Oct. 23, 2013</br></br></p>
-<p><a href="http://www.nasa.gov/content/nasa-supercomputer-generates-closer-look-at-future-climate-conditions-in-us/#.UmhMFI7xjHO" rel="nofollow"><strong>Scientists generate closer look at future
+<p><a href="https://www.nasa.gov/content/nasa-supercomputer-generates-closer-look-at-future-climate-conditions-in-us/#.UmhMFI7xjHO" rel="nofollow"><strong>Scientists generate closer look at future
 climate conditions</strong></a><br>
 Global models are the foundation for many important climate
 studies, but they typically show climate changes at very large
@@ -723,7 +723,7 @@ rationalization of the complete eradication and genocide of these
 indigenous people.&quot;</br></br></br></p>
 <p>The exhibit continues through April 13.<br>
 &#x2013; Jan. 16, 2013</br></p>
-<p><strong><a href="http://www.calstate.edu/pa/news/2012/Story/Sony.shtml" rel="nofollow">Lockwood honored for &apos;innovative instruction with
+<p><strong><a href="https://www.calstate.edu/pa/news/2012/Story/Sony.shtml" rel="nofollow">Lockwood honored for &apos;innovative instruction with
 technology&apos;</a></strong><br>
 The CSU and Sony Electronics, in partnership with Intel, presented
 the Sony Electronics Faculty Award for Innovative Instruction with
@@ -766,7 +766,7 @@ program. The program supports one-week workshops at historic sites
 to address themes related to American history, government and the
 arts.<br>
 &#x2013; Nov. 20, 2012</br></p>
-<p><strong><a href="http://www.otterathletics.com/news/2012/10/29/GEN_1029124637.aspx?elinkdata=127051" rel="nofollow">Pollack attends FAR Fellows
+<p><strong><a href="https://www.otterathletics.com/news/2012/10/29/GEN_1029124637.aspx?elinkdata=127051" rel="nofollow">Pollack attends FAR Fellows
 Institute</a></strong><br>
 Dr. Seth Pollack recently attended an event at NCAA headquarters in
 Indianapolis for faculty athletics representatives. He was one of

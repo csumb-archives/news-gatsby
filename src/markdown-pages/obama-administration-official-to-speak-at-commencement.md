@@ -73,6 +73,6 @@ date: January 01 2020
   CSUMB campus with President Eduardo Ochoa presiding. Approximately 1,450
   students will receive bachelor’s and master’s degrees; about 8,000 familty
   members and friends are expected to attend.
-  <a href="http://commencement.csumb.edu">Learn more about commencement</a>.
+  <a href="https://commencement.csumb.edu">Learn more about commencement</a>.
 </p>
 ```

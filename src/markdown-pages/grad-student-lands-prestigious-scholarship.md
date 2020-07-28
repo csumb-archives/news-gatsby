@@ -58,10 +58,10 @@ date: January 01 2020
 </p>
 <p>
   To learn more about the master's program in Coastal and Watershed Science and
-  Policy, click <a href="http://sep.csumb.edu/cwsp/">here</a>.
+  Policy, click <a href="https://sep.csumb.edu/cwsp/">here</a>.
 </p>
 <p>
   To learn more about the Institute for Applied Marine Ecology, click
-  <a href="http://sep.csumb.edu/ifame/index.php">here</a>.
+  <a href="https://sep.csumb.edu/ifame/index.php">here</a>.
 </p>
 ```

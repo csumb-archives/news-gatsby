@@ -11,7 +11,7 @@ slug: students-take-tech-ideas-for-test-ride
 <span class="date">Posted on Nov 03, 2014    </span>
 <p>Cal State Monterey Bay students will put their creative and
 technical skills to work at HACK UCSC 2015.</p>
-<p><img alt="UCSC hackathon 2014" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/hackathon_2014.jpg" style="width:400px; height:158px; float:left">Organizers at UC
+<p><img alt="UCSC hackathon 2014" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/hackathon_2014.jpg" style="width:400px; height:158px; float:left">Organizers at UC
 Santa Cruz have expanded the Jan. 9-11 hackathon from last year&#x2019;s
 campus event to one that is open to high school and college
 students around Monterey Bay. More than 300 programmers, designers
@@ -49,7 +49,7 @@ begins Sunday afternoon, Jan. 11; dinner for the top teams that
 night. Winners will be announced at dinner.</p>
 <p><strong>COST</strong>: $20 per student prior to Nov. 22; $25
 after that date</p>
-<p><strong>TO REGISTER</strong>: <a href="http://www.hackucsc.com" rel="nofollow">Click here</a></p>
+<p><strong>TO REGISTER</strong>: <a href="https://www.hackucsc.com" rel="nofollow">Click here</a></p>
 <p>&#xA0;</p>
 
 

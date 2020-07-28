@@ -21,7 +21,7 @@ Monterey Bay and the Monterey Bay Film Society continues.</p>
 make two presentations, both free and open to the public, at noon
 and again at 7 p.m. Both will be held in the TAT studio on Sixth
 Avenue at A Street.</p>
-<p><img alt="Still from &apos;Gravity Was Everywhere Back Then&apos;" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/brent_green_1.jpg" style="float:right; width:276px; height:183px">The film is based
+<p><img alt="Still from &apos;Gravity Was Everywhere Back Then&apos;" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/brent_green_1.jpg" style="float:right; width:276px; height:183px">The film is based
 on the true story of a Kentucky hardware clerk, Leonard Wood, who
 obsessively built additions onto his house after his wife, Mary,
 was diagnosed with cancer. His desire was to construct a &#x201C;healing

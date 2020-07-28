@@ -20,7 +20,7 @@ graduation ceremony on Saturday, where they received
 certificates.</p>
 <p>CSUMB math professors Hongde Hu and Lorraine O&#x2019;Shea, assisted by
 four university students, taught the classes.</p>
-<p><img alt="students work on an algebra problem" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/girls_using_tablet_pc.jpg" style="float:left; width:300px; height:200px">Dr. Hu said he
+<p><img alt="students work on an algebra problem" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/girls_using_tablet_pc.jpg" style="float:left; width:300px; height:200px">Dr. Hu said he
 designed the program to get students up to speed with standards
 recently adopted by the California Department of Education that
 mandate preparation in algebra.</img></p>
@@ -57,7 +57,7 @@ Kevin Jeffery spearheaded the academy. The company has worked with
 Rolling Hills for four years, sending tutors from the company to
 help with English, art, math and science as well as hosting events
 such as awards ceremonies for students who get good grades.</p>
-<p><img alt="Dr. Hu uses tablet PC to teach students in his algebra classes" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/tablet_pc-dr._hu.jpg" style="float:right; width:300px; height:200px">The students
+<p><img alt="Dr. Hu uses tablet PC to teach students in his algebra classes" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/tablet_pc-dr._hu.jpg" style="float:right; width:300px; height:200px">The students
 worked with tablet PCs provided by HP as part of a grant it
 recently awarded the university. CSUMB&#x2019;s &#x201C;Leapfrogging Mathematics
 in the Early Start Program&#x201D; was one of only 10 applications that

@@ -37,7 +37,7 @@ Italy, France and Belgium.<br>
 As a visual artist, she has exhibited at Yerba Buena Center for the
 Arts, De Young Museum, Jewish Museum, Berkeley Art Museum and
 Intersection For The Arts.</br></br></br></p>
-<p><a href="http://www.lightessencedesign.com" rel="nofollow">Her
+<p><a href="https://www.lightessencedesign.com" rel="nofollow">Her
 work can be seen on her website</a></p>
 <p><a href="../../../2012/nov/25/faculty-highlights.html" rel="nofollow">Read more faculty news</a></p>
 

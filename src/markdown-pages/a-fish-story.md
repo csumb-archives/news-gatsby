@@ -12,7 +12,7 @@ date: January 01 2020
 </p>
 <p>
   Recently, undergrads and graduate students from the
-  <a href="http://sep.csumb.edu/sep/"
+  <a href="https://sep.csumb.edu/sep/"
     >Division of Science and Environmental Policy</a
   >
   helped in an unusual way – with the annual steelhead rescue on the Carmel
@@ -41,7 +41,7 @@ date: January 01 2020
 </p>
 <p>
   Evan DeLay, a student in the professional science master’s program in
-  <a href="http://sep.csumb.edu/cwsp/psm.htm"
+  <a href="https://sep.csumb.edu/cwsp/psm.htm"
     >Applied Marine and Watershed Science</a
   >, is typical of the students who work with the district.
 </p>

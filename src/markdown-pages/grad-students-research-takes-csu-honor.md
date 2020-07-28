@@ -61,7 +61,7 @@ date: January 01 2020
 </p>
 <p>
   (Learn about the Coastal and Watershed Science and Policy program
-  <a href="http://sep.csumb.edu/cwsp/">here</a>.)
+  <a href="https://sep.csumb.edu/cwsp/">here</a>.)
 </p>
 <p>
   In Long Beach, students made10-minute oral presentations before juries of
@@ -83,7 +83,7 @@ date: January 01 2020
 </p>
 <p>
   Read more about the competition
-  <a href="http://www.calstate.edu/pa/News/2012/Story/studentresearch.shtml"
+  <a href="https://www.calstate.edu/pa/News/2012/Story/studentresearch.shtml"
     >here</a
   >.
 </p>

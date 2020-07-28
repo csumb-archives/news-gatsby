@@ -14,7 +14,7 @@ experiences</h3>
 <p>For some college students, summer is a time to put the books
 away for a few months and kick back.<br>
 <br>
-<img alt="Mitchell Takata working at Bird Rock, Catalina Island" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/student_surveying_0_0.jpg" style="width:400px; height:268px; float:left">That&#x2019;s not the case
+<img alt="Mitchell Takata working at Bird Rock, Catalina Island" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/student_surveying_0_0.jpg" style="width:400px; height:268px; float:left">That&#x2019;s not the case
 several dozen CSU Monterey Bay students involved with the
 Undergraduate Research Opportunities Center or UROC. Those students
 are spending their summers conducting experiments, gathering data
@@ -30,7 +30,7 @@ pursuing degrees &#x2013; and research topics &#x2013; in math, psychology,
 kinesiology, human communication, global studies and social and
 behavioral sciences.<br>
 <br>
-<a href="http://uroc.csumb.edu" rel="nofollow">Learn more about
+<a href="https://uroc.csumb.edu" rel="nofollow">Learn more about
 UROC here</a>.<br>
 <br>
 A sampling of the work students are doing this summer:</br></br></br></br></br></br></br></br></img></br></br></p>
@@ -170,8 +170,8 @@ Catalina Island&#x2028;. Courtesy of Dr. Corey Garza</em>&#xA0;<br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/ymwpp991z_Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/ymwpp991z_Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/ymwpp991z_Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/ymwpp991z_Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -182,7 +182,7 @@ Catalina Island&#x2028;. Courtesy of Dr. Corey Garza</em>&#xA0;<br>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r12---sn-o097znee.googlevideo.com/videoplayback?initcwndbps=4047500&amp;key=yt5&amp;ip=198.189.249.65&amp;mt=1422329170&amp;signature=7D747F1313190A80AD2D45293D178AD5DE4C7841.5EEE5AE6C360BA1EFFE156193BAAB978D10ECB28&amp;ms=au&amp;source=youtube&amp;upn=2BCLmrGPM-0&amp;mv=m&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;id=o-AJrNuKy-Q3PLrDX5exwU51aIRRLz_gl0NYu49UC-Oj6C&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;pl=23&amp;ipbits=0&amp;mm=31&amp;dur=192.052&amp;itag=18&amp;ratebypass=yes&amp;expire=1422350793&amp;sver=3&amp;name=ymwpp991z_Y" type="video/mp4"/></video></div>
+<source src="https://r12---sn-o097znee.googlevideo.com/videoplayback?initcwndbps=4047500&amp;key=yt5&amp;ip=198.189.249.65&amp;mt=1422329170&amp;signature=7D747F1313190A80AD2D45293D178AD5DE4C7841.5EEE5AE6C360BA1EFFE156193BAAB978D10ECB28&amp;ms=au&amp;source=youtube&amp;upn=2BCLmrGPM-0&amp;mv=m&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;id=o-AJrNuKy-Q3PLrDX5exwU51aIRRLz_gl0NYu49UC-Oj6C&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;pl=23&amp;ipbits=0&amp;mm=31&amp;dur=192.052&amp;itag=18&amp;ratebypass=yes&amp;expire=1422350793&amp;sver=3&amp;name=ymwpp991z_Y" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

@@ -12,7 +12,7 @@ slug: starbucks-comes-to-csumb
 <p>Starbucks will soon be filling the cups of students, staff and
 faculty at CSU Monterey Bay from a location in the Student
 Center.</p>
-<p><img alt="Starbucks coffee will soon be served in the Student Center" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/starbucks.jpeg" style="float:left; width:224px; height:224px">The coffee shop&apos;s
+<p><img alt="Starbucks coffee will soon be served in the Student Center" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/starbucks.jpeg" style="float:left; width:224px; height:224px">The coffee shop&apos;s
 official opening is scheduled for Jan. 23 to coincide with the
 start of the spring semester.&#xA0;It will provide students with a
 comfortable place to gather, and feature standard Starbucks

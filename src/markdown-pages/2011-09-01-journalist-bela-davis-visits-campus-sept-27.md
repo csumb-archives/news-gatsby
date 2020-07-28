@@ -11,7 +11,7 @@ slug: journalist-belva-davis-visits-campus-sept.-27
 <span class="date">Posted on Sep 01, 2011    </span>
 <p>As the first black female TV journalist in the West, Belva Davis
 helped to change the face and focus of TV news.</p>
-<p><img alt="Belva Davis" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/davis_authorphoto_hires1.jpg" style="float:right; width:300px; height:406px">Davis will share
+<p><img alt="Belva Davis" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/davis_authorphoto_hires1.jpg" style="float:right; width:300px; height:406px">Davis will share
 her story at California State University, Monterey Bay&#x2019;s World
 Theater Sept. 27, as the first featured lecture of the 2011-12
 President&#x2019;s Speaker Series. Her talk will be based on her recently
@@ -35,7 +35,7 @@ the mass suicides at Jonestown, the assassinations of San Francisco
 Mayor George Moscone and Supervisor Harvey Milk, the onset of the
 AIDS epidemic, and from Africa, the terrorist attacks that first
 put Osama bin Laden on the FBI&#x2019;s Most Wanted List.</p>
-<p><img alt="book cover" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/book_cover.jpg" style="float:left; width:203px; height:300px">During her career,
+<p><img alt="book cover" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/book_cover.jpg" style="float:left; width:203px; height:300px">During her career,
 she brought stories of black Americans out of the shadows and into
 the light of day. And along the way, she encountered cultural icons
 including Malcolm X, Frank Sinatra, James Brown, Nancy Reagan, Huey
@@ -53,9 +53,9 @@ and Sciences.</p>
 <p>Davis continues to host a weekly news roundtable and special
 reports at KQED, the San Francisco-based PBS station.</p>
 <p>The 7 p.m. lecture is free and open to the public. Reservations
-are strongly encouraged and can be made <a href="http://csumb.edu/speakers" rel="nofollow">online</a> or by calling
+are strongly encouraged and can be made <a href="https://csumb.edu/speakers" rel="nofollow">online</a> or by calling
 the World Theater box office at 582-4580. Driving directions and a
-map of campus are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.<br>
+map of campus are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.<br>
 &#xA0;</br></p>
 
 

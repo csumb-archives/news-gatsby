@@ -72,9 +72,9 @@ date: January 01 2020
   exam. For more information on CSUMB's Certificate Program in Behavior
   Analysis, please visit
   <a
-    href="http://teach.csumb.edu/site/x16167.xml"
-    title="http://teach.csumb.edu/site/x16167.xml"
-    >http://teach.csumb.edu/site/x16167.xml</a
+    href="https://teach.csumb.edu/site/x16167.xml"
+    title="https://teach.csumb.edu/site/x16167.xml"
+    >https://teach.csumb.edu/site/x16167.xml</a
   >.
 </p>
 <p></p>

@@ -14,12 +14,12 @@ slug: professor-presents-research-in-brazil
 and the Drum</em>,</a> was published.<br>
 <br>
 In October, the University of Michigan Press published his most
-recent work, <a href="http://www.press.umich.edu/titleDetailDesc.do?id=3355867" rel="nofollow"><em>Rebel Dance, Renegade Stance: Timba Music and Black
+recent work, <a href="https://www.press.umich.edu/titleDetailDesc.do?id=3355867" rel="nofollow"><em>Rebel Dance, Renegade Stance: Timba Music and Black
 Identity in Cuba.</em></a><br>
 <br>
 This month, Dr. Vaughan was invited by the Secretary of Culture in
 Salvador da Bahia, Brazil, to participate in an event called
-the&#xA0;<a href="http://www.pelourinho.ba.gov.br/2012/11/programacao-do-i-encontro-de-culturas-negras.html" rel="nofollow">Encounter of Black Cultures</a>, where he presented
+the&#xA0;<a href="https://www.pelourinho.ba.gov.br/2012/11/programacao-do-i-encontro-de-culturas-negras.html" rel="nofollow">Encounter of Black Cultures</a>, where he presented
 his work on the African Diaspora. He learned as much as he
 taught.</br></br></br></br></p>
 <p>&quot;I exchanged ideas with scholars and artists from Brazil,
@@ -51,8 +51,8 @@ abroad.<br>
 He holds a Ph.D. in cultural anthropology from the University of
 Michigan.<br>
 <br>
-Learn more about Dr. Vaughan on his <a href="http://umiart.com/" rel="nofollow">website</a>.</br></br></br></br></br></br></p>
-<p><a href="http://hcom.csumb.edu/africana-studies" rel="nofollow">Learn more about Africana Studies at CSUMB.</a><br>
+Learn more about Dr. Vaughan on his <a href="https://umiart.com/" rel="nofollow">website</a>.</br></br></br></br></br></br></p>
+<p><a href="https://hcom.csumb.edu/africana-studies" rel="nofollow">Learn more about Africana Studies at CSUMB.</a><br>
 <br>
 <a href="../25/faculty-highlights.html" rel="nofollow"><em>Read
 more faculty news.</em></a><br>

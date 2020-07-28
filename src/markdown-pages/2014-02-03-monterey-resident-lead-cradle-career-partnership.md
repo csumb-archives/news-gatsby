@@ -12,7 +12,7 @@ slug: monterey-resident-to-lead-cradle-to-career-partnership
 <p>Cynthia Nelson Holmsky is joining CSU Monterey Bay in an
 administrative appointment to be director of the Monterey County
 Cradle to Career Partnership.</p>
-<p><img alt="Cynthia Holmsky" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/holmsky_cynthia_2014.jpg" style="width:300px; height:450px; float:left">In that capacity,
+<p><img alt="Cynthia Holmsky" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/holmsky_cynthia_2014.jpg" style="width:300px; height:450px; float:left">In that capacity,
 Ms. Holmsky will be responsible for establishing the Cradle to
 Career Partnership as a catalyst for regional partners to work
 together, across sectors, and along the social and educational
@@ -25,7 +25,7 @@ succeeds in school, enrolls in some form of postsecondary
 education, graduates, and enters a career.</p>
 <p>The Monterey County Cradle to Career partnership will be based
 on a model adopted by more than 100 communities across the country
-that share best practices through the <a href="http://www.strivetogether.org/cradle-career-network" rel="nofollow">Cradle to Career Network</a>.&#xA0;</p>
+that share best practices through the <a href="https://www.strivetogether.org/cradle-career-network" rel="nofollow">Cradle to Career Network</a>.&#xA0;</p>
 <p>The network&#x2019;s motto is &#x201C;Every Child. Cradle to Career.&#x201D; Cradle
 to Career Network communities promote a broad commitment among
 social service, education, business and philanthropic agencies to

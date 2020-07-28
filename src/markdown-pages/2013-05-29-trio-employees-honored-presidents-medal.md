@@ -13,9 +13,9 @@ slug: employees-honored-for-service-to-csumb
 for their leadership and dedication to the CSU Monterey Bay Vision
 at the Day of Welcome gathering Aug. 23 in the World Theater.<br>
 <br>
-<img alt="Dr. Dan Fernandez, Liz MacDonald and President Ochoa" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/medal_winner_sm.jpg" style="float:left; width:300px; height:225px"><a href="http://president.csumb.edu/" rel="nofollow">President Eduardo
+<img alt="Dr. Dan Fernandez, Liz MacDonald and President Ochoa" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/medal_winner_sm.jpg" style="float:left; width:300px; height:225px"><a href="https://president.csumb.edu/" rel="nofollow">President Eduardo
 Ochoa</a> welcomed the campus community back for the fall semester,
-delivered his <a href="http://president.csumb.edu/2012-president%E2%80%99s-welcome-address" rel="nofollow">State of the University address</a>, and then
+delivered his <a href="https://president.csumb.edu/2012-president%E2%80%99s-welcome-address" rel="nofollow">State of the University address</a>, and then
 introduced the President&#x2019;s Medal recipients.<br>
 <br>
 Last spring, the university community was invited to make

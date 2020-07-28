@@ -14,7 +14,7 @@ date: January 01 2020
   CSUMB is featured in the 2015 edition of “The Princeton Review’s Guide to 353
   Green Colleges.” Published April 16, a few days before the annual celebration
   of Earth Day, the free guide can be
-  <a href="http://www.princetonreview.com/green&#45;guide">downloaded</a>.
+  <a href="https://www.princetonreview.com/green&#45;guide">downloaded</a>.
 </p>
 <p>
   The university is cited for having a “<a

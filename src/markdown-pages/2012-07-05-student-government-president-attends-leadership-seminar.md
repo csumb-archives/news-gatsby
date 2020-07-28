@@ -14,7 +14,7 @@ slug: student-government-president-attends-leadership-seminar
 attended the 13th annual Student Leadership Seminar at the Panetta
 Institute for Public Policy. The program was held June 17-23 on the
 CSUMB campus.</p>
-<p><img alt="Duane Lindsay and Sylvia Panetta" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/lindsay_and_panetta_sm.jpg" style="float:left; width:200px; height:326px">Lindsay, a social
+<p><img alt="Duane Lindsay and Sylvia Panetta" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/lindsay_and_panetta_sm.jpg" style="float:left; width:200px; height:326px">Lindsay, a social
 and behavioral sciences major from Garden Valley, was elected
 Associated Students president in the spring of 2012 for the
 upcoming school year.</img></p>

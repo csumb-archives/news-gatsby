@@ -27,7 +27,7 @@ slug: csumb-adds-two-more-fully-online-graduate-degrees
   training. Classes start Sept. 2. Two courses will be offered during each
   eight-week session over the 16 months of study. Find more information
   <a
-    href="http://www.calstateonline.com/cso/home/montereyBayMIST"
+    href="https://www.calstateonline.com/cso/home/montereyBayMIST"
     rel="nofollow"
     >here</a
   >.&#xA0;
@@ -47,7 +47,7 @@ slug: csumb-adds-two-more-fully-online-graduate-degrees
   entrepreneurs. Classes start Sept. 2. One course will be offered during each
   eight-week session over the 20 months of study. Find more information
   <a
-    href="http://www.calstateonline.com/cso/home/montereyBayMSMIT"
+    href="https://www.calstateonline.com/cso/home/montereyBayMSMIT"
     rel="nofollow"
     >here</a
   >.
@@ -55,7 +55,7 @@ slug: csumb-adds-two-more-fully-online-graduate-degrees
 <p>
   Applications are now being accepted for both programs. Students can apply to
   these and a variety of other bachelor&#x2019;s and master&#x2019;s program
-  <a href="http://www.calstateonline.com" rel="nofollow">online</a>.
+  <a href="https://www.calstateonline.com" rel="nofollow">online</a>.
 </p>
 <p>
   Cal State Online offers students the ability to learn on their time, from
@@ -69,7 +69,7 @@ slug: csumb-adds-two-more-fully-online-graduate-degrees
 </p>
 <p>
   For more information, visit the
-  <a href="http://www.calstateonline.net" rel="nofollow">website</a>&#xA0;or
+  <a href="https://www.calstateonline.net" rel="nofollow">website</a>&#xA0;or
   call 1-800-247-5268 to speak with a Cal State Online coach.
 </p>
 <p>The university has offered an online MBA program since 2008.</p>

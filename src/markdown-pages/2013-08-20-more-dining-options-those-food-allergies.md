@@ -15,7 +15,7 @@ Bay will have an easier time finding meals that work for them.</p>
 provide healthy and tasty meals at lunch and dinner for those who
 can&#x2019;t tolerate gluten, soy, dairy, tree nuts, peanuts, eggs or
 shellfish.</p>
-<p><img alt="Simple Servings logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/simple-servings-logo-by-sdx.jpg" style="float:left; width:200px; height:116px">Implemented at
+<p><img alt="Simple Servings logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/simple-servings-logo-by-sdx.jpg" style="float:left; width:200px; height:116px">Implemented at
 several universities in the fall of 2012 as a pilot program for
 Sodexo, the university&#x2019;s food service provider, Simple Servings
 will be available at several dozen schools this fall. CSUMB is the
@@ -41,7 +41,7 @@ dining locations this year &#x2013; the Dining Commons, the newly
 renovated Otter Express, Starbucks, the library caf&#xE9; and the Otter
 Bay Restaurant. The restaurant will be closed during the fall
 semester for remodeling.</p>
-<p><a href="http://csumb.org/dining/" rel="nofollow">More
+<p><a href="https://csumb.org/dining/" rel="nofollow">More
 information about campus dining</a><br>
 <br>
 &#xA0;</br></br></p>

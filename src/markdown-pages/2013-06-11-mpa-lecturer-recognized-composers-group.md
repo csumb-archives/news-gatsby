@@ -9,7 +9,7 @@ slug: mpa-lecturer-honored-by-composers-group
 
 
 <span class="date">Posted on Jun 11, 2013    </span>
-<p><img alt="Dr. Lanier Sammons" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/sammons.lanier.jpg" style="float:left; width:200px; height:297px">Dr. Lanier Sammons,
+<p><img alt="Dr. Lanier Sammons" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/sammons.lanier.jpg" style="float:left; width:200px; height:297px">Dr. Lanier Sammons,
 a lecturer in the Music and Performing Arts Department, is the
 recipient of an ASCAP Plus Award in the concert music division.</img></p>
 <p>The award is given by the American Society of Composers, Authors
@@ -37,8 +37,8 @@ composition, new music for the guitar, and the intersection and
 overlap between &quot;popular&quot; music and &quot;art&quot; music.<br>
 <br>
 This is his first semester at CSUMB. For more information, visit
-his <a href="http://www.laniersammons.com/Main/" rel="nofollow">website</a>.</br></br></p>
-<p>Learn more about the <a href="http://csumb.edu/music" rel="nofollow">Music and Performing Arts</a> program at CSUMB.<br>
+his <a href="https://www.laniersammons.com/Main/" rel="nofollow">website</a>.</br></br></p>
+<p>Learn more about the <a href="https://csumb.edu/music" rel="nofollow">Music and Performing Arts</a> program at CSUMB.<br>
 <br>
 <em><a href="../../nov/25/faculty-highlights.html" rel="nofollow">R</a><a href="../../nov/25/faculty-highlights.html" rel="nofollow">ead more faculty news</a></em></br></br></p>
 

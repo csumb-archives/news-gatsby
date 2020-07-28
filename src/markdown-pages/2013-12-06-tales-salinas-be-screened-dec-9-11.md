@@ -12,7 +12,7 @@ slug: tales-of-salinas-to-be-screened-dec.-9-11
 <p>For years, Professor Rina Benmayor&#x2019;s students at CSU Monterey
 Bay have worked to preserve memories of the residents of
 Salinas.</p>
-<p>Students in her <a href="http://hcom.csumb.edu/oral-history" rel="nofollow">Oral History and Community Memory</a> service
+<p>Students in her <a href="https://hcom.csumb.edu/oral-history" rel="nofollow">Oral History and Community Memory</a> service
 learning classes have designed,&#xA0;conducted and archived oral
 histories focused on life stories and Chinatown memories of members
 of the Chinese, Japanese, Filipino, and Latino communities. They

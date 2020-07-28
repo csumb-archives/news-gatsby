@@ -16,7 +16,7 @@ leaders together to foster, encourage and promote the goals and
 purposes of CSUMB. Board members will advise the president and
 other university officers and play an active role in philanthropic
 support.</p>
-<p><img alt="CSUMB logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/csumb-logo-blue-500x150_0.png" style="float:left; width:250px; height:75px">&#x201C;In addition to the
+<p><img alt="CSUMB logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/csumb-logo-blue-500x150_0.png" style="float:left; width:250px; height:75px">&#x201C;In addition to the
 traditional role of financial stewardship and university advocacy,
 foundation board members will provide us with important strategic
 advice and counsel as CSUMB deepens its community engagement and

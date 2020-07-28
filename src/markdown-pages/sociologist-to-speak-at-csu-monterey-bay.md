@@ -12,7 +12,7 @@ date: January 01 2020
 <p>
   The 6 p.m. talk will be held in the University Center on Sixth Avenue at B
   Street. Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   A professor of sociology at the University of Oregon, she is the author of
@@ -34,12 +34,12 @@ date: January 01 2020
 <p>
   The event is free for CSUMB students, staff, and faculty with CSUMB username
   and $5 for the public. Visitors must purchase a parking permit
-  <a href="http://parking.csumb.edu/buy-permit">online</a> or from a dispenser
+  <a href="https://parking.csumb.edu/buy-permit">online</a> or from a dispenser
   on the parking lot.
 </p>
 <p>
   The event is sponsored by CSUMB’s
-  <a href="http://activities.csumb.edu/otter-cross-cultural-center"
+  <a href="https://activities.csumb.edu/otter-cross-cultural-center"
     >Otter Cross Cultural Center</a
   >. More information is available from rita zhang at
   <a

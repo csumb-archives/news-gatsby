@@ -16,7 +16,7 @@ date: January 01 2020
   Architecture at Zero is a zero net energy design competition open to students
   and professionals worldwide, engaging architecture, engineering, and planning
   students and professionals in the pursuit of energy efficient design. The
-  <a href="http://www.architectureatzero.com/">competition</a> is open for
+  <a href="https://www.architectureatzero.com/">competition</a> is open for
   entries from students and professionals worldwide now through January 28,
   2019.
 </p>

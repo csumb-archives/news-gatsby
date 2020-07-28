@@ -42,8 +42,8 @@ date: January 01 2020
   questions about their institution’s sustainability-related policies, practices
   and programs. Green Ratings were tallied for more than 700 institutions; those
   scoring 80 or above on a scale of 60 to 99 made the list. The free guide can
-  be downloaded <a href="http://www.princetonreview.com/greenguide">here</a>.
+  be downloaded <a href="https://www.princetonreview.com/greenguide">here</a>.
   More information on CSUMB’s commitment to sustainability can be found
-  <a href="http://csumb.edu/green">here</a>.
+  <a href="https://csumb.edu/green">here</a>.
 </p>
 ```

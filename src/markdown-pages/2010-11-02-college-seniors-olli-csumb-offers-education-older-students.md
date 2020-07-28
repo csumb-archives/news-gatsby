@@ -19,7 +19,7 @@ said. &#x201C;It&#x2019;s a great opportunity for everyone in the area.&#x201D; 
 year, he&#x2019;s taking writing classes and one in archaeology.</p>
 <p class="pullquote"><strong>TO GET INVOLVED:</strong><br>
 An annual OLLI membership fee of $149 covers up to six classes.
-Become a member by going online at <a href="http://news.csumb.edu/node/9305" rel="nofollow">CSUMB.EDU/olli</a>. The site has course and enrollment
+Become a member by going online at <a href="https://news.csumb.edu/node/9305" rel="nofollow">CSUMB.EDU/olli</a>. The site has course and enrollment
 information.<br>
 Membership includes a university parking pass and discounts to the
 World Theater and athletic events, as well as use of athletic

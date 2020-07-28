@@ -14,34 +14,34 @@ date: January 01 2020
 <p>More information:</p>
 <p>
   • To learn more about the outdoor broadcast alert system on campus, visit
-  <a href="http://news.csumb.edu/site/x22188.xml"
-    >http://news.csumb.edu/site/x22188.xml</a
+  <a href="https://news.csumb.edu/site/x22188.xml"
+    >https://news.csumb.edu/site/x22188.xml</a
   >
 </p>
 <p>
   • To learn more about the OtterAlert system, visit
   <a
-    href="http://news.csumb.edu/site/x20695.xml"
-    title="http://news.csumb.edu/site/x20695.xml"
-    >http://news.csumb.edu/site/x20695.xml</a
+    href="https://news.csumb.edu/site/x20695.xml"
+    title="https://news.csumb.edu/site/x20695.xml"
+    >https://news.csumb.edu/site/x20695.xml</a
   >
 </p>
 <p>
   • For more information about emergency preparedness efforts at CSUMB, visit
-  <a href="http://police.csumb.edu/site/x5487.xml"
-    >http://police.csumb.edu/site/x5487.xml</a
+  <a href="https://police.csumb.edu/site/x5487.xml"
+    >https://police.csumb.edu/site/x5487.xml</a
   >
 </p>
 <p>
   •For more information on the ShakeOut, visit
-  <a href="http://www.shakeout.org/">http://www.shakeout.org</a>
+  <a href="https://www.shakeout.org/">https://www.shakeout.org</a>
 </p>
 <p>
   • For more information on how to drop, cover and hold on, visit
   <a
-    href="http://www.dropcoverholdon.org/"
-    title="http://www.dropcoverholdon.org/"
-    >http://www.dropcoverholdon.org/</a
+    href="https://www.dropcoverholdon.org/"
+    title="https://www.dropcoverholdon.org/"
+    >https://www.dropcoverholdon.org/</a
   >
 </p>
 <p></p>

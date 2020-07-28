@@ -26,7 +26,7 @@ date: January 01 2020
 </p>
 <p>
   At CSU Monterey Bay, the
-  <a href="http://iccs.csumb.edu/"
+  <a href="https://iccs.csumb.edu/"
     >Institute for Community Collaborative Studies</a
   >
   (ICCS) is working to address that problem by offering outreach and education
@@ -52,13 +52,13 @@ date: January 01 2020
   Center as part of the annual counselor conference.
 </p>
 <p>
-  <a href="http://www.calstate.edu/coveredca/"
+  <a href="https://www.calstate.edu/coveredca/"
     >Learn more about Covered California</a
   >
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>. Visitors are reminded that a parking
+  <a href="https://csumb.edu/maps">here</a>. Visitors are reminded that a parking
   permit must be purchased from a dispenser on the parking lots. Cost is $1 per
   hour.
 </p>

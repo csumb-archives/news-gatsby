@@ -17,7 +17,7 @@ make an anticipated appearance at California State University,
 Monterey Bay&#x2019;s World Theater. The group has played to enthusiastic,
 standing-room-only houses the last four years and this year
 promises more of the same.</p>
-<p><img alt="December People will return to the World Theater on Nov. 8" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/decpeo_performance.jpg" style="width:400px; height:267px; float:left">So, what exactly is
+<p><img alt="December People will return to the World Theater on Nov. 8" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/decpeo_performance.jpg" style="width:400px; height:267px; float:left">So, what exactly is
 December People? Something classic, something new, something
 familiar . . . but totally original.</img></p>
 <p>The group is one part tribute band, one part radio sensation,
@@ -60,11 +60,11 @@ General admission seats are $29, discounts available for seniors,
 military, students and youth. A discount will be given to those
 bringing five cans of people or pet food to the theater on the day
 of the performance. Tickets can be purchased by calling the World
-Theater box office at (831) 582-4580 or <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>.<br>
+Theater box office at (831) 582-4580 or <a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>.<br>
 <br>
 The World Theater is located on Sixth Avenue near A Street on the
 CSUMB campus. Driving directions and a campus map are available
-<a href="http://csumb.edu/maps" rel="nofollow">here.</a><br>
+<a href="https://csumb.edu/maps" rel="nofollow">here.</a><br>
 <br>
 <strong>IF YOU GO</strong><br>
 <strong>WHAT</strong>: December People concert<br>
@@ -75,7 +75,7 @@ Avenue and A Street<br>
 for Gold Circle; discounts given to those who bring donations for
 the canned food drive<br>
 <strong>ORDER TICKETS/INFORMATION</strong>: Box office, 582-4580;
-<a href="http://csumb.edu/worldtheater" rel="nofollow">online</a></br></br></br></br></br></br></br></br></br></br></br></p>
+<a href="https://csumb.edu/worldtheater" rel="nofollow">online</a></br></br></br></br></br></br></br></br></br></br></br></p>
 
 
 

@@ -11,7 +11,7 @@ slug: water-savings-via-satellite
 <span class="date">Posted on Jul 11, 2013    </span>
 <h3><strong>SPACE-AGE TECHNOLOGY HELPS GROWERS MANAGE
 WATER</strong></h3>
-<p><img alt="wine grapes" height="350" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/grapes.jpg" style="float:left" width="338"/></p>
+<p><img alt="wine grapes" height="350" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/grapes.jpg" style="float:left" width="338"/></p>
 <p>It&apos;s no secret that water drives California agriculture.</p>
 <p>For a variety of reasons &#x2013; a growing urban population, more
 water allocations for endangered species, climate change, a smaller
@@ -73,7 +73,7 @@ Center in Mountain View, the Jet Propulsion Laboratory in Pasadena,
 NASA&apos;s Marshall Space Flight Center in Huntsville, Ala., the U.S.
 Department of Agriculture, the Western Growers Association, and the
 California Department of Water Resources.</p>
-<p>Listen to a&#xA0;<a href="http://www.kazu.org/post/nasa-satellite-images-will-help-farmers-conserve-water" rel="nofollow">National Public Radio story about the
+<p>Listen to a&#xA0;<a href="https://www.kazu.org/post/nasa-satellite-images-will-help-farmers-conserve-water" rel="nofollow">National Public Radio story about the
 project</a>.</p>
 
 

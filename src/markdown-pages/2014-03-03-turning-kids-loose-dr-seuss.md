@@ -12,7 +12,7 @@ slug: turning-kids-loose-on-dr.-seuss
 <p>Olson Elementary School in Marina celebrated Read Across America
 Day on March 3, with help from some student-athletes at CSU
 Monterey Bay.</p>
-<p><img alt="CSUMB student-ahtletes at Olsen Elementary School" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/women_golfers.jpg" style="float:left; width:250px; height:250px">Sponsored by the
+<p><img alt="CSUMB student-ahtletes at Olsen Elementary School" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/women_golfers.jpg" style="float:left; width:250px; height:250px">Sponsored by the
 National Education Association, Read Across America Day is held
 every year near the March 2 birthday of famed children&#x2019;s author
 Theodor Geisel, better known as Dr. Seuss.</img></p>

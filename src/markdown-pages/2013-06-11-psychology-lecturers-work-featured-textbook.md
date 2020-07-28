@@ -9,7 +9,7 @@ slug: psychology-lecturer&apos;s-work-featured-in-textbook
 
 
 <span class="date">Posted on Jun 11, 2013    </span>
-<p><img alt="Teaching Truly book cover" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/teaching_truly.jpg" style="float:right; width:300px; height:454px">Kathryn
+<p><img alt="Teaching Truly book cover" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/teaching_truly.jpg" style="float:right; width:300px; height:454px">Kathryn
 England-Aytes, a lecturer in psychology at CSUMB, has contributed
 to a book that&#x2019;s the first of its kind for educational
 publishing.</img></p>
@@ -37,8 +37,8 @@ pay careful attention to their understanding and practices,
 especially their educational practices as brought to us in these
 thoughtful chapters.&quot;</p>
 <p>Read more about Professor England-Aytes&#xA0;<a href="../../../../kathryn-england-aytes.html" rel="nofollow">here</a>
-and <a href="http://sbgs.csumb.edu/faculty/kathryn-england-aytes" rel="nofollow">here</a>.</p>
-<p><a href="http://sbgs.csumb.edu/psychology-major" rel="nofollow">Learn about the psychology program at CSUMB.</a><br>
+and <a href="https://sbgs.csumb.edu/faculty/kathryn-england-aytes" rel="nofollow">here</a>.</p>
+<p><a href="https://sbgs.csumb.edu/psychology-major" rel="nofollow">Learn about the psychology program at CSUMB.</a><br>
 <br>
 <em><a href="../../../2012/nov/25/faculty-highlights.html" rel="nofollow">Read about what faculty members at CSUMB are
 doing.</a></em><br>

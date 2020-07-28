@@ -13,7 +13,7 @@ slug: fbi-profiler-visits-campus-march-13
 <p>The community is invited to attend a lecture on March 13 by an
 FBI agent who works as a profiler in the bureau&#x2019;s Behavioral
 Analysis Unit, which deals with crimes against children.</p>
-<p><img alt="FBI seal" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/fbi_and_seal_0.jpg" style="float:left; width:224px; height:168px">Supervisory Special
+<p><img alt="FBI seal" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/fbi_and_seal_0.jpg" style="float:left; width:224px; height:168px">Supervisory Special
 Agent Mike Yoder will visit California State University, Monterey
 Bay for a talk on &#x201C;Child Molesters in Their Words: What Can We
 Learn?,&#x201D; about his work in the area of forensic psychology and sex
@@ -35,7 +35,7 @@ sex offenders and those engaged in child pornography.</p>
 on Sixth Avenue at B Street. It&#x2019;s free, but attendees are asked to
 RSVP to Heather Wilde at 831-582-4332.</p>
 <p>A parking permit must be purchased from a machine in the parking
-lot. <a href="http://csumb.edu/map" rel="nofollow">Driving
+lot. <a href="https://csumb.edu/map" rel="nofollow">Driving
 directions and a campus map&#xA0;</a><br>
 &#xA0;&#xA0;</br></p>
 

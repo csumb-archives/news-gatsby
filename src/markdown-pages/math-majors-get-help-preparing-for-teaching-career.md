@@ -51,6 +51,6 @@ date: January 01 2020
   Congress passed the Robert Noyce National Math and Science Teachers Corps Act
   in 1990 as a tribute to the late Robert N. Noyce, co-inventor of the computer
   chip and founder of Intel.
-  <a href="http://csumb.edu/math">Learn more about the math program at CSUMB</a>
+  <a href="https://csumb.edu/math">Learn more about the math program at CSUMB</a>
 </p>
 ```

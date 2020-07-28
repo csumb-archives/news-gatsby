@@ -13,7 +13,7 @@ slug: dr.-ilene-feinman-appointed-dean-of-cahss
 Cruz-Uribe has announced the appointment of Dr. Ilene Feinman to
 the position of dean of the College of Arts, Humanities and Social
 Sciences.</p>
-<p><img alt="Dr. Ilene Feinman" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/feinman.ilene_.small__0.jpg" style="float:left; width:250px; height:295px">Dr. Feinman, who
+<p><img alt="Dr. Ilene Feinman" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/feinman.ilene_.small__0.jpg" style="float:left; width:250px; height:295px">Dr. Feinman, who
 has served as interim dean since October 2011, will continue to
 oversee the academic programs in the college, which are offered by
 the Division of Humanities and Communication; the Division of
@@ -50,7 +50,7 @@ the University of California, Santa Cruz in 1997. She earned her
 bachelor&#x2019;s degree in Integrated Studies from UC Santa Cruz in
 1988.</br></br></p>
 <p>Learn more about the College of Arts, Humanities and Social
-Sciences <a href="http://cahss.csumb.edu/welcome-cahss" rel="nofollow">here</a>.&#xA0;<br>
+Sciences <a href="https://cahss.csumb.edu/welcome-cahss" rel="nofollow">here</a>.&#xA0;<br>
 &#xA0;</br></p>
 
 

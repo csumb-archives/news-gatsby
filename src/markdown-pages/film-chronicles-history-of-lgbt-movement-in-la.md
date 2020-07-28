@@ -31,7 +31,7 @@ date: January 01 2020
   audiences.
 </p>
 <p>A question-and-answer session will follow the screening.</p>
-<p>Watch the trailer <a href="http://impactstories.org/film.htm">here</a>.</p>
+<p>Watch the trailer <a href="https://impactstories.org/film.htm">here</a>.</p>
 <p>
   The presentation is sponsored by the Division of Humanities and Communication,
   Out &amp; About and the Department of Teledramatic Arts and Technology.

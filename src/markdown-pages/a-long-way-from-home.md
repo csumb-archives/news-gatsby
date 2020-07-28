@@ -50,8 +50,8 @@ date: January 01 2020
   They expect to average 60 miles a day. En route to New York, they will travel
   through Oregon, Idaho, Montana, Wyoming, North Dakota, Minnesota, Iowa,
   Illinois, Indiana, Ohio and Pennsylvania. Visit their
-  <a href="http://alongwayfromhome2014.weebly.com">blog</a> Follow them on
-  <a href="http://Facebook.com/alongwayfromhome2014">Facebook</a>
+  <a href="https://alongwayfromhome2014.weebly.com">blog</a> Follow them on
+  <a href="https://Facebook.com/alongwayfromhome2014">Facebook</a>
 </p>
 <p>
   <em

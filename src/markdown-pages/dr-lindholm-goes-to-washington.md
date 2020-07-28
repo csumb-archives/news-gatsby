@@ -32,15 +32,15 @@ date: January 01 2020
   accurate and objective.
 </p>
 <p>
-  <a href="http://sep.csumb.edu/staff/james/">Dr. Lindholm</a> is the James W.
+  <a href="https://sep.csumb.edu/staff/james/">Dr. Lindholm</a> is the James W.
   Rote Distinguished Professor of Marine Science and Policy and director of the
-  <a href="http://sep.csumb.edu/ifame/">Institute for Applied Marine Ecology</a
+  <a href="https://sep.csumb.edu/ifame/">Institute for Applied Marine Ecology</a
   >. His research interests include ecology of marine fishes, habitat response
   to fishing, and design and efficacy of marine protected areas.
 </p>
 <p>
   <a
-    href="http://kazu.org/post/scientists-catalog-life-monterey-bay-national-marine-sanctuary"
+    href="https://kazu.org/post/scientists-catalog-life-monterey-bay-national-marine-sanctuary"
     >Read the KAZU story on Dr. Lindholm's work in the Monterey Bay National
     Marine Sanctuary</a
   >

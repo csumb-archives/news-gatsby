@@ -12,7 +12,7 @@ slug: animator-don-hertzfeldt-visits-csumb-jan.-30
 <h3>Cult figure to screen his newest film</h3>
 <p>Stick figures have never looked as good as they do in Don
 Hertzfeldt&#x2019;s films.</p>
-<p><img alt="Hertzfeldt at work" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/hertzfeldt_at_animation_desk.jpg" style="float:left; width:320px; height:240px">While most
+<p><img alt="Hertzfeldt at work" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/hertzfeldt_at_animation_desk.jpg" style="float:left; width:320px; height:240px">While most
 animators have tossed aside their pencils in favor of computers,
 the Oscar-nominated filmmaker still works by hand.</img></p>
 <p>The public will get an opportunity to see Hertzfeldt&#x2019;s work when
@@ -35,7 +35,7 @@ a time.</p>
 <p>Among the cult animator&#x2019;s best-known films are &#x201C;Rejected,&#x201D;
 &#x201C;Everything will be OK,&#x201D; and &#x201C;I am so Proud of You.&#x201D;<br>
 <br>
-<img alt="Hand-drawn stick figures are featured in his work" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/beautifulday-11.jpg" style="float:left; width:300px; height:263px">Over his career,
+<img alt="Hand-drawn stick figures are featured in his work" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/beautifulday-11.jpg" style="float:left; width:300px; height:263px">Over his career,
 Hertzfeldt has remained fiercely independent by sticking to short
 format and challenging the boundaries of his craft. The work is
 enormously popular; his films are frequently referenced in pop

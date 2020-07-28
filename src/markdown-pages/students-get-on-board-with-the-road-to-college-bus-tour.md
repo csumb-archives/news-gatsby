@@ -44,7 +44,7 @@ date: January 01 2020
 <p></p>
 <p>
   More information is available
-  <a href="http://www.calstate.edu/roadtocollege">here</a>.
+  <a href="https://www.calstate.edu/roadtocollege">here</a>.
 </p>
 <p></p>
 ```

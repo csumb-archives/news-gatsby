@@ -45,7 +45,7 @@ slug: alum-wins-firstnight
 <p>
   View the full poster
   <a
-    href="http://news.csumb.edu/sites/default/files/65/igx_migrate/files/FirstNightposter.pdf"
+    href="https://news.csumb.edu/sites/default/files/65/igx_migrate/files/FirstNightposter.pdf"
     rel="nofollow"
     >here</a
   >.

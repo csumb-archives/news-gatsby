@@ -39,7 +39,7 @@ date: January 01 2020
 <p>
   To read more about the Monterey Bay Film Festival, click
   <a
-    href="http://news.csumb.edu/news/2011/mar/25/film-festival-transcends-borders"
+    href="https://news.csumb.edu/news/2011/mar/25/film-festival-transcends-borders"
     >here</a
   >.
 </p>

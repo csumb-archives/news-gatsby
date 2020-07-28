@@ -20,7 +20,7 @@ and Scripps Institution of Oceanography.</em></p>
 &#xA0;</br></br></p>
 <p>For some college students, summer is a time to put the books
 away for a few months and kick back.</p>
-<p><img alt="Mitchell Takata working at Bird Rock, Catalina Island" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/student_surveying_0.jpg" style="float:right; width:350px; height:234px">That&#x2019;s not the
+<p><img alt="Mitchell Takata working at Bird Rock, Catalina Island" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/student_surveying_0.jpg" style="float:right; width:350px; height:234px">That&#x2019;s not the
 case for dozens of CSU Monterey Bay students involved with the
 Undergraduate Research Opportunities Center or UROC. Those students
 &#x2013; including Alex Neu &#x2013; are spending their summers conducting
@@ -37,7 +37,7 @@ business, global studies, human communication, music and math.</p>
 change on rocky reef communities in La Jolla as part of a Sea
 Grant-funded project. Among his daily activities, he monitors pH
 levels in various samples.</p>
-<p><img alt="Alex Neu taking a pH reading" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/alex_phreading-2_0.jpg" style="float:left; width:250px; height:345px">He&#x2019;s looking at how
+<p><img alt="Alex Neu taking a pH reading" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/alex_phreading-2_0.jpg" style="float:left; width:250px; height:345px">He&#x2019;s looking at how
 ocean acidification affects two species of algae, one native and
 one invasive.</img></p>
 <p>&#x201C;We&#x2019;re excited to see what kind of results we&#x2019;ll find. Will one
@@ -58,7 +58,7 @@ and 2 a.m. high tide snorkel surveys for lobsters,&#x201D; Dr. Garza said.
 well.</p>
 <p>&#x201C;And he&#x2019;s been a big help to the two graduate students in my
 lab,&#x201D; Dr. Garza said.</p>
-<p><a href="http://csumb.edu/uroc" rel="nofollow">Learn more about
+<p><a href="https://csumb.edu/uroc" rel="nofollow">Learn more about
 UROC here</a>.</p>
 <p>A sampling of the work students are doing this summer:</p>
 <p><strong>Emily Aiken (Marine Science)</strong><br>

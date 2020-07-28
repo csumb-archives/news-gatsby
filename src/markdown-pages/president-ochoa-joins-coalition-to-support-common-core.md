@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   CSU Monterey Bay President Eduardo Ochoa has joined more than 200 college and
   university leaders from 33 states in a new coalition,
-  <a href="http://www.higheredforhigherstandards.org"
+  <a href="https://www.higheredforhigherstandards.org"
     >Higher Ed for Higher Standards</a
   >, to mobilize in support of the Common Core State Standards.
 </p>

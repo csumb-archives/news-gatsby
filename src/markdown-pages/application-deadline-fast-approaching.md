@@ -35,7 +35,7 @@ date: January 01 2020
 </p>
 <p>
   High school seniors can visit
-  <a href="http://www.csumentor.edu" title="www.csumentor.edu"
+  <a href="https://www.csumentor.edu" title="www.csumentor.edu"
     >www.csumentor.edu</a
   >
   to submit applications. More information is available by calling the CSUMB

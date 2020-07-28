@@ -19,7 +19,7 @@ date: January 01 2020
   short sets, which are recorded by students in the university’s recording
   technology program and video is shot. The final product is
   <a
-    href="http://sharedvisionfilms.com/post/49519527904/dangerbag-is-proud-to-present-another-video"
+    href="https://sharedvisionfilms.com/post/49519527904/dangerbag-is-proud-to-present-another-video"
     >posted online</a
   >.
 </p>

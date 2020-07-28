@@ -77,7 +77,7 @@ date: January 01 2020
 </p>
 <p>
   To see a photo gallery from the trip, click
-  <a href="http://sep.csumb.edu/class/ENVS303/2011/index.htm">here</a>.
+  <a href="https://sep.csumb.edu/class/ENVS303/2011/index.htm">here</a>.
 </p>
 <p>
   To learn about CSUMB’s Science and Environmental Policy program, click

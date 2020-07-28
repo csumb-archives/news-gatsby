@@ -45,6 +45,6 @@ date: January 01 2020
   Students pay the same fees and are eligible for the same financial aid they
   would qualify for at CSUMB. For more information on the California State
   University's International Programs, visit
-  <a href="http://www.calstate.edu/ip">www.calstate.edu/ip</a>
+  <a href="https://www.calstate.edu/ip">www.calstate.edu/ip</a>
 </p>
 ```

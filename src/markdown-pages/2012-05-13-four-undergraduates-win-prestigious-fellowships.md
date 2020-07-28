@@ -12,7 +12,7 @@ slug: four-undergraduates-win-prestigious-fellowships
 <p>As they wrap up impressive undergraduate careers and receive
 their degrees on May 19, four science students are looking ahead
 with lofty goals of what they want to accomplish.</p>
-<p><img alt="Alex Davis conducts underwater research" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/alexandradavisaquarius_sm.jpg" style="float:left; width:375px; height:353px">With a couple of
+<p><img alt="Alex Davis conducts underwater research" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/alexandradavisaquarius_sm.jpg" style="float:left; width:375px; height:353px">With a couple of
 years of research already completed, Isael Rubio of Salinas, Kevin
 Johnson of Hollister, Eric Ross of Los Osos and Alexandra Davis of
 Albuquerque, N.M., are poised to make contributions in their
@@ -58,7 +58,7 @@ Fellows include numerous individuals who have made transformative
 breakthroughs in science and engineering research, many who have
 become leaders in their fields, and some who have been honored as
 Nobel laureates.&#x201D;</p>
-<p>Learn more about&#xA0;<a href="http://uroc.csumb.edu/" rel="nofollow">UROC.</a></p>
+<p>Learn more about&#xA0;<a href="https://uroc.csumb.edu/" rel="nofollow">UROC.</a></p>
 <p class="small"><em>Photo: Alexandra Davis conducts research in
 the Florida Keys as part of a team of aquanauts working on
 Aquarius, the world&apos;s only underwater research station.</em></p>

@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   The
   <a
-    href="http://news.csumb.edu/news/2013/nov/18/campus&#45;celebrates&#45;investiture&#45;president&#45;eduardo&#45;ochoa"
+    href="https://news.csumb.edu/news/2013/nov/18/campus&#45;celebrates&#45;investiture&#45;president&#45;eduardo&#45;ochoa"
     >investiture of the president</a
   >, groundbreaking for a new academic building and good news on the budget
   front highlighted 2013 at CSU Monterey Bay.
@@ -16,7 +16,7 @@ date: January 01 2020
 <p>
   President Eduardo Ochoa laid out a
   <a
-    href="http://president.csumb.edu/sites/default/files/52/attachments/files/presidentochoasinvestiturespeech0.pdf"
+    href="https://president.csumb.edu/sites/default/files/52/attachments/files/presidentochoasinvestiturespeech0.pdf"
     >blueprint for the university’s future</a
   >
   during his investiture ceremony Nov. 15 in which fellow academics, staff and
@@ -38,7 +38,7 @@ date: January 01 2020
 <p>
   Earlier that week, community leaders and friends of the university joined the
   campus community to mark the groundbreaking for a<a
-    href="http://news.csumb.edu/news/2013/nov/18/ceremonial&#45;groundbreaking&#45;bit&#45;building"
+    href="https://news.csumb.edu/news/2013/nov/18/ceremonial&#45;groundbreaking&#45;bit&#45;building"
     >new academic building</a
   >. The $43 million, 58,000&#45;square&#45;foot structure will house the
   College of Business and the School of School of Computing and Design. The
@@ -55,24 +55,24 @@ date: January 01 2020
   Another bit of good news: In his investiture remarks, President Ochoa
   announced that $30 million has been made available by the CSU to
   <a
-    href="http://president.csumb.edu/news/2013/dec/6/progress&#45;blight&#45;removal"
+    href="https://president.csumb.edu/news/2013/dec/6/progress&#45;blight&#45;removal"
     >remove all 78 of the remaining obsolete former Army buildings on campus.</a
   >
   The project is expected take three to five years.
 </p>
 <p>Among the year’s academic milestones:</p>
 <p>
-  • The <a href="http://business.csumb.edu/">College of Business</a> was
+  • The <a href="https://business.csumb.edu/">College of Business</a> was
   established and
   <a
-    href="http://news.csumb.edu/news/2013/may/31/business&#45;dean&#45;joins&#45;csumb?utm_source=card&amp;utmmedium=tall&amp;utmcampaign=card"
+    href="https://news.csumb.edu/news/2013/may/31/business&#45;dean&#45;joins&#45;csumb?utm_source=card&amp;utmmedium=tall&amp;utmcampaign=card"
     >Dr. Shyam Kamath</a
   >
   was hired to be the first dean
 </p>
 <p>
   • The first graduates of the
-  <a href="http://msw.csumb.edu/">Master of Social Work</a> program received
+  <a href="https://msw.csumb.edu/">Master of Social Work</a> program received
   their degrees in May
 </p>
 <p>
@@ -86,7 +86,7 @@ date: January 01 2020
   Innovation was a theme throughout the year. More than 20 faculty projects to
   promote innovation in teaching and learning were funded through the annual
   fund. And the
-  <a href="http://president.csumb.edu/speaker&#45;series"
+  <a href="https://president.csumb.edu/speaker&#45;series"
     >President’s Speaker Series</a
   >, “Disruptive Innovation in Higher Education,” focused on the challenges
   facing higher education in an era of increased demand, changing demographics
@@ -95,7 +95,7 @@ date: January 01 2020
 <p>
   Last spring, CSUMB held a
   <a
-    href="http://president.csumb.edu/news/2013/mar/28/raising&#45;our&#45;visibility&#45;community"
+    href="https://president.csumb.edu/news/2013/mar/28/raising&#45;our&#45;visibility&#45;community"
     >welcome home event for Leon Panetta</a
   >. “It was a great pleasure to host the event because of the instrumental role
   that he played in the founding of our university and our close ties with the
@@ -104,7 +104,7 @@ date: January 01 2020
 <p>
   Another event that brought many community members to campus was the
   <a
-    href="http://news.csumb.edu/news/2013/dec/4/planning&#45;future&#45;fort&#45;ord"
+    href="https://news.csumb.edu/news/2013/dec/4/planning&#45;future&#45;fort&#45;ord"
     >Fort Ord Colloquium</a
   >
   in December. The two&#45;day event featured national experts in planning,
@@ -118,7 +118,7 @@ date: January 01 2020
 </p>
 <p>
   The
-  <a href="http://extended.csumb.edu/osher&#45;lifelong&#45;learning.htm"
+  <a href="https://extended.csumb.edu/osher&#45;lifelong&#45;learning.htm"
     >Osher Lifelong Learning Institute</a
   >
   – known as OLLI – brought a record number of people to campus. It recently

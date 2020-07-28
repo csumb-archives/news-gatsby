@@ -30,7 +30,7 @@ date: January 01 2020
 </p>
 <p>
   Students in CSUMB’s
-  <a href="http://vpa.csumb.edu">Visual and Public Art Department</a> see the
+  <a href="https://vpa.csumb.edu">Visual and Public Art Department</a> see the
   project as a chance to hone their skills.
 </p>
 <p>
@@ -45,7 +45,7 @@ date: January 01 2020
 </p>
 <p>The Arts Council for Monterey County is sponsoring the project.</p>
 <p>
-  <a href="http://news.csumb.edu/gallery/murals-highlight-pajaro-park"
+  <a href="https://news.csumb.edu/gallery/murals-highlight-pajaro-park"
     >See more photos here.</a
   >
 </p>

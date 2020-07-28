@@ -23,7 +23,7 @@ date: January 01 2020
   will provide information on the application and admission process, including
   virtual tours through CSUMentor.edu, the website that provides the tools to
   plan and apply to a CSU campus. Copies of the
-  <a href="http://www.calstate.edu/college/">How to Get to College</a> poster –
+  <a href="https://www.calstate.edu/college/">How to Get to College</a> poster –
   a practical guide about how to prepare for college – will be distributed. The
   guide, available in several languages, in print and electronic form, provides
   the list of classes that students need to take from sixth grade to 12th grade

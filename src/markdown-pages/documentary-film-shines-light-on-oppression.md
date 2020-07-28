@@ -13,7 +13,7 @@ date: January 01 2020
 </p>
 <p>
   The documentary was made by award&#45;winning filmmaker and journalist
-  <a href="http://www.imdb.com/name/nm0046867/">Maziar Bahari</a>. Through
+  <a href="https://www.imdb.com/name/nm0046867/">Maziar Bahari</a>. Through
   dozens of interviews, it tells the story of Bahá'ís who have lost family
   members over the last three decades due to ongoing religious persecution. It
   gives a vivid picture of a community that has been silenced and oppressed for
@@ -28,13 +28,13 @@ date: January 01 2020
 </p>
 <p>
   Bahari is a former
-  <a href="http://www.newsweek.com/authors/maziar&#45;bahari"
+  <a href="https://www.newsweek.com/authors/maziar&#45;bahari"
     >Newsweek correspondent</a
   >
   in Tehran, and the author of the memoir "And Then They Came After Me," which
   was
   <a
-    href="http://www.rferl.org/content/interview&#45;rosewater&#45;bahari&#45;maziar/26694770.html"
+    href="https://www.rferl.org/content/interview&#45;rosewater&#45;bahari&#45;maziar/26694770.html"
     >adapted for the screen by Jon Stewart</a
   >. Following Iran's 2009 presidential election, Bahari was arrested and
   detained for more than four months in Iran's most notorious prison. Right

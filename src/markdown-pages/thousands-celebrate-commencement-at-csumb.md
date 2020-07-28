@@ -57,14 +57,14 @@ date: January 01 2020
   his distinguished service to the university. To learn more about Dr. Rivlin,
   click
   <a
-    href="http://news.csumb.edu/news/2012/apr/3/nationally-known-economist-alice-rivlin-deliver-commencement-address"
+    href="https://news.csumb.edu/news/2012/apr/3/nationally-known-economist-alice-rivlin-deliver-commencement-address"
     >here</a
   >. To read her commencement address, click
   <a
-    href="http://news.csumb.edu/news/2012/may/19/commencement-remarks-alice-rivlin"
+    href="https://news.csumb.edu/news/2012/may/19/commencement-remarks-alice-rivlin"
     >here</a
   >. To see more photos, click
-  <a href="http://news.csumb.edu/gallery/thousands-celebrate-2012-commencement"
+  <a href="https://news.csumb.edu/gallery/thousands-celebrate-2012-commencement"
     >here</a
   >.
 </p>

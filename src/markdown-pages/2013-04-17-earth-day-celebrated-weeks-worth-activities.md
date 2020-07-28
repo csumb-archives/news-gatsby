@@ -11,7 +11,7 @@ slug: earth-day-celebrated-with-week&apos;s-worth-of-activities
 <span class="date">Posted on Apr 17, 2013    </span>
 <h3><em>Earth to CSUMB</em></h3>
 <p>Earth Day is really Earth <em>Week</em> at CSU Monterey Bay.</p>
-<p><img alt="Earth Day logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/earth_day_2013.jpg" style="float:left; width:300px; height:321px">Since the first
+<p><img alt="Earth Day logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/earth_day_2013.jpg" style="float:left; width:300px; height:321px">Since the first
 Earth Day in 1970, people around the world have sought to celebrate
 the planet through a variety of individual and community
 activities. But Earth Day is about more than observing the beauty
@@ -55,14 +55,14 @@ Committee will sponsor a night hike from 7:30 to 10 p.m.<br>
 The week ends with a reggae concert on <strong>Friday, April
 26</strong>, at the Black Box Cabaret.<br>
 <br>
-<a href="http://ron.csumb.edu/calendar" rel="nofollow">See what
+<a href="https://ron.csumb.edu/calendar" rel="nofollow">See what
 CSUMB&#x2019;s Return of the Natives project has planned for April 20 to
 celebrate Earth Day.</a><br>
 <br>
 <a href="charge-your-ride.html" rel="nofollow">A variety of recent
 transportation initiatives are helping to reduce vehicle-related
 greenhouse gas emissions on campus.</a></br></br></br></br></br></br></br></br></br></br></br></br></p>
-<p><a href="http://ideals.csumb.edu/sustainability" rel="nofollow">Learn more about sustainability efforts at
+<p><a href="https://ideals.csumb.edu/sustainability" rel="nofollow">Learn more about sustainability efforts at
 CSUMB.</a><br>
 &#xA0;</br></p>
 

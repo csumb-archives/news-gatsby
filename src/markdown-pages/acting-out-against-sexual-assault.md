@@ -9,7 +9,7 @@ date: January 01 2020
 <p>
   On Sept. 2, an acting troupe, Catharsis Productions, will make its first
   appearance at CSU Monterey Bay in a production called “<a
-    href="http://www.catharsisproductions.com/sexsignals.php"
+    href="https://www.catharsisproductions.com/sexsignals.php"
     >Sex Signals</a
   >.”
 </p>
@@ -29,10 +29,10 @@ date: January 01 2020
   installations. Members of the community are invited to attend the free
   presentation at 7:30 p.m., Sept. 2, in the University Center ballroom. The
   University Center is located on Sixth Avenue at B Street. Driving directions
-  and a campus map are available <a href="http://csumb.edu/maps">here.</a> While
+  and a campus map are available <a href="https://csumb.edu/maps">here.</a> While
   the presentation is free, a parking permit is required and can be purchased
   from a machine on the lot or
-  <a href="http://parking.csumb.edu/buy-permit">online</a>.
+  <a href="https://parking.csumb.edu/buy-permit">online</a>.
 </p>
 <p>
   The event is sponsored by Associated Students; CSUMB’s Office of Student

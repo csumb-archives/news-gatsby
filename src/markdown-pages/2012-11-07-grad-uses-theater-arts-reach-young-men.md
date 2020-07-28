@@ -12,7 +12,7 @@ slug: grad-uses-theater-arts-to-reach-young-men
 <p>Gilbert Salazar was born to work with young people. He has spent
 years teaching, guiding and mentoring them in a variety of
 settings.</p>
-<p><img alt="Gilbert Salazar" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/salazar_gilbert.jpg" style="float:left; width:200px; height:267px">Now the former
+<p><img alt="Gilbert Salazar" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/salazar_gilbert.jpg" style="float:left; width:200px; height:267px">Now the former
 Service Learning Student Leader and 2008 graduate of CSU Monterey
 Bay&#x2019;s integrated studies special major is headed to the University
 of Southern California to pursue a Master of Arts degree in applied

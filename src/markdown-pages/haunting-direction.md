@@ -40,7 +40,7 @@ date: January 01 2020
   the film, I felt as though I was making it for them.”
 </p>
 <p>
-  <a href="http://tat.csumb.edu"
+  <a href="https://tat.csumb.edu"
     >Learn more about the Teledramatic Arts and Technology Department.
   </a>
 </p>

@@ -45,7 +45,7 @@ date: January 01 2020
   performing arts, and allow them to explore technology,” said Carl Del Grande,
   the administrator and coordinator of
   <a
-    href="http://www.monterey.k12.ca.us/programs-services/migrant-services/index"
+    href="https://www.monterey.k12.ca.us/programs-services/migrant-services/index"
     >Migrant Education for the Monterey County Office of Education (MCOE)</a
   >. “This year’s theme was STEAM (Science, Technology, Engineering + Arts and
   Mathematics) and the activities and presentations reinforced this.”
@@ -54,7 +54,7 @@ date: January 01 2020
   The Junior Otter program is a Migrant Education Student Academy (MESA), part
   of MCOE’s Migrant Education Program Region XVI. It’s operated in partnership
   between CSUMB,
-  <a href="http://elteatrocampesino.com/">El Teatro Campesino</a> and the
+  <a href="https://elteatrocampesino.com/">El Teatro Campesino</a> and the
   <a href="https://csumb.edu/minicorps">California Mini-Corp Program</a>.
 </p>
 <p>

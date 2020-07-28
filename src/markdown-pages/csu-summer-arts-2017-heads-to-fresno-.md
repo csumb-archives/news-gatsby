@@ -17,12 +17,12 @@ date: January 01 2020
 <p>
   CSUMB’s Umi Vaughan from the School of Humanities &amp; Communication will be
   leading his course
-  <a href="http://blogs.calstate.edu/summerarts/courses/drum&#45;talk/"
+  <a href="https://blogs.calstate.edu/summerarts/courses/drum&#45;talk/"
     >Drum Talk: Rhythms From Cuba and Brazil</a
   >
   from July 10 through July 23, 2017. The deadline to apply is May 15, 2017.
   Further details for how and who should apply are available at the
-  <a href="http://blogs.calstate.edu/summerarts/courses/drum&#45;talk/"
+  <a href="https://blogs.calstate.edu/summerarts/courses/drum&#45;talk/"
     >CSU Summer Arts Drum Talk course page</a
   >.
 </p>
@@ -32,7 +32,7 @@ date: January 01 2020
   media/animation, music and theater. The full course listing, schedule of
   events, information about scholarships and application deadlines are available
   at the
-  <a href="http://blogs.calstate.edu/summerarts/program&#45;details/"
+  <a href="https://blogs.calstate.edu/summerarts/program&#45;details/"
     >CSU Summer Arts homepage</a
   >.
 </p>

@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>
   Images from the
-  <a href="http://seafloor.otterlabs.org">Seafloor Mapping Lab </a>at CSU
+  <a href="https://seafloor.otterlabs.org">Seafloor Mapping Lab </a>at CSU
   Monterey Bay have been put to use by an East Coast artist.
 </p>
 <p>
@@ -38,7 +38,7 @@ date: January 01 2020
 </p>
 <p>“I am glad to see our efforts are of value to the arts.”</p>
 <p>
-  According to her <a href="http://margaretboozer.com">website</a>, Boozer’s
+  According to her <a href="https://margaretboozer.com">website</a>, Boozer’s
   work is included in the collection of the Smithsonian American Art Museum, the
   Museum of the City of New York, the U.S. Department of State, and in many
   private collections. Recent projects include a commissioned installation at

@@ -30,7 +30,7 @@ Students learn art of leadership
   culmination of skills that a person accumulates over time, Mailly said.<img
     alt="Andrea Mosby"
     height="200"
-    src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Andrea%20Mosby.jpg"
+    src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Andrea%20Mosby.jpg"
     style="float:right"
     width="160"
   />
@@ -43,7 +43,7 @@ Students learn art of leadership
   <img
     alt="Corey Ciochetti"
     height="200"
-    src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Corey%20Ciocchetti.jpg"
+    src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Corey%20Ciocchetti.jpg"
     style="float:left"
     width="133"
   />

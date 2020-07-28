@@ -9,20 +9,20 @@ slug: seeds-of-success
 
 
 <span class="date">Posted on Nov 12, 2013    </span>
-<p><img alt="Seed libraries are opening around California" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/seed_library.jpg" style="float:right; width:350px; height:233px">When a CSU
+<p><img alt="Seed libraries are opening around California" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/seed_library.jpg" style="float:right; width:350px; height:233px">When a CSU
 Monterey Bay student&#x2019;s capstone project is completed, local
 residents will be able to grow their own food, with help from an
 unlikely source.</img></p>
 <p>Heather Cunningham is working to set up a seed library at the
 Monterey Public Library as part of the graduation requirements for
-her degree in <a href="http://sep.csumb.edu/es/" rel="nofollow">Environmental Studies.</a></p>
+her degree in <a href="https://sep.csumb.edu/es/" rel="nofollow">Environmental Studies.</a></p>
 <p>Cunningham points out that the idea is taking root across the
 country, with about 30 in operation, mostly in public libraries in
 California.</p>
 <p>The concept is simple: patrons &#x201C;check out&#x201D; seeds, take them home
 to grow nutritious food for their families, harvest new seeds and
 return them so the library can lend them out to others.</p>
-<p><img alt="Heather Cunningham" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/heather_cunningham_for_web.jpg" style="float:left; width:183px; height:266px">The seed library
+<p><img alt="Heather Cunningham" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/heather_cunningham_for_web.jpg" style="float:left; width:183px; height:266px">The seed library
 movement is an excellent opportunity for grassroots action to
 reduce use of non-renewable resources associated with food items,
 Cunningham said. &#x201C;A seed library can contribute to the celebration
@@ -56,7 +56,7 @@ resources she values.</p>
 <p>&#x201C;I want to learn how to effectively work with a community to get
 projects off the ground and happening,&quot; she said. &quot;This project is
 a perfect opportunity to experience that process.&quot;</p>
-<p><a href="http://sep.csumb.edu/es/" rel="nofollow">Learn more
+<p><a href="https://sep.csumb.edu/es/" rel="nofollow">Learn more
 about the Environmental Studies program at CSUMB</a>.</p>
 <p class="small"><em>Photo: Heather Cunningham</em></p>
 <p>&#xA0;</p>

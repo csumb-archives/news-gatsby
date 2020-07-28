@@ -76,6 +76,6 @@ date: January 01 2020
 </p>
 <p>
   The event is sponsored by CSUMB's Osher Lifelong Learning Institute. Learn
-  more about OLLI <a href="http://csumb.edu/olli">here</a>.
+  more about OLLI <a href="https://csumb.edu/olli">here</a>.
 </p>
 ```

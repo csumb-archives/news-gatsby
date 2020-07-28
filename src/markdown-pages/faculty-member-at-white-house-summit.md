@@ -32,10 +32,10 @@ date: January 01 2020
   providing disability-related caregiving for a portion of one’s working life,”
   she said. President Barack Obama, First Lady Michelle Obama, Vice President
   Joe Biden and Dr. Jill Biden will be in attendance.
-  <a href="http://workingfamiliessummit.org"
+  <a href="https://workingfamiliessummit.org"
     >Learn more about the summit here.</a
   >
 </p>
-<p><a href="http://msw.csumb.edu">Learn about the MSW program at CSUMB</a></p>
+<p><a href="https://msw.csumb.edu">Learn about the MSW program at CSUMB</a></p>
 <p></p>
 ```

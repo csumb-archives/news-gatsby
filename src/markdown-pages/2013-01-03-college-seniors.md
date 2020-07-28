@@ -13,7 +13,7 @@ slug: college-seniors
 50-and-better folks back to school</h3>
 <p>What do Gabriel Garcia Marquez, submarine canyons and the
 Chinese economy have in common?</p>
-<p><img alt="OLLI&apos;s spring 2013 semester gets under way Jan. 23" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/olli_thumbnail.jpg" style="float:left; width:200px; height:259px">They are among the
+<p><img alt="OLLI&apos;s spring 2013 semester gets under way Jan. 23" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/olli_thumbnail.jpg" style="float:left; width:200px; height:259px">They are among the
 classes that will be offered this semester through the Osher
 Lifelong Learning Institute &#x2013; OLLI &#x2013; at California State
 University, Monterey Bay.</img></p>
@@ -52,7 +52,7 @@ membership is available for $210, which includes an unlimited
 number of courses. Memberships include discounts on campus events
 and other benefits.</p>
 <p>For more information or to register for classes, call 582-5500
-or visit OLLI <a href="http://olli.csumb.edu" rel="nofollow">online</a>.</p>
+or visit OLLI <a href="https://olli.csumb.edu" rel="nofollow">online</a>.</p>
 
 
 

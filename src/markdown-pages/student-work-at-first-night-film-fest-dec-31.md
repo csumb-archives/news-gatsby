@@ -18,7 +18,7 @@ date: January 01 2020
   Museum of Monterey – formerly the Maritime Museum – nine short films will be
   screened. They include documentaries, animation and narratives. A lising of
   the films to be screened can be found
-  <a href="http://www.firstnightmonterey.org/FNM2012/Film.html">here</a>.
+  <a href="https://www.firstnightmonterey.org/FNM2012/Film.html">here</a>.
 </p>
 <p>
   More than 70 performances are scheduled at 20 venues and locales across the
@@ -37,7 +37,7 @@ date: January 01 2020
 </p>
 <p>
   A complete schedule is available
-  <a href="http://www.firstnightmonterey.org.">here</a>.
+  <a href="https://www.firstnightmonterey.org.">here</a>.
 </p>
 <p>The film fest isn't CSUMB's only contribution to First Night.</p>
 <p>
@@ -67,10 +67,10 @@ date: January 01 2020
 </p>
 <p>
   Learn more about the Teledramatic Arts and Technology program
-  <a href="http://tat.csumb.edu">here</a>.
+  <a href="https://tat.csumb.edu">here</a>.
 </p>
 <p>
   Learn more about the communication design program
-  <a href="http://itcd.csumb.edu/bs-cd">here</a>.
+  <a href="https://itcd.csumb.edu/bs-cd">here</a>.
 </p>
 ```

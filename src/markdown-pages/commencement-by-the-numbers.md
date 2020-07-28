@@ -49,7 +49,7 @@ date: January 01 2020
 <p>
   <strong>1:</strong> Number of years it will take commencement coordinator
   Phyllis Grillo to plan commencement 2015
-  <a href="http://csumb.edu/commencement">Read more about commencement here</a>.
+  <a href="https://csumb.edu/commencement">Read more about commencement here</a>.
 </p>
 <p>*Some numbers are estimates *</p>
 <p></p>

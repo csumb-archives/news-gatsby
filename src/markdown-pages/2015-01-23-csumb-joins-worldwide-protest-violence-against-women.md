@@ -11,9 +11,9 @@ slug: csumb-joins-worldwide-protest-of-violence-against-women
 <span class="date">Posted on Jan 23, 2015    </span>
 <p>Students at CSU Monterey Bay will gather on Feb. 13 to protest
 sexual violence toward women across the globe as part of the
-&#x201C;<a href="http://onebillionrising.org" rel="nofollow">One Billion
+&#x201C;<a href="https://onebillionrising.org" rel="nofollow">One Billion
 Rising</a>&#x201D; movement.</p>
-<p><img alt="logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/logo_for_web.jpg" style="width:221px; height:155px; float:left">A variety of campus
+<p><img alt="logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/logo_for_web.jpg" style="width:221px; height:155px; float:left">A variety of campus
 organizations &#x2013; the Title IX Task Force, the University Police
 Department, Associated Students, the Asian Pacific Islander
 Association, the Music and Performing Arts Department and Sodexo,
@@ -71,8 +71,8 @@ LeGal&#xA0;<br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/gl2AO-7Vlzk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/gl2AO-7Vlzk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/gl2AO-7Vlzk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/gl2AO-7Vlzk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -83,7 +83,7 @@ LeGal&#xA0;<br>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r3---sn-o097znez.googlevideo.com/videoplayback?expire=1422337641&amp;signature=F51AA38A74B4B331721BEB35DBC7376B8874427D.A6F8A917CCE7DEB4F83086ABA4A563B1A1D4E055&amp;source=youtube&amp;mm=31&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;key=yt5&amp;ipbits=0&amp;initcwndbps=4356250&amp;ip=198.189.249.65&amp;mv=m&amp;upn=qIsBF0OLZrg&amp;dur=179.699&amp;id=o-AIX-NLXV0JJCmWzxc4FTzE1ERgEzJKv2eJQnX901raHR&amp;sver=3&amp;itag=18&amp;pl=23&amp;mt=1422315984&amp;ratebypass=yes&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ms=au&amp;name=gl2AO-7Vlzk" type="video/mp4"/></video></div>
+<source src="https://r3---sn-o097znez.googlevideo.com/videoplayback?expire=1422337641&amp;signature=F51AA38A74B4B331721BEB35DBC7376B8874427D.A6F8A917CCE7DEB4F83086ABA4A563B1A1D4E055&amp;source=youtube&amp;mm=31&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;key=yt5&amp;ipbits=0&amp;initcwndbps=4356250&amp;ip=198.189.249.65&amp;mv=m&amp;upn=qIsBF0OLZrg&amp;dur=179.699&amp;id=o-AIX-NLXV0JJCmWzxc4FTzE1ERgEzJKv2eJQnX901raHR&amp;sver=3&amp;itag=18&amp;pl=23&amp;mt=1422315984&amp;ratebypass=yes&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ms=au&amp;name=gl2AO-7Vlzk" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

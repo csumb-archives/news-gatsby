@@ -12,7 +12,7 @@ slug: csumb-student-wins-film-scholarship
 <h3>Monterey County Film Commission honors another TAT student</h3>
 <p>Joey Blackburn is this year&#x2019;s recipient of the Monterey County
 Film Commission&#x2019;s student scholarship.</p>
-<p><img alt="Joey Blackburn" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/blackburn_joey_0.jpg" style="float:left; width:225px; height:225px">Blackburn, who will
+<p><img alt="Joey Blackburn" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/blackburn_joey_0.jpg" style="float:left; width:225px; height:225px">Blackburn, who will
 graduate later this month from California State University,
 Monterey Bay with a degree in Teledramatic Arts and Technology, is
 from Paso Robles. He plans to use the $2,000 grant to help with
@@ -46,8 +46,8 @@ Department as a media specialist &#x2013; was the winner. Rachel Asendorf
 received the award in 2010; Dominic Parisi was last year&#x2019;s
 winner.</p>
 <p>Learn more about the Teledramatic Arts and Technology Department
-<a href="http://csumb.edu/tat" rel="nofollow">here</a>.</p>
-<p>Learn more about the TAT Capstone Festival <a href="http://tat.csumb.edu/capstone" rel="nofollow">here</a>.</p>
+<a href="https://csumb.edu/tat" rel="nofollow">here</a>.</p>
+<p>Learn more about the TAT Capstone Festival <a href="https://tat.csumb.edu/capstone" rel="nofollow">here</a>.</p>
 
 
 

@@ -45,7 +45,7 @@ date: January 01 2020
 <p>
   The 2011 MST Rider’s Guide contains maps and schedules for all routes and is
   available at the Student Center, in Suite A of Mountain Hall, and online at
-  <a href="http://www.mst.org" title="www.mst.org">www.mst.org</a> and
+  <a href="https://www.mst.org" title="www.mst.org">www.mst.org</a> and
   csumb.edu/trip.
 </p>
 ```

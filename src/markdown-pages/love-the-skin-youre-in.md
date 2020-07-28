@@ -25,7 +25,7 @@ date: January 01 2020
   people to get help. The goal is also to spread a message of hope: Help is
   available, recovery is possible and those affected are not alone in their
   struggle. According to the group’s website,
-  <a href="http://www.nationaleatingdisorders.org:"
+  <a href="https://www.nationaleatingdisorders.org:"
     >www.nationaleatingdisorders.org:</a
   >
   • Nearly 10 million females and 1 million males in the U.S. are battling

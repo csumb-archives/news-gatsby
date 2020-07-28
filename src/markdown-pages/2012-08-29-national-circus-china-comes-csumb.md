@@ -10,7 +10,7 @@ slug: national-circus-of-china-comes-to-csumb
 
 <span class="date">Posted on Aug 29, 2012    </span>
 <h3>World Theater season opens with Sept. 18 performance</h3>
-<p><img alt="National Circus of the People&apos;s Republic of China visits Sept. 18" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/china_for_web_2.jpg" style="float:right; width:200px; height:251px">Last year, CSU
+<p><img alt="National Circus of the People&apos;s Republic of China visits Sept. 18" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/china_for_web_2.jpg" style="float:right; width:200px; height:251px">Last year, CSU
 Monterey Bay&#x2019;s World Theater brought Chinese acrobats to the area.
 This year, it&#x2019;s the circus.<br>
 <br>
@@ -37,9 +37,9 @@ exhibitions, Chinese yo-yos and multi-plate balancing. It&#x2019;s how we
 celebrate all the world&apos;s arts here at the World Theater,&quot;
 Cardinalli said.</p>
 <p>Tickets are $50 premium, $35 general. Discounts are available
-for students and seniors. Tickets can be purchased <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>&#xA0;or
+for students and seniors. Tickets can be purchased <a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>&#xA0;or
 by calling the box office at 582-4580.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.<img alt="The Chinese circus nspired the pioneers of Cirque du Soleil" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/china_for_web_3.jpg" style="float:left; width:450px; height:288px"/></p>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.<img alt="The Chinese circus nspired the pioneers of Cirque du Soleil" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/china_for_web_3.jpg" style="float:left; width:450px; height:288px"/></p>
 
 
 

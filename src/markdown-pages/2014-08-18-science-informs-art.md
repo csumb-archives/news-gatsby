@@ -9,9 +9,9 @@ slug: science-informs-art
 
 
 <span class="date">Posted on Aug 18, 2014    </span>
-<p>Images from the <a href="http://seafloor.otterlabs.org" rel="nofollow">Seafloor Mapping Lab</a> at CSU Monterey Bay have been
+<p>Images from the <a href="https://seafloor.otterlabs.org" rel="nofollow">Seafloor Mapping Lab</a> at CSU Monterey Bay have been
 put to use by an East Coast artist.&#xA0;</p>
-<p><img alt="Margaret Boozer in her studio" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/margaret_boozer.jpg" style="width:300px; height:400px; float:left">Margaret Boozer, a
+<p><img alt="Margaret Boozer in her studio" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/margaret_boozer.jpg" style="width:300px; height:400px; float:left">Margaret Boozer, a
 ceramist and sculptor with a studio in the Washington, D.C., area,
 tapped into the lab&#x2019;s website for her work on a commission for a
 private residence in San Francisco.</img></p>
@@ -28,7 +28,7 @@ use in their own work California&apos;s captivatingly beautiful natural
 landscape paterns that our seafloor mapping work has brought to
 light with sonar,&quot; he wrote to the artist.</p>
 <p>&#x201C;I am glad to see our efforts are of value to the arts.&#x201D;</p>
-<p>According to her <a href="http://margaretboozer.com" rel="nofollow">website</a>, Boozer&#x2019;s work is included in the collection
+<p>According to her <a href="https://margaretboozer.com" rel="nofollow">website</a>, Boozer&#x2019;s work is included in the collection
 of the Smithsonian American Art Museum, the Museum of the City of
 New York, the U.S. Department of State, and in many private
 collections. Recent projects include a commissioned installation at

@@ -5,7 +5,7 @@ date: January 01 2020
 ---
 
 ```html
-<h2><a href="http://www.facebook.com/CSUMB">Facebook</a></h2>
+<h2><a href="https://www.facebook.com/CSUMB">Facebook</a></h2>
 <p>
   "Like" us to keep up with campus news and events, ask questions, make
   comments, see photos and videos, and interact with CSUMB students, alumni,
@@ -17,7 +17,7 @@ date: January 01 2020
   time. We post news and events, Q&amp;As, pics, links, community RTs and other
   fun stuff.
 </p>
-<h2><a href="http://instagram.com/csumb">Instagram</a></h2>
+<h2><a href="https://instagram.com/csumb">Instagram</a></h2>
 <p>
   Follow along and see what is happening on campus. Follow us on Instagram just
   search CSUMB.
@@ -30,15 +30,15 @@ date: January 01 2020
   academic programs, campus life, events and more. If you like what you see,
   subscribe!
 </p>
-<h2><a href="http://www.linkedin.com/company/csu-monterey-bay">LinkedIn</a></h2>
+<h2><a href="https://www.linkedin.com/company/csu-monterey-bay">LinkedIn</a></h2>
 <p>
   Check out our company profile to network with Otters. Join the
-  <a href="http://www.linkedin.com/groups?gid=2258229&amp;trk=hb_side_g"
+  <a href="https://www.linkedin.com/groups?gid=2258229&amp;trk=hb_side_g"
     >group</a
   >
   to find job postings, career advice and other opportunities.
 </p>
-<h2><a href="http://www.flickr.com/csumb">Flickr</a></h2>
+<h2><a href="https://www.flickr.com/csumb">Flickr</a></h2>
 <p>
   Hundreds of photos of campus buildings, student life, special events and more.
   Need an image? Many of our pics are licensed through Creative Commons for

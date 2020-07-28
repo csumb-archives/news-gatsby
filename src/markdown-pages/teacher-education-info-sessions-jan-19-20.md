@@ -21,7 +21,7 @@ date: January 01 2020
   veterans. Those interested in teaching math, science and special education are
   especially encouraged to attend as those subject areas are in demand. For more
   information on the various credential programs available, click
-  <a href="http://csumb.edu/teach">here</a>.
+  <a href="https://csumb.edu/teach">here</a>.
 </p>
 <p>
   Sessions are scheduled for: • Jan. 19, 6 to 7 p.m. • Jan. 20, 1:30 to 2:30
@@ -30,7 +30,7 @@ date: January 01 2020
 <p>
   Both sessions will be held in Room 1176 of the Tanimura and Antle Family
   Memorial Library. Driving directions and a campus map can be found
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   Reservations are encouraged and can be made by calling 582-4769 or via e-mail

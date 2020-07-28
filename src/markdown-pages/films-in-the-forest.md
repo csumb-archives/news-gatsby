@@ -33,9 +33,9 @@ date: January 01 2020
   Mountain View and Santa Rita streets near downtown Carmel. For information,
   visit
   <a
-    href="http://www.foresttheaterguild.org./"
-    title="http://www.foresttheaterguild.org./"
-    >http://www.foresttheaterguild.org./</a
+    href="https://www.foresttheaterguild.org./"
+    title="https://www.foresttheaterguild.org./"
+    >https://www.foresttheaterguild.org./</a
   >
   This program is presented with support from the Monterey Bay Film Society. The
   Monterey Bay Film Society is the Central Coast’s premiere organization for

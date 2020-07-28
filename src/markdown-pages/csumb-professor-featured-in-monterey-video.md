@@ -31,7 +31,7 @@ date: January 01 2020
   television station and websites, and helps with publications and social media.
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     >Read more faculty news</a
   >.
 </p>

@@ -19,7 +19,7 @@ Department of Conservation to buy 3,100 bins. The grants are
 intended to promote recycling and are financed with unclaimed
 refunds on beverage containers. None of the money comes from the
 state&apos;s general fund.</br></br></p>
-<p><img alt="employee sorts recycling bins" height="301" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Recycling.JPG" style="float:left" width="200">Student assistants from Conference
+<p><img alt="employee sorts recycling bins" height="301" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Recycling.JPG" style="float:left" width="200">Student assistants from Conference
 and Event Services (including Julio Arambula, pictured at left) and
 Campus Planning and Development sorted, labeled and delivered 900
 of the bins to the residence halls. Each room got one; the
@@ -54,7 +54,7 @@ found that nearly 16 percent of the material (by weight) was
 recyclable. Plastic, aluminum, tin, paper, cardboard and glass had
 been tossed in the dumpsters instead of being recycled.<br>
 <br>
-<img alt="Anya Spear" height="204" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Anya_Spear%20copy.JPG" style="float:left" width="200">&quot;We&apos;re hoping that by putting bins
+<img alt="Anya Spear" height="204" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Anya_Spear%20copy.JPG" style="float:left" width="200">&quot;We&apos;re hoping that by putting bins
 in the rooms, we&apos;ll have a better percentage&quot; of discarded items
 being recycled, Spear (pictured at left) said. &quot;They know recycling
 is the &apos;right&apos; thing to do; we&apos;re trying to make it the &apos;easy&apos;

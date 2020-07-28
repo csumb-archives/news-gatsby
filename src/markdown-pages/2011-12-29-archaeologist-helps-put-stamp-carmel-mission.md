@@ -17,7 +17,7 @@ it.</p>
 <p>Archaeologist Ruben Mendoza served as an adviser and resource
 consultant on the stamp. He worked on the narrative that will
 accompany it, as well as details of the design.</p>
-<p><img alt="Carmel Mission express mail stamp" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/carmel_mission_stamp.jpg" style="float:left; width:287px; height:228px">&#x201C;I was called upon
+<p><img alt="Carmel Mission express mail stamp" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/carmel_mission_stamp.jpg" style="float:left; width:287px; height:228px">&#x201C;I was called upon
 to address questions ranging from the colors of features depicted
 in the stamp to the details and textures of pavements,
 architectural elevations, shadows, wall heights and roof pitch,&#x201D; he
@@ -38,7 +38,7 @@ what would become a chain of 21 Spanish missions along the coast of
 California, each positioned about one day&#x2019;s ride on horseback from
 the next. Father Jun&#xED;pero Serra (1713-1784), the founder of the
 California mission system, is buried there.</p>
-<p><img alt="Ruben Mendoza" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mendoza2.jpg" style="float:left; width:250px; height:348px">The research and
+<p><img alt="Ruben Mendoza" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mendoza2.jpg" style="float:left; width:250px; height:348px">The research and
 artwork were done last spring, but the design wasn&#x2019;t made public
 until December.</img></p>
 <p>&#x201C;I was quite honored to have been asked to serve as the
@@ -65,10 +65,10 @@ constructed church on the California coast.</p>
 exercise or teaching tool for Dr. Mendoza. He believes that knowing
 what went on there helps us understand who we are today, and how
 California became what it is.</p>
-<p>To read more about Dr. Mendoza, click <a href="http://news.csumb.edu/sites/default/files/65/igx_migrate/files/2810CSUMBMagazineSpringSummer2010-lores.pdf" rel="nofollow">here</a>.<br>
+<p>To read more about Dr. Mendoza, click <a href="https://news.csumb.edu/sites/default/files/65/igx_migrate/files/2810CSUMBMagazineSpringSummer2010-lores.pdf" rel="nofollow">here</a>.<br>
 <br>
 To learn more about the archaeology program at CSUMB, click
-<a href="http://archaeology.csumb.edu/" rel="nofollow">here</a>.<br>
+<a href="https://archaeology.csumb.edu/" rel="nofollow">here</a>.<br>
 <br>
 <strong>DID YOU KNOW&#x2028;</strong><br>
 <br>
@@ -88,8 +88,8 @@ settlement of California. The cost: six cents.<br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -100,7 +100,7 @@ settlement of California. The cost: six cents.<br>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r5---sn-o097znez.googlevideo.com/videoplayback?initcwndbps=3752500&amp;ratebypass=yes&amp;id=o-ACwoVX9vgcwVWaF74aUZIImwzJ9HbpnNNcy0cpanq586&amp;key=yt5&amp;signature=4F738B2B8BE51DC50ADFC38B263CEB04CA4A4711.50CE1CC6FFB810B9A1E63ED1D8E13A0C1E00472C&amp;mm=31&amp;ipbits=0&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;sver=3&amp;mt=1422325268&amp;ms=au&amp;itag=18&amp;source=youtube&amp;dur=431.393&amp;mv=m&amp;pl=23&amp;upn=BpzQ0NgT-iU&amp;ip=198.189.249.65&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;expire=1422346944&amp;name=ERqVfXwZy2Y" type="video/mp4"/></video></div>
+<source src="https://r5---sn-o097znez.googlevideo.com/videoplayback?initcwndbps=3752500&amp;ratebypass=yes&amp;id=o-ACwoVX9vgcwVWaF74aUZIImwzJ9HbpnNNcy0cpanq586&amp;key=yt5&amp;signature=4F738B2B8BE51DC50ADFC38B263CEB04CA4A4711.50CE1CC6FFB810B9A1E63ED1D8E13A0C1E00472C&amp;mm=31&amp;ipbits=0&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;sver=3&amp;mt=1422325268&amp;ms=au&amp;itag=18&amp;source=youtube&amp;dur=431.393&amp;mv=m&amp;pl=23&amp;upn=BpzQ0NgT-iU&amp;ip=198.189.249.65&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;expire=1422346944&amp;name=ERqVfXwZy2Y" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

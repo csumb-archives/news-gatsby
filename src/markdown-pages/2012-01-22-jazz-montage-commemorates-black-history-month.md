@@ -17,7 +17,7 @@ McCurdy, professor of music at USC, told the San Antonio
 Express-News. &#x201C;Like other great artists, people realized after his
 death just how important his work is.&#x201D;<br>
 <br>
-<img alt="Ron McCurdy" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mccurdysmall.jpg" style="float:left; width:250px; height:383px">On Feb. 13, the Ron
+<img alt="Ron McCurdy" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mccurdysmall.jpg" style="float:left; width:250px; height:383px">On Feb. 13, the Ron
 McCurdy Quartet will perform &#x201C;The Langston Hughes Project &#x2013; Ask
 Your Mama: 12 Moods for Jazz&#x201D; at 7:30 p.m. in the World Theater at
 CSU Monterey Bay. The multimedia performance is part of the
@@ -47,7 +47,7 @@ support Hughes&#x2019; words. We don&#x2019;t hit people over the head. We&#x201
 been told by people that after they&#x2019;ve heard the program, they want
 to go out and learn.&#x201D;<br>
 <br>
-Tickets are $5 and can be purchased online at <a href="http://worldtheater.csumb.edu" title="http://worldtheater.csumb.edu">http://worldtheater.csumb.edu</a>
+Tickets are $5 and can be purchased online at <a href="https://worldtheater.csumb.edu" title="https://worldtheater.csumb.edu">https://worldtheater.csumb.edu</a>
 or by calling the World Theater box office 582-4580.<br>
 <br>
 The event is sponsored by Student Activities and Leadership

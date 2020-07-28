@@ -50,14 +50,14 @@ Lienk has been with CSUMB since 1995.<br>
 <br>
 Honorees are featured on the Earth Force website, along with their
 teaching tools and ways they get students involved. To read about
-Laura, click <a href="http://www.greeneducator.org/Chevrolet-GREEN-Educator-Award-Winners-2011/Laura-Lienk.php" rel="nofollow">here</a>.</br></br></br></br></br></br></br></br></p>
+Laura, click <a href="https://www.greeneducator.org/Chevrolet-GREEN-Educator-Award-Winners-2011/Laura-Lienk.php" rel="nofollow">here</a>.</br></br></br></br></br></br></br></br></p>
 <p>The GM Foundation and Earth Force will announce five winners
 each month until &#x201C;we find 20 educators from across the nation who
 exemplify great GREEN teaching,&#x201D; according to the website
 greeneducator.org.</p>
-<p>To learn more about CSUMB&apos;s Watershed Institute, click <a href="http://watershed.csumb.edu/wi/" rel="nofollow">here</a>.&#xA0;To
+<p>To learn more about CSUMB&apos;s Watershed Institute, click <a href="https://watershed.csumb.edu/wi/" rel="nofollow">here</a>.&#xA0;To
 learn more about the Return of the Natives restoration education
-project, click <a href="http://ron.csumb.edu/" rel="nofollow">here</a>.</p>
+project, click <a href="https://ron.csumb.edu/" rel="nofollow">here</a>.</p>
 
 
 

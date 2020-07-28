@@ -45,11 +45,11 @@ date: January 01 2020
 </p>
 <p>
   “I would absolutely recommend this program to others.” To learn more about the
-  program, click <a href="http://scienceillustration.org/">here</a>. To see more
+  program, click <a href="https://scienceillustration.org/">here</a>. To see more
   of Naylor's work, visit her
-  <a href="http://jnaylorillustration.com">website</a>. Read The New York Times
+  <a href="https://jnaylorillustration.com">website</a>. Read The New York Times
   story
-  <a href="http://www.nytimes.com/2011/09/06/science/06rhino.html?emc=eta1"
+  <a href="https://www.nytimes.com/2011/09/06/science/06rhino.html?emc=eta1"
     >here</a
   >.
 </p>

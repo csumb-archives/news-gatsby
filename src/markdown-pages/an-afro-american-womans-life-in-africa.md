@@ -24,7 +24,7 @@ date: January 01 2020
 <p>
   The free presentation will be held at 7 p.m. in the Cinematic Arts Studio
   (Bldg. 27), located on Sixth Avenue near A Street. Driving directions and a
-  campus map are available <a href="http://csumb.edu/maps">here</a>.
+  campus map are available <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>For more information, contact Steven Levinson at 582-4260.</p>
 ```

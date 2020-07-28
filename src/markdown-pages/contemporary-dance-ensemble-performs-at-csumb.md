@@ -44,10 +44,10 @@ date: January 01 2020
   panache . . . succeeds from beginning to end.” –
   <em>Dance Magazine</em> Tickets range from $10 to $40 and can be purchased by
   calling the World Theater box office at (831) 582-4580 or
-  <a href="http://csumb.edu/worldtheater">online</a>. The World Theater is
+  <a href="https://csumb.edu/worldtheater">online</a>. The World Theater is
   located on Sixth Avenue near the intersection with A Street on the CSUMB
   campus.
-  <a href="http://csumb.edu/map"
+  <a href="https://csumb.edu/map"
     >Driving directions and a campus map are available</a
   >. AT A GLANCE • WHAT: Eisenhower Dance Ensemble • WHERE: CSUMB’s World
   Theater, Sixth Avenue, near the intersection with A Street • WHEN: 8 p.m.,

@@ -27,7 +27,7 @@ toxic cynaobacteria from local freshwater environments. He also
 investigated stomach bacteria pathogensis at UC Santa Cruz. A
 biology major, he will begin work on his Ph.D. in the cellular and
 molecular biosciences program at UC Irvine in the fall.</p>
-<p><img alt="UROC logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/uroc_logo_for_web.jpg" style="float:left; width:250px; height:114px">Mentored by Dr.
+<p><img alt="UROC logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/uroc_logo_for_web.jpg" style="float:left; width:250px; height:114px">Mentored by Dr.
 James Lindholm, Lopez worked on a project to monitor Marine
 Protected Areas along the Southern California coast and also
 conducted research at Oregon State University&#x2019;s Hatfield Marine
@@ -56,7 +56,7 @@ of the university&#x2019;s Undergraduate Research Opportunities Center.
 &#x201C;This is a clear indication of the world-class education students
 receive at CSUMB and a reminder of how well public institutions
 serve the students of California.&#x201D;</p>
-<p><a href="http://csumb.edu/uroc" rel="nofollow">Learn more about
+<p><a href="https://csumb.edu/uroc" rel="nofollow">Learn more about
 the Undergraduate Research Opportunities Center at
 CSUMB.&#xA0;</a></p>
 

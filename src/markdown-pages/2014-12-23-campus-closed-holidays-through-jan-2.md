@@ -9,7 +9,7 @@ slug: campus-closed-for-holidays-through-jan.-2
 <p>
   <img
     alt="Wildflowers dot the CSUMB campus"
-    src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/flower.jpg"
+    src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/flower.jpg"
     style="float:left; width:160px; height:240px"
   />
 </p>

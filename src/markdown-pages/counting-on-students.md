@@ -54,8 +54,8 @@ date: January 01 2020
 </p>
 <p>
   For more information, visit the Census Bureau at
-  <a href="http://2010.census.gov/campus" title="http://2010.census.gov/campus"
-    >http://2010.census.gov/campus</a
+  <a href="https://2010.census.gov/campus" title="https://2010.census.gov/campus"
+    >https://2010.census.gov/campus</a
   >.
 </p>
 <p><strong>Questions and answers about the census</strong></p>

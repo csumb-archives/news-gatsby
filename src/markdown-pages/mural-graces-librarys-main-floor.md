@@ -62,7 +62,7 @@ date: January 01 2020
 </p>
 <p>
   In 2003, the university acquired “<a
-    href="http://library.csumb.edu/incoming-tide-chiura-obata"
+    href="https://library.csumb.edu/incoming-tide-chiura-obata"
     >Incoming Tide</a
   >,” a mural by well-known Japanese-American artist Chiura Obata (1885-1975)
   that hangs on a wall in the library atrium. Painted in 1948 for a Japanese

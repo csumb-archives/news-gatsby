@@ -26,10 +26,10 @@ University staff members will direct traffic to the available
 parking lots. Visitors are encouraged to arrive on campus by 8:30
 a.m.<br>
 <br>
-More information about the day&apos;s activities is available <a href="http://csumb.edu/commencement" rel="nofollow">here</a>. Driving
-directions and a campus map are available <a href="http://cumb.edu/map" rel="nofollow">here</a>.</br></br></br></br></br></br></br></br></p>
+More information about the day&apos;s activities is available <a href="https://csumb.edu/commencement" rel="nofollow">here</a>. Driving
+directions and a campus map are available <a href="https://cumb.edu/map" rel="nofollow">here</a>.</br></br></br></br></br></br></br></br></p>
 <p>The ceremony will be broadcast via the Internet. To access the
-broadcast, click <a href="http://csumb.edu/commencement" rel="nofollow">here</a>.</p>
+broadcast, click <a href="https://csumb.edu/commencement" rel="nofollow">here</a>.</p>
 <p>Community members should be aware that traffic is expected to be
 heavy in the areas adjacent to campus for much of the day.<br>
 &#xA0;</br></p>

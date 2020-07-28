@@ -93,6 +93,6 @@ date: January 01 2020
 <p><strong>When</strong>: Feb. 5-April 25, 2010</p>
 <p>
   <strong>Information</strong>:
-  <a href="http://www.steinbeck/">www.steinbeck</a>.org
+  <a href="https://www.steinbeck/">www.steinbeck</a>.org
 </p>
 ```

@@ -20,10 +20,10 @@ Hawaii and Guam.<br>
 Her winning story, &#x201C;Converting to Pure Electric,&#x201D; is about electric
 car enthusiasts and their efforts to convert their gas cars to
 electric in a hands-on workshop. The story can be found
-athttp://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1653461/news/Converting.to.Pure.Electric<br>
+athttps://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1653461/news/Converting.to.Pure.Electric<br>
 
 <br>
-<img alt="Krista Almanzan" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/krista_almanzan_small.jpg" style="float:left; width:225px; height:295px">Regional winners
+<img alt="Krista Almanzan" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/krista_almanzan_small.jpg" style="float:left; width:225px; height:295px">Regional winners
 automatically become eligible for the national awards competition
 in June.</img></br></br></br></br></p>
 <p>It&#x2019;s the fourth award for Almanzan in the last 18 months. In

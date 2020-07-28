@@ -38,7 +38,7 @@ date: January 01 2020
 <p>
   The symposium will be held from 6:30 to 9 p.m. in the University Center living
   room. The building is located on Sixth Avenue at B Street.
-  <a href="http://csumb.edu/maps">Driving directions and a campus map</a>
+  <a href="https://csumb.edu/maps">Driving directions and a campus map</a>
 </p>
 <p>
   While the event is free, a parking permit must be purchased from a dispenser

@@ -44,9 +44,9 @@ date: January 01 2020
 <p>
   To view more of Mullen’s photos, visit her blog at
   <a
-    href="http://studiomargo.blogspot.com/"
-    title="http://studiomargo.blogspot.com/"
-    >http://studiomargo.blogspot.com/</a
+    href="https://studiomargo.blogspot.com/"
+    title="https://studiomargo.blogspot.com/"
+    >https://studiomargo.blogspot.com/</a
   >
 </p>
 <p><em>Photos courtesy of Margo Mullen</em></p>

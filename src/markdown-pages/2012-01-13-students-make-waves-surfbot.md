@@ -10,7 +10,7 @@ slug: students-make-waves-with-surfbot
 
 <span class="date">Posted on Jan 13, 2012    </span>
 <h3>Weather, surf conditions delay launch until May</h3>
-<p><img alt="SurfBot launch at Del Monte Beach" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/surfbot_launch_small.jpg" style="float:right; width:400px; height:228px">Students in Dr.
+<p><img alt="SurfBot launch at Del Monte Beach" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/surfbot_launch_small.jpg" style="float:right; width:400px; height:228px">Students in Dr.
 Steve Moore&#x2019;s underwater robotics class in the fall of 2010 didn&#x2019;t
 kick back over the winter break last January.</img></p>
 <p>Instead, they volunteered to continue working on a project that
@@ -31,7 +31,7 @@ Monterey.</p>
 <p>&quot;In spite of its name, it&apos;s not designed to surf,&quot; Dr. Moore
 said. &quot;But it&apos;s the only surfboard I know that can swim and
 navigate all by itself!&quot;</p>
-<p><img alt="Alin Gonzalez works on the computer that drives the robot" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rov1sm.jpg" style="float:right; width:200px; height:301px">SurfBot finds its
+<p><img alt="Alin Gonzalez works on the computer that drives the robot" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rov1sm.jpg" style="float:right; width:200px; height:301px">SurfBot finds its
 way with the help of a GPS unit and a pair of tiny computers. A
 video camera mounted on the robot beams live images back to shore.
 If the robot gets into trouble, the students can override its
@@ -60,7 +60,7 @@ her education.</p>
 do smaller projects on my own now, and that will help me do
 research in grad school.&#x201D; She has applied to Texas A&amp;M&#x2019;s
 Fisheries Management program.</p>
-<p><img alt="The " src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rov2sm.jpg" style="float:left; width:220px; height:201px">Cortland Jordan, an
+<p><img alt="The " src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rov2sm.jpg" style="float:left; width:220px; height:201px">Cortland Jordan, an
 environmental science, technology and policy student from Lake
 Elsinore, was also attracted to the possibility of acquiring skills
 that will help him pursue a graduate degree in applied technology
@@ -94,7 +94,7 @@ understand our world.</p>
 Dr. Moore says.<br>
 <br>
 To learn more about the Science and Environmental Policy program,
-click <a href="http://sep.csumb.edu/sep/" rel="nofollow">here</a>.<br>
+click <a href="https://sep.csumb.edu/sep/" rel="nofollow">here</a>.<br>
 &#xA0;</br></br></br></p>
 
 

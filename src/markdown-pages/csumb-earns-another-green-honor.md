@@ -41,18 +41,18 @@ date: January 01 2020
   green continues all the way to graduation – when students cross the stage to
   receive their degrees in gowns sewn with material made from recycled plastic
   bottles. The free guide can be
-  <a href="http://www.princetonreview.com/greenguide">downloaded here</a>. More
+  <a href="https://www.princetonreview.com/greenguide">downloaded here</a>. More
   information on CSUMB’s commitment to sustainability can be found
-  <a href="http://csumb.edu/sustainability">here</a>.
+  <a href="https://csumb.edu/sustainability">here</a>.
 </p>
 <p>
   <strong>Related stories</strong>:
-  <a href="http://news.csumb.edu/news/2013/apr/15/charge-your-ride"
+  <a href="https://news.csumb.edu/news/2013/apr/15/charge-your-ride"
     >Drivers of electric vehicles can zap their rides at CSUMB, and it’s as easy
     as plugging in a toaster.</a
   >
   CSUMB’s alternative transportation program, TRIPwise, has won a 2013<a
-    href="http://news.csumb.edu/news/2013/apr/26/campus-sustainability-efforts-score-again"
+    href="https://news.csumb.edu/news/2013/apr/26/campus-sustainability-efforts-score-again"
   >
     Best Practices award from the Higher Education Sustainability Conference.</a
   >

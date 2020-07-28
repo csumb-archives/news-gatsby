@@ -66,25 +66,25 @@ date: January 01 2020
   “As an artist and science illustrator, I hope to connect people to animals
   that have kept our planet in balance for millions of years – the type of
   lasting connection that will help protect them from disappearing forever,” she
-  says in a video on <a href="http://www.ink&#45;dwell.com">her website</a>.
+  says in a video on <a href="https://www.ink&#45;dwell.com">her website</a>.
   Read more about the Migrating Murals project in
   <a
-    href="http://www.adventure&#45;journal.com/2012/09/migrating&#45;mural&#45;shines&#45;light&#45;on&#45;endangered&#45;bighorns/"
+    href="https://www.adventure&#45;journal.com/2012/09/migrating&#45;mural&#45;shines&#45;light&#45;on&#45;endangered&#45;bighorns/"
     >Adventure Journal.</a
   >
   <a
-    href="http://newswatch.nationalgeographic.com/2011/04/28/new&#45;ocean&#45;ideas&#45;viewers&#45;choice&#45;winner&#45;announced/"
+    href="https://newswatch.nationalgeographic.com/2011/04/28/new&#45;ocean&#45;ideas&#45;viewers&#45;choice&#45;winner&#45;announced/"
     >Read a National Geographic interview here.</a
   >
 </p>
 <p>
   <a
-    href="http://dsc.discovery.com/life/roses&#45;are&#45;red&#45;jane&#45;kims&#45;science&#45;illustrations&#45;are&#45;cool.html"
+    href="https://dsc.discovery.com/life/roses&#45;are&#45;red&#45;jane&#45;kims&#45;science&#45;illustrations&#45;are&#45;cool.html"
     >Read the Discovery Channel story here</a
   >.
 </p>
 <p>
-  <a href="http://scienceillustration.org/"
+  <a href="https://scienceillustration.org/"
     >Learn about the science illustration program here</a
   >.
 </p>

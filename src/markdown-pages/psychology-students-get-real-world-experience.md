@@ -47,9 +47,9 @@ date: January 01 2020
   "Being able to share our remarkable psychology students with the mental health
   care community before they are seeking career positions is helpful for them;
   Kinship Center makes it truly meaningful," Professor England-Aytes said.
-  <a href="http://csumb.edu/psychology"
+  <a href="https://csumb.edu/psychology"
     >Learn about the psychology program at CSUMB</a
-  >. <a href="http://www.kinshipcenter.org">Learn about the Kinship Center</a>
+  >. <a href="https://www.kinshipcenter.org">Learn about the Kinship Center</a>
 </p>
 <p>
   <em

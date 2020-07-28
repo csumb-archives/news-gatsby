@@ -13,7 +13,7 @@ slug: university-to-host-world-premiere-of-play
 play written by Music and Performing Arts faculty member Will
 Shephard, will have its first public performances at CSU Monterey
 Bay&#x2019;s University Center in November.</p>
-<p><img alt="Leigh Chan as Ming Cho Yee and Brenda Soriano as the Princess Shu-Wei" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/shephard_play_photo.jpg" style="float:left; width:300px; height:225px">The play, partially
+<p><img alt="Leigh Chan as Ming Cho Yee and Brenda Soriano as the Princess Shu-Wei" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/shephard_play_photo.jpg" style="float:left; width:300px; height:225px">The play, partially
 based on Monterey and Pacific Grove history and partially on a
 classic folk tale, will be presented Nov. 9 and 10 at 7:30 p.m.,
 and at a matinee performance Nov. 10 at 2 p.m. The University
@@ -31,7 +31,7 @@ beach. Later while Ming Cho Yee fishes for squid at night, the
 turtle returns, speaks to him, and invites him to Amovar, the
 palace under the sea, ruled by a benevolent Empress assisted by her
 beautiful daughter, the Princess.</p>
-<p><img alt="Professor Will Shephard" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/shephard.will_.jpg" style="float:right; width:200px; height:183px">There, Ming Cho
+<p><img alt="Professor Will Shephard" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/shephard.will_.jpg" style="float:right; width:200px; height:183px">There, Ming Cho
 Yee finds love and happiness, marrying the Princess in the magical
 realm of Amovar. But, after a short time, he feels he must return
 to Point Alones to see his parents.</img></p>
@@ -51,8 +51,8 @@ and social customs different from our own?</p>
 <p>Admission is free. The play is recommended for adults and
 children over 12. For further information, call Professor Shephard
 at (831) 582-4511.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</p>
-<p><a href="http://csumb.edu/music" rel="nofollow">Learn about the
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</p>
+<p><a href="https://csumb.edu/music" rel="nofollow">Learn about the
 Music and Performing Arts Department.</a></p>
 <p class="small"><br>
 <em>Photos:</em><br>

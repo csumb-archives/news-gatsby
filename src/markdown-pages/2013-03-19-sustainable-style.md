@@ -13,7 +13,7 @@ slug: sustainable-style
 <p>For more than a decade, Alice Wu, half of the fashion design
 team Feral Childe, has been designing original and unusual
 clothing.</p>
-<p><img alt="Alice Wu will visit campus April 18 as part of the Visiting Artist Series" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wu.alice_web.jpg" style="float:left; width:250px; height:263px">Wu will visit CSU
+<p><img alt="Alice Wu will visit campus April 18 as part of the Visiting Artist Series" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wu.alice_web.jpg" style="float:left; width:250px; height:263px">Wu will visit CSU
 Monterey Bay on April 18 as the Visual and Public Art Department&#x2019;s
 Visiting Artist series concludes for the spring semester. The
 presentation will start at 6 p.m. in the University Center.</img></p>
@@ -38,8 +38,8 @@ retailers.</p>
 <p>The University Center is located on Sixth Avenue at B Street.
 While the event is free, visitors must purchase a parking permit
 fron a dispenser on the lot. Driving directions and a campus map
-are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
-<p><a href="http://csumb.edu/art" rel="nofollow">Learn about the
+are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
+<p><a href="https://csumb.edu/art" rel="nofollow">Learn about the
 Visual and Public Art Department at CSUMB</a>.</p>
 <p><br>
 &#xA0;</br></p>

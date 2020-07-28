@@ -36,7 +36,7 @@ date: January 01 2020
   <a href="https://csumb.edu/iied/startup&#45;challenge&#45;finalists&#45;2017"
     >listing of the finalists is available here</a
   >. For more information about the event go to
-  <a href="http://www.thestartupchallenge.org/">www.thestartupchallenge.org</a>
+  <a href="https://www.thestartupchallenge.org/">www.thestartupchallenge.org</a>
   or contact StartupMB@csumb.edu.
 </p>
 ```

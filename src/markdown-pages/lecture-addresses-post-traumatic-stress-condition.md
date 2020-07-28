@@ -26,7 +26,7 @@ date: January 01 2020
 </p>
 <p>
   The talk is sponsored by the
-  <a href="http://foaa.csumb.edu">Fort Ord Alumni Association</a> (FOAA).
+  <a href="https://foaa.csumb.edu">Fort Ord Alumni Association</a> (FOAA).
   Members of the association share an interest in preserving the history and
   cultural contributions of Fort Ord, while helping the university. FOAA has
   raised tens of thousands of dollars for student scholarships since it was
@@ -39,5 +39,5 @@ date: January 01 2020
     >foaa@csumb.edu</a
   >
 </p>
-<p><a href="http://csumb.edu/maps">Driving directions and a campus map</a></p>
+<p><a href="https://csumb.edu/maps">Driving directions and a campus map</a></p>
 ```

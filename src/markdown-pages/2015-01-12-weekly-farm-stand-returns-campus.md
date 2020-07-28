@@ -12,7 +12,7 @@ slug: weekly-farm-stand-returns-to-campus
 <p>CSU Monterey Bay Dining Services is teaming up with the campus
 Farm Club to bring a weekly farm stand to campus throughout the
 fall.</p>
-<p><img alt="Strawberries will be on sale at the weekly Farm Stand" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/strawerries.jpg" style="width:300px; height:225px; float:left">Operating near the
+<p><img alt="Strawberries will be on sale at the weekly Farm Stand" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/strawerries.jpg" style="width:300px; height:225px; float:left">Operating near the
 library from 10 a.m. to 2:30 p.m. every Tuesday until late
 November, the farm stand is open to the campus community and the
 community-at-large. It&#x2019;s part of a commitment to sustainability and

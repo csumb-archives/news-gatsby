@@ -74,7 +74,7 @@ date: January 01 2020
   The Road to College tour is the result of a partnership between the CSU and
   AT&amp;T, which donated $500,000 for the project. To learn more, visit
   <a
-    href="http://www.calstate.edu/roadtocollege"
+    href="https://www.calstate.edu/roadtocollege"
     title="www.calstate.edu/roadtocollege"
     >www.calstate.edu/roadtocollege</a
   >.

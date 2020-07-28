@@ -22,7 +22,7 @@ date: January 01 2020
   Her book,
   <em
     ><a
-      href="http://www.dzancbooks.org/upcoming&#45;titles/like&#45;a&#45;woman&#45;by&#45;deb&#45;busman"
+      href="https://www.dzancbooks.org/upcoming&#45;titles/like&#45;a&#45;woman&#45;by&#45;deb&#45;busman"
       >Like a Woman</a
     ></em
   >, was published this month by Dzanc Books. It is a coming&#45;of&#45;age

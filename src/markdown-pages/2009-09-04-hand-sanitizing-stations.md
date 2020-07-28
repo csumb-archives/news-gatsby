@@ -10,7 +10,7 @@ slug: campus-makes-another-effort-to-prevent-the-flu
 
 <span class="date">Posted on Sep 04, 2009    </span>
 <p>Sept. 4, 2009</p>
-<p><img alt="hand sanitizing dispenser" height="200" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/sanitizer1.jpg" width="200">Isabel Fuerte tries out hand sanitizer in the Student
+<p><img alt="hand sanitizing dispenser" height="200" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/sanitizer1.jpg" width="200">Isabel Fuerte tries out hand sanitizer in the Student
 Center</img></p>
 Campus makes another effort to prevent the flu<br>
 <p>In a continued effort to prevent the spread of H1N1 flu, CSU
@@ -44,7 +44,7 @@ extra dispensers are on hand and will be put in place when a crowd
 is expected at a certain location, such as the World Theater on the
 evening of a performance.</p>
 <p>The dispensers are part of CSUMB&apos;s ongoing efforts to combat the
-flu. The university has set up a website (<a href="http://csumb.edu/flu" target="_blank" rel="nofollow">csumb.edu/flu</a>) with information on how to prevent
+flu. The university has set up a website (<a href="https://csumb.edu/flu" target="_blank" rel="nofollow">csumb.edu/flu</a>) with information on how to prevent
 and treat the flu; emails with that information have gone out to
 everyone on campus; and all rooms in the residence halls have
 received informational fliers. Vinyl signs will soon be displayed

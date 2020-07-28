@@ -81,10 +81,10 @@ date: January 01 2020
 </p>
 <p>
   The research article is available
-  <a href="http://onlinelibrary.wiley.com/doi/10.1111/gcb.12390/full">here</a>.
+  <a href="https://onlinelibrary.wiley.com/doi/10.1111/gcb.12390/full">here</a>.
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2013/jan/31/faculty-highlights"
     ><em>Read more faculty news.</em></a
   >
 </p>

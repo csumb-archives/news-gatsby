@@ -13,7 +13,7 @@ date: January 01 2020
 <p>This fall marks the third class to enter the program.</p>
 <p>
   If you would like to be considered for
-  <a href="http://csumb.edu/msw"
+  <a href="https://csumb.edu/msw"
     >fall admission to the three&#45;year program click here</a
   >
   for information and application forms. Deadline to apply is April 30.

@@ -17,7 +17,7 @@ Commission on Senior Colleges &amp; Universities has reaffirmed its
 accreditation of CSU Monterey Bay through 2019, President Dianne
 Harrison has announced.</br></br></p>
 <p><br>
-<img alt="students in a biology class" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/microscope_small.jpg" style="float:left; width:300px; height:450px">The outcome
+<img alt="students in a biology class" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/microscope_small.jpg" style="float:left; width:300px; height:450px">The outcome
 signifies that the university remains in good academic standing,
 and its students will continue to be eligible for federal financial
 aid.<br>

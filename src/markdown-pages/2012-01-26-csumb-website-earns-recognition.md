@@ -30,7 +30,7 @@ well as its architecture and general functionality, awarding it a
 total of 292 points of a possible 300.</p>
 <p>&#x201C;It&#x2019;s a great feeling to review a site that just works,&#x201D;
 DeNardis said on his blog.</p>
-<p>Check out his <a href="http://educheckup.com/2011/11/04/california-state-university-monterey-bay-episode-280/" rel="nofollow">video review</a><br>
+<p>Check out his <a href="https://educheckup.com/2011/11/04/california-state-university-monterey-bay-episode-280/" rel="nofollow">video review</a><br>
 <br>
 DeNardis is the associate director of web communications at Wayne
 State University and a staff writer at .eduGuru, a higher education
@@ -45,8 +45,8 @@ site has also been geared for ease of use, with a blend of
 need-to-know information and room to click around and discover
 unexpected stories about the university, and its students and
 faculty.</p>
-<p>See the <a href="http://collegewebeditor.com/blog/index.php/archives/2012/01/17/top-11-highered-websites-ranked-by-edu-checkup-scores/?utm_content=emacdonald%40csumb.edu&amp;utm_source=VerticalResponse&amp;utm_medium=Email&amp;utm_term=Top%2011%20%23highered%20websites%20ranked%20by%20EDU%20Checkup%20scores&amp;utm_campaign=%5BHEE%5D%20Top%20Higher%20Ed%20Websites%2C%20Facebook%2C%20Mobile%20Web%20%26%20Pinterestcontent" rel="nofollow">CollegeWebEditor page</a></p>
-<p><img alt="CSUMB.EDU&apos;s homepage changes frequently" height="425" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/website_screen_0.jpg" width="401"/></p>
+<p>See the <a href="https://collegewebeditor.com/blog/index.php/archives/2012/01/17/top-11-highered-websites-ranked-by-edu-checkup-scores/?utm_content=emacdonald%40csumb.edu&amp;utm_source=VerticalResponse&amp;utm_medium=Email&amp;utm_term=Top%2011%20%23highered%20websites%20ranked%20by%20EDU%20Checkup%20scores&amp;utm_campaign=%5BHEE%5D%20Top%20Higher%20Ed%20Websites%2C%20Facebook%2C%20Mobile%20Web%20%26%20Pinterestcontent" rel="nofollow">CollegeWebEditor page</a></p>
+<p><img alt="CSUMB.EDU&apos;s homepage changes frequently" height="425" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/website_screen_0.jpg" width="401"/></p>
 
 
 

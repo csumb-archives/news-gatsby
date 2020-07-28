@@ -15,7 +15,7 @@ Americans with Disabilities Act passed in 1990.</p>
 <p>The university&#x2019;s challenge to provide access &#x2013; physical,
 programmatic, intellectual &#x2013; far exceeds that of other employers in
 the area.</p>
-<p><img alt="Disability Employment Awareness" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ada_story_image_for_web.jpg" style="float:left; width:400px; height:507px">Because it has done
+<p><img alt="Disability Employment Awareness" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ada_story_image_for_web.jpg" style="float:left; width:400px; height:507px">Because it has done
 such a good job meeting that challenge, and because of its
 inclusive philosophy and culture, CSUMB has been recognized by the
 Monterey County Committee for the Employment of People with

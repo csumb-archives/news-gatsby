@@ -37,7 +37,7 @@ date: January 01 2020
   The event will be held in the University Center on Sixth Avenue and B Street,
   starting at 2 p.m. The event is free; however, a parking permit must be
   purchased from the machine on the lot. Driving directions and a campus map can
-  be downloaded <a href="http://csumb.edu/maps">here</a>.
+  be downloaded <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   “A Greater Vision” is an annual educational event hosted by the

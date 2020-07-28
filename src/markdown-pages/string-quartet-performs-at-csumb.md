@@ -24,7 +24,7 @@ date: January 01 2020
 <p>
   At CSUMB, the quartet will premiere a piece composed by Dr. Lanier Sammons, a
   lecturer in the university’s
-  <a href="http://mpa.csumb.edu/">Music and Performing Arts Department.</a>
+  <a href="https://mpa.csumb.edu/">Music and Performing Arts Department.</a>
 </p>
 <p>
   The performance will start at 8 p.m. in the Music Hall, located on Sixth
@@ -36,7 +36,7 @@ date: January 01 2020
   machine on the adjacent lot or by going
   <a href="https://store.csumb.edu/products/daily-parking-permit">online</a>.
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   Earlier in the day, the group will work with student composers, offering

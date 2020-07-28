@@ -68,7 +68,7 @@ date: January 01 2020
 </p>
 <p>
   Learn more about
-  <a href="http://eosp.csumb.edu/early-outreach-and-support-programs"
+  <a href="https://eosp.csumb.edu/early-outreach-and-support-programs"
     >TRiO and other outreach and support programs</a
   >
   at CSUMB.

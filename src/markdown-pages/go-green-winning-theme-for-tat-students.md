@@ -25,7 +25,7 @@ date: January 01 2020
   one actor play more than one role; REUSE the dialogue by having one line used
   twice; And RECYCLE a shot by having it appear at least three times. The
   winning entries can be seen
-  <a href="http://film360365.com/shorts/award-winning-films">here</a>.
+  <a href="https://film360365.com/shorts/award-winning-films">here</a>.
 </p>
 <p>
   “For the final project in TAT 341, I told the students they could make films
@@ -65,6 +65,6 @@ date: January 01 2020
 </p>
 <p>
   Learn more about the festival
-  <a href="http://film360365.com/festival/">here</a>.
+  <a href="https://film360365.com/festival/">here</a>.
 </p>
 ```

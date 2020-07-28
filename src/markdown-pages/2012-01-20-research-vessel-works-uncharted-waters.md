@@ -15,7 +15,7 @@ Professor Rikk Kvitek was authorized to enter the restricted
 coastal waters around the plant &#x2013; except the guards with the
 M-16s.<br>
 <br>
-<img alt="Rikk Kvitek and the KelpFly" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kelpflywork_small.jpg" style="float:right; width:400px; height:323px">Dr. Kvitek was
+<img alt="Rikk Kvitek and the KelpFly" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kelpflywork_small.jpg" style="float:right; width:400px; height:323px">Dr. Kvitek was
 aboard CSU Monterey Bay&#x2019;s newest research vessel, the KelpFly, a
 highly modified 160-horsepower Yamaha watercraft used for seafloor
 mapping. He was gathering data on underwater fault lines near the
@@ -53,8 +53,8 @@ seamless land-to-sea topographic maps.</br></br></br></br></br></br></br></br></
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -65,7 +65,7 @@ seamless land-to-sea topographic maps.</br></br></br></br></br></br></br></br></
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r16---sn-o097zne7.googlevideo.com/videoplayback?key=yt5&amp;ip=198.189.249.65&amp;upn=T8yD3lm7TF0&amp;mt=1422332356&amp;mm=31&amp;signature=726A44F954ADC5584DB0D2BB92DB8690DA02FD65.127E21993B3A4FE40530636BBE70C8CD78D0A603&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ratebypass=yes&amp;ipbits=0&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;initcwndbps=3595000&amp;itag=18&amp;id=o-ANIB_gejNItEpzr5zWlz2JWtIP4s1MbpxKkoKUkFJ5ux&amp;ms=au&amp;source=youtube&amp;pl=23&amp;mv=m&amp;dur=160.795&amp;sver=3&amp;expire=1422354007&amp;name=JGXdO6xPlBM" type="video/mp4"/></video></div>
+<source src="https://r16---sn-o097zne7.googlevideo.com/videoplayback?key=yt5&amp;ip=198.189.249.65&amp;upn=T8yD3lm7TF0&amp;mt=1422332356&amp;mm=31&amp;signature=726A44F954ADC5584DB0D2BB92DB8690DA02FD65.127E21993B3A4FE40530636BBE70C8CD78D0A603&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ratebypass=yes&amp;ipbits=0&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;initcwndbps=3595000&amp;itag=18&amp;id=o-ANIB_gejNItEpzr5zWlz2JWtIP4s1MbpxKkoKUkFJ5ux&amp;ms=au&amp;source=youtube&amp;pl=23&amp;mv=m&amp;dur=160.795&amp;sver=3&amp;expire=1422354007&amp;name=JGXdO6xPlBM" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>
@@ -105,7 +105,7 @@ state and federal level,&#x201D; he said.<br>
 drive it. The ability to go really fast &#x2013; it goes up to 60 mph &#x2013; in
 a short amount of time on a $300,000 vessel . . . I&#x2019;m not ready to
 turn them loose on that,&#x201D; he said.</br></br></p>
-<p>Learn more about the Seafloor Mapping Project&#xA0;<a href="http://seafloor.csumb.edu/" rel="nofollow">here</a>.&#xA0;<br>
+<p>Learn more about the Seafloor Mapping Project&#xA0;<a href="https://seafloor.csumb.edu/" rel="nofollow">here</a>.&#xA0;<br>
 &#xA0;</br></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
@@ -115,8 +115,8 @@ turn them loose on that,&#x201D; he said.</br></br></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -127,7 +127,7 @@ turn them loose on that,&#x201D; he said.</br></br></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r16---sn-o097zne7.googlevideo.com/videoplayback?ip=198.189.249.65&amp;sver=3&amp;initcwndbps=3595000&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;mv=m&amp;upn=DQ227dfWkrI&amp;source=youtube&amp;ms=au&amp;signature=B479EEF38DAE00693D1796A1B62D0E691E379D27.068F35D1C0BC26A4016D27E6649AD28F45CFB989&amp;dur=160.795&amp;mm=31&amp;ipbits=0&amp;pl=23&amp;mt=1422332356&amp;id=o-ALWM8300JjQtDHO543VD4G32HyTN0605pwxWvflTf40C&amp;key=yt5&amp;expire=1422354007&amp;ratebypass=yes&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;itag=18&amp;name=JGXdO6xPlBM" type="video/mp4"/></video></div>
+<source src="https://r16---sn-o097zne7.googlevideo.com/videoplayback?ip=198.189.249.65&amp;sver=3&amp;initcwndbps=3595000&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;mv=m&amp;upn=DQ227dfWkrI&amp;source=youtube&amp;ms=au&amp;signature=B479EEF38DAE00693D1796A1B62D0E691E379D27.068F35D1C0BC26A4016D27E6649AD28F45CFB989&amp;dur=160.795&amp;mm=31&amp;ipbits=0&amp;pl=23&amp;mt=1422332356&amp;id=o-ALWM8300JjQtDHO543VD4G32HyTN0605pwxWvflTf40C&amp;key=yt5&amp;expire=1422354007&amp;ratebypass=yes&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;itag=18&amp;name=JGXdO6xPlBM" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

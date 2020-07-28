@@ -20,7 +20,7 @@ beautification projects.</p>
 <p>The day of service is part of the national Make a Difference
 Day, a day set aside to &#x201C;celebrate neighbors helping neighbors,&#x201D;
 according to the organizer.</p>
-<p><img alt="The Chop Suey sign is a Chinatown landmark" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/chopy_suey_sign1.jpg" style="float:left; width:300px; height:450px">The university&#x2019;s
+<p><img alt="The Chop Suey sign is a Chinatown landmark" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/chopy_suey_sign1.jpg" style="float:left; width:300px; height:450px">The university&#x2019;s
 Service Learning Institute is one of the sponsors of the event in
 Chinatown, where volunteers are needed from 10 a.m. to 2 p.m. to
 help with gardening, painting, landscaping and other tasks. The
@@ -47,7 +47,7 @@ at Natividad Creek Park in Salinas.</p>
 needs volunteers to remove invasive weeds and pick up trash at the
 park from 10 a.m. to 1 p.m. The park is located on Nogal Drive in
 Salinas.</p>
-<p>A list of other volunteer opportunities is available <a href="http://service.csumb.edu/purposeful-service-opportunities" rel="nofollow">here</a>.&#xA0;</p>
+<p>A list of other volunteer opportunities is available <a href="https://service.csumb.edu/purposeful-service-opportunities" rel="nofollow">here</a>.&#xA0;</p>
 <p>For more than two decades, Make a Difference Day has been
 celebrated on the fourth Saturday in October. It connects people
 with opportunities to serve, increases the strength of communities

@@ -34,7 +34,7 @@ date: January 01 2020
   It’s not the first baseball video Richards has worked on. Earlier this year,
   he was the writer/producer behind MLB's opening day broadcast on TBS,
   collaborating with the band Imagine Dragons and their hit single, "It's Time."
-  <a href="http://vimeo.com/39974742">View it here</a>.
+  <a href="https://vimeo.com/39974742">View it here</a>.
 </p>
 <p>
   Richards’ career has taken him across the country several times. After

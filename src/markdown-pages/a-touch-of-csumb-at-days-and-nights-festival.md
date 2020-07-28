@@ -28,7 +28,7 @@ date: January 01 2020
 <p>
   The event will be held in the Cinematic Arts studio on campus. Driving
   directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   On Saturday, Sept. 27, Sunset Center hosts a screening of <em>H20 MX</em>, a
@@ -53,6 +53,6 @@ date: January 01 2020
 </p>
 <p>
   A complete schedule of events can be found
-  <a href="http://daysandnightsfestival.com">here</a>.
+  <a href="https://daysandnightsfestival.com">here</a>.
 </p>
 ```

@@ -10,9 +10,9 @@ slug: csumb-again-named-&apos;militaryfriendly-school&apos;
 
 <span class="date">Posted on Sep 10, 2013    </span>
 <p>For the fifth consecutive year, CSU Monterey Bay has been named
-a &#x201C;military-friendly school&#x201D; by <a href="http://www.militaryfriendlyschools.com" rel="nofollow">G.I. Jobs
+a &#x201C;military-friendly school&#x201D; by <a href="https://www.militaryfriendlyschools.com" rel="nofollow">G.I. Jobs
 magazine</a>.</p>
-<p><img alt="Military Friendly School 2014 logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mfs_logo_big.png" style="float:left; width:200px; height:200px">The list honors the
+<p><img alt="Military Friendly School 2014 logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mfs_logo_big.png" style="float:left; width:200px; height:200px">The list honors the
 top 20 percent of colleges and universities that are doing the most
 to embrace America&#x2019;s military members, veterans and spouses as
 students and to ensure their success on campus, according to the
@@ -24,7 +24,7 @@ Collins said.</img></p>
 for VA tuition funding in determining the results, examining
 criteria such as efforts to recruit and retain military and veteran
 students.</p>
-<p>Among CSUMB&#x2019;s military-friendly practices are <a href="http://catalog.csumb.edu/services-activities/campus-services/veterans-services" rel="nofollow">web pages with information specifically for
+<p>Among CSUMB&#x2019;s military-friendly practices are <a href="https://catalog.csumb.edu/services-activities/campus-services/veterans-services" rel="nofollow">web pages with information specifically for
 veterans</a>; a designated veterans services liaison and campus
 support team to help veterans make the transition from active duty
 service to successful educational pursuits; and a Student Veterans
@@ -42,12 +42,12 @@ education benefits at CSUMB and another 190 students are receiving
 state or federal education benefits as the dependent of a
 disabled/deceased service member.<br>
 <br>
-Learn more about <a href="http://www.gibill.va.gov" rel="nofollow">federal veterans educational benefits</a>. Information
-about services for veterans at CSUMB is available <a href="http://csumb.edu/veterans" rel="nofollow">online</a>&#xA0;or by
+Learn more about <a href="https://www.gibill.va.gov" rel="nofollow">federal veterans educational benefits</a>. Information
+about services for veterans at CSUMB is available <a href="https://csumb.edu/veterans" rel="nofollow">online</a>&#xA0;or by
 e-mailing <a href="mailto:veteran_services@csumb.edu">veteran_services@csumb.edu</a>.<br>
 
 <br>
-View&#xA0;<a href="http://www.militaryfriendlyschools.com/search/profile.aspx?id=409698" rel="nofollow">CSUMB&#x2019;s listing on the magazine&#x2019;s website</a>.<br>
+View&#xA0;<a href="https://www.militaryfriendlyschools.com/search/profile.aspx?id=409698" rel="nofollow">CSUMB&#x2019;s listing on the magazine&#x2019;s website</a>.<br>
 &#xA0;</br></br></br></br></br></br></br></br></br></p>
 
 

@@ -28,7 +28,7 @@ date: January 01 2020
 </p>
 <p>
   Visit the site at
-  <a href="http://www.watercalifornia.org/">www.watercalifornia.org</a>, or see
+  <a href="https://www.watercalifornia.org/">www.watercalifornia.org</a>, or see
   it on display in the fall of 2011 at the Crocker Art Museum in Sacramento.
 </p>
 ```

@@ -24,26 +24,26 @@ date: January 01 2020
 <p>The winning entries by category:</p>
 <p>
   • Continuing coverage:
-  <a href="http://kazu.org/post/what-oil-companies-see-monterey-shale"
+  <a href="https://kazu.org/post/what-oil-companies-see-monterey-shale"
     >Fracking</a
   >
   and
-  <a href="http://kazu.org/post/monterey-county-pushes-back-fracking"
+  <a href="https://kazu.org/post/monterey-county-pushes-back-fracking"
     >Monterey Shale</a
   >, reporter Vinnee Tong
 </p>
 <p>
   • Hard news reporting:
-  <a href="http://kazu.org/post/tight-market-squeezes-low-income-renters"
+  <a href="https://kazu.org/post/tight-market-squeezes-low-income-renters"
     >Tight market squeezes low-income renters</a
   >, reporter Krista Almanzan • Writing:
-  <a href="http://kazu.org/post/mission-conversion-focuses-seismic-retrofit"
+  <a href="https://kazu.org/post/mission-conversion-focuses-seismic-retrofit"
     >Mission conversion focuses on seismic retrofit</a
   >, reporter Krista Almanzan
 </p>
 <p>
   • Sports reporting:
-  <a href="http://kazu.org/post/surfers-work-protect-world-s-best-waves"
+  <a href="https://kazu.org/post/surfers-work-protect-world-s-best-waves"
     >Surfers work to protect world’s best waves</a
   >, reporter Krista Almanzan
 </p>
@@ -52,7 +52,7 @@ date: January 01 2020
   competition this summer.
 </p>
 <p>
-  <a href="http://kazu.org">KAZU 90.3 FM</a> – NPR for the Monterey Bay Area –
+  <a href="https://kazu.org">KAZU 90.3 FM</a> – NPR for the Monterey Bay Area –
   is a community service of California State University, Monterey Bay.
 </p>
 <p></p>

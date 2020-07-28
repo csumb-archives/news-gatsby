@@ -13,7 +13,7 @@ slug: environmental-visionary-visits-monterey
 <p>Oberlin, Ohio, is miles away from what would be considered
 national centers of political or economic power. But that&#x2019;s where
 David Orr is working to fundamentally change the way we live.</p>
-<p><img alt="David Orr" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/david_orr_for_web.jpg" style="float:left; width:300px; height:386px">Dr. Orr, professor
+<p><img alt="David Orr" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/david_orr_for_web.jpg" style="float:left; width:300px; height:386px">Dr. Orr, professor
 of environmental studies and politics and adviser to the president
 of Oberlin College, is a visionary in dealing with climate
 change.</img></p>
@@ -58,9 +58,9 @@ innovator. Can we learn from Oberlin&#x2019;s experiences, become a more
 sustainable community and possibly even become climate
 positive?&#x201D;</p>
 <p>The talk is free and open to the public. Reservations are
-requested and can be made <a href="http://CSUMB.EDU/forum" rel="nofollow">online</a>.</p>
+requested and can be made <a href="https://CSUMB.EDU/forum" rel="nofollow">online</a>.</p>
 <p>For more information, call Dr. Dan Fernandez at 582-3786.</p>
-<p><a href="http://ideals.csumb.edu/sustainability" rel="nofollow">Learn about sustainability at CSUMB</a>.</p>
+<p><a href="https://ideals.csumb.edu/sustainability" rel="nofollow">Learn about sustainability at CSUMB</a>.</p>
 <p class="small"><em>Photo of Dr. Orr courtesy of Oberlin
 College</em><br>
 &#xA0;</br></p>

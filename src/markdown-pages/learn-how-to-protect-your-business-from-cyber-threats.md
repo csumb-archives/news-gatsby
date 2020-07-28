@@ -21,9 +21,9 @@ date: January 01 2020
   Presentations – available in English and Spanish and closed-captioned – are
   posted online at
   <a
-    href="http://sbdc.csumb.edu/cyber-security"
-    title="http://sbdc.csumb.edu/cyber-security"
-    >http://sbdc.csumb.edu/cyber-security</a
+    href="https://sbdc.csumb.edu/cyber-security"
+    title="https://sbdc.csumb.edu/cyber-security"
+    >https://sbdc.csumb.edu/cyber-security</a
   >
   and can easily be downloaded.
 </p>
@@ -38,7 +38,7 @@ date: January 01 2020
   the California Consumer Protection Foundation.
 </p>
 <p>
-  <a href="http://csumb.edu/sbdc"
+  <a href="https://csumb.edu/sbdc"
     >Learn more about CSUMB’s Small Business Development Center</a
   >
 </p>

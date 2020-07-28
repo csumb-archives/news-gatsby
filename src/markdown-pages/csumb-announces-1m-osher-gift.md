@@ -40,10 +40,10 @@ date: January 01 2020
 </p>
 <p>
   The complete spring lineup of classes is now available
-  <a href="http://olli.csumb.edu/courses">online</a>.
+  <a href="https://olli.csumb.edu/courses">online</a>.
 </p>
 <p>
   To learn more about the program, click
-  <a href="http://olli.csumb.edu">here</a> or call 582-5500.
+  <a href="https://olli.csumb.edu">here</a> or call 582-5500.
 </p>
 ```

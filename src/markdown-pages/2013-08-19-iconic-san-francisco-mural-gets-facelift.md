@@ -14,19 +14,19 @@ slug: iconic-san-francisco-mural-gets-facelift
 since the 1980s. This summer, the professor in CSUMB&#x2019;s Visual and
 Public Art Department is &#x201C;re-making&#x201D; a mural she created in 1992,
 and employing students in the effort.</p>
-<p><img alt="The mural before restoration efforts" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/original_mural_for_web.jpg" style="float:left; width:525px; height:373px">Staff members from
+<p><img alt="The mural before restoration efforts" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/original_mural_for_web.jpg" style="float:left; width:525px; height:373px">Staff members from
 the San Francisco Human Services Agency contacted her about
 restoring her mural, &#x201C;To Cause to Remember,&#x201D; better known as the
 Statue of Liberty mural. It&#x2019;s located on the side of a homeless
 shelter in the city&#x2019;s South of Market district.</img></p>
 <p>On the 40-foot by 80-foot wall, Lady Liberty lies on her side
 with chains on her feet and her hand outstretched.</p>
-<p>Poethig said on her <a href="http://johannapoethig.wordpress.com/2013/07/31/statue-of-liberty-mural-restoration/" rel="nofollow">blog</a>:</p>
+<p>Poethig said on her <a href="https://johannapoethig.wordpress.com/2013/07/31/statue-of-liberty-mural-restoration/" rel="nofollow">blog</a>:</p>
 <p>&#x201C;Everyone who comments on the mural mentions the chains first of
 all. . . . This symbol, the fallen Liberty, speaks to the issues of
 poverty, immigration, mental illness, incarceration, drugs, war
 veterans, families and the elderly.</p>
-<p><img alt="Artist Johanna Poethig lanked by Jorge Amezcua, Matthew Floriani " src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/students_jo_at_mural_for_web.jpg" style="float:right; width:450px; height:480px">&#x201C;The image has
+<p><img alt="Artist Johanna Poethig lanked by Jorge Amezcua, Matthew Floriani " src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/students_jo_at_mural_for_web.jpg" style="float:right; width:450px; height:480px">&#x201C;The image has
 been published in books about street art. In my 30-year career as a
 muralist and public artist, this work of art has weathered the test
 of time. The Liberty in recline has proven herself to really mean

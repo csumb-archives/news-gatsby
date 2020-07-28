@@ -51,8 +51,8 @@ date: January 01 2020
   band • WHERE: CSUMB’s World Theater on Sixth Avenue • WHEN: 7:30 p.m., April 7
   • TICKETS: $40 premium, $29 general, discounts for students and seniors;
   reserve online at
-  <a href="http://csumb.edu/worldtheater" title="http://csumb.edu/worldtheater"
-    >http://csumb.edu/worldtheater</a
+  <a href="https://csumb.edu/worldtheater" title="https://csumb.edu/worldtheater"
+    >https://csumb.edu/worldtheater</a
   >
   or by calling the box office at 582-4580 • INFORMATION: 582-4580
 </p>

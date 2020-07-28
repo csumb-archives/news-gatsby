@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   The Visiting Artist series at Cal State Monterey Bay continues on April 9 with
   a presentation by Reanne Estrada and Mike Blockstein of
-  <a href="http://www.publicmattersgroup.com">Public Matters</a>, a Los
+  <a href="https://www.publicmattersgroup.com">Public Matters</a>, a Los
   Angeles&#45;based social enterprise.
 </p>
 <p>
@@ -19,7 +19,7 @@ date: January 01 2020
   community that has helped create it, advancing community&#45;defined
   initiatives &#40;for example, healthy food access in South and East L.A. and
   increased public awareness of
-  <a href="http://www.publicmattersgroup.com/?page_id=716"
+  <a href="https://www.publicmattersgroup.com/?page_id=716"
     >immigrant contributions</a
   >
   in historic Filipinotown&#41;.

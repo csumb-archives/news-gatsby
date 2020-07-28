@@ -34,7 +34,7 @@ date: January 01 2020
   Monument/Bureau of Land Management, the city of Seaside and local schools. RON
   will celebrate its 20th anniversary in the fall. It was founded by classroom
   teachers who believed that children learn best when they are outside and
-  active. <a href="http://ron.csumb.edu">Learn more about RON</a>
+  active. <a href="https://ron.csumb.edu">Learn more about RON</a>
   <a href="https://www.facebook.com/returnofthenatives?sk=photos"
     >Follow Return of the Natives on Facebook</a
   >

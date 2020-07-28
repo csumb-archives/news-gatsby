@@ -14,7 +14,7 @@ slug: mcnair-scholars-grad-school
 <em>Soaring toward advanced degrees on astronaut&apos;s legacy</em></br></h4>
 <p>For some college students, summer is a time to put the books
 away for a few months.</p>
-<p><img alt="Angelica Plascencia" height="306" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Angelica%20Plascencia%20mcnair.JPG" style="float:left" width="250">But that&apos;s not the case for a
+<p><img alt="Angelica Plascencia" height="306" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Angelica%20Plascencia%20mcnair.JPG" style="float:left" width="250">But that&apos;s not the case for a
 group of CSU Monterey Bay students who will spend their summer
 conducting experiments, gathering data and summarizing their
 scientific findings in research papers.</img></p>
@@ -41,7 +41,7 @@ Scholars work with faculty mentors, receive academic support
 services, visit graduate schools and receive help with the graduate
 school application process. They also benefit from guest lecturers,
 workshops and a research methods seminar.</p>
-<p><img alt="McNair Scholars class of 2010" height="236" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/mcnair%20class%20of%2010.JPG" style="float:right" width="300">Seven students from the inaugural
+<p><img alt="McNair Scholars class of 2010" height="236" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/mcnair%20class%20of%2010.JPG" style="float:right" width="300">Seven students from the inaugural
 group will graduate on May 16. A new crop of students, who join
 those continuing with the program, has replaced them. The graduates
 and the new students were introduced at an event on May 5.</img></p>

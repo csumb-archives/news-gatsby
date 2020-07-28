@@ -17,7 +17,7 @@ accessible from Divarty.<br>
 <br>
 <strong>Ways to help</strong><br>
 &#x2022; To buy a book for the library from its wish list, visit the
-Alumni <a href="http://csumbalumni.org/giving-back" rel="nofollow">&quot;giving back&quot; page</a>.<br>
+Alumni <a href="https://csumbalumni.org/giving-back" rel="nofollow">&quot;giving back&quot; page</a>.<br>
 <br>
 &#x2022; Naming opportunities still exist for library spaces.<br>
 <br>
@@ -31,7 +31,7 @@ on Friday; 10 a.m. to 5 p.m. on Saturday; and 2 p.m. to midnight on
 Sunday.<br>
 <br>
 &#x2022; Hours vary during finals, the summer and holidays.<br>
-A schedule is available at the <a href="http://csumb.edu/library" rel="nofollow">CSUMB library page</a>.<br>
+A schedule is available at the <a href="https://csumb.edu/library" rel="nofollow">CSUMB library page</a>.<br>
 <br>
 &#x2022; Public visitors must purchase a parking pass from<br>
 machines on the lots. Cost is 50 cents per hour.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>

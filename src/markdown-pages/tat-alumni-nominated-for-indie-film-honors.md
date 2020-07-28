@@ -29,10 +29,10 @@ date: January 01 2020
 </p>
 <p>
   The New York Times called it “<a
-    href="http://www.nytimes.com/2015/08/07/movies/review&#45;god&#45;bless&#45;the&#45;child&#45;follows&#45;neglected&#45;siblings&#45;at&#45;play.html?_r=1"
+    href="https://www.nytimes.com/2015/08/07/movies/review&#45;god&#45;bless&#45;the&#45;child&#45;follows&#45;neglected&#45;siblings&#45;at&#45;play.html?_r=1"
     >extraordinary</a
   >,” and the Wall Street Journal praised the “<a
-    href="http://www.wsj.com/articles/a&#45;comedians&#45;look&#45;at&#45;a&#45;mentor&#45;plus&#45;70mm&#45;classics&#45;1438812309"
+    href="https://www.wsj.com/articles/a&#45;comedians&#45;look&#45;at&#45;a&#45;mentor&#45;plus&#45;70mm&#45;classics&#45;1438812309"
     >adroit direction of the filmmakers</a
   >.” Machoian and Ojeda&#45;Beck met as students in the Teledramatic Arts and
   Technology Department. They had different styles but found a third when
@@ -60,7 +60,7 @@ date: January 01 2020
   •
   <em
     ><a
-      href="http://moveablefest.com/moveable_fest/2015/03/robert&#45;machoian&#45;rodrigo&#45;ojeda&#45;beck&#45;god&#45;bless&#45;the&#45;child.html"
+      href="https://moveablefest.com/moveable_fest/2015/03/robert&#45;machoian&#45;rodrigo&#45;ojeda&#45;beck&#45;god&#45;bless&#45;the&#45;child.html"
       >The Moveable Feast</a
     ></em
   >

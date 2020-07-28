@@ -48,10 +48,10 @@ date: January 01 2020
   purple, purple represents the creativity which is forged through the fusion of
   arts and sciences and the disciplines that make up our students' academic
   dream plans."
-  <a href="http://csumb.edu/site/x20683.xml%20"
+  <a href="https://csumb.edu/site/x20683.xml%20"
     >Read more about Dr. Mossberg here</a
   >.
-  <a href="http://csumb.edu/site/x15736.xml%20">Read other faculty profiles</a>.
+  <a href="https://csumb.edu/site/x15736.xml%20">Read other faculty profiles</a>.
 </p>
 <p>
   Truths worth telling&#42;Pentagon Papers whistleblower Daniel Ellsberg visits
@@ -64,8 +64,8 @@ date: January 01 2020
   validated the antiwar protest movement. He'll be talking about his book,
   "Secrets: A Memoir of Vietnam and the Pentagon Papers," copies of which will
   be available for sale.
-  <a href="http://csumb.edu/site/x19928.xml%20">Reserve a seat here</a>.
-  <a href="http://news.csumb.edu/site/x20764.xml%20"
+  <a href="https://csumb.edu/site/x19928.xml%20">Reserve a seat here</a>.
+  <a href="https://news.csumb.edu/site/x20764.xml%20"
     >Read more about Dr. Ellsberg here</a
   >.
 </p>
@@ -81,7 +81,7 @@ date: January 01 2020
   assured that OTTERalert is for emergency alerts only; those who sign up will
   not receive spam. Privacy is protected, and only campus administrators and
   members of the University Police Department can originate the messages.
-  <a href="http://news.csumb.edu/site/x20695.xml"
+  <a href="https://news.csumb.edu/site/x20695.xml"
     >Read more about OTTERalert here</a
   >.
 </p>
@@ -92,7 +92,7 @@ date: January 01 2020
   Monday, Nov. 12 from 6 to 9 p.m. The cafe is located at 498 Washington Street,
   Monterey. Screenings will be held every hour, followed by a discussion with
   the filmmaker on the current situation in the Gulf Coast region.
-  <a href="http://csumb.edu/site/x15719.xml%20"
+  <a href="https://csumb.edu/site/x15719.xml%20"
     >Read more about Estee Blancher and her project</a
   >.
 </p>
@@ -135,7 +135,7 @@ date: January 01 2020
 </p>
 <p>
   The November issue of
-  <a href="http://csumb.edu/site/x1038.xml">Campus Connection is now online</a>.
+  <a href="https://csumb.edu/site/x1038.xml">Campus Connection is now online</a>.
   Read about:
 </p>
 <p>
@@ -172,7 +172,7 @@ date: January 01 2020
 <p>
   &#45; Our campus is under construction. Please be cautious around construction
   areas. We invite you to view this
-  <a href="http://cdo.csumb.edu/site/x4929.xml%20">short slide</a> show created
+  <a href="https://cdo.csumb.edu/site/x4929.xml%20">short slide</a> show created
   with your safety in mind.
 </p>
 <p><strong>Otters ready for playoff run</strong></p>

@@ -25,7 +25,7 @@ date: January 01 2020
 </p>
 <p>
   Created in 1985,
-  <a href="http://csusummerarts.org">CSU Summer Arts</a> educates university
+  <a href="https://csusummerarts.org">CSU Summer Arts</a> educates university
   students on how to master various art forms including dance, music, acting,
   media arts, fine arts and creative writing.
 </p>

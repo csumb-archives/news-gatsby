@@ -17,7 +17,7 @@ Salinas.</p>
 <p>This year, the center showcased the work of three Visual and
 Public Art students, two Human Communication students and an
 Integrated Studies major who combined art and psychology.</p>
-<p><img alt="Painting by a solider stationed at Fort Ord" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kristin_brown_2jpg.jpg" style="float:left; width:400px; height:532px">&#x201C;The students
+<p><img alt="Painting by a solider stationed at Fort Ord" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kristin_brown_2jpg.jpg" style="float:left; width:400px; height:532px">&#x201C;The students
 conceptualize, design, create and install their work for public
 viewing,&#x201D; said Deborah Silguero, curator of exhibitions and
 collections and a lecturer in CSUMB&#x2019;s museum studies program. &#x201C;This

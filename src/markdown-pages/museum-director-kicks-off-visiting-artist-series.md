@@ -43,9 +43,9 @@ date: January 01 2020
   workshops worldwide on visitor participation, audience development and
   creative uses of technology.
 </p>
-<p><a href="http://csumb.edu/map">Driving directions and a campus map</a>.</p>
+<p><a href="https://csumb.edu/map">Driving directions and a campus map</a>.</p>
 <p>
-  <a href="http://vpa.csumb.edu/vpa&#45;home&#45;page"
+  <a href="https://vpa.csumb.edu/vpa&#45;home&#45;page"
     >Learn more about the Visual and Public Art Department here</a
   >.
 </p>

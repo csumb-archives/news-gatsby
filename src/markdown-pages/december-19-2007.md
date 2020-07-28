@@ -22,10 +22,10 @@ date: January 01 2020
   Warming"; a pagoda made with seaweed and chocolate; an adobe structure; and
   "Frohe Weihnachten" a replica of a traditional German Christmas decoration.
   That one, by Team University Advancement, took top honors.
-  <a href="http://news.csumb.edu/site/x21050.xml">See more photos</a
-  ><a href="http://news.csumb.edu/site/x21050.xml"
-    >http://news.csumb.edu/site/x21050.xml</a
-  ><a href="http://news.csumb.edu/site/x21050.xml">.</a>
+  <a href="https://news.csumb.edu/site/x21050.xml">See more photos</a
+  ><a href="https://news.csumb.edu/site/x21050.xml"
+    >https://news.csumb.edu/site/x21050.xml</a
+  ><a href="https://news.csumb.edu/site/x21050.xml">.</a>
 </p>
 <p>
   <strong>Campus supports blood drive</strong>Forty students, staff and faculty
@@ -40,7 +40,7 @@ date: January 01 2020
   doing this again." The blood drive was co&#45;sponsored by Omega Delta
   Phi&#45;AK and its service chair, Efren Camacho; the Campus Health Center; and
   the Alumni and Visitors Center.
-  <a href="http://news.csumb.edu/site/x21046.xml">Read more</a>.
+  <a href="https://news.csumb.edu/site/x21046.xml">Read more</a>.
 </p>
 <p>
   <strong>The Year in Review</strong>More students, more outside support, a
@@ -57,12 +57,12 @@ date: January 01 2020
   and human communication programs; $1 million from the David and Lucile Packard
   Foundation for library construction; and $620,000 from the Monterey Peninsula
   Foundation &#40;$500,000 for the library and the rest for athletics&#41;.
-  <a href="http://news.csumb.edu/year&#45;review&#45;1">Read more.</a>
+  <a href="https://news.csumb.edu/year&#45;review&#45;1">Read more.</a>
 </p>
 <p>
   <strong>Fall Capstone Festival</strong>The Provost's Office is proud to
   sponsor the Fall 2007 Capstone Festival through Dec. 21.
-  <a href="http://csumb.edu/site/x20905.xml">Look at the complete schedule.</a>
+  <a href="https://csumb.edu/site/x20905.xml">Look at the complete schedule.</a>
   Please take time to visit the capstones and support our students who have
   worked hard on them.
 </p>
@@ -92,7 +92,7 @@ date: January 01 2020
   assured that OTTERalert is for emergency alerts only; those who sign up will
   not receive spam. Privacy is protected, and only campus administrators and
   members of the University Police Department can originate the messages.
-  <a href="http://news.csumb.edu/site/x20695.xml%20">Read More.</a>
+  <a href="https://news.csumb.edu/site/x20695.xml%20">Read More.</a>
 </p>
 <p>
   Campus will be closed from noon Monday, Dec. 24 until 8 a.m. Wednesday, Jan.
@@ -102,7 +102,7 @@ date: January 01 2020
   <strong
     >Focus the Nation &#45; A Daylong Teach&#45;in on Global Warming</strong
   >
-  <a href="http://www.focusthenation.org/">Focus the Nation</a> is an
+  <a href="https://www.focusthenation.org/">Focus the Nation</a> is an
   educational initiative on Global Warming Solutions for America to be held on
   Jan. 31. It's a nationwide event, taking place at over 1,100 college campuses
   with over a million students expected to attend. CSUMB is hosting a local
@@ -132,7 +132,7 @@ date: January 01 2020
 <p>
   Our campus is under construction. Please be cautious around construction
   areas. We invite you to view this
-  <a href="http://cdo.csumb.edu/site/x4929.xml%20">short slide show</a> created
+  <a href="https://cdo.csumb.edu/site/x4929.xml%20">short slide show</a> created
   with yoursafety in mind.
 </p>
 <p>
@@ -202,6 +202,6 @@ date: January 01 2020
 </p>
 <p>
   For campus news, activities and events, please visit our
-  <a href="http://www.csumb.edu/news%20">news website</a>.
+  <a href="https://www.csumb.edu/news%20">news website</a>.
 </p>
 ```

@@ -10,7 +10,7 @@ slug: geeking-out
 
 <span class="date">Posted on Mar 11, 2014    </span>
 <h3>Students, professors put pie in Pi Day</h3>
-<p><img alt="Pi" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/pi_day_for_web.png" style="float:left; width:200px; height:195px">It&apos;s not likely
+<p><img alt="Pi" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/pi_day_for_web.png" style="float:left; width:200px; height:195px">It&apos;s not likely
 anyone is getting the day off from school or work for it, but
 National Pi Day is Friday.<br>
 <br>

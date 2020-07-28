@@ -9,9 +9,9 @@ date: January 01 2020
   Liz MacDonald, Dr. Dan Fernandez and Kevin Saunders were honored for their
   leadership and dedication to the CSU Monterey Bay Vision at the Day of Welcome
   gathering Aug. 23 in the World Theater.
-  <a href="http://president.csumb.edu/">President Eduardo Ochoa</a> welcomed the
+  <a href="https://president.csumb.edu/">President Eduardo Ochoa</a> welcomed the
   campus community back for the fall semester, delivered his
-  <a href="http://president.csumb.edu/2012-president?s-welcome-address"
+  <a href="https://president.csumb.edu/2012-president?s-welcome-address"
     >State of the University address</a
   >, and then introduced the President’s Medal recipients. Last spring, the
   university community was invited to make nominations. The nominees represented

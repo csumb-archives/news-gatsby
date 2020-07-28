@@ -36,7 +36,7 @@ date: January 01 2020
   book signing will follow the reading and discussion. The free talk will start
   at 6 p.m. in the University Center ballroom. The University Center is located
   on Sixth Avenue near B Street. Driving directions and a campus map are
-  available <a href="http://csumb.edu/map">here.</a> The event is sponsored by
+  available <a href="https://csumb.edu/map">here.</a> The event is sponsored by
   the Monterey County Free Libraries and Cal Humanities.
 </p>
 ```

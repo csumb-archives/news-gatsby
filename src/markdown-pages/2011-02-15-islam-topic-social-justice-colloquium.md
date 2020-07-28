@@ -16,7 +16,7 @@ feature a pair of dialogues focusing on Islam.</p>
 <p>The keynote event, &#x201C;Muslim Feminisms: Reading the Texts,
 Advocating for Rights,&#x201D; will be held at 6:30 p.m., March 7, in the
 Alumni and Visitors Center.</p>
-<p><img alt="Aysha Hidayatullah" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/aysha.jpg" style="float:left; width:200px; height:197px">Dr. Aysha
+<p><img alt="Aysha Hidayatullah" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/aysha.jpg" style="float:left; width:200px; height:197px">Dr. Aysha
 Hidayatullah (at left), a faculty member in the Department of
 Theology and Religious Studies at the Jesuit University of San
 Francisco, and Rini Iswarini, an Indonesian public interest lawyer,
@@ -35,7 +35,7 @@ the documentary, &#x201C;Little Town of Bethlehem,&#x201D; at 10 a.m. in Room
 different faiths and their lives in Israel and Palestine. The story
 explores each man&#x2019;s choice of nonviolent action amidst a culture of
 overwhelming violence.</p>
-<p><img alt="Rini Iswarini" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rini_pic.jpg" style="float:right; width:200px; height:251px">The Social Justice
+<p><img alt="Rini Iswarini" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rini_pic.jpg" style="float:right; width:200px; height:251px">The Social Justice
 Colloquium, now in its 15th year, is an annual event featuring
 international activists and scholars discussing timely questions of
 social and environmental justice.</img></p>

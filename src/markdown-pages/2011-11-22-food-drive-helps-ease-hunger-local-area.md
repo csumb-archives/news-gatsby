@@ -12,7 +12,7 @@ slug: food-drive-helps-to-ease-hunger-in-local-area
 <p>With help from the local community, CSU Monterey Bay collected
 more than 2,500 lbs. of food to help those in need this holiday
 season.</p>
-<p><img alt="The December People inspired people to donate 1,500 lbs. of food" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/december_people-sm_food.jpg" style="float:left; width:350px; height:261px">To earn a big
+<p><img alt="The December People inspired people to donate 1,500 lbs. of food" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/december_people-sm_food.jpg" style="float:left; width:350px; height:261px">To earn a big
 discount off the ticket price for the Nov. 12 performances of the
 December People, those who attended the World Theater concerts were
 asked to bring cans of food for people and pets.&#xA0;</img></p>

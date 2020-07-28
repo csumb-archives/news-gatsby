@@ -73,7 +73,7 @@ date: January 01 2020
 </p>
 <p>
   Read
-  <a href="http://hcom.csumb.edu/students"
+  <a href="https://hcom.csumb.edu/students"
     >more information about the Krause scholarship</a
   >, including the application deadline.
 </p>

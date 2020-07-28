@@ -15,11 +15,11 @@ date: January 01 2020
   The following day "A Land for War," along with a collection of her students'
   documentaries in “Fort Ord: A Sense of Place,” will be screening at the
   <a
-    href="http://www.nga.gov/content/ngaweb/calendar/film&#45;programs/winter17/fort&#45;ord.html"
+    href="https://www.nga.gov/content/ngaweb/calendar/film&#45;programs/winter17/fort&#45;ord.html"
     >National Gallery of Art</a
   >
   as a part of the
-  <a href="http://dceff.org/film/a&#45;land&#45;for&#45;war/"
+  <a href="https://dceff.org/film/a&#45;land&#45;for&#45;war/"
     >D.C. Environmental Film Festival</a
   >, capping off the 10&#45;year project Planet Ord led by Ryce.
 </p>

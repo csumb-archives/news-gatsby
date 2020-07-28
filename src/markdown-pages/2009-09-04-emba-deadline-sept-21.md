@@ -37,7 +37,7 @@ slug: emba-program-accepting-students
 </p>
 <p>
   For more information, visit
-  <a href="http://emba.csumb.edu/" rel="nofollow">http://emba.csumb.edu</a>.
+  <a href="https://emba.csumb.edu/" rel="nofollow">https://emba.csumb.edu</a>.
   Admission advisers are available at 866-757-5172 to answer questions and to
   start the application process. Sept. 21 is the application deadline.
 </p>

@@ -15,14 +15,14 @@ screenings</h3>
 it&#x2019;s bigger and better than ever.</p>
 <p>Under the auspices of the Monterey Bay Film Society, the
 festival has grown to three days and a pair of locations.</p>
-<p><img alt="Terence Nance will be on hand at the Sept. 7 screening of his film" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/terence_small.jpg" style="float:left; width:250px; height:270px">This year&#x2019;s
+<p><img alt="Terence Nance will be on hand at the Sept. 7 screening of his film" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/terence_small.jpg" style="float:left; width:250px; height:270px">This year&#x2019;s
 festival will be held Sept. 7-9. It opens with a showing of Terence
 Nance&#x2019;s &#x201C;An Oversimplification of Her Beauty,&#x201D; a love story that
 cleverly incorporates animated fragments into its experimental
 narrative. The film will be shown at 7:30 p.m., Sept. 7, in CSU
 Monterey Bay&#x2019;s World Theater. A question-and-answer session with
 the director (pictured at left) will follow the screening. General
-admission tickets are $10; $5 for students and military. <a href="http://montereybayfilmfestival.com" rel="nofollow">Tickets may be
+admission tickets are $10; $5 for students and military. <a href="https://montereybayfilmfestival.com" rel="nofollow">Tickets may be
 purchased online</a>.</img></p>
 <p>On Saturday, Sept. 8, young filmmakers will be in the spotlight
 as 15 short works &#x2013; all under 5 minutes &#x2013; will be shown starting at
@@ -33,10 +33,10 @@ came from local teenagers &#x2013; including incarcerated youth in Salinas
 &#x2013; others came were throughout California. One was submitted by a
 teen filmmaker in Kenya; another came from Ecuador.</p>
 <p>On the evening of Sept. 8, the festival moves to the Museum of
-Monterey with a 7:30 p.m. showing&#xA0;<img alt="Director Gerardo Naranjo will show his film Sept. 8" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/juan-carlos-polanco_photo_sm.jpg" style="float:right; width:250px; height:163px">of &#x201C;Miss Bala,&#x201D;
+Monterey with a 7:30 p.m. showing&#xA0;<img alt="Director Gerardo Naranjo will show his film Sept. 8" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/juan-carlos-polanco_photo_sm.jpg" style="float:right; width:250px; height:163px">of &#x201C;Miss Bala,&#x201D;
 followed by a question-and-answer session with the director,
 Gerardo Naranjo (pictured at right). General admission tickets are
-$10; $5 for students and military, and <a href="http://montereybayfilmfestival.com" rel="nofollow">may be
+$10; $5 for students and military, and <a href="https://montereybayfilmfestival.com" rel="nofollow">may be
 purchased online</a>.</img></p>
 <p>&#x201C;Miss Bala&quot; &#x2013; bala means bullet &#x2013; takes viewers to the front
 lines of Mexico&apos;s devastating, unending drug wars. It premiered at
@@ -48,7 +48,7 @@ from the Wholphin collection. Wholphin, a quarterly DVD magazine,
 discovers and promotes short films and makes them available by
 subscription. The screening will get under way at 3 p.m. at the
 Museum of Monterey. General admission tickets are $10; $5 for
-students and military. <a href="http://montereybayfilmfestival.com" rel="nofollow">Buy tickets online</a>.</p>
+students and military. <a href="https://montereybayfilmfestival.com" rel="nofollow">Buy tickets online</a>.</p>
 <p>The Monterey Bay Film Society is the Central Coast&#x2019;s premiere
 organization for independent filmmaking, media art and community
 and is presented by the Teledramatic Arts and Technology Department
@@ -62,17 +62,17 @@ Creative director is Mike Plante of the Sundance Film Festival.
 Plante will be in attendance at the festival.</p>
 <p>The World Theater is located on Sixth Avenue near the
 intersection with A Street.<br>
-Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</br></p>
+Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</br></p>
 <p>For information on the festival, call Jennifer Benge at (831)
-582-3743 or <a href="http://www.montereybayfilmsociety.org/events.html" rel="nofollow">visit the web</a>.</p>
-<p><a href="http://csumb.edu/tat" rel="nofollow">Learn more about
+582-3743 or <a href="https://www.montereybayfilmsociety.org/events.html" rel="nofollow">visit the web</a>.</p>
+<p><a href="https://csumb.edu/tat" rel="nofollow">Learn more about
 CSUMB&#x2019;s Teledramatic Arts and Technology Department.</a></p>
 <p>Schedule:</p>
 <p><strong>Friday, Sept. 7</strong><br>
 &#x2022; 7:30 p.m. &#x2013; Screening of &#x201C;An Oversimplification of Her Beauty&#x201D;
 followed by question-and-answer session with filmmaker Terence
 Nance. CSUMB&#x2019;s World Theater, Sixth Avenue near A Street, $10
-general admission, $5 for students/military. <a href="http://www.brownpapertickets.com/event/269684" rel="nofollow">Tickets can be purchased online</a>&#xA0;or by calling
+general admission, $5 for students/military. <a href="https://www.brownpapertickets.com/event/269684" rel="nofollow">Tickets can be purchased online</a>&#xA0;or by calling
 Brown Paper Tickets at&#xA0;1-800-838-3006.</br></p>
 <p><strong>Saturday, Sept. 8</strong><br>
 &#x2022; 1 p.m. &#x2013; Teen program featuring 15 short films and Q-and-A with
@@ -94,8 +94,8 @@ Polanco</em></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/rrTyAbgjF04&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/rrTyAbgjF04&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/rrTyAbgjF04&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/rrTyAbgjF04&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -106,7 +106,7 @@ Polanco</em></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r7---sn-o097zne6.googlevideo.com/videoplayback?upn=wloFEZ9Gds8&amp;initcwndbps=4156250&amp;key=yt5&amp;ip=198.189.249.65&amp;ratebypass=yes&amp;ipbits=0&amp;pl=23&amp;mm=31&amp;source=youtube&amp;ms=au&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;id=o-APZqjwzAbEFUO9eSj4n7lqrw-J1NGeS2lxIZmRyc4zgH&amp;itag=18&amp;mt=1422324041&amp;sver=3&amp;expire=1422345720&amp;signature=664AFA6CF44ABE3BE21FEE53C1A6F6B88030282E.3C2D2E7CA285DB2A544F77486025817B005FA45D&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;dur=137.206&amp;mv=m&amp;name=rrTyAbgjF04" type="video/mp4"/></video></div>
+<source src="https://r7---sn-o097zne6.googlevideo.com/videoplayback?upn=wloFEZ9Gds8&amp;initcwndbps=4156250&amp;key=yt5&amp;ip=198.189.249.65&amp;ratebypass=yes&amp;ipbits=0&amp;pl=23&amp;mm=31&amp;source=youtube&amp;ms=au&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;id=o-APZqjwzAbEFUO9eSj4n7lqrw-J1NGeS2lxIZmRyc4zgH&amp;itag=18&amp;mt=1422324041&amp;sver=3&amp;expire=1422345720&amp;signature=664AFA6CF44ABE3BE21FEE53C1A6F6B88030282E.3C2D2E7CA285DB2A544F77486025817B005FA45D&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;dur=137.206&amp;mv=m&amp;name=rrTyAbgjF04" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

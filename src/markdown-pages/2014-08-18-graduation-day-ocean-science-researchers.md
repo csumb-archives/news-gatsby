@@ -9,7 +9,7 @@ slug: day&apos;-for-ocean-science-researchers
 
 
 <span class="date">Posted on Aug 18, 2014    </span>
-<p><img alt="The 11 members of CSUMB&apos;s first REU" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/reu_final_day.jpg" style="width:550px; height:413px; float:left">For the 11 students
+<p><img alt="The 11 members of CSUMB&apos;s first REU" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/reu_final_day.jpg" style="width:550px; height:413px; float:left">For the 11 students
 who spent the summer conducting research through the Ocean Science
 Research Experiences for Undergraduates program based at CSU
 Monterey Bay, Aug. 15 was graduation day.</img></p>
@@ -35,7 +35,7 @@ at labs on the CSUMB campus.</p>
 humpback whales; underwater laser &#x201C;tripwire&#x201D; for detecting marine
 life; algae blooms in Elkhorn Slough Estuary; and circulation
 patterns in the Monterey Bay region from high frequency radar.</p>
-<p><a href="http://reu.csumb.edu" rel="nofollow">Learn more about
+<p><a href="https://reu.csumb.edu" rel="nofollow">Learn more about
 CSUMB&#x2019;s Ocean Science REU</a></p>
 <p><a href="https://www.facebook.com/pages/Monterey-Bay-Regional-Ocean-Science-Research-Experiences-for-Undergraduates/289392764542256" rel="nofollow">Check out the Facebook page</a></p>
 <p><a href="../../jul/30/ocean-science-attracts-summer-researchers.html" rel="nofollow">Read an earlier story</a></p>

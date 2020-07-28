@@ -48,6 +48,6 @@ date: January 01 2020
   linking research, learning and mentorship to real world experiences,” said Dr.
   William Head, director of UROC. “This translates to long-term academic
   success, self-confidence and persistence and has career benefits.”
-  <a href="http://uroc.csumb.edu">Learn more about UROC</a>.
+  <a href="https://uroc.csumb.edu">Learn more about UROC</a>.
 </p>
 ```

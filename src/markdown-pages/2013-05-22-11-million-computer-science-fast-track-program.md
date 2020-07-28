@@ -13,7 +13,7 @@ slug: $1.1-million-for-computer-science-fasttrack-program
 <p>CSU Monterey Bay and Hartnell College have received a grant of
 $1.1 million to support their new three-year degree program in
 Computer Science and Information Technology.</p>
-<p><img alt="NSF Acting Director Cora Marrett and President Eduardo Ochoa" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/pres._ochoa_for_web.jpg" style="float:right; width:300px; height:243px">The university and
+<p><img alt="NSF Acting Director Cora Marrett and President Eduardo Ochoa" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/pres._ochoa_for_web.jpg" style="float:right; width:300px; height:243px">The university and
 Hartnell have partnered to create a program called CSIT-in-3. The
 two schools have worked closely on the program&#x2019;s design and
 implementation and will collaborate on instruction, mentoring and
@@ -53,7 +53,7 @@ each of 23 students.</p>
 colleges and universities, including Cornell, Syracuse, University
 of Texas and a collaboration between the University of Washington
 and Washington State University.</p>
-<p><a href="http://csumb.edu/csitin3" rel="nofollow">Learn more
+<p><a href="https://csumb.edu/csitin3" rel="nofollow">Learn more
 about the program</a>.&#xA0;</p>
 <p class="small"><em>Photo: National Science Foundation Acting
 Director Cora Marrett and CSUMB President Eduardo Ochoa at the

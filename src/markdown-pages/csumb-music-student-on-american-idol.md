@@ -61,6 +61,6 @@ date: January 01 2020
 <p>
   “OK, seriously. Over 1,000 likes. You guys have no idea how much support I
   feel right now,” she wrote. “From the bottom of my heart, thank you.”
-  <a href="http://csumb.edu/music">Learn about the music program at CSUMB</a>.
+  <a href="https://csumb.edu/music">Learn about the music program at CSUMB</a>.
 </p>
 ```

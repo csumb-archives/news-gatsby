@@ -50,7 +50,7 @@ date: January 01 2020
   projects at CSU Monterey Bay and at regional research institutions. Their work
   is guided by a research mentor and includes training in proposal writing,
   presentation and communication skills. It also helps students apply to
-  graduate school. <a href="http://uroc.csumb.edu">Learn more about UROC.</a>
+  graduate school. <a href="https://uroc.csumb.edu">Learn more about UROC.</a>
 </p>
 <p>
   SACNAS presents the poster sessions at its annual conference to help students

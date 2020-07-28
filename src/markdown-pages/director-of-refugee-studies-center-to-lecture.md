@@ -20,13 +20,13 @@ date: January 01 2020
   University Center living room. The University Center is located on Sixth
   Avenue and B Street. While the lecture is free, a parking permit must be
   purchased from a machine on the lot. Driving directions and a campus are
-  available <a href="http://csumb.eu/maps">here</a>.
+  available <a href="https://csumb.eu/maps">here</a>.
 </p>
 <p>
   Dr. Chatty’s visit is sponsored by CSUMB’s divisions of
-  <a href="http://sbgs.csumb.edu/">Social, Behavioral and Global Studies</a> and
-  <a href="http://hcom.csumb.edu">Humanities and Communication</a> and the<a
-    href="http://thewip.net/"
+  <a href="https://sbgs.csumb.edu/">Social, Behavioral and Global Studies</a> and
+  <a href="https://hcom.csumb.edu">Humanities and Communication</a> and the<a
+    href="https://thewip.net/"
     >Women’s International Perspective.</a
   >
   For more information or to RSVP, contact Brendan Taylor at

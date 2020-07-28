@@ -12,7 +12,7 @@ slug: dr.-harrison-appointed-president-of-csu-northridge
 <p>The California State University Board of Trustees today named
 Dianne F. Harrison, president of California State University,
 Monterey Bay, as president of California State University,
-Northridge. Dr.&#xA0;<img alt="President Dianne Harrison" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/harrison-cropped.jpg" style="float:left; width:300px; height:317px">Harrison has been
+Northridge. Dr.&#xA0;<img alt="President Dianne Harrison" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/harrison-cropped.jpg" style="float:left; width:300px; height:317px">Harrison has been
 CSUMB president since 2006.</img></p>
 <p>&#x201C;I am excited and honored to be selected as president of another
 fine institution within the California State University system, and

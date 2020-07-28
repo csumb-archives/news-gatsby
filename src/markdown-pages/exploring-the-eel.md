@@ -82,19 +82,19 @@ date: January 01 2020
   conservation. Just watch out for the green lasers.<strong
     >Related Links:</strong
   >Division of Science and Environmental Policy (<a
-    href="http://sep.csumb.edu/sep/"
-    >http://sep.csumb.edu/sep/</a
+    href="https://sep.csumb.edu/sep/"
+    >https://sep.csumb.edu/sep/</a
   >)More about the ROVing Otter:WeTEC Page ([
-  <a href="http://csumb.edu/site/x17370.xml"
-    >http://csumb.edu/site/x17370.xml</a
+  <a href="https://csumb.edu/site/x17370.xml"
+    >https://csumb.edu/site/x17370.xml</a
   >
-  ]http://csumb.edu/site/x17370.xml)ROVing Otter Homepage ([
-  <a href="http://science.csumb.edu/ro/">http://science.csumb.edu/ro/</a>
-  ]http://science.csumb.edu/ro/)Institute for Applied Marine Ecology ([
-  <a href="http://sep.csumb.edu/iame/">http://sep.csumb.edu/iame/</a>
-  ]http://sep.csumb.edu/iame/)Carmel Middle School Owl Cam (<a
-    href="http://home.csumb.edu/m/mooresteve/world/courses/zoology/OwlCam/CMS_OwlCam_Moore.htm"
-    >http://home.csumb.edu/m/mooresteve/world/courses/zoology/OwlCam/CMS_OwlCam_Moore.htm</a
+  ]https://csumb.edu/site/x17370.xml)ROVing Otter Homepage ([
+  <a href="https://science.csumb.edu/ro/">https://science.csumb.edu/ro/</a>
+  ]https://science.csumb.edu/ro/)Institute for Applied Marine Ecology ([
+  <a href="https://sep.csumb.edu/iame/">https://sep.csumb.edu/iame/</a>
+  ]https://sep.csumb.edu/iame/)Carmel Middle School Owl Cam (<a
+    href="https://home.csumb.edu/m/mooresteve/world/courses/zoology/OwlCam/CMS_OwlCam_Moore.htm"
+    >https://home.csumb.edu/m/mooresteve/world/courses/zoology/OwlCam/CMS_OwlCam_Moore.htm</a
   >)
 </p>
 ```

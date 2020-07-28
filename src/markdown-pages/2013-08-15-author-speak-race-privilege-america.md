@@ -13,7 +13,7 @@ slug: author-to-speak-on-race-privilege-in-america
 <p>Anti-racism activist and educator Tim Wise will discuss white
 privilege and how it ultimately harms its beneficiaries when he
 visits CSU Monterey Bay on Sept. 18.</p>
-<p><img alt="Tim Wise" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wise_photo.jpg" style="float:left; width:250px; height:317px">His lecture will be
+<p><img alt="Tim Wise" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wise_photo.jpg" style="float:left; width:250px; height:317px">His lecture will be
 held from 7 to 9 p.m. in the University Center on Sixth Avenue and
 B Street. Tickets &#x2013; $10 for the public and free to CSUMB students,
 faculty and staff with Otter ID &#x2013; will be available at the door.

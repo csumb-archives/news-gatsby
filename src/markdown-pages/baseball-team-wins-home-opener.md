@@ -39,8 +39,8 @@ date: January 01 2020
   The Otters begin a three-game series against Fresno Pacific on Friday, Feb.
   11, at 2 p.m. Saturday's doubleheader will get under way at 11 a.m. Read more
   at
-  <a href="http://otterathletics.com/" title="http://otterathletics.com/"
-    >http://otterathletics.com/</a
+  <a href="https://otterathletics.com/" title="https://otterathletics.com/"
+    >https://otterathletics.com/</a
   >
 </p>
 ```

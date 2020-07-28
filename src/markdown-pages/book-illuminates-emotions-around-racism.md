@@ -41,8 +41,8 @@ date: January 01 2020
 <p>
   • Haskell and Jealous will read selections at a book-signing Oct. 5 at Mrs.
   Dalloway’s Bookstore in Berkeley.
-  <a href="http://www.mrsdalloways.com">More information</a> • They will lead a
+  <a href="https://www.mrsdalloways.com">More information</a> • They will lead a
   four-session class through the Osher Lifelong Learning Institute, Oct. 21, 28,
-  Nov. 4 and 18 at CSUMB. <a href="http://csumb.edu/olli">More information</a>
+  Nov. 4 and 18 at CSUMB. <a href="https://csumb.edu/olli">More information</a>
 </p>
 ```

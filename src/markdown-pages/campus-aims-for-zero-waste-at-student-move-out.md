@@ -62,7 +62,7 @@ date: January 01 2020
   Zero waste move-out is just one way students, staff and faculty members are
   working together to make CSUMB a more sustainable campus. To learn more about
   the university’s sustainability efforts, click
-  <a href="http://ideals.csumb.edu/sustainability">here</a>.
+  <a href="https://ideals.csumb.edu/sustainability">here</a>.
 </p>
 <p></p>
 <p></p>

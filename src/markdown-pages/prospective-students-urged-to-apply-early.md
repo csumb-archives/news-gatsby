@@ -22,7 +22,7 @@ date: January 01 2020
   will be based on a first-come, first-served basis," Dr. Higgs said. "CSUMB
   will most likely reach its maximum allotted number much earlier than Nov. 30.
   At that point, all other applicants will be put on a wait list." High school
-  seniors can visit <a href="http://www.csumentor.edu/">www.csumentor.edu</a> to
+  seniors can visit <a href="https://www.csumentor.edu/">www.csumentor.edu</a> to
   submit applications. More information is available by calling the Office of
   Admissions at (831) 582-3738.
 </p>

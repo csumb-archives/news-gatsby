@@ -14,7 +14,7 @@ information technology, has been honored with the Allen Griffin
 Award for excellence in teaching at the post-secondary level. The
 award is sponsored by the Community Foundation for Monterey
 County.</p>
-<p><img alt="Kate Lockwood" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kate_lockwood_for_web.jpg" style="float:right; width:372px; height:290px"/></p>
+<p><img alt="Kate Lockwood" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kate_lockwood_for_web.jpg" style="float:right; width:372px; height:290px"/></p>
 <p>Established in 1982, the Griffin Award was created by a bequest
 from the late Col. Allen Griffin, former publisher of the Monterey
 Herald and founder and former board president of the Community
@@ -57,8 +57,8 @@ include artificial intelligence.</p>
 Kent Adams, Pat Tinsley McGill and Scott Waltz. The award was given
 annually until 2011, when the Community Foundation changed to an
 every-other-year schedule.</p>
-<p><a href="http://itcd.csumb.edu/kate-lockwood" rel="nofollow">Learn more about Dr. Lockwood</a>.</p>
-<p><a href="http://itcd.csumb.edu/bs-computer-science-information-technology" rel="nofollow">Learn more about computer science and information
+<p><a href="https://itcd.csumb.edu/kate-lockwood" rel="nofollow">Learn more about Dr. Lockwood</a>.</p>
+<p><a href="https://itcd.csumb.edu/bs-computer-science-information-technology" rel="nofollow">Learn more about computer science and information
 technology at CSUMB.</a><br>
 <br>
 <a href="../../../2012/nov/25/faculty-highlights.html" rel="nofollow">R</a><a href="../../../2012/nov/25/faculty-highlights.html" rel="nofollow">ead
@@ -73,8 +73,8 @@ Seminar class in 2010 face off in a robot competition</em></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/I-rUHGisE2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/I-rUHGisE2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/I-rUHGisE2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/I-rUHGisE2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -85,7 +85,7 @@ Seminar class in 2010 face off in a robot competition</em></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r7---sn-o097znee.googlevideo.com/videoplayback?key=yt5&amp;id=o-AO9b-EBHRvxDfUGC9BwexM6tSEmF2XDAH5MhuYSHBghH&amp;expire=1422338580&amp;signature=402E8BECC947F099A04BCF64A501BCFA4D68E2B8.9155D1FA1275386626FF8D82261D128129ED73&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;source=youtube&amp;upn=XObfcbC6_j0&amp;mv=m&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;ms=au&amp;mm=31&amp;ip=198.189.249.65&amp;mt=1422316933&amp;dur=51.455&amp;ipbits=0&amp;pl=23&amp;itag=18&amp;sver=3&amp;ratebypass=yes&amp;initcwndbps=4503750&amp;name=I-rUHGisE2Y" type="video/mp4"/></video></div>
+<source src="https://r7---sn-o097znee.googlevideo.com/videoplayback?key=yt5&amp;id=o-AO9b-EBHRvxDfUGC9BwexM6tSEmF2XDAH5MhuYSHBghH&amp;expire=1422338580&amp;signature=402E8BECC947F099A04BCF64A501BCFA4D68E2B8.9155D1FA1275386626FF8D82261D128129ED73&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;source=youtube&amp;upn=XObfcbC6_j0&amp;mv=m&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;ms=au&amp;mm=31&amp;ip=198.189.249.65&amp;mt=1422316933&amp;dur=51.455&amp;ipbits=0&amp;pl=23&amp;itag=18&amp;sver=3&amp;ratebypass=yes&amp;initcwndbps=4503750&amp;name=I-rUHGisE2Y" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

@@ -9,9 +9,9 @@ slug: soccer-player-earns-trustees&apos;-scholarship
 
 
 <span class="date">Posted on Sep 25, 2013    </span>
-<p><img alt="Regan Porteous is a CSU Trustees&apos; Scholar" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/portrait_of_regan_for_web.jpg" style="float:right; width:250px; height:305px">Cal State Monterey
+<p><img alt="Regan Porteous is a CSU Trustees&apos; Scholar" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/portrait_of_regan_for_web.jpg" style="float:right; width:250px; height:305px">Cal State Monterey
 Bay sophomore Regan Porteous has been selected to receive a
-<a href="http://www.calstate.edu/foundation/hearst/" rel="nofollow">CSU Trustees&#x2019; Award for Outstanding Achievement.</a> She
+<a href="https://www.calstate.edu/foundation/hearst/" rel="nofollow">CSU Trustees&#x2019; Award for Outstanding Achievement.</a> She
 and the other award winners were honored on Sept. 24 at the CSU
 board meeting in Long Beach.</img></p>
 <p>The award is among the highest student distinctions in the CSU
@@ -25,7 +25,7 @@ circumstance to become leaders among their classmates and
 exemplifying the CSU mission of access to a quality higher
 education,&#x201D; said Chancellor Timothy White.</p>
 <p>Regan&#x2019;s father was sentenced to life in prison when she was an
-infant. Much of her childhood was&#xA0;<img alt="Regan plays on the CSUMB soccer team" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/soccer_shot_of_regan_for_web.jpg" style="float:left; width:250px; height:375px">spent behind barbed
+infant. Much of her childhood was&#xA0;<img alt="Regan plays on the CSUMB soccer team" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/soccer_shot_of_regan_for_web.jpg" style="float:left; width:250px; height:375px">spent behind barbed
 wire and guard towers as she and her family visited him nearly
 every Sunday. She faced the obstacle of not having a father
 involved in her daily life; she also encountered low expectations

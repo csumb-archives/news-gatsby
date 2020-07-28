@@ -87,12 +87,12 @@ date: January 01 2020
 <p>
   For more information, visit the
   <a
-    href="http://www.news/csumb-grads-film-screen-sundance.org/festival/release/2013-news/csumb-grads-film-screen-sundance-film-festival-announces-short-film-program/"
+    href="https://www.news/csumb-grads-film-screen-sundance.org/festival/release/2013-news/csumb-grads-film-screen-sundance-film-festival-announces-short-film-program/"
     >festival website</a
   >.
 </p>
 <p>
-  <a href="http://csumb.edu/tat"
+  <a href="https://csumb.edu/tat"
     >Learn more about the Teledramatic Arts and Technology Department at
     CSUMB.</a
   >

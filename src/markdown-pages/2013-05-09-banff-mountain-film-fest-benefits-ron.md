@@ -10,7 +10,7 @@ slug: banff-mountain-film-fest-benefits-ron
 
 <span class="date">Posted on May 09, 2013    </span>
 <p>Experience adventure on the big screen when the Banff Mountain
-Film Festival World Tour&#xA0;makes&#xA0;<img alt="Banff Mountain Film Festival plays in Monterey March 1" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/banff_web.jpg" style="float:left; width:400px; height:276px">a&#xA0;stop at
+Film Festival World Tour&#xA0;makes&#xA0;<img alt="Banff Mountain Film Festival plays in Monterey March 1" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/banff_web.jpg" style="float:left; width:400px; height:276px">a&#xA0;stop at
 Monterey&#x2019;s Golden State Theatre on March 1, sponsored by REI
 Marina. The proceeds will benefit CSU Monterey Bay&apos;s Return of the
 Natives project.</img></p>
@@ -26,7 +26,7 @@ goes on tour to more than 360 locations worldwide.</p>
 are on sale now at REI, 145 Gen. Stilwell Drive in Marina.</p>
 <p>For more information, call 883-8048.<br>
 <br>
-<a href="http://csumb.edu/ron" rel="nofollow">The Return of the
+<a href="https://csumb.edu/ron" rel="nofollow">The Return of the
 Natives</a> restoration project is the education and outreach
 branch of the Watershed Institute at CSUMB. RON&apos;s environmental
 goal is to protect the waters of the Monterey Bay through

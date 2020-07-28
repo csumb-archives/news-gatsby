@@ -11,7 +11,7 @@ slug: saturday&amp;colon;-music-students&apos;-spring-concert
 concert will be held Saturday, April 30 at 7 p.m. in the World
 Theater on Sixth Avenue. The public is invited to this free
 event.</p>
-<p><img alt="spring flowers" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/flowers.jpg" style="float:left; width:116px; height:150px">The university&apos;s
+<p><img alt="spring flowers" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/flowers.jpg" style="float:left; width:116px; height:150px">The university&apos;s
 chorale and small vocal ensemble, Nuovo Plaisir &#x2013; both directed by
 Professor Paulette Gissendanner &#x2013; will perform. Also on the program
 is the CSUMB community band, directed by Theresa Hruby-Percell, a

@@ -11,7 +11,7 @@ slug: commencement-by-the-numbers
 <span class="date">Posted on May 13, 2014    </span>
 <h3>One year of planning and countless staff hours create this
 unforgettable day</h3>
-<h3><em><img alt="More than 2,800 chairs are rented for commencement" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/commencement_shot_for_web.jpg" style="width:550px; height:227px"/></em></h3>
+<h3><em><img alt="More than 2,800 chairs are rented for commencement" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/commencement_shot_for_web.jpg" style="width:550px; height:227px"/></em></h3>
 <p><strong>8,000:</strong> Graduation tickets printed</p>
 <p><strong>6,500:</strong>&#xA0;Programs printed&#xA0;</p>
 <p><strong>6,000:</strong>&#xA0;Friends and family attending</p>
@@ -50,7 +50,7 @@ of commencement</p>
 <p><strong>1:</strong> Number of years it will take commencement
 coordinator Phyllis Grillo to plan commencement 2015<br>
 <br>
-<a href="http://csumb.edu/commencement" rel="nofollow">Read more
+<a href="https://csumb.edu/commencement" rel="nofollow">Read more
 about commencement here</a>.</br></br></p>
 <p class="small"><em>Some numbers are estimates</em></p>
 <p><br>

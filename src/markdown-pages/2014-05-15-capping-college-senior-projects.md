@@ -14,7 +14,7 @@ slug: capping-off-college-with-senior-projects
 Surfrider Foundation, implementing the foundation&#x2019;s Rise Above
 Plastics program.<br>
 <br>
-<img alt="Alyssa Nally talks with elementary school students" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/plastic1_resize.jpg" style="width:315px; height:174px; float:left">To fulfill a CSU
+<img alt="Alyssa Nally talks with elementary school students" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/plastic1_resize.jpg" style="width:315px; height:174px; float:left">To fulfill a CSU
 Monterey Bay requirement that all students complete a capstone &#x2013; a
 creative or research project &#x2013; the marine science major developed a
 presentation for elementary school students. Nally&#x2019;s presentation
@@ -45,7 +45,7 @@ synthesize and apply years of learning.<br>
 At Cal State Monterey Bay, all students have been required to do
 capstone projects since the first graduating class in 1997. Some of
 those projects are archived in the campus library. (View the
-archive <a href="http://capstone.csumb.edu" rel="nofollow">here</a>.)</br></br></br></br></br></br></br></br></br></br></img></br></br></p>
+archive <a href="https://capstone.csumb.edu" rel="nofollow">here</a>.)</br></br></br></br></br></br></br></br></br></br></img></br></br></p>
 <p>During the Capstone Festival held at the end of each semester,
 the campus takes on the feel of an intellectual marketplace. At
 recent festivals, a biology major presented a study of human stem
@@ -56,7 +56,7 @@ student examined the socialization of sarcasm.<br>
 &#x2028;&#x2028;&#x2028;&#x2028;Business students, working in teams, presented strategic
 business plans for local companies and organizations.&#x2028;&#x2028;&#x2028;&#x2028;<br>
 <br>
-<img alt="Capstone logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/seniorcapstone_0.jpg" style="width:300px; height:158px; float:right">A World Languages
+<img alt="Capstone logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/seniorcapstone_0.jpg" style="width:300px; height:158px; float:right">A World Languages
 and Cultures student gave a 25-minute talk &#x2013; entirely in Japanese &#x2013;
 on the arguments for and against changing Article 9 of the Japanese
 constitution. A PowerPoint presentation running in the background
@@ -95,19 +95,19 @@ according to NSSE.<br>
 <br>
 <em>The capstone festival is scheduled for Wednesday, Thursday and
 Friday, May 14, 15 and 16. The public is invited. For a schedule by
-academic department, <a href="http://capstonefestival.csumb.edu" rel="nofollow">click here</a>.&#x2028;&#x2028;&#x2028;&#x2028;<br>
+academic department, <a href="https://capstonefestival.csumb.edu" rel="nofollow">click here</a>.&#x2028;&#x2028;&#x2028;&#x2028;<br>
 <br>
 The Cinematic Arts and Technology capstone program will be held
 twice, starting at 1 and 6 p.m., May 15, in the World Theater on
 Sixth Avenue. To see a list of projects that will be shown,
-<a href="http://tat.csumb.edu/spring-2014" rel="nofollow">click
+<a href="https://tat.csumb.edu/spring-2014" rel="nofollow">click
 here.</a></br></br></em></br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></br></br></br></br></p>
 <p><em><a href="../15/we-see-it-way.html" rel="nofollow">&quot;We See It
 This Way,&quot;</a> an exhibit of student capstones, is on display at
 the National Steinbeck Center</em></p>
 <p><br>
 <br>
-<em>Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.&#x2028;</em></br></br></p>
+<em>Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.&#x2028;</em></br></br></p>
 <p>&#xA0;</p>
 <p class="small">Photo and information on Alyssa Nally&apos;s project
 from Division of Science and Environmental Policy.</p>

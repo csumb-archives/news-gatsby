@@ -26,7 +26,7 @@ date: January 01 2020
 </p>
 <p>
   “That’s why I chose
-  <a href="http://hhspp.csumb.edu/">Collaborative Health and Human Services</a
+  <a href="https://hhspp.csumb.edu/">Collaborative Health and Human Services</a
   >.”
 </p>
 <p>Her summer internship confirms she made the right decision.</p>

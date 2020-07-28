@@ -19,7 +19,7 @@ That&apos;s the introduction to FutureScape, a six-part television
 series hosted by actor James Woods. The series will premiere at 10
 p.m., Nov. 19, on the Science Channel. A new episode will be shown
 each week.</br></br></p>
-<p><img alt="Linda Glenn" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/linda-macdonald-glenn_for_web.jpg" style="float:left; width:250px; height:262px">Linda Glenn, a
+<p><img alt="Linda Glenn" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/linda-macdonald-glenn_for_web.jpg" style="float:left; width:250px; height:262px">Linda Glenn, a
 lecturer in Humanities and Communication, appears in all six
 episodes &#x2013; her &#x201C;15 minutes of fame,&#x201D; she says &#x2013; as a bioethicist,
 lawyer and futurist.</img></p>
@@ -83,8 +83,8 @@ Emerging Technologies Can Save Humanity and Our Planet.&#x201D;<br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/HiwjXGjbPD4&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/HiwjXGjbPD4&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/HiwjXGjbPD4&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/HiwjXGjbPD4&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -95,7 +95,7 @@ Emerging Technologies Can Save Humanity and Our Planet.&#x201D;<br>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r14---sn-o097znez.googlevideo.com/videoplayback?ip=198.189.249.65&amp;key=yt5&amp;signature=BE01332B85822EF243FE3B02D1EFEA35ADE44FED.01C71BCB127F3F429318E2B54D165E502E8BFFD6&amp;upn=WhiZa8OOUFI&amp;dur=30.139&amp;id=o-ANRlX2eZs05TO-DvFw1dPB6wqa_uUup1_Y_Slcrvk_ag&amp;itag=18&amp;pl=23&amp;mt=1422316805&amp;ratebypass=yes&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ms=au&amp;expire=1422338440&amp;mv=m&amp;source=youtube&amp;mm=31&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;sver=3&amp;ipbits=0&amp;initcwndbps=4486250&amp;name=HiwjXGjbPD4" type="video/mp4"/></video></div>
+<source src="https://r14---sn-o097znez.googlevideo.com/videoplayback?ip=198.189.249.65&amp;key=yt5&amp;signature=BE01332B85822EF243FE3B02D1EFEA35ADE44FED.01C71BCB127F3F429318E2B54D165E502E8BFFD6&amp;upn=WhiZa8OOUFI&amp;dur=30.139&amp;id=o-ANRlX2eZs05TO-DvFw1dPB6wqa_uUup1_Y_Slcrvk_ag&amp;itag=18&amp;pl=23&amp;mt=1422316805&amp;ratebypass=yes&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ms=au&amp;expire=1422338440&amp;mv=m&amp;source=youtube&amp;mm=31&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;sver=3&amp;ipbits=0&amp;initcwndbps=4486250&amp;name=HiwjXGjbPD4" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

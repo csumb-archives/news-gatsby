@@ -18,7 +18,7 @@ date: January 01 2020
   The award, the first named scholarship available to CSUMB nursing students,
   was established to honor Nora Walsh, a nurse for more than 35 years and a
   charter member of the
-  <a href="http://montereypacificrotary.org/">Monterey Pacific Rotary.</a>
+  <a href="https://montereypacificrotary.org/">Monterey Pacific Rotary.</a>
 </p>
 <p>
   Walsh worked in a private oncology practice in Monterey for more than 20

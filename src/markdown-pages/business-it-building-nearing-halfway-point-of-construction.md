@@ -26,8 +26,8 @@ date: January 01 2020
 </p>
 <p>
   Check out the progress of construction via
-  <a href="http://media.csumb.edu/bitcam/">webcam</a> View the latest
-  <a href="http://media.csumb.edu/bitcam/latest.php">image</a>
+  <a href="https://media.csumb.edu/bitcam/">webcam</a> View the latest
+  <a href="https://media.csumb.edu/bitcam/latest.php">image</a>
 </p>
 <p>
   Sustainability strategies are incorporated into the design. Spaces are

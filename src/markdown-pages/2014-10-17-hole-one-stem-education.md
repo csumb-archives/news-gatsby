@@ -17,7 +17,7 @@ an interactive exhibit that highlights the scientific side of
 sports through a variety of hands-on learning stations for
 youngsters. The idea is that sports can make science more
 engaging.</p>
-<p><img alt="In the STEM Zone with CSUMB students" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/stem_zone_photo.jpg" style="float:left; width:350px; height:233px">STEM Zone travels
+<p><img alt="In the STEM Zone with CSUMB students" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/stem_zone_photo.jpg" style="float:left; width:350px; height:233px">STEM Zone travels
 to sporting events throughout the state. At nearly every stop, CSU
 students from that area are invited to serve as exhibit mentors.
 CSU faculty members prepare the aspiring teachers to highlight
@@ -47,8 +47,8 @@ golf club by using Archimedes&#x2019; principle.</br></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/x7vAhgiA65c&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/x7vAhgiA65c&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/x7vAhgiA65c&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/x7vAhgiA65c&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -59,7 +59,7 @@ golf club by using Archimedes&#x2019; principle.</br></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r7---sn-o097zne6.googlevideo.com/videoplayback?ms=au&amp;id=o-AEvkgYF2dM1Xx0nPXU4LsGvk4XHrpyo8KALXvrUNRHjA&amp;mv=m&amp;pl=23&amp;mt=1422318189&amp;upn=m3ViMQykp2s&amp;expire=1422339870&amp;sver=3&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;itag=18&amp;signature=5BE4936C1E2F89BDC95774B8C0F3FA99880187FC.9F692783C292C5C1CFA1DACBF126E56E0662DD96&amp;ipbits=0&amp;ratebypass=yes&amp;initcwndbps=4207500&amp;ip=198.189.249.65&amp;key=yt5&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;dur=34.992&amp;source=youtube&amp;mm=31&amp;name=x7vAhgiA65c" type="video/mp4"/></video></div>
+<source src="https://r7---sn-o097zne6.googlevideo.com/videoplayback?ms=au&amp;id=o-AEvkgYF2dM1Xx0nPXU4LsGvk4XHrpyo8KALXvrUNRHjA&amp;mv=m&amp;pl=23&amp;mt=1422318189&amp;upn=m3ViMQykp2s&amp;expire=1422339870&amp;sver=3&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;itag=18&amp;signature=5BE4936C1E2F89BDC95774B8C0F3FA99880187FC.9F692783C292C5C1CFA1DACBF126E56E0662DD96&amp;ipbits=0&amp;ratebypass=yes&amp;initcwndbps=4207500&amp;ip=198.189.249.65&amp;key=yt5&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;dur=34.992&amp;source=youtube&amp;mm=31&amp;name=x7vAhgiA65c" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

@@ -50,7 +50,7 @@ date: January 01 2020
 </p>
 <p>
   A complete schedule is available at<strong
-    ><a href="http://www.firstnightmonterey.org/">www.firstnightmonterey.org</a
+    ><a href="https://www.firstnightmonterey.org/">www.firstnightmonterey.org</a
     >.</strong
   >
 </p>

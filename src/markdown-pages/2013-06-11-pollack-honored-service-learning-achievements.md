@@ -13,7 +13,7 @@ slug: pollack-honored-for-servicelearning-achievements
 community-campus partnerships throughout the Monterey Bay and
 Salinas Valley, Seth Pollack has been named winner of the 2013
 Richard E. Cone Award by California Campus Compact.</p>
-<p><img alt="Dr. Seth Pollack" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/pollack.seth_.jpg" style="float:left; width:250px; height:302px">For more than 15
+<p><img alt="Dr. Seth Pollack" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/pollack.seth_.jpg" style="float:left; width:250px; height:302px">For more than 15
 years, Dr. Pollack has been director of CSU Monterey Bay&#x2019;s Service
 Learning Institute. He has helped the university become a national
 leader in service learning and civic engagement.</img></p>
@@ -57,7 +57,7 @@ California Campus Compact.</p>
 and a master&#x2019;s in organizational sociology from Stanford
 University, and a B.A. in international affairs from the University
 of Colorado.</p>
-<p><img alt="Hundreds of students have done service learning projects in Chinatown" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/students_work_in_chinatown.jpg" style="float:right; width:400px; height:300px">&quot;I am really proud
+<p><img alt="Hundreds of students have done service learning projects in Chinatown" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/students_work_in_chinatown.jpg" style="float:right; width:400px; height:300px">&quot;I am really proud
 to receive this award, as it honors the exceptional work we are
 doing at CSUMB. It is such a benefit to be working at an
 institution that has embraced civic engagement as a core component
@@ -77,11 +77,11 @@ contributions to the development of partnerships between
 institutions of higher learning and communities &#x2013; partnerships
 through which student learning and the quality of life in
 communities are simultaneously improved.</p>
-<p><a href="http://service.csumb.edu/" rel="nofollow">Learn about
+<p><a href="https://service.csumb.edu/" rel="nofollow">Learn about
 CSUMB&apos;s Service Learning Institute</a></p>
-<p><a href="http://service.csumb.edu/chinatown-renewal-project" rel="nofollow">Learn more about the Chinatown Renewal
+<p><a href="https://service.csumb.edu/chinatown-renewal-project" rel="nofollow">Learn more about the Chinatown Renewal
 Project</a></p>
-<p><a href="http://success.csumb.edu/seth-pollack" rel="nofollow">Learn more about Dr. Pollack</a></p>
+<p><a href="https://success.csumb.edu/seth-pollack" rel="nofollow">Learn more about Dr. Pollack</a></p>
 <p><a href="../../../2012/nov/25/faculty-highlights.html" rel="nofollow"><em>Read more faculty news</em></a><br>
 <br>
 &#xA0;</br></br></p>

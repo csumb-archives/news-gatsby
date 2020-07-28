@@ -79,9 +79,9 @@ campuses went on to receive research-based doctoral degrees. (With
 the exception of recently announced nursing doctorates, the CSU
 itself does not award doctoral degrees in science.)</p>
 <p>Helpful links:</p>
-<p>&#x2022; Symposium: <a href="http://www.calstate.edu/csuperb/symposium/2011/" title="http://www.calstate.edu/csuperb/symposium/2011/">http://www.calstate.edu/csuperb/symposium/2011/</a><br>
+<p>&#x2022; Symposium: <a href="https://www.calstate.edu/csuperb/symposium/2011/" title="https://www.calstate.edu/csuperb/symposium/2011/">https://www.calstate.edu/csuperb/symposium/2011/</a><br>
 
-&#x2022; CSUPERB: <a href="http://www.calstate.edu/csuperb" title="http://www.calstate.edu/csuperb">http://www.calstate.edu/csuperb</a></br></p>
+&#x2022; CSUPERB: <a href="https://www.calstate.edu/csuperb" title="https://www.calstate.edu/csuperb">https://www.calstate.edu/csuperb</a></br></p>
 
 
 

@@ -131,8 +131,8 @@ them.&#x201D;</br></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/ERqVfXwZy2Y&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -143,7 +143,7 @@ them.&#x201D;</br></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r5---sn-o097znez.googlevideo.com/videoplayback?dur=431.393&amp;id=o-ADDaEHLQAZkZagnhlGMYaXHmIWhZ8zx5bLlttC6jZuIc&amp;pl=23&amp;sver=3&amp;mm=31&amp;mt=1422376294&amp;expire=1422397924&amp;initcwndbps=3732500&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;itag=18&amp;ip=198.189.249.65&amp;source=youtube&amp;fexp=900718,907263,916104,923368,927622,929244,929821,930676,936121,9406392,943917,947225,948124,952302,952605,952901,955301,957103,957201,959701&amp;key=yt5&amp;ms=au&amp;upn=wk3IpWkz2rc&amp;mv=m&amp;signature=D2519E20526FA7112670DF6A7302F95050DA202C.BBB41F1C57DF770A93AC05278A20C1246AE5AFA5&amp;ipbits=0&amp;ratebypass=yes&amp;name=ERqVfXwZy2Y" type="video/mp4"/></video></div>
+<source src="https://r5---sn-o097znez.googlevideo.com/videoplayback?dur=431.393&amp;id=o-ADDaEHLQAZkZagnhlGMYaXHmIWhZ8zx5bLlttC6jZuIc&amp;pl=23&amp;sver=3&amp;mm=31&amp;mt=1422376294&amp;expire=1422397924&amp;initcwndbps=3732500&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;itag=18&amp;ip=198.189.249.65&amp;source=youtube&amp;fexp=900718,907263,916104,923368,927622,929244,929821,930676,936121,9406392,943917,947225,948124,952302,952605,952901,955301,957103,957201,959701&amp;key=yt5&amp;ms=au&amp;upn=wk3IpWkz2rc&amp;mv=m&amp;signature=D2519E20526FA7112670DF6A7302F95050DA202C.BBB41F1C57DF770A93AC05278A20C1246AE5AFA5&amp;ipbits=0&amp;ratebypass=yes&amp;name=ERqVfXwZy2Y" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

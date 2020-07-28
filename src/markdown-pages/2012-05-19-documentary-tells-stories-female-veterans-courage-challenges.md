@@ -16,7 +16,7 @@ documentary, &#x201C;SERVICE: When Women Come Marching Home&#x201D; by Marcia
 Rock and Patricia Lee Stotter, follows these women over a two-year
 period as they struggle to make the transition from active duty in
 Iraq and Afghanistan to civilian life.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/service_image_1.jpg" style="float:left; width:200px; height:189px">In honor of Armed
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/service_image_1.jpg" style="float:left; width:200px; height:189px">In honor of Armed
 Forces Week, CSU Monterey Bay will hold a free community screening
 and a question-and-answer session with filmmaker Rock, at 7 p.m.,
 May 22, at the World Theater on the university campus. The Arts
@@ -39,7 +39,7 @@ establishes with them, speaking with them in their kitchens and
 bathrooms, back yards, classrooms, therapy sessions and super
 markets. The film aims to wake up a sleeping civilian
 population.</br></br></p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here.</a>&#xA0;For disability
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here.</a>&#xA0;For disability
 accommodations, contact Arlene Krebs at 582-5025.</p>
 <p><em>Without doubt, the most powerful film I&#x2019;ve seen about women
 veterans. It tears you to pieces to watch it and restores your soul

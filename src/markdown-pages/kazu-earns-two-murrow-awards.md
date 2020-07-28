@@ -14,13 +14,13 @@ date: January 01 2020
 <p>She took the top awards for:</p>
 <p>
   • Hard news reporting for her story “<a
-    href="http://kazu.org/post/labor-shortage-hastens-push-immigration-reform"
+    href="https://kazu.org/post/labor-shortage-hastens-push-immigration-reform"
     >Labor Shortage Hastens Push for Immigration Reform</a
   >” that aired last July
 </p>
 <p>
   • Use of sound for her story “<a
-    href="http://kazu.org/post/salinas-playground-designed-bring-kids-all-abilities-together"
+    href="https://kazu.org/post/salinas-playground-designed-bring-kids-all-abilities-together"
     >Salinas Playground Designed to Bring Kids of All Abilities Together</a
   >” that aired in September
 </p>
@@ -40,7 +40,7 @@ date: January 01 2020
   Considered.
 </p>
 <p>
-  <a href="http://kazu.org">KAZU 90.3 FM</a> – NPR for the Monterey Bay Area –
+  <a href="https://kazu.org">KAZU 90.3 FM</a> – NPR for the Monterey Bay Area –
   is a community service of California State University, Monterey Bay.
 </p>
 ```

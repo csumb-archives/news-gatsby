@@ -37,7 +37,7 @@ restart production.</p>
 <p>3 p.m.: <em>Shift Change</em>, with filmmakers Mark Dworkin and
 Melissa Young. Secure, dignified jobs are created in employee-owned
 workplaces in the U.S and Mondragon co-ops in Spain.</p>
-<p><img alt="Lilly Ledbetter" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ledbetter.jpg" style="float:right; width:300px; height:240px"><strong>Tuesday,
+<p><img alt="Lilly Ledbetter" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ledbetter.jpg" style="float:right; width:300px; height:240px"><strong>Tuesday,
 April 30, 8 p.m., Tanimura &amp; Antle Library on Divarty Street at
 Fifth Avenue, Room 1188:</strong> <em>Never Got a Dime</em>, a film
 about Lilly Ledbetter&#x2019;s 11-year fight for equal pay. The first
@@ -54,7 +54,7 @@ engagement.</p>
 Visitors must purchase a parking permit from a nearby dispenser.
 Driving directions and a campus map are available at
 csumb.edu/map.</p>
-<p><a href="http://www.reelwork.org" rel="nofollow">A complete
+<p><a href="https://www.reelwork.org" rel="nofollow">A complete
 listing of this year&#x2019;s films in Monterey, Santa Cruz and Santa
 Clara counties is available here.</a>&#xA0;For more information on
 the CSUMB screenings, contact Jennifer Colby at 726-2006 or

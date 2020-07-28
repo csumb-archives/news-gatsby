@@ -11,7 +11,7 @@ slug: picking-up-the-trail
 <span class="date">Posted on Oct 21, 2009    </span>
 <p>Oct. 21, 2009</p>
 <p>&#xA0;</p>
-<p><img alt="Native American Indian Heritage Month" height="109" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/indian-graphic.jpg" width="400"/></p>
+<p><img alt="Native American Indian Heritage Month" height="109" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/indian-graphic.jpg" width="400"/></p>
 Picking up the Trail<br>
 <p>California State University, Monterey Bay will celebrate
 National American Indian Heritage Awareness Month with a screening
@@ -23,7 +23,7 @@ held from 6 to 9 p.m. in the World Theater on Sixth Avenue.</p>
 from the southeastern United States to Oklahoma in 1838. More than
 16,000 Cherokees were forced to Oklahoma so whites can grab arable
 lands and prospect for recently discovered gold in Georgia.</p>
-<p><img alt="Trail of Tears" height="281" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/trail-of-tears.jpg" style="float:right" width="200">&#x201C;The policy of President Andrew
+<p><img alt="Trail of Tears" height="281" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/trail-of-tears.jpg" style="float:right" width="200">&#x201C;The policy of President Andrew
 Jackson led to a brutal, cross country trek in which nearly a
 quarter of the tribal citizens died from hunger, exposure, disease
 and sheer exhaustion,&#x201D; director Chip Richie notes on the film&#x2019;s

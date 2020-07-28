@@ -13,7 +13,7 @@ slug: drop-that-cheeseburger!
 <p>If you&apos;re thinking of having a burger for lunch at CSU Monterey
 Bay &#x2013; and it&apos;s a Monday &#x2013; you might want to reconsider that
 choice.</p>
-<p><img alt="Meatless Monday poster" height="400" src="http://news.csumb.edu/sites/default/files/igx_migrate/images/Meatless%20Monday.jpg" style="float:left" width="308">An initiative by Sodexo, the
+<p><img alt="Meatless Monday poster" height="400" src="https://news.csumb.edu/sites/default/files/igx_migrate/images/Meatless%20Monday.jpg" style="float:left" width="308">An initiative by Sodexo, the
 university&apos;s food service provider, is highlighting meatless
 options at all five campus dining locations every Monday during the
 school year. They&apos;re making it easy for diners to abstain from
@@ -59,7 +59,7 @@ hasn&apos;t budged since 2000.</p>
 skip meat one day a week as a rationing effort. Now, that idea has
 been reinvented as a hip, easy way to be environmentally friendly
 and health conscious.</p>
-<p>To learn more about dining at CSUMB, <a href="http://news.csumb.edu/node/9172" rel="nofollow">click
+<p>To learn more about dining at CSUMB, <a href="https://news.csumb.edu/node/9172" rel="nofollow">click
 here</a>.</p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
@@ -68,7 +68,7 @@ here</a>.</p>
 <div class="field-item odd">
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
-<div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/myQMIuZ_4Xc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1"><param name="movie" value="http://www.youtube.com/v/myQMIuZ_4Xc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
+<div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/myQMIuZ_4Xc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1"><param name="movie" value="https://www.youtube.com/v/myQMIuZ_4Xc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
 <param name="allowScriptAccess" value="sameDomain">
 <param name="quality" value="best">
 <param name="allowFullScreen" value="true">

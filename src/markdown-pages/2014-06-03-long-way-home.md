@@ -15,7 +15,7 @@ celebrating. Nine days after receiving his degree in kinesiology,
 he and current student Luke Young headed off on a 3,500-mile
 cross-country bike ride to see America and to raise money for a
 good cause.</p>
-<p><img alt="Luke Young and Daniel Troia" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/luke_and_daniel.png" style="width:300px; height:201px; float:left">The pair took a
+<p><img alt="Luke Young and Daniel Troia" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/luke_and_daniel.png" style="width:300px; height:201px; float:left">The pair took a
 20-hour train ride from Salinas to Portland, arriving on May 26.
 Their adventure began in earnest on June 1, when they left Oregon
 and headed to Idaho. They expect to arrive in New York City in
@@ -28,7 +28,7 @@ dangerous.</p>
 to keep reminding myself that what I&#x2019;m going through is much easier
 than the lives of people who are homeless on the streets of
 Monterey County,&#x201D; Troia told the Monterey County Herald.</p>
-<p><img alt="Luke Young" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/luke_young.jpg" style="width:250px; height:333px; float:right">Troia and Young
+<p><img alt="Luke Young" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/luke_young.jpg" style="width:250px; height:333px; float:right">Troia and Young
 are asking people to sponsor their trip by making a donation to
 Dorothy&#x2019;s Place, a facility in Salinas where the Franciscan Workers
 of Junipero Serra provide meals, services and support to the
@@ -45,9 +45,9 @@ they will travel through Oregon, Idaho, Montana, Wyoming, North
 Dakota, Minnesota, Iowa, Illinois, Indiana, Ohio and
 Pennsylvania.<br>
 <br>
-Visit their <a href="http://alongwayfromhome2014.weebly.com" rel="nofollow">blog</a><br>
+Visit their <a href="https://alongwayfromhome2014.weebly.com" rel="nofollow">blog</a><br>
 <br>
-Follow them on <a href="http://Facebook.com/alongwayfromhome2014" rel="nofollow">Facebook</a></br></br></br></br></p>
+Follow them on <a href="https://Facebook.com/alongwayfromhome2014" rel="nofollow">Facebook</a></br></br></br></br></p>
 <p class="small"><em>Photos<br>
 Top: Luke Young and Daniel Troia pose for photo before embarking on
 their 10-week journey<br>

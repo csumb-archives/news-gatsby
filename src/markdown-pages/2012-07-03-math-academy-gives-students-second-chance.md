@@ -15,7 +15,7 @@ international peers in math knowledge and performance.</p>
 you listen to Dr. Hongde Hu, chair of Cal State Monterey Bay&#x2019;s math
 department. It comes down to enthusiasm (which he has in abundance)
 focus, confidence and simple hard work.</p>
-<p><img alt="Dr. Hongde Hu" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/hongde_hu_small.jpg" style="float:left; width:300px; height:206px">Dr. Hu, his
+<p><img alt="Dr. Hongde Hu" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/hongde_hu_small.jpg" style="float:left; width:300px; height:206px">Dr. Hu, his
 colleagues and teaching assistants, and 52 Algebra I and Algebra II
 students from Watsonville, Soledad and Seaside high schools are
 proving that again this summer in his fourth annual Summer Math
@@ -59,7 +59,7 @@ confident of their ability to succeed in math.</p>
 Academy concept to a group of students from Harbor High in Santa
 Cruz. That session will run from July 23 through Aug. 17, with the
 class sessions being held both in Santa Cruz and at CSUMB.</p>
-<p>To learn more about Dr. Hu, click <a href="http://success.csumb.edu/hongde-hu" rel="nofollow">here</a>.&#xA0;</p>
+<p>To learn more about Dr. Hu, click <a href="https://success.csumb.edu/hongde-hu" rel="nofollow">here</a>.&#xA0;</p>
 <p><br>
 &#xA0;</br></p>
 

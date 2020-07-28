@@ -74,7 +74,7 @@ date: January 01 2020
   The <a href="csumb.edu/green">Sustainable Hospitality Symposium</a> will be
   held on Thursday, February 23, 2017, at the InterContinental The Clement
   Monterey from 8 a.m. until 4 p.m. For more information, please visit:
-  <a href="http://csumb.edu/green">csumb.edu/green</a>.
+  <a href="https://csumb.edu/green">csumb.edu/green</a>.
 </p>
 <p>
   This article contains contributions by the Monterey County Convention &amp;

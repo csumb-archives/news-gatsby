@@ -44,11 +44,11 @@ date: January 01 2020
 </p>
 <p>
   “All of my work resonates with these themes –
-  <a href="http://fortording.com/">plantord</a>,
-  <a href="http://www.watercalifornia.org/">waterca</a>,
-  <a href="http://www.local909er.com/">local909ers</a>. So do the workshops I
+  <a href="https://fortording.com/">plantord</a>,
+  <a href="https://www.watercalifornia.org/">waterca</a>,
+  <a href="https://www.local909er.com/">local909ers</a>. So do the workshops I
   founded through the
-  <a href="http://www.montereybayfilmsociety.org/">Monterey Bay Film Society</a
+  <a href="https://www.montereybayfilmsociety.org/">Monterey Bay Film Society</a
   >,” she said. “People, ecology and history.”
 </p>
 <p>
@@ -64,9 +64,9 @@ date: January 01 2020
   Shoreline Interpretive Center, 4901 Breakwater Ave., Hayward, (510) 670-7270.
   The center is open 10 a.m. to 5 p.m., Saturdays and Sundays. More information
   and driving directions are available
-  <a href="http://www.haywardrec.org/hayshore.html">here</a>. Learn more about
+  <a href="https://www.haywardrec.org/hayshore.html">here</a>. Learn more about
   sea-level projections
-  <a href="http://www.adaptingtorisingtides.org/">here</a>.
+  <a href="https://www.adaptingtorisingtides.org/">here</a>.
 </p>
 <p></p>
 <p></p>
@@ -78,7 +78,7 @@ date: January 01 2020
   >
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     >Learn more about what faculty members at CSU Monterey Bay are doing.</a
   >
 </p>

@@ -42,7 +42,7 @@ date: January 01 2020
 <p>
   There is no charge for the tax preparation, no charge for direct deposit to
   the taxpayer’s bank account and no hidden fees. A list of
-  <a href="http://www.unitedwaymcca.org/free&#45;tax&#45;prep"
+  <a href="https://www.unitedwaymcca.org/free&#45;tax&#45;prep"
     >community locations, dates and hours</a
   >, is available on the United Way website.
 </p>

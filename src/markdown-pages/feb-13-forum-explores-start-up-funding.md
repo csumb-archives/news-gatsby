@@ -13,7 +13,7 @@ date: January 01 2020
   The free event – billed as an Innovation Forum – will be held from 4 to 6 p.m.
   in the Alumni and Visitors Center, on Gen. Jim Moore Boulevard and
   Inter-Garrison Road. Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>Panel members include:</p>
 <p>

@@ -13,9 +13,9 @@ slug: art-in-the-service-of-science
 <p>If you&#x2019;ve ever wondered about the artwork that illustrates
 science textbooks, field guides, and interpretive signs in parks
 and nature preserves, you have the opportunity to learn about it at
-an exhibit in Pacific Grove.<img alt="Giraffe" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/giraffe_rachel_morris_for_web.jpg" style="width:300px; height:358px; float:right"/></p>
+an exhibit in Pacific Grove.<img alt="Giraffe" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/giraffe_rachel_morris_for_web.jpg" style="width:300px; height:358px; float:right"/></p>
 <p>Illustrating Nature, the fifth annual exhibit of work by
-students in the CSU Monterey Bay <a href="http://scienceillustration.org" rel="nofollow">Science
+students in the CSU Monterey Bay <a href="https://scienceillustration.org" rel="nofollow">Science
 Illustration Program</a>, will be on display at the Pacific Grove
 Museum of Natural History through June 15. The museum is located at
 165 Forest Ave., Pacific Grove.<br>
@@ -29,7 +29,7 @@ gouache, acrylic and digital media.<br>
 <br>
 In 2009, the science illustration program relocated from UC Santa
 Cruz Extension to CSUMB. One of the most prestigious programs</br></br></br></br></p>
-<p><img alt="Mountain zebra" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/zebra_for_web.jpg" style="width:300px; height:413px; float:left">of its kind in the
+<p><img alt="Mountain zebra" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/zebra_for_web.jpg" style="width:300px; height:413px; float:left">of its kind in the
 nation, it prepares students who are sought after by scientific
 institutions and publications around the world. Graduates are
 working at the Smithsonian Institution; New York&#x2019;s American Museum

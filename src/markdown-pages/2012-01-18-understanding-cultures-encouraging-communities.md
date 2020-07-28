@@ -15,7 +15,7 @@ program</h3>
 path. This semester, the CSU Monterey Bay graduate student is doing
 fieldwork at a local community center, where he mentors youngsters
 with the goal of encouraging them to stay in school.</p>
-<p><img alt="CSUMB social work students gather at a reception" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/nasw_reception_oct_2010_pix_3.jpg" style="float:right; width:200px; height:200px">Hernandez is in
+<p><img alt="CSUMB social work students gather at a reception" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/nasw_reception_oct_2010_pix_3.jpg" style="float:right; width:200px; height:200px">Hernandez is in
 his second year in the Master of Social Work program. His
 attraction to social work isn&#x2019;t surprising. Simply put, social
 workers help people improve their lives. Occupations in the field
@@ -35,7 +35,7 @@ noon to 1 p.m.</p>
 are interested in a career in social work, or who want to advance
 in their career, to earn an MSW degree in a way that is accessible
 and affordable.</p>
-<p><img alt="social work logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/social_work_image.jpg" style="float:left; width:260px; height:263px">Students specialize
+<p><img alt="social work logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/social_work_image.jpg" style="float:left; width:260px; height:263px">Students specialize
 in Behavioral Health, or Children, Youth and Families, and prepare
 for a broad array of job opportunities within government and
 non-profits serving youth, the elderly, low-income families,
@@ -65,7 +65,7 @@ accomplished and feel the need to give back to their own
 communities, to become role models for others.&#x201D;</p>
 <p>For more information, contact Vivienne Orgel at <a href="mailto:vorgel@csumb.edu">vorgel@csumb.edu</a> or 831-582-5315.
 Admission requirements and application materials are available
-<a href="http://csumb.edu/msw" rel="nofollow">here</a>.</p>
+<a href="https://csumb.edu/msw" rel="nofollow">here</a>.</p>
 
 
 

@@ -12,7 +12,7 @@ slug: taiwanese-music-group-performs-oct.-5
 <p>Taiwan-based performance group A Moving Sound will pay a visit
 to CSU Monterey Bay&#x2019;s World Theater on Oct. 5.</p>
 <p>Showtime is 7:30 p.m.</p>
-<p><img alt="A Moving Sound" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/amovingsound_group_photo_1.jpg" style="float:right; width:400px; height:287px">Founded in 2001 by
+<p><img alt="A Moving Sound" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/amovingsound_group_photo_1.jpg" style="float:right; width:400px; height:287px">Founded in 2001 by
 composer and performer Scott Prairie, the group has performed in 15
 countries and been featured on the Discovery Channel and Huffington
 Post.</img></p>
@@ -35,7 +35,7 @@ today.&quot;</p>
 staff, free for CSUMB students and are available at the Student
 Center and at the World Theater box office. To reserve tickets, or
 for more information, call 582-4580.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</p>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.&#xA0;</p>
 
 
 

@@ -22,7 +22,7 @@ use her best-selling book, The Death and Life of the Great American
 School System: How Testing and Choice are Undermining Education, as
 the foundation for a discussion on the critical state of education
 reform in our nation.</p>
-<p><img alt="Diane Ravitch" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ravitch_diane.jpg" style="float:right; width:200px; height:284px">Dr. Ravitch is
+<p><img alt="Diane Ravitch" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ravitch_diane.jpg" style="float:right; width:200px; height:284px">Dr. Ravitch is
 research professor of education at New York University; a senior
 fellow at the Brookings Institution; and a senior fellow at the
 Hoover Institution at Stanford. From 1991 through 1993, she was
@@ -51,10 +51,10 @@ Deborah Meier, hosted by Education Week. She also blogs for
 politico.com/arena and the Huffington Post. Her articles have
 appeared in many newspapers and magazines.</p>
 <p>The lecture is free. Reservations are recommended and can be
-made online by clicking <a href="http://rsvp.csumb.edu/index.php?eid=70" rel="nofollow">here</a>.
+made online by clicking <a href="https://rsvp.csumb.edu/index.php?eid=70" rel="nofollow">here</a>.
 For more information, or to request disability accommodations, call
 (831) 582-4580.</p>
-<p>For driving directions and a campus map, click <a href="http://csumb.edu/map." rel="nofollow">here</a>.</p>
+<p>For driving directions and a campus map, click <a href="https://csumb.edu/map." rel="nofollow">here</a>.</p>
 <p><br>
 &#xA0;</br></p>
 

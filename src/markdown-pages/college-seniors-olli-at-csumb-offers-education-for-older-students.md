@@ -24,7 +24,7 @@ date: January 01 2020
 <p>
   <strong>TO GET INVOLVED:</strong> An annual OLLI membership fee of $149 covers
   up to six classes. Become a member by going online at
-  <a href="http://csumb.edu/olli">CSUMB.EDU/olli</a>. The site has course and
+  <a href="https://csumb.edu/olli">CSUMB.EDU/olli</a>. The site has course and
   enrollment information. Membership includes a university parking pass and
   discounts to the World Theater and athletic events, as well as use of athletic
   facilities. Students may also choose to pay a per&#45;class fee. To register

@@ -49,7 +49,7 @@ date: January 01 2020
   needs,” Dr. Hultgren said.
 </p>
 <p>
-  <a href="http://nursing.csumb.edu/adn-bsn-completion-program"
+  <a href="https://nursing.csumb.edu/adn-bsn-completion-program"
     >Learn more about the program.</a
   >
 </p>

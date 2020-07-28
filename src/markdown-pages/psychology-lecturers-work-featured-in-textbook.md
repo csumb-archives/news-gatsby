@@ -42,20 +42,20 @@ date: January 01 2020
 <p>
   Read more about Professor England-Aytes
   <a
-    href="http://news.csumb.edu/news/professor-honors-work-chief-wilma-mankiller"
+    href="https://news.csumb.edu/news/professor-honors-work-chief-wilma-mankiller"
     >here</a
   >
   and
   <a
-    href="http://sbgs.csumb.edu/faculty/news/professor-honors-work-chief-wilma-mankiller"
+    href="https://sbgs.csumb.edu/faculty/news/professor-honors-work-chief-wilma-mankiller"
     >here</a
   >.
 </p>
 <p>
-  <a href="http://sbgs.csumb.edu/psychology-major"
+  <a href="https://sbgs.csumb.edu/psychology-major"
     >Learn about the psychology program at CSUMB.</a
   ><em
-    ><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+    ><a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
       >Read about what faculty members at CSUMB are doing.</a
     ></em
   >

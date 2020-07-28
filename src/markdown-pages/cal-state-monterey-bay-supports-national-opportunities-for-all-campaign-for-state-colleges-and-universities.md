@@ -66,6 +66,6 @@ date: January 01 2020
 </p>
 <p>
   For more information on AASCU’s Opportunities for All campaign, go to
-  http://www.aascu.org/Opps4All/.
+  https://www.aascu.org/Opps4All/.
 </p>
 ```

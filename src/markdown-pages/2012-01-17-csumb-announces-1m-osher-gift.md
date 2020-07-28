@@ -14,7 +14,7 @@ slug: csumb-announces-$1m-osher-gift
 known as OLLI@CSUMB, has been awarded $1 million by the Bernard
 Osher Foundation.<br>
 <br>
-<img alt="OLLI spring catalog is available online at olli.csumb.edu/courses" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/olli_spring2012_thumbnail.jpg" style="float:left; width:275px; height:356px">The foundation,
+<img alt="OLLI spring catalog is available online at olli.csumb.edu/courses" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/olli_spring2012_thumbnail.jpg" style="float:left; width:275px; height:356px">The foundation,
 which since 2006 has supported OLLI at CSUMB with annual grants,
 contributed both a permanent endowment of $950,000 and a $50,000
 operating grant for the current fiscal year.<br>
@@ -43,8 +43,8 @@ professor Steve Moore; getting to know native plants, taught by
 staff members of the university&#x2019;s Return of the Natives restoration
 education project; early Central Coast art, taught by museum
 studies professor Lila Staples; and several literature classes.</p>
-<p>The complete spring lineup of classes is now available <a href="http://olli.csumb.edu/courses" rel="nofollow">online</a>.</p>
-<p>To learn more about the program, click <a href="http://olli.csumb.edu" rel="nofollow">here</a> or call
+<p>The complete spring lineup of classes is now available <a href="https://olli.csumb.edu/courses" rel="nofollow">online</a>.</p>
+<p>To learn more about the program, click <a href="https://olli.csumb.edu" rel="nofollow">here</a> or call
 582-5500.<br>
 &#xA0;</br></p>
 

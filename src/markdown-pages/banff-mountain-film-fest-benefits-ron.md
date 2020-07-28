@@ -28,7 +28,7 @@ date: January 01 2020
 </p>
 <p>
   For more information, call 883&#45;8048.
-  <a href="http://csumb.edu/ron">The Return of the Natives</a> restoration
+  <a href="https://csumb.edu/ron">The Return of the Natives</a> restoration
   project is the education and outreach branch of the Watershed Institute at
   CSUMB. RON's environmental goal is to protect the waters of the Monterey Bay
   through restoration of the waterways and the lands draining into the bay.

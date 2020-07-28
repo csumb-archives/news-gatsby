@@ -9,7 +9,7 @@ slug: students-recognized-at-research-competition
 
 
 <span class="date">Posted on May 10, 2011    </span>
-<p><img alt="beakers" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/beakers2.jpg" style="float:left; width:150px; height:150px"/></p>
+<p><img alt="beakers" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/beakers2.jpg" style="float:left; width:150px; height:150px"/></p>
 <p>Three CSUMB students were recognized for the quality of their
 work at the California State University Student Research
 Competition.</p>
@@ -75,7 +75,7 @@ methods.&quot; Advising Faculty: Dr. Jennifer Dyer-Seymour</br></br></br></br></
 <p>&#x2022; Keri Zaro, Kinesiology: &quot;Applied Warm-Up Strategies: Effects
 on Vertical Jump.&quot; Advising Faculty: Dr. Trish Sevene and Dr. Kent
 Adams</p>
-<p>Photos galleries are available <a href="http://25thcsuannualresearhcompetition.shutterfly.com/" rel="nofollow">here</a> (May 6) and <a href="http://studentresearchcompetitionday2.shutterfly.com/" rel="nofollow">here</a> (May 7).<br>
+<p>Photos galleries are available <a href="https://25thcsuannualresearhcompetition.shutterfly.com/" rel="nofollow">here</a> (May 6) and <a href="https://studentresearchcompetitionday2.shutterfly.com/" rel="nofollow">here</a> (May 7).<br>
 &#xA0;</br></p>
 
 

@@ -12,7 +12,7 @@ date: January 01 2020
 </p>
 <p>
   The Monterey residents have sponsored students through CSU Monterey Bay’s
-  <a href="http://uroc.csumb.edu"
+  <a href="https://uroc.csumb.edu"
     >Undergraduate Research Opportunities Center</a
   >
   since 2010-11.

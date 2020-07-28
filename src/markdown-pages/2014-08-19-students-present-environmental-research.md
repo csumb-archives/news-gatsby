@@ -11,13 +11,13 @@ slug: students-present-environmental-research
 <span class="date">Posted on Aug 19, 2014    </span>
 <p>A contingent of CSU Monterey Bay students and faculty members
 will be among those presenting research at the annual meeting of
-the <a href="http://www.esa.org/esa/" rel="nofollow">Ecological
+the <a href="https://www.esa.org/esa/" rel="nofollow">Ecological
 Society of America</a>.</p>
-<p><img alt="ESA conference logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/logo.gif" style="width:200px; height:167px; float:left">More than 3,000
+<p><img alt="ESA conference logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/logo.gif" style="width:200px; height:167px; float:left">More than 3,000
 environmental scientists will attend the meeting in Sacramento,
 scheduled for Aug. 10-15. The theme: &#x201C;From oceans to mountains:
 It&#x2019;s all ecology.&#x201D;</img></p>
-<p><a href="http://eco.confex.com/eco/2014/webprogram/Paper47767.html" rel="nofollow">Miles Daniels</a>, who just graduated with a Master of
+<p><a href="https://eco.confex.com/eco/2014/webprogram/Paper47767.html" rel="nofollow">Miles Daniels</a>, who just graduated with a Master of
 Science in Coastal and Watershed Science and Policy, worked with
 Professor Fred Watson. They explored ways to protect human and
 wildlife health in the Monterey Bay region from waterborne diseases
@@ -32,7 +32,7 @@ Department at U.C. Davis. &#x201C;I am combining my background in
 environmental science with health sciences to work on research
 questions in public, wildlife and environmental health,&#x201D; Daniels
 said.</p>
-<p><a href="http://eco.confex.com/eco/2014/webprogram/Paper49930.html" rel="nofollow">Stefanie Kortman</a>, a graduate student in Coastal and
+<p><a href="https://eco.confex.com/eco/2014/webprogram/Paper49930.html" rel="nofollow">Stefanie Kortman</a>, a graduate student in Coastal and
 Watershed Science and Policy, worked with Professor Marc Los
 Huertos on a project involving greenhouse gas emissions from
 strawberry farming on the Central Coast.</p>
@@ -45,7 +45,7 @@ Monterey Bay,&quot; Kortman said.</p>
 <p>She concluded that there was no significant difference between
 organic and conventional growing methods.</p>
 <p>Kortman will present her work on Aug. 14.</p>
-<p><a href="http://eco.confex.com/eco/2014/webprogram/Paper50362.html" rel="nofollow">April Makukhov</a> worked with researchers from Hopkins
+<p><a href="https://eco.confex.com/eco/2014/webprogram/Paper50362.html" rel="nofollow">April Makukhov</a> worked with researchers from Hopkins
 Marine Station and the California Department of Fish and Wildlife
 on a project involving red abalone settlement in Monterey Bay. She
 will present her work on Aug. 15.</p>

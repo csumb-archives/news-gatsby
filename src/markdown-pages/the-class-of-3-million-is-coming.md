@@ -26,6 +26,6 @@ date: January 01 2020
   <a href="https://classof3million.calstate.edu"
     >Sign The Class of 3 Million yearbook</a
   >
-  <a href="http://Classof3Million.calstate.edu."></a>
+  <a href="https://Classof3Million.calstate.edu."></a>
 </p>
 ```

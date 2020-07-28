@@ -10,7 +10,7 @@ date: January 01 2020
   Jane Kim’s announcement on
   <a href="https://www.facebook.com/InkDwell">Facebook</a>, posted Dec. 1,
   heralded the completion of her two&#45;and&#45;a&#45;half year project at the
-  <a href="http://www.birds.cornell.edu/Page.aspx?pid=1478#"
+  <a href="https://www.birds.cornell.edu/Page.aspx?pid=1478#"
     >Cornell Lab of Ornithology</a
   >
   in Ithaca, N.Y. – a mural that depicts the evolution and diversity of birds.

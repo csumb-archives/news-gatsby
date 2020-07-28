@@ -11,7 +11,7 @@ slug: camp-grant-helps-migrant-students-attain-college-dream
 <p>California State University, Monterey Bay has received a $2.1
 million federal grant aimed at enrolling more migrant students in
 higher education.</p>
-<p><img alt="CAMP logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/camp_image_0.jpg" style="width:300px; height:331px; float:right">The five-year
+<p><img alt="CAMP logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/camp_image_0.jpg" style="width:300px; height:331px; float:right">The five-year
 grant, awarded by the U.S Department of Education, will enable
 CSUMB to offer financial assistance, academic and career services,
 cultural and social enrichment and health and counseling services
@@ -32,7 +32,7 @@ area served by the grant, making the Central Coast home to 25
 percent of migrant students in California. In Monterey County, the
 average farm worker has an annual income of $18,397.<br>
 <br>
-Click <a href="http://eosp.csumb.edu/how-apply-1" rel="nofollow">here</a> for information on how to apply.</br></br></p>
+Click <a href="https://eosp.csumb.edu/how-apply-1" rel="nofollow">here</a> for information on how to apply.</br></br></p>
 <p><em>Earlier story: <a href="../../../2011/jul/28/migrant-program-earns-national-recognition.html" rel="nofollow">Migrant program earns national recognition</a><br>
 <br>
 &#xA0;</br></br></em></p>

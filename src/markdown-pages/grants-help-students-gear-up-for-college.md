@@ -34,7 +34,7 @@ date: January 01 2020
   underserved students, this is the first GEAR UP grant for the university.
 </p>
 <p>
-  <a href="http://eosp.csumb.edu"
+  <a href="https://eosp.csumb.edu"
     >Learn more about Early Outreach and Support programs at CSUMB</a
   >
 </p>

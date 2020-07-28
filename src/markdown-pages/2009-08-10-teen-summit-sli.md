@@ -11,7 +11,7 @@ slug: when-youth-speak-.-.-.-we-listen
 <span class="date">Posted on Aug 10, 2009    </span>
 <p>Aug. 10, 2009</p>
 When youth speak . . . we listen
-<p><img alt="Youth in Focus" height="300" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/youthinfocus.jpg" style="float:left" width="180">A group of high school and
+<p><img alt="Youth in Focus" height="300" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/youthinfocus.jpg" style="float:left" width="180">A group of high school and
 community college students spent the summer researching issues that
 affect young people in Salinas, Seaside and Soledad, and CSU
 Monterey Bay helped them share their findings.</img></p>

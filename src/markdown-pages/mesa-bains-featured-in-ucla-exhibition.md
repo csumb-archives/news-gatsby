@@ -6,13 +6,13 @@ date: January 01 2020
 
 ```html
 <p>
-  The <a href="http://www.fowler.ucla.edu/">Fowler Museum</a> at UCLA will honor
+  The <a href="https://www.fowler.ucla.edu/">Fowler Museum</a> at UCLA will honor
   its 50th anniversary with special exhibitions starting this fall, and a former
   CSU Monterey Bay professor is part of the celebration.
 </p>
 <p>
   <a
-    href="http://www.fowler.ucla.edu/exhibitions/fowler-at-fifty-new-world-wunderkammer"
+    href="https://www.fowler.ucla.edu/exhibitions/fowler-at-fifty-new-world-wunderkammer"
     >Fowler at Fifty</a
   >
   will include eight exhibitions that will be installed in two large galleries;
@@ -20,7 +20,7 @@ date: January 01 2020
   Pacific and the Americas and highlight works shown for the first time.
 </p>
 <p>
-  Amalia Mesa-Bains, former chair of the<a href="http://csumb.edu/art">
+  Amalia Mesa-Bains, former chair of the<a href="https://csumb.edu/art">
     Visual and Public Art Department</a
   >
   and professor emeritus, will work with the Fowler collections to create "New
@@ -35,7 +35,7 @@ date: January 01 2020
   The New World Wunderkammer will be the first time she has been able to use a
   major collection to recontextualize objects within themes of memory, struggle,
   loss and wonder, according to
-  <a href="http://wunderkammern1.wordpress.com/about-news/amalia-mesa-bains/"
+  <a href="https://wunderkammern1.wordpress.com/about-news/amalia-mesa-bains/"
     >her blog</a
   >.
 </p>
@@ -65,21 +65,21 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://www.latimes.com/entertainment/arts/culture/la-et-cm-ucla-fowler-museum-50-20130929,0,1482903.story"
+    href="https://www.latimes.com/entertainment/arts/culture/la-et-cm-ucla-fowler-museum-50-20130929,0,1482903.story"
     >Read a story in the Los Angeles Times about the exhibit</a
   >.
 </p>
 <p>
   In addition, Dr. Mesa-Bains also has a featured article in the inaugural
   edition of
-  <a href="http://macs-review.com/">Museum and Curatorial Studies Review</a>, a
+  <a href="https://macs-review.com/">Museum and Curatorial Studies Review</a>, a
   peer-reviewed journal that published its first issue this summer.
 </p>
 <p>
   Her essay, The Latino Cabinet of Curiosities: A Postcolonial Reopening,
   re-examines the roles of artists who make use of curatorial strategies within
   community and museum settings.
-  <a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2013/jan/31/faculty-highlights"
     >More faculty news</a
   >
 </p>

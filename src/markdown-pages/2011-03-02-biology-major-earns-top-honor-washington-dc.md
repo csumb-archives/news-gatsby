@@ -12,7 +12,7 @@ slug: biology-major-earns-top-honor-in-washington-d.c.
 <p>Kevin Johnson took a top honor at the inaugural Emerging
 Researchers National Conference in Science, Technology, Engineering
 and Math, held Feb. 24 and 25 in Washington, D.C.</p>
-<p><img alt=" Kevin Johnson, Erin Stanfield" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kevin_johson_erin_stanfield.jpg" style="float:right; width:250px; height:283px">A biology major,
+<p><img alt=" Kevin Johnson, Erin Stanfield" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kevin_johson_erin_stanfield.jpg" style="float:right; width:250px; height:283px">A biology major,
 Johnson won first place in the Ecology, Environmental and Earth
 Sciences division for his poster presentation.</img></p>
 <p>He summarized research he started last summer, when he worked

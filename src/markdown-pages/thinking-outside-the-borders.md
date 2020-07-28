@@ -43,16 +43,16 @@ date: January 01 2020
   Street. General admissions tickets are $20; students $10; children $5.
   Discounts are available for seniors and military members. Tickets can be
   purchased on the World Theater
-  <a href="http://worldtheater.csumb.edu">website</a> or by calling the box
+  <a href="https://worldtheater.csumb.edu">website</a> or by calling the box
   office 582-4580.
 </p>
 <p>
   Parking permits are required and may be purchased from a machine on the lot or
-  <a href="http://parking.csumb.edu/buy-permit">online</a>.
+  <a href="https://parking.csumb.edu/buy-permit">online</a>.
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   The event is sponsored by the Cultural Enrichment Committee of Associated

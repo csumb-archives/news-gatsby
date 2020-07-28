@@ -42,7 +42,7 @@ date: January 01 2020
   of the bunker. “Richard’s work helped us stretch our dollars in a way that
   made it aesthetically pleasing,” Tolbert said. “We’ve used Richard’s bicycle
   icon around campus.” Andrews worked on
-  <a href="http://transportation.csumb.edu/tripwise-home">TRIPwise</a>, an
+  <a href="https://transportation.csumb.edu/tripwise-home">TRIPwise</a>, an
   identity for programs, infrastructure and events that support a robust
   alternative transportation program on campus. His Transit Tree poster and
   website updates have led to an increase in transit ridership on campus – up

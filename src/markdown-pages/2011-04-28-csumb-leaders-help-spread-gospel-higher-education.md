@@ -9,7 +9,7 @@ slug: csumb-leaders-help-spread-gospel-of-higher-education
 
 
 <span class="date">Posted on Apr 28, 2011    </span>
-<p class="fineprint"><img alt="President Harrison joins CSUMB Students and Staff in Seaside" src="http://news.csumb.edu/sites/default/files/imagecache/large/65/attachments/news/images/super_sunday.jpg"><br>
+<p class="fineprint"><img alt="President Harrison joins CSUMB Students and Staff in Seaside" src="https://news.csumb.edu/sites/default/files/imagecache/large/65/attachments/news/images/super_sunday.jpg"><br>
 
 <em><strong>President Harrison joins nine CSUMB students and staff
 who were recognized Feb. 20 for their outreach and tutoring service

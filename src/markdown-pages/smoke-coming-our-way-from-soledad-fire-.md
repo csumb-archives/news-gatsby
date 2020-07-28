@@ -23,6 +23,6 @@ date: January 01 2020
 </p>
 <p>
   For more information, visit the air pollution control district's website at
-  <a href="http://www.mbuapcd.org/">www.mbuapcd.org</a>.
+  <a href="https://www.mbuapcd.org/">www.mbuapcd.org</a>.
 </p>
 ```

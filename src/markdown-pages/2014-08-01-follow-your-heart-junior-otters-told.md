@@ -16,7 +16,7 @@ University Center at CSU Monterey Bay on July 30.</p>
 <p>Valdez, founder of El Teatro Campesino and an original faculty
 member at CSUMB, spoke to an audience of several hundred
 youngsters, their parents and educators.</p>
-<p><img alt="Junior Otters fill the ballroom at CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/junior_otters_for_web.jpg" style="width:400px; height:222px; float:right">His remarks were
+<p><img alt="Junior Otters fill the ballroom at CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/junior_otters_for_web.jpg" style="width:400px; height:222px; float:right">His remarks were
 made at the graduation ceremony of the Migrant Junior Otter
 program. A monthlong collaboration among the university, the
 Monterey County Office of Education and El Teatro, the program
@@ -31,7 +31,7 @@ takes to be a successful student.</p>
 <p>This year there was a stronger emphasis on language development,
 said Ernesto Vela, director of Migrant Education Region XVI, which
 includes Monterey County.</p>
-<p><img alt="Luis Valdez addresses the group" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/_luis_valdez_for_web.jpg" style="width:400px; height:256px; float:left">&#x201C;Theater goes
+<p><img alt="Luis Valdez addresses the group" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/_luis_valdez_for_web.jpg" style="width:400px; height:256px; float:left">&#x201C;Theater goes
 hand-in-hand with language development,&#x201D; Dr. Vela said. In previous
 years, he said, general academic instruction was provided. This
 year, &#x201C;we had a strong focus on language.&#x201D;</img></p>
@@ -48,9 +48,9 @@ recognizing outstanding programs in school districts and county
 offices of education. They reflect the depth and breadth of
 education programs necessary to address students&#x2019; changing
 needs.</p>
-<p><a href="http://instagram.com/p/rIBvd-rmPw" rel="nofollow">Watch
+<p><a href="https://instagram.com/p/rIBvd-rmPw" rel="nofollow">Watch
 a short video on Instagram</a></p>
-<p><a href="http://eosp.csumb.edu/educational-opportunity-program" rel="nofollow">Learn about CSUMB&#x2019;s early outreach and support
+<p><a href="https://eosp.csumb.edu/educational-opportunity-program" rel="nofollow">Learn about CSUMB&#x2019;s early outreach and support
 programs</a><br>
 <br>
 <em>Photos and video by Patia Stephens<br>

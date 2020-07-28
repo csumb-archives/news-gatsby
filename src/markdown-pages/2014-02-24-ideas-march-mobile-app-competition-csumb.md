@@ -13,7 +13,7 @@ slug: of-march&apos;-mobile-app-competition-at-csumb
 <p>It&#x2019;s innovative, intense and for those who thrive on creative
 competition, a shot at fame and fortune.<br>
 <br>
-<img alt="&apos;The Ideas of March&apos; will be held at CSUMB March 14-16" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ideas_of_march.jpg" style="width:225px; height:242px; float:left">It&#x2019;s the &#x201C;Ideas of
+<img alt="&apos;The Ideas of March&apos; will be held at CSUMB March 14-16" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ideas_of_march.jpg" style="width:225px; height:242px; float:left">It&#x2019;s the &#x201C;Ideas of
 March,&#x201D; a three-day Android development competition open to college
 students with basic programming skills who are interested in
 producing mobile apps.<br>
@@ -42,17 +42,17 @@ apply by Feb. 21. Food and beverages will be provided during event
 hours.<br>
 <br>
 The event will be held in the Media Learning Center (Bldg. 18) on
-the CSUMB campus. <a href="http://csumb.edu/maps" rel="nofollow">Driving directions and a campus map.</a><br>
+the CSUMB campus. <a href="https://csumb.edu/maps" rel="nofollow">Driving directions and a campus map.</a><br>
 <br>
 To enter the competition or to submit an idea for an app, visit the
-<a href="http://innovation.csumb.edu/ideas-march" rel="nofollow">Institute for Innovation and Economic Development</a>.
+<a href="https://innovation.csumb.edu/ideas-march" rel="nofollow">Institute for Innovation and Economic Development</a>.
 For information, call the institute at 582-3230.<br>
 <br>
 Prospective competitors should note that all code created during
 the competition will be open source and will be posted on the
 web.&#x2028;<br>
 <br>
-<a href="http://www.ksbw.com/news/central-california/monterey/Get-your-app-on-CSUMB-hosts-app-invention-event/9401890" rel="nofollow">View a TV news story from the 2012
+<a href="https://www.ksbw.com/news/central-california/monterey/Get-your-app-on-CSUMB-hosts-app-invention-event/9401890" rel="nofollow">View a TV news story from the 2012
 competition</a>.<br>
 &#xA0;</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></br></br></p>
 

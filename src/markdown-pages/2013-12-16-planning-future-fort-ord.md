@@ -11,7 +11,7 @@ slug: planning-the-future-of-fort-ord
 <span class="date">Posted on Dec 16, 2013    </span>
 <p>Last month&apos;s election featured competing ballot measures about
 growth on part of Fort Ord. Both went down to defeat.</p>
-<p><img alt="Fort Ord Colloquium" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/fort_ord_colloquium_invite.jpg" style="float:left; width:300px; height:176px">Strong feelings on
+<p><img alt="Fort Ord Colloquium" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/fort_ord_colloquium_invite.jpg" style="float:left; width:300px; height:176px">Strong feelings on
 all sides are understandable; the land that makes up the former
 Fort Ord is a unique and priceless resource. &#x2028;</img></p>
 <p>To encourage a long-range view, CSU Monterey Bay and the Fort
@@ -22,7 +22,7 @@ government officials and the public.</p>
 <p>The goal of the colloquium is for local decision-makers and the
 public to leave with a shared</p>
 <p class="pullquote">Can&apos;t attend? CSUMB will live-stream both days
-of the colloquium. To watch it online, click <a href="http://media.csumb.edu/www/player/encoder.php?en=5&amp;cc=1&amp;q=1" rel="nofollow">here</a>. Viewers can submit their questions to the
+of the colloquium. To watch it online, click <a href="https://media.csumb.edu/www/player/encoder.php?en=5&amp;cc=1&amp;q=1" rel="nofollow">here</a>. Viewers can submit their questions to the
 moderator via the web.</p>
 <p>knowledge base on these topics. With this knowledge, the
 community can agree on strategies for economic and development
@@ -42,10 +42,10 @@ provided.</p>
 &#x2022; National Monuments as Economic Engines</br></br></br></p>
 <p>A moderated question-and-answer session will follow each panel
 presentation.</p>
-<p>While the event is free, attendees are asked to <a href="http://www.fortordcolloquium.eventbrite.com" rel="nofollow">register</a>.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</p>
-<p><a href="http://news.csumb.edu/sites/default/files/65/attachments/news/files/fort_ord_colloquium_program_0.pdf" rel="nofollow">View the program here</a>.</p>
-<p><a href="http://news.csumb.edu/sites/default/files/65/attachments/news/files/colloquium_summary.pdf" rel="nofollow">View of the summary of the event prepared by
+<p>While the event is free, attendees are asked to <a href="https://www.fortordcolloquium.eventbrite.com" rel="nofollow">register</a>.</p>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</p>
+<p><a href="https://news.csumb.edu/sites/default/files/65/attachments/news/files/fort_ord_colloquium_program_0.pdf" rel="nofollow">View the program here</a>.</p>
+<p><a href="https://news.csumb.edu/sites/default/files/65/attachments/news/files/colloquium_summary.pdf" rel="nofollow">View of the summary of the event prepared by
 FORA</a></p>
 <p>&#xA0;</p>
 <p><br>

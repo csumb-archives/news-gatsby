@@ -10,17 +10,17 @@ slug: drawing-from-the-natural-world
 
 <span class="date">Posted on Apr 17, 2012    </span>
 <h3><strong>Read the reviews</strong>:</h3>
-<p><a href="http://www.latimes.com/entertainment/news/books/la-ca-discoveries-20110612,0,7898955.story" rel="nofollow">Los Angeles Times</a> (June 12)<br>
-<a href="http://bnreview.barnesandnoble.com/t5/Reviews-Essays/Field-Notes-on-Science-and-Nature/ba-p/5013" rel="nofollow">Barnes and Noble Review</a> (June 8)<br>
-<a href="http://www.boston.com/bostonglobe/ideas/brainiac/2011/06/field_notes_on.html" rel="nofollow">Boston Globe</a> (June 14)<br>
-<a href="http://www.newscientist.com/blogs/culturelab/2011/05/research-notes-from-the-wild-side.html" rel="nofollow">New Scientist</a> (May)</br></br></br></p>
+<p><a href="https://www.latimes.com/entertainment/news/books/la-ca-discoveries-20110612,0,7898955.story" rel="nofollow">Los Angeles Times</a> (June 12)<br>
+<a href="https://bnreview.barnesandnoble.com/t5/Reviews-Essays/Field-Notes-on-Science-and-Nature/ba-p/5013" rel="nofollow">Barnes and Noble Review</a> (June 8)<br>
+<a href="https://www.boston.com/bostonglobe/ideas/brainiac/2011/06/field_notes_on.html" rel="nofollow">Boston Globe</a> (June 14)<br>
+<a href="https://www.newscientist.com/blogs/culturelab/2011/05/research-notes-from-the-wild-side.html" rel="nofollow">New Scientist</a> (May)</br></br></br></p>
 <h2>Instructor contributes to book from Harvard Press</h2>
 <p>Once in a great while, as The New York Times noted recently, a
 naturalist writes a book that changes the way people look at the
 living world. John James Audubon&apos;s &quot;Birds of America,&quot; published in
 1838, was one. Roger Tory Peterson&apos;s 1934 &quot;Field Guide to the
 Birds&quot; was another.</p>
-<p><img alt="Keller sketches at Point Lobos" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/keller_pt._lobos_sm.jpg" style="float:left; width:200px; height:150px">Add another title
+<p><img alt="Keller sketches at Point Lobos" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/keller_pt._lobos_sm.jpg" style="float:left; width:200px; height:150px">Add another title
 to that list.</img></p>
 <p>&quot;Field Notes on Science and Nature,&quot; published in 2011 by
 Harvard University Press, allows readers to peer over the shoulders
@@ -39,7 +39,7 @@ Her chapter is titled &#x201C;Why Sketch?&#x201D; In it, she encourages
 scientists to give it a try, and offers some basic drawing
 instruction.<br>
 <br>
-<img alt="Keller sketches a fish from life" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/keller_fish_sm.jpg" style="float:right; width:250px; height:188px">&#x201C;I&#x2019;m trying to
+<img alt="Keller sketches a fish from life" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/keller_fish_sm.jpg" style="float:right; width:250px; height:188px">&#x201C;I&#x2019;m trying to
 make the case that it&#x2019;s doable and here&#x2019;s how,&#x201D; she said. &#x201C;It&#x2019;s not
 that hard to add some simple visuals to your field observations,
 and it will deepen the amount of information your field notes can
@@ -78,7 +78,7 @@ the John Burroughs Award for best book of the year in natural
 history.<br>
 <br>
 More information on the science illustration program at CSUMB is
-available <a href="http://scienceillustration.org" rel="nofollow">here</a>.&#xA0;</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></br></br></br></br></p>
+available <a href="https://scienceillustration.org" rel="nofollow">here</a>.&#xA0;</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></img></br></br></br></br></p>
 <p><em>Top photo: Keller sketching at Point Lobos</em></p>
 
 

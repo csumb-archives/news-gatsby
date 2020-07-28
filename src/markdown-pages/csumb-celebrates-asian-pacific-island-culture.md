@@ -12,7 +12,7 @@ date: January 01 2020
 <p>
   “We create events to educate students about the API culture and traditions we
   share,” said Matt Menor, president of the campus
-  <a href="http://csumbapia.weebly.com/events.html"
+  <a href="https://csumbapia.weebly.com/events.html"
     >Asian Pacific Islander Association</a
   >. “We would like to showcase our culture to students so they are aware of our
   traditions and beliefs, and to make sure that they are educated on who we

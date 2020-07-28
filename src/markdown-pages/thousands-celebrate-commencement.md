@@ -55,7 +55,7 @@ date: January 01 2020
 </p>
 <p>
   The commencement ceremony, the 17th in the university’s history, was the first
-  presided over by<a href="http://president.csumb.edu/">Dr. Eduardo Ochoa,</a>
+  presided over by<a href="https://president.csumb.edu/">Dr. Eduardo Ochoa,</a>
   who took over as the university’s president last July.
 </p>
 <p>
@@ -63,7 +63,7 @@ date: January 01 2020
   and Vietnamese, delivered by members of the faculty. That was followed by the
   national anthem, sung by
   <a
-    href="http://news.csumb.edu/news/2013/feb/4/csumb&#45;student&#45;american&#45;idol"
+    href="https://news.csumb.edu/news/2013/feb/4/csumb&#45;student&#45;american&#45;idol"
     >Stevie Rae Stephens</a
   >, a music major and member of the Class of 2013.
 </p>
@@ -107,22 +107,22 @@ date: January 01 2020
   the picture.”
 </p>
 <p>
-  <a href="http://news.csumb.edu/gallery/commencement&#45;2013"
+  <a href="https://news.csumb.edu/gallery/commencement&#45;2013"
     >See more photos here.</a
   >
   <a
-    href="http://news.csumb.edu/news/2013/may/22/commencements&#45;social&#45;media"
+    href="https://news.csumb.edu/news/2013/may/22/commencements&#45;social&#45;media"
     >See the event captured on social media here</a
   >.
 </p>
 <p>
-  <a href="http://bcove.me/o55pn0t8"
+  <a href="https://bcove.me/o55pn0t8"
     >Watch a short video by the Monterey Herald.</a
   >
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/may/23/api&#45;community&#45;celebrates&#45;graduation"
+    href="https://news.csumb.edu/news/2013/may/23/api&#45;community&#45;celebrates&#45;graduation"
     >Read about the API community's graduation celebration here</a
   >.
 </p>

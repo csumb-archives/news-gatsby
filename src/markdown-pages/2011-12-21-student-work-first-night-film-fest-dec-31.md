@@ -15,7 +15,7 @@ So long 2011, hello CSUMB First Night Film Fest</br></em></h2>
 will offer the opportunity to catch the work of filmmakers who
 studied at CSU Monterey Bay&apos;s Teledramatic Arts and Technology
 program.</p>
-<p><img alt="Poster designed by CSUMB student Raissa Figueroa" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/poster12.jpg" style="float:left; width:285px; height:440px">Amid
+<p><img alt="Poster designed by CSUMB student Raissa Figueroa" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/poster12.jpg" style="float:left; width:285px; height:440px">Amid
 family-friendly art workshops, music &#x2013; classical to jazz, blues to
 rock, hip-hop to folk &#x2013; and the pageantry and puppetry of the
 Twilight Procession parade, is the CSUMB First Night Film Fest.
@@ -24,7 +24,7 @@ Twilight Procession parade, is the CSUMB First Night Film Fest.
 Starting at 3:30 p.m. in the Museum of Monterey &#x2013; formerly the
 Maritime Museum &#x2013; nine short films will be screened. They include
 documentaries, animation and narratives. A lising of the films to
-be screened can be found <a href="http://www.firstnightmonterey.org/FNM2012/Film.html" rel="nofollow">here</a>.</br></br></img></p>
+be screened can be found <a href="https://www.firstnightmonterey.org/FNM2012/Film.html" rel="nofollow">here</a>.</br></br></img></p>
 <p>More than 70 performances are scheduled at 20 venues and locales
 across the city from 3 p.m. to midnight. Admission buttons are
 required for all indoor events. Adult prices are $20 in advance and
@@ -38,7 +38,7 @@ streets of the city into a festive setting. FNM is a nonprofit arts
 organization whose mission is to bring families together and unite
 the community in all its diversity through the visual and
 performing arts.</p>
-<p>A complete schedule is available <a href="http://www.firstnightmonterey.org." rel="nofollow">here</a>.</p>
+<p>A complete schedule is available <a href="https://www.firstnightmonterey.org." rel="nofollow">here</a>.</p>
 <p>The film fest isn&apos;t CSUMB&apos;s only contribution to First
 Night.</p>
 <p>Artwork by senior Raissa Figueroa graces the marketing materials
@@ -59,7 +59,7 @@ ideas, and you interpret that,&quot; she said.</p>
 skills, and creativity, but it also teaches them how to listen and
 respond to what they hear, as well as how to manage a project.&quot;</p>
 <p>Learn more about the Teledramatic Arts and Technology
-program&#xA0;<a href="http://tat.csumb.edu" rel="nofollow">here</a>.</p>
-<p>Learn more about the communication design program <a href="http://itcd.csumb.edu/bs-cd" rel="nofollow">here</a>.</p>
+program&#xA0;<a href="https://tat.csumb.edu" rel="nofollow">here</a>.</p>
+<p>Learn more about the communication design program <a href="https://itcd.csumb.edu/bs-cd" rel="nofollow">here</a>.</p>
 
 ```

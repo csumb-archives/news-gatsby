@@ -10,7 +10,7 @@ slug: taiko-wt-release
 
 <span class="date">Posted on Nov 09, 2007    </span>
 <h4>San Jose Taiko performs at World Theater Dec. 6</h4>
-<p><img style="width:250px; height:300px" alt="San Jose Taiko" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/zzzzzzzzz%20san%20jose%20taiko%20dums.bmp">San
+<p><img style="width:250px; height:300px" alt="San Jose Taiko" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/zzzzzzzzz%20san%20jose%20taiko%20dums.bmp">San
 Jose Taiko will take the stage at California State University,
 Monterey Bay&apos;s World Theater on Dec. 6 as the performing arts
 series continues.<br>

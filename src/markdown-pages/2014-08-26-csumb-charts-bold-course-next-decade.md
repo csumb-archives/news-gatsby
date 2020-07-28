@@ -11,10 +11,10 @@ slug: csumb-charts-&apos;bold-course&apos;-for-next-decade
 <span class="date">Posted on Aug 26, 2014    </span>
 <h3>President&apos;s annual State of the University address kicks off
 new school year</h3>
-<p>President <a href="http://president.csumb.edu/biography" rel="nofollow">Eduardo Ochoa</a> delivered an upbeat State of the
+<p>President <a href="https://president.csumb.edu/biography" rel="nofollow">Eduardo Ochoa</a> delivered an upbeat State of the
 University address Aug. 21 at the World Theater as he noted school
 achievements as well as plans for the future.</p>
-<p><img alt="President Eduardo Ochoa" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/state_of_u_for_web.jpg" style="width:300px; height:437px; float:right">&#x201C;It has been an
+<p><img alt="President Eduardo Ochoa" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/state_of_u_for_web.jpg" style="width:300px; height:437px; float:right">&#x201C;It has been an
 outstanding year for Cal State Monterey Bay,&#x201D; President Ochoa said.
 &#x201C;We are growing and playing a more integral role in the life of our
 community.&#x201D;</img></p>
@@ -92,7 +92,7 @@ In addition, Dr. Josh Harrower, Teacher Education Department; Dr.
 James Lindholm, Division of Science and Environmental Policy; and
 Dr. Kathryn Poethig, Division of Social, Behavioral and Global
 Studies were promoted to full professor.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
-<p><a href="http://president.csumb.edu/news/2014/aug/21/2014-presidents-state-university-address" rel="nofollow"><em>Text of full remarks</em></a></p>
+<p><a href="https://president.csumb.edu/news/2014/aug/21/2014-presidents-state-university-address" rel="nofollow"><em>Text of full remarks</em></a></p>
 
 
 

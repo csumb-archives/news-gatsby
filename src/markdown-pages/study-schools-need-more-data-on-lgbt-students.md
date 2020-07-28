@@ -41,47 +41,47 @@ date: January 01 2020
 <p>The study has attracted widespread media attention, including:</p>
 <p>
   <a
-    href="http://blogs.edweek.org/edweek/rulesforengagement/2016/03/data_lacking_about_how_lgbt_students_are_treated_at_school_researchers_say.html"
+    href="https://blogs.edweek.org/edweek/rulesforengagement/2016/03/data_lacking_about_how_lgbt_students_are_treated_at_school_researchers_say.html"
     >Education Week</a
   >
 </p>
 <p>
   <a
-    href="http://www.idsnews.com/article/2016/03/iu&#45;researchers&#45;argue&#45;more&#45;data&#45;needed&#45;in&#45;lgbt&#45;disparities&#45;in&#45;schools"
+    href="https://www.idsnews.com/article/2016/03/iu&#45;researchers&#45;argue&#45;more&#45;data&#45;needed&#45;in&#45;lgbt&#45;disparities&#45;in&#45;schools"
     >Indiana Daily Student</a
   >
 </p>
 <p>
   <a
-    href="http://www.huffingtonpost.com/entry/lgbt&#45;school&#45;discipline&#45;disparities_us_56f952f2e4b0a372181a672e"
+    href="https://www.huffingtonpost.com/entry/lgbt&#45;school&#45;discipline&#45;disparities_us_56f952f2e4b0a372181a672e"
     >Huffington Post</a
   >
 </p>
 <p>
   <a
-    href="http://wboi.org/post/study&#45;lgbt&#45;youth&#45;left&#45;out&#45;suspension&#45;expulsion&#45;reduction&#45;efforts#stream/0"
+    href="https://wboi.org/post/study&#45;lgbt&#45;youth&#45;left&#45;out&#45;suspension&#45;expulsion&#45;reduction&#45;efforts#stream/0"
     >Northeast Indiana Public Radio</a
   >
   &#40;<a
-    href="http://wbaa.org/post/data&#45;murky&#45;suspensions&#45;expulsions&#45;lgbt&#45;students"
+    href="https://wbaa.org/post/data&#45;murky&#45;suspensions&#45;expulsions&#45;lgbt&#45;students"
     >also here</a
   >&#41;
 </p>
 <p>
   <a
-    href="http://www.educationworld.com/a_news/report&#45;protect&#45;lgbt&#45;students&#45;through&#45;data&#45;collection&#45;federal&#45;non&#45;discrimination&#45;legislation"
+    href="https://www.educationworld.com/a_news/report&#45;protect&#45;lgbt&#45;students&#45;through&#45;data&#45;collection&#45;federal&#45;non&#45;discrimination&#45;legislation"
     >Education World</a
   >
 </p>
 <p>
   <a
-    href="http://www.journalgazette.net/news/world/Feds&#45;urged&#45;to&#45;track&#45;LGBT&#45;students&#45;12268112"
+    href="https://www.journalgazette.net/news/world/Feds&#45;urged&#45;to&#45;track&#45;LGBT&#45;students&#45;12268112"
     >Journal Gazette</a
   >
 </p>
 <p>
   <a
-    href="http://indianapolis.suntimes.com/indy&#45;news/7/94/407999/study&#45;lgbt&#45;youth&#45;left&#45;out&#45;of&#45;suspension&#45;expulsion&#45;reduction&#45;efforts"
+    href="https://indianapolis.suntimes.com/indy&#45;news/7/94/407999/study&#45;lgbt&#45;youth&#45;left&#45;out&#45;of&#45;suspension&#45;expulsion&#45;reduction&#45;efforts"
     >Sun Times</a
   >
 </p>
@@ -93,7 +93,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://www.detroitnews.com/story/news/education/2016/03/27/study&#45;schools&#45;data&#45;lgbt&#45;students/82330132/"
+    href="https://www.detroitnews.com/story/news/education/2016/03/27/study&#45;schools&#45;data&#45;lgbt&#45;students/82330132/"
     >Detroit News</a
   >
 </p>

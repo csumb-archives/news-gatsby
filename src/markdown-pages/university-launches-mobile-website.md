@@ -25,7 +25,7 @@ date: January 01 2020
 <p>
   There’s a web app for that. CSUMB has just launched a mobile version of its
   website – complete with news, sports, event listings and dining hall hours –
-  that can be accessed <a href="http://csumb.edu/mobile">here</a>. It’s simpler,
+  that can be accessed <a href="https://csumb.edu/mobile">here</a>. It’s simpler,
   faster and formatted for smaller screens. The mobile website is accessible via
   devices such as iPhone, Blackberry and Android-based smart phones and tablets
   using the devices’ built-in web browser. It includes tools designed to help
@@ -39,7 +39,7 @@ date: January 01 2020
   and universities that have mobile websites, according to the Mobile in Higher
   Education website. (Read the survey
   <a
-    href="http://www.dmolsen.com/mobile-in-higher-ed/2011/02/01/results-from-higher-ed-mobile-website-tech-survey/"
+    href="https://www.dmolsen.com/mobile-in-higher-ed/2011/02/01/results-from-higher-ed-mobile-website-tech-survey/"
     >here</a
   >.) The mobile site was developed in-house by Kevin Miller and Greg Pool of
   the university’s Information Technology staff, with help from several students

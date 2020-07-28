@@ -38,7 +38,7 @@ date: January 01 2020
 </p>
 <p>
   A complete schedule of Otter Welcome Week activities can be found
-  <a href="http://csumb.edu/search/redirect/11418?searchterm=Otter+Days">here</a
+  <a href="https://csumb.edu/search/redirect/11418?searchterm=Otter+Days">here</a
   >.
 </p>
 ```

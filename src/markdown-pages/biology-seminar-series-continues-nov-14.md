@@ -15,7 +15,7 @@ date: January 01 2020
   The presentation will be held at 5 p.m. in Room 3145 of the Tanimura &amp;
   Antle library. The talk is open to the public, free of charge. Driving
   directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   The series kicked off the fall semester on Sept. 12 with a presentation by Dr.

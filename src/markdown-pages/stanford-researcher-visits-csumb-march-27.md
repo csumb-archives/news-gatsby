@@ -9,7 +9,7 @@ date: January 01 2020
 <p>
   The President’s Speaker Series at California State University, Monterey Bay
   continues March 27 when
-  <a href="http://en.wikipedia.org/wiki/Sebastian_Thrun">Sebastian Thrun</a> of
+  <a href="https://en.wikipedia.org/wiki/Sebastian_Thrun">Sebastian Thrun</a> of
   Stanford University visits campus.
 </p>
 <p>
@@ -30,7 +30,7 @@ date: January 01 2020
 <p>
   Dr. Thrun is a professor of computer science and electrical engineering at
   Stanford, where he also serves as the director of the
-  <a href="http://ai.stanford.edu/">Stanford Artificial Intelligence Lab</a>.
+  <a href="https://ai.stanford.edu/">Stanford Artificial Intelligence Lab</a>.
   His research focuses on robotics and artificial intelligence.
 </p>
 <p>
@@ -43,7 +43,7 @@ date: January 01 2020
   His talk will start at 3:30 p.m. in the World Theater, followed by a
   question-and-answer session. The World Theater is located on Sixth Avenue near
   A Street.
-  <a href="http://csumb.edu/map">Driving directions and a campus map</a>.
+  <a href="https://csumb.edu/map">Driving directions and a campus map</a>.
 </p>
 <p>
   The community is invited to this free event. No tickets are necessary, but
@@ -53,11 +53,11 @@ date: January 01 2020
     href="m&#97;&#105;&#108;&#116;&#111;&#58;&#x6a;&#x65;&#x61;&#x6c;&#x6f;&#x70;&#x65;z&#64;&#99;&#115;&#117;&#109;&#98;&#46;&#x65;&#x64;&#x75;"
     >jealopez@csumb.edu</a
   >
-  or going online at <a href="http://csumb.edu/pssRSVP">csumb.edu/pssRSVP</a>.
+  or going online at <a href="https://csumb.edu/pssRSVP">csumb.edu/pssRSVP</a>.
 </p>
 <p>
   The series continues on April 25, when Jamie Merisotis, president and CEO of
-  the <a href="http://www.luminafoundation.org/">Lumina Foundation</a>, visits
+  the <a href="https://www.luminafoundation.org/">Lumina Foundation</a>, visits
   campus.
 </p>
 <p>

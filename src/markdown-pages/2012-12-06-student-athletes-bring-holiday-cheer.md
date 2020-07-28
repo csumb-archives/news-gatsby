@@ -9,7 +9,7 @@ slug: studentathletes-bring-holiday-cheer
 
 
 <span class="date">Posted on Dec 06, 2012    </span>
-<p><img alt="These hand-drawn holiday cards will be sent to military members serving oversees" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/holiday_cards.jpeg" style="float:left; width:333px; height:215px">Student-athletes at
+<p><img alt="These hand-drawn holiday cards will be sent to military members serving oversees" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/holiday_cards.jpeg" style="float:left; width:333px; height:215px">Student-athletes at
 CSU Monterey Bay got into the holiday spirit by making cards for
 military members serving overseas.</img></p>
 <p>&#x201C;I think anytime we can find a way to thank our service men and
@@ -22,7 +22,7 @@ troops.&#x201D;<br>
 <br>
 The cards will be sent to Soldiers&#x2019; Angels, a Pasadena-based
 nonprofit organization that supports members of the military.</br></br></p>
-<p><img alt="Soccer players Andrea Davis and Regan Porteous show off their cards" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/saac_athletes.jpeg" style="float:right; width:300px; height:208px">Soldiers&apos; Angels
+<p><img alt="Soccer players Andrea Davis and Regan Porteous show off their cards" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/saac_athletes.jpeg" style="float:right; width:300px; height:208px">Soldiers&apos; Angels
 began when military mom Patti Patton-Bader discovered that her
 son&apos;s fellow soldiers were not receiving the home-front support
 they needed. It quickly spread from a mom and her circle of friends
@@ -32,7 +32,7 @@ American service members of every branch in a myriad of ways.<br>
 <br>
 For more information on Soldiers Angels&apos;, visit
 soldiersangels.org.</br></br></img></p>
-<p><a href="http://otterathletics.com/index.aspx?path=saac&amp;&amp;tab=5" rel="nofollow">Learn more about the Student-Athlete Advisory
+<p><a href="https://otterathletics.com/index.aspx?path=saac&amp;&amp;tab=5" rel="nofollow">Learn more about the Student-Athlete Advisory
 Committee at CSUMB.</a></p>
 <p class="small"><em>Photo at right: Soccer players Andrea Davis
 and Regan Porteous show off the cards they made<br>

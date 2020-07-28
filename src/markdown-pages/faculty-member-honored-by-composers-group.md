@@ -46,15 +46,15 @@ date: January 01 2020
   composer’s catalog of original compositions as well as recent performances.
   According to the organization, the grants support the growth and development
   of the nation’s musical future.
-  <a href="http://www.laniersammons.com/Main/">Read more about Dr. Sammons</a>.
+  <a href="https://www.laniersammons.com/Main/">Read more about Dr. Sammons</a>.
 </p>
 <p>
-  <a href="http://csumb.edu/music"
+  <a href="https://csumb.edu/music"
     >Learn more about the Music and Performing Arts program at CSUMB.</a
   >
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     >Read more faculty news</a
   >
 </p>

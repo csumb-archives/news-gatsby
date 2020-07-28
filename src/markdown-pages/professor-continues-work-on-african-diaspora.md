@@ -6,7 +6,7 @@ date: January 01 2020
 
 ```html
 <p>
-  Professor <a href="http://umiart.com/">Umi Vaughan</a> continues to explore
+  Professor <a href="https://umiart.com/">Umi Vaughan</a> continues to explore
   the African diaspora with his work on a dance festival and symposium this
   month in San Francisco. Dr. Vaughan, a faculty member in the Division of
   Humanities and Communication, is one of the curators and a panel moderator for
@@ -30,19 +30,19 @@ date: January 01 2020
   two books recently:
   <em
     ><a
-      href="http://news.csumb.edu/news/2012/mar/15/new-book-traces-history-batá-drumming"
+      href="https://news.csumb.edu/news/2012/mar/15/new-book-traces-history-batá-drumming"
       >Carlos Aldama's Life in Batá: Cuba, Diaspora, and the Drum</a
     ></em
   >; and
   <a
-    href="http://news.csumb.edu/news/2012/oct/4/new-book-explores-notion-afro-cuba"
+    href="https://news.csumb.edu/news/2012/oct/4/new-book-explores-notion-afro-cuba"
     ><em
       >Rebel Dance, Renegade Stance: Timba Music and Black Identity in Cuba.</em
     ></a
   >
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2013/jan/31/faculty-highlights"
     >More faculty news</a
   >
 </p>

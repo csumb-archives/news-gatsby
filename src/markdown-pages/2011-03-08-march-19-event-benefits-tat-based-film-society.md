@@ -17,7 +17,7 @@ at Sunset Center.</p>
 additional on-location shots filmed recently to give it more of the
 flavor of Carmel. The movie is about a 15-year-old boy who becomes
 embroiled in a tale of international art forgery. It stars Alfred
-Molina, Lauren Bacall, Josh Hutcherson, Hayden <img alt="Cinematographer Walt Lloyd checks the lighting for a shot of Dina Eastwood" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/dina_eastwood_sm.jpg" style="float:left; width:250px; height:376px">Panettiere, and
+Molina, Lauren Bacall, Josh Hutcherson, Hayden <img alt="Cinematographer Walt Lloyd checks the lighting for a shot of Dina Eastwood" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/dina_eastwood_sm.jpg" style="float:left; width:250px; height:376px">Panettiere, and
 Dina Eastwood (pictured at left, with cinematographer Walt Lloyd),
 and includes many local residents as extras.</img></p>
 <p>This will be the film&#x2019;s first local showing; it premiered
@@ -49,7 +49,7 @@ Baxter Blader. The society&#x2019;s creative director is Mike Plante of
 the Sundance Film Festival.</p>
 <p>Organizers have raised $280,000 in grant money and another
 $70,000 from private donors to help fund their ambitious plans.</p>
-<p>More information is available online at <a href="http://www.montereybayfilmsociety.org" title="www.montereybayfilmsociety.org">www.montereybayfilmsociety.org</a></p>
+<p>More information is available online at <a href="https://www.montereybayfilmsociety.org" title="www.montereybayfilmsociety.org">www.montereybayfilmsociety.org</a></p>
 <p><strong>IF YOU GO</strong><br>
 What: &#x201C;Carmel-by-the-Sea&#x201D; fund-raising event for the Monterey Bay
 Film Society<br>
@@ -59,7 +59,7 @@ Carmel<br>
 Tickets: $10 students; $25 general admission; $100 VIP seating and
 reception. Can be purchased by calling the box office at
 620-2048<br>
-Information: Online at <a href="http://www.montereybayfilmsociety.org" title="www.montereybayfilmsociety.org">www.montereybayfilmsociety.org</a></br></br></br></br></br></p>
+Information: Online at <a href="https://www.montereybayfilmsociety.org" title="www.montereybayfilmsociety.org">www.montereybayfilmsociety.org</a></br></br></br></br></br></p>
 <p>&#xA0;</p>
 <p><br>
 &#xA0;</br></p>

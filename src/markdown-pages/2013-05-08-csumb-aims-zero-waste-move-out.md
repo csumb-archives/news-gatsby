@@ -13,7 +13,7 @@ slug: csumb-aims-for-zero-waste-moveout
 Monterey Bay, has often been surprised by what she sees discarded
 during the annual rush to clean out residence hall rooms and move
 off campus for the summer.</p>
-<p><img alt="Event manager Max Lorenz helps at 2012 move-out" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/move-out_for_web.jpg" style="float:left; width:300px; height:258px">&#x201C;One year, a staff
+<p><img alt="Event manager Max Lorenz helps at 2012 move-out" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/move-out_for_web.jpg" style="float:left; width:300px; height:258px">&#x201C;One year, a staff
 member found a brand new vacuum cleaner in the trash,&#x201D; Spear said.
 &#x201C;In the past, so many reusable items have been thrown away that
 people from off campus came to rummage through our dumpsters.&#x201D;</img></p>
@@ -31,13 +31,13 @@ main campus.</p>
 unwanted belongings May 9-12; North Quad residents can do the same
 May 16-18. A smaller event is scheduled for May 24 and 31 in East
 Campus housing areas.</p>
-<p><img alt="Chalk drawing reminds people to recycle" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/chalk_for_web.jpg" style="float:right; width:250px; height:167px">Last year, more
+<p><img alt="Chalk drawing reminds people to recycle" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/chalk_for_web.jpg" style="float:right; width:250px; height:167px">Last year, more
 than 80 percent of what was disposed of during move-out week was
 recycled or reused &#x2013; 5.8 tons of recyclable materials and 1.3 tons
 of reusable materials were recovered.</img></p>
 <p>&#x201C;Let&#x2019;s aim for zero waste this year,&#x201D; says the pitch for
 volunteers to monitor stations for recycling, donation and waste
-and perform a variety of other tasks. To volunteer, <a href="http://housing.csumb.edu/VolunteerMoveOut" rel="nofollow">sign up
+and perform a variety of other tasks. To volunteer, <a href="https://housing.csumb.edu/VolunteerMoveOut" rel="nofollow">sign up
 here</a>&#xA0;or e-mail event manager Max Lorenz at <a href="mailto:mlorenz@greenwaste.com">mlorenz@greenwaste.com</a></p>
 <p>The California Department of Resource Recycling and Recovery
 (CalRecycle) requires CSUMB and local jurisdictions to report and

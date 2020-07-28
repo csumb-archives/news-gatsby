@@ -109,12 +109,12 @@ date: January 01 2020
   do this work are passionate about it. It’s very satisfying.”
 </p>
 <p>
-  <a href="http://csumb.edu/veterans"
+  <a href="https://csumb.edu/veterans"
     >Learn more about services for veterans at CSUMB.</a
   >
 </p>
 <p>
-  <a href="http://blogs.calstate.edu/voicesviews/?p=1557"
+  <a href="https://blogs.calstate.edu/voicesviews/?p=1557"
     >Read Travis's story in his own words at the CSU Voices &amp; Views blog.
   </a>
 </p>

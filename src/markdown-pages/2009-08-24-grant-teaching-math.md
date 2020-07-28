@@ -18,7 +18,7 @@ Islands to create the California Coast Noyce Scholarship
 Partnership. Funded by the National Science Foundation, the Robert
 Noyce Scholarship program provides support to outstanding students
 who are committed to teach math once they earn a credential.</p>
-<p><img alt="teaching math" height="320" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/teaching%20math.jpg" style="float:left" width="320">The grant will allow CSUMB to
+<p><img alt="teaching math" height="320" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/teaching%20math.jpg" style="float:left" width="320">The grant will allow CSUMB to
 offer five scholarships per year for five years. Math majors
 starting in their junior year will be eligible, as well as students
 in the math credential program. Each student will receive $10,000

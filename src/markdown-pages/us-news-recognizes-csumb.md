@@ -10,7 +10,7 @@ date: January 01 2020
   Cal State Monterey Bay is one of the top public universities in the Western
   United States, according to the 2016 U.S. News &amp; World Report
   <a
-    href="http://colleges.usnews.rankingsandreviews.com/best&#45;colleges/rankings"
+    href="https://colleges.usnews.rankingsandreviews.com/best&#45;colleges/rankings"
     >Best Colleges edition</a
   >
   released this week.

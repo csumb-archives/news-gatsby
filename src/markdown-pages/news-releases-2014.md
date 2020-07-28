@@ -569,7 +569,7 @@ date: January 01 2020
 <p>
   University moves to end guarantee for admission of out&#45;of&#45;area
   students . . . .<a
-    href="http://admissions.csumb.edu/first&#45;time&#45;freshmen&#45;impaction"
+    href="https://admissions.csumb.edu/first&#45;time&#45;freshmen&#45;impaction"
     >continue reading</a
   >
 </p>

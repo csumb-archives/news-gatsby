@@ -14,7 +14,7 @@ slug: the-long-and-short-of-it-.-.-.
 professor Tobias Wolff will lecture at California State University,
 Monterey Bay&#x2019;s World Theater on Nov. 1 as part of the President&#x2019;s
 Speaker Series.</p>
-<p><img alt="Tobias Wolff" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/240px-tobiaswolff.jpg" style="float:right; width:240px; height:173px">The talk will
+<p><img alt="Tobias Wolff" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/240px-tobiaswolff.jpg" style="float:right; width:240px; height:173px">The talk will
 start at 7 p.m., followed by a question-and-answer session. No
 tickets are required for this free event, but reservations are
 strongly recommended and can be made online at csumb.edu/speakers
@@ -49,10 +49,10 @@ Books, &quot;Typically, his protagonists face an acute moral dilemma,
 unable to reconcile what they know to be true with what they feel
 to be true. Duplicity is their great failing, and Wolff&apos;s main
 theme.&quot;</p>
-<p>To reserve a seat, click <a href="http://rsvp.csumb.edu/index.php?eid=69" rel="nofollow">here</a>.</p>
+<p>To reserve a seat, click <a href="https://rsvp.csumb.edu/index.php?eid=69" rel="nofollow">here</a>.</p>
 <p>The World Theater is located on Sixth Avenue on the CSU Monterey
 Bay campus. Driving directions and a campus map are available
-<a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+<a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 <p><em>There is a need in us for exactly what literature can give,
 which is a sense of who we are, beyond what data can tell us,
 beyond what simple information can tell us; a sense of the workings

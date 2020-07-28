@@ -36,6 +36,6 @@ date: January 01 2020
 <p>
   Sammons will host the residency through July 24. For more information and
   exact hours, check his website at
-  <a href="http://www.laniersammons.com">www.laniersammons.com</a>
+  <a href="https://www.laniersammons.com">www.laniersammons.com</a>
 </p>
 ```

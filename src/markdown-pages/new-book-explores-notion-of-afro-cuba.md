@@ -14,7 +14,7 @@ date: January 01 2020
 <p>
   In April,
   <a
-    href="http://news.csumb.edu/news/2012/mar/15/new&#45;book&#45;traces&#45;history&#45;batá&#45;drumming"
+    href="https://news.csumb.edu/news/2012/mar/15/new&#45;book&#45;traces&#45;history&#45;batá&#45;drumming"
     >his book</a
   >, &#42;Carlos Aldama's Life in Batá: Cuba, Diaspora, and the Drum&#42;, was
   published.
@@ -53,7 +53,7 @@ date: January 01 2020
   He holds a Ph.D. in cultural anthropology from the University of Michigan.
 </p>
 <p>
-  Learn more about Dr. Vaughan on <a href="http://umiart.com">his website</a>.
+  Learn more about Dr. Vaughan on <a href="https://umiart.com">his website</a>.
 </p>
 <p>
   &#42;This is an exciting and informative study of Cuban popular culture and a
@@ -63,7 +63,7 @@ date: January 01 2020
   and its accompanying series of vivid photographs, which comment eloquently in
   dialogue with Umi Vaughan's compelling content. &#42; ?— Yvonne Daniel, Smith
   College &#42;<a
-    href="http://news.csumb.edu/news/2012/nov/25/faculty&#45;highlights"
+    href="https://news.csumb.edu/news/2012/nov/25/faculty&#45;highlights"
     >Read more faculty news</a
   >&#42;.
 </p>

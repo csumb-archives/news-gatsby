@@ -15,14 +15,14 @@ date: January 01 2020
 <p>
   • Feature reporting:
   <a
-    href="http://kazu.org/post/ucsc&#45;linguists&#45;use&#45;modern&#45;technology&#45;study&#45;ancient&#45;language#stream/0"
+    href="https://kazu.org/post/ucsc&#45;linguists&#45;use&#45;modern&#45;technology&#45;study&#45;ancient&#45;language#stream/0"
     >UCSC Linguists Use Modern Technology to Study Ancient Language</a
   >. Reporter: Doug McKnight
 </p>
 <p>
   • Sports reporting:
   <a
-    href="http://kazu.org/post/end&#45;era&#45;famed&#45;aptos&#45;mountain&#45;biking&#45;dirt&#45;jumps&#45;close#stream/0"
+    href="https://kazu.org/post/end&#45;era&#45;famed&#45;aptos&#45;mountain&#45;biking&#45;dirt&#45;jumps&#45;close#stream/0"
     >End of an Era: Famed Aptos Mountain Biking Dirt Jumps Close</a
   >. Reporter: Samantha Clark
 </p>

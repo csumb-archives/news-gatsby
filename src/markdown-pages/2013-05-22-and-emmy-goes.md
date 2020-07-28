@@ -9,7 +9,7 @@ slug: and-the-emmy-goes-to-.-.-.
 
 
 <span class="date">Posted on May 22, 2013    </span>
-<p><img alt="Casey Richards" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/casey_richards_bkb.jpg" style="float:left; width:300px; height:726px">Did you know there
+<p><img alt="Casey Richards" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/casey_richards_bkb.jpg" style="float:left; width:300px; height:726px">Did you know there
 are Emmy awards for sports broadcasting?&#xA0;</img></p>
 <p>Several dozen of them were handed out in New York on May 7 at
 the annual Sports Emmy Awards event.</p>

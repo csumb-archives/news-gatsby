@@ -13,7 +13,7 @@ slug: learn-what-to-do-in-an-emergency
 <p>Should a disaster strike, university officials want campus
 community members to be prepared, educated on what to do and have
 the resources and training to be emergency-ready.</p>
-<p><img alt="Emergency Preparedness logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ready_reg.jpg" style="float:left; width:350px; height:263px">A good place to
+<p><img alt="Emergency Preparedness logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ready_reg.jpg" style="float:left; width:350px; height:263px">A good place to
 start is the Otter Preparedness Fair, which will be held from 11
 a.m. to 2 p.m., Sept. 11 on the campus quad. The third annual event
 is sponsored by the Emergency Management, Health and Safety
@@ -41,7 +41,7 @@ interaction and cooperation needed in emergencies.</p>
 recognition from the National Weather Service &#x2013; the university was
 named a Weather-Ready Nation Ambassador and a Storm Ready
 university. <a href="../../jun/26/csumb-recognized-preparedness-efforts.html" rel="nofollow">Read more here.</a></p>
-<p><a href="http://police.csumb.edu/emergency-management" rel="nofollow">Learn about the Division of Emergency Management, Health
+<p><a href="https://police.csumb.edu/emergency-management" rel="nofollow">Learn about the Division of Emergency Management, Health
 and Safety at CSUMB</a></p>
 <p><br>
 &#xA0;</br></p>

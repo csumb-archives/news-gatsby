@@ -28,7 +28,7 @@ date: January 01 2020
 </p>
 <p>
   Read more about CSUMB's Visual and Public Art Department
-  <a href="http://csumb.edu/art">here</a>.
+  <a href="https://csumb.edu/art">here</a>.
 </p>
 <p></p>
 <p></p>

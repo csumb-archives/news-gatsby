@@ -12,7 +12,7 @@ slug: social-justice-colloquium-looks-at-lgbt-issues
 <p>This year&#x2019;s Social Justice Colloquium at CSU Monterey Bay
 examines lesbian, gay, bisexual and transgender history, political
 organizing and the meaning of justice.</p>
-<p><img alt="Social Justice Colloquium looks at LGBT issues" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/lgbt_for_web.jpg" style="float:left; width:300px; height:279px">A panel of
+<p><img alt="Social Justice Colloquium looks at LGBT issues" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/lgbt_for_web.jpg" style="float:left; width:300px; height:279px">A panel of
 scholars, activists and students will discuss &#x201C;Queer Justice: Past,
 Present, Future&#x201D; at 6 p.m., April 14, in the University Center
 ballroom.</img></p>
@@ -46,11 +46,11 @@ questions of social and environmental justice.</p>
 <p>The event is free and open to the public, but reservations are
 requested and can be made by calling 582-3890.</p>
 <p>The University Center is located on Sixth Avenue at B Street.
-For driving directions and a campus map, <a href="http://csumb.edu/maps" rel="nofollow">click here</a>. Please note
+For driving directions and a campus map, <a href="https://csumb.edu/maps" rel="nofollow">click here</a>. Please note
 that a parking permit must be purchased from a machine on the lot
-or <a href="http://parking.csumb.edu/buy-permit" rel="nofollow">online</a></p>
-<p>The <a href="http://sbgs.csumb.edu" rel="nofollow">Division of
-Social, Behavioral and Global Studies</a>, the <a href="http://hcom.csumb.edu" rel="nofollow">Division of Humanities and
+or <a href="https://parking.csumb.edu/buy-permit" rel="nofollow">online</a></p>
+<p>The <a href="https://sbgs.csumb.edu" rel="nofollow">Division of
+Social, Behavioral and Global Studies</a>, the <a href="https://hcom.csumb.edu" rel="nofollow">Division of Humanities and
 Communication</a> and the Provost&#x2019;s Office are sponsoring the
 event.</p>
 <p>For more information or for disability accommodations, call

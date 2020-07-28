@@ -9,7 +9,7 @@ slug: open-university-opens-up-opportunities
 
 
 <span class="date">Posted on Jan 15, 2014    </span>
-<p><img alt="Open University logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/openu-logo.jpg" style="float:left; width:258px; height:114px">Maybe you&#x2019;re
+<p><img alt="Open University logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/openu-logo.jpg" style="float:left; width:258px; height:114px">Maybe you&#x2019;re
 interested in pursuing your bachelor&apos;s degree, preparing for a
 promotion at work or just want one class while you take some time
 off from an out-of-town university.</img></p>
@@ -48,7 +48,7 @@ and meet other rock music lovers?<br>
 Registration takes place on the first day of class. The spring
 semester starts Jan. 21.<br>
 <br>
-For more information, visit <a href="http://extended.csumb.edu" rel="nofollow">extended education</a>&#xA0;or e-mail <a href="mailto:openu@csumb.edu">openu@csumb.edu</a>.<br>
+For more information, visit <a href="https://extended.csumb.edu" rel="nofollow">extended education</a>&#xA0;or e-mail <a href="mailto:openu@csumb.edu">openu@csumb.edu</a>.<br>
 &#xA0;</br></br></br></br></br></p>
 
 

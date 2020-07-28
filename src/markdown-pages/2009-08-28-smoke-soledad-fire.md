@@ -28,7 +28,7 @@ slug: smoke-coming-our-way-from-soledad-fire
 <p>
   For more information, visit the air pollution control district&apos;s website
   at
-  <a href="http://www.mbuapcd.org/" target="_blank" rel="nofollow"
+  <a href="https://www.mbuapcd.org/" target="_blank" rel="nofollow"
     >www.mbuapcd.org</a
   >.
 </p>

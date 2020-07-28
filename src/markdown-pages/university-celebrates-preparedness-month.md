@@ -53,7 +53,7 @@ date: January 01 2020
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>. Campus visitors must purchase a
+  <a href="https://csumb.edu/map">here</a>. Campus visitors must purchase a
   parking pass from machines located on the parking lots.
 </p>
 <p></p>

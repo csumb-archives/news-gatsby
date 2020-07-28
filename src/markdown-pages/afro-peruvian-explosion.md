@@ -32,13 +32,13 @@ date: January 01 2020
 <p>
   While the concert is free, visitors must purchase a parking permit from a
   machine in the lot. Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here.</a>
+  <a href="https://csumb.edu/map">here.</a>
 </p>
 <p>
   For information or to request disability accommodations, call 582-3673. The
   event is sponsored by Special Events Funding, the College of Arts, Humanities
   and Social Sciences and the Division of Humanities and Communication.
-  <a href="http://hcom.csumb.edu/africana-studies"
+  <a href="https://hcom.csumb.edu/africana-studies"
     >Learn about the Africana Studies concentration at CSUMB.</a
   >
 </p>

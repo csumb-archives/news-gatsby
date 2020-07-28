@@ -14,7 +14,7 @@ date: January 01 2020
   Capstone Festival will feature 11 professional-quality productions spanning a
   range of genres, including comedic and dramatic live-action movies, as well as
   animation, documentary and experimental work produced by students of CSUMB’s
-  <a href="http://tat.csumb.edu/"
+  <a href="https://tat.csumb.edu/"
     >Department of Cinematic Arts and Technology.</a
   >
   The program includes director Tia Beem’s <em>Science Time</em>, a
@@ -65,10 +65,10 @@ date: January 01 2020
 <p>
   The event is co-sponsored by the Monterey Bay Film Society.
   <a
-    href="http://news.csumb.edu/gallery/fall-capstone-festival-presents-screen-gems"
+    href="https://news.csumb.edu/gallery/fall-capstone-festival-presents-screen-gems"
     >See a photo gallery of stills from all 11 films.</a
   >
-  <a href="http://capstonefestival.csumb.edu/"
+  <a href="https://capstonefestival.csumb.edu/"
     >Complete Capstone Festival schedule, including work by students in all
     academic departments, is available here</a
   >.

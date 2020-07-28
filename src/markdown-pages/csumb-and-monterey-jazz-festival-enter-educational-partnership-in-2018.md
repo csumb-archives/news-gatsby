@@ -17,7 +17,7 @@ date: January 01 2020
   that will launch a series of jazz education activities beginning March 5, 2018
   at CSUMB. The partnership will launch with a public program featuring
   world-renowned saxophonist, composer and educator
-  <a href="http://www.tiafuller.com/">Tia Fuller</a> March 5, 2018 at CSUMB’s
+  <a href="https://www.tiafuller.com/">Tia Fuller</a> March 5, 2018 at CSUMB’s
   World Theater.
 </p>
 <p>
@@ -29,7 +29,7 @@ date: January 01 2020
   experience being a side woman on Beyoncé’s world tours and how this experience
   has led to her success in the jazz world as a bandleader, performer,
   businesswoman and professor at the Berklee College of Music. Fuller will be
-  joined by <a href="http://marciechapa.com/">Marcie Chapa</a> who also
+  joined by <a href="https://marciechapa.com/">Marcie Chapa</a> who also
   performed as a touring member of Beyoncé’s ensemble, and is now directing the
   band and drumline at North Monterey County High School.
 </p>
@@ -48,7 +48,7 @@ date: January 01 2020
 </p>
 <p>
   See more at the
-  <a href="http://www.montereyjazzfestival.org/press/020618"
+  <a href="https://www.montereyjazzfestival.org/press/020618"
     >Monterey Jazz Festival news page.</a
   >
 </p>

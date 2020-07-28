@@ -14,7 +14,7 @@ slug: science-illustrated
 to be a million years older than the ones that roamed Europe and
 Asia in the ice age.<br>
 <br>
-<img alt="Naylor&apos;s illustration of a woolly rhinoceros" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/06obox1-articleinline_0.jpg" style="float:right; width:190px; height:246px">A graduate of CSU
+<img alt="Naylor&apos;s illustration of a woolly rhinoceros" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/06obox1-articleinline_0.jpg" style="float:right; width:190px; height:246px">A graduate of CSU
 Monterey Bay&#x2019;s Science Illustration program is helping to bring
 that discovery to the world.</img></br></br></p>
 <p>Julie Naylor, who earned a certificate from the program in 2011,
@@ -70,10 +70,10 @@ experience,&#x201D; Naylor said. &#x201C;I can&#x2019;t recall a year where I&#x
 as much as I did this year.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 <p>&#x201C;I would absolutely recommend this program to others.&#x201D;<br>
 <br>
-To learn more about the program, click <a href="http://scienceillustration.org/" rel="nofollow">here</a>. To see
-more of Naylor&apos;s work, visit her <a href="http://jnaylorillustration.com" rel="nofollow">website</a>.<br>
+To learn more about the program, click <a href="https://scienceillustration.org/" rel="nofollow">here</a>. To see
+more of Naylor&apos;s work, visit her <a href="https://jnaylorillustration.com" rel="nofollow">website</a>.<br>
 <br>
-Read The New York Times story&#xA0;<a href="http://www.nytimes.com/2011/09/06/science/06rhino.html?emc=eta1" rel="nofollow">here</a>.</br></br></br></br></p>
+Read The New York Times story&#xA0;<a href="https://www.nytimes.com/2011/09/06/science/06rhino.html?emc=eta1" rel="nofollow">here</a>.</br></br></br></br></p>
 <p class="small">&#xA0;</p>
 <p class="small"><em>Photo courtesy of Julie Naylor, taken at the
 Santa Monica Pier Aquarium where several of her works were on

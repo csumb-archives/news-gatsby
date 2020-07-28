@@ -9,7 +9,7 @@ date: January 01 2020
   <strong>SEASIDE, Ca., Nov. 18, 2016 &#45;&#45;</strong> California State
   University Monterey Bay &#40;CSUMB&#41; is one of four CSU campuses to be
   awarded a two&#45;year, $1.28 million grant from the
-  <a href="http://www.cde.ca.gov/pd/ps/itqsahe.asp"
+  <a href="https://www.cde.ca.gov/pd/ps/itqsahe.asp"
     >California Mathematics Readiness Challenge Initiative &#40;CMRCI&#41;.</a
   >
   Administered by the California Department of Education, the grant has enabled

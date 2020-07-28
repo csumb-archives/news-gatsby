@@ -12,7 +12,7 @@ slug: accounting-students-earn-scholarships
 <p>The San Jose-Silicon Valley Chapter of the California Society of
 Certified Public Accountants has awarded scholarships to a pair of
 CSU Monterey Bay students.</p>
-<p><img alt="CSUMB students accept scholarships at CalCPA event" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/calcpa_event_0.jpg" style="float:left; width:250px; height:114px">Paul Fuller, a
+<p><img alt="CSUMB students accept scholarships at CalCPA event" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/calcpa_event_0.jpg" style="float:left; width:250px; height:114px">Paul Fuller, a
 senior, and John McGoldrick, a junior, were presented CalCPA
 scholarships at an event on Jan. 26. Both are business students in
 the accounting concentration. They were selected as the

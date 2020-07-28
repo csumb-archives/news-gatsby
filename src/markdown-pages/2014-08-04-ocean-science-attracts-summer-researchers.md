@@ -16,7 +16,7 @@ Bay has to offer.<br>
 The bay and the National Marine Sanctuary &#x2013; and the research
 institutions that surround them &#x2013; are hard to beat for anyone
 interested in studying ocean science.</br></br></p>
-<p><img alt="REU participants on Monterey Bay" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/taylor_eddy.jpg" style="width:400px; height:300px; float:right">Taylor Eddy, a
+<p><img alt="REU participants on Monterey Bay" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/taylor_eddy.jpg" style="width:400px; height:300px; float:right">Taylor Eddy, a
 senior marine science major from Concord, is the only CSUMB student
 among the 11 who are participating this summer in the REU based on
 campus. One student is from Hartnell College in Salinas, the other
@@ -50,8 +50,8 @@ scuba diving. CSUMB has a great program in an amazing area.&#x201D;</p>
 <p>She plans to apply to graduate school in marine ecology and is
 looking into internships.<br>
 <br>
-<a href="http://www.facebook.com/pages/Monterey-Bay-Regional-Ocean-Science-Research-Experiences-for-Undergraduates/289392764542256" rel="nofollow">Follow the REU on Facebook</a></br></br></p>
-<p><a href="http://reu.csumb.edu" rel="nofollow">Learn more about
+<a href="https://www.facebook.com/pages/Monterey-Bay-Regional-Ocean-Science-Research-Experiences-for-Undergraduates/289392764542256" rel="nofollow">Follow the REU on Facebook</a></br></br></p>
+<p><a href="https://reu.csumb.edu" rel="nofollow">Learn more about
 the REU at Cal State Monterey Bay</a></p>
 <p class="small"><em>Photo<br>
 (left to right): Danielle Perry, Bryce Melzer and Taylor Eddy. All

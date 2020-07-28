@@ -9,7 +9,7 @@ slug: students-take-top-honors-at-sacnas
 
 
 <span class="date">Posted on Oct 23, 2014    </span>
-<p><img alt="Four students with CSUMB ties won top honors at SACNAS" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/4_winners.jpg" style="width:550px; height:413px; float:left">CSU Monterey Bay
+<p><img alt="Four students with CSUMB ties won top honors at SACNAS" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/4_winners.jpg" style="width:550px; height:413px; float:left">CSU Monterey Bay
 students took a first-place award and two seconds at the recent
 conference of the Society for the Advancement of Chicanos and
 Native Americans in Science.</img></p>
@@ -57,16 +57,16 @@ said Dr. Corey Garza, associate professor in the Division of
 Science and Environmental Policy, director of the Monterey Bay
 Regional Ocean Science REU and the university&#x2019;s SACNAS chapter
 adviser.</p>
-<p><a href="http://sacnas.org" rel="nofollow">Learn more about
+<p><a href="https://sacnas.org" rel="nofollow">Learn more about
 SACNAS</a></p>
-<p>Learn about the <a href="http://uroc.csumb.edu/mcnair" rel="nofollow">McNair Scholars</a> program and CSUMB&#x2019;s <a href="http://uroc.csumb.edu" rel="nofollow">Undergraduate Research
+<p>Learn about the <a href="https://uroc.csumb.edu/mcnair" rel="nofollow">McNair Scholars</a> program and CSUMB&#x2019;s <a href="https://uroc.csumb.edu" rel="nofollow">Undergraduate Research
 Opportunities Center</a></p>
-<p>Learn more about the <a href="http://reu.csumb.edu" rel="nofollow">Ocean Science REU</a> at CSUMB</p>
+<p>Learn more about the <a href="https://reu.csumb.edu" rel="nofollow">Ocean Science REU</a> at CSUMB</p>
 <p class="small"><em>Photos courtesy of Dr. Garza<br>
 Top, left to right: Alison Aceves, Briana Becerra, Emily King and
 Danielle Perry<br>
 Bottom: CSUMB&apos;s contingent at the SACNAS conference</br></br></em></p>
-<p><img alt="CSUMB&apos;s contingent at the SACNAS conference" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/group_shot_0.jpg" style="width:550px; height:413px; float:left"/></p>
+<p><img alt="CSUMB&apos;s contingent at the SACNAS conference" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/group_shot_0.jpg" style="width:550px; height:413px; float:left"/></p>
 
 
 

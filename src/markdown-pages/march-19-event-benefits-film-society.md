@@ -59,7 +59,7 @@ date: January 01 2020
 <p>
   More information is available online at
   <a
-    href="http://www.montereybayfilmsociety.org"
+    href="https://www.montereybayfilmsociety.org"
     title="www.montereybayfilmsociety.org"
     >www.montereybayfilmsociety.org</a
   >
@@ -71,7 +71,7 @@ date: January 01 2020
   admission; $100 VIP seating and reception. Can be purchased by calling the box
   office at 620-2048 Information: Online at
   <a
-    href="http://www.montereybayfilmsociety.org"
+    href="https://www.montereybayfilmsociety.org"
     title="www.montereybayfilmsociety.org"
     >www.montereybayfilmsociety.org</a
   >

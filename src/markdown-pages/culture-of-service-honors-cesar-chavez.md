@@ -32,7 +32,7 @@ date: January 01 2020
 </p>
 <p>
   Registration, contest rules and point system can be found
-  <a href="http://service.csumb.edu/cesar-chavez-challenge">here</a>. Volunteer
+  <a href="https://service.csumb.edu/cesar-chavez-challenge">here</a>. Volunteer
   opportunities on or around Cesar Chavez Day include: • The Comics for Kids
   fundraiser for the Boys and Girls Clubs of Monterey County, March 27-31
 </p>
@@ -40,14 +40,14 @@ date: January 01 2020
   • The PURSUIT Youth Expo at the University Center ballroom, April 13.
   Mandatory volunteer training, March 31 • The 30-Hour Famine, sponsored by the
   Otter Christian Fellowship, March 30 and 31 •
-  <a href="http://ron.csumb.edu/">Return of the Natives</a> clean-up effort,
+  <a href="https://ron.csumb.edu/">Return of the Natives</a> clean-up effort,
   March 31
 </p>
 <p>
   For information on the above opportunities, click
-  <a href="http://service.csumb.edu/purposeful-service-opportunities">here</a>.
+  <a href="https://service.csumb.edu/purposeful-service-opportunities">here</a>.
   To learn more about CSUMB's Service Learning Institute, click
-  <a href="http://service.csumb.edu">here.</a>
+  <a href="https://service.csumb.edu">here.</a>
 </p>
 <p>
   <em

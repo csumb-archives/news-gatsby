@@ -15,7 +15,7 @@ told</h3>
 of California State University, Monterey Bay to help end the
 partisan gridlock that is paralyzing the nation&apos;s political
 system.</p>
-<p><img alt="Keynote speaker Dr. Alice Rivlin" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/alice_rivlin.jpg" style="float:right; width:300px; height:200px">Dr. Rivlin, an
+<p><img alt="Keynote speaker Dr. Alice Rivlin" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/alice_rivlin.jpg" style="float:right; width:300px; height:200px">Dr. Rivlin, an
 economist, member of President Obama&apos;s National Commission on
 Fiscal Responsibility and Reform, and a senior fellow at the
 Brookings Institution, was the keynote speaker at the university&#x2019;s
@@ -44,7 +44,7 @@ important.<br>
 &#x201C;All of these challenges are manageable. But polarized politics and
 gridlock are preventing us from managing them,&#x201D; she said.<br>
 <br>
-<img alt="President Dianne Harrison conferred degrees on more than 1,120 grads" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/pres._harrison.jpg" style="float:left; width:300px; height:200px">She challenged the
+<img alt="President Dianne Harrison conferred degrees on more than 1,120 grads" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/pres._harrison.jpg" style="float:left; width:300px; height:200px">She challenged the
 graduates to help solve the problem.<br>
 <br>
 &#x201C;I think you can do a lot,&#x201D; she said. &#x201C;Changing the tone of
@@ -68,7 +68,7 @@ The ceremony opened with the traditional welcome in Spanish,
 Japanese, Chinese and Vietnamese, delivered by members of the
 faculty.<br>
 <br>
-<img alt="Grads celebrate with silly string" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/silly_string.jpg" style="float:left; width:400px; height:267px">In her remarks,
+<img alt="Grads celebrate with silly string" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/silly_string.jpg" style="float:left; width:400px; height:267px">In her remarks,
 President Harrison pointed out that the graduating class &quot;boasts an
 amazing pool of talent. They arrive at this day with a diverse
 array of experiences, and from a wide range of backgrounds,&#x201D; she
@@ -104,8 +104,8 @@ To see more photos, click <a href="../../../../gallery/thousands-celebrate-2012-
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/38YYgkK1XiM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/38YYgkK1XiM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/38YYgkK1XiM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/38YYgkK1XiM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -116,7 +116,7 @@ To see more photos, click <a href="../../../../gallery/thousands-celebrate-2012-
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r5---sn-o097znee.googlevideo.com/videoplayback?source=youtube&amp;mm=31&amp;itag=18&amp;key=yt5&amp;ipbits=0&amp;ratebypass=yes&amp;expire=1422346023&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;ip=198.189.249.65&amp;mt=1422324392&amp;signature=D615A5F9E96FF333EEC2355DB79D977F7F0FAFF8.4CC1F79F00BAA0E12998E3259D25BEA33D52F401&amp;pl=23&amp;id=o-ABKdoSSId7WIzZ7v2z8YwxSTXLzgTzzRPSkoK99uOKlF&amp;dur=596.961&amp;sver=3&amp;initcwndbps=3966250&amp;mv=m&amp;upn=Ac-B13yrNC0&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ms=au&amp;name=38YYgkK1XiM" type="video/mp4"/></video></div>
+<source src="https://r5---sn-o097znee.googlevideo.com/videoplayback?source=youtube&amp;mm=31&amp;itag=18&amp;key=yt5&amp;ipbits=0&amp;ratebypass=yes&amp;expire=1422346023&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;ip=198.189.249.65&amp;mt=1422324392&amp;signature=D615A5F9E96FF333EEC2355DB79D977F7F0FAFF8.4CC1F79F00BAA0E12998E3259D25BEA33D52F401&amp;pl=23&amp;id=o-ABKdoSSId7WIzZ7v2z8YwxSTXLzgTzzRPSkoK99uOKlF&amp;dur=596.961&amp;sver=3&amp;initcwndbps=3966250&amp;mv=m&amp;upn=Ac-B13yrNC0&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ms=au&amp;name=38YYgkK1XiM" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

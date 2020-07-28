@@ -13,7 +13,7 @@ slug: group-of-cool-cats-bring-their-doowop-style-to-csumb
 present a tribute to the greatest hits of the 1950s and &#x2019;60s when
 The Alley Cats perform on Oct. 20.</p>
 <p>Showtime is 7:30 p.m.</p>
-<p><img alt="The Alley Cats visit campus Oct. 20" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/alleycats1.jpg" style="float:left; width:419px; height:238px">By bringing their
+<p><img alt="The Alley Cats visit campus Oct. 20" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/alleycats1.jpg" style="float:left; width:419px; height:238px">By bringing their
 own contemporary style to tunes from that era, The Alley Cats
 appeal to fans of all ages, breathing new life into everyone&apos;s
 favorite doo-wop classics.</img></p>
@@ -40,7 +40,7 @@ White House.</p>
 for students and seniors. Tickets can be purchased online at
 csumb.edu/worldtheater or by calling the box office at
 582-4580.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.<br>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.<br>
 <br>
 &#xA0;</br></br></p>
 

@@ -47,7 +47,7 @@ date: January 01 2020
   week,” Wood said.
 </p>
 <p>
-  <a href="http://www.campsealab.org">Learn more about Camp SEA Lab</a
+  <a href="https://www.campsealab.org">Learn more about Camp SEA Lab</a
   ><em>This video was made by camp participants in 2011</em>
 </p>
 <p></p>

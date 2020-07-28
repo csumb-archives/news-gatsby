@@ -28,7 +28,7 @@ date: January 01 2020
 </p>
 <p>
   A list of volunteer opportunities for the day can be found
-  <a href="http://service.csumb.edu/911-national-day-service">here</a>.
+  <a href="https://service.csumb.edu/911-national-day-service">here</a>.
 </p>
 <p>
   After a day of memorials, service and programs, a town hall was held from 6:30

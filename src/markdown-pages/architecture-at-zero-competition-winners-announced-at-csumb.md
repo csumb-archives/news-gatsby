@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   SEASIDE, Ca., March 1, 2019 – The American Institute of Architects, California
   (AIACA) announced the winners of the eighth annual
-  <a href="http://www.architectureatzero.com/">Architecture at Zero</a>
+  <a href="https://www.architectureatzero.com/">Architecture at Zero</a>
   competition for zero net energy (ZNE) today at CSUMB's Alumni and Visitor
   Center. The competition was open for entries from students and professionals
   worldwide.

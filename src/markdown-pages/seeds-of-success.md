@@ -13,7 +13,7 @@ date: January 01 2020
 <p>
   Heather Cunningham is working to set up a seed library at the Monterey Public
   Library as part of the graduation requirements for her degree in
-  <a href="http://sep.csumb.edu/es/">Environmental Studies.</a>
+  <a href="https://sep.csumb.edu/es/">Environmental Studies.</a>
 </p>
 <p>
   Cunningham points out that the idea is taking root across the country, with
@@ -66,7 +66,7 @@ date: January 01 2020
   experience that process."
 </p>
 <p>
-  <a href="http://sep.csumb.edu/es/"
+  <a href="https://sep.csumb.edu/es/"
     >Learn more about the Environmental Studies program at CSUMB</a
   >.
 </p>

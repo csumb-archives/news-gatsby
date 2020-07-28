@@ -93,7 +93,7 @@ slug: csumb-pledges-to-be-carbon-neutral-by-2030
   The American College and University Presidents&apos; Climate Commitment
   (ACUPCC), which began in 2007, is a network of
   <a
-    href="http://www.presidentsclimatecommitment.org/signatories/list"
+    href="https://www.presidentsclimatecommitment.org/signatories/list"
     rel="nofollow"
     >650 signatory schools</a
   >
@@ -128,13 +128,13 @@ slug: csumb-pledges-to-be-carbon-neutral-by-2030
   submitted their greenhouse gas inventories, the first step to determining and
   reducing their carbon footprint. CSUMB submitted its greenhouse gas inventory
   on Sept. 15, 2008. It can be found at
-  <a href="http://acupcc.aashe.org/ghg-report.php?id=370" rel="nofollow"
-    >http://acupcc.aashe.org/ghg-report.php?id=370</a
+  <a href="https://acupcc.aashe.org/ghg-report.php?id=370" rel="nofollow"
+    >https://acupcc.aashe.org/ghg-report.php?id=370</a
   >.
 </p>
 <p>
   To read more about CSUMB&apos;s efforts to go green, visit the web at
-  <a href="http://csumb.edu/green" rel="nofollow">http://csumb.edu/green</a>.
+  <a href="https://csumb.edu/green" rel="nofollow">https://csumb.edu/green</a>.
 </p>
 <p>&#xA0;</p>
 <p>&#xA0;</p>

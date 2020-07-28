@@ -39,7 +39,7 @@ date: January 01 2020
 <p>
   CSUMB has recently received a
   <a
-    href="http://news.csumb.edu/news/2014/jun/26/camp-grant-helps-migrant-students-attain-college-dream"
+    href="https://news.csumb.edu/news/2014/jun/26/camp-grant-helps-migrant-students-attain-college-dream"
     >$2.1 million grant</a
   >
   from the U.S. Department of Education to offer the program for five more
@@ -63,7 +63,7 @@ date: January 01 2020
 </p>
 <p>
   Learn more about the
-  <a href="http://eosp.csumb.edu/college-assistance-migrant-program"
+  <a href="https://eosp.csumb.edu/college-assistance-migrant-program"
     >CAMP program at CSUMB</a
   >.
 </p>
@@ -71,7 +71,7 @@ date: January 01 2020
   <em
     >Earlier story:
     <a
-      href="http://news.csumb.edu/news/2011/jul/28/migrant-program-earns-national-recognition"
+      href="https://news.csumb.edu/news/2011/jul/28/migrant-program-earns-national-recognition"
       >Migrant program earns national recognition</a
     ></em
   >

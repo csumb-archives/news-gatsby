@@ -23,10 +23,10 @@ date: January 01 2020
   The public is invited to this free presentation, which will start at 6 p.m. in
   the Painting Studio (Bldg. 72), located on Inter-Garrison Road near the
   intersection with Fifth Avenue. Driving directions and a campus map can be
-  found <a href="http://csumb.edu/maps">here</a>.
+  found <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   Please note that visitors must purchase a parking permit. Permits can be
-  purchased <a href="http://parking.csumb.edu/buy-permit">online</a>.
+  purchased <a href="https://parking.csumb.edu/buy-permit">online</a>.
 </p>
 ```

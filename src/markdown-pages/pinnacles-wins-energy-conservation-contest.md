@@ -74,7 +74,7 @@ date: January 01 2020
 </p>
 <p>
   Learn more about sustainability on campus
-  <a href="http://csumb.edu/sustainability.">here</a>.
+  <a href="https://csumb.edu/sustainability.">here</a>.
   <em
     >Photo: Tamara Rodriguez and her sculpture that will be presented to the
     winning residence hall. Also pictured, Dr. Dan Fernandez, co-chair of the

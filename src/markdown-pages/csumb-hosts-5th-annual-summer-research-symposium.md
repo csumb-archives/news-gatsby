@@ -15,10 +15,10 @@ date: January 01 2020
   >
   on Friday, August 10<b>. </b>The symposium included student research
   presentations from CSUMB’s Undergraduate Research Opportunities Center (<a
-    href="http://csumb.edu/uroc"
+    href="https://csumb.edu/uroc"
     >UROC</a
   >), Monterey Bay Regional Ocean Sciences Research Experiences for
-  Undergraduates (<a href="http://csumb.edu/reu">REU</a>) Program and the Naval
+  Undergraduates (<a href="https://csumb.edu/reu">REU</a>) Program and the Naval
   Postgraduate School Internship Program (NPS) that includes students from
   Hartnell College and Monterey Peninsula College.
 </p>

@@ -15,7 +15,7 @@ slug: alcohol-awareness-week-at-csumb
 University, Monterey Bay will join with their peers on more than
 1,000 campuses across the country to promote National Collegiate
 Alcohol Awareness Week (NCAAW).&#xA0;</p>
-<p><img alt="ichoose" height="214" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/iChooseScreen_000.jpg" style="float:left" width="250">During the week, students will
+<p><img alt="ichoose" height="214" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/iChooseScreen_000.jpg" style="float:left" width="250">During the week, students will
 have the opportunity to participate in a variety of events, all
 designed to reinforce personal responsibility and respect for state
 laws and campus policies when it comes to the consumption of

@@ -40,15 +40,15 @@ immigration status impacts access to health care.</p>
 research showing the percentage of undocumented immigrants who
 would benefit from the Affordable Care Act if not for their
 immigration status.</p>
-<p><a href="http://kinesiology.csumb.edu" rel="nofollow">Learn
+<p><a href="https://kinesiology.csumb.edu" rel="nofollow">Learn
 about kinesiology at CSUMB</a></p>
-<p class="small"><a href="http://hhspp.csumb.edu/collaborative-health-human-services-major" rel="nofollow">Learn about collaborative health and human
+<p class="small"><a href="https://hhspp.csumb.edu/collaborative-health-human-services-major" rel="nofollow">Learn about collaborative health and human
 services</a><br>
 <br>
 <em>Left to right: Jade Fackler, Gabriela Guzman, Monica Nicholas,
 Dean Britt Rios-Ellis, Congressman Jim Clyburn, Kendra
 Contente</em></br></br></p>
-<p><img alt="CSUMB students, Dean Britt Rios-Ellis at health conference" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/health_disparities_for_web.jpg" style="float:left; width:550px; height:323px"><br>
+<p><img alt="CSUMB students, Dean Britt Rios-Ellis at health conference" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/health_disparities_for_web.jpg" style="float:left; width:550px; height:323px"><br>
 &#xA0;</br></img></p>
 
 

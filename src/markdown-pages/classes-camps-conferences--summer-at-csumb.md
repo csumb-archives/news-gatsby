@@ -12,9 +12,9 @@ date: January 01 2020
   appearance fool you – there’s really a lot going on.
 </p>
 <p>
-  <a href="http://blogs.calstate.edu/summerarts/">CSU Summer Arts</a> returns to
+  <a href="https://blogs.calstate.edu/summerarts/">CSU Summer Arts</a> returns to
   campus with a lineup of 17 classes and 30
-  <a href="http://blogs.calstate.edu/summerarts/index.php/events/"
+  <a href="https://blogs.calstate.edu/summerarts/index.php/events/"
     >public events</a
   >.
 </p>
@@ -62,7 +62,7 @@ date: January 01 2020
   The sports&#45;minded set – from youngsters to young adults – will be on
   campus attending baseball, softball, volleyball, basketball, water polo and
   soccer
-  <a href="http://otterathletics.com/sports/2007/8/7/camps.aspx">camps</a>.
+  <a href="https://otterathletics.com/sports/2007/8/7/camps.aspx">camps</a>.
 </p>
 <p>
   The
@@ -99,7 +99,7 @@ date: January 01 2020
   Also serving university students is the Panetta Institute for Public Policy’s
   annual weeklong
   <a
-    href="http://www.panettainstitute.org/programs/study&#45;with&#45;us/student&#45;leadership&#45;training/"
+    href="https://www.panettainstitute.org/programs/study&#45;with&#45;us/student&#45;leadership&#45;training/"
     >leadership seminar</a
   >. Student body presidents and other elected student leaders from California
   State University campuses, Dominican University of California, Saint Mary’s

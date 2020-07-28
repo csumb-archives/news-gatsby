@@ -9,7 +9,7 @@ slug: innovation-and-big-data
 
 
 <span class="date">Posted on Nov 04, 2014    </span>
-<p><img alt="iiED logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/iied_for_web.jpg" style="width:250px; height:322px; float:left">Each month during
+<p><img alt="iiED logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/iied_for_web.jpg" style="width:250px; height:322px; float:left">Each month during
 the school year, CSU Monterey Bay&#x2019;s Institute for Innovation and
 Economic Development sponsors an informal event that brings
 together faculty, staff, students and community members to discuss
@@ -34,7 +34,7 @@ institute focuses on the need for more job opportunities in the
 region and for the university&#x2019;s graduates. It offers programs that
 help to develop entrepreneurs, and supports innovative ideas that
 lead to new business opportunities.</p>
-<p>For more information,&#xA0;<a href="http://innovation.csumb.edu" rel="nofollow">click here</a><br>
+<p>For more information,&#xA0;<a href="https://innovation.csumb.edu" rel="nofollow">click here</a><br>
 &#xA0;</br></p>
 
 

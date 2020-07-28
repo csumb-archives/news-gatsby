@@ -16,7 +16,7 @@ slug: a-call-to-public-service
 Affairs,<br>
 U.S. Department of the Interior</br></strong><br>
 <br>
-<img alt="Steven Avila" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/steven_avila.jpg" style="width:550px; height:393px; float:left">When I transferred
+<img alt="Steven Avila" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/steven_avila.jpg" style="width:550px; height:393px; float:left">When I transferred
 from community college to CSU Monterey Bay in 2009, I thought I
 knew what I wanted to do with my life: I would study business,
 graduate and move up to Silicon Valley or New York to pursue a life
@@ -41,7 +41,7 @@ my life. Working on Capitol Hill, living in Washington and being
 surrounded by the most dedicated, hard-working people I had ever
 met confirmed to me that I had to dedicate my life to public
 service.</br></br></br></br></br></br></br></br></img></br></br></br></br></p>
-<p><a href="http://blogs.calstate.edu/voicesviews/?p=1905" rel="nofollow">Continue reading . . . .</a></p>
+<p><a href="https://blogs.calstate.edu/voicesviews/?p=1905" rel="nofollow">Continue reading . . . .</a></p>
 <p><a href="../../../2010/jul/22/csumb-student-headed-nations-capital.html" rel="nofollow">Read an earlier story about Avila</a><br>
 &#xA0;</br></p>
 <p><br>

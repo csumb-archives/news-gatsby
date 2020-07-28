@@ -11,7 +11,7 @@ date: January 01 2020
   celebration continues. His presentation will take place at 8 p.m. in the Black
   Box Cabaret, located on Inter-Garrison Road near Fourth Ave., next to the
   Health and Wellness Services building. Driving directions and a campus map are
-  available <a href="http://csumb.edu/maps">here</a>. Gómez is the author of
+  available <a href="https://csumb.edu/maps">here</a>. Gómez is the author of
   <em>Man Up: Cracking the Code of Modern Manhood,</em> a powerful coming-of-age
   memoir that re-imagines masculinity for the 21st-century male. A former social
   worker and New York City public school teacher, he co-starred in Spike Lee’s

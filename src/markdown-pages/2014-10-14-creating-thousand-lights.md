@@ -14,7 +14,7 @@ slug: creating-a-thousand-lights
 holding candle-lighting events this month to send a message of
 support, understanding and comfort to those who have been impacted
 by suicide or other mental health-related challenges.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/candle.jpg" style="float:left; width:240px; height:159px">The community is
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/candle.jpg" style="float:left; width:240px; height:159px">The community is
 invited to attend Cal State Monterey Bay&#x2019;s event from 7 to 9 p.m.,
 Oct. 14, on the campus quad. It will be an opportunity to light a
 candle, write a message, pick up information and help to create a

@@ -11,7 +11,7 @@ date: January 01 2020
   highlights of the creative and socially aware professors, students, and
   programs in the college. The latest U Stories feature the Day of the Dead
   celebration and the musical methods of choral professor Paulette Gissendanner.
-  <a href="http://csumb.edu/site/x18671.xml">Check out 'U Stories' here</a>.
+  <a href="https://csumb.edu/site/x18671.xml">Check out 'U Stories' here</a>.
 </p>
 <p>
   &#42;Spotlight on Staff&#42;World Theater director is
@@ -27,7 +27,7 @@ date: January 01 2020
   retiring earlier this year, he was the department's deputy director,
   responsible for managing about 1,400 employees, a $60 million operating budget
   and a $500 million capital budget.
-  <a href="http://news.csumb.edu/site/x21008.xml">Read more about Joe here</a>.
+  <a href="https://news.csumb.edu/site/x21008.xml">Read more about Joe here</a>.
 </p>
 <p>
   &#42;Spotlight on Alumni&#42;Crystal Costa: Ready for prime time&#42;&#42;
@@ -46,7 +46,7 @@ date: January 01 2020
   choices and decide what I should do as a career. That's when I finally
   realized that news reporting is perfect for me," says Crystal. To read more
   about Crystal,
-  <a href="http://news.csumb.edu/site/x21007.xml%20">click here</a>.
+  <a href="https://news.csumb.edu/site/x21007.xml%20">click here</a>.
 </p>
 <p>
   <strong>The holiday season, CSUMB styleUPD sponsors toy drive</strong> The
@@ -106,7 +106,7 @@ date: January 01 2020
   not receive spam. Privacy is protected, and only campus administrators and
   members of the University Police Department can originate the messages. To
   read more,
-  <a href="http://news.csumb.edu/site/x20695.xml%20"
+  <a href="https://news.csumb.edu/site/x20695.xml%20"
     >Read more about OTTERalert here</a
   >.
 </p>
@@ -154,7 +154,7 @@ date: January 01 2020
 <p>
   Our campus is under construction. Please be cautious around construction
   areas. We invite you to view this
-  <a href="http://cdo.csumb.edu/site/x4929.xml%20">short slide show</a> created
+  <a href="https://cdo.csumb.edu/site/x4929.xml%20">short slide show</a> created
   with yoursafety in mind.
 </p>
 <p>
@@ -217,6 +217,6 @@ date: January 01 2020
 </p>
 <p>
   For campus news, activities and events, please visit our
-  <a href="http://www.csumb.edu/news%20">news website</a>.
+  <a href="https://www.csumb.edu/news%20">news website</a>.
 </p>
 ```

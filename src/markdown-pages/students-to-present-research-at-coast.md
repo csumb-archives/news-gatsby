@@ -45,7 +45,7 @@ date: January 01 2020
   The purpose of the event is to provide a measure of the excellence and
   relevance of marine and coastal research conducted within the CSU system. For
   more about COAST, visit
-  <a href="http://www.calstate.edu/coast" title="www.calstate.edu/coast"
+  <a href="https://www.calstate.edu/coast" title="www.calstate.edu/coast"
     >www.calstate.edu/coast</a
   >.
 </p>

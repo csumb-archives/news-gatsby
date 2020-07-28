@@ -48,7 +48,7 @@ Watershed<br>
 &#x2022; CSUMB graduates and current students who are making their way to
 place-relevant sustainable careers.<br>
 <br>
-For more information, <a href="http://csumb.edu/focus" rel="nofollow">click here</a><br>
+For more information, <a href="https://csumb.edu/focus" rel="nofollow">click here</a><br>
 &#xA0;</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 
 

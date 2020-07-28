@@ -17,7 +17,7 @@ businesses or people who are trying to start them.</p>
 aspiring and existing business owners to achieve their goals,&#x201D; said
 Andrea Nield, the center&#x2019;s associate director. &#x201C;The grant allows
 the SBDC to maximize the efforts of the whole team.&#x201D;</p>
-<p><img alt="Wells Fargo representatives present donation check to CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wells_fargo_donation.jpg" style="float:left; width:400px; height:232px">The center, which
+<p><img alt="Wells Fargo representatives present donation check to CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wells_fargo_donation.jpg" style="float:left; width:400px; height:232px">The center, which
 opened in the fall of 2009, is located in a storefront in Gonzales
 and has other offices in areas it serves along the Highway 101
 corridor from Gilroy to King City. It provides critical services to
@@ -55,7 +55,7 @@ project cash flow, determine technology needs and provide a variety
 of other services helpful to small businesses. In addition to the
 free one-on-one consulting, the center offers a variety of
 workshops and seminars. For information in English or Spanish,
-click <a href="http://csumbsbdc.webuda.com/" rel="nofollow">here</a>.&#xA0;</br></p>
+click <a href="https://csumbsbdc.webuda.com/" rel="nofollow">here</a>.&#xA0;</br></p>
 <p class="small"><em>Photo by Kevin Garcia, CSUMB<br>
 Left to right: Diane Howerton, regional director, UC Merced SBDC
 regional network; Brian Simmons, dean of the College of

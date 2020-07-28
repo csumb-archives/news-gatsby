@@ -95,9 +95,9 @@ date: January 01 2020
 <p>
   To view the NOVA series, "The Elegant Universe," visit
   <a
-    href="http://www.pbs.org/wgbh/nova/elegant/program.html"
-    title="http://www.pbs.org/wgbh/nova/elegant/program.html"
-    >http://www.pbs.org/wgbh/nova/elegant/program.html</a
+    href="https://www.pbs.org/wgbh/nova/elegant/program.html"
+    title="https://www.pbs.org/wgbh/nova/elegant/program.html"
+    >https://www.pbs.org/wgbh/nova/elegant/program.html</a
   >
   “Willful ignorance of science is not okay. We are living through a radical
   cultural shift, one in which science and technology play an increasingly

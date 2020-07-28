@@ -9,7 +9,7 @@ slug: aspiring-math-teacher-earns-csu-award
 
 
 <span class="date">Posted on Sep 10, 2014    </span>
-<p><img alt="Jesus Ochoa Perez" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jesus_psedit.jpg" style="float:left; width:300px; height:453px">Cal State Monterey
+<p><img alt="Jesus Ochoa Perez" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jesus_psedit.jpg" style="float:left; width:300px; height:453px">Cal State Monterey
 Bay sophomore Jesus Ochoa Perez has been chosen for a CSU Trustees&apos;
 Award for Outstanding Achievement. He and the other award winners
 will be honored on Sept. 9 at the CSU board meeting in Long
@@ -54,14 +54,14 @@ other supporters of the university has allowed the program to
 expand.</p>
 <p>CSU Trustees&#x2019; Scholars are nominated by their campus
 presidents.</p>
-<p><a href="http://www.calstate.edu/foundation/trusteesawards" rel="nofollow">More information on the CSU Trustees Award
+<p><a href="https://www.calstate.edu/foundation/trusteesawards" rel="nofollow">More information on the CSU Trustees Award
 program</a></p>
 <p><em>Photos<br>
 Above: Jesus Ochoa Perez by Jeff Lewis<br>
 Below: CSU Chancellor Timothy White (left) and CSUMB President
 Eduardo Ochoa with Jesus at the awards reception in Long Beach on
 Sept. 9. Photo courtesy of the CSU</br></br></em></p>
-<p><img alt="Chancellor Timothy White, Jesus, and President Ochoa" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jesus_with_chancellor_white.jpg" style="float:left; width:550px; height:393px"/></p>
+<p><img alt="Chancellor Timothy White, Jesus, and President Ochoa" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jesus_with_chancellor_white.jpg" style="float:left; width:550px; height:393px"/></p>
 
 
 

@@ -49,9 +49,9 @@ date: January 01 2020
 <p>
   Smith was joined by students from
   <a href="https://www.vanderbilt.edu/">Vanderbilt University</a> and
-  <a href="http://www.northwestern.edu/">Northwestern University</a>. They were
+  <a href="https://www.northwestern.edu/">Northwestern University</a>. They were
   led by
-  <a href="http://www.vanderbilt.edu/anthro/tung/">Dr. Tiffiny Tung</a> of
+  <a href="https://www.vanderbilt.edu/anthro/tung/">Dr. Tiffiny Tung</a> of
   Vanderbilt, author of “Violence, Ritual and the Wari Empire.” Smith said
   <a href="https://csumb.edu/directory/person/rumendoza">Dr. Ruben Mendoza</a>
   of CSUMB reached out to his colleague at Vanderbilt to help Smith become part
@@ -60,7 +60,7 @@ date: January 01 2020
 <p>
   Smith said she has been interested in archeological research since she was a
   child going to museums. “I went to
-  <a href="http://www.english-heritage.org.uk/visit/places/stonehenge/"
+  <a href="https://www.english-heritage.org.uk/visit/places/stonehenge/"
     >Stonehenge</a
   >
   and age 10 and I was amazed. Of course, there has been a lot of archeology

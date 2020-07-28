@@ -53,7 +53,7 @@ date: January 01 2020
   write it down on paper, and not worry about what she says.
 </p>
 <p>
-  <a href="http://shs-mpusd-ca.schoolloop.com/imaginecollege"
+  <a href="https://shs-mpusd-ca.schoolloop.com/imaginecollege"
     >Learn more about Imagine College</a
   >
 </p>

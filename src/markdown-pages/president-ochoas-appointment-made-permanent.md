@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <p>
   The California State University Board of Trustees today appointed
-  <a href="http://president.csumb.edu/">Dr. Eduardo M. Ochoa</a> as the
+  <a href="https://president.csumb.edu/">Dr. Eduardo M. Ochoa</a> as the
   permanent president of California State University, Monterey Bay, effective
   immediately. Dr. Ochoa has held the position on an interim basis since July
   2012.
@@ -42,7 +42,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://link.brightcove.com/services/player/bcpid4332064001?bckey=AQ~~,AAAAAGAh49c~,VkJ0Q8OW2TSxorDKSt0_tU-L1iX-gR0H&amp;bctid=2424303648001"
+    href="https://link.brightcove.com/services/player/bcpid4332064001?bckey=AQ~~,AAAAAGAh49c~,VkJ0Q8OW2TSxorDKSt0_tU-L1iX-gR0H&amp;bctid=2424303648001"
     >View a video of President Ochoa talking about his plans for CSUMB.</a
   >
 </p>

@@ -51,9 +51,9 @@ slug: katrina-aftermath
 <p>
   Blancher traveled with a crew of six: friends, professional documentary
   filmmakers, and a freelance journalist. She plans to update her website (<a
-    href="http://www.filmkatrina.com"
+    href="https://www.filmkatrina.com"
     rel="nofollow"
-    >http://www.filmkatrina.com</a
+    >https://www.filmkatrina.com</a
   >) with progress reports.
 </p>
 <p><br /></p>

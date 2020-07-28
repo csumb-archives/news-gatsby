@@ -7,7 +7,7 @@ slug: under-pressure&amp;colon;-54-hours-to-launch-a-business
 ```html
 <span class="date">Posted on Dec 21, 2012 </span>
 
-<h3><img alt="Startup Weekend will be held at CSUMB Jan. 25-27" height="130" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/startup_wide.jpg" width="540"/></h3>
+<h3><img alt="Startup Weekend will be held at CSUMB Jan. 25-27" height="130" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/startup_wide.jpg" width="540"/></h3>
 <h3>CSUMB to host Startup Weekend in January</h3>
 <p>Ever wonder what it takes to be an entrepreneur?&#x2028;&#x2028;CSU Monterey
 Bay will be a great place to find out when the university hosts
@@ -47,9 +47,9 @@ the Small Business Development Center.<br>
 <br>
 Participants must purchase a ticket prior to the event. Before Dec.
 21, tickets are $75 or $39 for college students and include meals,
-snacks and parking. <a href="http://csumb.startupweekend.org." rel="nofollow">Register here</a>.</br></br></br></br></p>
+snacks and parking. <a href="https://csumb.startupweekend.org." rel="nofollow">Register here</a>.</br></br></br></br></p>
 <p>For more information, contact Program Manager Mary Jo Zenk at
-(831) 582-3230 or <a href="mailto:mzenk@csumb.edu">mzenk@csumb.edu</a> or <a href="http://csumb.startupweekend.org" rel="nofollow">click
+(831) 582-3230 or <a href="mailto:mzenk@csumb.edu">mzenk@csumb.edu</a> or <a href="https://csumb.startupweekend.org" rel="nofollow">click
 here</a>.</p>
 <p class="small"><br>
 <em>The Institute for Innovation and Economic Development (iiED)

@@ -47,6 +47,6 @@ date: January 01 2020
 </p>
 <p>
   To read more about Upward Bound at CSUMB, click
-  <a href="http://eosp.csumb.edu/upward-bound">here</a>.
+  <a href="https://eosp.csumb.edu/upward-bound">here</a>.
 </p>
 ```

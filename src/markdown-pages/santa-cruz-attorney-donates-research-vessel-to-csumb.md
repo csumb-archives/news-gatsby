@@ -72,12 +72,12 @@ date: January 01 2020
 <p>
   To read about CSUMB's new degree program in marine science, click
   <a
-    href="http://news.csumb.edu/news/2010/sep/22/new-marine-science-bs-awaits-approval"
+    href="https://news.csumb.edu/news/2010/sep/22/new-marine-science-bs-awaits-approval"
     >here.</a
   >
 </p>
 <p>
   To learn more about the Seafloor Mapping Lab at CSUMB, click
-  <a href="http://seafloor.csumb.edu/">here</a>.
+  <a href="https://seafloor.csumb.edu/">here</a>.
 </p>
 ```

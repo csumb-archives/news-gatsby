@@ -9,7 +9,7 @@ slug: extreme-sport
 
 
 <span class="date">Posted on Oct 08, 2011    </span>
-<h3><img alt=" The Mayan ballgame of life and death" height="338" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ulama-small.jpg" width="550"><br>
+<h3><img alt=" The Mayan ballgame of life and death" height="338" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ulama-small.jpg" width="550"><br>
 <br>
 Mexican film about ancient game to be screened Oct. 12</br></br></img></h3>
 <p>Each Sunday during the fall and winter months, while many
@@ -27,7 +27,7 @@ with the gods; the losers were banished.</p>
 and modern Mexico &#x2013; gained worldwide attention when the documentary
 film &#x201C;Ulama: el juego de la vida y la muerte&#x201D; (Ulama: the Mayan
 ballgame of life and death) was first shown in 1984.</p>
-<p><img alt="Roberto Roch&#xED;n" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/roberto_rochin.jpg" style="float:left; width:214px; height:314px">The film will be
+<p><img alt="Roberto Roch&#xED;n" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/roberto_rochin.jpg" style="float:left; width:214px; height:314px">The film will be
 screened at California State University, Monterey Bay&#x2019;s World
 Theater at 7:30 p.m. on Oct. 12. Director Roberto Roch&#xED;n will be on
 hand to discuss his film and answer questions from the audience.
@@ -52,7 +52,7 @@ machine on the lot next to the theater.</p>
 academic departments, Fremont Gallery and El Teatro Campesino.</p>
 <p>For more information or disability accommodations, call the
 World Theater box office at 582-4580. Driving directions and a
-campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 <p class="small"><em>Photo: Roberto Roch&#xED;n</em><br>
 &#xA0;</br></p>
 

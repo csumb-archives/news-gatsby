@@ -9,7 +9,7 @@ slug: film-commission-scholarship-awarded-to-tat-student
 
 
 <span class="date">Posted on May 13, 2013    </span>
-<p><img alt="Nicholas Fryou" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/nicholasfryou.jpg" style="float:right; width:200px; height:210px">Nicholas Fryou is
+<p><img alt="Nicholas Fryou" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/nicholasfryou.jpg" style="float:right; width:200px; height:210px">Nicholas Fryou is
 this year&#x2019;s recipient of the Monterey County Film Commission&#x2019;s
 student scholarship.</img></p>
 <p>Fryou, a senior at California State University, Monterey Bay
@@ -37,7 +37,7 @@ in the TAT Department as a media specialist &#x2013; was the winner.
 Rachel Asendorf received the award in 2010; Dominic Parisi won it
 in 2011; and Joey Blackburn was last year&#x2019;s winner.<br>
 <br>
-<a href="http://csumb.edu/tat" rel="nofollow">Learn more about the
+<a href="https://csumb.edu/tat" rel="nofollow">Learn more about the
 film program at CSUMB.</a><br>
 <br>
 <em>Photo courtesy of Monterey County Film Commission</em><br>

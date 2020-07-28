@@ -63,7 +63,7 @@ skills, and creativity, but it also teaches them how to listen and
 respond to what they hear, as well as how to manage a
 project.&quot;<br>
 <br>
-To learn more about the design program at CSUMB, <a href="http://itcd.csumb.edu/cd-main.html" rel="nofollow">click
+To learn more about the design program at CSUMB, <a href="https://itcd.csumb.edu/cd-main.html" rel="nofollow">click
 here.</a><br>
 &#xA0;</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 

@@ -58,11 +58,11 @@ date: January 01 2020
 <p>
   The fee for each class is $585. For more information, call (831) 582-4500. To
   download a registration form, click
-  <a href="http://extended.csumb.edu/summer-2011.htm">here</a>.
+  <a href="https://extended.csumb.edu/summer-2011.htm">here</a>.
 </p>
 <p>
   More information on the program is available
-  <a href="http://scienceillustration.org">here</a>.
+  <a href="https://scienceillustration.org">here</a>.
 </p>
 <p>
   At left: Amadeo Bachar Above: Cabezon. <em>Scorpaeichthys marmoratus</em>.

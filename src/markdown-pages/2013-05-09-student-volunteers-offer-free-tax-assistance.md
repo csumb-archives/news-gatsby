@@ -17,7 +17,7 @@ Assistance &#x2013; VITA &#x2013; program may have an answer.<br>
 On March 2, student volunteers from the School of Business will
 provide free assistance with state and federal income tax
 preparation. The service will be provided in Valley Hall, Suite D,
-Room 115, on the university campus. <a href="http://csumb.edu/map" rel="nofollow">Driving directions and a campus map</a>.<br>
+Room 115, on the university campus. <a href="https://csumb.edu/map" rel="nofollow">Driving directions and a campus map</a>.<br>
 <br>
 The VITA program is sponsored by United Way Monterey County. The
 service is available at nine county locations in addition to
@@ -27,7 +27,7 @@ Student volunteers are working at most of those sites. All
 volunteers have completed a training course and have been certified
 by the IRS.<br>
 <br>
-<img alt="Taxes will be filed electronically, expediting the refund" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/income_tax_1_0.jpg" style="float:right; width:300px; height:300px">Families and
+<img alt="Taxes will be filed electronically, expediting the refund" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/income_tax_1_0.jpg" style="float:right; width:300px; height:300px">Families and
 individuals who earned less than $57,000 in 2012 are eligible.
 Filers must bring photo identification, Social Security card or
 ITIN card for workers and all family members, their W-2 and 1099
@@ -65,10 +65,10 @@ qualify.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></
 <p>According to the organization&#x2019;s website, there is no charge for
 the tax preparation, no charge for direct deposit to the taxpayer&#x2019;s
 bank account and no hidden fees. A list of community locations,
-dates and hours, is available on the <a href="http://www.unitedwaymcca.org/free-tax-prep" rel="nofollow">United
+dates and hours, is available on the <a href="https://www.unitedwaymcca.org/free-tax-prep" rel="nofollow">United
 Way website</a>.<br>
 <br>
-Learn more about CSUMB&apos;s <a href="http://csumb.edu/business" rel="nofollow">School of Business</a>.</br></br></p>
+Learn more about CSUMB&apos;s <a href="https://csumb.edu/business" rel="nofollow">School of Business</a>.</br></br></p>
 
 
 

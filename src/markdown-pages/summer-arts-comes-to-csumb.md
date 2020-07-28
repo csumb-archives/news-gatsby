@@ -95,7 +95,7 @@ date: January 01 2020
 <h3>To get involved</h3>
 <p>
   • Schedule, registration and scholarship information are available
-  <a href="http://www.csusummerarts.org">here</a>. More than 70 percent of
+  <a href="https://www.csusummerarts.org">here</a>. More than 70 percent of
   students receive scholarships.
 </p>
 <p>

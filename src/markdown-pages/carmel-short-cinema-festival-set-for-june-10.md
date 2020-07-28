@@ -41,7 +41,7 @@ date: January 01 2020
   want to bring a blanket. Concessions will be available. The Forest Theater is
   located at the corner of Mountain View and Santa Rita streets near downtown
   Carmel.
-  <a href="http://www.foresttheaterguild.org."
+  <a href="https://www.foresttheaterguild.org."
     >For more information about the festival click here</a
   >. The Monterey Bay Film Society is the Central Coast’s premiere organization
   for independent filmmaking, media art and community and is presented by the

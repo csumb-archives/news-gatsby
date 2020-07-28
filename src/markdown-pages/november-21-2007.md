@@ -37,7 +37,7 @@ date: January 01 2020
   discussion about clean energy solutions, linking students and citizens
   directly with our political leaders. Local elected officials have been invited
   to join the campus and the community at this event.
-  <a href="http://www.focusthenation.org">Learn more of this event.</a>
+  <a href="https://www.focusthenation.org">Learn more of this event.</a>
 </p>
 <p>
   <strong>On the RISE</strong>? The American Honda Foundation, a non&#45;profit
@@ -51,7 +51,7 @@ date: January 01 2020
   non&#45;profit causes, programs and organizations in the areas of youth
   education and scientific education. Since its inception, it has provided more
   than $20 million in grants.
-  <a href="http://rise.csumb.edu/%20">Learn more about RISE</a>.
+  <a href="https://rise.csumb.edu/%20">Learn more about RISE</a>.
 </p>
 <p>
   <strong>Students provide Thanksgiving dinner for 60 families</strong>? As part
@@ -90,9 +90,9 @@ date: January 01 2020
   they instantly validated the antiwar protest movement. He'll be talking about
   his book, "Secrets: A Memoir of Vietnam and the Pentagon Papers," copies of
   which will be available for sale.
-  <a href="http://csumb.edu/site/x19928.xml">Reserve a seat</a> for the free
-  eventhttp://csumb.edu/site/x19928.xml.
-  <a href="http://news.csumb.edu/site/x20764.xml"
+  <a href="https://csumb.edu/site/x19928.xml">Reserve a seat</a> for the free
+  eventhttps://csumb.edu/site/x19928.xml.
+  <a href="https://news.csumb.edu/site/x20764.xml"
     >Read more about Dr. Ellsberg here</a
   >. The lecture will be broadcast on campus cable channel 71.
 </p>
@@ -108,7 +108,7 @@ date: January 01 2020
   assured that OTTERalert is for emergency alerts only; those who sign up will
   not receive spam. Privacy is protected, and only campus administrators and
   members of the University Police Department can originate the messages.
-  <a href="http://news.csumb.edu/site/x20695.xml%20"
+  <a href="https://news.csumb.edu/site/x20695.xml%20"
     >Read more about OTTERalert here</a
   >.
 </p>
@@ -142,7 +142,7 @@ date: January 01 2020
 </p>
 <p>
   The fall issue of Campus Chronicles is now available
-  <a href="http://news.csumb.edu/site/x10352.xml%20">online</a>. Read about:
+  <a href="https://news.csumb.edu/site/x10352.xml%20">online</a>. Read about:
 </p>
 <p>
   ? Marian Krause makes CSUMB's largest single&#45;family gift in history?
@@ -168,7 +168,7 @@ date: January 01 2020
 <p>
   ? Our campus is under construction. Please be cautious around construction
   areas. We invite you to view this
-  <a href="http://cdo.csumb.edu/site/x4929.xml%20">short slide show</a> created
+  <a href="https://cdo.csumb.edu/site/x4929.xml%20">short slide show</a> created
   with yoursafety in mind.
 </p>
 <p>
@@ -207,6 +207,6 @@ date: January 01 2020
 </p>
 <p>
   For campus news, activities and events, please visit our
-  <a href="http://www.csumb.edu/news%20">news website</a>.
+  <a href="https://www.csumb.edu/news%20">news website</a>.
 </p>
 ```

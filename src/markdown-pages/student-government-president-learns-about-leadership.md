@@ -49,7 +49,7 @@ date: January 01 2020
   students to continue their education.”
 </p>
 <p>
-  <a href="http://www.panettainstitute.org/about-us/"
+  <a href="https://www.panettainstitute.org/about-us/"
     >Learn more about the Panetta Institute for Public Policy and its
     programs.</a
   >

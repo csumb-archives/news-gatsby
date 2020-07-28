@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2015/jan/13/native-educator-works-serve-needs-children"
+      href="https://news.csumb.edu/news/2015/jan/13/native-educator-works-serve-needs-children"
       >Native educator works to serve the needs of children</a
     ></strong
   >
@@ -25,7 +25,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2015/jan/8/sf-art-exhibit-showcases-work-csumb-faculty"
+    href="https://news.csumb.edu/news/2015/jan/8/sf-art-exhibit-showcases-work-csumb-faculty"
     ><strong>S.F. art exhibit features work of CSUMB faculty</strong></a
   >
   A San Francisco art exhibit that invites spectators to take part by “dressing
@@ -40,7 +40,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2014/nov/5/national-health-conference-has-csumb-flavor"
+    href="https://news.csumb.edu/news/2014/nov/5/national-health-conference-has-csumb-flavor"
     ><strong>National health conference has CSUMB flavor</strong></a
   >
   Dr. Britt Rios-Ellis, dean of the College of Health Sciences and Human
@@ -48,7 +48,7 @@ date: January 01 2020
   Disparities in Long Beach in early November. Her topic: Overcoming Challenges
   to Participation of Underrepresented Populations in Academia. – Nov. 6, 2014
   <a
-    href="http://news.csumb.edu/news/2014/nov/4/faculty-member-captures-spirit-fort-ord"
+    href="https://news.csumb.edu/news/2014/nov/4/faculty-member-captures-spirit-fort-ord"
     ><strong>Faculty art project captures the spirit of Fort Ord</strong></a
   >
   Fort Ord – once the largest military base in the American West – was a vital
@@ -78,7 +78,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2014/sep/23/faculty-member-shares-diversity-strategies"
+      href="https://news.csumb.edu/news/2014/sep/23/faculty-member-shares-diversity-strategies"
       >Faculty member shares diversity strategies with national audience</a
     ></strong
   >
@@ -91,7 +91,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2014/sep/18/touch-csumb-days-and-nights-festival"
+    href="https://news.csumb.edu/news/2014/sep/18/touch-csumb-days-and-nights-festival"
     ><strong
       >Cine Arts department chair programs part of Days and Nights
       Festival</strong
@@ -107,7 +107,7 @@ date: January 01 2020
   <strong>Kinesiology professor publishes on carb loading</strong> Dr. Brian
   Cook contributed an article to
   <a
-    href="http://www.everythingtrackandfield.com/webapp/wcs/stores/servlet/PBOnePieceView?storeId=10152&amp;catalogId=10753&amp;languageId=-1&amp;pagename=525"
+    href="https://www.everythingtrackandfield.com/webapp/wcs/stores/servlet/PBOnePieceView?storeId=10152&amp;catalogId=10753&amp;languageId=-1&amp;pagename=525"
     >Everything Track and Field</a
   >
   outlining a runner's need for carbohydrates during training and competition. –
@@ -118,7 +118,7 @@ date: January 01 2020
   in Saratoga. Both are lecturers in the Visual and Public Art Department. –
   July 25, 2014
   <a
-    href="http://news.csumb.edu/news/2014/jul/14/vpa-professor-steps-out-behind-scenes"
+    href="https://news.csumb.edu/news/2014/jul/14/vpa-professor-steps-out-behind-scenes"
     ><strong
       >VPA professor performs one-woman show at S.F. arts festival</strong
     ></a
@@ -135,10 +135,10 @@ date: January 01 2020
 </p>
 <p>
   <strong>Work by humanities professor to appear in literary quarterly</strong
-  ><a href="http://hcom.csumb.edu/diana-garcia">Diana Garcia</a>, a professor in
+  ><a href="https://hcom.csumb.edu/diana-garcia">Diana Garcia</a>, a professor in
   the Division of Humanities and Communication, has had two poems accepted for
   the winter issue of
-  <a href="http://prairieschooner.unl.edu"><em>Prairie Schooner</em></a
+  <a href="https://prairieschooner.unl.edu"><em>Prairie Schooner</em></a
   >. The issue is tentatively titled, “Women and the Global Imagination.”
 </p>
 <p>
@@ -148,7 +148,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2014/jun/19/faculty-member-white-house-summit"
+    href="https://news.csumb.edu/news/2014/jun/19/faculty-member-white-house-summit"
     ><strong>Faculty member at White House Summit</strong></a
   >
   CSU Monterey Bay faculty member Lisa Stewart is taking her research on
@@ -162,7 +162,7 @@ date: January 01 2020
   employment,” Dr. Stewart said. – June 19, 2014
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2014/jun/13/dr-lindholm-goes-washington"
+  <a href="https://news.csumb.edu/news/2014/jun/13/dr-lindholm-goes-washington"
     ><strong>Dr. Lindholm goes to Washington</strong></a
   >
   At Capitol Hill Ocean Week, held June 10-12, marine scientists and others
@@ -175,7 +175,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2014/may/19/divers-eye-view-without-getting-wet"
+    href="https://news.csumb.edu/news/2014/may/19/divers-eye-view-without-getting-wet"
     ><strong>Seafloor Mapping Lab helps with Point Lobos project</strong></a
   >
   Visitors to Point Lobos State Marine Reserve are now able to visualize what
@@ -197,7 +197,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2014/apr/16/professor-grad-student-work-protect-big-sur-river"
+      href="https://news.csumb.edu/news/2014/apr/16/professor-grad-student-work-protect-big-sur-river"
       >Professor, grad student work to protect Big Sur River</a
     ></strong
   >
@@ -209,7 +209,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2014/mar/19/professor-creates-fort-ord-exhibit"
+    href="https://news.csumb.edu/news/2014/mar/19/professor-creates-fort-ord-exhibit"
     ><strong>Professor creates Fort Ord exhibit</strong></a
   >
   Fort Ord – once the largest military base in the American West – was a vital
@@ -231,7 +231,7 @@ date: January 01 2020
   leadership, technology, research and teaching. – March 6, 2014
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2014/jul/23/high-fidelity"
+  <a href="https://news.csumb.edu/news/2014/jul/23/high-fidelity"
     ><strong>Lecturer’s album earns award</strong></a
   >
   Students in Dr. Lanier Sammons’ advanced audio production class worked on an
@@ -242,7 +242,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2014/feb/12/professor-honored-lifetime-achievement"
+    href="https://news.csumb.edu/news/2014/feb/12/professor-honored-lifetime-achievement"
     ><strong>Professor honored for lifetime achievement</strong></a
   >
   Professor Yoshiko Saito-Abbott has been honored by her peers with a lifetime
@@ -258,7 +258,7 @@ date: January 01 2020
   Project. – Feb. 12, 2014
 </p>
 <p>
-  <a href="http://sbgs.csumb.edu/psychology-major"
+  <a href="https://sbgs.csumb.edu/psychology-major"
     ><strong>Psychology faculty members present research</strong></a
   >
   At the upcoming biennial meeting of the Society for Research in Adolescence,
@@ -276,7 +276,7 @@ date: January 01 2020
   that might otherwise be silenced. – Feb. 5, 2014
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2014/feb/3/fish-stories"
+  <a href="https://news.csumb.edu/news/2014/feb/3/fish-stories"
     ><strong>Faculty artwork on display at Museum of Monterey</strong></a
   >
   Humans have always told fish stories. Ten of these fascinating stories are
@@ -306,7 +306,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2014/jan/2/more-honors-archaeology-professor"
+    href="https://news.csumb.edu/news/2014/jan/2/more-honors-archaeology-professor"
     ><strong>More honors for archaeology professor</strong></a
   >
   Professor Ruben Mendoza has been selected to deliver the keynote address at
@@ -323,7 +323,7 @@ date: January 01 2020
 <p>
   In other news, the city of
   <a
-    href="http://news.csumb.edu/news/2014/jan/13/csumb-professor-featured-monterey-video"
+    href="https://news.csumb.edu/news/2014/jan/13/csumb-professor-featured-monterey-video"
     >Monterey has produced a video</a
   >
   that highlights the work of Dr. Mendoza and his students.
@@ -359,7 +359,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/nov/19/composers-society-honors-csumb-lecturer"
+    href="https://news.csumb.edu/news/2013/nov/19/composers-society-honors-csumb-lecturer"
     ><strong>Composers society honors CSUMB lecturer</strong></a
   >
   For the second consecutive year, Dr. Lanier Sammons, a lecturer in the Music
@@ -377,10 +377,10 @@ date: January 01 2020
   editing as well as the MPA capstone class and master classes. – Nov. 19, 2013
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2013/nov/14/what-will-future-look"
+  <a href="https://news.csumb.edu/news/2013/nov/14/what-will-future-look"
     ><strong>What will the future look like?</strong></a
   ><strong
-    ><a href="http://news.csumb.edu/news/2013/nov/14/what-will-future-look">
+    ><a href="https://news.csumb.edu/news/2013/nov/14/what-will-future-look">
       CSUMB lecturer helps answer that question</a
     ></strong
   >
@@ -412,7 +412,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/oct/28/can-coral-reefs-adjust-global-climate-change"
+    href="https://news.csumb.edu/news/2013/oct/28/can-coral-reefs-adjust-global-climate-change"
     ><strong>Can coral reefs adjust to global climate change?</strong></a
   >
   A study by scientists at Cal State Monterey Bay, the University of British
@@ -444,7 +444,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://www.nasa.gov/content/nasa-supercomputer-generates-closer-look-at-future-climate-conditions-in-us/#.UmhMFI7xjHO"
+    href="https://www.nasa.gov/content/nasa-supercomputer-generates-closer-look-at-future-climate-conditions-in-us/#.UmhMFI7xjHO"
     ><strong
       >Scientists generate closer look at future climate conditions</strong
     ></a
@@ -472,7 +472,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/sep/9/mesa-bains-featured-ucla-exhibition"
+    href="https://news.csumb.edu/news/2013/sep/9/mesa-bains-featured-ucla-exhibition"
     ><strong>Mesa-Bains creates exhibit at UCLA museum</strong></a
   >
   The Fowler Museum at UCLA will honor its 50th anniversary with special
@@ -487,7 +487,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/sep/25/faculty-filmmakers-featured-days-and-nights-festival"
+    href="https://news.csumb.edu/news/2013/sep/25/faculty-filmmakers-featured-days-and-nights-festival"
     ><strong
       >Faculty filmmakers highlighed at Days and Nights Festival</strong
     ></a
@@ -553,7 +553,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2013/sep/3/johnson-honored-lighting-design-work"
+      href="https://news.csumb.edu/news/2013/sep/3/johnson-honored-lighting-design-work"
       >Johnson honored for lighting design work</a
     ></strong
   >
@@ -586,7 +586,7 @@ date: January 01 2020
   Language Project. – Aug. 26, 2013
   <strong
     ><a
-      href="http://news.csumb.edu/news/2013/aug/14/iconic-san-francisco-mural-gets-facelift"
+      href="https://news.csumb.edu/news/2013/aug/14/iconic-san-francisco-mural-gets-facelift"
     >
       Iconic San Francisco mural gets facelift</a
     ></strong
@@ -604,7 +604,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/jun/21/business-professor-chair-ag-foundation-board"
+    href="https://news.csumb.edu/news/2013/jun/21/business-professor-chair-ag-foundation-board"
     ><strong>Business professor to chair ag foundation board</strong></a
   >
   Marylou Shockley, a professor in the College of Business at CSU Monterey Bay,
@@ -623,7 +623,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2012/oct/24/professor-join-hospitality-association-board"
+    href="https://news.csumb.edu/news/2012/oct/24/professor-join-hospitality-association-board"
     ><strong>Professor to join hospitality association board</strong></a
   >
   John Avella has been elected to the Monterey County Hospitality Association’s
@@ -637,7 +637,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2013/aug/5/professor-continues-work-african-diaspora"
+      href="https://news.csumb.edu/news/2013/aug/5/professor-continues-work-african-diaspora"
       >Professor continues work on African diaspora</a
     ></strong
   >
@@ -664,7 +664,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/jul/8/faculty-member-honored-composers-group"
+    href="https://news.csumb.edu/news/2013/jul/8/faculty-member-honored-composers-group"
     ><strong>Faculty member honored by composers group</strong></a
   >
   It’s been a productive year for CSU Monterey Bay music lecturer Lanier
@@ -683,7 +683,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2013/jul/5/students-help-tell-stories-chinatown"
+      href="https://news.csumb.edu/news/2013/jul/5/students-help-tell-stories-chinatown"
       >Grant funds development of oral history walking tour</a
     ></strong
   >
@@ -703,7 +703,7 @@ date: January 01 2020
 </p>
 <p>
   <strong
-    ><a href="http://news.csumb.edu/news/2013/jun/11/art-change"
+    ><a href="https://news.csumb.edu/news/2013/jun/11/art-change"
       >ART for CHANGE</a
     ></strong
   >
@@ -726,7 +726,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2013/jun/7/conservation-award-presented-faculty-member"
+      href="https://news.csumb.edu/news/2013/jun/7/conservation-award-presented-faculty-member"
       >Conservation award presented to faculty member</a
     ></strong
   >
@@ -741,7 +741,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/jun/12/archaeologist-talks-colonial-missions-asu"
+    href="https://news.csumb.edu/news/2013/jun/12/archaeologist-talks-colonial-missions-asu"
     ><strong>Archaeologist presents on colonial missions at ASU</strong></a
   >
   Dr. Ruben Mendoza continues to win accolades for his work on missions in
@@ -758,7 +758,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/may/29/computer-science-professor-wins-teaching-award"
+    href="https://news.csumb.edu/news/2013/may/29/computer-science-professor-wins-teaching-award"
     ><strong
       >Computer science professor honored for teaching, community
       service</strong
@@ -771,7 +771,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/jun/7/humanities-professors-collaborate-book"
+    href="https://news.csumb.edu/news/2013/jun/7/humanities-professors-collaborate-book"
     ><strong>Humanities professors collaborate on book</strong></a
   >
   "Dialogue and Deliberation," a new book by Professors Debian Marty and Josina
@@ -785,7 +785,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/jun/5/psychology-lecturers-work-featured-textbook"
+    href="https://news.csumb.edu/news/2013/jun/5/psychology-lecturers-work-featured-textbook"
     ><strong>Psychology lecturer's work featured in textbook</strong></a
   >
   Kathryn England-Aytes, a lecturer in psychology at CSUMB, has contributed to a
@@ -799,7 +799,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/jun/5/professor-contributes-essay-woody-allen-book"
+    href="https://news.csumb.edu/news/2013/jun/5/professor-contributes-essay-woody-allen-book"
     ><strong>Professor contributes to Woody Allen book</strong></a
   >
   Dr. Renee Curry has published another article on one of her long-time research
@@ -814,7 +814,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2013/mar/29/csumb-professor-celebrates-ability"
+      href="https://news.csumb.edu/news/2013/mar/29/csumb-professor-celebrates-ability"
       >San Francisco public art project unveiled</a
     ></strong
   >
@@ -838,7 +838,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2012/oct/4/book-examines-contemporary-cuban-society"
+    href="https://news.csumb.edu/news/2012/oct/4/book-examines-contemporary-cuban-society"
     ><strong>Vaughan lectures at San Francisco museum</strong></a
   >
   CSU Monterey Bay professor Umi Vaughan will lecture at the Museum of the
@@ -855,7 +855,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2013/jan/22/pollack-honored-service-learning-achievements"
+      href="https://news.csumb.edu/news/2013/jan/22/pollack-honored-service-learning-achievements"
       >Pollack honored for service-learning achievements</a
     ></strong
   >
@@ -894,7 +894,7 @@ date: January 01 2020
 <p>The exhibit continues through April 13. – Jan. 16, 2013</p>
 <p>
   <strong
-    ><a href="http://www.calstate.edu/pa/news/2012/Story/Sony.shtml"
+    ><a href="https://www.calstate.edu/pa/news/2012/Story/Sony.shtml"
       >Lockwood honored for 'innovative instruction with technology'</a
     ></strong
   >
@@ -918,7 +918,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2012/nov/19/professor-presents-research-brazil"
+      href="https://news.csumb.edu/news/2012/nov/19/professor-presents-research-brazil"
       >Vaughan presents at conference in Brazil</a
     ></strong
   >
@@ -941,7 +941,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2012/nov/21/professor-students-land-grant-teach-about-missions"
+      href="https://news.csumb.edu/news/2012/nov/21/professor-students-land-grant-teach-about-missions"
       >Mendoza, students land grant to teach about missions</a
     ></strong
   >
@@ -996,7 +996,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2012/oct/25/mpa-lecturer-recognized-composers-group"
+      href="https://news.csumb.edu/news/2012/oct/25/mpa-lecturer-recognized-composers-group"
       >MPA lecturer honored by composers group</a
     ></strong
   >
@@ -1025,7 +1025,7 @@ date: January 01 2020
 </p>
 <p>
   <strong
-    ><a href="http://news.csumb.edu/news/2012/sep/20/west-goes-east"
+    ><a href="https://news.csumb.edu/news/2012/sep/20/west-goes-east"
       >Filmmaker takes story of water to New York, Southern California
       audiences</a
     ></strong
@@ -1051,7 +1051,7 @@ date: January 01 2020
 <p>
   <strong
     ><a
-      href="http://news.csumb.edu/news/2012/sep/5/professor-named-champion-arts"
+      href="https://news.csumb.edu/news/2012/sep/5/professor-named-champion-arts"
       >Professor named ‘Champion of the Arts’</a
     ></strong
   >

@@ -12,7 +12,7 @@ slug: innovation-institute
 <p>June 19, 2009</p>
 <h2>CSUMB receives grant for Institute of<br>
 Innovation and Economic Development</br></h2>
-<p><img alt="innovation grant" height="215" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/innovation%20grant.jpg" style="float:left" width="300">CSU Monterey Bay and the Monterey
+<p><img alt="innovation grant" height="215" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/innovation%20grant.jpg" style="float:left" width="300">CSU Monterey Bay and the Monterey
 County Business Council will receive an $180,000 grant from the
 U.S. Department of Commerce to develop an Institute for Innovation
 and Economic Development.</img></p>

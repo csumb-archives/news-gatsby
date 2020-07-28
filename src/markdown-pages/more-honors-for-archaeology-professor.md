@@ -36,7 +36,7 @@ date: January 01 2020
 <p>
   The award recognizes outstanding contributions to the study and preservation
   of California's missions, presidios, pueblos and ranchos.
-  <a href="http://news.csumb.edu/news/2013/jan/31/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2013/jan/31/faculty-highlights"
     >Read more faculty highlights</a
   >
 </p>

@@ -10,7 +10,7 @@ slug: plunging-into-research
 
 <span class="date">Posted on Mar 18, 2014    </span>
 <h3>Grant allows undergrads to get first-hand experience</h3>
-<p><img alt="A NSF grant will provide for summer research experiences at CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/reu_story_for_web_0.jpg" style="float:left; width:500px; height:234px">One of CSU Monterey
+<p><img alt="A NSF grant will provide for summer research experiences at CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/reu_story_for_web_0.jpg" style="float:left; width:500px; height:234px">One of CSU Monterey
 Bay&#x2019;s selling points is its proximity to the bay. Students enjoy
 the recreational activities associated with it; they can also work
 with faculty members and scientists on research projects tied to
@@ -48,7 +48,7 @@ University, Scripps Institution of Oceanography and Woods Hole
 Oceanographic Institution.<br>
 <br>
 A stipend and help with travel and housing expenses will be
-provided. <a href="http://reu.csumb.edu" rel="nofollow">More
+provided. <a href="https://reu.csumb.edu" rel="nofollow">More
 information is available here.</a></br></br></br></br></br></br></br></br></br></br></p>
 <p>&#xA0;</p>
 <p><br>

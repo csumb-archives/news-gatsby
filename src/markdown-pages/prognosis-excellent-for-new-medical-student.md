@@ -65,12 +65,12 @@ date: January 01 2020
 <p>Does he have any advice for pre-med students?</p>
 <p>
   “Set goals, don't EVER give up, and take Biology 414.”
-  <a href="http://csumbpremed.wikispaces.com/"
+  <a href="https://csumbpremed.wikispaces.com/"
     >Learn about the pre-med program at CSUMB</a
   >
 </p>
 <p>
-  <a href="http://csumb.edu/biology"
+  <a href="https://csumb.edu/biology"
     >Learn about the biology program at CSUMB</a
   >
 </p>

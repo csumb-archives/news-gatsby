@@ -9,7 +9,7 @@ slug: capstone-festival-jan.-23-for-mist-graduates
 
 
 <span class="date">Posted on Jan 16, 2015    </span>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/capstone_banner.png" style="width:550px; height:138px; float:left">Deanna Brown&#x2019;s
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/capstone_banner.png" style="width:550px; height:138px; float:left">Deanna Brown&#x2019;s
 capstone project will help her fellow students prepare for graduate
 school. Michael Stewart aims to help recovering addicts maintain
 sobriety. And Deborah Stephens is teaching community college
@@ -31,8 +31,8 @@ designed online modules for use by incoming students in the
 university&#x2019;s Master of Business Administration program.</p>
 <p>Students will receive their degrees at the May 16 commencement
 ceremony.</p>
-<p><a href="http://itcdland.csumb.edu/~mist/capstonefestival/" rel="nofollow">Learn more about the Capstone Festival</a></p>
-<p><a href="http://itcd.csumb.edu/master-science-ist" rel="nofollow">Learn more about the MIST program&#xA0;</a><br>
+<p><a href="https://itcdland.csumb.edu/~mist/capstonefestival/" rel="nofollow">Learn more about the Capstone Festival</a></p>
+<p><a href="https://itcd.csumb.edu/master-science-ist" rel="nofollow">Learn more about the MIST program&#xA0;</a><br>
 <br>
 &#xA0;</br></br></p>
 

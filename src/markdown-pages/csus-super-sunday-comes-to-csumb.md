@@ -16,13 +16,13 @@ date: January 01 2020
 <p>
   CSUMB’s <a href="/admissions">Office of Admissions</a> will host a series of
   events, featuring keynote speaker
-  <a href="http://villageprojectinc.org/?page_id=356">Mel Mason</a>, at the
+  <a href="https://villageprojectinc.org/?page_id=356">Mel Mason</a>, at the
   University Center Saturday, Feb. 24 from 8:30 a.m. until 12:00 p.m.
 </p>
 <p>
   Mason is a Seaside native and the co-founder, executive director and clinical
   director of
-  <a href="http://villageprojectinc.org/?page_id=564"
+  <a href="https://villageprojectinc.org/?page_id=564"
     >The Village Project, Inc</a
   >. The event will also include presentations outlining African-American
   support programs at CSUMB, student panels and roundtable discussions.

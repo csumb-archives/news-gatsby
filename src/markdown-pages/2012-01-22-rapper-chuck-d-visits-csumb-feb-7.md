@@ -13,7 +13,7 @@ slug: rapper-chuck-d-visits-csumb-feb.-7
 <p>Chuck D, one of the founders of the legendary rap group Public
 Enemy, will speak at CSU Monterey Bay on Feb. 7 as part of the
 university&#x2019;s Black History Month celebration.</p>
-<p><img alt="Chuck D" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/chuck_d-_photo_high_res_headshot_credit_to_walter_leaphart_2005.jpg" style="float:left; width:400px; height:267px">His topic: rap,
+<p><img alt="Chuck D" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/chuck_d-_photo_high_res_headshot_credit_to_walter_leaphart_2005.jpg" style="float:left; width:400px; height:267px">His topic: rap,
 race, reality and digital music. The 7 p.m. event will be held in
 the University Center on Sixth Avenue. Tickets are $5 and can be
 purchased at the door.<br>
@@ -31,7 +31,7 @@ as one of the &quot;50 most important performers in rock &amp; roll
 history.&quot; In 2007, Ebony Magazine named him one of the &#x201C;100 Most
 Influential Black Americans.&#x201D;<br>
 <br>
-<img alt="vent poster" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/chuck_d_-_event_poster.png" style="float:right; width:350px; height:247px">He has been
+<img alt="vent poster" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/chuck_d_-_event_poster.png" style="float:right; width:350px; height:247px">He has been
 featured and/or interviewed in over 50 documentaries on music,
 technology, politics, and race and he has appeared in numerous
 public service announcements for the Partnership for a Drug Free

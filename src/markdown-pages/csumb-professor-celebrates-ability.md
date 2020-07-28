@@ -73,13 +73,13 @@ date: January 01 2020
   and artifacts of culture, history, archeology and futurist narratives, human
   nature, political satire and the colonizing metaphors used by consumerist,
   capitalist marketing.
-  <a href="http://johannapoethig.com/">Learn more about Poethig’s work</a>
+  <a href="https://johannapoethig.com/">Learn more about Poethig’s work</a>
 </p>
 <p>
-  <a href="http://csumb.edu/art"
+  <a href="https://csumb.edu/art"
     >Learn more about the Visual and Public Art Department</a
   >
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     >Read more faculty news</a
   >
 </p>

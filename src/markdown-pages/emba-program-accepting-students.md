@@ -33,7 +33,7 @@ date: January 01 2020
 </p>
 <p>
   For more information, visit
-  <a href="http://emba.csumb.edu/">http://emba.csumb.edu</a>. Admission advisers
+  <a href="https://emba.csumb.edu/">https://emba.csumb.edu</a>. Admission advisers
   are available at 866-757-5172 to answer questions and to start the application
   process. Sept. 21 is the application deadline.
 </p>

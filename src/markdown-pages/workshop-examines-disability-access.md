@@ -28,12 +28,12 @@ date: January 01 2020
 <p>
   The University Center is located on Sixth Avenue at B Street. While the event
   is free, visitors must purchase a parking permit from a kiosk on the lot or
-  <a href="http://parking.csumb.edu/buy-permit">online</a>. This includes those
+  <a href="https://parking.csumb.edu/buy-permit">online</a>. This includes those
   with DMV-issued disability parking placards.
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   The event is sponsored by CSUMB’s Health and Wellness Services, Student

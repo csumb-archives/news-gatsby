@@ -9,7 +9,7 @@ slug: sixthgraders-&apos;commit&apos;-to-attend-college
 
 
 <span class="date">Posted on Dec 16, 2014    </span>
-<p><img alt="Fairview Middle School students visited CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/gonzales_kids_with_monte_web.jpg" style="width:525px; height:294px; float:left">It will be years
+<p><img alt="Fairview Middle School students visited CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/gonzales_kids_with_monte_web.jpg" style="width:525px; height:294px; float:left">It will be years
 before they even graduate from high school, but hundreds of
 sixth-grade students are already planning for college, thanks to a
 program at CSU Monterey Bay.&#x2028;<br>
@@ -36,7 +36,7 @@ degree . . . we&#x2019;re promising you we will help you and we will save
 a place for you, but it also takes a promise from you,&#x201D; Murillo
 told the youngsters.<br>
 <br>
-<img alt="CSUMB mascot Monte Rey" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/monte_rey_with_students_for_web.jpg" style="float:right; width:400px; height:214px">Each student
+<img alt="CSUMB mascot Monte Rey" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/monte_rey_with_students_for_web.jpg" style="float:right; width:400px; height:214px">Each student
 received a packet containing a poster that explains what they need
 to do to prepare for college on a year-by-year basis starting in
 the sixth grade; a certificate for them to sign acknowledging their
@@ -62,7 +62,7 @@ youngsters recognize opportunities, make choices that they may not
 have known existed for them, and keep them motivated for
 success.<br>
 <br>
-<a href="http://eosp.csumb.edu" rel="nofollow">Learn about CSUMB&apos;s
+<a href="https://eosp.csumb.edu" rel="nofollow">Learn about CSUMB&apos;s
 early outreach and support programs</a>.<br>
 <br>
 <em>Photos<br>

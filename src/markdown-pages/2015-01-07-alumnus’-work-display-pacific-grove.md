@@ -11,7 +11,7 @@ slug: alumnus-work-on-display-in-pacific-grove
 <span class="date">Posted on Jan 07, 2015    </span>
 <h3>&#x2018;Steinbeck: The Art of Fiction&#x2019; includes sculpture by VPA
 grad</h3>
-<p><img alt="Lew Aytes" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/hanging_sculpture_for_web_0.jpg" style="width:214px; height:250px; float:left">Work by alumnus Lew
+<p><img alt="Lew Aytes" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/hanging_sculpture_for_web_0.jpg" style="width:214px; height:250px; float:left">Work by alumnus Lew
 Aytes will be on display at the American Tin Cannery through March
 31. The exhibit, &#x201C;Steinbeck: The Art of Fiction,&#x201D; features artistic
 interpretations of John Steinbeck&#x2019;s work in sculpture, photography
@@ -29,7 +29,7 @@ Lewis&#x2019; historic images of Cannery Row.</p>
 studied music performance and conducting, and an MBA in finance
 from California Southern University. A re-entry student at CSUMB,
 he earned a degree in Visual and Public Art in 2012.</p>
-<p>On his <a href="http://www.lewaytes.com" rel="nofollow">website</a>, he says: &#x201C;In one form or another, art has
+<p>On his <a href="https://www.lewaytes.com" rel="nofollow">website</a>, he says: &#x201C;In one form or another, art has
 existed in my life as long as I have memory. My first conscious
 production of art was musical . . . Music also transported me into
 the medium of sculpture later in life.&#x201D;</p>

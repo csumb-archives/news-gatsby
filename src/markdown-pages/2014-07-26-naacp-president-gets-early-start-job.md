@@ -12,7 +12,7 @@ slug: naacp-president-gets-early-start-on-the-job
 <p>When she was elected in the spring of 2014 to head the campus
 chapter of the NAACP, Mia Elliott said, &#x201C;I can&#x2019;t wait to start. I
 am really looking forward to being president.&#x201D;</p>
-<p><img alt="Mia Elliott at NAACP annual convention is Las Vegas" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mia_elliott_0.jpg" style="float:left; width:300px; height:225px">A sophomore Liberal
+<p><img alt="Mia Elliott at NAACP annual convention is Las Vegas" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mia_elliott_0.jpg" style="float:left; width:300px; height:225px">A sophomore Liberal
 Studies major from Sacramento, Elliott will take over in the fall &#x2013;
 when the chapter celebrates its third year of existence.</img></p>
 <p>She&apos;s getting a head start on the position, attending the civil
@@ -35,7 +35,7 @@ difference on campus,&#x201D; she said.</p>
 <p>Her immediate goals are to increase the chapter&#x2019;s membership and
 to &#x201C;have the NAACP be an inclusive, diverse club open to all people
 of color and all our allies.</p>
-<p><img alt="Mia Elliott" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mia_elliott.jpg" style="float:right; width:250px; height:333px">&#x201C;Secondly, I would
+<p><img alt="Mia Elliott" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mia_elliott.jpg" style="float:right; width:250px; height:333px">&#x201C;Secondly, I would
 like students to know that we are an ally for all students of color
 and will be a support system when needed,&#x201D; she said.</img></p>
 <p>Elliott added that she would like to collaborate with other

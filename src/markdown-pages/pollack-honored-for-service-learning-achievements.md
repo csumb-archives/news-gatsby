@@ -88,22 +88,22 @@ date: January 01 2020
   life in communities are simultaneously improved.
 </p>
 <p>
-  <a href="http://service.csumb.edu/"
+  <a href="https://service.csumb.edu/"
     >Learn about CSUMB's Service Learning Institute</a
   >
 </p>
 <p>
-  <a href="http://service.csumb.edu/chinatown-renewal-project"
+  <a href="https://service.csumb.edu/chinatown-renewal-project"
     >Learn more about the Chinatown Renewal Project</a
   >
 </p>
 <p>
-  <a href="http://success.csumb.edu/seth-pollack"
+  <a href="https://success.csumb.edu/seth-pollack"
     >Learn more about Dr. Pollack</a
   >
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     ><em>Read more faculty news</em></a
   >
 </p>

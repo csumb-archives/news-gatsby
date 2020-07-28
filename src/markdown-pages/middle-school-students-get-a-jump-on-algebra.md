@@ -64,16 +64,16 @@ date: January 01 2020
   That’s according to a study that was commissioned by the Center for the Future
   of Teaching and Learning at WestEd and released in November. The Sacramento
   nonprofit focuses on policies and practices to improve teaching. (<a
-    href="http://www.cftl.org/documents/2012/CFTL_MathPatterns_Main_Report.pdf"
+    href="https://www.cftl.org/documents/2012/CFTL_MathPatterns_Main_Report.pdf"
     >Read the WestEd report here.</a
   >) And that reinforces a point Dr. Hu makes every chance he gets. Algebra is
   “the gateway” to studies in college, he says. “Without it, there’s no way
   students continue.”
 </p>
 <p>
-  <a href="http://csumb.edu/math"
+  <a href="https://csumb.edu/math"
     >Learn more about the math program at CSUMB.</a
   >
 </p>
-<p><a href="http://success.csumb.edu/hongde-hu">Read a profie of Dr. Hu.</a></p>
+<p><a href="https://success.csumb.edu/hongde-hu">Read a profie of Dr. Hu.</a></p>
 ```

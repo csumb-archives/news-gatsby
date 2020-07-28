@@ -38,12 +38,12 @@ date: January 01 2020
   Berkeley Art Museum and Intersection For The Arts.
 </p>
 <p>
-  <a href="http://www.lightessencedesign.com"
+  <a href="https://www.lightessencedesign.com"
     >Her work can be seen on her website</a
   >
 </p>
 <p>
-  <a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+  <a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     >Read more faculty news</a
   >
 </p>

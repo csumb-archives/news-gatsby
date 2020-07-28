@@ -44,11 +44,11 @@ date: January 01 2020
 </p>
 <p>
   Learn about CSUMB’s master’s degree in
-  <a href="http://sep.csumb.edu/amws/">applied marine and watershed science</a>
+  <a href="https://sep.csumb.edu/amws/">applied marine and watershed science</a>
 </p>
 <p>
   &#42;Reprinted from the newsletter of CSU Monterey Bay’s
-  <a href="http://watershed.csumb.edu/wi/">Watershed Institute</a>. Used by
+  <a href="https://watershed.csumb.edu/wi/">Watershed Institute</a>. Used by
   permission. Top photo: Goats grazing on BLM land Bottom photo: Coyote
   brush&#42;
 </p>

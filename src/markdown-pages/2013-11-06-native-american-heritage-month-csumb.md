@@ -10,10 +10,10 @@ slug: native-american-heritage-month-at-csumb
 
 <span class="date">Posted on Nov 06, 2013    </span>
 <h3>CSUMB Professor George Baldwin among presenters</h3>
-<p>Flute player <a href="http://akaflutemanent.com/" rel="nofollow">David Wolfs Robe</a> will visit CSU Monterey Bay as part
+<p>Flute player <a href="https://akaflutemanent.com/" rel="nofollow">David Wolfs Robe</a> will visit CSU Monterey Bay as part
 of the university&#x2019;s celebration of Native American Heritage
 Month.</p>
-<p><img alt="Flute player David Wolfs Robe" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wolfs_robe_with_flute_0.jpg" style="float:left; width:400px; height:266px">Other activities
+<p><img alt="Flute player David Wolfs Robe" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wolfs_robe_with_flute_0.jpg" style="float:left; width:400px; height:266px">Other activities
 include film screenings, a panel discussion of contemporary Native
 American issues, presentations and a photo exhibit. All activities
 are free and open to the public but parking permits must be
@@ -39,7 +39,7 @@ contemporary Native American issues.</p>
 Reservations: Songs and Stories About Growing Up Indian&#x201D; at 7 p.m.,
 Nov. 6.<br>
 <br>
-<img alt="George Baldwin" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/george_baldwin.jpg" style="float:right; width:190px; height:166px">In this
+<img alt="George Baldwin" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/george_baldwin.jpg" style="float:right; width:190px; height:166px">In this
 entertaining presentation, Dr. Baldwin (pictured at right)
 incorporates traditional native storytelling and original songs to
 offer a rare glimpse into contemporary Native identity. Growing up
@@ -58,7 +58,7 @@ reorganization, integration of new technologies, and education. He
 is a founding faculty member at CSUMB and a professor in the
 Social, Behavioral, and Global Studies Division.</br></br></p>
 <p><strong>COMPLETE SCHEDULE:</strong></p>
-<p><img alt="David Wolfs Robe" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wolfs_robe_headshot_0.jpg" style="float:left; width:250px; height:236px"><strong>NOV.
+<p><img alt="David Wolfs Robe" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wolfs_robe_headshot_0.jpg" style="float:left; width:250px; height:236px"><strong>NOV.
 4</strong><br>
 <strong>&#x2022; Noon-2 p.m.</strong> &#x2013; Grandfather flute workshop with
 David Wolfs Robe, Ocean Hall, Suite B, Room 120. Ocean Hall is
@@ -90,7 +90,7 @@ Californians and the Legacy of the Franciscan Missions: Missions
 Photography Exhibition with photographer Dr. Ruben Mendoza, Student
 Center west lounge. The Student Center faces the main quad, enter
 parking lot 12 off Inter-Garrison Road</br></p>
-<p>&#x2022; <strong>6-8 p.m</strong>. &#x2013; <a href="http://twospirits.org/" rel="nofollow">&#x201C;Two Spirits&#x201D;</a> movie screening and discussion, in
+<p>&#x2022; <strong>6-8 p.m</strong>. &#x2013; <a href="https://twospirits.org/" rel="nofollow">&#x201C;Two Spirits&#x201D;</a> movie screening and discussion, in
 the Otter Cross Cultural Center located in the Student Center. The
 Student Center faces the main quad, enter parking lot 12 off
 Inter-Garrison Road.</p>
@@ -98,7 +98,7 @@ Inter-Garrison Road.</p>
 her son with a revealing look at a time when the world wasn&#x2019;t
 simply divided into male and female, and many Native American
 cultures held places of honor for people of integrated genders.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.&#xA0;</p>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.&#xA0;</p>
 <p class="small">Native American Heritage Month is sponsored by the
 Division of Social, Behavioral and Global Studies; dean&#x2019;s office of
 the College of Arts, Humanities and Social Science; Student
@@ -113,7 +113,7 @@ the entire weaving, so I strive to keep this part of our Native
 culture alive, evolving, and intact. I wish to share it with the
 world.&#xA0;</em><br>
 &#x2013; David Wolfs Robe<em>.</em></br></p>
-<p><a href="http://library.csumb.edu/native-american-heritage-month-2013" rel="nofollow"><em>The CSUMB Library provides materials that may be of
+<p><a href="https://library.csumb.edu/native-american-heritage-month-2013" rel="nofollow"><em>The CSUMB Library provides materials that may be of
 interest to those wishing to delve further into the themes covered
 by some of these events</em></a></p>
 <p><br>
@@ -126,8 +126,8 @@ by some of these events</em></a></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/zudrL3Ku9bc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/zudrL3Ku9bc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/zudrL3Ku9bc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/zudrL3Ku9bc&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -138,7 +138,7 @@ by some of these events</em></a></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r9---sn-o097znez.googlevideo.com/videoplayback?ratebypass=yes&amp;dur=180.140&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;mm=31&amp;source=youtube&amp;pl=23&amp;ipbits=0&amp;upn=bDEIotUCqtE&amp;key=yt5&amp;ip=198.189.249.65&amp;initcwndbps=3846250&amp;sver=3&amp;expire=1422353356&amp;signature=C6655F846B0AD10DA1B179AF8AF905737B5D97E9.E9DD74DDDE7CF5A11B124CB797B018D319884EBF&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;id=o-ADEfjDysBWAL5-_lmVu6F7ClQJpUn1x0l8kTnK4bvHpe&amp;ms=au&amp;mv=m&amp;mt=1422331698&amp;itag=18&amp;name=zudrL3Ku9bc" type="video/mp4"/></video></div>
+<source src="https://r9---sn-o097znez.googlevideo.com/videoplayback?ratebypass=yes&amp;dur=180.140&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;mm=31&amp;source=youtube&amp;pl=23&amp;ipbits=0&amp;upn=bDEIotUCqtE&amp;key=yt5&amp;ip=198.189.249.65&amp;initcwndbps=3846250&amp;sver=3&amp;expire=1422353356&amp;signature=C6655F846B0AD10DA1B179AF8AF905737B5D97E9.E9DD74DDDE7CF5A11B124CB797B018D319884EBF&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;id=o-ADEfjDysBWAL5-_lmVu6F7ClQJpUn1x0l8kTnK4bvHpe&amp;ms=au&amp;mv=m&amp;mt=1422331698&amp;itag=18&amp;name=zudrL3Ku9bc" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

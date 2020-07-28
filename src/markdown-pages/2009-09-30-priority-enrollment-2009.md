@@ -30,7 +30,7 @@ Dr. Higgs said. &quot;CSUMB will most likely reach its maximum allotted
 number much earlier than Nov. 30. At that point, all other
 applicants will be put on a wait list.&quot;<br>
 <br>
-High school seniors can visit <a href="http://www.csumentor.edu/" rel="nofollow">www.csumentor.edu</a> to submit applications. More
+High school seniors can visit <a href="https://www.csumentor.edu/" rel="nofollow">www.csumentor.edu</a> to submit applications. More
 information is available by calling the Office of Admissions at
 (831) 582-3738.</br></br></p>
 <br>

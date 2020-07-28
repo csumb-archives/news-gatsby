@@ -10,7 +10,7 @@ slug: csumb-goes-green-with-earth-day-events
 
 <span class="date">Posted on Apr 23, 2014    </span>
 <h3>Mammoth comes back from extinction &#x2013; at least for awhile</h3>
-<p><img alt="The woolly mammoth under construction" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mammoth_under_construction_for_web.jpg" style="width:400px; height:349px; float:left">Education is at the
+<p><img alt="The woolly mammoth under construction" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mammoth_under_construction_for_web.jpg" style="width:400px; height:349px; float:left">Education is at the
 heart of Earth Day &#x2013; which is really Earth <em>Week</em> at CSU
 Monterey Bay.</img></p>
 <p>The university will celebrate with eight days of activities
@@ -40,7 +40,7 @@ as a symbol of climate change.&#xA0;</p>
 <p>Over the course of several months, the 6-foot-tall sculpture was
 created in the VPA studio using plastic, fabric, Styrofoam and
 paper. On April 12, it was moved to a location outside the library,
-where it will be on display until commencement. <a href="http://news.csumb.edu/news/2014/apr/17/mona-mammoth" rel="nofollow">Read more about Mona the Mammoth</a>.</p>
+where it will be on display until commencement. <a href="https://news.csumb.edu/news/2014/apr/17/mona-mammoth" rel="nofollow">Read more about Mona the Mammoth</a>.</p>
 <p>The schedule:</p>
 <p><strong>April 21</strong>, noon- 2 p.m.: Caught
 Green-Handed<br>
@@ -90,7 +90,7 @@ appointment or walk in and sign up.</br></p>
 end-of-semester move-out that emphasizes diverting material from
 the landfill by recycling and reusing items that would othewise be
 thrown away.</p>
-<p><a href="http://ideals.csumb.edu/sustainability" rel="nofollow">Learn more about sustainability at CSUMB</a><br>
+<p><a href="https://ideals.csumb.edu/sustainability" rel="nofollow">Learn more about sustainability at CSUMB</a><br>
 &#xA0;</br></p>
 <p><br>
 &#xA0;</br></p>

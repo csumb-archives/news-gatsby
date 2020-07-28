@@ -14,7 +14,7 @@ slug: honoring-others-helping-students
 National Philanthropy Day luncheon on Nov. 21. Both were nominated
 for awards by CSU Monterey Bay, but they share something much more
 important.</p>
-<p><img alt="Bob Johnson" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bob.johnson_0.jpg" style="width:225px; height:338px; float:left">Each is motivated
+<p><img alt="Bob Johnson" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bob.johnson_0.jpg" style="width:225px; height:338px; float:left">Each is motivated
 to help others by a woman who influenced him greatly. In Johnson&#x2019;s
 case, it was his mother. For Espinoza, it was a kind and caring
 university staff member.</img></p>
@@ -56,7 +56,7 @@ opportunities made possible by a college degree.<br>
 A university staff member&#x2019;s dedication to helping migrant students
 inspired Espinoza to honor her memory with a scholarship. For that
 effort, he will be honored as the Outstanding Young Adult.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
-<p><img alt="Diego Espinoz" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/diego_espinoza.jpg" style="width:225px; height:205px; float:right">Now a senior at
+<p><img alt="Diego Espinoz" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/diego_espinoza.jpg" style="width:225px; height:205px; float:right">Now a senior at
 CSUMB, Espinoza moved to Salinas from Mexico when he was 12 years
 old. He encountered the problems many migrant students face &#x2013;
 limited English skills, overcrowded housing, exposure to violence
@@ -91,7 +91,7 @@ exceptional commitment to the community. Nominations are rated by a
 team of reviewers from the local AFP and DEN chapters, business
 leaders and leaders of private foundations.<br>
 <br>
-For more information, click <a href="http://www.centralcoastnpd.org" rel="nofollow">here.</a>&#xA0;<br>
+For more information, click <a href="https://www.centralcoastnpd.org" rel="nofollow">here.</a>&#xA0;<br>
 <br>
 <strong>Also being honored at the luncheon:</strong><br>
 <br>

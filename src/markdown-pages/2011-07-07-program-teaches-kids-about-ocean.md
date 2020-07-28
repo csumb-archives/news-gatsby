@@ -19,7 +19,7 @@ about the lack of ocean-science education in schools started the
 non-profit in 2000. About 8,000 children have participated in Camp
 SEA Lab programs since then.<br>
 <br>
-<img alt="Exploring Elkhorn Slough" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/exploring_elkhorn_slough.jpg" style="float:right; width:300px; height:225px">The program works
+<img alt="Exploring Elkhorn Slough" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/exploring_elkhorn_slough.jpg" style="float:right; width:300px; height:225px">The program works
 closely with Monterey Bay-area research institutions. Funding is
 provided by grants &#x2013; the California Coastal Commission&apos;s Whale Tail
 Grant program and National Oceanic and Atmospheric Administration
@@ -57,7 +57,7 @@ campus, including several programs especially for teens 13 to 17
 years old. Two of the programs are for girls only. Campers will
 have the opportunity to interact with women scientists while
 exploring careers in science.&#xA0;</br></br></br></br></br></br></br></br></br></br></br></br></img></br></br></br></br></p>
-<p>For more information, click <a href="http://www.campsealab.org" rel="nofollow">here</a>.&#xA0;</p>
+<p>For more information, click <a href="https://www.campsealab.org" rel="nofollow">here</a>.&#xA0;</p>
 
 
 

@@ -10,7 +10,7 @@ date: January 01 2020
   multi&#45;year collective bargaining agreement with the California Faculty
   Association &#40;CFA&#41;. Under the
   <a
-    href="http://www.calstate.edu/hr/employee&#45;relations/bargaining&#45;updates/documents/2016/cfa&#45;bargaining&#45;update&#45;4&#45;2016.pdf"
+    href="https://www.calstate.edu/hr/employee&#45;relations/bargaining&#45;updates/documents/2016/cfa&#45;bargaining&#45;update&#45;4&#45;2016.pdf"
     >agreement</a
   >, all faculty unit employees will receive 10.5 percent in general salary
   increases over a three&#45;year period &#40;fiscal years 2015&#45;16,
@@ -41,7 +41,7 @@ date: January 01 2020
   The ratification of the CFA agreement also triggers the implementation of new
   Memorandum of Understanding &#40;MOU&#41;
   <a
-    href="http://calstate.edu/hr/employee&#45;relations/bargaining&#45;agreements/contracts/csueu/General&#45;Salary&#45;Increase&#45;4&#45;22&#45;2016.pdf"
+    href="https://calstate.edu/hr/employee&#45;relations/bargaining&#45;agreements/contracts/csueu/General&#45;Salary&#45;Increase&#45;4&#45;22&#45;2016.pdf"
     >agreements</a
   >
   with the California State University Employees Union &#40;CSUEU&#41; and the

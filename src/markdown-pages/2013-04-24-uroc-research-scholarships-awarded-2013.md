@@ -10,7 +10,7 @@ slug: uroc-research-scholarships-awarded-for-2013
 
 <span class="date">Posted on Apr 24, 2013    </span>
 <p><strong>UPDATE</strong>: Omar Davila received a top honor at the
-10th annual <a href="http://www.yale.edu/graduateschool/diversity/bouchet_conf.html" rel="nofollow">Bouchet Conference on Diversity and Graduate
+10th annual <a href="https://www.yale.edu/graduateschool/diversity/bouchet_conf.html" rel="nofollow">Bouchet Conference on Diversity and Graduate
 Education</a> at Yale University in New Haven, Conn.</p>
 <p>His presentation, &#x201C;A Lesson to Learn: Characteristics of
 California&#x2019;s Low-Performing School Districts,&#x201D; was named Best Oral
@@ -74,8 +74,8 @@ no longer determine academic success.&#x201D;<br>
 <br>
 He will apply to graduate fellowships and Ph.D. programs in
 sociology in fall 2013, and plans to be a university professor.</br></br></p>
-<p><a href="http://magazine.csumb.edu/node/15641" rel="nofollow">Learn more about the donors here.</a></p>
-<p><a href="http://uroc.csumb.edu" rel="nofollow">Learn more about
+<p><a href="https://magazine.csumb.edu/node/15641" rel="nofollow">Learn more about the donors here.</a></p>
+<p><a href="https://uroc.csumb.edu" rel="nofollow">Learn more about
 UROC here.</a><br>
 <br>
 &#xA0;</br></br></p>

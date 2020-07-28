@@ -15,7 +15,7 @@ Obama, the First Lady, Vice President Biden and hundreds of college
 presidents and other higher&#xA0;education leaders in Washington,
 D.C., on Dec. 4, to announce new actions to help more students
 prepare for and graduate from college.</p>
-<p><img alt="CSUMB President Eduardo Ochoa (second from left) at White House summit" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/csu_folks_at_white_house_0.jpg" style="float:left; width:400px; height:225px">The White House
+<p><img alt="CSUMB President Eduardo Ochoa (second from left) at White House summit" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/csu_folks_at_white_house_0.jpg" style="float:left; width:400px; height:225px">The White House
 College Opportunity Day of Action was intended to support President
 Obama&#x2019;s commitment to partner with colleges and universities,
 business leaders, and nonprofits to support students across the
@@ -34,7 +34,7 @@ fields involves its <a href="https://sites.google.com/site/csitin3/" rel="nofoll
 program</a> with Hartnell College. The program allows students to
 earn a computer science degree in three years through year-round
 study.</br></br></br></br></img></p>
-<p><img alt="President Ochoa" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ochoa_access_for_web_0.jpg" style="float:right; width:350px; height:355px">The program is
+<p><img alt="President Ochoa" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ochoa_access_for_web_0.jpg" style="float:right; width:350px; height:355px">The program is
 designed around a cohort model, admitting 30&#x2010;35 students per
 cohort. Eighty percent are first&#x2010;generation college students; 90%
 are Latino; 43% are women. The first&#x2010;to&#x2010;second year retention of

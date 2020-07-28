@@ -11,7 +11,7 @@ slug: tonight&amp;colon;-may-day-labor-film-festival
 <p>CSU Monterey Bay has hosted several events as part of the 10th
 annual Reel Work May Day Labor Film Festival. The final screening
 is set for Monday.</p>
-<p><img alt="Reel Work May Day Labor Film Festival logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/rosiereel.jpg" style="float:left; width:200px; height:261px">The festival
+<p><img alt="Reel Work May Day Labor Film Festival logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/rosiereel.jpg" style="float:left; width:200px; height:261px">The festival
 features films that illuminate the lives of workers and the ways
 workers and unions around the world organize to make
 change.&#xA0;</img></p>
@@ -26,10 +26,10 @@ CSUMB Student Peace Alliance and U.S. Labor Against the War.<br>
 <br>
 Admission to all events is by voluntary donation; the $2 university
 parking fee must be paid.&#xA0;</br></br></p>
-<p><img alt="Phil Ochs" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/philochs_0.jpg" style="float:left; width:320px; height:240px">For a complete
+<p><img alt="Phil Ochs" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/philochs_0.jpg" style="float:left; width:320px; height:240px">For a complete
 listing of this year&#x2019;s films in Monterey, Santa Cruz and Santa
-Clara counties, <a href="http://www.reelwork.org" rel="nofollow">click here</a>. For more information on the CSUMB
+Clara counties, <a href="https://www.reelwork.org" rel="nofollow">click here</a>. For more information on the CSUMB
 screenings, contact Jennifer Colby at 582-5045 or <a href="mailto:jcolby@csumb.edu">jcolby@csumb.edu</a>.</img></p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.<br>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.<br>
 &#xA0;</br></p>
 ```

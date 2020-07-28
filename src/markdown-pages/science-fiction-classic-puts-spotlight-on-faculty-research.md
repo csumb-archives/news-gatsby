@@ -20,7 +20,7 @@ date: January 01 2020
   2005. “I think about <em>Dune</em> a lot,” Dr. Fernandez told the science
   magazine
   <a
-    href="http://nautil.us/issue/25/water/to&#45;save&#45;california&#45;read&#45;dune"
+    href="https://nautil.us/issue/25/water/to&#45;save&#45;california&#45;read&#45;dune"
     >Nautilus</a
   >. “I wasn't quite aware that the regional fog work I am doing was going to be
   compared so closely to Frank Herbert's novel. I welcome the interest.” It’s

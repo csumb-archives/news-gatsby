@@ -55,7 +55,7 @@ date: January 01 2020
   >
   5 p.m., Saturday, March 13<strong>WHERE:</strong> University Center on Sixth
   Avenue, CSUMB campus<strong>COST:</strong> $85 per person. Reservations:
-  582&#45;4141 or <a href="http://csumb.edu/site/x11523.xml">online</a>
+  582&#45;4141 or <a href="https://csumb.edu/site/x11523.xml">online</a>
 </p>
 <p>&#42; &#42;</p>
 ```

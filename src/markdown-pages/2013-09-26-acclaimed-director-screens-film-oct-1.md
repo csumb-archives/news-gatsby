@@ -9,7 +9,7 @@ slug: prophetic-1982-film-to-be-screened-oct.-1
 
 
 <span class="date">Posted on Sep 26, 2013    </span>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/220px-koyaanisqatsi_poster.png" style="float:left; width:220px; height:338px">The community is
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/220px-koyaanisqatsi_poster.png" style="float:left; width:220px; height:338px">The community is
 invited to a screening of Godfrey Reggio&#x2019;s prophetic 1982 film,
 <em>Koyaanisqatsi</em> at 4 p.m., Oct. 1, in the TAT studio.<br>
 <br>

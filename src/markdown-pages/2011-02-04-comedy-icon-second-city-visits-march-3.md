@@ -69,8 +69,8 @@ slug: comedy-icon-second-city-visits-march-3
 </p>
 <p>
   Tickets range from $10 to $40 and can be purchased
-  <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a> or by
+  <a href="https://csumb.edu/worldtheater" rel="nofollow">online</a> or by
   calling the box office at 582-4580. Driving directions and a campus map are
-  available<a href="http://csumb.edu/map" rel="nofollow">here</a>.
+  available<a href="https://csumb.edu/map" rel="nofollow">here</a>.
 </p>
 ```

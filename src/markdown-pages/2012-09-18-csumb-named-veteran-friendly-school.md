@@ -12,7 +12,7 @@ slug: csumb-named-&apos;military-friendly-school&apos;
 <h3>Campus support team eases transition</h3>
 <p>CSU Monterey Bay admissions counselor Louis Martin enjoys
 working with veterans.</p>
-<p><img alt="CSUMB has been named a &apos;veteran friendly school&apos; by G.I. Jobs magazine" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/gi_jobs.jpg" style="float:left; width:300px; height:199px">&#x201C;They&#x2019;re the best
+<p><img alt="CSUMB has been named a &apos;veteran friendly school&apos; by G.I. Jobs magazine" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/gi_jobs.jpg" style="float:left; width:300px; height:199px">&#x201C;They&#x2019;re the best
 students to work with because they realize the value of an
 education &#x2013; more so than the average 17-year-old,&#x201D; Martin said.</img></p>
 <p>&#x201C;They&#x2019;re intelligent and have interesting backgrounds.&#x201D;</p>
@@ -56,7 +56,7 @@ Educational Assistance program as dependents of deceased or
 disabled veterans. The state of California also offers a tuition
 waiver to dependents of deceased or disabled veterans; 112 students
 are currently using this program at CSUMB.</p>
-<p><a href="http://ar.csumb.edu/veterans-services" rel="nofollow">Learn more about veterans programs at CSUMB</a>.</p>
+<p><a href="https://ar.csumb.edu/veterans-services" rel="nofollow">Learn more about veterans programs at CSUMB</a>.</p>
 <p><br>
 &#xA0;</br></p>
 

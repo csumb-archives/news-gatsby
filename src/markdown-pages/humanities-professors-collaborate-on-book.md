@@ -21,9 +21,9 @@ date: January 01 2020
   community, and to make just and wise decisions together.
 </p>
 <p>
-  <a href="http://hcom.csumb.edu/josina-makau-0">Dr. Makau</a> has a Ph.D. in
+  <a href="https://hcom.csumb.edu/josina-makau-0">Dr. Makau</a> has a Ph.D. in
   rhetoric from UC Berkeley.
-  <a href="http://hcom.csumb.edu/debian-marty">Dr. Marty</a> earned a doctorate
+  <a href="https://hcom.csumb.edu/debian-marty">Dr. Marty</a> earned a doctorate
   in communication studies at Ohio State University. Both are professors in the
   Division of Humanities and Communication.
 </p>
@@ -35,8 +35,8 @@ date: January 01 2020
   <em
     >Dr. Debian Marty discusses the importance of recognizing communication
     patterns in order to create a more peaceful and just society
-    <a href="http://youtu.be/dyTewGJF_6A">in this video</a>.</em
-  ><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+    <a href="https://youtu.be/dyTewGJF_6A">in this video</a>.</em
+  ><a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
     >Learn more about what faculty members at CSUMB are doing.</a
   >
 </p>

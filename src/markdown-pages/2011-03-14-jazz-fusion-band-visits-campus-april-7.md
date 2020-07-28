@@ -12,7 +12,7 @@ slug: jazz-fusion-band-visits-campus-april-7
 <p>Jazz and world music fusion band Hiroshima will perform at
 California State University, Monterey Bay&#x2019;s World Theater on April
 7. Showtime is 7:30 p.m.</p>
-<p><img alt="Hirishima jazz-world music band" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/hiroshima-small.jpg" style="float:left; width:300px; height:212px">The group was
+<p><img alt="Hirishima jazz-world music band" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/hiroshima-small.jpg" style="float:left; width:300px; height:212px">The group was
 formed in 1974 by keyboardist and saxophonist Dan Kuramoto, his
 wife June &#x2013; one of the world&#x2019;s foremost players of the koto, a
 Japanese string instrument &#x2013; and percussionists/taiko players
@@ -49,7 +49,7 @@ csumb.edu/map.</p>
 &#x2022; WHERE: CSUMB&#x2019;s World Theater on Sixth Avenue<br>
 &#x2022; WHEN: 7:30 p.m., April 7<br>
 &#x2022; TICKETS: $40 premium, $29 general, discounts for students and
-seniors; reserve online at <a href="http://csumb.edu/worldtheater" title="http://csumb.edu/worldtheater">http://csumb.edu/worldtheater</a>
+seniors; reserve online at <a href="https://csumb.edu/worldtheater" title="https://csumb.edu/worldtheater">https://csumb.edu/worldtheater</a>
 or by calling the box office at 582-4580<br>
 &#x2022; INFORMATION: 582-4580<br>
 &#xA0;</br></br></br></br></br></br></br></p>

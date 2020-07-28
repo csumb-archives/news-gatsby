@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   A contingent of CSU Monterey Bay students and faculty members will be among
   those presenting research at the annual meeting of the
-  <a href="http://www.esa.org/esa/">Ecological Society of America</a>.
+  <a href="https://www.esa.org/esa/">Ecological Society of America</a>.
 </p>
 <p>
   More than 3,000 environmental scientists will attend the meeting in
@@ -16,7 +16,7 @@ date: January 01 2020
   It’s all ecology.”
 </p>
 <p>
-  <a href="http://eco.confex.com/eco/2014/webprogram/Paper47767.html"
+  <a href="https://eco.confex.com/eco/2014/webprogram/Paper47767.html"
     >Miles Daniels</a
   >, who just graduated with a Master of Science in Coastal and Watershed
   Science and Policy, worked with Professor Fred Watson. They explored ways to
@@ -37,7 +37,7 @@ date: January 01 2020
   health,” Daniels said.
 </p>
 <p>
-  <a href="http://eco.confex.com/eco/2014/webprogram/Paper49930.html"
+  <a href="https://eco.confex.com/eco/2014/webprogram/Paper49930.html"
     >Stefanie Kortman</a
   >, a graduate student in Coastal and Watershed Science and Policy, worked with
   Professor Marc Los Huertos on a project involving greenhouse gas emissions
@@ -56,7 +56,7 @@ date: January 01 2020
 </p>
 <p>Kortman will present her work on Aug. 14.</p>
 <p>
-  <a href="http://eco.confex.com/eco/2014/webprogram/Paper50362.html"
+  <a href="https://eco.confex.com/eco/2014/webprogram/Paper50362.html"
     >April Makukhov</a
   >
   worked with researchers from Hopkins Marine Station and the California

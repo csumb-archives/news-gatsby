@@ -41,7 +41,7 @@ date: January 01 2020
 <p>
   <strong>IF YOU GO:</strong> • More information on the Monterey History Fest
   and a schedule of events can be found
-  <a href="http://www.historicmonterey.org/HF092612%20update5.pdf">here.</a> •
+  <a href="https://www.historicmonterey.org/HF092612%20update5.pdf">here.</a> •
   The Royal Presidio Chapel is located at 500 Church St., Monterey
 </p>
 ```

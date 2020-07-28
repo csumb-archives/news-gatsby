@@ -13,7 +13,7 @@ slug: record-number-of-applications-for-fall
 <p>Students who want to attend California State University,
 Monterey Bay in fall 2014 have some tough competition.<br>
 <br>
-<img alt="Several thousand people visited campus for the 2013 Open House" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/open_house_2013_0.jpg" style="float:left; width:400px; height:266px">For the fifth
+<img alt="Several thousand people visited campus for the 2013 Open House" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/open_house_2013_0.jpg" style="float:left; width:400px; height:266px">For the fifth
 straight year, CSUMB received a record number of freshmen
 applications.<br>
 Freshmen hoping to enroll in fall 2014 submitted more than 14,800

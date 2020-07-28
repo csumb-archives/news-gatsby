@@ -37,14 +37,14 @@ reception and silent auction will get under way at 5 p.m. Dinner
 will start at 6:30 p.m.</br></br></br></br></br></br></br></br></p>
 <p>Tickets are $85 per person and can be reserved by calling
 582-4141. For more information or to purchase tickets online,
-<a href="http://csumb.edu/heart" rel="nofollow">click here</a>. For
-driving directions and a campus map, <a href="http://csumb.edu/map" rel="nofollow">click here</a>.</p>
+<a href="https://csumb.edu/heart" rel="nofollow">click here</a>. For
+driving directions and a campus map, <a href="https://csumb.edu/map" rel="nofollow">click here</a>.</p>
 <p>WHAT: Have a Heart for Students Dinner and Auction<br>
 WHEN: 5 p.m., Saturday, Feb. 25, 2012<br>
 WHERE: University Center on Sixth Avenue near B Street, CSUMB
 campus<br>
 COST: $85 per person.<br>
-RESERVATIONS: 582-4141 or <a href="http://csumb.edu/heart" rel="nofollow">online</a><br>
+RESERVATIONS: 582-4141 or <a href="https://csumb.edu/heart" rel="nofollow">online</a><br>
 &#xA0;</br></br></br></br></br></p>
 
 

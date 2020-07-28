@@ -15,7 +15,7 @@ Presidential Award as part of the 2010 President&#x2019;s Higher Education
 Community Service Honor Roll, the highest federal recognition a
 college or university can receive for its commitment to community
 service.&#xA0;</p>
-<p><img alt="President Harrison with other award winners in New Orleans" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/new_orleans_event_1.jpg" style="float:left; width:400px; height:270px">CSU Monterey Bay
+<p><img alt="President Harrison with other award winners in New Orleans" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/new_orleans_event_1.jpg" style="float:left; width:400px; height:270px">CSU Monterey Bay
 President Dianne Harrison (pictured at left in red jacket) received
 the award June 8 in New Orleans. Dr. Seth Pollack, director of
 CSUMB&apos;s Service Learning Institute, and Dr. Miguel Lopez,
@@ -60,7 +60,7 @@ diversity, social justice and social responsibility are linked to
 the core curriculum.&#xA0;</p>
 <p>&#x201C;It&#x2019;s wonderful to see our program being recognized nationally
 and even internationally,&#x201D; Dr. &#xA0;Pollack said.</p>
-<p><img alt="Community Honor Roll badge" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/community_service_badge_0.jpg" style="float:right; width:253px; height:285px">&#x201C;No other
+<p><img alt="Community Honor Roll badge" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/community_service_badge_0.jpg" style="float:right; width:253px; height:285px">&#x201C;No other
 university in the country has made as significant a commitment to
 developing students&#x2019; capacity for service and social
 responsibility.&#x201D;&#xA0;</img></p>

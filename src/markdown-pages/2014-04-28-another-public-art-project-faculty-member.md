@@ -9,10 +9,10 @@ slug: another-public-art-project-for-faculty-member
 
 
 <span class="date">Posted on Apr 28, 2014    </span>
-<p><a href="http://vpa.csumb.edu/people/johanna-poethig" rel="nofollow">Johanna Poethig</a>, who has worked on dozens of
+<p><a href="https://vpa.csumb.edu/people/johanna-poethig" rel="nofollow">Johanna Poethig</a>, who has worked on dozens of
 large-scale murals and other art installations around the country,
 has taken on yet another project.</p>
-<p>Poethig, a professor in CSU Monterey Bay&#x2019;s <a href="http://vpa.csumb.edu" rel="nofollow">Visual and Public Art
+<p>Poethig, a professor in CSU Monterey Bay&#x2019;s <a href="https://vpa.csumb.edu" rel="nofollow">Visual and Public Art
 Department,</a> has been named lead artist on a transportation
 project in the East Bay area of San Francisco.</p>
 <p>She and <a href="../../../2012/oct/11/art-social-change.html" rel="nofollow">Mildred Howard</a>, another artist from the
@@ -39,7 +39,7 @@ painting and sculpture to performance art and video.<br>
 (Left to right): Peter Richards, Johanna Poethig, Mildred Howard,
 Joyce Hsu</br></em><br>
 <br>
-<img alt="Artists seated at transit stop" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ac_transit_for_web.jpg" style="width:550px; height:487px; float:left"/></br></br></br></br></p>
+<img alt="Artists seated at transit stop" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ac_transit_for_web.jpg" style="width:550px; height:487px; float:left"/></br></br></br></br></p>
 
 
 

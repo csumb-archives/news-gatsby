@@ -53,5 +53,5 @@ date: January 01 2020
   Cabrillo College, Youth Entrepreneurship Program, and the Small Business
   Development Center (SBDC) Northern Regional Network.
 </p>
-<p><a href="http://csumb.edu/maps">Driving directions and a campus map</a></p>
+<p><a href="https://csumb.edu/maps">Driving directions and a campus map</a></p>
 ```

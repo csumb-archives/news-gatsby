@@ -15,11 +15,11 @@ date: January 01 2020
 </p>
 <p>The service is available for students, staff, faculty and the community.</p>
 <p>
-  <a href="http://health.csumb.edu/flu-information/flu-symptoms-and-treatment"
+  <a href="https://health.csumb.edu/flu-information/flu-symptoms-and-treatment"
     >Learn about flu symptoms and treatment</a
   >
   <a
-    href="http://health.csumb.edu/sites/default/files/60/igx_migrate/files/Take3v2.pdf"
+    href="https://health.csumb.edu/sites/default/files/60/igx_migrate/files/Take3v2.pdf"
     >Download a guide to flu prevention</a
   >
 </p>

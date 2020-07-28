@@ -14,7 +14,7 @@ slug: protecting-intellectual-property
 including their brand, logo, taglines, documents and innovations,
 are their most important assets. Those assets need to be protected
 from competitive infringement.</p>
-<p><img alt="copyright symbol" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/copyright.jpeg" style="float:left; width:275px; height:183px">Business owners can
+<p><img alt="copyright symbol" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/copyright.jpeg" style="float:left; width:275px; height:183px">Business owners can
 learn how to manage and protect their intellectural property at the
 fall Entrepreneurship Forum set for Oct. 14 at CSU Monterey
 Bay.</img></p>
@@ -29,7 +29,7 @@ e-mail her at <a href="mailto:mzenk@csumb.edu">mzenk@csumb.edu</a>.</p>
 <p>The University Center is located on Sixth Avenue at B Street.
 Driving directions and a campus map can be found at csumb.edu/maps.
 Visitors must purchase a parking permit from the machine on the lot
-or online at <a href="http://parking.csumb.edu/buy-permit" title="http://parking.csumb.edu/buy-permit">http://parking.csumb.edu/buy-permit</a></p>
+or online at <a href="https://parking.csumb.edu/buy-permit" title="https://parking.csumb.edu/buy-permit">https://parking.csumb.edu/buy-permit</a></p>
 <p><br>
 <strong>About CSU Monterey Bay&#x2019;s Entrepreneurship
 Forums</strong><br>

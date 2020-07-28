@@ -47,7 +47,7 @@ date: January 01 2020
 <p>The Center for Contemporary Art is located at 1519 19th St.</p>
 <p>
   For more information, call the museum at (916) 498-9811 or visit
-  <a href="http://www.ccasac.org" title="www.ccasac.org">www.ccasac.org</a>.
+  <a href="https://www.ccasac.org" title="www.ccasac.org">www.ccasac.org</a>.
 </p>
 <p></p>
 <p><em>Photo of Enid Baxter Blader by Reggie Woolery/KCET</em></p>

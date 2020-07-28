@@ -9,7 +9,7 @@ slug: csumb-featured-in-book-on-undergraduate-research
 
 
 <span class="date">Posted on Jun 15, 2012    </span>
-<p><img alt="The book will be available online in June" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/book_jacket_sm.jpg" style="float:left; width:200px; height:295px">Whether at a field
+<p><img alt="The book will be available online in June" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/book_jacket_sm.jpg" style="float:left; width:200px; height:295px">Whether at a field
 site or in a lab, the chance to conduct research is a game-changer
 when it comes to earning a degree. Staff members of CSU Monterey
 Bay&#x2019;s Undergraduate Research Opportunities Center &#x2013; or UROC &#x2013;
@@ -43,8 +43,8 @@ where are going,&#x201D; Dr. Head said.</p>
 <p><em>About the book: &#x201C;Undergraduate Research Offices and
 Programs: Models and Practices by Joyce Kinkead (Utah State
 University) and Linda Blockus (University of Missouri). Published
-by the Council on Undergraduate Research. Order it&#xA0;<a href="http://www.cur.org/publications.html" rel="nofollow">here</a>.</em></p>
-<p>Learn more about UROC at CSUMB <a href="http://csumb.edu/uroc" rel="nofollow">here</a>.</p>
+by the Council on Undergraduate Research. Order it&#xA0;<a href="https://www.cur.org/publications.html" rel="nofollow">here</a>.</em></p>
+<p>Learn more about UROC at CSUMB <a href="https://csumb.edu/uroc" rel="nofollow">here</a>.</p>
 <p><br>
 &#xA0;</br></p>
 

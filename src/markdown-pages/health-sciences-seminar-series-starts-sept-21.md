@@ -18,7 +18,7 @@ date: January 01 2020
   The presentation will take place at 4 p.m. in Room 3145 of the Tanimura &amp;
   Antle Family Memorial Library. The public is invited to attend. Driving
   directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>Other presentations scheduled this semester include:</p>
 <p>
@@ -43,6 +43,6 @@ date: January 01 2020
 </p>
 <p>
   For more information, contact Dr. Aparna Sreenivasan at 582-3210. Learn more
-  about the biology major at CSUMB <a href="http://csumb.edu/biology">here</a>.
+  about the biology major at CSUMB <a href="https://csumb.edu/biology">here</a>.
 </p>
 ```

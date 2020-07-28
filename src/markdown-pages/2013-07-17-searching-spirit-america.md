@@ -13,7 +13,7 @@ slug: searching-for-the-spirit-of-america
 <p>The CSU Monterey Bay alumnus (TAT 2010) and his brother Tyler
 just completed one &#x2013; a 3,800-mile bike ride through 11 states from
 the Golden Gate Bridge to Atlantic Beach, N.C.</p>
-<p><img alt="Cody Kyle at the start of his 3,800-mile bike trip" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/cody_kyle.jpg" style="float:right; width:300px; height:200px">The odyssey ended
+<p><img alt="Cody Kyle at the start of his 3,800-mile bike trip" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/cody_kyle.jpg" style="float:right; width:300px; height:200px">The odyssey ended
 on July 12, when, according to their blog, Cody and Tyler reached
 their final destination &#x2013; in pouring rain.</img></p>
 <p>&quot;We were escorted by the Morehead Police Department. They guided
@@ -61,7 +61,7 @@ were called &#x201C;crazy,&#x201D; it was said in a nice way, they said.</p>
 <p>There&#x2019;s only one drawback to traveling by bike, Tyler told the
 Bee. &#x201C;There&#x2019;s not much room for souvenirs.&#x201D;<br>
 <br>
-<a href="http://outthereinit.wordpress.com" rel="nofollow"><em>Read
+<a href="https://outthereinit.wordpress.com" rel="nofollow"><em>Read
 the blog that Cody and Tyler kept during their trip.</em></a></br></br></p>
 
 

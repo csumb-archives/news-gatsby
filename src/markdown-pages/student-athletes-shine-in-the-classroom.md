@@ -41,6 +41,6 @@ date: January 01 2020
   honors.
 </p>
 <p>
-  <a href="http://otterathletics.com/">Learn more about CSUMB athletics</a>.
+  <a href="https://otterathletics.com/">Learn more about CSUMB athletics</a>.
 </p>
 ```

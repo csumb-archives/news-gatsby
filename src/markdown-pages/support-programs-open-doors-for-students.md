@@ -16,7 +16,7 @@ date: January 01 2020
   support programs at Hartnell College, she transferred to CSU Monterey Bay two
   years later and was admitted into the university’s
   <a
-    href="http://eosp.csumb.edu/educational-opportunity-program?_csumbsearch=EOP"
+    href="https://eosp.csumb.edu/educational-opportunity-program?_csumbsearch=EOP"
     >Educational Opportunity Program</a
   >
   (EOP).
@@ -31,7 +31,7 @@ date: January 01 2020
   She took advantage of the services EOP offered, and on May 2, she and 63 other
   students will be honored at the sixth annual Educational Opportunity Program
   and
-  <a href="http://eosp.csumb.edu/trio-student-support-services-sss"
+  <a href="https://eosp.csumb.edu/trio-student-support-services-sss"
     >TRiO Student Support Services</a
   >
   (SSS) Senior Celebration.

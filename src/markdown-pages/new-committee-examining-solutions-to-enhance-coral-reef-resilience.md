@@ -28,7 +28,7 @@ date: January 01 2020
 </p>
 <p>
   The
-  <a href="http://www8.nationalacademies.org/cp/Com">provisional committee’</a>s
+  <a href="https://www8.nationalacademies.org/cp/Com">provisional committee’</a>s
   first meeting was held Feb. 8-9, 2018 in Washington D.C. and included an open
   meeting session to solicit public input. The committee is slated to host three
   more public meetings throughout the course of the study to ensure the public
@@ -44,7 +44,7 @@ date: January 01 2020
   This study is sponsored by the National Oceanic and Atmospheric Administration
   (NOAA). To learn more about this study or provide input please visit the
   National Academies’ web page on
-  <a href="http://www.dels.nas.edu/Study-"
+  <a href="https://www.dels.nas.edu/Study-"
     >Interventions to Increase the Resilience of Coral Reefs</a
   >.
 </p>

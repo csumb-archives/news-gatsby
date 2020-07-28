@@ -47,14 +47,14 @@ date: January 01 2020
   She also realized that the ocean is “vast beyond description, scary,
   thrilling, sacred and deserves to be respected and protected.”
 </p>
-<p>Find out more about <a href="http://5gyres.org">5Gyres</a>' work.</p>
+<p>Find out more about <a href="https://5gyres.org">5Gyres</a>' work.</p>
 <p>
   Learn about CSUMB’s master’s degree in
-  <a href="http://sep.csumb.edu/amws/">applied marine and watershed science</a>
+  <a href="https://sep.csumb.edu/amws/">applied marine and watershed science</a>
 </p>
 <p>
   &#42;Reprinted from the newsletter of CSU Monterey Bay’s
-  <a href="http://watershed.csumb.edu/wi/">Watershed Institute</a>. Used by
+  <a href="https://watershed.csumb.edu/wi/">Watershed Institute</a>. Used by
   permission. Top photo: Elizabeth Rosevelt Bottom photo: Rosevelt and other
   volunteers headed to Iceland on the sailing vessel Sea Dragon&#42;
 </p>

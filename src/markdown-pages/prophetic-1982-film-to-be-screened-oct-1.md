@@ -25,7 +25,7 @@ date: January 01 2020
   the Environment's annual Days and Nights Festival at Big Sur's Henry Miller
   Library and Carmel's Sunset Center.
   <a
-    href="http://news.csumb.edu/news/2013/sep/25/faculty-filmmakers-featured-days-and-nights-festival"
+    href="https://news.csumb.edu/news/2013/sep/25/faculty-filmmakers-featured-days-and-nights-festival"
     ><em>Faculty filmmakers' work screened at Days and Nights Festival</em></a
   >
 </p>

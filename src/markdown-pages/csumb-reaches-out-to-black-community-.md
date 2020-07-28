@@ -6,10 +6,10 @@ date: January 01 2020
 
 ```html
 <p>
-  <a href="http://blogs.calstate.edu/voicesviews/?p=1607"
+  <a href="https://blogs.calstate.edu/voicesviews/?p=1607"
     >View a photo essay from Super Sunday L</a
   >
-  <a href="http://www.californiareport.org/archive/R201303011630/b"
+  <a href="https://www.californiareport.org/archive/R201303011630/b"
     >isten to an NPR report here</a
   >
 </p>
@@ -21,7 +21,7 @@ date: January 01 2020
 </p>
 <p>
   On Feb. 17, President Ochoa will address the congregation at
-  <a href="http://www.greatervictorytemple.org/">Greater Victory Temple</a> at
+  <a href="https://www.greatervictorytemple.org/">Greater Victory Temple</a> at
   11:05 a.m. The previous day, Dr. Ronnie Higgs, vice president for Student
   Affairs, will visit the Seaside Community Seventh-Day Adventist church for a
   10:50 a.m. presentation.
@@ -54,11 +54,11 @@ date: January 01 2020
   directly with families are among the programs that have been implemented.
 </p>
 <p>
-  <a href="http://www.calstate.edu/pa/news/2012/release/chancellor.shtml"
+  <a href="https://www.calstate.edu/pa/news/2012/release/chancellor.shtml"
     >CSU Chancellor Timothy White</a
   >
   will participate in this year’s
-  <a href="http://www.calstate.edu/supersunday/">Super Sunday</a> events when he
+  <a href="https://www.calstate.edu/supersunday/">Super Sunday</a> events when he
   visits a church in Bakersfield on Feb. 17. His visit is one of 100 Super
   Sunday visits organized by the CSU at predominantly African American churches
   all over the state.
@@ -67,7 +67,7 @@ date: January 01 2020
   Now in its seventh year, Super Sunday is part of an educational outreach led
   by the
   <a
-    href="http://www.calstate.edu/externalrelations/partnerships/african-american.shtml"
+    href="https://www.calstate.edu/externalrelations/partnerships/african-american.shtml"
     >CSU African American Initiative</a
   >
   – a partnership with churches – to increase college preparation, student

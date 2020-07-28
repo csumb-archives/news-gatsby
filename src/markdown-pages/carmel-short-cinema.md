@@ -56,7 +56,7 @@ date: January 01 2020
 <p>
   The Forest Theater is located at the corner of Mountain View and Santa Rita
   streets near downtown Carmel. For information, visit the web at
-  <a href="http://www.foresttheaterguild.org" title="www.foresttheaterguild.org"
+  <a href="https://www.foresttheaterguild.org" title="www.foresttheaterguild.org"
     >www.foresttheaterguild.org</a
   >
 </p>

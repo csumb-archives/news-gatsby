@@ -13,7 +13,7 @@ slug: students-help-to-tell-stories-of-chinatown
 <p>For six years, Professor Rina Benmayor&#x2019;s students at CSU
 Monterey Bay have worked to preserve memories of the Chinatown area
 of Salinas.</p>
-<p><img alt="Sign on the Republic Cafe on Soledad Street has been refurbished" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/chop_suey_sign_sm.jpg" style="float:right; width:200px; height:267px">In partnership
+<p><img alt="Sign on the Republic Cafe on Soledad Street has been refurbished" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/chop_suey_sign_sm.jpg" style="float:right; width:200px; height:267px">In partnership
 with the non-profit Asian Cultural Experience, students in her Oral
 History and Community Memory service learning classes have
 designed, conducted and archived oral histories focused on life
@@ -53,7 +53,7 @@ project, generating primary historical material that is permanently
 archived in the CSUMB Oral History and Community Memory Archive.
 Eventually, the material will be archived in the Salinas Chinatown
 Cultural Center and Museum.</p>
-<p><a href="http://hcom.csumb.edu/oral-history" rel="nofollow">Learn about CSUMB&#x2019;s Oral History and Community Memory
+<p><a href="https://hcom.csumb.edu/oral-history" rel="nofollow">Learn about CSUMB&#x2019;s Oral History and Community Memory
 Archive</a><br>
 <br>
 <a href="../../jan/31/faculty-highlights.html" rel="nofollow">More
@@ -77,8 +77,8 @@ storytelling.<br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/bLbh2gw8EsA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/bLbh2gw8EsA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/bLbh2gw8EsA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/bLbh2gw8EsA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -89,7 +89,7 @@ storytelling.<br>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r18---sn-o097zne6.googlevideo.com/videoplayback?signature=E87991EC509CC0DE63E55CB0776B6224BF7A5799.E267605422ED9571464D6DFD48AD2DBB1C678FAE&amp;pl=23&amp;upn=-jv_Uibbea4&amp;dur=228.228&amp;id=o-AJXu9pFneHnsULDszYafZuytAU8HvSSEBRZeTBGreAFb&amp;sver=3&amp;mv=m&amp;mt=1422316870&amp;initcwndbps=4486250&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ms=au&amp;itag=18&amp;key=yt5&amp;source=youtube&amp;mm=31&amp;ip=198.189.249.65&amp;expire=1422338541&amp;ipbits=0&amp;ratebypass=yes&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;name=bLbh2gw8EsA" type="video/mp4"/></video></div>
+<source src="https://r18---sn-o097zne6.googlevideo.com/videoplayback?signature=E87991EC509CC0DE63E55CB0776B6224BF7A5799.E267605422ED9571464D6DFD48AD2DBB1C678FAE&amp;pl=23&amp;upn=-jv_Uibbea4&amp;dur=228.228&amp;id=o-AJXu9pFneHnsULDszYafZuytAU8HvSSEBRZeTBGreAFb&amp;sver=3&amp;mv=m&amp;mt=1422316870&amp;initcwndbps=4486250&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ms=au&amp;itag=18&amp;key=yt5&amp;source=youtube&amp;mm=31&amp;ip=198.189.249.65&amp;expire=1422338541&amp;ipbits=0&amp;ratebypass=yes&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;name=bLbh2gw8EsA" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

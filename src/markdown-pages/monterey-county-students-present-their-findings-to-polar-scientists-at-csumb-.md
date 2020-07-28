@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   SEASIDE Calif., Mar. 15, 2018 – Nearly 100 Monterey County middle and high
   school students participated in the
-  <a href="http://polar-ice.org/educator-resources/polar-srs/"
+  <a href="https://polar-ice.org/educator-resources/polar-srs/"
     >Student Polar Research Symposium</a
   >
   Thursday, March 15, 2018 at the CSUMB

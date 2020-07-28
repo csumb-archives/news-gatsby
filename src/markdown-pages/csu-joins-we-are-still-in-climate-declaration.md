@@ -25,7 +25,7 @@ date: January 01 2020
 </p>
 <p>
   The California State University has joined a
-  <a href="http://wearestillin.com/"
+  <a href="https://wearestillin.com/"
     >coalition of over 1,400 cities, states, businesses and universities</a
   >
   who are standing together to maintain U.S. leadership on climate change and

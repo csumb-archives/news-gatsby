@@ -42,7 +42,7 @@ date: January 01 2020
   The film showing is part of an event at the museum that closes its
   participatory community exhibit
   <a
-    href="http://www.montereyart.org/event/closing&#45;event&#45;for&#45;open&#45;walls&#45;you&#45;are&#45;here/?utm_medium=email&amp;utm_campaign=Happening+at+the+Monterey+Museum+of+Art&amp;utm_content=Happening+at+the+Monterey+Museum+of+Art+CID_a3148833e410bab61853225d9e7db571&amp;utm_source=Email%20marketing%20software&amp;utm_term=Learn%20more"
+    href="https://www.montereyart.org/event/closing&#45;event&#45;for&#45;open&#45;walls&#45;you&#45;are&#45;here/?utm_medium=email&amp;utm_campaign=Happening+at+the+Monterey+Museum+of+Art&amp;utm_content=Happening+at+the+Monterey+Museum+of+Art+CID_a3148833e410bab61853225d9e7db571&amp;utm_source=Email%20marketing%20software&amp;utm_term=Learn%20more"
     >Open Walls: You Are Here</a
   >.
 </p>

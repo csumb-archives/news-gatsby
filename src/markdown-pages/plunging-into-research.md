@@ -31,7 +31,7 @@ date: January 01 2020
   system. Other sites include Duke University, Scripps Institution of
   Oceanography and Woods Hole Oceanographic Institution. A stipend and help with
   travel and housing expenses will be provided.
-  <a href="http://reu.csumb.edu">More information is available here.</a>
+  <a href="https://reu.csumb.edu">More information is available here.</a>
 </p>
 <p></p>
 <p></p>

@@ -16,7 +16,7 @@ college, more than 80 percent drop out of school during their first
 year and only 3 percent graduate, according to a report by the
 University of Colorado Denver.<br>
 <br>
-<img alt="Tina Banks and Hans, her service dog" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/tina_and_hans_for_web.jpg" style="float:left; width:300px; height:349px">Many former service
+<img alt="Tina Banks and Hans, her service dog" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/tina_and_hans_for_web.jpg" style="float:left; width:300px; height:349px">Many former service
 members who are adept at patching wounded soldiers, defusing bombs
 or tracking the enemy have a difficult time navigating a college
 campus or completing a class assignment. The reasons vary. For
@@ -44,7 +44,7 @@ As part of regaining her life and independence, she and Hans came
 to CSU Monterey Bay. &#x201C;I decided to get my degree to further push
 myself through the struggles I have being around a lot of people,&#x201D;
 Banks said.<br>
-<img alt="Hans dressed for commencement with mortarboard and tie" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/hans_with_cap_and_tie_for_web.jpg" style="float:right; width:250px; height:323px"/></br></br></br></br></br></br></br></br></br></img></br></br></p>
+<img alt="Hans dressed for commencement with mortarboard and tie" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/hans_with_cap_and_tie_for_web.jpg" style="float:right; width:250px; height:323px"/></br></br></br></br></br></br></br></br></br></img></br></br></p>
 <p>&#x201C;Now here I am, two years later, graduating with honors,
 navigating the world with less anxiety and living a life rich with
 friends and a new-found hope for my life. CSUMB made a difference
@@ -59,7 +59,7 @@ short stories this summer,&#x201D; she said.<br>
 was four years ago, and I may even retire Hans within the next year
 or two.&#x201D;<br>
 <br>
-<a href="http://ar.csumb.edu/veterans-services" rel="nofollow">Learn about veterans services at CSUMB</a></br></br></br></br></br></br></p>
+<a href="https://ar.csumb.edu/veterans-services" rel="nofollow">Learn about veterans services at CSUMB</a></br></br></br></br></br></br></p>
 <p class="small"><em>Photos courtesy of Tina Banks<br>
 Top: Banks and Hans<br>
 At right: Hans in his custom-made mortarboard and bow tie</br></br></em></p>

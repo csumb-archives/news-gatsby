@@ -53,13 +53,13 @@ date: January 01 2020
   makes it stable in surf.
 </p>
 <p>
-  <a href="http://seafloor.otterlabs.org">
+  <a href="https://seafloor.otterlabs.org">
     Learn more about the Seafloor Mapping Lab</a
   >
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2011/sep/23/research-vessel-works-uncharted-waters?news-index=14279"
+    href="https://news.csumb.edu/news/2011/sep/23/research-vessel-works-uncharted-waters?news-index=14279"
     >Read about Dr. Kvitek and the KelpFly</a
   >
 </p>

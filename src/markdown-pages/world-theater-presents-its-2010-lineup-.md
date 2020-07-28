@@ -25,7 +25,7 @@ date: January 01 2020
 <p>
   All performances start at 7:30 p.m. For ticket information, visit the theater
   online at
-  <a href="http://worldtheater.csumb.edu/">CSUMB.EDU/worldtheater</a> or call
+  <a href="https://worldtheater.csumb.edu/">CSUMB.EDU/worldtheater</a> or call
   831-582-4580.
 </p>
 <p></p>

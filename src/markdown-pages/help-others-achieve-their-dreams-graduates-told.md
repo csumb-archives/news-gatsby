@@ -72,12 +72,12 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2014/may/17/commencement-remarks-cecilia-muñoz"
+    href="https://news.csumb.edu/news/2014/may/17/commencement-remarks-cecilia-muñoz"
     >Read Ms. Muñoz’s remarks here</a
   >
 </p>
 <p>
-  <a href="http://news.csumb.edu/gallery/commencement-2014"
+  <a href="https://news.csumb.edu/gallery/commencement-2014"
     >View a photo gallery here</a
   >
 </p>

@@ -9,7 +9,7 @@ slug: campus-celebrates-chicano-latino-heritage-month
 
 
 <span class="date">Posted on Sep 14, 2014    </span>
-<p><img alt="Chicano/Latino Heritage Month celebrated Sept.15-Oct. 15" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/latino_heritage_month.png" style="float:left; width:550px; height:208px">Sept. 15 through
+<p><img alt="Chicano/Latino Heritage Month celebrated Sept.15-Oct. 15" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/latino_heritage_month.png" style="float:left; width:550px; height:208px">Sept. 15 through
 Oct. 15 is Chicano/Latino Heritage Month. During the month, the
 cultures and tradition of those who trace their roots to Spain,
 Mexico and the Spanish-speaking nations of Central and South
@@ -17,7 +17,7 @@ America and the Caribbean are celebrated.<br>
 <br>
 CSU Monterey Bay is commemorating the month with a variety of
 activities and events.</br></br></img></p>
-<p>For the most recent information, <a href="http://activities.csumb.edu/chican-latin-heritage-month" rel="nofollow">click here</a>.<br>
+<p>For the most recent information, <a href="https://activities.csumb.edu/chican-latin-heritage-month" rel="nofollow">click here</a>.<br>
 <br>
 <strong>Sept. 16</strong><br>
 <em>Mariachi Night | 10 p.m.-midnight | Chapman Science
@@ -42,7 +42,7 @@ info.<br>
 library</em><br>
 <br>
 The sisters of Lambda Theta Nu Sorority pride themselves on being
-supporters of literacy awareness&#xA0;<img alt="Flags of Spanish-speaking nations" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/flags.png" style="float:left; width:171px; height:317px">with an emphasis on
+supporters of literacy awareness&#xA0;<img alt="Flags of Spanish-speaking nations" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/flags.png" style="float:left; width:171px; height:317px">with an emphasis on
 the Latino community. They believe everyone deserves the
 opportunity for an education; members will staff a table to raise
 awareness and accept donations. Contact Raquel Domingez (<a href="mailto:omegapresidents@gmail.com">omegapresidents@gmail.com</a>)
@@ -67,7 +67,7 @@ Mendoza (<a href="mailto:dimendoza@csumb.edu">dimendoza@csumb.edu</a>).<br>
 <em>Luis Valdez&apos;s Valley of the Heart | 8 p.m. Saturday and 2 p.m.
 Sunday | World Theater</em><br>
 <br>
-&quot;<a href="http://www.elteatrocampesino.com/" rel="nofollow">Valley
+&quot;<a href="https://www.elteatrocampesino.com/" rel="nofollow">Valley
 of the Heart</a>&#x201D; is a love story, rooted in historical events set
 in the fertile Santa Clara Valley, then known as the &#x201C;Valley of
 Heart&#x2019;s Delight,&#x201D; in 1941. The area is now Silicon Valley. Opening
@@ -105,7 +105,7 @@ or by bringing a copy of a photograph of a loved one who has passed
 away to be included on the main altar. Contact Gail Salgado
 (<a href="mailto:gsalgado@csumb.edu">gsalgado@csumb.edu</a>) or
 Dionicio Mendoza (<a href="mailto:dimendoza@csumb.edu">dimendoza@csumb.edu</a>).</br></br></br></br></br></br></br></br></br></p>
-<p><a href="http://library.csumb.edu/chicanlatin-heritage-month-2014" rel="nofollow">See how CSUMB&#x2019;s library is highlighting the
+<p><a href="https://library.csumb.edu/chicanlatin-heritage-month-2014" rel="nofollow">See how CSUMB&#x2019;s library is highlighting the
 month</a></p>
 
 

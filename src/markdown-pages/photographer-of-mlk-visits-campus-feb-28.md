@@ -38,7 +38,7 @@ date: January 01 2020
 <p>
   He has captured images of the farm worker movement, Dorothy Day and the
   Catholic Workers, and Joan Baez and the peace movement, as well as the Civil
-  Rights movement. Visit his <a href="http://bobfitchphoto.com">website</a> to
+  Rights movement. Visit his <a href="https://bobfitchphoto.com">website</a> to
   see some of his work.
 </p>
 <p>

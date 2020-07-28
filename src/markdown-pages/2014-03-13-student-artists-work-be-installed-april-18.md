@@ -12,7 +12,7 @@ slug: student-artists&apos;-work-to-be-installed-april-18
 <p>A vital part of being an artist is entering works into juried
 competitions. Students at CSU Monterey Bay had the opportunity to
 do that, thanks to a generous donation from a faculty member.</p>
-<p><img alt="A call for site-specific works has gone out" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/eye.jpeg" style="float:right; width:259px; height:194px">A call went out
+<p><img alt="A call for site-specific works has gone out" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/eye.jpeg" style="float:right; width:259px; height:194px">A call went out
 for site-specific entries to be displayed in the Otter Express and
 the University Center. Three works were selected for the E. Richard
 Brown Award for Excellence in Art. The winning artists &#x2013; Jorge
@@ -27,7 +27,7 @@ art displayed,&#x201D; said Dr. Brown, who teaches a First Year Seminar
 and service learning classes. &#x201C;So I thought, what if I were to make
 a monetary award to motivate the students to become more active in
 art and all of us would have the benefit of seeing that
-art?&quot;<img alt="E. Richard Brown award winners" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/art_winners_for_web.jpg" style="float:left; width:275px; height:207px"/></p>
+art?&quot;<img alt="E. Richard Brown award winners" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/art_winners_for_web.jpg" style="float:left; width:275px; height:207px"/></p>
 <p>An experience he had while a student at UCLA motivated him to
 support the awards.</p>
 <p>&#x201C;I remembered how powerful it was when I was at UCLA and won the

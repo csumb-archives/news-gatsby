@@ -12,7 +12,7 @@ date: January 01 2020
   the hope that they will stay local and become leaders in the community once
   they graduate from CSUMB." – <em>The Golf Channel</em>, Sept. 14, 2013
   <a
-    href="http://www.golfchannel.com/media/golf-central-first-tee-monterey-092413/"
+    href="https://www.golfchannel.com/media/golf-central-first-tee-monterey-092413/"
     >Watch the segment</a
   >
 </p>

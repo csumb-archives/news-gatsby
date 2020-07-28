@@ -16,7 +16,7 @@ they needed to complete before leaving for the fall break.</p>
 Peninsula (CHOMP) spent four hours at the Student Center, the first
 stop on its six-week holiday blood drive.<br>
 <br>
-<img alt="Brian Scott gives blood while working on his iPad" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/blood_drive.jpg" style="float:left; width:300px; height:199px"/></br></br></p>
+<img alt="Brian Scott gives blood while working on his iPad" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/blood_drive.jpg" style="float:left; width:300px; height:199px"/></br></br></p>
 <p class="small">Fifty units were collected. Some potential donors
 had to be deferred for a variety of reasons &#x2013; they&#x2019;d recently
 traveled to an area where malaria is prevalent; they&#x2019;ve had a

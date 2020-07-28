@@ -31,7 +31,7 @@ date: January 01 2020
   CSUMB in the upcoming academic year, with a similar number of CSUMB students
   going off to partner schools. The list of available schools includes major
   state universities and smaller ones as well. A complete list is available at
-  the program’s <a href="http://www.nse.org">website</a>. Jillian Shweiki
+  the program’s <a href="https://www.nse.org">website</a>. Jillian Shweiki
   (pictured at left), a 2012 CSUMB graduate from Clovis, spent her sophomore
   year at Bridgewater State University, a 10,000-student institution about 30
   miles south of Boston, through the NSE program. “It was an amazing experience,

@@ -33,11 +33,11 @@ date: January 01 2020
 </p>
 <p>
   The University Center is located on Sixth Avenue at B Street.
-  <a href="http://csumb.edu/maps">Driving directions and a campus map</a>.
+  <a href="https://csumb.edu/maps">Driving directions and a campus map</a>.
 </p>
 <p>
   Complete schedule of
-  <a href="http://activities.csumb.edu/out&#45;ober&#45;history&#45;month"
+  <a href="https://activities.csumb.edu/out&#45;ober&#45;history&#45;month"
     >LGBTQ history month events</a
   >.
 </p>

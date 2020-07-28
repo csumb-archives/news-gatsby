@@ -47,7 +47,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/may/18/thousands-celebrate-commencement"
+    href="https://news.csumb.edu/news/2013/may/18/thousands-celebrate-commencement"
     >Read about the May 18 commencement ceremony</a
   >.
 </p>

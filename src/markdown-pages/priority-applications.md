@@ -9,7 +9,7 @@ date: January 01 2020
   Prospective students interested in enrolling at California State University,
   Monterey Bay in fall 2008 are encouraged to submit their applications for
   admission by Nov. 30. Applicants can apply electronically by logging onto
-  <a href="http://www.csumentor.edu">www.csumentor.edu</a>.
+  <a href="https://www.csumentor.edu">www.csumentor.edu</a>.
 </p>
 <p>
   CSUMentor is a web-based system that helps students plan and apply to the

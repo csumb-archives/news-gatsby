@@ -14,7 +14,7 @@ Partnership &#x201C;Green&#x201D; Award by the Monterey County Business Council.
 The honor was announced at the annual Monterey Bay Regional
 Economic Forum on Oct. 28.<br>
 <br>
-<img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/solar_sm_0.jpg" style="float:left; width:300px; height:156px">The university was
+<img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/solar_sm_0.jpg" style="float:left; width:300px; height:156px">The university was
 honored for the solar power generation facility that was completed
 on campus in 2010. CSUMB partnered with SunEdison, the nation&#x2019;s
 largest solar energy service provider, on the project.<br>

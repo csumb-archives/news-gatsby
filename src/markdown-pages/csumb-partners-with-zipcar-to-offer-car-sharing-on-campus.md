@@ -24,7 +24,7 @@ date: January 01 2020
   to 180 miles of driving per day are included in Zipcar rates, and cars can be
   reserved for as little as an hour or for multiple days. CSUMB students,
   faculty and staff can join Zipcar at
-  <a href="http://www.zipcar.com/csumb">zipcar.com/CSUMB</a>.
+  <a href="https://www.zipcar.com/csumb">zipcar.com/CSUMB</a>.
 </p>
 <p>
   “We are excited to have this program on campus. It’s a tremendous benefit for
@@ -49,7 +49,7 @@ date: January 01 2020
 <p>
   Zipcar has established relationships with more than 500 universities across
   North America. For more information and how to become a member of Zipcar at
-  CSUMB, please visit <a href="http://zipcar.com/csumb">zipcar.com/CSUMB</a>.
+  CSUMB, please visit <a href="https://zipcar.com/csumb">zipcar.com/CSUMB</a>.
   Additional information and promotions can also be found by following
   <a
     href="https://twitter.com/Zipcar?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"

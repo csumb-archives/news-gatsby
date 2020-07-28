@@ -45,8 +45,8 @@ date: January 01 2020
 <p>A panel discussion with the artists will start about 1:20 p.m.</p>
 <p>
   While the event is free, a parking permit must be purchased
-  <a href="http://parking.csumb.edu/buy&#45;permit">online</a> or from a machine
+  <a href="https://parking.csumb.edu/buy&#45;permit">online</a> or from a machine
   on the lot. Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 ```

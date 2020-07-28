@@ -55,6 +55,6 @@ date: January 01 2020
 </p>
 <p>
   To learn more about Service Learning at CSUMB, click
-  <a href="http://service.csumb.edu/">here</a>.
+  <a href="https://service.csumb.edu/">here</a>.
 </p>
 ```

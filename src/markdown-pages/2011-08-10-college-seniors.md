@@ -13,7 +13,7 @@ slug: college-seniors
 50-and-better folks back to school</br></h3>
 <p>What do banned books, native plants and Monet&#x2019;s garden have in
 common?</p>
-<p><img alt="OLLI catalogue" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/olli_f11_350.jpg" style="float:left; width:350px; height:453px">They are among the
+<p><img alt="OLLI catalogue" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/olli_f11_350.jpg" style="float:left; width:350px; height:453px">They are among the
 classes that will be offered this semester through the Osher
 Lifelong Learning Institute &#x2013; OLLI &#x2013; at California State
 University, Monterey Bay.</img></p>

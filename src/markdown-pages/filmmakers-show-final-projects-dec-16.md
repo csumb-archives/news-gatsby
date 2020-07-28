@@ -29,12 +29,12 @@ date: January 01 2020
 </p>
 <p>
   Read more about the 12 projects
-  <a href="http://tat.csumb.edu/fall-2011">here</a>.
+  <a href="https://tat.csumb.edu/fall-2011">here</a>.
 </p>
 <p>
   The World Theater is located on Sixth Avenue near the intersection with A
   Street. Driving directions and campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   For more information, call the Department of Teledramatic Arts and Technology

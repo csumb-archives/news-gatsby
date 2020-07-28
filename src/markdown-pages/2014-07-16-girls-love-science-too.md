@@ -12,7 +12,7 @@ slug: girls-love-science-too
 <p>Girls interested in pursuing a career in marine science are
 exploring their options this week through a program at CSU Monterey
 Bay.</p>
-<p><img alt="24 teenage girls are learning about careers in marine science at Camp SEA Lab" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/csl-summer-camp-tcres04.jpg" style="width:300px; height:400px; float:right">Girls Love Science
+<p><img alt="24 teenage girls are learning about careers in marine science at Camp SEA Lab" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/csl-summer-camp-tcres04.jpg" style="width:300px; height:400px; float:right">Girls Love Science
 Too, a program offered by Camp SEA Lab &#x2013; SEA stands for science,
 education, adventure &#x2013; is giving two dozen 13- to 16-year-olds a
 chance to learn about marine habitat science and have fun in the
@@ -39,7 +39,7 @@ Wishbone.org, which helps underserved students participate in
 programs such as Camp SEA Lab through crowd-source funding.</p>
 <p>&#x201C;We offered scholarships for four Wishbone students who are
 attending this week,&#x201D; Wood said.</p>
-<p><a href="http://www.campsealab.org" rel="nofollow">Learn more
+<p><a href="https://www.campsealab.org" rel="nofollow">Learn more
 about Camp SEA Lab</a><br>
 <br>
 <em>This video was made by camp participants in 2011</em></br></br></p>
@@ -53,8 +53,8 @@ about Camp SEA Lab</a><br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/UG0Csh-w7NM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/UG0Csh-w7NM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/UG0Csh-w7NM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/UG0Csh-w7NM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>

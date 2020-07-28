@@ -9,7 +9,7 @@ slug: csumb-student-earns-hearst-scholarship
 
 
 <span class="date">Posted on Oct 08, 2011    </span>
-<p><img alt="Arienne Arreola" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/arienne_arreola_headshot.jpg" style="float:left; width:300px; height:420px">Arienne Arreola, a
+<p><img alt="Arienne Arreola" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/arienne_arreola_headshot.jpg" style="float:left; width:300px; height:420px">Arienne Arreola, a
 sophomore biology major from Bakersfield, is CSU Monterey Bay&#x2019;s
 2011 recipient of a William Randolph Hearst/CSU Trustees&#x2019; Award for
 Outstanding Achievement. The award is among the CSU&#x2019;s highest

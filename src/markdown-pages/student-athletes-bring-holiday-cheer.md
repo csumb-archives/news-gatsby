@@ -30,7 +30,7 @@ date: January 01 2020
   soldiersangels.org.
 </p>
 <p>
-  <a href="http://otterathletics.com/index.aspx?path=saac&amp;&amp;tab=5"
+  <a href="https://otterathletics.com/index.aspx?path=saac&amp;&amp;tab=5"
     >Learn more about the Student-Athlete Advisory Committee at CSUMB.</a
   >
 </p>

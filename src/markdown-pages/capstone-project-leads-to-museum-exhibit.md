@@ -38,10 +38,10 @@ date: January 01 2020
 <p>
   The exhibit will be on display through July 21. The museum is located at 559
   Pacific St., Monterey.
-  <a href="http://www.montereyart.org">Find more information here</a>.
+  <a href="https://www.montereyart.org">Find more information here</a>.
 </p>
 <p>
-  <a href="http://csumb.edu/art"
+  <a href="https://csumb.edu/art"
     >Learn more about the Visual and Public Art Department</a
   >
 </p>

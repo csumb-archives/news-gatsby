@@ -45,20 +45,20 @@ date: January 01 2020
 <p>For more information on his talk, call 624-6111.</p>
 <p>
   To read more about Professor Mendoza, click
-  <a href="http://success.csumb.edu/ruben-mendoza">here</a> and
+  <a href="https://success.csumb.edu/ruben-mendoza">here</a> and
   <a
-    href="http://news.csumb.edu/news/2010/oct/21/working-professor-ruben-mendoza-archaeology-students-uncover-career"
+    href="https://news.csumb.edu/news/2010/oct/21/working-professor-ruben-mendoza-archaeology-students-uncover-career"
     >here</a
   >.
 </p>
 <p>
   To learn more about the archaeology program at CSUMB, click
-  <a href="http://archaeology.csumb.edu/">here</a>.
+  <a href="https://archaeology.csumb.edu/">here</a>.
 </p>
 <p>
   To view a video featuring Dr. Mendoza and his hands-on archaeology class
   preparing to dig into the past at Soledad Mission, click
-  <a href="http://cahss.csumb.edu/u-stories-fall-2010/sbs-mission-soledad-dig"
+  <a href="https://cahss.csumb.edu/u-stories-fall-2010/sbs-mission-soledad-dig"
     >here</a
   >.
 </p>

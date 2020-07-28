@@ -30,7 +30,7 @@ date: January 01 2020
 <p>
   The official unveiling took place on Dec. 11. Students and administrators from
   both schools were in attendance, along with alumni John Elliott and
-  <a href="http://give.csumb.edu/news/2011/oct/19/donor-profile-roxana-keland"
+  <a href="https://give.csumb.edu/news/2011/oct/19/donor-profile-roxana-keland"
     >Roxana Keland</a
   >.
 </p>

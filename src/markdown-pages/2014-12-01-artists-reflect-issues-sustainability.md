@@ -17,7 +17,7 @@ and Visitors Center starting at noon.</p>
 <p>Professor Dan Fernandez will introduce the program, followed by
 a short presentation on the Real Food Challenge by members of the
 Associated Students Environmental Committee.</p>
-<p><img alt="Peter Hiers" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/peter-photo-1.png" style="width:99px; height:149px; float:left">Hiers (pictured at
+<p><img alt="Peter Hiers" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/peter-photo-1.png" style="width:99px; height:149px; float:left">Hiers (pictured at
 left) will talk on &#x201C;An Artist&#x2019;s Sculptural Commentary on Human
 Survival, the Environment and Mythology.&#x201D; In his work, he uses
 fragments of blown tires to explore the interconnected web that
@@ -28,7 +28,7 @@ clothing, shelter, health and safety needs.</img></p>
 <p>He believes that we need a new ideology that provides a
 sustainable, balanced means for human survival within the natural
 world that supports us.</p>
-<p><img alt="Matthew Nelson" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/nelson.jpg" style="width:136px; height:136px; float:right">Nelson&#x2019;s
+<p><img alt="Matthew Nelson" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/nelson.jpg" style="width:136px; height:136px; float:right">Nelson&#x2019;s
 presentation is titled, &#x201C;Dance, Ecology, Somatics and
 Permaculture.&#x201D; He has an MFA in modern dance, has taught, danced
 professionally and has had his choreography produced by several
@@ -41,8 +41,8 @@ about our worldviews?</p>
 <p>A panel discussion with the artists will start about 1:20
 p.m.</p>
 <p>While the event is free, a parking permit must be purchased
-<a href="http://parking.csumb.edu/buy-permit" rel="nofollow">online</a> or from a machine on the lot. Driving
-directions and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</p>
+<a href="https://parking.csumb.edu/buy-permit" rel="nofollow">online</a> or from a machine on the lot. Driving
+directions and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</p>
 <p>&#xA0;</p>
 
 

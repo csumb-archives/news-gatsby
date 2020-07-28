@@ -23,7 +23,7 @@ date: January 01 2020
   students to think about the health benefits of eating less meat and because of
   the environmental benefits. Did you know that it takes 2,500 gallons of water
   to make one pound of beef?
-  <a href="http://news.csumb.edu/news/drop-cheeseburger"
+  <a href="https://news.csumb.edu/news/drop-cheeseburger"
     >Learn more about Meatless Mondays at CSUMB.</a
   ><strong>• Tuesday, Oct. 23 – Trolley Tuesday</strong> From 9:30 a.m. to noon,
   students can win free vouchers for use at the Farm Stand and a free
@@ -32,7 +32,7 @@ date: January 01 2020
   about sustainable transportation and why reducing greenhouse gases is
   important. The Otter Trolley runs every 12 minutes from 7:30 a.m. to 6:45 p.m.
   on the main campus.
-  <a href="http://transportation.csumb.edu/trip-homepage"
+  <a href="https://transportation.csumb.edu/trip-homepage"
     >Learn more about campus transportation resources</a
   >. <strong>• Wednesday, Oct. 24 – Sustain Under the Stars</strong> Starting at
   7 p.m., students will camp out on the main quad. A scavenger hunt and other
@@ -44,7 +44,7 @@ date: January 01 2020
 <p>
   This is the first year CSUMB has observed Sustainability Week, but it’s not
   likely to be the last since
-  <a href="http://ideals.csumb.edu/sustainability"
+  <a href="https://ideals.csumb.edu/sustainability"
     >sustainability is one of the university’s core ideals.</a
   >
   “The week focuses on informing students about how to reduce their carbon
@@ -54,7 +54,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2012/oct/4/getting-charged-over-electric-cars"
+    href="https://news.csumb.edu/news/2012/oct/4/getting-charged-over-electric-cars"
     >Related story:* Electric vehicle charging stations come to campus*</a
   >
 </p>

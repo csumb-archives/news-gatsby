@@ -15,7 +15,7 @@ learned what every young officer learns &#x2013; to fire a rifle, to
 command a platoon, to fight and to kill. Over the next four
 decades, he spent his time reading, thinking and writing a memoir
 that helped him come to terms with that experience.</p>
-<p><img alt="What It Is Like to Go to War book jacket" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/marlantes_book.jpg" style="width:250px; height:378px; float:left">In his book, &#x201C;What
+<p><img alt="What It Is Like to Go to War book jacket" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/marlantes_book.jpg" style="width:250px; height:378px; float:left">In his book, &#x201C;What
 It Is Like to Go to War,&#x201D; Marlantes writes that while the Marine
 Corps trained him to kill, &#x201C;it didn&#x2019;t teach me how to deal with
 killing.&#x201D;</img></p>
@@ -31,7 +31,7 @@ libraries, colleges and universities, and veterans centers.</p>
 <p>Locally, Monterey County Free Libraries will sponsor a
 discussion with the author on Oct. 10 at 5:30 p.m. in CSU Monterey
 Bay&#x2019;s library, Room 1180. While the event is free, attendees must
-purchase a parking permit from a machine on the lot or <a href="http://parking.csumb.edu/buy-permit" rel="nofollow">online</a>.</p>
+purchase a parking permit from a machine on the lot or <a href="https://parking.csumb.edu/buy-permit" rel="nofollow">online</a>.</p>
 <p>The first 100 attendees will receive a free copy of the
 book.</p>
 <p>Marlantes told the Orange County Register that he is flattered
@@ -42,7 +42,7 @@ sociologically and geographically &#x2013; read my book, I&#x2019;m thrilled,&#x
 told the Register.<br>
 <br>
 Monterey County Free Libraries has organized several other
-activities related to the book. <a href="http://www.co.monterey.ca.us/library/CalReads.html" rel="nofollow">Learn more about them here.</a></br></br></p>
+activities related to the book. <a href="https://www.co.monterey.ca.us/library/CalReads.html" rel="nofollow">Learn more about them here.</a></br></br></p>
 <p>&#xA0;</p>
 <p><br>
 &#xA0;</br></p>

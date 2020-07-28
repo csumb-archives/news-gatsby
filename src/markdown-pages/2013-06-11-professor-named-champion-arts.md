@@ -11,7 +11,7 @@ slug: professor-named-&apos;champion-of-the-arts&apos;
 <span class="date">Posted on Jun 11, 2013    </span>
 <p>The Arts Council for Monterey County will honor Dr. Renee Curry
 at its annual Champions of the Arts gala on Jan. 19.</p>
-<p><img alt="Renee Curry" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/renee_curry.jpg" style="float:right; width:200px; height:223px">Dr. Curry, a
+<p><img alt="Renee Curry" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/renee_curry.jpg" style="float:right; width:200px; height:223px">Dr. Curry, a
 professor of English who teaches literary and film studies, will be
 honored in the professional category for her work as an arts
 advocate who was instrumental in bringing the CSU Summer Arts

@@ -13,7 +13,7 @@ slug: student-volunteers-offer-free-tax-preparation
 Monterey Bay student participants in the Volunteer Income Tax
 Assistance &#x2013; VITA &#x2013; program may have an answer.<br>
 <br>
-<img alt="Federal tax refund checks" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/refund_checks.jpg" style="width:300px; height:300px; float:left">Until the end of
+<img alt="Federal tax refund checks" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/refund_checks.jpg" style="width:300px; height:300px; float:left">Until the end of
 tax season, volunteers from the College of Business will provide
 free assistance with state and federal income tax
 preparation.<br>
@@ -49,9 +49,9 @@ helped to stimulate the local economy.</p>
 <p>There is no charge for the tax preparation, no charge for direct
 deposit to the taxpayer&#x2019;s bank account and no hidden fees. A list
 of community locations, dates and hours, is available on the
-<a href="http://www.unitedwaymcca.org/free-tax-prep" rel="nofollow">United Way website.</a><br>
+<a href="https://www.unitedwaymcca.org/free-tax-prep" rel="nofollow">United Way website.</a><br>
 <br>
-&#x2028;&#x2028;<a href="http://csumb.edu/business" rel="nofollow">Learn more
+&#x2028;&#x2028;<a href="https://csumb.edu/business" rel="nofollow">Learn more
 about CSUMB&apos;s College of Business</a>.</br></br></p>
 
 

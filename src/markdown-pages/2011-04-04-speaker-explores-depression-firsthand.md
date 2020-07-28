@@ -14,7 +14,7 @@ slug: speaker-explores-depression-firsthand
 personal life were absorbed by his struggle with clinical
 depression, a struggle that left him on the brink of suicide
 through his young adult years.</p>
-<p><img alt="Brian Wetzel" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/brian_wetzel.jpg" style="float:right; width:250px; height:188px">&#x201C;There is nothing
+<p><img alt="Brian Wetzel" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/brian_wetzel.jpg" style="float:right; width:250px; height:188px">&#x201C;There is nothing
 funny about being severely depressed, but I had to find humor in my
 situation in order to stay alive and survive,&#x201D; said Wetzel, 46, of
 Santa Rosa.</img></p>

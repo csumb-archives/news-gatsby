@@ -37,7 +37,7 @@ date: January 01 2020
 </p>
 <p>
   The exchange is not just one way. CSUMB’s
-  <a href="http://international.csumb.edu/">Office of International Programs</a>
+  <a href="https://international.csumb.edu/">Office of International Programs</a>
   sends about 120 students abroad each year, many to Germany and Japan.
 </p>
 <p>

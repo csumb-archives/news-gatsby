@@ -8,7 +8,7 @@ slug: makesmartchoices-for-alcohol-awareness-week
 <span class="date">Posted on Oct 12, 2012 </span>
 
 <h3>Weeklong campaign starts Oct. 15 at CSUMB</h3>
-<p><img alt="NCAAW starts Oct. 15" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ncaaw.jpeg" style="float:left; width:225px; height:225px">During the week of
+<p><img alt="NCAAW starts Oct. 15" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ncaaw.jpeg" style="float:left; width:225px; height:225px">During the week of
 Oct. 15, students at Cal State Monterey Bay will join with their
 peers on more than 800 campuses across the country to promote
 National Collegiate Alcohol Awareness Week (NCAAW).</img></p>

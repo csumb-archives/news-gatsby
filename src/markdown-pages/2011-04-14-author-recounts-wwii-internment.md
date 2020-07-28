@@ -38,7 +38,7 @@ decided to do it.</p>
 <p>She told the Bee that she sees the book as a way to make sure
 the forced internment of America&#x2019;s residents never happens
 again.</p>
-<p>For driving directions and a campus map, click <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+<p>For driving directions and a campus map, click <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 <p><em>It is a magnificent memoir, fully worthy of being compared
 to Farewell to Manzanar. I cannot praise its pointillist realism,
 its Zen-like austerity, highly enough. Exquisite.</em><br>

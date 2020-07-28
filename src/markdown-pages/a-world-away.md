@@ -35,13 +35,13 @@ date: January 01 2020
   this semester and another 20 will join them in the spring.
 </p>
 <p>
-  <a href="http://international.csumb.edu/"
+  <a href="https://international.csumb.edu/"
     >Learn more about international programs.</a
   >
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2012/jul/17/domestic-exchange-students-discover-their-own-country"
+    href="https://news.csumb.edu/news/2012/jul/17/domestic-exchange-students-discover-their-own-country"
     >Read about the National Student Exchange</a
   >.
 </p>

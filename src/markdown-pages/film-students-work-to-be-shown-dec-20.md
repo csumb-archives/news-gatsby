@@ -84,13 +84,13 @@ date: January 01 2020
 </p>
 <p>
   The event is co-sponsored by the Monterey Bay Film Society.
-  <a href="http://news.csumb.edu/gallery/tat-capstone-festival-fall-2012"
+  <a href="https://news.csumb.edu/gallery/tat-capstone-festival-fall-2012"
     >View a photo gallery of stills from the films.</a
   >
-  <a href="http://csumb.edu/capstone"
+  <a href="https://csumb.edu/capstone"
     >View the campuswide Capstone Festival schedule.</a
   >
-  <a href="http://csumb.edu/tat"
+  <a href="https://csumb.edu/tat"
     >Learn more about Teledramatic Arts and Technology at CSUMB</a
   >.
 </p>

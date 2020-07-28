@@ -16,7 +16,7 @@ Zellner visits campus.</p>
 <p>&#x201C;Reflections on 50 Years of Activism&#x201D; will be his topic. The
 free event will get under way at 7 p.m. in the University Center on
 Sixth Avenue. The public is invited.</p>
-<p><img alt="Bob Zellner" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/bob_zellner_photo.jpg" style="width:250px; height:370px; float:left">Raised in southern
+<p><img alt="Bob Zellner" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/bob_zellner_photo.jpg" style="width:250px; height:370px; float:left">Raised in southern
 Alabama, the son and grandson of Ku Klux Klan members, Zellner
 rejected racism and fought for civil rights along with his mentor,
 Dr. Martin Luther King Jr. Today, he is seen as one of the most
@@ -41,7 +41,7 @@ work as a lecturer, his appearance in films documenting the era,
 and his writing. His memoir is being made into a movie by Spike
 Lee. He has taped a show with Oprah Winfrey that is scheduled to
 air in May.</p>
-<p>Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+<p>Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 <p>The Associated Students Cultural Enrichment Committee, Student
 Activities and Leadership Development, and the Office of the Dean
 of Students are sponsors of the event. For more information,

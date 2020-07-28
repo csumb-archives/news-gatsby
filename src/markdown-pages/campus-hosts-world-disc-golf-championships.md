@@ -18,7 +18,7 @@ date: January 01 2020
   Spectators are invited. Play at CSUMB will be held Tuesday through Friday with
   10 a.m. shotgun starts daily (except Thursday, when play will start at 9:30
   a.m.). For tee times, click
-  <a href="http://www.2011proworlds.com/results/">here</a>.
+  <a href="https://www.2011proworlds.com/results/">here</a>.
 </p>
 <p>
   Since championship-level play requires 27-hole courses, nine holes of the
@@ -93,6 +93,6 @@ date: January 01 2020
 <p>
   The event is free to the public, but a $2 parking pass must be purchased from
   dispensers located on the parking lots. For driving directions and a campus
-  map, click <a href="http://csumb.edu/map">here</a>.
+  map, click <a href="https://csumb.edu/map">here</a>.
 </p>
 ```

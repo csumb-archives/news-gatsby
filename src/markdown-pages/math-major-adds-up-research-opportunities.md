@@ -42,7 +42,7 @@ date: January 01 2020
   me," she said.
 </p>
 <p>
-  <a href="http://csumb.edu/math"
+  <a href="https://csumb.edu/math"
     >Learn about the math and statistics progam at CSUMB.</a
   >
 </p>

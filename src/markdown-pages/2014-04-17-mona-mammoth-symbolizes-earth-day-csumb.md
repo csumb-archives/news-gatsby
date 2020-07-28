@@ -12,7 +12,7 @@ slug: mona-the-mammoth-symbolizes-earth-day-at-csumb
 <p>A long-extinct creature roams the earth &#x2013; at least CSUMB&apos;s piece
 of it &#x2013; once again.<br>
 <br>
-<img alt="Mona the Mammoth has a shaggy purple head" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mammoth_headshot_for_web.jpg" style="float:left; width:300px; height:406px">Mona the Mammoth is
+<img alt="Mona the Mammoth has a shaggy purple head" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mammoth_headshot_for_web.jpg" style="float:left; width:300px; height:406px">Mona the Mammoth is
 part of&#xA0;<a href="../14/csumb-goes-green-earth-day-events.html" rel="nofollow">CSUMB&apos;s celebration of Earth Day</a>, and will
 remain on display through May 17.</img></br></br></p>
 <p>The public art piece is a project of the university&apos;s Visual and
@@ -36,7 +36,7 @@ participated.</p>
 April 22, 4-5 p.m.</br></p>
 <p>&#x2022; Relocation reception<br>
 May 17, noon-2:30 p.m.</br></p>
-<p><img alt="Mona the Mammoth is on display outside the library" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/profile_shot_of_mona_for_web.jpg" style="width:550px; height:392px"/></p>
+<p><img alt="Mona the Mammoth is on display outside the library" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/profile_shot_of_mona_for_web.jpg" style="width:550px; height:392px"/></p>
 <p><em>Photos courtesy of Visual and Public Art Department</em></p>
 
 

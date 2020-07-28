@@ -20,7 +20,7 @@ date: January 01 2020
   at 3:45. Those topics:
 </p>
 <p>
-  Visit <a href="http://csumb.edu/focus">CSUMB Focus</a> to learn more about
+  Visit <a href="https://csumb.edu/focus">CSUMB Focus</a> to learn more about
   this program.
 </p>
 ```

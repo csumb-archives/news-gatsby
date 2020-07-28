@@ -30,7 +30,7 @@ date: January 01 2020
   naturally in carbon&#45;abundant piles composed of materials like wood chips
   and sawdust for roughly $2,500 per body,
   <a
-    href="http://www.nytimes.com/2015/04/14/science/a&#45;project&#45;to&#45;turn&#45;corpses&#45;into&#45;compost.html?smid=tw&#45;nytimes&amp;_r=3"
+    href="https://www.nytimes.com/2015/04/14/science/a&#45;project&#45;to&#45;turn&#45;corpses&#45;into&#45;compost.html?smid=tw&#45;nytimes&amp;_r=3"
     >The New York Times</a
   >
   reported. Every year, Americans who bury relatives in coffins commit to the

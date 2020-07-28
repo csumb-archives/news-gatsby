@@ -19,7 +19,7 @@ life trying to keep other adolescents from following that same
 path.</p>
 <p>The results have been mixed. Rodriguez&apos;s son, Ramiro, is serving
 time in an Illinois prison for a gang-related shooting.</p>
-<p><img alt="Luis Rodriguez" height="301" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/luis%20rodriguez.jpg" style="float:left" width="200">&quot;I couldn&apos;t save him,&quot; Rodriguez
+<p><img alt="Luis Rodriguez" height="301" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/luis%20rodriguez.jpg" style="float:left" width="200">&quot;I couldn&apos;t save him,&quot; Rodriguez
 told the Santa Rosa Press Democrat. &quot;But some of these kids still
 can be reached. We have to keep at it. We have to keep trying.&quot;</img></p>
 <p>The best-selling author will speak at California State

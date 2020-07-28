@@ -28,7 +28,7 @@ faculty members and industry professionals. Opportunities will be
 available to apply classroom content to real-world problems.</p>
 <p>Applications are now being accepted; deadline is July 18 for the
 fall semester.</p>
-<p>For more information on the program or how to apply, <a href="http://www.calstateonline.net" rel="nofollow">click here</a> or
+<p>For more information on the program or how to apply, <a href="https://www.calstateonline.net" rel="nofollow">click here</a> or
 call 1-800-247-5168 to speak directly with a college coach.</p>
 
 

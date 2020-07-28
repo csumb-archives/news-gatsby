@@ -37,7 +37,7 @@ date: January 01 2020
   Salinas Public Library and fútbol – an inspiring match helped along by Service
   Learners.
   <a
-    href="http://service.csumb.edu/sites/default/files/101/attachments/files/sp_12_reflections.pdf"
+    href="https://service.csumb.edu/sites/default/files/101/attachments/files/sp_12_reflections.pdf"
     >Read about it here</a
   >
 </p>
@@ -73,7 +73,7 @@ date: January 01 2020
   embedded in the curriculum, the school’s commitment to long-term
   campus-community partnerships, and measurable community outcomes as a result
   of the service.
-  <a href="http://service.csumb.edu/"
+  <a href="https://service.csumb.edu/"
     >Learn more about the Service Learning Institute at CSUMB</a
   >.
 </p>

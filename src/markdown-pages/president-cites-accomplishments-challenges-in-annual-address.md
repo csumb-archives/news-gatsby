@@ -49,6 +49,6 @@ date: January 01 2020
 </p>
 <p>
   A copy of the speech can be found
-  <a href="http://president.csumb.edu/2011-state-university">here</a>.
+  <a href="https://president.csumb.edu/2011-state-university">here</a>.
 </p>
 ```

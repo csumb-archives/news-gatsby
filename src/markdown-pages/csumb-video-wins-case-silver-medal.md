@@ -27,8 +27,8 @@ date: January 01 2020
   founding after the decommissioning of Fort Ord. The new video looks forward to
   the future and discusses President Ochoa's view of where the university is
   headed in the next decade. View the three-minute version
-  <a href="http://media.csumb.edu/www/details.php?id=5245">here</a>. View the
+  <a href="https://media.csumb.edu/www/details.php?id=5245">here</a>. View the
   11minute version
-  <a href="http://media.csumb.edu/www/details.php?id=5247">here</a>.
+  <a href="https://media.csumb.edu/www/details.php?id=5247">here</a>.
 </p>
 ```

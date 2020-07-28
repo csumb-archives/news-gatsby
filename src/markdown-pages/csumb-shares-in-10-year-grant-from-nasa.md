@@ -71,7 +71,7 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://www.kazu.org/post/nasa&#45;satellite&#45;images&#45;will&#45;help&#45;farmers&#45;conserve&#45;water"
+    href="https://www.kazu.org/post/nasa&#45;satellite&#45;images&#45;will&#45;help&#45;farmers&#45;conserve&#45;water"
     >Here a National Public Radio story about the grant</a
   >
 </p>

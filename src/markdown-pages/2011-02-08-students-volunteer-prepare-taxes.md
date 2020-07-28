@@ -42,7 +42,7 @@ household income must be less than $49,000.</p>
 income as the refunds are, for the most part, spent locally,&#x201D; Morse
 said.</p>
 <p>For more information or to download a flyer listing the Monterey
-County locations, <a href="http://www.unitedwaymcca.org/Free_Tax_Assistance_Program.php" rel="nofollow">click here</a> or call 211.</p>
+County locations, <a href="https://www.unitedwaymcca.org/Free_Tax_Assistance_Program.php" rel="nofollow">click here</a> or call 211.</p>
 <p><br>
 &#xA0;</br></p>
 

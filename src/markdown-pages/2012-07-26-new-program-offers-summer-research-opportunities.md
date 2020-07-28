@@ -14,7 +14,7 @@ slug: new-program-offers-summer-research-opportunities
 and CSU Monterey Bay&#x2019;s Undergraduate Research Opportunities Center
 have launched a summer research program that pairs students with
 COAST faculty at campuses across the system.</p>
-<p><img alt="April Makukhov is working with green sea turtles in San Diego Bay" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/turtle.jpg" style="float:left; width:300px; height:400px">CSUMB
+<p><img alt="April Makukhov is working with green sea turtles in San Diego Bay" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/turtle.jpg" style="float:left; width:300px; height:400px">CSUMB
 undergraduates studying science, technology and mathematics are
 working with professors at Cal Poly San Luis Obispo, CSU East Bay,
 San Diego State and San Francisco State.<br>
@@ -79,9 +79,9 @@ By providing students with hands-on experience, personal mentorship
 and rich curriculum, COAST has distinguished itself as being a
 resource for helping teach future scientists the skills and
 knowledge they need to become assets to the community.</br></br></br></br></br></br></br></br></br></br></br></br></p>
-<p><a href="http://uroc.csumb.edu/" rel="nofollow">Learn more about
+<p><a href="https://uroc.csumb.edu/" rel="nofollow">Learn more about
 UROC</a>&#xA0;<br>
-<a href="http://www.calstate.edu/coast/index.asp" rel="nofollow"><br>
+<a href="https://www.calstate.edu/coast/index.asp" rel="nofollow"><br>
 Learn more about COAST</br></a></br></p>
 <p class="small"><em>Photo: CSUMB sophomore April Makukhov is
 working with San Diego State&apos;s Dr. Rebecca Lewison (in center of

@@ -24,7 +24,7 @@ date: January 01 2020
   be the announcement of the winner of the Juanita Jackson Award for Young
   Leaders of the African American community. The meeting will be held from 7 to
   9 p.m. at the Music Hall on Sixth Avenue.
-  <a href="http://csumb.edu/map">Driving directions and a campus map</a>. At a
+  <a href="https://csumb.edu/map">Driving directions and a campus map</a>. At a
   Black History Month celebration in Seaside on Feb. 17, three members of the
   CSUMB community were honored. The Alpha Kappa Alpha sorority, the Monterey Bay
   chapter of Links, the Monterey County branch of the NAACP and the Seaside Art
@@ -46,7 +46,7 @@ date: January 01 2020
 </p>
 <p><em>Read more:</em></p>
 <p>
-  <a href="http://news.csumb.edu/news/2012/sep/10/naacp-chapter-formed-csumb"
+  <a href="https://news.csumb.edu/news/2012/sep/10/naacp-chapter-formed-csumb"
     >NAACP chapter formed at CSUMB</a
   >
 </p>

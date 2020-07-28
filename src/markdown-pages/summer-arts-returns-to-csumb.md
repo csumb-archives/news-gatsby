@@ -63,7 +63,7 @@ date: January 01 2020
 </p>
 <p>
   Information about courses, registration, artists and scholarships is available
-  on the <a href="http://csusummerarts.org">Summer Arts website</a>.
+  on the <a href="https://csusummerarts.org">Summer Arts website</a>.
 </p>
 <p>– CSU Public Affairs</p>
 ```

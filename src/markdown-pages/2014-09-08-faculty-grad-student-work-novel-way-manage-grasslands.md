@@ -14,7 +14,7 @@ Monterey Bay&#x2019;s applied marine and watershed science program, have
 been working with Bruce Delgado at the Bureau of Land Management to
 manage 2,500 acres of coastal grasslands at Fort Ord National
 Monument.</p>
-<p><img alt="Goats on Bureau of Land Management property" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/goats_on_blm_land.jpg" style="width:440px; height:293px; float:right">Coastal grasslands
+<p><img alt="Goats on Bureau of Land Management property" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/goats_on_blm_land.jpg" style="width:440px; height:293px; float:right">Coastal grasslands
 are relatively rare because of extensive human development along
 California&apos;s coastline. The national monument&apos;s grasslands are home
 to purple needle grass &#x2013; California&apos;s state grass &#x2013; and beautiful
@@ -30,7 +30,7 @@ grasslands; however, the coyote brush continues to spread. Delgado
 believes that goats might be another way to remove the coyote brush
 and manage the grasslands.<br>
 <br>
-<img alt="Coyote brush" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/coyote_brush.jpg" style="float:left; width:259px; height:194px">Dr. Worcester,
+<img alt="Coyote brush" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/coyote_brush.jpg" style="float:left; width:259px; height:194px">Dr. Worcester,
 Inman and Delgado have been working together to design an
 experiment to test whether goat grazing is an effective way to
 reduce coyote brush cover as well as to increase native grassland
@@ -45,9 +45,9 @@ annually until the coyote brush is killed.</p>
 <p>The initial response was promising and the experiment will be
 expanded substantially this year. It will be several years before
 the results are known.</p>
-<p>Learn about CSUMB&#x2019;s master&#x2019;s degree in <a href="http://sep.csumb.edu/amws/" rel="nofollow">applied marine and
+<p>Learn about CSUMB&#x2019;s master&#x2019;s degree in <a href="https://sep.csumb.edu/amws/" rel="nofollow">applied marine and
 watershed science</a></p>
-<p><em>Reprinted from the newsletter of CSU Monterey Bay&#x2019;s <a href="http://watershed.csumb.edu/wi/" rel="nofollow">Watershed
+<p><em>Reprinted from the newsletter of CSU Monterey Bay&#x2019;s <a href="https://watershed.csumb.edu/wi/" rel="nofollow">Watershed
 Institute</a>. Used by permission.&#xA0;<br>
 <br>
 Top photo: Goats grazing on BLM land<br>

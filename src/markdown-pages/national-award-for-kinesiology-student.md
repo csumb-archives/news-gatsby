@@ -7,7 +7,7 @@ date: January 01 2020
 ```html
 <h3>UROC sets Orozco on career path</h3>
 <p>
-  <a href="http://kinesiology.csumb.edu/">Kinesiology</a> student Breanna Orozco
+  <a href="https://kinesiology.csumb.edu/">Kinesiology</a> student Breanna Orozco
   has earned a prestigious scholarship from the American College of Sports
   Medicine, one of only two students in the country to earn the award.
 </p>
@@ -25,7 +25,7 @@ date: January 01 2020
 </p>
 <p>
   Through CSU Monterey Bay’s
-  <a href="http://uroc.csumb.edu/"
+  <a href="https://uroc.csumb.edu/"
     >Undergraduate Research Opportunities Center</a
   >
   (UROC), Orozco spent last summer doing research at the University of Southern

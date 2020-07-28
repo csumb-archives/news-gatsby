@@ -26,7 +26,7 @@ date: January 01 2020
 <p>
   Can't attend? CSUMB will live-stream both days of the colloquium. To watch it
   online, click
-  <a href="http://media.csumb.edu/www/player/encoder.php?en=5&amp;cc=1&amp;q=1"
+  <a href="https://media.csumb.edu/www/player/encoder.php?en=5&amp;cc=1&amp;q=1"
     >here</a
   >. Viewers can submit their questions to the moderator via the web.
 </p>
@@ -55,21 +55,21 @@ date: January 01 2020
 </p>
 <p>
   While the event is free, attendees are asked to
-  <a href="http://www.fortordcolloquium.eventbrite.com">register</a>.
+  <a href="https://www.fortordcolloquium.eventbrite.com">register</a>.
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/sites/default/files/65/attachments/news/files/fort_ord_colloquium_program_0.pdf"
+    href="https://news.csumb.edu/sites/default/files/65/attachments/news/files/fort_ord_colloquium_program_0.pdf"
     >View the program here</a
   >.
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/sites/default/files/65/attachments/news/files/colloquium_summary.pdf"
+    href="https://news.csumb.edu/sites/default/files/65/attachments/news/files/colloquium_summary.pdf"
     >View of the summary of the event prepared by FORA</a
   >
 </p>

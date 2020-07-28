@@ -19,12 +19,12 @@ date: January 01 2020
   – while making a better connection with their school and doing better in the
   classroom. Read the story
   <a
-    href="http://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1511786/news/A.Second.Chance.in.Salinas"
+    href="https://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1511786/news/A.Second.Chance.in.Salinas"
     >here</a
   >.
 </p>
 <p>
-  &#91;&#93;&#40;http://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1511786/news/A.Second.Chance.in.Salinas&#41;
+  &#91;&#93;&#40;https://www.publicbroadcasting.net/kazu/news.newsmain/article/0/0/1511786/news/A.Second.Chance.in.Salinas&#41;
 </p>
 <p>
   The Nor&#45;Cal RTNDA represents electronic journalists in radio, television

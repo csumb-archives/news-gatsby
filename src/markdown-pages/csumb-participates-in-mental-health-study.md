@@ -53,7 +53,7 @@ date: January 01 2020
   Counseling Center, located in the Health and Wellness Services building at the
   corner of General Jim Moore and Inter-Garrison Road, offers a variety of
   services, including individual and group counseling, workshops and classes.
-  Its <a href="http://pgcc.csumb.edu/services">website</a> also includes links
+  Its <a href="https://pgcc.csumb.edu/services">website</a> also includes links
   to information for parents, faculty and staff on mental health care, student
   referrals and available services.
 </p>

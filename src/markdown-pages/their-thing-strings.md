@@ -13,7 +13,7 @@ date: January 01 2020
 <p>
   The foursome, which includes the Broadbent brothers (Giles, Ralph and Neal)
   and their cousin Graham, will perform at 7:30 p.m., April 3, at CSU Monterey
-  Bay’s <a href="http://worldtheater.csumb.edu">World Theater</a>. The
+  Bay’s <a href="https://worldtheater.csumb.edu">World Theater</a>. The
   musicians, trained at London's Royal Academy and College of Music, will play
   American favorites with their brightly colored five- and six-stringed electric
   violins, viola and cello. Their unusually shaped instruments are handmade to
@@ -36,9 +36,9 @@ date: January 01 2020
   described as spellbinding, brilliant, wild, wacky and wholly watchable. Our
   audience will be delighted they came." Tickets are $29 general admission.
   Discounts are available for students, military members, seniors and children.
-  Tickets can be purchased <a href="http://worldtheater.csumb.edu">online</a>,
+  Tickets can be purchased <a href="https://worldtheater.csumb.edu">online</a>,
   by phone (831) 582-4580, or at the theater located on Sixth Avenue between A
   and B streets. Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 ```

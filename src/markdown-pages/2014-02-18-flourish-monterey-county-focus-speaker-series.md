@@ -14,7 +14,7 @@ slug: monterey-county&apos;-focus-of-speaker-series
 President&#x2019;s Speaker Series at California State University, Monterey
 Bay will get under way on March 4 when Mary Jo Waits visits
 campus.</p>
-<p><img alt="Mary Jo Waits" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mjwaits.jpg" style="float:right; width:200px; height:300px">Ms. Waits,
+<p><img alt="Mary Jo Waits" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mjwaits.jpg" style="float:right; width:200px; height:300px">Ms. Waits,
 director of the Economic, Human Services and Workforce Division of
 the National Governors Association, was one of the most
 thought-provoking speakers at the recent colloquium on Fort Ord
@@ -27,7 +27,7 @@ In her talk, Ms. Waits will continue the discussion begun at the
 colloquium.</p>
 <p>Her presentation will start at 3:30 p.m. in the World Theater on
 Sixth Avenue near A Street. Driving directions and a campus map are
-available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</p>
+available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</p>
 <p>The community is invited to this free event. No tickets are
 necessary, but reservations are requested. Please RSVP by calling
 the World Theater box office at 582-4580, or going online at

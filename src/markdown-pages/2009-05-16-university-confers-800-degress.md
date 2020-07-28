@@ -12,7 +12,7 @@ slug: university-confers-800-degress
 May 16, 2009<br>
 <h4>&#x2018;Be a student for life,&apos; Suarez tells graduates<em><br>
 CSU Monterey Bay confers 880 degrees</br></em></h4>
-<p><img alt="Aerial Shot" height="210" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/2009aerial-shot.png" style="float:left" width="350">Under sunny skies, journalist Ray
+<p><img alt="Aerial Shot" height="210" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/2009aerial-shot.png" style="float:left" width="350">Under sunny skies, journalist Ray
 Suarez told the graduates of California State University, Monterey
 Bay that the world they are about to enter needs their energy and
 their curiosity.</img></p>
@@ -25,7 +25,7 @@ in school history.</p>
 <p>After receiving an honorary doctor of humane letters conferred
 by President Dianne Harrison, Suarez commended the graduates for
 taking advantage of their opportunity to earn a degree.</p>
-<p><img alt="President Harrison" height="234" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/President-Harrison_wcaption.png" style="float:right" width="275">&quot;Whatever road you took to get
+<p><img alt="President Harrison" height="234" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/President-Harrison_wcaption.png" style="float:right" width="275">&quot;Whatever road you took to get
 here today, the vast majority of your peers did not do it. You were
 not deterred by the difficulties of getting to this day . . . You
 had an opportunity and you built something with that opportunity -
@@ -44,7 +44,7 @@ Suarez said.</p>
 <p>He acknowledged the emphasis society places on a college
 education as the route to a better paycheck, but urged the
 graduates to think of it as more than a means to make a living.</p>
-<p><img alt="Graduates" height="279" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/2009Graduates.png" style="float:left" width="375">&quot;I hope you get your diploma today
+<p><img alt="Graduates" height="279" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/2009Graduates.png" style="float:left" width="375">&quot;I hope you get your diploma today
 with the satisfaction that comes from something more than just
 anticipating money. The curriculum, the critical thinking skills .
 . . those things weren&apos;t just about making you more employable.</img></p>
@@ -61,7 +61,7 @@ you won&apos;t be boring, either.</p>
 <p>&quot;Continue to learn. Teach others. Be a student for life. . .
 .This country needs your energy and your curiosity and your
 soul.&quot;</p>
-<p><img alt="Hugs" height="232" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/2009hugs.png" style="float:right" width="375">He reminded the graduates that
+<p><img alt="Hugs" height="232" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/2009hugs.png" style="float:right" width="375">He reminded the graduates that
 the world they are entering is one that moves at a very fast pace,
 where boundaries no longer exist, where communication is
 instantaneous.</img></p>
@@ -80,7 +80,7 @@ overcome enormous challenges, attaining academic success, achieving
 as athletes, receiving prestigious honors, and sharing their gifts
 and abilities with fellow students and the community, as well.
 Their success is incredibly rewarding.&quot;</p>
-<p><img alt="Caps in the air" height="249" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/2009caps-in-the-air.png" style="float:left" width="375">She shared the stories of a few of
+<p><img alt="Caps in the air" height="249" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/2009caps-in-the-air.png" style="float:left" width="375">She shared the stories of a few of
 these students:</img></p>
 <p>&#x2022; Richard Brumbaugh, a staff sergeant on active reserve in the
 U.S. Air Force. Richard is graduating in Business Administration.

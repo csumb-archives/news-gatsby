@@ -13,7 +13,7 @@ slug: student-designs-logo-for-fundraising-event
 <p>As publicity kicks in for the annual Together with Love 10K
 race, cheerful images focusing on a bright red heart set in a black
 tree are popping up around the local area.</p>
-<p><img alt="Logo for 2013&apos;s Together with Love 10K race, designed by Chelsea Pyne" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/logo_small_for_web.jpg" style="float:left; width:400px; height:303px">The artwork was
+<p><img alt="Logo for 2013&apos;s Together with Love 10K race, designed by Chelsea Pyne" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/logo_small_for_web.jpg" style="float:left; width:400px; height:303px">The artwork was
 done by CSU Monterey Bay student Chelsea Pyne as part of a project
 in Professor Bobbi Long&#x2019;s Digital Art and Design class.<br>
 <br>
@@ -61,7 +61,7 @@ skills, and creativity, but it also teaches them how to listen and
 respond to what they hear, as well as how to manage a
 project.&quot;&#x2028;&#x2028;<br>
 <br>
-To learn more about the design program at CSUMB, click <a href="http://itcd.csumb.edu/bs-cd" rel="nofollow">here</a>.&#x2028;&#x2028;<br>
+To learn more about the design program at CSUMB, click <a href="https://itcd.csumb.edu/bs-cd" rel="nofollow">here</a>.&#x2028;&#x2028;<br>
 <br>
 &#xA0;</br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 

@@ -42,11 +42,11 @@ date: January 01 2020
     >vorgel@csumb.edu</a
   >
   or 831-582-5315. Admission requirements and application materials are
-  available <a href="http://csumb.edu/msw">online.</a>
+  available <a href="https://csumb.edu/msw">online.</a>
 </p>
 <p>
   Information sessions will follow monthly. Check the
-  <a href="http://csumb.edu/msw">website</a> for dates and times.
+  <a href="https://csumb.edu/msw">website</a> for dates and times.
 </p>
 <p></p>
 ```

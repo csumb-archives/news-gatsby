@@ -25,12 +25,12 @@ date: January 01 2020
 <p>
   For more information, contact Vivienne Orgel at 582-5315. Admission
   requirements and application materials are available
-  <a href="http://csumb.edu/msw">here</a>.
+  <a href="https://csumb.edu/msw">here</a>.
 </p>
 <p>
   An information session to learn more about the program is scheduled for Jan.
   20, noon to 1 p.m. in Beach Hall. Driving directions and a campus map are
-  available <a href="http://csumb.edu/map">here</a>.
+  available <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
   Last fall's inaugural class numbered 41 students. Ninety-five percent of them

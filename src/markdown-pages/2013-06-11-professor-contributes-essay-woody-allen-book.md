@@ -9,7 +9,7 @@ slug: professor-contributes-essay-to-woody-allen-book
 
 
 <span class="date">Posted on Jun 11, 2013    </span>
-<p><img alt="Professor Renee Curry&apos;s article appears in book about Woody Allen" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/renees_book_for_web.jpg" style="float:right; width:250px; height:360px"><a href="http://hcom.csumb.edu/renee-curry" rel="nofollow">Dr. Renee
+<p><img alt="Professor Renee Curry&apos;s article appears in book about Woody Allen" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/renees_book_for_web.jpg" style="float:right; width:250px; height:360px"><a href="https://hcom.csumb.edu/renee-curry" rel="nofollow">Dr. Renee
 Curry</a> has published another article on one of her long-time
 research interests, director Woody Allen.</img></p>
 <p>Her latest piece, &#x201C;Woody Allen&#x2019;s Grand Scheme: The Whitening of

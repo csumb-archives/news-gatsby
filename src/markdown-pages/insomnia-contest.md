@@ -42,6 +42,6 @@ date: January 01 2020
 </p>
 <p>
   Here's the link to the contest
-  website:http://edcommunity.apple.com/insomnia_fall07/collection.php?collectionID=5
+  website:https://edcommunity.apple.com/insomnia_fall07/collection.php?collectionID=5
 </p>
 ```

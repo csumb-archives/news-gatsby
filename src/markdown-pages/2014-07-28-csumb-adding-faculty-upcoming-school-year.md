@@ -13,7 +13,7 @@ slug: csumb-adding-faculty-for-upcoming-school-year
 expected to top 450,000 for the upcoming school year, hundreds of
 new faculty members have been hired.<br>
 <br>
-<img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/armillary.png" style="float:right; width:223px; height:348px">At California
+<img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/armillary.png" style="float:right; width:223px; height:348px">At California
 State University, Monterey Bay, 14 new tenure-track professors have
 already been hired for the new school year and several more may
 join them. The university anticipates it will hire 24 more for the

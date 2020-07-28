@@ -20,7 +20,7 @@ underwater park, which helps visitors understand what lies beneath
 the sea. Until now, only divers could experience the mysterious
 underwater seascape of Point Lobos, with its kelp forests, schools
 of fish and marine mammals.</p>
-<p><img alt="Dr. Kvitek and the KelpFly" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kelpflywork_small_0.jpg" style="width:350px; height:243px; float:right">The museum-quality
+<p><img alt="Dr. Kvitek and the KelpFly" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kelpflywork_small_0.jpg" style="width:350px; height:243px; float:right">The museum-quality
 model was years in the making. In 2010, members of the Bay Area
 Underwater Explorers (BAUE) began a project to fill the gaps in the
 existing mapping data. It quickly became apparent their approach
@@ -47,7 +47,7 @@ access, such as Whalers Cove.</p>
 <p>The $300,000 craft can maneuver in water as shallow as 18
 inches. It features an armored hull that allows it to bounce off
 rocks and a flotation collar that makes it stable in surf.</p>
-<p><a href="http://seafloor.otterlabs.org" rel="nofollow">Learn
+<p><a href="https://seafloor.otterlabs.org" rel="nofollow">Learn
 more about the Seafloor Mapping Lab</a></p>
 <p><a href="../../../2011/sep/23/research-vessel-works-uncharted-waters-news-index=14279.html" rel="nofollow">Read about Dr. Kvitek and the KelpFly</a></p>
 <fieldset class="fieldgroup group-attachments">
@@ -58,8 +58,8 @@ more about the Seafloor Mapping Lab</a></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/JGXdO6xPlBM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -70,7 +70,7 @@ more about the Seafloor Mapping Lab</a></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r16---sn-o097zne7.googlevideo.com/videoplayback?source=youtube&amp;mm=31&amp;itag=18&amp;key=yt5&amp;ipbits=0&amp;ratebypass=yes&amp;expire=1422338350&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;ip=198.189.249.65&amp;mt=1422316728&amp;signature=DC093913C1FA6CEA3FCEF902D46D622F1C7AD4BF.9EA5F6A3A646C2A7CA29C6CA068A2011BEE4F61C&amp;pl=23&amp;id=o-AJB-CdVQHU_ZrkkEQ9FO5xp9tObbqdpH8CMvp0OQXu_p&amp;dur=160.795&amp;sver=3&amp;initcwndbps=4201250&amp;mv=m&amp;upn=hzL2KNmP9qA&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ms=au&amp;name=JGXdO6xPlBM" type="video/mp4"/></video></div>
+<source src="https://r16---sn-o097zne7.googlevideo.com/videoplayback?source=youtube&amp;mm=31&amp;itag=18&amp;key=yt5&amp;ipbits=0&amp;ratebypass=yes&amp;expire=1422338350&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;ip=198.189.249.65&amp;mt=1422316728&amp;signature=DC093913C1FA6CEA3FCEF902D46D622F1C7AD4BF.9EA5F6A3A646C2A7CA29C6CA068A2011BEE4F61C&amp;pl=23&amp;id=o-AJB-CdVQHU_ZrkkEQ9FO5xp9tObbqdpH8CMvp0OQXu_p&amp;dur=160.795&amp;sver=3&amp;initcwndbps=4201250&amp;mv=m&amp;upn=hzL2KNmP9qA&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;ms=au&amp;name=JGXdO6xPlBM" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

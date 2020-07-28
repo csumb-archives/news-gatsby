@@ -15,7 +15,7 @@ important part of his freshman year on campus.</p>
 said of his experience with the program in 2012. &#x201C;The long-lasting
 relationships between residents and professors . . . are rich in
 spirit . . . &#x201D;</p>
-<p><img alt="Faculty members share pizza with PHG students in Avocet Hall" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/higher_ground.web_.jpg" style="float:left; width:400px; height:267px">Carter was part of
+<p><img alt="Faculty members share pizza with PHG students in Avocet Hall" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/higher_ground.web_.jpg" style="float:left; width:400px; height:267px">Carter was part of
 Project Higher Ground &#xAD;&#x2013; a residential community in Avocet Hall
 linked to academic coursework and co-curricular activities designed
 to enhance student learning and personal development.</img></p>

@@ -32,7 +32,7 @@ date: January 01 2020
 </p>
 <p>
   Read for
-  <a href="http://www.calstateonline.net/">more information on the program</a>
+  <a href="https://www.calstateonline.net/">more information on the program</a>
   or how to apply, or call 1-800-247-5168 to speak directly with a college
   coach.
 </p>

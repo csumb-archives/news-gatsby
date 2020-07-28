@@ -54,7 +54,7 @@ date: January 01 2020
 <p>
   “I loved everything about my time at CSU Monterey Bay, and I definitely
   recommend it to others.” Learn more about CSUMB's Alumni Association
-  <a href="http://csumb.edu/alumni/">here</a>. Learn more about Human
-  Communication <a href="http://hcom.csumb.edu/">here</a>.
+  <a href="https://csumb.edu/alumni/">here</a>. Learn more about Human
+  Communication <a href="https://hcom.csumb.edu/">here</a>.
 </p>
 ```

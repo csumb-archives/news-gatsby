@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   SEASIDE, Ca., March 20, 2018 – California State University, Monterey Bay
   (CSUMB)
-  <a href="http://csumb.edu/sns">School of Natural Sciences</a> associate
+  <a href="https://csumb.edu/sns">School of Natural Sciences</a> associate
   professor Cheryl Logan has been awarded a 2018-19 U.S. Fulbright Scholarship
   to study coral thermal tolerance in the Galápagos Islands. Her research, which
   will span a total of five months starting in spring of 2019, will focus on
@@ -33,7 +33,7 @@ date: January 01 2020
 <p>
   In addition to her research, Logan will co-teach a three-week-long marine
   ecology course at
-  <a href="http://www.usfq.edu.ec/Paginas/Inicio.aspx"
+  <a href="https://www.usfq.edu.ec/Paginas/Inicio.aspx"
     >Universidad San Francisco de Quito</a
   >
   (USFQ). This is the first faculty research collaboration between USFQ and
@@ -57,7 +57,7 @@ date: January 01 2020
     >Senator J. William Fulbright</a
   >
   of Arkansas. The Fulbright Program is sponsored by the U.S. Department of
-  State’s <a href="http://ex">Bureau of Educational and Cultural Affairs</a> and
+  State’s <a href="https://ex">Bureau of Educational and Cultural Affairs</a> and
   currently operates in 160 countries worldwide.
 </p>
 ```

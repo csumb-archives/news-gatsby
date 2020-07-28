@@ -33,7 +33,7 @@ date: January 01 2020
   Locally, Monterey County Free Libraries will sponsor a discussion with the
   author on Oct. 10 at 5:30 p.m. in CSU Monterey Bay’s library, Room 1180. While
   the event is free, attendees must purchase a parking permit from a machine on
-  the lot or <a href="http://parking.csumb.edu/buy-permit">online</a>.
+  the lot or <a href="https://parking.csumb.edu/buy-permit">online</a>.
 </p>
 <p>The first 100 attendees will receive a free copy of the book.</p>
 <p>
@@ -43,7 +43,7 @@ date: January 01 2020
   span that much difference – sociologically and geographically – read my book,
   I’m thrilled,” he told the Register. Monterey County Free Libraries has
   organized several other activities related to the book.
-  <a href="http://www.co.monterey.ca.us/library/CalReads.html"
+  <a href="https://www.co.monterey.ca.us/library/CalReads.html"
     >Learn more about them here.</a
   >
 </p>

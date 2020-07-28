@@ -33,7 +33,7 @@ date: January 01 2020
 <p>
   To list is available
   <a
-    href="http://www.huffingtonpost.com/2010/12/31/9-forwardthinking-schools_n_803008.html#s217483&amp;title=Cal%20State-Monterey%20Bay%20"
+    href="https://www.huffingtonpost.com/2010/12/31/9-forwardthinking-schools_n_803008.html#s217483&amp;title=Cal%20State-Monterey%20Bay%20"
     >here.</a
   >
 </p>

@@ -11,7 +11,7 @@ slug: win-a-scholarship-see-the-world
 <span class="date">Posted on Aug 13, 2013    </span>
 <h4>About 100 CSUMB students to study abroad; a dozen earn Gilman
 scholarships</h4>
-<p><img alt="Ayana Hawk" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/ayana.jpg" style="float:left; width:300px; height:199px">Ayana Hawk is not
+<p><img alt="Ayana Hawk" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/ayana.jpg" style="float:left; width:300px; height:199px">Ayana Hawk is not
 your typical study-abroad student. She&#x2019;s majoring in film, not
 social sciences or business &#x2014; the most popular fields among
 students studying abroad. And she&#x2019;s African-American, which,
@@ -85,9 +85,9 @@ The Benjamin A. Gilman International Scholarship recipients for the
 &#x2022; Brenda Ruiz, Germany<br>
 &#x2022; Richard Sweet, Japan<br>
 &#x2022; Julio Tellez-Gonzalez, Japan</br></br></br></br></br></br></br></br></br></br></br></p>
-<p><a href="http://international.csumb.edu/" rel="nofollow">Learn
+<p><a href="https://international.csumb.edu/" rel="nofollow">Learn
 more about CSUMB&#x2019;s international programs</a></p>
-<p><a href="http://www.iie.org/en/Programs/Gilman-Scholarship-Program" rel="nofollow">Learn more the Gilman International Scholarship
+<p><a href="https://www.iie.org/en/Programs/Gilman-Scholarship-Program" rel="nofollow">Learn more the Gilman International Scholarship
 program</a></p>
 
 

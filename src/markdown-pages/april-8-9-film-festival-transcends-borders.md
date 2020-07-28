@@ -41,7 +41,7 @@ date: January 01 2020
   On Saturday, April 9, the festival moves to California State University,
   Monterey Bay’s World Theater on Sixth Avenue. Saturday’s screenings are free,
   but reservations are requested and can be made
-  <a href="http://rsvp.csumb.edu">here</a>.
+  <a href="https://rsvp.csumb.edu">here</a>.
 </p>
 <p>
   Young filmmakers will be in the spotlight as 16 short works – all under 5
@@ -67,9 +67,9 @@ date: January 01 2020
 </p>
 <p>
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>. For information on the festival, call
+  <a href="https://csumb.edu/map">here</a>. For information on the festival, call
   Jennifer Benge at (831) 582-3743 or visit the
-  <a href="http://montereybayfilmfestival.com.">web</a>.
+  <a href="https://montereybayfilmfestival.com.">web</a>.
 </p>
 <p></p>
 <p></p>

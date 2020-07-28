@@ -9,7 +9,7 @@ slug: mcnair-scholars-program-lands-grant
 
 
 <span class="date">Posted on Oct 01, 2012    </span>
-<p><img alt="McNair Scholars logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mcnair_horizonta_logo.jpeg" style="float:left; width:218px; height:75px">An astronaut who
+<p><img alt="McNair Scholars logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mcnair_horizonta_logo.jpeg" style="float:left; width:218px; height:75px">An astronaut who
 died in the 1986 Challenger disaster is inspiring college students
 to attend graduate school.</img></p>
 <p>Cal State Monterey Bay has been awarded a five-year, $1.1
@@ -58,7 +58,7 @@ United States.</p>
 <p>&#x201C;I&apos;m thrilled to continue this legacy with our new five-year
 grant.&quot;</p>
 <p><em>Learn more about the McNair program and other opportunities
-for undergraduate research at CSUMB <a href="http://uroc.csumb.edu" rel="nofollow">here.</a>&#xA0;</em></p>
+for undergraduate research at CSUMB <a href="https://uroc.csumb.edu" rel="nofollow">here.</a>&#xA0;</em></p>
 
 
 

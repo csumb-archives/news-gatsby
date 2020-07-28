@@ -15,7 +15,7 @@ Work program will cross the stage at commencement in May 2013. They
 will represent the culmination of years of planning and community
 support.</p>
 <p>The program started with 40 students in the fall of 2010.</p>
-<p><img alt="Petra Mansfield is scheduled to graduate from the MSW program in May" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mansfield_for_web.jpg" style="float:left; width:300px; height:354px">One of those
+<p><img alt="Petra Mansfield is scheduled to graduate from the MSW program in May" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mansfield_for_web.jpg" style="float:left; width:300px; height:354px">One of those
 students, Petra Mansfield, has received an $18,500 stipend through
 the California Social Work Education Center program to help pay for
 her final year of school. The program is designed to support social
@@ -89,7 +89,7 @@ an internship of 1,000 hours, 250 hours per semester starting in
 the second year. They will spend an academic year in each of their
 internship placements.<br>
 <br>
-<a href="http://csumb.edu/msw" rel="nofollow">Learn more about the
+<a href="https://csumb.edu/msw" rel="nofollow">Learn more about the
 MSW program.</a></br></br></br></br></br></br></p>
 <p>&#xA0;</p>
 <p><br>

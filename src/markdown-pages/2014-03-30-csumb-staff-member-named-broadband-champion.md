@@ -13,8 +13,8 @@ slug: csumb-staff-member-named-broadband-champion
 <p>Arlene Krebs, technology development officer at CSU Monterey
 Bay, has been named a 2014 Broadband Champion by the California
 Emerging Technology Fund.</p>
-<p><img alt="Arlene Krebs" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/krebs.arlene.jpeg" style="width:300px; height:324px; float:left">Krebs, founding
-director of the <a href="http://wetec.csumb.edu/about-wetec" rel="nofollow">Wireless Education and Technology Center</a> (WeTEC) at
+<p><img alt="Arlene Krebs" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/krebs.arlene.jpeg" style="width:300px; height:324px; float:left">Krebs, founding
+director of the <a href="https://wetec.csumb.edu/about-wetec" rel="nofollow">Wireless Education and Technology Center</a> (WeTEC) at
 CSUMB, is one of 15 people recognized for their groundbreaking work
 and strong commitment to close the digital divide.</img></p>
 <p>The award winners were selected in consultation with dozens of

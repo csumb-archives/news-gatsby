@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   SEASIDE, Calif., July 26, 2017 – Thousands of teachers will gather across
   California on July 28 for the third annual
-  <a href="http://cateacherssummit.com/"
+  <a href="https://cateacherssummit.com/"
     >Better Together: California Teachers Summit</a
   >, a free statewide day of learning and networking that is open to all
   California pre-K-12 teachers, teacher candidates and school administrators. As

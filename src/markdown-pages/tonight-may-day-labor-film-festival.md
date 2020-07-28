@@ -27,8 +27,8 @@ date: January 01 2020
   voluntary donation; the $2 university parking fee must be paid.
 </p>
 <p>
-  <a href="http://www.reelwork.org/">Complete listing</a> of this year’s films
-  in Monterey, Santa Cruz and Santa Clara countieshttp://www.reelwork.org. For
+  <a href="https://www.reelwork.org/">Complete listing</a> of this year’s films
+  in Monterey, Santa Cruz and Santa Clara countieshttps://www.reelwork.org. For
   more information on the CSUMB screenings, contact Jennifer Colby at
   582&#45;5045 or
   <a
@@ -36,5 +36,5 @@ date: January 01 2020
     >jcolby@csumb.edu</a
   >.
 </p>
-<p><a href="http://csumb.edu/map">Driving directions and a campus map</a>.</p>
+<p><a href="https://csumb.edu/map">Driving directions and a campus map</a>.</p>
 ```

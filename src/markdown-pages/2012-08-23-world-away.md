@@ -13,7 +13,7 @@ slug: a-world-away
 international students will have settled in to campus life at CSU
 Monterey Bay. Some plan to spend a year before returning home;
 others intend to earn a degree.</p>
-<p><img alt="International students arrive at S.F. International on Aug. 22" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/recrop_international_students.jpg" style="float:left; width:400px; height:211px">And another 20
+<p><img alt="International students arrive at S.F. International on Aug. 22" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/recrop_international_students.jpg" style="float:left; width:400px; height:211px">And another 20
 students are on campus through the National Student Exchange, a
 kind of domestic exchange program that allows students from other
 universities to attend classes at CSUMB for a semester or a full
@@ -30,7 +30,7 @@ size is appealing.&#x201D;</p>
 <p>The exchange works in both directions &#x2013; 88 CSUMB students are
 headed abroad this semester and another 20 will join them in the
 spring.</p>
-<p><a href="http://international.csumb.edu/" rel="nofollow">Learn
+<p><a href="https://international.csumb.edu/" rel="nofollow">Learn
 more about international programs.</a></p>
 <p><a href="../../jul/17/domestic-exchange-students-discover-their-own-country.html" rel="nofollow">Read about the National Student Exchange</a>.</p>
 <p><a href="../../may/30/gilman-scholars-go-global.html" rel="nofollow">Read about how the Gilman International Scholarship

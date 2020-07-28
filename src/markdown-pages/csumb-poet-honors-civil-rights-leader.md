@@ -12,7 +12,7 @@ date: January 01 2020
 </p>
 <p>
   The poetry reading commemorated the groundbreaking
-  <a href="http://npg.si.edu/exhibit/exhhuerta.html">exhibition</a> honoring
+  <a href="https://npg.si.edu/exhibit/exhhuerta.html">exhibition</a> honoring
   United Farm Workers co&#45;founder Dolores Huerta.
 </p>
 <p>

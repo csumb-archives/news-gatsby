@@ -288,7 +288,7 @@ date: January 01 2020
   Every veteran has a story. CSUMB wants yours. This fall, Enid Ryce,
   coordinator of the School of Creative Arts, will lead an effort to record the
   stories of local veterans as part of the
-  <a href="http://www.loc.gov/vets/">Veterans History Project</a> &#40;VHP&#41;
+  <a href="https://www.loc.gov/vets/">Veterans History Project</a> &#40;VHP&#41;
   . . .
   <a
     href="https://csumb.edu/news/csumb&#45;seeks&#45;participants&#45;library&#45;congress&#45;project"

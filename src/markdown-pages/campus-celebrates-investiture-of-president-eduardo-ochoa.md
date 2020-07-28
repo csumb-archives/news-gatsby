@@ -74,23 +74,23 @@ date: January 01 2020
 </p>
 <p>
   <a
-    href="http://president.csumb.edu/presidential-investiture-california-state-university-monterey-bay"
+    href="https://president.csumb.edu/presidential-investiture-california-state-university-monterey-bay"
     >Learn more about the investiture</a
   >
-  <a href="http://news.csumb.edu/gallery/investiture-day-service-and-learning"
+  <a href="https://news.csumb.edu/gallery/investiture-day-service-and-learning"
     >See a photo gallery from the Day of Service and Learning</a
   >
 </p>
 <p>
   <a
-    href="http://news.csumb.edu/news/2013/nov/7/ceremonial-groundbreaking-bit-building?utm_source=card&amp;utm_medium=tall&amp;utm_campaign=card"
+    href="https://news.csumb.edu/news/2013/nov/7/ceremonial-groundbreaking-bit-building?utm_source=card&amp;utm_medium=tall&amp;utm_campaign=card"
     >Learn about the Business and Information Technology Building</a
   >
-  <a href="http://tagboard.com/CongratsOchoa"
+  <a href="https://tagboard.com/CongratsOchoa"
     >The investiture and day of service on social media</a
   >
   <a
-    href="http://news.csumb.edu/gallery/investiture-csumb-president-eduardo-ochoa"
+    href="https://news.csumb.edu/gallery/investiture-csumb-president-eduardo-ochoa"
     >See a photo gallery from the investiture</a
   >
 </p>

@@ -42,7 +42,7 @@ date: January 01 2020
   National Black HIV/AIDS Awareness Day.
 </p>
 <p>
-  <a href="http://www.cchas.org">More information on the event and CCHAS</a>
+  <a href="https://www.cchas.org">More information on the event and CCHAS</a>
 </p>
 <p>
   *Photo: (left to right) Carmela Cooper, AmeriCorps member; Steven Goings;

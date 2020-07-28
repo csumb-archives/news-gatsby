@@ -13,7 +13,7 @@ slug: obama-administration-official-to-speak-at-commencement
 doctorate</h3>
 <p>Obama administration official Cecilia Mu&#xF1;oz will be the keynote
 speaker at CSU Monterey Bay&#x2019;s commencement ceremony on May 17.</p>
-<p><img alt="Cecilia Munoz" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/cm_headshot_for_web.jpg" style="width:300px; height:331px; float:left">Ms. Mu&#xF1;oz is an
+<p><img alt="Cecilia Munoz" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/cm_headshot_for_web.jpg" style="width:300px; height:331px; float:left">Ms. Mu&#xF1;oz is an
 adviser to the President and director of the Domestic Policy
 Council, which coordinates the domestic policy-making process in
 the White House. Previously, she served as deputy assistant to the
@@ -37,7 +37,7 @@ civil rights.</p>
 <p>Julie Packard, founding director of the non-profit Monterey Bay
 Aquarium, will be awarded an honorary doctoral degree at the
 ceremony.</p>
-<p><img alt="Julie Packard" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/packard.julie_for_web.jpg" style="width:300px; height:306px; float:right">The first person
+<p><img alt="Julie Packard" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/packard.julie_for_web.jpg" style="width:300px; height:306px; float:right">The first person
 to receive an honorary doctor of science degree from CSUMB, Ms.
 Packard and the aquarium have become a force for advancing ocean
 conservation worldwide through the aquarium&#x2019;s exhibits and
@@ -72,7 +72,7 @@ Approximately 1,450 students will receive bachelor&#x2019;s and master&#x2019;s
 degrees; about 8,000 familty members and friends are expected to
 attend.<br>
 <br>
-<a href="http://commencement.csumb.edu" rel="nofollow">Learn more
+<a href="https://commencement.csumb.edu" rel="nofollow">Learn more
 about commencement</a>.&#xA0;</br></br></p>
 
 

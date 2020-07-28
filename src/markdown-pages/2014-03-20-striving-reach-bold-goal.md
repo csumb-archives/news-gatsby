@@ -9,7 +9,7 @@ slug: striving-to-reach-a-bold-goal
 
 
 <span class="date">Posted on Mar 20, 2014    </span>
-<p><img alt="Jeff Edmondson" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/jeff_edmondson_for_web.jpg" style="width:250px; height:335px; float:left">Jeff Edmondson,
+<p><img alt="Jeff Edmondson" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/jeff_edmondson_for_web.jpg" style="width:250px; height:335px; float:left">Jeff Edmondson,
 managing director of Strive Together, will speak at CSU Monterey
 Bay on April 9 as the President&#x2019;s Speaker Series concludes for the
 year.</img></p>
@@ -34,7 +34,7 @@ Monterey County.<br>
 <br>
 Edmondson&#x2019;s presentation will get under way at 3:30 p.m. in the
 World Theater on Sixth Avenue near A Street. Driving directions and
-a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</br></br></br></br></p>
+a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</br></br></br></br></p>
 <p>The community is invited to this free event. No tickets are
 necessary, but reservations are requested. Please RSVP by calling
 the World Theater box office at 582-4580, or by going <a href="https://docs.google.com/a/csumb.edu/forms/d/1W9UGd0GvMFTvlrzS5UdSHzPPEcUv3RhS7oK85vUf9No/viewform" rel="nofollow">online</a>.</p>
@@ -57,8 +57,8 @@ and Growth: Finding Alternatives to Violence.</p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/FLqc_9VxfCE&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/FLqc_9VxfCE&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/FLqc_9VxfCE&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/FLqc_9VxfCE&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -69,7 +69,7 @@ and Growth: Finding Alternatives to Violence.</p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r19---sn-o097zne7.googlevideo.com/videoplayback?signature=02422D00F785B1FB9EA9255A6270B6368271D037.F9D240D66045C053729CB68FEDAB44C671252277&amp;initcwndbps=4053750&amp;key=yt5&amp;ip=198.189.249.65&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;mt=1422320714&amp;ms=au&amp;source=youtube&amp;upn=mQJbqGUUITI&amp;mv=m&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;id=o-ACLLyfwjq8cUx4DuNUNyyP89gUFFjb-wyAz8LyTZmOs4&amp;pl=23&amp;ipbits=0&amp;mm=31&amp;dur=393.090&amp;itag=18&amp;sver=3&amp;ratebypass=yes&amp;expire=1422342340&amp;name=FLqc_9VxfCE" type="video/mp4"/></video></div>
+<source src="https://r19---sn-o097zne7.googlevideo.com/videoplayback?signature=02422D00F785B1FB9EA9255A6270B6368271D037.F9D240D66045C053729CB68FEDAB44C671252277&amp;initcwndbps=4053750&amp;key=yt5&amp;ip=198.189.249.65&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;mt=1422320714&amp;ms=au&amp;source=youtube&amp;upn=mQJbqGUUITI&amp;mv=m&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;id=o-ACLLyfwjq8cUx4DuNUNyyP89gUFFjb-wyAz8LyTZmOs4&amp;pl=23&amp;ipbits=0&amp;mm=31&amp;dur=393.090&amp;itag=18&amp;sver=3&amp;ratebypass=yes&amp;expire=1422342340&amp;name=FLqc_9VxfCE" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

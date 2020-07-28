@@ -28,7 +28,7 @@ date: January 01 2020
 </p>
 <p>
   The dispensers are part of CSUMB's ongoing efforts to combat the flu. The
-  university has set up a website (<a href="http://csumb.edu/flu"
+  university has set up a website (<a href="https://csumb.edu/flu"
     >csumb.edu/flu</a
   >) with information on how to prevent and treat the flu; emails with that
   information have gone out to everyone on campus; and all rooms in the

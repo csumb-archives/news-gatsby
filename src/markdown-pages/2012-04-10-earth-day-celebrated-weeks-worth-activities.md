@@ -11,7 +11,7 @@ slug: earth-day-celebrated-with-week&apos;s-worth-of-activities
 <span class="date">Posted on Apr 10, 2012    </span>
 <h2>Earth to CSUMB</h2>
 <p>Earth Day is really Earth <em>Week</em> at CSU Monterey Bay.</p>
-<p><img alt="Earth Day at CSUMB will be celebrated April 13-22" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/earth_day_2012.jpeg" style="float:left; width:219px; height:231px">Since the first
+<p><img alt="Earth Day at CSUMB will be celebrated April 13-22" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/earth_day_2012.jpeg" style="float:left; width:219px; height:231px">Since the first
 Earth Day in 1970, people around the world have sought to celebrate
 the planet through a variety of individual and community
 activities. But Earth Day is about more than observing the beauty

@@ -50,7 +50,7 @@ date: January 01 2020
 <p>
   Roberts, the 2013-14 student body president, is a senior
   <a
-    href="http://itcd.csumb.edu/bs-computer-science-information-technology?utm_source=redirect&amp;utm_medium=marketing&amp;utm_campaign=redirect"
+    href="https://itcd.csumb.edu/bs-computer-science-information-technology?utm_source=redirect&amp;utm_medium=marketing&amp;utm_campaign=redirect"
     >computer science</a
   >
   major with a concentration in software engineering. He will graduate in

@@ -38,17 +38,17 @@ date: January 01 2020
   of students from all over Europe and the Americas. I have learned so much
   about other parts of the world since I’ve been here,” she said. “This is my
   new home.” View a photo essay of Arias’ time in Spain
-  <a href="http://www.calstate.edu/ip/photo-essays/country/spain/2011/arias/"
+  <a href="https://www.calstate.edu/ip/photo-essays/country/spain/2011/arias/"
     >here</a
   >.
 </p>
 <p>
   Learn more from CSUMB’s Office of International Programs
-  <a href="http://international.csumb.edu/index.htm">here</a>.
+  <a href="https://international.csumb.edu/index.htm">here</a>.
 </p>
 <p>
   Visit the CSU Office of International Programs
-  <a href="http://calstate.edu/ip">here</a>.
+  <a href="https://calstate.edu/ip">here</a>.
 </p>
 <p>
   <em>Photos courtesy of Guadalupe Arias Top photo: Arias at the </em

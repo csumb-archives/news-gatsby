@@ -67,8 +67,8 @@ date: January 01 2020
 <p>
   Tickets are $25 for general admission and $50 for admission and VIP reception
   and can be ordered online at
-  <a href="http://site.themonterey.com/"
-    >http://site.theexonerated-takes-chilling-look-justice-systemmonterey.com</a
+  <a href="https://site.themonterey.com/"
+    >https://site.theexonerated-takes-chilling-look-justice-systemmonterey.com</a
   >
   or by calling 582-4580.
 </p>

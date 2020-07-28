@@ -20,7 +20,7 @@ relationship between the local business community and the
 university&apos;s School of Business. Proceeds benefit the school&#x2019;s
 program fund.<br>
 <br>
-<img alt="Mike Briley" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mike_briley_sm.jpg" style="float:right; width:200px; height:218px">Mr. Briley
+<img alt="Mike Briley" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mike_briley_sm.jpg" style="float:right; width:200px; height:218px">Mr. Briley
 (pictured at right) is this year&#x2019;s recipient of the business
 leadership award. He brings 27 years of experience in the
 accounting industry to his role as managing partner for Hayashi
@@ -36,7 +36,7 @@ leadership. Her career spans more than 25 years in the
 not-for-profit sector. She has led the United Way since 2001. Prior
 to joiing that agency, she held key positions with the California
 Biomedical Research Association, American Heart Association &#x2013;
-Western States&#xA0;<img alt="Mary Adams" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mary_adams_sm.jpg" style="float:left; width:230px; height:218px">Affiliate, American
+Western States&#xA0;<img alt="Mary Adams" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mary_adams_sm.jpg" style="float:left; width:230px; height:218px">Affiliate, American
 Diabetes Association, American Cancer Society and Volunteers in
 Action. She serves on the York School board of trustees and has a
 leadership role with the Salinas Rotary Club.</img></br></br></img></br></br></br></br></br></br></p>
@@ -53,6 +53,6 @@ senior, will also be given out at the showcase.</p>
 582-4141 by April 22. For more information, call Carol Davis at
 582-4232.</p>
 <p>To learn more about the School of Business at CSU Monterey Bay,
-click <a href="http://csumb.edu/business" rel="nofollow">here</a>.<br>
+click <a href="https://csumb.edu/business" rel="nofollow">here</a>.<br>
 &#xA0;</br></p>
 ```

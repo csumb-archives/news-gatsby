@@ -12,7 +12,7 @@ slug: tat-grad-moves-up-to-major-studio-feature
 <p>July 11 is the day Planet of the Apes fans have been
 anticipating, as &#x201C;Dawn of the Planet of the Apes&#x201D; premieres
 nationwide.</p>
-<p><img alt="David Kashevaroff" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/kash.jpg" style="float:left; width:200px; height:200px">For CSUMB graduate
+<p><img alt="David Kashevaroff" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/kash.jpg" style="float:left; width:200px; height:200px">For CSUMB graduate
 David Kashevaroff, that opening represents the culmination of about
 two years of work, and an important milestone in his successful
 career as a film editor.</img></p>
@@ -32,7 +32,7 @@ Matt Reeves. Studios want editors on-site to make sure that the
 production team has all the shots it needs for the final film, and
 to avoid the expense of having to go back to reshoot any
 scenes.</p>
-<p><img alt="The new Apes film opens July 11" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/apes_promo_photo.jpg" style="width:300px; height:421px; float:right">Adding to the
+<p><img alt="The new Apes film opens July 11" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/apes_promo_photo.jpg" style="width:300px; height:421px; float:right">Adding to the
 complexity of this project was the use of motion capture. The movie
 doesn&#x2019;t use real apes. Instead, actors&apos; movements are recorded
 through computer technology and that information is used to create

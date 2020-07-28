@@ -9,7 +9,7 @@ slug: string-quartet-performs-at-csumb
 
 
 <span class="date">Posted on Nov 18, 2013    </span>
-<h3><img alt="Friction Quartet" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/friction_quartet_wall.jpg" style="float:left; width:550px; height:367px">Free chamber music
+<h3><img alt="Friction Quartet" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/friction_quartet_wall.jpg" style="float:left; width:550px; height:367px">Free chamber music
 concert set for Dec. 6</img></h3>
 <p>The community is invited to a free concert of chamber music at
 CSU Monterey Bay on Dec. 6.</p>
@@ -22,15 +22,15 @@ works.</p>
 Legion of Honor, San Francisco Friends of Chamber Music&#x2019;s Chamber
 Music Day, and Garrett-Moulton Productions&#x2019; A Show of Hands for
 quartet and dancers.</p>
-<p><img alt="Friction Quartet" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/friction_quartet.jpg" style="float:left; width:300px; height:442px">At CSUMB, the
+<p><img alt="Friction Quartet" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/friction_quartet.jpg" style="float:left; width:300px; height:442px">At CSUMB, the
 quartet will premiere a piece composed by Dr. Lanier Sammons, a
-lecturer in the university&#x2019;s <a href="http://mpa.csumb.edu/" rel="nofollow">Music and Performing Arts Department.</a></img></p>
+lecturer in the university&#x2019;s <a href="https://mpa.csumb.edu/" rel="nofollow">Music and Performing Arts Department.</a></img></p>
 <p>The performance will start at 8 p.m. in the Music Hall, located
 on Sixth Avenue between Col. Durham and Butler streets. Parking is
 available in front of the building.</p>
 <p>While the concert is free, visitors must purchase a parking
 permit from a machine on the adjacent lot or by going <a href="https://store.csumb.edu/products/daily-parking-permit" rel="nofollow">online</a>. Driving directions and a campus map are
-available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</p>
+available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</p>
 <p>Earlier in the day, the group will work with student composers,
 offering feedback on their compositions.</p>
 <p>For information or to request disability accommodations, call

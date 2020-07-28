@@ -16,7 +16,7 @@ date: January 01 2020
   astronaut and scientist who died in the Challenger disaster in 1984, is to
   increase the number of underrepresented, low income and first&#45;generation
   college students who earn doctoral degrees.
-  <a href="http://news.csumb.edu/site/x20766.xml"
+  <a href="https://news.csumb.edu/site/x20766.xml"
     >Read more about McNair Scholars grant here</a
   >.
 </p>
@@ -35,7 +35,7 @@ date: January 01 2020
   snacks, reflection, and commemoration. Participants can gather at 5:30 p.m. at
   the Music Hall, then Aztec dancers and giants puppets will lead a candlelight
   procession to the University Center for the program.
-  <a href="http://vpa.csumb.edu/dead/index.htm"
+  <a href="https://vpa.csumb.edu/dead/index.htm"
     >More information on Day of the Dead</a
   >. &#45; Also on Thursday, students in VPA 306/Digital Public Art will present
   INVOKE: A Project to Invite Memory and Forgiveness. The project features a
@@ -56,8 +56,8 @@ date: January 01 2020
   validated the antiwar protest movement. He'll be talking about his book,
   "Secrets: A Memoir of Vietnam and the Pentagon Papers," copies of which will
   be available for sale.
-  <a href="http://csumb.edu/site/x19928.xml">Reserve a seat here</a>.
-  <a href="http://news.csumb.edu/site/x20764.xml%20"
+  <a href="https://csumb.edu/site/x19928.xml">Reserve a seat here</a>.
+  <a href="https://news.csumb.edu/site/x20764.xml%20"
     >More information about Dr. Ellsberg here</a
   >.
 </p>
@@ -96,7 +96,7 @@ date: January 01 2020
   emergency alerts only; those who sign up will not receive spam. Privacy is
   protected, and only campus administrators and members of the University Police
   Department can originate the messages.
-  <a href="http://news.csumb.edu/site/x20695.xml"
+  <a href="https://news.csumb.edu/site/x20695.xml"
     >Read more about OTTERalert here</a
   >.
 </p>
@@ -187,7 +187,7 @@ date: January 01 2020
   accessed via a newly constructed entrance at the southwest corner of Parking
   Lot 23. &#45; Our campus is under construction. Please be cautious around
   construction areas. We invite you to view this short [slide
-  show](http://cdo.csumb.edu/site/x4929.xml &quot;Slide Show&quot;) created with
+  show](https://cdo.csumb.edu/site/x4929.xml &quot;Slide Show&quot;) created with
   your safety in mind.
 </p>
 <p>
@@ -230,6 +230,6 @@ date: January 01 2020
 </p>
 <p>
   For campus news, activities and events, please visit our
-  [news](http://www.csumb.edu/news &quot;news&quot;) website.
+  [news](https://www.csumb.edu/news &quot;news&quot;) website.
 </p>
 ```

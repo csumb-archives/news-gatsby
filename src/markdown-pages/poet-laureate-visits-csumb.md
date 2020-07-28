@@ -8,7 +8,7 @@ date: January 01 2020
 <p>JUAN FELIPE HERRERA TO READ AS PART OF SUMMER ARTS</p>
 <p>
   Poets are prominent at this year’s edition of
-  <a href="http://csusummerarts.org">Summer Arts</a>, but the most prominent may
+  <a href="https://csusummerarts.org">Summer Arts</a>, but the most prominent may
   be Juan Felipe Herrera, newly named U.S. poet laureate.
 </p>
 <p>
@@ -67,7 +67,7 @@ date: January 01 2020
 <p>
   Listen to an
   <a
-    href="http://www.npr.org/sections/thetwo&#45;way/2015/06/10/412909814/juan&#45;felipe&#45;herrera&#45;named&#45;u&#45;s&#45;poet&#45;laureate"
+    href="https://www.npr.org/sections/thetwo&#45;way/2015/06/10/412909814/juan&#45;felipe&#45;herrera&#45;named&#45;u&#45;s&#45;poet&#45;laureate"
     >interview on NPR</a
   >
 </p>

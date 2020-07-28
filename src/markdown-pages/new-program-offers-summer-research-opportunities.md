@@ -60,8 +60,8 @@ date: January 01 2020
   the community.
 </p>
 <p>
-  <a href="http://uroc.csumb.edu/">Learn more about UROC</a>
-  <a href="http://www.calstate.edu/coast/index.asp"> Learn more about COAST</a>
+  <a href="https://uroc.csumb.edu/">Learn more about UROC</a>
+  <a href="https://www.calstate.edu/coast/index.asp"> Learn more about COAST</a>
 </p>
 <p>
   <em

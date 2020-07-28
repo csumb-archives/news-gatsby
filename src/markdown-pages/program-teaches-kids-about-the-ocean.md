@@ -38,5 +38,5 @@ date: January 01 2020
   have the opportunity to interact with women scientists while exploring careers
   in science.
 </p>
-<p>For more information, click <a href="http://www.campsealab.org">here</a>.</p>
+<p>For more information, click <a href="https://www.campsealab.org">here</a>.</p>
 ```

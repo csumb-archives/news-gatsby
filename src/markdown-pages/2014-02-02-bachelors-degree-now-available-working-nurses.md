@@ -14,7 +14,7 @@ slug: bachelor&apos;s-degree-now-available-for-working-nurses
 To help meet a growing demand for nurses with bachelor&#x2019;s degrees,
 CSU Monterey Bay started a nursing program in 2012, partnering with
 four local community colleges.</br></p>
-<p><img alt="Nursing make a difference" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/nursing_image.jpeg" style="float:left; width:280px; height:180px">Starting in June,
+<p><img alt="Nursing make a difference" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/nursing_image.jpeg" style="float:left; width:280px; height:180px">Starting in June,
 the program will add a tract for already-employed nurses with
 associate&#x2019;s degrees who want to earn a bachelor&#x2019;s while they
 continue to work.</img></p>
@@ -40,7 +40,7 @@ health care system and meet the changing needs of patients. Today,
 only 30 percent of California nurses have four-year degrees.</p>
 <p>&#x201C;We need to partner with health care organizations and be
 responsive to their needs,&#x201D; Dr. Hultgren said.</p>
-<p><a href="http://nursing.csumb.edu/adn-bsn-completion-program" rel="nofollow">Learn more about the program.</a></p>
+<p><a href="https://nursing.csumb.edu/adn-bsn-completion-program" rel="nofollow">Learn more about the program.</a></p>
 
 
 

@@ -37,7 +37,7 @@ date: January 01 2020
   of meals and coffee over this three&#45;day weekend. Entrepreneurs, students
   and community members in Monterey, Santa Cruz and San Benitocounties should
   apply to the competition at
-  <a href="http://www.startupweekendmb.co">www.startupweekendmb.co</a>.
+  <a href="https://www.startupweekendmb.co">www.startupweekendmb.co</a>.
 </p>
 <p>
   Startup Weekend Monterey Bay is hosted by the Institute forInnovation and

@@ -43,7 +43,7 @@ slug: disc-golf-takes-flight
   Gen. Jim Moore Boulevard and First Street. The best places to park are lots 18
   or 80, and be sure to bring six quarters to pay the $1.50 on-campus parking
   fee. A map of the campus can be found
-  <a href="http://csumb.edu/general/campus_map/" rel="nofollow">here</a>.
+  <a href="https://csumb.edu/general/campus_map/" rel="nofollow">here</a>.
 </p>
 <p>
   The seminar starts at noon, and is free (for location report to building 98).

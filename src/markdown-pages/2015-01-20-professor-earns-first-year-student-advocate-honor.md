@@ -9,8 +9,8 @@ slug: professor-earns-&apos;firstyear-student-advocate&apos;-honor
 
 
 <span class="date">Posted on Jan 20, 2015    </span>
-<p><a href="http://hcom.csumb.edu/mar%C3%AD-villase%C3%B1or" rel="nofollow">Maria Villase&#xF1;or</a>, associate professor and
-coordinator of the <a href="http://catalog.csumb.edu/undergrad-education/nondegree-programs/first-year-seminar/" rel="nofollow">First-Year Seminar</a> program at Cal State Monterey
+<p><a href="https://hcom.csumb.edu/mar%C3%AD-villase%C3%B1or" rel="nofollow">Maria Villase&#xF1;or</a>, associate professor and
+coordinator of the <a href="https://catalog.csumb.edu/undergrad-education/nondegree-programs/first-year-seminar/" rel="nofollow">First-Year Seminar</a> program at Cal State Monterey
 Bay, has received national recognition as an outstanding champion
 for freshmen students.<br>
 <br>
@@ -50,7 +50,7 @@ Communication in Chicano Studies and literature. She holds a Ph.D.
 in ethnic studies from the University of California,
 Berkeley.<br>
 <br>
-<a href="http://www.sc.edu/fye/awards/advocates/index.html" rel="nofollow">Read more about the award here</a>.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
+<a href="https://www.sc.edu/fye/awards/advocates/index.html" rel="nofollow">Read more about the award here</a>.</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">
@@ -59,8 +59,8 @@ Berkeley.<br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/cQsu9Fwtjg8&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/cQsu9Fwtjg8&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/cQsu9Fwtjg8&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/cQsu9Fwtjg8&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -71,7 +71,7 @@ Berkeley.<br>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r5---sn-o097zne7.googlevideo.com/videoplayback?initcwndbps=4377500&amp;signature=3773026BFE1A32149BACBD71307DF4685A72F077.78890D133F5ADAB2F682780E0C605B839019A891&amp;ip=198.189.249.65&amp;mt=1422316151&amp;ms=au&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;upn=dXnOYRFarsQ&amp;source=youtube&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;mv=m&amp;id=o-AMDxuxQxMerik0bWkzYngTV8_IXm_kEdW9devysZ9nFz&amp;pl=23&amp;mm=31&amp;ipbits=0&amp;dur=215.481&amp;sver=3&amp;itag=18&amp;ratebypass=yes&amp;key=yt5&amp;expire=1422337772&amp;name=cQsu9Fwtjg8" type="video/mp4"/></video></div>
+<source src="https://r5---sn-o097zne7.googlevideo.com/videoplayback?initcwndbps=4377500&amp;signature=3773026BFE1A32149BACBD71307DF4685A72F077.78890D133F5ADAB2F682780E0C605B839019A891&amp;ip=198.189.249.65&amp;mt=1422316151&amp;ms=au&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;upn=dXnOYRFarsQ&amp;source=youtube&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;mv=m&amp;id=o-AMDxuxQxMerik0bWkzYngTV8_IXm_kEdW9devysZ9nFz&amp;pl=23&amp;mm=31&amp;ipbits=0&amp;dur=215.481&amp;sver=3&amp;itag=18&amp;ratebypass=yes&amp;key=yt5&amp;expire=1422337772&amp;name=cQsu9Fwtjg8" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

@@ -49,8 +49,8 @@ date: January 01 2020
 <p>
   Blancher traveled with a crew of six: friends, professional documentary
   filmmakers, and a freelance journalist. She plans to update her website (<a
-    href="http://www.filmkatrina.com"
-    >http://www.filmkatrina.com</a
+    href="https://www.filmkatrina.com"
+    >https://www.filmkatrina.com</a
   >) with progress reports.
 </p>
 ```

@@ -39,8 +39,8 @@ date: January 01 2020
 <p>
   The center is located at Seventh Avenue and A Street on the CSUMB campus. To
   RSVP for the open house, call 582-5259; for more information about the reading
-  center, click <a href="http://readingcenter.csumb.edu/">here</a>. For driving
-  directions and a campus map, click <a href="http://csumb.edu/map">here</a>.
+  center, click <a href="https://readingcenter.csumb.edu/">here</a>. For driving
+  directions and a campus map, click <a href="https://csumb.edu/map">here</a>.
 </p>
 <p><em>Artwork by Lily, age 7</em></p>
 ```

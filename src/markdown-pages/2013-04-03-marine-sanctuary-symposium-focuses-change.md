@@ -16,13 +16,13 @@ unchanging.</p>
 <p>So said Heraclitus of Ephesus more than 2,000 years ago, and it
 still holds true for the marine ecosystems of the Monterey Bay
 National Marine Sanctuary.</p>
-<p><img alt="Currents Symposium will be held April 27" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/for_currents_story.jpg" style="float:right; width:300px; height:193px">At the Marine
+<p><img alt="Currents Symposium will be held April 27" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/for_currents_story.jpg" style="float:right; width:300px; height:193px">At the Marine
 Sanctuary&apos;s annual Current Symposium, the public is invited to
 learn about changes occurring throughout the sanctuary, and the
 drivers of those changes, from the experts seeking to understand
 them. This year&apos;s symposium will be held from 9 a.m. to 3:30 p.m.,
 Saturday, April 27, at CSU Monterey Bay&apos;s University Center.
-<a href="http://csumb.edu/map" rel="nofollow">Driving directions
+<a href="https://csumb.edu/map" rel="nofollow">Driving directions
 and a campus map are available here.</a></img></p>
 <p>Presentation topics will include top predators, ocean chemistry,
 marine mammals and geology and will conclude with insights into the

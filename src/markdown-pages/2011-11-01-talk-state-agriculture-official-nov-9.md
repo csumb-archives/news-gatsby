@@ -15,7 +15,7 @@ Ecosystem&#x2019;</em></br></h3>
 <p>The &#x201C;Greater Vision&#x201D; series of public forums on topics important
 to local agriculture and the larger community continues Nov. 9. The
 topic: &quot;The Two Ecos: Economics and Ecosystem.&#x201D;</p>
-<p><img alt="Salinas Valley lettuce" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/salinas_valley_lettuce_field.jpg" style="float:left; width:300px; height:200px">The event will be
+<p><img alt="Salinas Valley lettuce" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/salinas_valley_lettuce_field.jpg" style="float:left; width:300px; height:200px">The event will be
 held in the Alumni and Visitors Center on General Jim Moore
 Boulevard at Inter-Garrison Road, starting at 1 p.m. The event is
 free; however, a parking permit must be purchased from the

@@ -14,7 +14,7 @@ slug: april-is-sexual-assault-awareness-month
 CSU Monterey Bay students continue their campaign to end sexual
 violence against women with two performances of &#x201C;The MENding
 Monologues.&#x201D;</p>
-<p><img alt="The MENding Monologues comes to CSUMB" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/mending_4x5.jpg" style="float:left; width:250px; height:313px">Both a bookend and
+<p><img alt="The MENding Monologues comes to CSUMB" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/mending_4x5.jpg" style="float:left; width:250px; height:313px">Both a bookend and
 male response to Ensler&#x2019;s play &#x2013; which has been produced at CSUMB
 for 11 years &#x2013; Derek Dujardin&#x2019;s production borrows the monologue
 format, featuring stories of how men are affected when violence is
@@ -43,7 +43,7 @@ educate communities and individuals on how to prevent it.</p>
 and 6 percent of men are victims of sexual assault while in
 college. According to data collected under the Jeanne Clery
 Disclosure of Campus Crime Statistics Act in 2009, college campuses
-reported nearly 3,300 forcible sex offenses. (<a href="http://www2.ed.gov/about/offices/list/ocr/letters/colleague-201104.pdf)" rel="nofollow">Source: United States Department of Education,
+reported nearly 3,300 forcible sex offenses. (<a href="https://www2.ed.gov/about/offices/list/ocr/letters/colleague-201104.pdf)" rel="nofollow">Source: United States Department of Education,
 Office for Civil Rights</a>)</p>
 <p>At CSUMB, Health &amp; Wellness Services took the lead in
 convening a committee of student clubs and organizations and campus
@@ -60,7 +60,7 @@ stereotypes and prevention</p>
 <p>&#x2022; <strong>April 17</strong>, 7 p.m., Cross Cultural Center:
 showing of &#x201C;Boyhood Shadows,&#x201D; a film about male victims of child
 sexual abuse, and panel discussion</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/denin_day_logo.jpg" style="float:right; width:150px; height:142px">&#x2022; <strong>April
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/denin_day_logo.jpg" style="float:right; width:150px; height:142px">&#x2022; <strong>April
 25</strong>, 10 a.m. to 2 p.m., Main Quad: Denim Day, when women
 are urged to wear jeans with a purpose, as a sign of protest
 against the myths surrounding sexual assault</img></p>

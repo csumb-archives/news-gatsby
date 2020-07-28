@@ -66,7 +66,7 @@ date: January 01 2020
 <p>
   Read the original story
   <a
-    href="http://news.csumb.edu/news/2012/feb/20/mobile-app-competition-starts-march-15"
+    href="https://news.csumb.edu/news/2012/feb/20/mobile-app-competition-starts-march-15"
     >here</a
   >.
   <em

@@ -14,7 +14,7 @@ slug: gilman-scholars-go-global
 new culture; the opportunity to master another language; and an
 enriching academic experience with career benefits. But it can also
 bring hefty expenses.</p>
-<p><img alt="Flags" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/international_flags.jpg" style="float:left; width:280px; height:280px">Thirteen CSU
+<p><img alt="Flags" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/international_flags.jpg" style="float:left; width:280px; height:280px">Thirteen CSU
 Monterey Bay students &#x2013; a record number &#x2013; will use financial aid
 from the Benjamin Gilman International Scholarship Program to help
 cover the costs of their overseas study starting in the fall.</img></p>
@@ -69,9 +69,9 @@ next academic year, their hometowns and their destinations:</p>
 &#x2022; Tyler McGee, Fountain Valley &#x2013; China<br>
 &#x2022; Jordan Sanchez, Hollister &#x2013; Japan<br>
 &#x2022; Nereida Macias, Modesto &#x2013; Italy</br></br></br></br></br></br></br></br></br></br></br></br></p>
-<p>Learn more about the Gilman scholarship program <a href="http://www.iie.org/en/Programs/Gilman-Scholarship-Program" rel="nofollow">here</a>.<br>
+<p>Learn more about the Gilman scholarship program <a href="https://www.iie.org/en/Programs/Gilman-Scholarship-Program" rel="nofollow">here</a>.<br>
 <br>
-Learn more about the international programs at CSUMB <a href="http://international.csumb.edu/" rel="nofollow">here</a>.</br></br></p>
+Learn more about the international programs at CSUMB <a href="https://international.csumb.edu/" rel="nofollow">here</a>.</br></br></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">
@@ -80,8 +80,8 @@ Learn more about the international programs at CSUMB <a href="http://internation
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/GSiCVI19BtI&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/GSiCVI19BtI&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/GSiCVI19BtI&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/GSiCVI19BtI&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -92,7 +92,7 @@ Learn more about the international programs at CSUMB <a href="http://internation
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r5---sn-o097zne7.googlevideo.com/videoplayback?dur=205.960&amp;signature=E6B0D28781F685B41ED4C1735D6BD05A2E81EF51.DD15B1A65063BAA529836923AD5973EE02925711&amp;id=o-AHmprxkVX15usbE-dGhVx-iAR3hqeCOrFupT0xn-8KAw&amp;key=yt5&amp;expire=1422351776&amp;mm=31&amp;ip=198.189.249.65&amp;sver=3&amp;ratebypass=yes&amp;mv=m&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;upn=X9GnhaqjI4s&amp;source=youtube&amp;ms=au&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;mt=1422330111&amp;pl=23&amp;itag=18&amp;initcwndbps=4036250&amp;ipbits=0&amp;name=GSiCVI19BtI" type="video/mp4"/></video></div>
+<source src="https://r5---sn-o097zne7.googlevideo.com/videoplayback?dur=205.960&amp;signature=E6B0D28781F685B41ED4C1735D6BD05A2E81EF51.DD15B1A65063BAA529836923AD5973EE02925711&amp;id=o-AHmprxkVX15usbE-dGhVx-iAR3hqeCOrFupT0xn-8KAw&amp;key=yt5&amp;expire=1422351776&amp;mm=31&amp;ip=198.189.249.65&amp;sver=3&amp;ratebypass=yes&amp;mv=m&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;upn=X9GnhaqjI4s&amp;source=youtube&amp;ms=au&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;mt=1422330111&amp;pl=23&amp;itag=18&amp;initcwndbps=4036250&amp;ipbits=0&amp;name=GSiCVI19BtI" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

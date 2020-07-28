@@ -10,9 +10,9 @@ slug: sierra-club-names-csumb-a-&apos;cool-school&apos;
 
 <span class="date">Posted on Sep 27, 2013    </span>
 <p>The grades are out, and CSU Monterey Bay has received high marks
-as part of the Sierra Club&#x2019;s <a href="http://www.sierraclub.org/sierra/201309/coolschools/complete-rankings.aspx" rel="nofollow">Cool Schools</a> rating of sustainability on U.S.
+as part of the Sierra Club&#x2019;s <a href="https://www.sierraclub.org/sierra/201309/coolschools/complete-rankings.aspx" rel="nofollow">Cool Schools</a> rating of sustainability on U.S.
 campuses.</p>
-<p><img alt="Native plants dot the campus" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/landscape_0.jpg" style="float:left; width:400px; height:125px">According to the
+<p><img alt="Native plants dot the campus" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/landscape_0.jpg" style="float:left; width:400px; height:125px">According to the
 club&#x2019;s website, the Cool Schools program, now in its seventh year,
 evaluates colleges and universities on their contributions to
 promoting sustainability, both inside and outside the
@@ -28,7 +28,7 @@ self-reporting framework to measure sustainability performance. The
 STARS questionnaire asks about everything from where a campus gets
 its energy to whether its landscapers use native plants.</p>
 <p>CSUMB earns points in the ranking for many practices, including
-vegetarian meal options, trayless&#xA0;<img alt="About 16 percent of CSUMB&apos;s energy comes from its solar array" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/solar.jpg" style="float:right; width:400px; height:125px">dining halls, a
+vegetarian meal options, trayless&#xA0;<img alt="About 16 percent of CSUMB&apos;s energy comes from its solar array" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/solar.jpg" style="float:right; width:400px; height:125px">dining halls, a
 centralized energy management system, and about 40
 sustainability-related classes.</img></p>
 <p>The university earned the most points &#x2013; 99 of a maximum 107 &#x2013; in
@@ -49,7 +49,7 @@ local bus system for free.<br>
 &#x2022; Recycling: Every room in the residence halls and each office has
 a blue recycle bin.<br>
 <br>
-<a href="http://sustainability.csumb.edu/" rel="nofollow">Learn
+<a href="https://sustainability.csumb.edu/" rel="nofollow">Learn
 about sustainability practices at CSUMB</a></br></br></br></br></br></br></br></br></p>
 <p class="small"><em>Top photo: Native and drought-tolerant plants
 dot the campus<br>
@@ -66,8 +66,8 @@ from its solar array</br></em><br>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/tcrQij49MAA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/tcrQij49MAA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/tcrQij49MAA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/tcrQij49MAA&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -78,7 +78,7 @@ from its solar array</br></em><br>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r14---sn-o097znez.googlevideo.com/videoplayback?key=yt5&amp;id=o-AIuRBT-CwuzOQzu_flvAE7b4QQZd3m9XURXi1cXOduqc&amp;expire=1422353398&amp;signature=794A1320F8BF5A0E9317754C4CF877EADB27A97E.E3ABB7BDCE4229B947DEE17E9D467516D66486B4&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;source=youtube&amp;upn=epWQsT2RDRk&amp;mv=m&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;ms=au&amp;mm=31&amp;ip=198.189.249.65&amp;mt=1422331751&amp;dur=68.823&amp;ipbits=0&amp;pl=23&amp;itag=18&amp;sver=3&amp;ratebypass=yes&amp;initcwndbps=3846250&amp;name=tcrQij49MAA" type="video/mp4"/></video></div>
+<source src="https://r14---sn-o097znez.googlevideo.com/videoplayback?key=yt5&amp;id=o-AIuRBT-CwuzOQzu_flvAE7b4QQZd3m9XURXi1cXOduqc&amp;expire=1422353398&amp;signature=794A1320F8BF5A0E9317754C4CF877EADB27A97E.E3ABB7BDCE4229B947DEE17E9D467516D66486B4&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;source=youtube&amp;upn=epWQsT2RDRk&amp;mv=m&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;ms=au&amp;mm=31&amp;ip=198.189.249.65&amp;mt=1422331751&amp;dur=68.823&amp;ipbits=0&amp;pl=23&amp;itag=18&amp;sver=3&amp;ratebypass=yes&amp;initcwndbps=3846250&amp;name=tcrQij49MAA" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

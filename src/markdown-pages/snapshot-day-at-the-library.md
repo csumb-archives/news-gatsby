@@ -74,5 +74,5 @@ date: January 01 2020
   for critical services, resources and programs – "now, more than ever,"
   Bui&#45;Burton said.
 </p>
-<p><a href="http://library.csumb.edu.">Learn more about CSUMB's library</a>.</p>
+<p><a href="https://library.csumb.edu.">Learn more about CSUMB's library</a>.</p>
 ```

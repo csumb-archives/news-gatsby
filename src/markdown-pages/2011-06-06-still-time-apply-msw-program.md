@@ -24,7 +24,7 @@ slug: still-time-to-apply-for-msw-program
 </p>
 <p>
   Admission requirements and application materials are available
-  <a href="http://csumb.edu/msw" rel="nofollow">here</a>.
+  <a href="https://csumb.edu/msw" rel="nofollow">here</a>.
 </p>
 <p>
   Potential students who are lacking a prerequisite &#x2013; human biology and

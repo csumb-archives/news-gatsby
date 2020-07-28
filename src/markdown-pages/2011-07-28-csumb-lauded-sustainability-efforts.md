@@ -17,7 +17,7 @@ Long Beach &#x2013; is the only one of its kind in the state that brings
 together the California State University, the University of
 California and the California Community Colleges as well as private
 colleges and universities as both organizers and attendees.</br></br></p>
-<p><img alt="Cooling unit on top of the Tanimura and Antle library" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/aerial-library_small_0.jpg" style="width:550px; height:326px"/></p>
+<p><img alt="Cooling unit on top of the Tanimura and Antle library" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/aerial-library_small_0.jpg" style="width:550px; height:326px"/></p>
 <p>Mike Lerch, CSUMB&#x2019;s associate director of facility services and
 operations, accepted the award for best practices in the energy
 retrofit category. CSUMB modified the operation of the Tanimura
@@ -58,7 +58,7 @@ Fernandez.</p>
 <div class="field-item odd">
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
-<div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/xzp6shh6jSM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1"><param name="movie" value="http://www.youtube.com/v/xzp6shh6jSM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
+<div id="emvideo-youtube-flash-wrapper-1"><object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/xzp6shh6jSM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1"><param name="movie" value="https://www.youtube.com/v/xzp6shh6jSM&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1">
 <param name="allowScriptAccess" value="sameDomain">
 <param name="quality" value="best">
 <param name="allowFullScreen" value="true">

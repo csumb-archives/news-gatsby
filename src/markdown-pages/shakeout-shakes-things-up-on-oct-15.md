@@ -62,7 +62,7 @@ date: January 01 2020
   >
 </p>
 <p>
-  <a href="http://www.shakeout.org/california/"
+  <a href="https://www.shakeout.org/california/"
     >Learn more about the Great California ShakeOut</a
   >
 </p>

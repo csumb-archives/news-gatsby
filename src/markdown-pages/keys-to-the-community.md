@@ -41,7 +41,7 @@ date: January 01 2020
 </p>
 <p>
   “On March 8, when all the pianos were installed and the
-  <a href="http://montereypianos.com">website</a> was launched , I realized what
+  <a href="https://montereypianos.com">website</a> was launched , I realized what
   a big collaboration I am a part of and the reach it has in our community and
   the global community,” she said.
 </p>
@@ -61,7 +61,7 @@ date: January 01 2020
 </p>
 <p>
   <strong
-    ><a href="http://youtu.be/kSTK2KF5QRU"
+    ><a href="https://youtu.be/kSTK2KF5QRU"
       >VIEW A VIDEO OF THE PROJECT HERE.</a
     ></strong
   >
@@ -70,7 +70,7 @@ date: January 01 2020
   <strong>DETAILS:</strong> The 11 pianos are located in public spaces across
   the Monterey Peninsula and Salinas and are available for any member of the
   public to play and enjoy. Locations are listed
-  <a href="http://streetpianos.com/monterey2013/">here</a>.
+  <a href="https://streetpianos.com/monterey2013/">here</a>.
 </p>
 <p>
   After being in place for two weeks, the pianos will be donated to local good

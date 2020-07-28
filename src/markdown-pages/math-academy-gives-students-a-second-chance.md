@@ -72,7 +72,7 @@ date: January 01 2020
 </p>
 <p>
   To learn more about Dr. Hu, click
-  <a href="http://success.csumb.edu/hongde-hu">here</a>.
+  <a href="https://success.csumb.edu/hongde-hu">here</a>.
 </p>
 <p></p>
 ```

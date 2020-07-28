@@ -11,7 +11,7 @@ slug: contemporary-dance-ensemble-performs-at-csumb
 <span class="date">Posted on Feb 14, 2013    </span>
 <p><br>
 The Eisenhower Dance Ensemble will bring its trademark moves &#x2013;
-playful, gymnastic and elegant &#x2013;&#xA0;<img alt="The Eisenhower Dance Ensemble will perform at CSUMB March 9" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/alicia_andrew_for_web.jpg" style="float:left; width:300px; height:192px">to California State
+playful, gymnastic and elegant &#x2013;&#xA0;<img alt="The Eisenhower Dance Ensemble will perform at CSUMB March 9" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/alicia_andrew_for_web.jpg" style="float:left; width:300px; height:192px">to California State
 University, Monterey Bay&#x2019;s World Theater on March 9 as the
 Performing Arts Series resumes. Showtime is 8 p.m.</img></br></p>
 <p>The Detroit-based contemporary ensemble will present
@@ -49,10 +49,10 @@ them again.&#x201D;<br>
 &#x2013; <em>Dance Magazine</em><br>
 <br>
 Tickets range from $10 to $40 and can be purchased by calling the
-World Theater box office at (831) 582-4580 or <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>.<br>
+World Theater box office at (831) 582-4580 or <a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>.<br>
 <br>
 The World Theater is located on Sixth Avenue near the intersection
-with A Street on the CSUMB campus. <a href="http://csumb.edu/map" rel="nofollow">Driving directions and a campus map are
+with A Street on the CSUMB campus. <a href="https://csumb.edu/map" rel="nofollow">Driving directions and a campus map are
 available</a>.&#xA0;<br>
 <br>
 AT A GLANCE<br>

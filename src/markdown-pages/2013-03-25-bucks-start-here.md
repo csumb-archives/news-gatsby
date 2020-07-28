@@ -15,14 +15,14 @@ was signed into law. It has a &#x201C;crowd funding&#x201D; amendment that
 changes restrictions on how businesses can raise capital.</p>
 <p>That topic will be explored at the April 8 Entrepreneurship
 Forum at CSU Monterey Bay.</p>
-<p><img alt="Insert a description of the image here." src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/funding_0.jpg" style="float:left; width:250px; height:331px">The forum, from 4
+<p><img alt="Insert a description of the image here." src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/funding_0.jpg" style="float:left; width:250px; height:331px">The forum, from 4
 to 6 p.m. in the World Theater, will focus on the changes in
 funding opportunities for new and growing ventures created by the
 JOBS Act. The act creates opportunities for fundraising on the
 Internet using platforms such as Kickstarter; it also allows equity
 fundraising for small companies through funding portals.</img></p>
 <p>The event is free, but community members are asked to register
-<a href="http://tinyurl.com/Crowdcsumb" rel="nofollow">here</a>.</p>
+<a href="https://tinyurl.com/Crowdcsumb" rel="nofollow">here</a>.</p>
 <p>Jim White, chief executive officer of JL White International,
 and Dr. Brad Barbeau of the School of Business will make
 presentations.</p>
@@ -37,11 +37,11 @@ members will have an opportunity to ask questions.</p>
 or email him at <a href="mailto:bbarbeau@csumb.edu">bbarbeau@csumb.edu</a>.<br>
 <br>
 The World Theater is located on Sixth Avenue near A Street. Driving
-directions and a campus map can be found <a href="http://csumb.edu/map" rel="nofollow">here.</a> Visitors must
+directions and a campus map can be found <a href="https://csumb.edu/map" rel="nofollow">here.</a> Visitors must
 purchase a parking permit from the machine on the lot.</br></br></p>
-<p>The forum is sponsored by the <a href="http://innovation.csumb.edu/" rel="nofollow">Institute for
-Innovation and Economic Development</a>, CSUMB&#x2019;s <a href="http://business.csumb.edu/" rel="nofollow">School of Business</a>,
-and the <a href="http://sbdc.csumb.edu/" rel="nofollow">Small
+<p>The forum is sponsored by the <a href="https://innovation.csumb.edu/" rel="nofollow">Institute for
+Innovation and Economic Development</a>, CSUMB&#x2019;s <a href="https://business.csumb.edu/" rel="nofollow">School of Business</a>,
+and the <a href="https://sbdc.csumb.edu/" rel="nofollow">Small
 Business Development Center</a> of CSUMB.</p>
 <p><strong><em>About CSU Monterey Bay&#x2019;s Entrepreneurship
 Forums</em></strong><br>

@@ -14,7 +14,7 @@ slug: chief-of-staff-named
 <p>CSU Monterey Bay President Dianne Harrison has announced the
 appointment of Dr. Patti Hiramoto to the position of chief of
 staff.</p>
-<p><img alt="Patti Hiramoto" height="185" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Patti_Hiramoto.JPG" style="float:left" width="200">In that role, she will oversee the
+<p><img alt="Patti Hiramoto" height="185" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Patti_Hiramoto.JPG" style="float:left" width="200">In that role, she will oversee the
 Office of the President, serve as a member of the Senior Leadership
 Team and assist the president with external relations.</img></p>
 <p>Dr. Hiramoto joined the staff of CSU Monterey Bay in 2008 as

@@ -26,7 +26,7 @@ date: January 01 2020
   database accessible at the SCID website.
 </p>
 <p>
-  Visitors to the <a href="http://sep.csumb.edu/ifame/scid">site </a>can choose
+  Visitors to the <a href="https://sep.csumb.edu/ifame/scid">site </a>can choose
   from more than 1,000 Google markers on the sanctuary map; they can then choose
   to view photos or video. Should they choose video, a short YouTube video pops
   up when a marker is clicked, revealing what's underneath. According to Dr.

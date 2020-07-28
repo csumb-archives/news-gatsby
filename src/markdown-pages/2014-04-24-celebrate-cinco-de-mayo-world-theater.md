@@ -19,7 +19,7 @@ the industry as a pioneer. Back by pipular demand after thrilling
 sold-out performances the last three years, Mariachi Reyna will
 return to CSU Monterey Bay&apos;s World Theater for performances on
 April 30 and May 1. Both shows will start at 7:30 p.m.</p>
-<p><img alt="A member of Mariachi Reyna de Los Angeles" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/6.jpg" style="float:left; width:200px; height:300px">Now there are other
+<p><img alt="A member of Mariachi Reyna de Los Angeles" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/6.jpg" style="float:left; width:200px; height:300px">Now there are other
 all-female mariachi groups, proving that when maestro Jose
 Hernandez created Reyna de Los Angeles, it wasn&#x2019;t a novelty &#x2013; it
 was a genre. Reyna has expanded the role of women in mariachi from
@@ -38,7 +38,7 @@ Mariachi in the World), and Companeras, which was nominated for
 Grammy and Latin Grammy awards in 2009.</p>
 <p>The group will be on stage at the World Theater in time for
 Cinco de Mayo. The booking wasn&#x2019;t an accident.</p>
-<p><img alt="Karina Hernandez" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/karina_hernandez.jpg" style="float:right; width:200px; height:300px">&#x201C;Each year, the
+<p><img alt="Karina Hernandez" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/karina_hernandez.jpg" style="float:right; width:200px; height:300px">&#x201C;Each year, the
 World Theater hosts a production commemorating Cinco de Mayo,&#x201D; said
 Joe Cardinelli, executive director of university performances and
 special events.</img></p>
@@ -49,11 +49,11 @@ diverse entertainment and performances,&#x201D; Cardinalli said.</p>
 <p>Tickets prices: $40 Gold Circle, $29 general admission, with
 discounts available for senior citizens, students, military and
 children. They can be purchased by calling the World Theater box
-office at (831) 582-4580 or <a href="http://csumb.edu/worldtheater" rel="nofollow">online</a>.</p>
+office at (831) 582-4580 or <a href="https://csumb.edu/worldtheater" rel="nofollow">online</a>.</p>
 <p>The World Theater is located on Sixth Avenue between A and B
 streets on the CSUMB campus. Driving directions and a campus map
-are available <a href="http://csumb.edu/worldtheater" rel="nofollow">here</a>.&#xA0;</p>
-<p><img alt="Mariachi Reyna de Los Angeles" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/reyna_de_los_angeles.jpg" style="float:left; width:550px; height:367px"/></p>
+are available <a href="https://csumb.edu/worldtheater" rel="nofollow">here</a>.&#xA0;</p>
+<p><img alt="Mariachi Reyna de Los Angeles" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/reyna_de_los_angeles.jpg" style="float:left; width:550px; height:367px"/></p>
 
 
 

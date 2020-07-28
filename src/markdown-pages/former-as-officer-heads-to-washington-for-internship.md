@@ -13,7 +13,7 @@ date: January 01 2020
 <p>
   The CSU Monterey Bay senior is one of 26 students taking part in this year’s
   <a
-    href="http://www.panettainstitute.org/programs/study-with-us/congressional-intern-training/"
+    href="https://www.panettainstitute.org/programs/study-with-us/congressional-intern-training/"
     >Congressional Internship Program</a
   >
   through the Panetta Institute for Public Policy. All were selected based on

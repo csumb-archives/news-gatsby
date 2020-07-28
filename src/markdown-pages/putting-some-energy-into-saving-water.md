@@ -46,7 +46,7 @@ date: January 01 2020
   university’s carbon footprint.
 </p>
 <p>
-  <a href="http://sustainability.csumb.edu/"
+  <a href="https://sustainability.csumb.edu/"
     >Learn more about sustainability at CSUMB</a
   >.
 </p>

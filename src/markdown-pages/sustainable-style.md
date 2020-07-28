@@ -40,10 +40,10 @@ date: January 01 2020
   The University Center is located on Sixth Avenue at B Street. While the event
   is free, visitors must purchase a parking permit fron a dispenser on the lot.
   Driving directions and a campus map are available
-  <a href="http://csumb.edu/map">here</a>.
+  <a href="https://csumb.edu/map">here</a>.
 </p>
 <p>
-  <a href="http://csumb.edu/art"
+  <a href="https://csumb.edu/art"
     >Learn about the Visual and Public Art Department at CSUMB</a
   >.
 </p>

@@ -8,7 +8,7 @@ date: January 01 2020
 <p>
   Dr. David Kennedy of Harvard’s John F. Kennedy School of Government will speak
   at CSU Monterey Bay on March 28 as the
-  <a href="http://president.csumb.edu/presidents-speaker-series"
+  <a href="https://president.csumb.edu/presidents-speaker-series"
     >President’s Speaker Series</a
   >
   continues.
@@ -45,12 +45,12 @@ date: January 01 2020
 <p>
   His presentation will get under way at 3:30 p.m. in the World Theater on Sixth
   Avenue near A Street. Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here</a>.
+  <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>
   The community is invited to this free event. No tickets are necessary, but
   reservations are requested. Please RSVP by calling the World Theater box
-  office at 582-4580, or going <a href="http://csumb.edu/rsvp">online</a>.
+  office at 582-4580, or going <a href="https://csumb.edu/rsvp">online</a>.
 </p>
 <p>
   The series, with the theme “Flourish Monterey County,” concludes on April 9
@@ -65,7 +65,7 @@ date: January 01 2020
     >Dr. Kennedy was interviewed on NPR on Nov. 1, 2011. Read a transcript of
     the interview
     <a
-      href="http://www.npr.org/2012/11/09/164732917/interrupting-violence-with-the-message-dont-shoot"
+      href="https://www.npr.org/2012/11/09/164732917/interrupting-violence-with-the-message-dont-shoot"
       >here</a
     >.
   </em>

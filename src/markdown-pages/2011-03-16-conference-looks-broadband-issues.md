@@ -40,7 +40,7 @@ factor in improving these residents&#x2019; lives.<br>
 <br>
 The two-day registration fee is $95, which includes a reception and
 dinner at Kula Ranch in Marina. One-day registration is also
-available. Registration can be completed online <a href="http://wetec.csumb.edu" rel="nofollow">here</a>. A limited number
+available. Registration can be completed online <a href="https://wetec.csumb.edu" rel="nofollow">here</a>. A limited number
 of complimentary registrations are available. Contact Arlene Krebs,
 conference director, at (831) 582-5025.</br></br></br></br></br></br></br></br></p>
 <p>The library is located on Divarty Street. For driving directions

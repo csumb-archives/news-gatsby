@@ -32,7 +32,7 @@ date: January 01 2020
   His presentation will start at 3:30 p.m. in the World Theater on Sixth Avenue
   near A Street. A question-and-answer session and a public reception will
   follow. Driving directions and a campus map are available
-  <a href="http://csumb.edu/maps">here.</a>
+  <a href="https://csumb.edu/maps">here.</a>
 </p>
 <p>
   Should the theater reach capacity, a live simulcast will be available at the
@@ -41,7 +41,7 @@ date: January 01 2020
 <p>
   The community is invited to this free event. No tickets are necessary, but
   reservations are requested. Please RSVP by calling the World Theater box
-  office at 582-4580, or <a href="http://csumb.edu/rsvp">online</a>.
+  office at 582-4580, or <a href="https://csumb.edu/rsvp">online</a>.
 </p>
 <p>
   The theme of this year’s speaker series is “Future Monterey Bay.” During the

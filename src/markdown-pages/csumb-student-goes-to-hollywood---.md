@@ -46,7 +46,7 @@ date: January 01 2020
   our campaigns to shift more dollars to a real food economy,” Yee said.
 </p>
 <p>
-  <a href="http://www.realfoodchallenge.org"
+  <a href="https://www.realfoodchallenge.org"
     >Learn more about Real Food Challenge</a
   >
 </p>

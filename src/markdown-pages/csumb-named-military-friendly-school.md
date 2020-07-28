@@ -70,7 +70,7 @@ date: January 01 2020
   disabled veterans; 112 students are currently using this program at CSUMB.
 </p>
 <p>
-  <a href="http://ar.csumb.edu/veterans-services"
+  <a href="https://ar.csumb.edu/veterans-services"
     >Learn more about veterans programs at CSUMB</a
   >.
 </p>

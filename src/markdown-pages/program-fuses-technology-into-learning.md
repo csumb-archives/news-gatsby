@@ -26,15 +26,15 @@ date: January 01 2020
   An information meeting will be held from 4:30 to 6 p.m., March 5, in the
   Alumni and Visitors Center, corner of Gen. Jim Moore Boulevard and
   Inter-Garrison Road.
-  <a href="http://csumb.edu/map">Driving directions and a campus map</a>.
+  <a href="https://csumb.edu/map">Driving directions and a campus map</a>.
 </p>
 <p>
   For more information, call 582-4790 or go
-  <a href="http://csumb.edu/mist">online</a>. <strong>What</strong>: Master's in
+  <a href="https://csumb.edu/mist">online</a>. <strong>What</strong>: Master's in
   Instructional Science and Technology – information meeting
   <strong>When</strong>: 4:30 to 6 p.m., March 5 <strong>Where</strong>: CSUMB
   campus, Alumni and Visitors Center <strong>Cost</strong>: Free. Parking permit
   must be purchased from dispenser on the lot <strong>Information</strong>: Call
-  582-4790 or <a href="http://csumb.edu/mist">online</a>
+  582-4790 or <a href="https://csumb.edu/mist">online</a>
 </p>
 ```

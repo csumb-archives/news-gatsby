@@ -9,7 +9,7 @@ slug: real-world-experience
 
 
 <span class="date">Posted on Nov 09, 2007    </span>
-<p><img style="width:225px; height:169px" alt="President Harrison and DMDC" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/zzzzzzzz%20dmcp%20diane%20harison%20.bmp">At
+<p><img style="width:225px; height:169px" alt="President Harrison and DMDC" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/zzzzzzzz%20dmcp%20diane%20harison%20.bmp">At
 CSUMB, much of the learning takes place in the real world. The
 university partners with organizations that provide students the
 opportunity to use the skills they&apos;ve acquired in the classroom,

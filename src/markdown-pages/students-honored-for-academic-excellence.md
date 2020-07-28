@@ -138,7 +138,7 @@ date: January 01 2020
   – Alycia Drube
 </p>
 <p>
-  <a href="http://csumb.edu/commencement"
+  <a href="https://csumb.edu/commencement"
     >Get information on CSUMB's May 18 commencement ceremony here.</a
   >
 </p>

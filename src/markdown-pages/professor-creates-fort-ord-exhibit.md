@@ -46,24 +46,24 @@ date: January 01 2020
 <p>
   • <strong>May 9</strong> –
   <a
-    href="http://news.csumb.edu/news/2014/apr/29/environmental-filmmaking-class-explores-fort-ord"
+    href="https://news.csumb.edu/news/2014/apr/29/environmental-filmmaking-class-explores-fort-ord"
     >Screening of CSUMB student films about Fort Ord, 6:30 p.m.</a
   >
 </p>
 <p>• <strong>May 26</strong> – Annual Memorial Day Remembrance, 11 a.m.</p>
 <p>
   Related links:
-  <a href="http://www.santacruzmah.org/event/free-first-friday-15/"
+  <a href="https://www.santacruzmah.org/event/free-first-friday-15/"
     >Exhibit opening</a
   >
-  <a href="http://www.santacruzmah.org/2014/planet-ord-april-4-june-22/"
+  <a href="https://www.santacruzmah.org/2014/planet-ord-april-4-june-22/"
     >Exhibition</a
   >
 </p>
 <p>
-  <a href="http://enidbb.tumblr.com"
+  <a href="https://enidbb.tumblr.com"
     >Professor Ryce's tumblr previewing images for the show</a
   >
 </p>
-<p><a href="http://planetord.com">Planet Ord</a></p>
+<p><a href="https://planetord.com">Planet Ord</a></p>
 ```

@@ -26,7 +26,7 @@ date: January 01 2020
   provides. AMP is available on channel 27 on the campus cable system. Off
   campus, it can be found on Comcast channel 24. The program can also be heard
   on KNRY 1240 AM; can be found online at
-  <a href="http://www.ampmedia.org;" title="www.ampmedia.org;"
+  <a href="https://www.ampmedia.org;" title="www.ampmedia.org;"
     >www.ampmedia.org;</a
   >
   and is rebroadcast at midnight on AMP.

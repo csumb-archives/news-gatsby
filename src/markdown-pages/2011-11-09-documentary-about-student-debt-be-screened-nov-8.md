@@ -12,7 +12,7 @@ slug: documentary-about-student-debt-to-be-screened-nov.-8
 <p>Student loan debt is on the rise, and, because of the lingering
 effects of the recession, fewer graduates are getting the kinds of
 jobs that allow them to pay back what they borrowed.</p>
-<p><img alt="More than 60 percent of graduates of public universities leave school with debt" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/default.jpg" style="float:left; width:350px; height:225px">Members of the
+<p><img alt="More than 60 percent of graduates of public universities leave school with debt" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/default.jpg" style="float:left; width:350px; height:225px">Members of the
 Class of 2009 owed an average of $24,000, up 6 percent from the
 year before. National Public Radio reported on Oct. 21 that 66
 percent of students now graduate with debt, and some find their
@@ -40,10 +40,10 @@ present strategies being used by the growing movement against
 student debt, and members of CSU Students for Quality Education
 will facilitate a discussion of the issue.<br>
 <br>
-Driving directions and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>. More information is
+Driving directions and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>. More information is
 available from Professor Caitlin Manning at <a href="mailto:cmanning@csumb.edu">cmanning@csumb.edu</a>.<br>
 <br>
-<em><img alt="Young people are starting adult life deeper in debt, says USA Today" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/studentloans1.jpg" style="float:right; width:300px; height:225px">Pretty much our
+<em><img alt="Young people are starting adult life deeper in debt, says USA Today" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/studentloans1.jpg" style="float:right; width:300px; height:225px">Pretty much our
 intention from the start was to educate people on student loans:
 how they work, what happens when you cannot pay them back, and to
 open a dialogue about debt.</img></em><br>

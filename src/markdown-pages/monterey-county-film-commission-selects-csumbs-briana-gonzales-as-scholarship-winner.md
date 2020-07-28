@@ -12,7 +12,7 @@ date: January 01 2020
   Scholarship Award Program.
 </p>
 <p>
-  The <a href="http://filmmonterey.org">Monterey County Film Commission</a> film
+  The <a href="https://filmmonterey.org">Monterey County Film Commission</a> film
   student scholarship program was created in 2008 to provide financial aid and
   incentive to students of film as well as beginning filmmakers who reside in
   Monterey County or those enrolled in a college or university in the county.

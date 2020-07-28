@@ -28,6 +28,6 @@ date: January 01 2020
   Homecoming events are open to alumni, students, faculty, staff and the
   community. Events kick off on Oct. 5 with a pep rally for Otter sports teams,
   and conclude on Oct. 8. A complete list of events can be found at
-  <a href="http://csumb.edu/homecoming">http://csumb.edu/homecoming</a>.
+  <a href="https://csumb.edu/homecoming">https://csumb.edu/homecoming</a>.
 </p>
 ```

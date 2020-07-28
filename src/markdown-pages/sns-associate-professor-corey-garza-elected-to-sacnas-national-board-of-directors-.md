@@ -10,7 +10,7 @@ date: January 01 2020
   <a href="https://csumb.edu/naturalsciences">School of Natural Sciences</a>
   associate professor Corey Garza has been named to the national board of
   directors for the Society for Advancement of Chicanos/Hispanics &amp; Native
-  Americans in Science (SACNAS). <a href="http://sacnas.org/">SACNAS</a> is the
+  Americans in Science (SACNAS). <a href="https://sacnas.org/">SACNAS</a> is the
   largest society in the United States that focuses on increasing
   underrepresented students participation in science, technology, engineering
   and mathematics (STEM).

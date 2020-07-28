@@ -14,7 +14,7 @@ slug: students-selected-for-csuwide-competition
 including the changing media landscape, the effectiveness of a
 workplace exercise program and nitrous oxide emissions of lettuce
 crops will be presented at a systemwide competition in May.</p>
-<p><img alt="This year&apos;s Student Research Competition will be held May 2, 3" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/research.jpg" style="width:350px; height:199px; float:right">Six projects were
+<p><img alt="This year&apos;s Student Research Competition will be held May 2, 3" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/research.jpg" style="width:350px; height:199px; float:right">Six projects were
 selected by a committee of CSUMB&#x2019;s Faculty Senate to represent the
 university at the 28th annual Student Research Competition at CSU
 East Bay May 2 and 3.</img></p>

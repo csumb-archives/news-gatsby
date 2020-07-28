@@ -11,7 +11,7 @@ slug: public-invited-to-april-4-flute-concert
 <span class="date">Posted on Mar 24, 2014    </span>
 <h3>Piece by CSUMB faculty member Lanier Sammons to be
 performed</h3>
-<p><img alt="Wayla Chambo will perform at CSUMB April 4" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/waylawebsized-24.jpg" style="float:left; width:250px; height:376px">Wayla J. Chambo
+<p><img alt="Wayla Chambo will perform at CSUMB April 4" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/waylawebsized-24.jpg" style="float:left; width:250px; height:376px">Wayla J. Chambo
 will present a program of works for flute at a free public
 performance April 4 at CSU Monterey Bay.<br>
 <br>

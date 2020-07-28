@@ -26,7 +26,7 @@ crossing the stage at the May 17 commencement ceremony.<br>
 <br>
 Award winners:<br>
 <br>
-<img alt="Honors convocation " src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/honors.smaller.jpg" style="width:300px; height:130px; float:left">&#x2022;
+<img alt="Honors convocation " src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/honors.smaller.jpg" style="width:300px; height:130px; float:left">&#x2022;
 <strong>President&apos;s Award for Exemplary Student
 Achievement</strong>, given to a well-rounded student who made
 notable contributions to a particular area of university life
@@ -130,7 +130,7 @@ Flavin<br>
 Flores<br>
 &#x2022; Visual and Public Art &#x2013; Ryan Bugarin<br>
 <br>
-<a href="http://commencement.csumb.edu/commencement-home" rel="nofollow">Get information on CSUMB&apos;s May 17 commencement ceremony
+<a href="https://commencement.csumb.edu/commencement-home" rel="nofollow">Get information on CSUMB&apos;s May 17 commencement ceremony
 here</a>.<br>
 <br>
 &#x2028;</br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></br></p>

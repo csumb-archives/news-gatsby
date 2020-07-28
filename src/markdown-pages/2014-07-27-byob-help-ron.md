@@ -15,7 +15,7 @@ help from Whole Foods shoppers.</p>
 <p>From July through September, shoppers at the grocery chain&#x2019;s
 Monterey store can request that the five-cent refund they receive
 from bringing their own bags be directed to RON.</p>
-<p><img alt=" Local school kids help to restore BLM property" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/blm_planting_for_web.jpg" style="width:300px; height:365px; float:right">The donation will
+<p><img alt=" Local school kids help to restore BLM property" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/blm_planting_for_web.jpg" style="width:300px; height:365px; float:right">The donation will
 be used to help pay for school buses to transport children to RON
 events, and to support student assistants &#x201C;who are invaluable to
 helping RON meet our mission,&#x201D; said RON director Laura Lee
@@ -38,12 +38,12 @@ the Monterey Peninsula Regional Park District, the state Parks
 Department, Fort Ord National Monument/Bureau of Land Management,
 the city of Seaside and local schools.<br>
 <br>
-<img alt="Return of the Natives logo" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/return_of_the_natives_logo.png" style="width:250px; height:250px; float:left">RON will celebrate
+<img alt="Return of the Natives logo" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/return_of_the_natives_logo.png" style="width:250px; height:250px; float:left">RON will celebrate
 its 20th anniversary in the fall. It was founded by classroom
 teachers who believed that children learn best when they are
 outside and active.<br>
 <br>
-<a href="http://ron.csumb.edu" rel="nofollow">Learn more about
+<a href="https://ron.csumb.edu" rel="nofollow">Learn more about
 RON</a><br>
 <br>
 <a href="https://www.facebook.com/returnofthenatives?sk=photos" rel="nofollow">Follow Return of the Natives on Facebook</a><br>
@@ -61,8 +61,8 @@ Management property</br></em></p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/XdpwBMrxJHI&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/XdpwBMrxJHI&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/XdpwBMrxJHI&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/XdpwBMrxJHI&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -73,7 +73,7 @@ Management property</br></em></p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r19---sn-o097zne7.googlevideo.com/videoplayback?mt=1422329060&amp;initcwndbps=4047500&amp;ratebypass=yes&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;key=yt5&amp;signature=6859AFC91534DD118B9D96CB141753F5033681B5.7A53E22B82202899630ADE5FD97EC3B33BBFE013&amp;id=o-AMevYMs7jSODF6rCNYyDp4dyD3ZYvo8N700A9IXkw_zu&amp;sver=3&amp;mm=31&amp;ipbits=0&amp;ms=au&amp;itag=18&amp;dur=217.199&amp;mv=m&amp;source=youtube&amp;pl=23&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;expire=1422350723&amp;upn=N2uMmUmdXVk&amp;ip=198.189.249.65&amp;name=XdpwBMrxJHI" type="video/mp4"/></video></div>
+<source src="https://r19---sn-o097zne7.googlevideo.com/videoplayback?mt=1422329060&amp;initcwndbps=4047500&amp;ratebypass=yes&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;key=yt5&amp;signature=6859AFC91534DD118B9D96CB141753F5033681B5.7A53E22B82202899630ADE5FD97EC3B33BBFE013&amp;id=o-AMevYMs7jSODF6rCNYyDp4dyD3ZYvo8N700A9IXkw_zu&amp;sver=3&amp;mm=31&amp;ipbits=0&amp;ms=au&amp;itag=18&amp;dur=217.199&amp;mv=m&amp;source=youtube&amp;pl=23&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;expire=1422350723&amp;upn=N2uMmUmdXVk&amp;ip=198.189.249.65&amp;name=XdpwBMrxJHI" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

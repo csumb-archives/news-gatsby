@@ -27,7 +27,7 @@ date: January 01 2020
 </p>
 <p>
   Read about the program at
-  <a href="http://scienceillustration.org/">ScienceIllustration.org</a>.
+  <a href="https://scienceillustration.org/">ScienceIllustration.org</a>.
 </p>
 <h5>Grad's work gives young offenders a voice</h5>
 <p>

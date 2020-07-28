@@ -10,7 +10,7 @@ slug: john-marker
 
 <span class="date">Posted on Jul 10, 2009    </span>
 <br>
-<p><strong>July 10, 2009<img alt="John Marker" height="133" src="http://news.csumb.edu/sites/default/files/65/igx_migrate/images/Marker.john.jpg" style="float:left" width="200"><br/></img></strong></p>
+<p><strong>July 10, 2009<img alt="John Marker" height="133" src="https://news.csumb.edu/sites/default/files/65/igx_migrate/images/Marker.john.jpg" style="float:left" width="200"><br/></img></strong></p>
 <h2><strong>Leadership transition in Facilities</strong></h2>
 <p>&#xA0;</p>
 <p>John Marker has joined the staff in Administration and Finance

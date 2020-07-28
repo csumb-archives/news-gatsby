@@ -99,12 +99,12 @@ date: January 01 2020
 <p>The award will be presented at the FLC’s meeting Aug. 31 in Monterey.</p>
 <p>
   To learn more about the project, click
-  <a href="http://news.csumb.edu/news/2010/sep/6/water-savings-satellite">her</a
+  <a href="https://news.csumb.edu/news/2010/sep/6/water-savings-satellite">her</a
   >e.
 </p>
 <p>
   To learn more about the CSUMB/NASA Ames Cooperative Agreement, click
-  <a href="http://home.csumb.edu/a/alexandersusan/world/coop.htm">here</a>.
+  <a href="https://home.csumb.edu/a/alexandersusan/world/coop.htm">here</a>.
 </p>
 <p><em>Photo courtesy of USDA Natural Resources Conservation Service</em></p>
 ```

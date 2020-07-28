@@ -12,10 +12,10 @@ slug: their-thing&amp;colon;-strings
 classical, a little bit rock &apos;n&apos; roll &#x2013; and humorous.&#xA0;</p>
 <p>The foursome, which includes the Broadbent brothers (Giles,
 Ralph and Neal) and their cousin Graham, will perform at 7:30 p.m.,
-April 3, at CSU Monterey Bay&#x2019;s <a href="http://worldtheater.csumb.edu" rel="nofollow">World
+April 3, at CSU Monterey Bay&#x2019;s <a href="https://worldtheater.csumb.edu" rel="nofollow">World
 Theater</a>.<br>
 <br>
-<img alt="Stringfever will appear at the World Theater April 3" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/stringfever_for_web.jpg" style="width:400px; height:363px; float:left">The musicians,
+<img alt="Stringfever will appear at the World Theater April 3" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/stringfever_for_web.jpg" style="width:400px; height:363px; float:left">The musicians,
 trained at London&apos;s Royal Academy and College of Music, will play
 American favorites with their brightly colored five- and
 six-stringed electric violins, viola and cello. Their unusually
@@ -37,9 +37,9 @@ they came.&quot;<br>
 <br>
 Tickets are $29 general admission. Discounts are available for
 students, military members, seniors and children. Tickets can be
-purchased <a href="http://worldtheater.csumb.edu" rel="nofollow">online</a>, by phone (831) 582-4580, or at the theater
+purchased <a href="https://worldtheater.csumb.edu" rel="nofollow">online</a>, by phone (831) 582-4580, or at the theater
 located on Sixth Avenue between A and B streets. Driving directions
-and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">here</a>.</br></br></p>
+and a campus map are available <a href="https://csumb.edu/maps" rel="nofollow">here</a>.</br></br></p>
 <fieldset class="fieldgroup group-attachments">
 <legend>Attachments</legend>
 <div class="field field-type-emvideo field-field-attach-video">
@@ -48,8 +48,8 @@ and a campus map are available <a href="http://csumb.edu/maps" rel="nofollow">he
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/H5MLNMgpywk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/H5MLNMgpywk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/H5MLNMgpywk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/H5MLNMgpywk&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>

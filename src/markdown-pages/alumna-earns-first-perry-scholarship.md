@@ -49,7 +49,7 @@ date: January 01 2020
   including one at CSUMB.
 </p>
 <p>
-  <a href="http://calstateteach.net/?_csumbsearch=CalStateTeach"
+  <a href="https://calstateteach.net/?_csumbsearch=CalStateTeach"
     >Learn more about CalState TEACH</a
   >
 </p>

@@ -23,7 +23,7 @@ date: January 01 2020
 </p>
 <p>
   Lopez credits the help she received through CSUMB’s
-  <a href="http://csumb.edu/uroc"
+  <a href="https://csumb.edu/uroc"
     >Undergraduate Research Opportunities Center</a
   >
   with some of her success.

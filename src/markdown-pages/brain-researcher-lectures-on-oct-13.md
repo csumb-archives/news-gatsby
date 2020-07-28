@@ -56,8 +56,8 @@ date: January 01 2020
 <p>
   The 7 p.m. lecture is free and open to the public. Reservations are strongly
   encouraged and can be made
-  <a href="http://rsvp.csumb.edu/index.php?eid=69">here</a> or by calling the
+  <a href="https://rsvp.csumb.edu/index.php?eid=69">here</a> or by calling the
   World Theater box office at 582-4580. Driving directions and a map of campus
-  are available <a href="http://csumb.edu/map">here</a>.
+  are available <a href="https://csumb.edu/map">here</a>.
 </p>
 ```

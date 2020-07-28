@@ -31,7 +31,7 @@ date: January 01 2020
 <p>
   The Monterey Bay Art &amp; Film Festival for Youth, made possible by a
   generous donation by the
-  <a href="http://arts4mc.org">Arts Council for Monterey County</a> along with
+  <a href="https://arts4mc.org">Arts Council for Monterey County</a> along with
   several other community partnerships, is in keeping with CSUMB’s role as a
   community resource, providing forums for provocative discussions that can
   impact thought and action on issues important to our community.

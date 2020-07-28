@@ -21,7 +21,7 @@ students in the Division of Humanities and Communication, which
 houses CSUMB&#x2019;s program in journalism and media studies as well as
 philosophy, ethnic studies, ethics, peace studies, literature,
 history, creative writing and English teacher preparation.</p>
-<p><img alt="Courtney Thomas" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/courtney_thomas_for_web.jpg" style="float:right; width:236px; height:534px">When Mrs. Krause
+<p><img alt="Courtney Thomas" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/courtney_thomas_for_web.jpg" style="float:right; width:236px; height:534px">When Mrs. Krause
 died in 2006, she left the university $4.6 million to establish the
 Florence C. Rathom and Alwin R. Krause Scholarship Endowment Fund.
 The first awards were made for the 2009-10 school year.</img></p>
@@ -57,7 +57,7 @@ full-time job.&#x201D;</p>
 average at CSUMB. &#x201C;I know that would have been a much harder task
 without the security I gained from the scholarship,&#x201D; he said.</p>
 <p>For more information about the Krause scholarship, including the
-application deadline, <a href="http://hcom.csumb.edu/students" rel="nofollow">click here</a>.<br>
+application deadline, <a href="https://hcom.csumb.edu/students" rel="nofollow">click here</a>.<br>
 &#xA0;</br></p>
 <p><br>
 &#xA0;</br></p>

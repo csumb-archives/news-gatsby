@@ -69,14 +69,14 @@ date: January 01 2020
 </p>
 <p>
   For more information, visit
-  <a href="http://csumb.edu/site/x20683.xml"
-    >http://csumb.edu/site/x20683.xml</a
+  <a href="https://csumb.edu/site/x20683.xml"
+    >https://csumb.edu/site/x20683.xml</a
   >
   and
   <a
-    href="http://www.barbaramossberg.com"
-    title="http://www.barbaramossberg.com"
-    >http://www.barbaramossberg.com</a
+    href="https://www.barbaramossberg.com"
+    title="https://www.barbaramossberg.com"
+    >https://www.barbaramossberg.com</a
   >
 </p>
 <p></p>

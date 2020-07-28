@@ -10,7 +10,7 @@ slug: csumb-music-student-on-&apos;american-idol&apos;
 
 <span class="date">Posted on Feb 25, 2013    </span>
 <h3>Singer earns ticket to Hollywood</h3>
-<p><img alt="Stevie Rae Stephens" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/stephens.jpg" style="width:200px; height:200px; float:right">A bit of
+<p><img alt="Stevie Rae Stephens" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/stephens.jpg" style="width:200px; height:200px; float:right">A bit of
 encouragement from Mariah Carey helped Cal State Monterey Bay
 student Stevie Rae Stephens land a ticket to Hollywood.</img></p>
 <p>Stephens, a 21-year-old senior from Livermore, auditioned for
@@ -52,7 +52,7 @@ appreciation.</p>
 support I feel right now,&#x201D; she wrote. &#x201C;From the bottom of my heart,
 thank you.&#x201D;<br>
 <br>
-<a href="http://csumb.edu/music" rel="nofollow">Learn about the
+<a href="https://csumb.edu/music" rel="nofollow">Learn about the
 music program at CSUMB</a>.</br></br></p>
 
 

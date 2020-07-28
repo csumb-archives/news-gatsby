@@ -70,14 +70,14 @@ date: January 01 2020
   in the field of contemporary art by championing the work of emerging and
   mid-career artists.
 </p>
-<p><a href="http://vpa.csumb.edu/">Read about VPA</a></p>
+<p><a href="https://vpa.csumb.edu/">Read about VPA</a></p>
 <p>
-  <a href="http://vpa.csumb.edu/people/johanna-poethig"
+  <a href="https://vpa.csumb.edu/people/johanna-poethig"
     >Read more about Professor Poethig</a
   >
 </p>
 <p>
-  <a href="http://www.montereyart.org/category/current-exhibitions/"
+  <a href="https://www.montereyart.org/category/current-exhibitions/"
     >Read about the exhibit</a
   >
 </p>

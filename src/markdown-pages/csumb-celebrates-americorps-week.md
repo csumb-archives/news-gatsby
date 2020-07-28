@@ -20,7 +20,7 @@ date: January 01 2020
   the nation, thank their community partners, and communicate the impact that
   AmeriCorps has on communities and on the lives of the members who serve. In
   2010,
-  <a href="http://www.calserves.org/index.php/programs/vip">CalServes</a>
+  <a href="https://www.calserves.org/index.php/programs/vip">CalServes</a>
   launched a new AmeriCorps program called the Volunteer Infrastructure Project
   – VIP – and CSUMB’s Service Learning Institute became one of 14 supervising
   agencies in the state. Laura Lee Lienk , CSUMB professor and director of the
@@ -31,7 +31,7 @@ date: January 01 2020
 <p>
   Last year, the university’s VIPs recruited 5,400 volunteers who contributed
   41,287 hours of service to local communities.
-  <a href="http://service.csumb.edu/americorps-vip-members"
+  <a href="https://service.csumb.edu/americorps-vip-members"
     >Read about the 2012-13 class of CSUMB AmeriCorps VIPs.</a
   >
   In addition to CSUMB’s 10 VIP Fellows, two VIP Leaders are working on campus –
@@ -39,25 +39,25 @@ date: January 01 2020
 </p>
 <p>
   Walker is the program specialist for the
-  <a href="http://service.csumb.edu/about"
+  <a href="https://service.csumb.edu/about"
     >Service Learning Student Leader Program,</a
   >
   which employs students with prior service learning experience in leadership
   roles to help inimplement CSUMB’s service learning mission. Goings serves as a
   liaison between the Service Learning Institute and Student Affairs and runs
   the
-  <a href="http://service.csumb.edu/purposeful-service-opportunities"
+  <a href="https://service.csumb.edu/purposeful-service-opportunities"
     >Purposeful Service Opportunities Program</a
   >
   that provides volunteer opportunities for CSUMB students and student
   organizations. This semester, Purposeful Service Opportunities launched the
-  <a href="http://service.csumb.edu/king-chavez-semester-service-challenge"
+  <a href="https://service.csumb.edu/king-chavez-semester-service-challenge"
     >King/Chavez Semester of Service Challenge,</a
   >
   a friendly competition between CSUMB student organizations to earn points by
   documenting their service. Students who attend the various AmeriCorps Week
   activities earn double points for the contest. See the full schedule of events
-  <a href="http://service.csumb.edu/americorps-week">here.</a>
+  <a href="https://service.csumb.edu/americorps-week">here.</a>
 </p>
 <p>
   Nationally, AmeriCorps is known as the domestic Peace Corps and provides a
@@ -67,7 +67,7 @@ date: January 01 2020
   service experience. All positions are full time and last 10 or 11 months; all
   pay a living allowance and an educational award upon completion. Students
   interested in joining AmeriCorps after graduation can learn more
-  <a href="http://www.americorps.gov">here</a>.
+  <a href="https://www.americorps.gov">here</a>.
 </p>
 <p>
   More information is available from Goings at
@@ -77,6 +77,6 @@ date: January 01 2020
   >.
 </p>
 <p>
-  <a href="http://service.csumb.edu">Learn about Service Learning at CSUMB</a>.
+  <a href="https://service.csumb.edu">Learn about Service Learning at CSUMB</a>.
 </p>
 ```

@@ -73,7 +73,7 @@ date: January 01 2020
 <p>
   There’s only one drawback to traveling by bike, Tyler told the Bee. “There’s
   not much room for souvenirs.”
-  <a href="http://outthereinit.wordpress.com"
+  <a href="https://outthereinit.wordpress.com"
     ><em>Read the blog that Cody and Tyler kept during their trip.</em></a
   >
 </p>

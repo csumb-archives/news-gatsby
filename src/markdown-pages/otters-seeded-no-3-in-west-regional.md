@@ -21,7 +21,7 @@ date: January 01 2020
 <p>
   To watch the game, click
   <a
-    href="http://www.broncoathletics.com/sports/2010/11/8/GEN_1108103616.aspx?tab=fanzone"
+    href="https://www.broncoathletics.com/sports/2010/11/8/GEN_1108103616.aspx?tab=fanzone"
     >here</a
   >. The game will be played at Cal Poly Pomona, home of the region’s No. 1
   seed. Cal Poly will face the No. 8 seed Cal State San Bernardino.
@@ -44,7 +44,7 @@ date: January 01 2020
 </p>
 <p>
   The entire bracket can be found
-  <a href="http://www.ncaa.com/brackets/basketball-women/d2/2011">here</a>.
+  <a href="https://www.ncaa.com/brackets/basketball-women/d2/2011">here</a>.
 </p>
 <p>
   The Otters finished conference play with a 20-2 record and a one-game margin

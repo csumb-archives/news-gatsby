@@ -6,7 +6,7 @@ date: January 01 2020
 
 ```html
 <p>
-  <a href="http://hcom.csumb.edu/renee-curry">Dr. Renee Curry</a> has published
+  <a href="https://hcom.csumb.edu/renee-curry">Dr. Renee Curry</a> has published
   another article on one of her long-time research interests, director Woody
   Allen.
 </p>
@@ -25,7 +25,7 @@ date: January 01 2020
   published a number of articles on Allen and has edited the book, “Perspectives
   on Woody Allen” (Greenwood 2000).
   <em
-    ><a href="http://news.csumb.edu/news/2012/nov/25/faculty-highlights"
+    ><a href="https://news.csumb.edu/news/2012/nov/25/faculty-highlights"
       >Read more faculty news.</a
     ></em
   >

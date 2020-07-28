@@ -72,7 +72,7 @@ date: January 01 2020
 </p>
 <p>
   <em
-    ><a href="http://magazine.csumb.edu/news/2013/may/8/making-it-their-own">
+    ><a href="https://magazine.csumb.edu/news/2013/may/8/making-it-their-own">
       Machoian was interviewed for a story on alumni entrepreneurs in the spring
       2013 issue of CSUMB’s magazine</a
     ></em

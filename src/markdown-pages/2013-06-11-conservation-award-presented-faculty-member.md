@@ -9,7 +9,7 @@ slug: conservation-award-presented-to-faculty-member
 
 
 <span class="date">Posted on Jun 11, 2013    </span>
-<p><img alt="Professor Suzy Worcester" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/suzy-web.jpg" style="float:right; width:150px; height:150px">CSU Monterey Bay
+<p><img alt="Professor Suzy Worcester" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/suzy-web.jpg" style="float:right; width:150px; height:150px">CSU Monterey Bay
 faculty member Suzanne Worcester has received a Garden Club of
 America Club Conservation Commendation for her work with students
 and the community.</img></p>
@@ -41,7 +41,7 @@ of Land Management to monitor the effects of sheep grazing on
 grasslands. She also studies the vernal pools on Fort Ord National
 Monument.</p>
 <p>The award will be presented in the fall.</p>
-<p><em>Read Dr. Worcester&#x2019;s advice on <a href="http://magazine.csumb.edu/news/2012/nov/6/gardening-native-plants" rel="nofollow">gardening with native plants</a> in the fall/winter
+<p><em>Read Dr. Worcester&#x2019;s advice on <a href="https://magazine.csumb.edu/news/2012/nov/6/gardening-native-plants" rel="nofollow">gardening with native plants</a> in the fall/winter
 issue of Monterey Bay, the magazine of CSUMB.</em><br>
 <br>
 <a href="../../../2012/nov/25/faculty-highlights.html" rel="nofollow">Learn more about what faculty members at CSUMB are

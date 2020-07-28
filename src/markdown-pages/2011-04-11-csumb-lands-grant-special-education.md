@@ -58,8 +58,8 @@ visit the web at teach.csumb.edu.</p>
 <div class="emvideo emvideo-video emvideo-youtube">
 <div class="emfield-emvideo emfield-emvideo-youtube">
 <div id="emvideo-youtube-flash-wrapper-1">
-<!--<object type="application/x-shockwave-flash" height="350" width="425" data="http://www.youtube.com/v/yF4wjZ6WmPY&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
-          <param name="movie" value="http://www.youtube.com/v/yF4wjZ6WmPY&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
+<!--<object type="application/x-shockwave-flash" height="350" width="425" data="https://www.youtube.com/v/yF4wjZ6WmPY&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" id="emvideo-youtube-flash-1">
+          <param name="movie" value="https://www.youtube.com/v/yF4wjZ6WmPY&amp;rel=0&amp;enablejsapi=1&amp;playerapiid=ytplayer&amp;fs=1" />
           <param name="allowScriptAccess" value="sameDomain"/>
           <param name="quality" value="best"/>
           <param name="allowFullScreen" value="true"/>
@@ -70,7 +70,7 @@ visit the web at teach.csumb.edu.</p>
           <param name="wmode" value="transparent" />
         </object>-->
 <video controls="" width="425" height="350">
-<source src="http://r4---sn-o097znez.googlevideo.com/videoplayback?sver=3&amp;mm=31&amp;ipbits=0&amp;key=yt5&amp;signature=F4DD80986C702E99BEA6FA52054A0B1F18FE4137.588DFA8C1EB0032EA52C8FAA3B62C29984730670&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;id=o-AOtDxCrMkzjiTRZ2w66yIaz65FAPn0xEXQtgLo72Vw9r&amp;mt=1422328053&amp;ratebypass=yes&amp;initcwndbps=3903750&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;expire=1422349713&amp;upn=Cm-TR9wpUD0&amp;ip=198.189.249.65&amp;pl=23&amp;dur=87.283&amp;mv=m&amp;source=youtube&amp;ms=au&amp;itag=18&amp;name=yF4wjZ6WmPY" type="video/mp4"/></video></div>
+<source src="https://r4---sn-o097znez.googlevideo.com/videoplayback?sver=3&amp;mm=31&amp;ipbits=0&amp;key=yt5&amp;signature=F4DD80986C702E99BEA6FA52054A0B1F18FE4137.588DFA8C1EB0032EA52C8FAA3B62C29984730670&amp;fexp=900718,907263,916104,923368,927622,929821,930676,936121,9406392,941004,943917,947225,948124,952302,952605,952901,955301,957103,957105,957201,959701&amp;id=o-AOtDxCrMkzjiTRZ2w66yIaz65FAPn0xEXQtgLo72Vw9r&amp;mt=1422328053&amp;ratebypass=yes&amp;initcwndbps=3903750&amp;sparams=dur,id,initcwndbps,ip,ipbits,itag,mm,ms,mv,pl,ratebypass,source,upn,expire&amp;expire=1422349713&amp;upn=Cm-TR9wpUD0&amp;ip=198.189.249.65&amp;pl=23&amp;dur=87.283&amp;mv=m&amp;source=youtube&amp;ms=au&amp;itag=18&amp;name=yF4wjZ6WmPY" type="video/mp4"/></video></div>
 </div>
 </div>
 </div>

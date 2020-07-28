@@ -32,7 +32,7 @@ date: January 01 2020
   the Earth Observing System Aqua and Terra satellites. Under the direction of
   the CSUMB team, the NASA model has been applied to many regions throughout the
   world, with particular focus on
-  <a href="http://geo.arc.nasa.gov/sge/casa/">watersheds in California</a>. On
+  <a href="https://geo.arc.nasa.gov/sge/casa/">watersheds in California</a>. On
   this project, the team will continue using this model to generate 1 km
   resolution maps of soil moisture, potential and actual evapotranspiration,
   volumetric water content, and runoff in Brazil and Mexico. The team has
@@ -53,9 +53,9 @@ date: January 01 2020
   vegetation response. Summary statistics, such as drought duration and
   intensity, will be provided to help them gauge the level of the threat. For
   more information:
-  <a href="http://geo.arc.nasa.gov/sge/casa/">NASA-CASA Project website</a>
-  <a href="http://hydrology.asu.edu">ASU Hydrology</a>
-  <a href="http://planetaryskin.org/rd-programs/water/global-drought-monitoring"
+  <a href="https://geo.arc.nasa.gov/sge/casa/">NASA-CASA Project website</a>
+  <a href="https://hydrology.asu.edu">ASU Hydrology</a>
+  <a href="https://planetaryskin.org/rd-programs/water/global-drought-monitoring"
     >Planetary Skin Institute</a
   >
 </p>

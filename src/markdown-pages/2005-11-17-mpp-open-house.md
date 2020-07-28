@@ -47,7 +47,7 @@ to attend an open house from 6 to 8 p.m. on Dec. 1 in Room 110 of
 the Quadrangle, 1000 S. Main St., Salinas. (Visit the web
 (csumb.edu/mpp) for directions).</p>
 <p>For more information about the Master&apos;s of Public Policy
-program, visit the web at <a href="http://csumb.edu/mpp;" title="http://csumb.edu/mpp;">http://csumb.edu/mpp;</a> to receive an
+program, visit the web at <a href="https://csumb.edu/mpp;" title="https://csumb.edu/mpp;">https://csumb.edu/mpp;</a> to receive an
 application packet, call the Department of Health, Human Services
 and Public Policy at (831) 582-3565 or e-mail <a href="mailto:mpp@csumb.edu">mpp@csumb.edu</a></p>
 <fieldset class="fieldgroup group-attachments">

@@ -37,7 +37,7 @@ date: January 01 2020
 <p>
   Her first
   <a
-    href="http://ww2.kqed.org/science/2015/06/16/100&#45;new&#45;marine&#45;species&#45;discovered&#45;in&#45;mysterious&#45;twilight&#45;zone/"
+    href="https://ww2.kqed.org/science/2015/06/16/100&#45;new&#45;marine&#45;species&#45;discovered&#45;in&#45;mysterious&#45;twilight&#45;zone/"
     >story</a
   >
   explains how researchers from the California Academy of Sciences discovered

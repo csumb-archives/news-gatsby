@@ -32,7 +32,7 @@ date: January 01 2020
   50, a panel of outside experts picked a winner in each category. The
   first&#45;place honor included a prize of $2,500 and publication of her work
   in the March issue of <em>Popular Science</em>, on its website, and on the
-  <a href="http://nsf.gov/news/vizzies">National Science Foundation website</a>.
+  <a href="https://nsf.gov/news/vizzies">National Science Foundation website</a>.
 </p>
 <p><em>Published Feb. 25, 2016</em></p>
 ```

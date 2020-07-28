@@ -12,7 +12,7 @@ slug: dr.-lindholm-goes-to-washington
 <p>At Capitol Hill Ocean Week, held June 10-12, marine scientists
 and others interested in the state of the world&#x2019;s oceans gathered
 in Washington, D.C.</p>
-<p><img alt="Dr. James Lindholm" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/james.jpg" style="float:right; width:400px; height:235px">Among them was CSU
+<p><img alt="Dr. James Lindholm" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/james.jpg" style="float:right; width:400px; height:235px">Among them was CSU
 Monterey Bay Professor James Lindholm, who was there on behalf of
 the CSU Council on Ocean Affairs, Science and Technology
 (COAST).</img></p>
@@ -31,13 +31,13 @@ panelists, including National Geographic Explorer-in-Residence
 Sylvia Earle, discussed science communication and the need to
 engage a wider audience while ensuring the information is accurate
 and objective.</p>
-<p><a href="http://sep.csumb.edu/staff/james/" rel="nofollow">Dr.
+<p><a href="https://sep.csumb.edu/staff/james/" rel="nofollow">Dr.
 Lindholm</a> is the James W. Rote Distinguished Professor of Marine
-Science and Policy and director of the <a href="http://sep.csumb.edu/ifame/" rel="nofollow">Institute for Applied
+Science and Policy and director of the <a href="https://sep.csumb.edu/ifame/" rel="nofollow">Institute for Applied
 Marine Ecology</a>. His research interests include ecology of
 marine fishes, habitat response to fishing, and design and efficacy
 of marine protected areas.</p>
-<p><a href="http://kazu.org/post/scientists-catalog-life-monterey-bay-national-marine-sanctuary" rel="nofollow">Read the KAZU story on Dr. Lindholm&apos;s work in the
+<p><a href="https://kazu.org/post/scientists-catalog-life-monterey-bay-national-marine-sanctuary" rel="nofollow">Read the KAZU story on Dr. Lindholm&apos;s work in the
 Monterey Bay National Marine Sanctuary</a></p>
 <p><a href="https://www.calstate.edu/coast/" rel="nofollow">Learn
 more about COAST</a></p>

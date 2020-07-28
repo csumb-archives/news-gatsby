@@ -24,8 +24,8 @@ education and training.</p>
 that begins this fall.</p>
 <p>An information meeting will be held from 4:30 to 6 p.m., March
 5, in the Alumni and Visitors Center, corner of Gen. Jim Moore
-Boulevard and Inter-Garrison Road. <a href="http://csumb.edu/map" rel="nofollow">Driving directions and a campus map</a>.</p>
-<p>For more information, call 582-4790 or go <a href="http://csumb.edu/mist" rel="nofollow">online</a>.<br>
+Boulevard and Inter-Garrison Road. <a href="https://csumb.edu/map" rel="nofollow">Driving directions and a campus map</a>.</p>
+<p>For more information, call 582-4790 or go <a href="https://csumb.edu/mist" rel="nofollow">online</a>.<br>
 <br>
 <strong>What</strong>: Master&apos;s in Instructional Science and
 Technology &#x2013; information meeting<br>
@@ -34,7 +34,7 @@ Technology &#x2013; information meeting<br>
 Center<br>
 <strong>Cost</strong>: Free. Parking permit must be purchased from
 dispenser on the lot<br>
-<strong>Information</strong>: Call 582-4790 or <a href="http://csumb.edu/mist" rel="nofollow">online</a>&#xA0;<br>
+<strong>Information</strong>: Call 582-4790 or <a href="https://csumb.edu/mist" rel="nofollow">online</a>&#xA0;<br>
 &#xA0;</br></br></br></br></br></br></br></p>
 
 

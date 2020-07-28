@@ -66,6 +66,6 @@ date: January 01 2020
 </p>
 <p>
   More information about IAMSLIC is available at
-  <a href="http://www.iamslic.org/">http://www.iamslic.org</a>
+  <a href="https://www.iamslic.org/">https://www.iamslic.org</a>
 </p>
 ```

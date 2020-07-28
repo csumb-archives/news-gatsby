@@ -54,8 +54,8 @@ slug: teacher-ed-accredidation
   will go through the formal visitation process again when the accreditation
   expires. For information on the California State University Monterey Bay
   School of Education, please see
-  <a href="http://teach.csumb.edu" title="http://teach.csumb.edu"
-    >http://teach.csumb.edu</a
+  <a href="https://teach.csumb.edu" title="https://teach.csumb.edu"
+    >https://teach.csumb.edu</a
   >.
 </p>
 <fieldset class="fieldgroup group-attachments">

@@ -29,13 +29,13 @@ date: January 01 2020
   more information or for disability accommodations, call Heather Wilde at
   582-4332. The Social Justice Colloquium follows on the March 27
   <a
-    href="http://news.csumb.edu/news/2013/mar/5/annual-business-ethics-forum-set-march-27"
+    href="https://news.csumb.edu/news/2013/mar/5/annual-business-ethics-forum-set-march-27"
     >Business Ethics Forum, “Is corporate social responsibility good
     business?</a
   >"
 </p>
 <p>
-  <a href="http://sbgs.csumb.edu/"
+  <a href="https://sbgs.csumb.edu/"
     >Learn about the Division of Social, Behavioral and Global Studies.</a
   >
 </p>

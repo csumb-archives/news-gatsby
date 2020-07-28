@@ -14,9 +14,9 @@ While other students are returning to the classroom this fall,
 Wendy Holman is heading to Washington, D.C., where she will spend
 the semester working in the office of a member of the House of
 Representatives.</br></p>
-<p><img alt="Wendy Holman and Monte Rey" src="http://news.csumb.edu/sites/default/files/65/attachments/news/images/wendy_and_monte_0.jpeg" style="width:400px; height:400px; float:left">The CSU Monterey
+<p><img alt="Wendy Holman and Monte Rey" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/wendy_and_monte_0.jpeg" style="width:400px; height:400px; float:left">The CSU Monterey
 Bay senior is one of 26 students taking part in this year&#x2019;s
-<a href="http://www.panettainstitute.org/programs/study-with-us/congressional-intern-training/" rel="nofollow">Congressional Internship Program</a> through the
+<a href="https://www.panettainstitute.org/programs/study-with-us/congressional-intern-training/" rel="nofollow">Congressional Internship Program</a> through the
 Panetta Institute for Public Policy. All were selected based on
 exemplary academic achievement and interest in politics, policy and
 pubic service.</img></p>

@@ -15,7 +15,7 @@ Stallworth visits CSU Monterey Bay.</p>
 Community will be Dr. Stallworth&apos;s topic.</p>
 <p>The lecture will be held at 4:30 p.m. in Room 3145 of the
 Tanimura and Antle Family Memorial Library. The public is invited.
-Driving direction and a campus map are available <a href="http://csumb.edu/map" rel="nofollow">here</a>.</p>
+Driving direction and a campus map are available <a href="https://csumb.edu/map" rel="nofollow">here</a>.</p>
 <p>Dr. Stallworth is board-certified in public health and
 preventive medicine. He earned a medical degree from Wayne State
 University in Detroit, and served his internship and residency at

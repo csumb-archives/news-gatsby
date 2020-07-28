@@ -12,13 +12,13 @@ date: January 01 2020
 </p>
 <p>
   Poethig, a professor in CSU Monterey Bay’s
-  <a href="http://vpa.csumb.edu">Visual and Public Art Department,</a> has been
+  <a href="https://vpa.csumb.edu">Visual and Public Art Department,</a> has been
   named lead artist on a transportation project in the East Bay area of San
   Francisco.
 </p>
 <p>
   She and
-  <a href="http://news.csumb.edu/news/2012/oct/11/art-social-change"
+  <a href="https://news.csumb.edu/news/2012/oct/11/art-social-change"
     >Mildred Howard</a
   >, another artist from the Berkeley-Oakland area, will work to integrate art
   into the architecture of 34 planned stations on the 9.5-mile East Bay Bus

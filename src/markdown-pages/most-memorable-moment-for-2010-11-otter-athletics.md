@@ -32,7 +32,7 @@ date: January 01 2020
 </p>
 <p>
   To learn more about Otter athletics, click
-  <a href="http://otterathletics.com/">here</a>.
+  <a href="https://otterathletics.com/">here</a>.
 </p>
 <p></p>
 <p></p>

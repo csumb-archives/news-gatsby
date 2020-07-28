@@ -9,7 +9,7 @@ date: January 01 2020
   The grades are out, and CSU Monterey Bay has received high marks as part of
   the Sierra Club’s
   <a
-    href="http://www.sierraclub.org/sierra/201309/coolschools/complete-rankings.aspx"
+    href="https://www.sierraclub.org/sierra/201309/coolschools/complete-rankings.aspx"
     >Cool Schools</a
   >
   rating of sustainability on U.S. campuses.
@@ -50,7 +50,7 @@ date: January 01 2020
   can show their CSUMB username to ride the local bus system for free. •
   Recycling: Every room in the residence halls and each office has a blue
   recycle bin.
-  <a href="http://sustainability.csumb.edu/"
+  <a href="https://sustainability.csumb.edu/"
     >Learn about sustainability practices at CSUMB</a
   >
 </p>
