@@ -1,6 +1,6 @@
 ---
 title:
-  &gt;- Mixing it Up CSUMB student Sara Bailey produces a diverse compilation
+  &gt;- Mixing it Up - CSUMB student Sara Bailey produces a diverse compilation
   of local music
 date: April 20 2006
 slug: &gt;- mixing-it-up-csumb-student-sara-bailey-produces-a-diverse-compilation-of-local-music

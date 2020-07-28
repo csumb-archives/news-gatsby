@@ -1,5 +1,5 @@
 ---
-title: makeSMARTchoices for Alcohol Awareness Week
+title: "#makeSMARTchoices for Alcohol Awareness Week"
 date: October 12 2012
 slug: makesmartchoices-for-alcohol-awareness-week
 ---

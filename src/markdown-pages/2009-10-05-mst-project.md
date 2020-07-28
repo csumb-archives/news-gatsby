@@ -1,5 +1,5 @@
 ---
-title: MST project borders campus on InterGarrison Road&#xA0;
+title: MST project borders campus on InterGarrison Road
 date: October 5 2009
 slug: mst-project-borders-campus-on-intergarrison-road
 ---

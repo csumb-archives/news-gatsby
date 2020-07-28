@@ -1,7 +1,7 @@
 ---
-title: Firsttime playwright Erica Hemenway&apos;s work debuts
+title: Firsttime playwright Erica Hemenways work debuts
 date: February 2 2006
-slug: firsttime-playwright-erica-hemenway&apos;s-work-debuts
+slug: firsttime-playwright-erica-hemenways-work-debuts
 ---
 
 ```html
