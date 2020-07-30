@@ -4,7 +4,7 @@ title: "A+ for this teacher"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Alumna finalist for presidential award</h3>
 <p>
   A CSU Monterey Bay graduate has been nominated for a national teaching award.

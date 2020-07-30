@@ -4,7 +4,7 @@ title: "Undergraduate research pays off big"
 date: January 01 2020
 ---
 
-```html
+  
 <p>Two students earn prestigious NSF fellowships</p>
 <p>
   Thanks to the National Science Foundation, a pair of CSU Monterey Bay students

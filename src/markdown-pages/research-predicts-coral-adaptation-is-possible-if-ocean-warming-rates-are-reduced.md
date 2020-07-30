@@ -4,7 +4,7 @@ title: "Research Predicts Coral Adaptation is Possible if Ocean Warming Rates ar
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Ca., November 1, 2017 – A new study led by researchers from UC Davis,
   UCLA, Stanford University and California State University, Monterey Bay

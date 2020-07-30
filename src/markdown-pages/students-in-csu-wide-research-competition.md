@@ -4,7 +4,7 @@ title: "Students in CSU-wide research competition"
 date: January 01 2020
 ---
 
-```html
+  
 <h2>Event highlights excellence in student research</h2>
 <p>
   Outstanding research by CSU Monterey Bay students on topics ranging from

@@ -4,7 +4,7 @@ title: "Dorm residents return to campus"
 date: January 01 2020
 ---
 
-```html
+  
 <p>Aug. 21, 2009</p>
 <p>
   Well-organized chaos was the scene at CSU Monterey Bay Aug. 21 as many of the

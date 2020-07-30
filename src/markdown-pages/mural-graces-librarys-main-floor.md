@@ -4,7 +4,7 @@ title: "Mural graces library's main floor"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   CSU Monterey Bay has recently added to its collection of historically
   significant works of art.

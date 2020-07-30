@@ -4,7 +4,7 @@ title: "Student films to be screened Dec. 8"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Works by CSUMB student filmmakers will be on display at the Teledramatic Arts
   Presentation Showcase Dec. 8 in the TAT Studio on Sixth Avenue. The showing is

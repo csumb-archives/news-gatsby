@@ -4,7 +4,7 @@ title: "CSUMB professor, colleagues land NSF grant"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   CSU Monterey Bay Professor
   <a href="https://sep.csumb.edu/staff/cheryl/cheryl/Home.html">Cheryl Logan</a>

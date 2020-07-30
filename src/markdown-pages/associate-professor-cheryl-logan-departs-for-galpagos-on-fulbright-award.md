@@ -4,7 +4,7 @@ title: "Associate Professor Cheryl Logan Departs for Galápagos on Fulbright Awa
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   <b>SEASIDE, Ca., January 16, 2019 –</b> California State University, Monterey
   Bay (CSUMB)

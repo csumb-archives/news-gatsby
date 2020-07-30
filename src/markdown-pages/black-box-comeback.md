@@ -4,7 +4,7 @@ title: "Black Box comeback"
 date: January 01 2020
 ---
 
-```html
+  
 <p>Jan. 27, 2010</p>
 <p>
   Throughout much of the university's history, CSU Monterey Bay's Black Box

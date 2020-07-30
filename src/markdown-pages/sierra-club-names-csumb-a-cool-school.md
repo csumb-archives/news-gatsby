@@ -4,7 +4,7 @@ title: "Sierra Club names CSUMB a 'Cool School'"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   The grades are out, and CSU Monterey Bay has received high marks as part of
   the Sierra Club’s

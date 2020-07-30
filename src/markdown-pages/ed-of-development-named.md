@@ -4,7 +4,7 @@ title: "ED of development named"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Michael W. Mahan has joined California State University, Monterey Bay as
   executive director of development. He will oversee the university's

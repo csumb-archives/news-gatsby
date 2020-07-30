@@ -4,7 +4,7 @@ title: "String quartet performs at CSUMB"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Free chamber music concert set for Dec. 6</h3>
 <p>
   The community is invited to a free concert of chamber music at CSU Monterey

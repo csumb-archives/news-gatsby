@@ -4,7 +4,7 @@ title: "Academics, arts enrich migrant kids"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   . . . Now in its fourth year, the Junior Otter program – a collaboration among
   Monterey County's migrant education program, CSU Monterey Bay and theater

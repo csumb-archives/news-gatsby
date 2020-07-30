@@ -4,7 +4,7 @@ date: December 3 2010
 slug: csumb-offers-to-help-gulf-coast-students
 ---
 
-```html
+  
 
 
 

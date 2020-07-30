@@ -4,7 +4,7 @@ title: "Working with Professor Ruben Mendoza, archaeology students uncover a car
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Generations of California elementary school students have visited the adobe
   missions that dot the state from San Diego to Sonoma. The 21 missions, begun

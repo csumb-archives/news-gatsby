@@ -4,7 +4,7 @@ title: "Prognosis excellent for new medical student"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   In early August, David Bennion (’12, Bio) took part in the “white coat
   ceremony” at Oakland University William Beaumont School of Medicine in

@@ -4,7 +4,7 @@ title: "Lime Rolls Out Electric Scooters on Campus"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Ca., September 28, 2018 – California State University, Monterey Bay
   (CSUMB) has partnered with the San Francisco based smart mobility company,

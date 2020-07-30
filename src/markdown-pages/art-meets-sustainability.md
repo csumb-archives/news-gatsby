@@ -4,7 +4,7 @@ title: "Art meets sustainability"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   By the end of the semester, the capstone project of two Visual and Public Art
   students will grace a wall of CSUMB’s Dining Commons.

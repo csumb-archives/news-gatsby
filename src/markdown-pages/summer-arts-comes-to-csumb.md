@@ -4,7 +4,7 @@ title: "Summer Arts comes to CSUMB"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Classes, public performances highlight program</h3>
 <p>
   Sword fights, improvisational comedy, animation, hip-hop: Summer school was

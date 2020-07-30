@@ -4,7 +4,7 @@ date: January 15 2014
 slug: open-university-opens-up-opportunities
 ---
 
-```html
+  
 
 
 

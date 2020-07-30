@@ -4,7 +4,7 @@ title: "Another honor for CSUMB's Service Learning program"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Most decorated service learning program in the country</h3>
 <p>
   CSU Monterey Bay was named to the 2013 President’s Higher Education Community

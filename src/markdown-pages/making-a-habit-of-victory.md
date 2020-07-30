@@ -4,7 +4,7 @@ title: "Making a habit of victory"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   ***The Cal State Monterey Bay women’s basketball team celebrates its
   California Collegiate Athletic Association championship on March 1 following a

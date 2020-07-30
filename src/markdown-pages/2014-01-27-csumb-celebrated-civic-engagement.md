@@ -4,7 +4,7 @@ date: January 27 2014
 slug: csumb-celebrated-for-civic-engagement
 ---
 
-```html
+  
 
 
 

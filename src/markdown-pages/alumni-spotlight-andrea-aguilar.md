@@ -4,7 +4,7 @@ title: "Alumni spotlight: Andrea Aguilar"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Andrea Aguilar always knew that she wanted to work in the film and TV
   industry, but CSUMB helped her realize how powerful a tool the media really

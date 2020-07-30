@@ -4,7 +4,7 @@ title: "Learn about the new health insurance law"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   The first TV commercial rolled out in early September by Covered California,
   the state's new health-insurance exchange, seemed to be aimed at young people.

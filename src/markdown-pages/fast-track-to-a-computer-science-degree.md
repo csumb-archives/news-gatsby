@@ -4,7 +4,7 @@ title: "Fast track to a computer science degree"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   UPDATE: As of March 2014, 31 of the original 32 students were still enrolled
   in the program and next year's class was being recruited. Read more

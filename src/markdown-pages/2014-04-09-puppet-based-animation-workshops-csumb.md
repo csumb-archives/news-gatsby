@@ -4,7 +4,7 @@ date: April 9 2014
 slug: puppetbased-animation-workshops-at-csumb
 ---
 
-```html
+  
 
 
 

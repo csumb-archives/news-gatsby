@@ -4,7 +4,7 @@ date: October 23 2013
 slug: apply-now-for-instructional-science-technology-program
 ---
 
-```html
+  
 
 
 

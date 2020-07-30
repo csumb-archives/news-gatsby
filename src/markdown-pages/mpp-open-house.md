@@ -4,7 +4,7 @@ title: "MPP Open House"
 date: January 01 2020
 ---
 
-```html
+  
 <h4>Applications being accepted for Master's in Public Policy</h4>
 <p>
   <strong

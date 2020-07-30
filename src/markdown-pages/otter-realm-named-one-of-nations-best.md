@@ -4,7 +4,7 @@ title: "Otter Realm named one of nation's best"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   CSUMB’s student newspaper has earned a Pacemaker award, the highest honor
   given by the Associated Collegiate Press. The award was presented at the

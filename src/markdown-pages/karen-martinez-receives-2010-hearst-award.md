@@ -4,7 +4,7 @@ title: "Karen Martinez receives 2010 Hearst Award"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Karen Martinez, a sophomore originally from Oaxaca, Mexico, is the recipient
   of the 2010 Hearst/CSU Trustee’s Award for Outstanding Achievement.

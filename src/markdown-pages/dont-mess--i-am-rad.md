@@ -4,7 +4,7 @@ title: "Don't Mess ? I am RAD"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Students passing by Valley Hall at CSU Monterey Bay stop and stare as women
   throw air punches: right hammer fist, left shield. One kicks a bag with a thud

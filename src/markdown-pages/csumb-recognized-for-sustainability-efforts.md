@@ -4,7 +4,7 @@ title: "CSUMB recognized for sustainability efforts"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   The 2012 edition of The Princeton Review's Guide to 322 Green Colleges has
   named CSU Monterey Bay as one of the most eco-friendly in the U.S. and Canada

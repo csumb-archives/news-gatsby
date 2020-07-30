@@ -4,7 +4,7 @@ title: "Master class features jazz-playing brothers"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Jazz-playing brothers Remy and Pascal Le Boeuf will present a master class at
   Cal State Monterey Bay on May 7. The public is invited to join students in the

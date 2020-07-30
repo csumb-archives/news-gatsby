@@ -4,7 +4,7 @@ title: "Trio of employees honored with President's Medal for 2011"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Kevin Miller, Dr. Kathy Cruz-Uribe and Dr. Ilene Feinman were honored for
   their leadership and dedication to the CSU Monterey Bay Vision at the Day of

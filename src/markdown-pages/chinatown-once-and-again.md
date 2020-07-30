@@ -4,7 +4,7 @@ title: "Chinatown: Once and Again"
 date: January 01 2020
 ---
 
-```html
+  
 <p>Aug. 30, 2010</p>
 <p>
   The Republic Café was once a bustling restaurant in Chinatown, a gathering

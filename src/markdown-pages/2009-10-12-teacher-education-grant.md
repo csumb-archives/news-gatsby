@@ -4,7 +4,7 @@ date: October 12 2009
 slug: csumb-lands-$12.6-million-grant
 ---
 
-```html
+  
 <span class="date">Posted on Oct 12, 2009 </span>
 <p>Oct. 12, 2009</p>
 <strong>CSUMB lands $12.6 million grant</strong>

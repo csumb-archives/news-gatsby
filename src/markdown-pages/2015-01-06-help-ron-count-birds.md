@@ -4,7 +4,7 @@ date: January 6 2015
 slug: help-ron-count-the-birds
 ---
 
-```html
+  
 
 
 

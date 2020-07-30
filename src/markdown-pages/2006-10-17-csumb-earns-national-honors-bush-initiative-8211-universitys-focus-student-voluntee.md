@@ -5,7 +5,7 @@ date: October 17 2006
 slug: &gt;- csumb-earns-national-honors-from-bush-initiative-universitys-focus-on-student-volunteerism-provides-a-model-in-community-service
 ---
 
-```html
+  
 
 
 

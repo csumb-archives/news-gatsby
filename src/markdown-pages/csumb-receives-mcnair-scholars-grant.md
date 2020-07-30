@@ -4,7 +4,7 @@ title: "CSUMB receives McNair Scholars grant"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   The U.S. Department of Education has awarded CSUMB nearly $1 million in grant
   money to help students from underrepresented backgrounds prepare for doctoral

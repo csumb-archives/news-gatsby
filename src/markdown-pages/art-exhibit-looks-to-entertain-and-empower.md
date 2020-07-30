@@ -4,7 +4,7 @@ title: "Art exhibit looks to entertain and empower"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   A new art exhibit that invites spectators to take part in the festivities by
   "dressing to transgress" is filling galleries, stages and limousines.

@@ -4,7 +4,7 @@ title: "Teens tackle technology at summer camp"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   For eight days in July, a computer lab at Cal State Monterey Bay was buzzing
   with energy. Dozens of high school students were designing video games and

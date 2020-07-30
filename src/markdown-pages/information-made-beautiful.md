@@ -4,7 +4,7 @@ title: "Information made beautiful"
 date: January 01 2020
 ---
 
-```html
+  
 <p>SCIENCE ILLUSTRATION GRAD WINS VIZZIE AWARD</p>
 <p>
   Each year, the National Science Foundation and

@@ -4,7 +4,7 @@ title: "Egyptian human rights activist visits Oct. 28"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Egyptian human rights activist, journalist and author Gihan Abou Zeid will
   speak at CSU Monterey Bay on Oct. 28. Her topic: “Egypt’s women push back

@@ -4,7 +4,7 @@ date: January 13 2014
 slug: csumb-professor-featured-in-monterey-video
 ---
 
-```html
+  
 
 
 

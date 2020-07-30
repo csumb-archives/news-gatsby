@@ -6,7 +6,7 @@ date: April 20 2006
 slug: &gt;- mixing-it-up-csumb-student-sara-bailey-produces-a-diverse-compilation-of-local-music
 ---
 
-```html
+  
 
 
 

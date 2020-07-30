@@ -4,7 +4,7 @@ title: "Civil rights activist visits campus Feb. 28"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Bob Zellner knows risks of fighting for freedom</h3>
 <p>
   CSU Monterey Bay’s celebration of Black History Month will conclude on Feb. 28

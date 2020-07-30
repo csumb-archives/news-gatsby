@@ -4,7 +4,7 @@ title: "Distance Learning"
 date: January 01 2020
 ---
 
-```html
+  
 <h2>
   Transition to virtual classes successful thanks to innovation, cooperation,
   community

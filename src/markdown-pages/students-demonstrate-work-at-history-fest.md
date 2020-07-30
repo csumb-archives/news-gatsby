@@ -4,7 +4,7 @@ title: "Students demonstrate work at History Fest"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Monterey’s past showcased during weekend event</h3>
 <p>
   Professor Ruben Mendoza and his archaeology students will take part in

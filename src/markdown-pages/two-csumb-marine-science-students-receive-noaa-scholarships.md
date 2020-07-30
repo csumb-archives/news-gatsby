@@ -4,7 +4,7 @@ title: "Two CSUMB Marine Science Students Receive NOAA Scholarships"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Calif., August 28, 2019 -- Two CSUMB
   <a href="https://csumb.edu/marinescience">Marine Science</a> students have

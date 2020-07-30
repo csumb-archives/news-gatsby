@@ -4,7 +4,7 @@ title: "President Ochoa to Receive Prestigious Americanism Medal for Outstanding
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Calif., March 3, 2017 – CSUMB President Eduardo M. Ochoa has been
   selected by the Daughters of the American Revolution (DAR) to receive the

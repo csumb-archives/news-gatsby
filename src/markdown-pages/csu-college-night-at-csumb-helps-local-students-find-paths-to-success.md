@@ -4,7 +4,7 @@ title: "CSU 'College Night' at CSUMB Helps Local Students Find Paths to Success"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Calif., September 20, 2018 – ​The California State University (CSU)
   “College Night” came to CSUMB’s University Center on September 19, 2018. The

@@ -4,7 +4,7 @@ title: "Film composer Alan Silvestri visits campus"
 date: January 01 2020
 ---
 
-```html
+  
 <p>March 1, 2010</p>
 <p>
   Film composer Alan Silvestri will present a lecture on March 12 at California

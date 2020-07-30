@@ -4,7 +4,7 @@ title: "CSU Monterey Bay Alumni Association- President's Letter"
 date: January 01 2020
 ---
 
-```html
+  
 <p>Dear alumni, friends, and family,</p>
 <p>
   I often talk about the benefits of connecting to the Alumni Association and

@@ -4,7 +4,7 @@ title: "Coastal Cleanup (in Salinas)"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Join Return of the Natives on Sept. 20 at Upper Carr Lake</h3>
 <p>
   The annual worldwide Coastal Cleanup Day is the largest volunteer event on the

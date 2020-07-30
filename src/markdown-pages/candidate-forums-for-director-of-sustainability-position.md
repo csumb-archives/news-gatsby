@@ -4,7 +4,7 @@ title: "Candidate forums for director of sustainability position"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Members of the campus community are invited to hear presentations by
   candidates for the newly created position of director of sustainability. The

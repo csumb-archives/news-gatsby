@@ -4,7 +4,7 @@ title: "Program marks National Minority Health Month at CSUMB"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   The community is invited to join Cal State Monterey Bay’s College of Health
   Sciences and Human Services on April 26 to mark National Minority Health

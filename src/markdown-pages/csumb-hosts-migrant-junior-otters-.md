@@ -4,7 +4,7 @@ title: "CSUMB hosts Migrant Junior Otters "
 date: January 01 2020
 ---
 
-```html
+  
 <p>July 2, 2010</p>
 <p>
   &#42;<strong>Nationally honored program gets under way July 6</strong>&#42;

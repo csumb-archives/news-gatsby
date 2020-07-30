@@ -4,7 +4,7 @@ title: "Open a book, open a mind"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>County’s first literacy summit to be held at CSUMB Oct. 25</h3>
 <p>
   An overwhelming body of research indicates that students who fall behind in

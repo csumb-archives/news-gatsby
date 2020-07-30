@@ -4,7 +4,7 @@ title: "Santa Cruz attorney donates research vessel to CSUMB"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Paul Meltzer, a Santa Cruz attorney, has donated his 46-foot Hatteras sport
   fishing yacht to CSU Monterey Bay for use in the university’s marine science

@@ -4,7 +4,7 @@ title: "Three honored with President's Medal"
 date: January 01 2020
 ---
 
-```html
+  
 <p>Aug. 18, 2009</p>
 <p>
   Left to right: President Dianne Harrison with President's Medal honorees

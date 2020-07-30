@@ -4,7 +4,7 @@ title: "CSUMB cuts water use "
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Water consumption on campus reduced by more than 40 percent between 2013-2015
 </p>

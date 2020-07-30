@@ -4,7 +4,7 @@ date: December 1 2014
 slug: artists-reflect-on-issues-of-sustainability
 ---
 
-```html
+  
 
 
 

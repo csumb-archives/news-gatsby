@@ -4,7 +4,7 @@ title: "Learn about Master of Social Work program"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Anyone interested in the Master of Social Work program at CSU Monterey Bay is
   invited to attend information sessions scheduled for Sept. 10.

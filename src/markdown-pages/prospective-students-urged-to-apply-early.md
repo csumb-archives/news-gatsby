@@ -4,7 +4,7 @@ title: "Prospective students urged to apply early"
 date: January 01 2020
 ---
 
-```html
+  
 <p>Sept. 30, 2009</p>
 <p>
   Priority admissions for 2010-11 opens Thursday, Oct. 1, at California State

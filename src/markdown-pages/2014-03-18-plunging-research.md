@@ -4,7 +4,7 @@ date: March 18 2014
 slug: plunging-into-research
 ---
 
-```html
+  
 
 
 

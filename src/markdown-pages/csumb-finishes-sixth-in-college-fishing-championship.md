@@ -4,7 +4,7 @@ title: "CSUMB finishes sixth in college fishing championship"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   CSU Monterey Bay’s team of Matthew Diaz and Sebastian Resendiz braved frigid,
   windy conditions to finish sixth in the college fishing national championship

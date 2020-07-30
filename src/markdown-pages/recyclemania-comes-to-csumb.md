@@ -4,7 +4,7 @@ title: "RecycleMania comes to CSUMB"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Glass, Plastic, Paper, Oh My</h3>
 <p>
   Glass, plastic containers, paper and aluminum cans – they all have their place

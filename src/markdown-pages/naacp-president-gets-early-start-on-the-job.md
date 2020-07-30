@@ -4,7 +4,7 @@ title: "NAACP president gets early start on the job"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   When she was elected in the spring of 2014 to head the campus chapter of the
   NAACP, Mia Elliott said, “I can’t wait to start. I am really looking forward

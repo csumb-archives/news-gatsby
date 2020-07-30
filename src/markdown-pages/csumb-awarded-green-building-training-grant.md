@@ -4,7 +4,7 @@ title: "CSUMB awarded green building training grant"
 date: January 01 2020
 ---
 
-```html
+  
 <p>March 11, 2010</p>
 <p>
   CSU Monterey Bay has received a $2,000 grant to provide training in green

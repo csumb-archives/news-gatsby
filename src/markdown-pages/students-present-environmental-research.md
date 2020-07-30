@@ -4,7 +4,7 @@ title: "Students present environmental research"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   A contingent of CSU Monterey Bay students and faculty members will be among
   those presenting research at the annual meeting of the

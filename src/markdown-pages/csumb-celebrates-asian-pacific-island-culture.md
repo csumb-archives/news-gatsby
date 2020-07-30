@@ -4,7 +4,7 @@ title: "CSUMB celebrates Asian Pacific Island culture"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   The beauty and diversity of the Asian Pacific Island cultures will be
   celebrated at Cal State Monterey April 25-29.

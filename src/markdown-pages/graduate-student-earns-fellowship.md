@@ -4,7 +4,7 @@ title: "Graduate student earns fellowship"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Billy Coleman, a student in the Master of Business Administration program at
   California State University, Monterey Bay, has been awarded an Investment in

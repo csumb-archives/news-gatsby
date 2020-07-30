@@ -4,7 +4,7 @@ title: "Greater Vision Forum 2018"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   <b
     >The Farm of the Future: Ag Careers in Energy, Sustainability and

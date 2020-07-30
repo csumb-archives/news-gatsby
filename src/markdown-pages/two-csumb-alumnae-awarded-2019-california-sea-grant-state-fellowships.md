@@ -4,7 +4,7 @@ title: "Two CSUMB Alumnae Awarded 2019 California Sea Grant State Fellowships"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Ca., March 29, 2019 -- California Sea Grant has selected 23
   recipients—the largest cohort yet—for its prestigious

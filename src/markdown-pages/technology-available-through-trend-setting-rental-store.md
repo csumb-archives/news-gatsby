@@ -4,7 +4,7 @@ title: "Technology available through trend-setting rental store"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   More than a traditional equipment check-out service, TechRent is an innovative
   program that makes technology affordable for CSUMB students. It offers

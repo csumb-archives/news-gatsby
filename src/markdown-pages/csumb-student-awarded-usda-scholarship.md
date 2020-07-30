@@ -4,7 +4,7 @@ title: "CSUMB Student Awarded USDA Scholarship"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   CSUMB student Mykayla Latronica has been selected to receive a $30,000 USDA
   Scholarship to help complete her degree in biology with a minor in

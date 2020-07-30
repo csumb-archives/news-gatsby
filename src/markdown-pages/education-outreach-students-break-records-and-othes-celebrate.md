@@ -4,7 +4,7 @@ title: "Education outreach students break records, and othes celebrate"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   CSUMB's president and two other campus administrators are set to visit local
   black churches on Sunday to spread the word about the importance of going to

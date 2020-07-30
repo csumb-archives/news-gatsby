@@ -4,7 +4,7 @@ title: "TAT student is 'All Shook Up'"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Christopher Marcos is proving that students in the Teledramatic Arts and
   Technology program at CSU Monterey Bay can excel on both sides of the camera.

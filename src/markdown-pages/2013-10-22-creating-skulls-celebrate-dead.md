@@ -4,7 +4,7 @@ date: October 22 2013
 slug: celebrate-dia-de-los-muertos-at-csumb
 ---
 
-```html
+  
 
 
 

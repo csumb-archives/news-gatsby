@@ -4,7 +4,7 @@ title: "Vision 2020 Campaign Teacher Pathway Programs"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   To provide the best future for students and the community, CSUMB has developed
   Teacher Pathway Programs. The CSUMB College of Education has partnered with

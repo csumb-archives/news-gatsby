@@ -4,7 +4,7 @@ title: "Growing community, one soccer game at a time"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Two CSUMB students were behind the free soccer program run out of the Cesar
   Chavez Library in Salinas. "They are athletes who used soccer as their pathway

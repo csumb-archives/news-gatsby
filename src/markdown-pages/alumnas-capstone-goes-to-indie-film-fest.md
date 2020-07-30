@@ -4,7 +4,7 @@ title: "Alumna's capstone goes to indie film fest"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Many young filmmakers submit their work dozens of times before being accepted
   into a festival. That wasn’t the case with 2013 graduate Margo Flitcraft, who

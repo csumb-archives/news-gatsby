@@ -4,7 +4,7 @@ date: October 13 2014
 slug: beyond-rhythm
 ---
 
-```html
+  
 
 
 

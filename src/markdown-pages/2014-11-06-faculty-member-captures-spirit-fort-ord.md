@@ -4,7 +4,7 @@ date: November 6 2014
 slug: faculty-member-captures-the-spirit-of-fort-ord
 ---
 
-```html
+  
 
 
 

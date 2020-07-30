@@ -4,7 +4,7 @@ title: "Spotlight on Staff"
 date: January 01 2020
 ---
 
-```html
+  
 <h4>New theater director is multi-talented</h4>
 <p>
   After a lengthy hiatus from CSUMB, Joe Cardinalli has returned to the

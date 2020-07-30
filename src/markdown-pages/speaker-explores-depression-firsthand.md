@@ -4,7 +4,7 @@ title: "Speaker explores depression firsthand"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Comedian finds humor in his bid to survive</h3>
 <p>
   Brian Wetzel was a successful stand-up comedian whose career and personal life

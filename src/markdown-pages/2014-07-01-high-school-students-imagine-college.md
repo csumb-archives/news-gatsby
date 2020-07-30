@@ -4,7 +4,7 @@ date: July 1 2014
 slug: high-school-students-imagine-college-.-.-.
 ---
 
-```html
+  
 
 
 

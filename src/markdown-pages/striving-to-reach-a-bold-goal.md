@@ -4,7 +4,7 @@ title: "Striving to reach a bold goal"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Jeff Edmondson, managing director of Strive Together, will speak at CSU
   Monterey Bay on April 9 as the President’s Speaker Series concludes for the

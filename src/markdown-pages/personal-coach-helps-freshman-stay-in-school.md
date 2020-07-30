@@ -4,7 +4,7 @@ title: "Personal coach helps freshman stay in school"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   The odds were stacked against Selene Mendez when she enrolled at CSU Monterey
   Bay in 2010. . . Mendez participated in a program that helps freshmen stay

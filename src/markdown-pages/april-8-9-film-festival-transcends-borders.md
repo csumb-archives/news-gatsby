@@ -4,7 +4,7 @@ title: "April 8-9 film festival transcends borders"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Director Rodrigo Garcia on hand for April 8 screening</h3>
 <p>
   The Monterey Bay Film Festival is back for its fourth year and it’s bigger and

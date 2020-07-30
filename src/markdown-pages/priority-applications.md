@@ -4,7 +4,7 @@ title: "Priority Applications"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Prospective students interested in enrolling at California State University,
   Monterey Bay in fall 2008 are encouraged to submit their applications for

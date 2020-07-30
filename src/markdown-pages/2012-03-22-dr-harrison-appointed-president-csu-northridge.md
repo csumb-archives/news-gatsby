@@ -4,7 +4,7 @@ date: March 22 2012
 slug: dr.-harrison-appointed-president-of-csu-northridge
 ---
 
-```html
+  
 
 
 

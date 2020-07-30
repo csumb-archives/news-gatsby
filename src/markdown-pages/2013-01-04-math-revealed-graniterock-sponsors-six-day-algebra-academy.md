@@ -4,7 +4,7 @@ date: January 4 2013
 slug: math-revealed&amp;colon;-graniterock-sponsors-sixday-algebra-academy
 ---
 
-```html
+  
 <span class="date">Posted on Jan 04, 2013 </span>
 
 <p>Dozens of students from Rolling Hills Middle School in

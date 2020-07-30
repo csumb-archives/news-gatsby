@@ -4,7 +4,7 @@ title: "Student wins film scholarship"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Monterey County Film Commission makes award</h3>
 <p>
   Dominic Parisi is this year’s recipient of the $1,000 prize in the Monterey

@@ -4,7 +4,7 @@ title: "Images transform TAT building on Dec. 15"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   The Teldramatic Arts and Technology Building will become a giant canvas on
   Dec. 15 when students project their work onto the building.

@@ -4,7 +4,7 @@ title: "CLASS ACT"
 date: January 01 2020
 ---
 
-```html
+  
 <p>Students help with one city’s move toward a more sustainable future</p>
 <p>
   The city of Salinas is getting help from Cal State Monterey Bay students and

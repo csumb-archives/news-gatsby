@@ -4,7 +4,7 @@ title: "CSUMB named 'military friendly school'"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Campus support team eases transition</h3>
 <p>
   CSU Monterey Bay admissions counselor Louis Martin enjoys working with

@@ -4,7 +4,7 @@ title: "Seriously joking about depression"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Speaking to a group of students and community members at the Black Box Cabaret
   at CSU Monterey Bay, comedian Brain Wetzel shared his personal struggle with

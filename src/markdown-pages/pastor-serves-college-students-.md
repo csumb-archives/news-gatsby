@@ -4,7 +4,7 @@ title: "Pastor serves college students "
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Chaplain Clark Brown co-hosts a weekly drop-in conversation opportunity,
   called Chaplain Cafe, with Father Jon Perez, the Episcopal chaplain at CSUMB.

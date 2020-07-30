@@ -4,7 +4,7 @@ title: "Keys to the Community"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>CSUMB art student helps with ‘Play Me, I’m Yours’ project</h3>
 <p>
   Monterey County has street art and street people. Now, it’s got street pianos,

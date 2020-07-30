@@ -4,7 +4,7 @@ title: "The Future of Fish: Trade-offs Associated with California’s Seafood"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Ca., February 16, 2018 – A panel of experts hosted by
   <a href="https://www2.calstate.edu/impact-of-the-csu/research/coast"

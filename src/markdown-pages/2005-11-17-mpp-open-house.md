@@ -4,7 +4,7 @@ date: November 17 2005
 slug: mpp-open-house
 ---
 
-```html
+  
 
 
 

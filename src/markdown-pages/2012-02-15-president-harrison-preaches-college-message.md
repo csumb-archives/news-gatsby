@@ -4,7 +4,7 @@ date: February 15 2012
 slug: president-harrison-preaches-college-message
 ---
 
-```html
+  
 
 
 

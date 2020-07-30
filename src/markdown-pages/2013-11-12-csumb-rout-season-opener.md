@@ -4,7 +4,7 @@ date: November 12 2013
 slug: csumb-rout-in-seasonopener
 ---
 
-```html
+  
 
 
 

@@ -4,7 +4,7 @@ title: "Ocean science attracts summer researchers"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Many universities offer a Research Experiences for Undergraduates (REU)
   program, but they don't have what CSU Monterey Bay has to offer. The bay and

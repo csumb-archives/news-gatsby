@@ -4,7 +4,7 @@ title: "Japanese diplomat to speak at CSUMB"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Nobuhiro Watanabe, deputy consul general with the Japanese Consulate in San
   Francisco, will visit CSU Monterey Bay on Feb. 25.

@@ -4,7 +4,7 @@ title: "SAAC raises record amount for Make-A-Wish Foundation"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Student-athletes at CSU Monterey Bay hosted an evening of fun for their fellow
   students while celebrating National Collegiate Alcohol Awareness Week in

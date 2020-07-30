@@ -4,7 +4,7 @@ date: October 20 2005
 slug: chapman-science-academic-center
 ---
 
-```html
+  
 
 
 

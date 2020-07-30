@@ -4,7 +4,7 @@ title: "Emily Smith studied pre-Incan archeology"
 date: January 01 2020
 ---
 
-```html
+  
 <p>By James Tinney | August 11, 2017</p>
 <p>
   Emily Smith spent five weeks this summer studying remains from a centuries-old

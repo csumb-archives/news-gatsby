@@ -4,7 +4,7 @@ title: "Native American Heritage Month celebrated at CSUMB"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   As part of Cal State Monterey Bay’s celebration of Native American Heritage
   Month, Dr. Joseph Pierce will visit campus on Nov. 5. His topic: Indigenous

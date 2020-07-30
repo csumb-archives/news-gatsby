@@ -4,7 +4,7 @@ title: "Fort Ord Alumni group presents scholarships"
 date: January 01 2020
 ---
 
-```html
+  
 <p>Nov. 20, 2009**</p>
 <p>
   The Fort Ord Alumni Association recently presented scholarships to a dozen CSU

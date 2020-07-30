@@ -4,7 +4,7 @@ title: "'River in Ruin' author lectures on May 10"
 date: January 01 2020
 ---
 
-```html
+  
 <h2>Journalist explores ills of Monterey Peninsula's primary water source</h2>
 <p>
   “The Carmel River presents a remarkable test case for a messed-up river.

@@ -4,7 +4,7 @@ date: July 16 2013
 slug: csumb-art-students-get-handson-at-museum
 ---
 
-```html
+  
 
 
 

@@ -4,7 +4,7 @@ title: "Historian publishes another book on Vietnam War"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Three decades after the withdrawal of U.S. forces from Southeast Asia, echoes
   from the Vietnam War still reverberate in 21st-century America. A recently

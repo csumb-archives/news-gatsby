@@ -4,7 +4,7 @@ title: "Student filmmakers showcase set for May 14"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   A stellar lineup of student films will be shown at the Cinematic Arts Spring
   Capstone Festival at the World Theater on Thursday, May 14. The matinee

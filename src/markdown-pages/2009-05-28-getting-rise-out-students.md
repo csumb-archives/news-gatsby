@@ -4,7 +4,7 @@ date: May 28 2009
 slug: getting-a-rise-out-of-students
 ---
 
-```html
+  
 <span class="date">Posted on May 28, 2009 </span>
 <p>May 28, 2009</p>
 <p>

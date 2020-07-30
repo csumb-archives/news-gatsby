@@ -4,7 +4,7 @@ title: "April 5: One Day Without Shoes at CSUMB"
 date: January 01 2020
 ---
 
-```html
+  
 <h2>Next steps</h2>
 <h3>Shoes start a journey of understanding</h3>
 <p>

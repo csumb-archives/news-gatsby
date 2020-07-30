@@ -4,7 +4,7 @@ title: "Bay Area muralist visits campus Nov. 8"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   John Wehrle specializes in public art, and his thought-provoking work is a
   familiar sight in the San Francisco Bay area, especially the East Bay.

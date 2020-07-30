@@ -4,7 +4,7 @@ title: "Environmental filmmaking class explores Fort Ord"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   This semester, students from CSU Monterey Bay explored Fort Ord in an
   environmental filmmaking class. The results of that exploration will be

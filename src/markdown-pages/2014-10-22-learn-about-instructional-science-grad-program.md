@@ -4,7 +4,7 @@ date: October 22 2014
 slug: learn-about-instructional-science-grad-program
 ---
 
-```html
+  
 <span class="date">Posted on Oct 22, 2014 </span>
 <h3>Open house scheduled for Nov. 6</h3>
 <p>

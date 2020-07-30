@@ -4,7 +4,7 @@ title: "CSUMB welcomes Teacher Pathway Program students to campus"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Calif., September 22, 2017 – Students enrolled in the
   <a href="https://csumb.edu/liberalstudies/teacher-pathway-program"

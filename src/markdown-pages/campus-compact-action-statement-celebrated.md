@@ -4,7 +4,7 @@ title: "Campus Compact action statement celebrated"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Cal State Monterey Bay President Eduardo Ochoa was on hand March 20 when
   Campus Compact celebrated the signatories on its action statement during a

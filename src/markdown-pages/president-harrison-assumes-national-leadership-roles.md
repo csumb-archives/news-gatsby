@@ -4,7 +4,7 @@ title: "President Harrison assumes national leadership roles"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Cal State Monterey Bay President Dianne Harrison has recently accepted several
   positions with national organizations. This week, Dr. Harrison was appointed

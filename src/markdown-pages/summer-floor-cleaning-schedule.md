@@ -4,7 +4,7 @@ title: "Summer floor-cleaning schedule"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Summer It's time for the custodial staff to mop and wax all tile floors, and
   shampoo all carpeted areas in various buildings. To ensure the floor in each

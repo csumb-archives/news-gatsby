@@ -4,7 +4,7 @@ title: "ShakeOut shakes things up on Oct. 15"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   The Big One – it’s not a matter of “if,” Californians have been told. It’s a
   matter of “when.” At 10:16 on the morning of Oct. 15, members of the CSU

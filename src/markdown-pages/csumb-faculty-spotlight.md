@@ -4,7 +4,7 @@ title: "CSUMB faculty spotlight"
 date: January 01 2020
 ---
 
-```html
+  
 <p><strong>RECOGNITION</strong></p>
 <p>
   <strong>Dr. Barbara Mossberg</strong>, director of the Integrated Studies

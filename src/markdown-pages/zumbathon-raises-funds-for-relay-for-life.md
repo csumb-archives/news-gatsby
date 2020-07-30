@@ -4,7 +4,7 @@ title: "Zumbathon raises funds for Relay for Life"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>CSUMB Rotaract Club organizes March 29 event</h3>
 <p>
   The CSU Monterey Bay Rotaract Club will host a Zumbathon to benefit the

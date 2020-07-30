@@ -4,7 +4,7 @@ date: September 8 2014
 slug: learn-what-to-do-in-an-emergency
 ---
 
-```html
+  
 
 
 

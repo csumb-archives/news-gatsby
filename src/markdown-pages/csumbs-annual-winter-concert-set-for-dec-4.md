@@ -4,7 +4,7 @@ title: "CSUMB's annual Winter Concert set for Dec. 4"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   <strong
     >Community invited to share the season with students in the music

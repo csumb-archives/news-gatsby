@@ -4,7 +4,7 @@ title: "ART OF SOCIAL CHANGE"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Mildred Howard visits CSUMB Oct. 25</h3>
 <p>
   Berkeley artist Mildred Howard is an epic part of the East Bay’s cultural

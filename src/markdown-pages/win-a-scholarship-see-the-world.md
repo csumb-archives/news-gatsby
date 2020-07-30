@@ -4,7 +4,7 @@ title: "Win a scholarship, see the world"
 date: January 01 2020
 ---
 
-```html
+  
 <h4>
   About 100 CSUMB students to study abroad; a dozen earn Gilman scholarships
 </h4>

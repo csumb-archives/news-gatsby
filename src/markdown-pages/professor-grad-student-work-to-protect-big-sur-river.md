@@ -4,7 +4,7 @@ title: "Professor, grad student work to protect Big Sur River"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Doug Smith, professor in the Division of Science and Environmental Policy, and
   graduate student Sam Phillips are collaborating with federal and state

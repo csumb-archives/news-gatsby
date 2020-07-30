@@ -4,7 +4,7 @@ title: "CSUMB artist captures the spirit of Fort Ord"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   . . . Artist Enid Baxter Ryce lives on what used to be Fort Ord. As a faculty
   member in CSUMB's Cinematic Arts and Technology Department, she and her

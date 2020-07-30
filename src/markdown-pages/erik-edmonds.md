@@ -4,7 +4,7 @@ title: "Erik Edmonds"
 date: January 01 2020
 ---
 
-```html
+  
 <h4>Life-changing experience leads to generous gift</h4>
 <p>
   Erik Edmonds ('06, ESSP) is giving back to CSUMB in a big way. His recent

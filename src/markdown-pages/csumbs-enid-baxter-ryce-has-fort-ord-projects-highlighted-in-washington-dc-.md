@@ -4,7 +4,7 @@ title: "CSUMB’s Enid Baxter Ryce Has Fort Ord Projects Highlighted in Washingt
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Calif., March 8, 2017 – CSUMB professor and experimental filmmaker
   Enid Baxter Ryce will have her Fort Ord feature film "A Land for War"

@@ -4,7 +4,7 @@ title: "Student photos on display"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   For the past four years, CSU Monterey Bay students have spent June in Spain,
   studying the life and customs of people in the northwest part of the country,

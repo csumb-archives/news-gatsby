@@ -4,7 +4,7 @@ date: February 25 2013
 slug: csumb-music-student-on-&apos;american-idol&apos;
 ---
 
-```html
+  
 
 
 

@@ -4,7 +4,7 @@ date: March 25 2012
 slug: digital-big-brothers-are-tracking-us-is-it-ethical
 ---
 
-```html
+  
 
 
 

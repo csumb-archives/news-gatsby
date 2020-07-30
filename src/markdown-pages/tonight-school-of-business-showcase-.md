@@ -4,7 +4,7 @@ title: "Tonight: School of Business Showcase "
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Michael Briley, managing partner of Hayashi &amp; Wayland Accounting and
   Consulting, LLP, and Mary Adams, president and CEO of the United Way of

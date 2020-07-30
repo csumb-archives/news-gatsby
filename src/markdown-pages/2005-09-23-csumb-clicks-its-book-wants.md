@@ -4,7 +4,7 @@ date: September 23 2005
 slug: csumb-clicks-on-its-book-wants
 ---
 
-```html
+  
 
 
 

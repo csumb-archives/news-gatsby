@@ -4,7 +4,7 @@ title: "Campus wins another award for being 'green'"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   CSU Monterey Bay has been awarded a 2011 Public-Private Partnership “Green”
   Award by the Monterey County Business Council. The honor was announced at the

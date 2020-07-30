@@ -4,7 +4,7 @@ date: December 13 2006
 slug: carnegie-foundation
 ---
 
-```html
+  
 <span class="date">Posted on Dec 13, 2006 </span>
 <h4>CSUMB honored for community involvement</h4>
 <p>

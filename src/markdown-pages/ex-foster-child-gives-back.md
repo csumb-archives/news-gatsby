@@ -4,7 +4,7 @@ title: "Ex-foster child gives back"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   <strong><em>CSUMB student organizing book drive for youth</em></strong> . . .
   As part of her involvement in the foster care system, Emma Ramirez is helping

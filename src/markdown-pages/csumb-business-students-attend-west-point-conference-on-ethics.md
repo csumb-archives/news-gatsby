@@ -4,7 +4,7 @@ title: "CSUMB business students attend West Point Conference on Ethics"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Two CSUMB College of Business students participated in the 34th annual
   National Conference on Ethics in America (NCEA) at the United States Military

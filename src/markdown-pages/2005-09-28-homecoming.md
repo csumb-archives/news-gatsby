@@ -4,7 +4,7 @@ date: September 28 2005
 slug: homecoming
 ---
 
-```html
+  
 <span class="date">Posted on Sep 28, 2005 </span>
 <h4>First-ever homecoming game set for Oct. 8</h4>
 <p>

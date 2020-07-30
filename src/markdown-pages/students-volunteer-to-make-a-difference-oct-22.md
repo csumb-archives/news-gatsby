@@ -4,7 +4,7 @@ title: "Students volunteer to 'make a difference' Oct. 22"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Ribbon-cutting at Republic Café highlights work in Chinatown</h3>
 <p>
   CSU Monterey Bay students will fan out across the county on Saturday, Oct. 22,

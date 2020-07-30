@@ -4,7 +4,7 @@ date: July 27 2014
 slug: classes-camps-conferences-summer-at-csumb
 ---
 
-```html
+  
 
 
 

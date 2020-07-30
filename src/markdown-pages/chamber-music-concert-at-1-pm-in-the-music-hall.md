@@ -4,7 +4,7 @@ title: "Chamber music concert at 1 p.m. in the Music Hall"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   A special chamber concert by members of the Monterey Symphony will take place
   in the Music Hall on Wednesday. Eastern European masterworks will be featured,

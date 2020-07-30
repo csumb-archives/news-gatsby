@@ -4,7 +4,7 @@ date: August 10 2011
 slug: transfer-students-can-apply-for-spring-2012
 ---
 
-```html
+  
 <span class="date">Posted on Aug 10, 2011 </span>
 <p>
   California State University, Monterey Bay is accepting applications for spring

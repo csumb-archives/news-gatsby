@@ -4,7 +4,7 @@ title: "CSUMB celebrates Native American Heritage Month"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   CSU Monterey Bay celebrates Native American Heritage Month in November with
   talks, a film screening, a poetry reading, photography exhibit, musical

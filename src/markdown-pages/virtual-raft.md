@@ -4,7 +4,7 @@ title: "Virtual Raft"
 date: January 01 2020
 ---
 
-```html
+  
 <h2>Otter community staying connected during shelter-at-home order</h2>
 <p><b>By Sophia Huang McKenzie</b></p>
 <p><i>Published April 2, 2020</i></p>

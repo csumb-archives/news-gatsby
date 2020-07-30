@@ -4,7 +4,7 @@ date: January 26 2012
 slug: csumb-website-earns-recognition
 ---
 
-```html
+  
 
 
 

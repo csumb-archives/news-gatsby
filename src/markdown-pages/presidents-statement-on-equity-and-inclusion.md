@@ -4,7 +4,7 @@ title: "President’s Statement on Equity and Inclusion"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   The Founding Vision statement of Monterey Bay states:
   <i

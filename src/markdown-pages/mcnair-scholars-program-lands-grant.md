@@ -4,7 +4,7 @@ title: "McNair Scholars program lands grant"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   An astronaut who died in the 1986 Challenger disaster is inspiring college
   students to attend graduate school.

@@ -4,7 +4,7 @@ title: "President Harrison travels to Jordan and Oman"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   California State University, Monterey Bay President Dianne Harrison was on a
   trip to Jordan and Oman from March 24 to April 8 as one of seven college and

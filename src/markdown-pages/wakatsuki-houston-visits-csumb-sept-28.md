@@ -4,7 +4,7 @@ title: "Wakatsuki Houston visits CSUMB Sept. 28"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Talks on ‘what does democracy mean to you?’</h3>
 <p>
   Author Jeanne Wakatsuki Houston will visit Cal State Monterey Bay on Sept. 28

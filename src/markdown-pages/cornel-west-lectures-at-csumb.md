@@ -4,7 +4,7 @@ title: "Cornel West lectures at CSUMB"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Cornel West has many roles: philosopher, professor, author, civil rights
   activist and interpreter of African American experience, actor &#40;in several

@@ -4,7 +4,7 @@ title: "Budding career in plant science"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   <strong>Internship paves way for CSUMB student</strong> If the veggies on your
   dinner plate are bacteria-free in future years, you might want to thank Stacy

@@ -4,7 +4,7 @@ title: "Huffington Post: CSUMB 'forward-thinking' "
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   CSU Monterey Bay has gotten a prominent mention by a blogger for the
   Huffington Post. Danielle Wiener-Bronner, who writes about higher education

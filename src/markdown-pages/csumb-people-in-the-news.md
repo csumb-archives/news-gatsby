@@ -4,7 +4,7 @@ title: "CSUMB People in the News"
 date: January 01 2020
 ---
 
-```html
+  
 <p>June 28, 2010</p>
 <p>
   <strong>Angela Mele,</strong> a student in CSUMB's Science Illustration

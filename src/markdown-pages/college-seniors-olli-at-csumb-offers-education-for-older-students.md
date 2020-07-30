@@ -4,7 +4,7 @@ title: "College Seniors: OLLI at CSUMB offers education for older students"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   After a career in the Army, and a second one spent in the mining industry in
   Peru, Dick Guthrie of Pebble Beach was looking for ways to satisfy his

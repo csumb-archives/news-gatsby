@@ -4,7 +4,7 @@ title: "CSUMB celebrated for civic engagement"
 date: January 01 2020
 ---
 
-```html
+  
 <h3>Service learning highlighted at national conference</h3>
 <p>
   In 2013, CSU Monterey Bay was selected as one of five colleges and

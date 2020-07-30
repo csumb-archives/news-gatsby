@@ -4,7 +4,7 @@ title: "CSUMB taps sun for energy needs"
 date: January 01 2020
 ---
 
-```html
+  
 <p>March 19, 2010</p>
 <p>
   <strong><em>Solar power project set to get under way this summer</em></strong>

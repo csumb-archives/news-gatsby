@@ -4,7 +4,7 @@ title: "Local High Schools Compete in National Ocean Sciences Bowl at CSUMB"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Ca., February 1, 2018 – Eleven high schools from the Northern and
   Central California region will face off in the regional component of the 21st

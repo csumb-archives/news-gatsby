@@ -4,7 +4,7 @@ title: "Need help with technology?"
 date: January 01 2020
 ---
 
-```html
+  
 <p>Digital Otter Center offers pro bono assistance to community</p>
 <p>
   Computer science students will provide free assistance to members of the

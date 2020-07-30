@@ -4,7 +4,7 @@ title: "CSUMB wins big on National Science Foundation grants"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Four members of this year's graduating class at Cal State Monterey Bay and an
   alumna have won National Science Foundation Graduate Research Fellowships.

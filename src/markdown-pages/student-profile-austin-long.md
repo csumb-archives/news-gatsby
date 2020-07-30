@@ -4,7 +4,7 @@ title: "Student Profile: Austin Long"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Austin Long, a senior in the Visual and Public Art Department, already has the
   sensitivity and worldliness of a great photographer. The son of an artist and

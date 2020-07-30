@@ -4,7 +4,7 @@ title: "CSUMB Holds Conference in Effort to Bolster Undocumented Student Support
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   SEASIDE, Calif., April 21, 2017 – CSUMB students, faculty and staff came
   together Friday, April 21, 2017 to discuss best practices for supporting

@@ -4,7 +4,7 @@ title: "CSUMB Creates! A special venue at First Night Monterey"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   Works by CSU Monterey Bay students,faculty, staff and alumni will be showcased
   at <a href="www.firstnightmonterey.org">First Night Monterey</a>, the

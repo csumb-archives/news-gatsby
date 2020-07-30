@@ -4,7 +4,7 @@ title: "Humanities professors collaborate on book"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   "Dialogue and Deliberation," a new book by Professors Debian Marty and Josina
   Makau, was recently published by Waveland Press.

@@ -4,7 +4,7 @@ date: September 10 2013
 slug: visiting-artist-series-starts-sept.-19
 ---
 
-```html
+  
 
 
 

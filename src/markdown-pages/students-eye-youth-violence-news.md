@@ -4,7 +4,7 @@ title: "Students eye youth violence, news"
 date: January 01 2020
 ---
 
-```html
+  
 <p>
   In Salinas, many think media coverage trends toward the sensational,
   especially in a community where gang-related crimes have propelled the youth
