@@ -42,4 +42,4 @@ slug: smoke-coming-our-way-from-soledad-fire
     </div>
   </div>
 </fieldset>
-```
+ 

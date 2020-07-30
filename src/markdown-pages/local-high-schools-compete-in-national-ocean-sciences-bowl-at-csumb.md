@@ -34,4 +34,4 @@ date: January 01 2020
   and action on issues important to our community.
 </p>
 <p>Northern and Central Calif. High Schools Participating at CSUMB:</p>
-```
+ 

@@ -14,4 +14,4 @@ date: January 01 2020
   pursue her master's degree, en route to a doctorate, studying plant pathology.
   – Monterey Herald, May 21, 2011
 </p>
-```
+ 

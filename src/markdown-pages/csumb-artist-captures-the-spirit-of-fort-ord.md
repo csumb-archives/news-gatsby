@@ -13,4 +13,4 @@ date: January 01 2020
   at the Museum of Art and History in Santa Cruz. – <em>Monterey Herald</em>,
   April 3, 2014
 </p>
-```
+ 

@@ -13,4 +13,4 @@ date: January 01 2020
   cultures collide under the banner of Manifest Destiny. –
   <em>Monterey County Weekly</em>, Nov. 3, 2011
 </p>
-```
+ 

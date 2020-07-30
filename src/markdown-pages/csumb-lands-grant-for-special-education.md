@@ -47,4 +47,4 @@ date: January 01 2020
   >
   or visit the web at teach.csumb.edu.
 </p>
-```
+ 

@@ -42,4 +42,4 @@ date: January 01 2020
   member of Otter athletics; she is one of those student-athletes who make
   people around her better."
 </p>
-```
+ 

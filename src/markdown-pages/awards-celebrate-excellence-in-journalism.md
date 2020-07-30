@@ -74,4 +74,4 @@ date: January 01 2020
 <p><strong>Best piece by a high school journalist</strong></p>
 <p>Itzet Vazquez, "What Teachers do Outside School"</p>
 <p>&#40;from <em>El Talon</em> newspaper of North Monterey County High&#41;</p>
-```
+ 

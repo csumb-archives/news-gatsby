@@ -13,4 +13,4 @@ date: January 01 2020
   holistic community plan for addressing homelessness and urban revitalization.
   – <em>The Lakeland (Fla.) Ledger,</em> Jan. 22, 2013
 </p>
-```
+ 

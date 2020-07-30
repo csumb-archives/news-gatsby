@@ -42,4 +42,4 @@ date: January 01 2020
   customer service as company-owned facilities. Starbucks at CSUMB will be open
   during the Student Center’s hours of operation.
 </p>
-```
+ 

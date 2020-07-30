@@ -37,4 +37,4 @@ date: January 01 2020
   the best project on Friday, June 16th at 1 p.m. in room 235 of the Gambord BIT
   Building.
 </p>
-```
+ 

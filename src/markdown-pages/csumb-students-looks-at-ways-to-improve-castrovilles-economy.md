@@ -12,4 +12,4 @@ date: January 01 2020
   survey residents about their buying behavior to be later analyzed for a
   written report. – <em>The Californian</em>, March 5, 2011
 </p>
-```
+ 

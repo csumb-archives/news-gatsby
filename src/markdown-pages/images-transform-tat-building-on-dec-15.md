@@ -40,4 +40,4 @@ date: January 01 2020
   <a href="https://www.newgrounds.com/portal/view/550337">piece earlier </a>in
   the semester. It’s representative of the work that will be shown on Dec. 15.
 </p>
-```
+ 

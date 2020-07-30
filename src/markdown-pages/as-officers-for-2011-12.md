@@ -17,4 +17,4 @@ date: January 01 2020
   College of Science Senator: James Dunn Cultural Enrichment Senator: Saesha
   Hall Environmental Senator: Oliviya Wyse Senator at Large: Jeremy Allred
 </p>
-```
+ 

@@ -33,4 +33,4 @@ date: January 01 2020
   Dr. Manny Ares, professor of molecular, cell and developmental biology at UC
   Santa Cruz, visited campus on Oct. 24.
 </p>
-```
+ 

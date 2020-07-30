@@ -22,4 +22,4 @@ date: January 01 2020
   For those in the CSUMB community who want to provide help in the wake of the
   earthquake, here are links to those charities.
 </p>
-```
+ 

@@ -41,4 +41,4 @@ date: January 01 2020
   “Everyone here actually has an art career, on top of teaching,” he said. “It
   is cool to be able to talk to people who are working artists.”
 </p>
-```
+ 

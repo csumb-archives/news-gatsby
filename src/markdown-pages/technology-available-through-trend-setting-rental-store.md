@@ -12,4 +12,4 @@ date: January 01 2020
   semester. Students may even choose to purchase a rented device by applying
   their rental fees toward the items' cost. – EdTech magazine, May 24, 2011
 </p>
-```
+ 

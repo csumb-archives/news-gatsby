@@ -40,4 +40,4 @@ date: January 01 2020
     >Learn more about what faculty members at CSUMB are doing.</a
   >
 </p>
-```
+ 

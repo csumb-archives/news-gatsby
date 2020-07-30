@@ -44,4 +44,4 @@ date: January 01 2020
   Driving directions and a campus map are available at csumb.edu/map. For more
   information, contact Dr. Vaughan at 582-3116.
 </p>
-```
+ 

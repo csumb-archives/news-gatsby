@@ -38,4 +38,4 @@ date: January 01 2020
     >emergency text message alerts</a
   >https://csumb.edu/police/personal&#45;safety&#45;0
 </p>
-```
+ 

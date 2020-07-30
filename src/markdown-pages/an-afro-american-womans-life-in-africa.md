@@ -27,4 +27,4 @@ date: January 01 2020
   campus map are available <a href="https://csumb.edu/maps">here</a>.
 </p>
 <p>For more information, contact Steven Levinson at 582-4260.</p>
-```
+ 

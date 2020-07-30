@@ -47,4 +47,4 @@ date: January 01 2020
   <a href="https://csumb.edu/diversity">Office of Inclusive Excellence</a>
   exists to advance excellence at CSUMB through inclusion and equity.
 </p>
-```
+ 

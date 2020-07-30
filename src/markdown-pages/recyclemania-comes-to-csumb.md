@@ -69,4 +69,4 @@ date: January 01 2020
   >. To view the weekly results compiled by residence hall, check the display
   cases in front of the Otter Express.
 </p>
-```
+ 

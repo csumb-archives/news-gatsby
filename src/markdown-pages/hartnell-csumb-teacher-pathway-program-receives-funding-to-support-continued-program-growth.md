@@ -64,4 +64,4 @@ date: January 01 2020
   strengths. I hope community colleges and universities elsewhere in California
   will adopt this model."
 </p>
-```
+ 

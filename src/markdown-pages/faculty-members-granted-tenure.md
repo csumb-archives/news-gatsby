@@ -20,4 +20,4 @@ date: January 01 2020
   Art Department; Dr. Pam Motoike, Service Learning Institute; and Ms. Johanna
   Poethig, Visual and Public Art Department, were promoted to full professor.
 </p>
-```
+ 

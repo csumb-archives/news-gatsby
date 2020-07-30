@@ -49,4 +49,4 @@ date: January 01 2020
   The Tanimura &amp; Antle Family Memorial Library, which opened in December
   2008, was the first campus building to be awarded LEED silver certification.
 </p>
-```
+ 

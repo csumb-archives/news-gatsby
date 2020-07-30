@@ -20,4 +20,4 @@ date: January 01 2020
   on display through Dec. 18. Gallery hours are Monday through Friday, 8 a.m. to
   5 p.m.
 </p>
-```
+ 

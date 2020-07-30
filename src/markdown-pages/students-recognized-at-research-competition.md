@@ -62,4 +62,4 @@ date: January 01 2020
   <a href="https://studentresearchcompetitionday2.shutterfly.com/">here</a> (May
   7).
 </p>
-```
+ 

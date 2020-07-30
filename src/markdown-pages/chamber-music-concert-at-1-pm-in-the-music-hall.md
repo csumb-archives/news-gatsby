@@ -21,4 +21,4 @@ date: January 01 2020
   to be performed. Dr. Samra teaches classes for the university’s Osher Lifelong
   Learning Institute, and is the resident musicologist for the symphony.
 </p>
-```
+ 

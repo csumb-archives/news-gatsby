@@ -64,4 +64,4 @@ date: January 01 2020
   Thank you for your continued dedication to the educational mission of CSUMB,
   and to our students.
 </p>
-```
+ 

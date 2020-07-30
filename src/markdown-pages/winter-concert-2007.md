@@ -28,4 +28,4 @@ date: January 01 2020
   Avenue, CSUMB campusCOST: FreePARKING: Free in Lot 28INFORMATION/DISABILITY
   ACCOMMODATIONS: 582-3009
 </p>
-```
+ 

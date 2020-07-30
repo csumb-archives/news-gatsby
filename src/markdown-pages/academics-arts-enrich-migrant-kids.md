@@ -12,4 +12,4 @@ date: January 01 2020
   behind receive extra academic help, while the arts program gives them a jump
   on the upcoming school year. – <em>Monterey Herald</em>, Aug. 1, 2012
 </p>
-```
+ 

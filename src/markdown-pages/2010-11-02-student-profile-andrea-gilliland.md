@@ -29,4 +29,4 @@ slug: student-profile&amp;colon;-andrea-gilliland
   After graduation in spring 2011, she plans to cook her way through school as
   she completes a Master of Social Work degree.
 </p>
-```
+ 

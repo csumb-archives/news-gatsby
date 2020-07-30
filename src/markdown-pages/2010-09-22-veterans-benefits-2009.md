@@ -101,4 +101,4 @@ slug: csumb-ready-to-serve-those-who-served
     >veteran_services@csumb.edu</a
   >
 </p>
-```
+ 

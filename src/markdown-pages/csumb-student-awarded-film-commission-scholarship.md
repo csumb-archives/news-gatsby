@@ -37,4 +37,4 @@ date: January 01 2020
   enrolled in a college or university in the county. The fund was established as
   a permanent endowment with the Community Foundation for Monterey County.
 </p>
-```
+ 

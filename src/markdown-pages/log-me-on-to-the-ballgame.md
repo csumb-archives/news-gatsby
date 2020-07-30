@@ -60,4 +60,4 @@ date: January 01 2020
   For those who prefer more traditional media, all Otter men's basketball games
   – home and away – are broadcast on KION 1460 AM in the Monterey Bay area.
 </p>
-```
+ 

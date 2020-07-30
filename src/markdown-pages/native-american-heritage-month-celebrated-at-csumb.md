@@ -26,4 +26,4 @@ date: January 01 2020
   For more information, or to request disability accommodations, contact Valerie
   Amoin at vamoin@csumb.edu.
 </p>
-```
+ 

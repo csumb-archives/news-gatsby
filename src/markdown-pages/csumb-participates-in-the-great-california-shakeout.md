@@ -17,4 +17,4 @@ date: January 01 2020
   all people on campus were asked to practice drop, cover and hold-on followed
   by building evacuations.
 </p>
-```
+ 

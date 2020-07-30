@@ -13,4 +13,4 @@ date: January 01 2020
   du, one of whom worked with KRS-One. – <em>Monterey County Weekly,</em> Dec.
   18, 2014
 </p>
-```
+ 

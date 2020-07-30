@@ -22,4 +22,4 @@ date: January 01 2020
   Arts and Technology Department at (831) 582-3750. For a campus map and driving
   directions, visit csumb.edu/map.
 </p>
-```
+ 

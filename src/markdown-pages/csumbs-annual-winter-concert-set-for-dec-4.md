@@ -30,4 +30,4 @@ date: January 01 2020
   To learn more about the Music and Performing Arts program, click
   <a href="https://mpa.csumb.edu/">here</a>.
 </p>
-```
+ 

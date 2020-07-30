@@ -39,4 +39,4 @@ date: January 01 2020
   President Harrison talks with parents of a freshman during move-in day Aug.
   21.
 </p>
-```
+ 

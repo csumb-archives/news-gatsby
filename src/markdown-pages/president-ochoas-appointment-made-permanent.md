@@ -46,4 +46,4 @@ date: January 01 2020
     >View a video of President Ochoa talking about his plans for CSUMB.</a
   >
 </p>
-```
+ 

@@ -74,4 +74,4 @@ date: January 01 2020
   and Communication&#41; and Jonah Platt of Humboldt State University
 </p>
 <p><em>Photo courtesy of Professor Gutierrez</em></p>
-```
+ 

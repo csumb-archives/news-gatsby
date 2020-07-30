@@ -40,4 +40,4 @@ date: January 01 2020
   up-to-date information needed to prepare students for the rigors of college
   and create a pathway toward a lifetime of success.
 </p>
-```
+ 

@@ -13,4 +13,4 @@ date: January 01 2020
   granted," he said.
 </p>
 <p>– <em>Salinas Californian</em>, May 18, 2015</p>
-```
+ 

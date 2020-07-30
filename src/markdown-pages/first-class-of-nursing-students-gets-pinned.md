@@ -67,4 +67,4 @@ date: January 01 2020
   <em>Photos Top: The 10 members of the inaugural class of nurses at CSUMB</em>
 </p>
 <p><em>Right: Jennifer Riccobono</em></p>
-```
+ 

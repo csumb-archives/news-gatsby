@@ -63,4 +63,4 @@ date: January 01 2020
   the University of Dallas in Irving, Texas; and a Bachelor of Arts from
   Southwestern University in Georgetown, Texas.
 </p>
-```
+ 

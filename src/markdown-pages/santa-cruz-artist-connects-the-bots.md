@@ -73,4 +73,4 @@ date: January 01 2020
     Museum of California Bottom: Margo in her Santa Cruz studio</em
   >
 </p>
-```
+ 

@@ -27,4 +27,4 @@ date: January 01 2020
   region, California and beyond know that CSUMB will prepare them for success.”
 </p>
 <p><em>Published Jan. 13, 2016</em></p>
-```
+ 

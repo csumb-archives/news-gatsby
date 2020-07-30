@@ -50,4 +50,4 @@ date: January 01 2020
   such as how startups quickly nail the product that sells; advice from lenders;
   and a look at crowdfunding.
 </p>
-```
+ 

@@ -47,4 +47,4 @@ date: January 01 2020
   The map shows the area on the east side of Seventh Avenue, between Col. Durham
   Street and Butler Street, where the solar panel array is being installed.
 </p>
-```
+ 

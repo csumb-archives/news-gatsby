@@ -46,4 +46,4 @@ date: January 01 2020
   More information on CSUMB’s commitment to sustainability can be found
   <a href="https://csumb.edu/green">here</a>.
 </p>
-```
+ 

@@ -41,4 +41,4 @@ date: January 01 2020
   Learn more about the College of Arts, Humanities and Social Sciences
   <a href="https://cahss.csumb.edu/welcome-cahss">here</a>.
 </p>
-```
+ 

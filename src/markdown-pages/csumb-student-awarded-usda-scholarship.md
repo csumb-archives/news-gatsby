@@ -21,4 +21,4 @@ date: January 01 2020
   Research Technician. This scholarship includes career mentoring, and research
   and travel experiences related to her studies.
 </p>
-```
+ 

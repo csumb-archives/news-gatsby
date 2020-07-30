@@ -53,4 +53,4 @@ date: January 01 2020
   on Vertical Jump in Male Recreational Club Athletes," faculty adviser Dr. Kent
   Adams
 </p>
-```
+ 

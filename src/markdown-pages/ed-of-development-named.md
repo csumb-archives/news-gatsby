@@ -26,4 +26,4 @@ date: January 01 2020
   A retired lieutenant colonel, Mr. Mahan served two tours of duty at Fort Ord,
   and has maintained a residence in Oak Hills.
 </p>
-```
+ 

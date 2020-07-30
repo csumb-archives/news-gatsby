@@ -30,4 +30,4 @@ date: January 01 2020
   and scooter provider in the U.S. Over 11.5 million rides have already taken
   place on the Lime platform since first launching just over year ago.
 </p>
-```
+ 

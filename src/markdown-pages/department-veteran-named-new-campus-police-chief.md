@@ -21,4 +21,4 @@ date: January 01 2020
   San Luis Obispo. His extensive professional education includes training at the
   FBI National Academy.
 </p>
-```
+ 

@@ -13,4 +13,4 @@ date: January 01 2020
   Defense program – called RAD – run by CSUMB police officers. –
   <em>Monterey County Weekly</em>, Oct. 18, 2012
 </p>
-```
+ 

@@ -13,4 +13,4 @@ date: January 01 2020
   for academic affairs at Sonoma State University. –
   <em>The Chronicle of Higher Education,</em> May 29, 2012
 </p>
-```
+ 

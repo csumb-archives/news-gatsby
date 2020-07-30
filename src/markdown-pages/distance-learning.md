@@ -166,4 +166,4 @@ date: January 01 2020
   button, then ‘Keep Teaching and Keep Learning’ in accordance with CSUMB's
   mission, vision, and commitment to our students.”
 </p>
-```
+ 

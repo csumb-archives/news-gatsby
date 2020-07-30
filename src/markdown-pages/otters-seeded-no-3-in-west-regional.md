@@ -60,4 +60,4 @@ date: January 01 2020
   16-0 run to start the season – and a No. 19 NCAA national ranking in Division
   II.
 </p>
-```
+ 

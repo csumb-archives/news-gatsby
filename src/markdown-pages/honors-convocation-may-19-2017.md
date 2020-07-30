@@ -100,4 +100,4 @@ date: January 01 2020
   local community.
 </p>
 <p>Service Learning award winners and their majors:</p>
-```
+ 

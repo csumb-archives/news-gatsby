@@ -48,4 +48,4 @@ date: January 01 2020
   &#42;Photo: On the Rebound by Mildred Howard, who is represented by the Paule
   Anglim Gallery in San Francisco.&#42;
 </p>
-```
+ 

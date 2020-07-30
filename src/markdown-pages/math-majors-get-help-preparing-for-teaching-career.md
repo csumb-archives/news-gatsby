@@ -53,4 +53,4 @@ date: January 01 2020
   chip and founder of Intel.
   <a href="https://csumb.edu/math">Learn more about the math program at CSUMB</a>
 </p>
-```
+ 

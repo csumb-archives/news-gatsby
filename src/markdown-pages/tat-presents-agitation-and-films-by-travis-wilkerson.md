@@ -43,4 +43,4 @@ date: January 01 2020
   map are available at csumb.edu/map. While the event is free, visitors will
   have to purchase a parking pass from machines located on the parking lots.
 </p>
-```
+ 

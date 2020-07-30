@@ -77,4 +77,4 @@ date: January 01 2020
   reporting on my life now; I reported on other people’s lives then,” she said.
 </p>
 <p>“Writing about my life is a way to give it validation.”</p>
-```
+ 

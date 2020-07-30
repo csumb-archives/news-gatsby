@@ -135,4 +135,4 @@ date: January 01 2020
   from OSU staff for entertainment and other resources available online — can be
   found on the <a href="https://csumb.edu/osu">OSU website</a> and social media.
 </p>
-```
+ 

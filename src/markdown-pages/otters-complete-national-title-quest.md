@@ -13,4 +13,4 @@ date: January 01 2020
   the finals of the NCAA Division II Championship at The Shoal Course in
   Alabama. – Monterey Herald, May 21, 2011
 </p>
-```
+ 

@@ -107,4 +107,4 @@ date: January 01 2020
   <a href="https://home.csumb.edu/a/alexandersusan/world/coop.htm">here</a>.
 </p>
 <p><em>Photo courtesy of USDA Natural Resources Conservation Service</em></p>
-```
+ 

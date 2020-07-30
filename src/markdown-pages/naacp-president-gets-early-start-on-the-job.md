@@ -60,4 +60,4 @@ date: January 01 2020
   connected with cultural clubs and organizations on campus to promote civil
   rights; and organized service projects in the community.
 </p>
-```
+ 

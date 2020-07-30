@@ -12,4 +12,4 @@ date: January 01 2020
   graduation and retention rates, faculty resources and financial resources.
 </p>
 <p>– <em>Monterey County Business Council</em>, Sept. 18, 2015</p>
-```
+ 

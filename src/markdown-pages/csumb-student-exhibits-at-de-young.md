@@ -13,4 +13,4 @@ date: January 01 2020
   piece for the artist's exhibit, "Frescomania." – <em>Monterey Herald</em>,
   Nov. 2, 2012
 </p>
-```
+ 

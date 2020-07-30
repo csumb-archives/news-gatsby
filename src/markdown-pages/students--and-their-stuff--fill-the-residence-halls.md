@@ -49,4 +49,4 @@ date: January 01 2020
   a comedy and magic show, and a late&#45;night DJ in the Student Center got the
   week rolling on Friday evening.
 </p>
-```
+ 

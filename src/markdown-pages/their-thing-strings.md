@@ -41,4 +41,4 @@ date: January 01 2020
   and B streets. Driving directions and a campus map are available
   <a href="https://csumb.edu/maps">here</a>.
 </p>
-```
+ 

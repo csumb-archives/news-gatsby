@@ -26,4 +26,4 @@ date: January 01 2020
   submit applications. More information is available by calling the Office of
   Admissions at (831) 582-3738.
 </p>
-```
+ 

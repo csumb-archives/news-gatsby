@@ -68,4 +68,4 @@ date: January 01 2020
   This year’s speaker series is made possible by a generous contribution from
   Bud and Rebecca Colligan.
 </p>
-```
+ 

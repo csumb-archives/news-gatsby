@@ -53,4 +53,4 @@ date: January 01 2020
   of Technology will be explored. Future exchanges with management schools in
   Asia, Europe, Africa and Latin America are under discussion.
 </p>
-```
+ 

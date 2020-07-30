@@ -60,4 +60,4 @@ date: January 01 2020
   scholarly discipline necessary to carry them through to the Ph.D," said Dr.
   Curry.
 </p>
-```
+ 

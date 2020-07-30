@@ -53,4 +53,4 @@ date: January 01 2020
   At CSUMB, she teaches classes in culture and cultural diversity, introduction
   to teaching and learning, and service learning courses.
 </p>
-```
+ 

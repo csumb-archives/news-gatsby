@@ -37,4 +37,4 @@ date: January 01 2020
   University of Santa Cruz in a non-conference doubleheader. Play will start at
   1 p.m.
 </p>
-```
+ 

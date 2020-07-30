@@ -44,4 +44,4 @@ date: January 01 2020
   <a href="https://www.historicmonterey.org/HF092612%20update5.pdf">here.</a> •
   The Royal Presidio Chapel is located at 500 Church St., Monterey
 </p>
-```
+ 

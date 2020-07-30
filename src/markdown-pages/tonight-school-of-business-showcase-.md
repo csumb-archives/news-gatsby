@@ -51,4 +51,4 @@ date: January 01 2020
   To learn more about the School of Business at CSU Monterey Bay, click
   <a href="https://csumb.edu/business">here</a>.
 </p>
-```
+ 

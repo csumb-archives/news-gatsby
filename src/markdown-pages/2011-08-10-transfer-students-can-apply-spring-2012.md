@@ -28,4 +28,4 @@ slug: transfer-students-can-apply-for-spring-2012
   For more information, call the Office of Admissions 582-3738 or e-mail
   <a href="mailto:admissions@csumb.edu">admissions@csumb.edu</a>.
 </p>
-```
+ 

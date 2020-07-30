@@ -39,4 +39,4 @@ date: January 01 2020
   accreditation certifies that a school meets established academic standards and
   has the infrastructure, resources and curriculum to educate students.
 </p>
-```
+ 

@@ -72,4 +72,4 @@ date: January 01 2020
   clinical sites secured. The faculty are currently interviewing prospective
   students for the first class and excited for them to begin this new journey.”
 </p>
-```
+ 

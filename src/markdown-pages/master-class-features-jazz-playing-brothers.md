@@ -27,4 +27,4 @@ date: January 01 2020
   and Butler Street on the CSUMB campus. While the class is free, visitors must
   purchase a parking permit from a machine on the lot.
 </p>
-```
+ 

@@ -53,4 +53,4 @@ date: January 01 2020
   resource, providing forums for provocative discussions that can impact thought
   and action on issues important to our community.
 </p>
-```
+ 

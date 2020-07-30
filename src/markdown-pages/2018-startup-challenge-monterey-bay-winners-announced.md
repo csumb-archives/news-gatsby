@@ -37,4 +37,4 @@ date: January 01 2020
   Fort Ord Reuse Authority (FORA). Other major sponsors include Wells Fargo and
   the City of Salinas.
 </p>
-```
+ 

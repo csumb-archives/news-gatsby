@@ -66,4 +66,4 @@ Top photo: Elizabeth Rosevelt<br>
 Bottom photo: Rosevelt and other volunteers headed to Iceland on
 the sailing vessel Sea Dragon</br></br></br></em></p>
 <p class="small">&#xA0;</p>
-```
+ 

@@ -39,4 +39,4 @@ date: January 01 2020
   technologies across the curriculum, HP has awarded four technology grants to
   CSUMB’s Wireless Education and Technology Center since 2003.
 </p>
-```
+ 

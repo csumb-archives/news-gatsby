@@ -71,4 +71,4 @@ date: January 01 2020
   it.” <em>Photo: Corlis Schneider at Yellowstone</em>
 </p>
 <p></p>
-```
+ 

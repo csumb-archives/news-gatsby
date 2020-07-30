@@ -39,4 +39,4 @@ date: January 01 2020
   labor market study. A grant from the Foundation for California Community
   Colleges/Nursing Investment Fund has supported planning.
 </p>
-```
+ 

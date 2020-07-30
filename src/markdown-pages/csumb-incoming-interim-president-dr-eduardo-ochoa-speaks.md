@@ -12,4 +12,4 @@ date: January 01 2020
   "synergies," which touched on another topic central to California and Ochoa:
   diversity. – <em>Monterey County Weekly,</em> May 29, 2012
 </p>
-```
+ 

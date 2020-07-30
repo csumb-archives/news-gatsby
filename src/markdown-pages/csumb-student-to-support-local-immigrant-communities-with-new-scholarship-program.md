@@ -92,4 +92,4 @@ date: January 01 2020
   resources support faculty and staff as they pursue community&#45;based
   teaching and scholarship in the service of positive change.
 </p>
-```
+ 

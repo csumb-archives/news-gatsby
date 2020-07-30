@@ -33,4 +33,4 @@ date: January 01 2020
   Guard, said his photos are his way of honoring the people who served in the
   military.
 </p>
-```
+ 

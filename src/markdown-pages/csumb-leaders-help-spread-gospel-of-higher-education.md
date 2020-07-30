@@ -36,4 +36,4 @@ date: January 01 2020
   Dr. Cruz-Uribe visited Bethel Missionary Baptist Church in Seaside, and Dr.
   Higgs spoke at the First Baptist Church of Pacific Grove.
 </p>
-```
+ 

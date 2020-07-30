@@ -32,4 +32,4 @@ date: January 01 2020
   Behavioral and Global Studies, "Teaching for Social Transformation: The
   Filipinization of an American Ideal, 1901-2011"
 </p>
-```
+ 

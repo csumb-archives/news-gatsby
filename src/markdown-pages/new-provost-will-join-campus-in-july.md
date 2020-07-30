@@ -60,4 +60,4 @@ date: January 01 2020
   “I look forward to being part of the CSUMB team for the journey ahead as we
   grow and flourish as a great institution of higher learning.”
 </p>
-```
+ 

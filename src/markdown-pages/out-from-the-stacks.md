@@ -61,4 +61,4 @@ date: January 01 2020
 </p>
 <p><a href="https://lwb-online.org/?cat=27">Read the trip blog</a></p>
 <p></p>
-```
+ 

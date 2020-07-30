@@ -59,4 +59,4 @@ date: January 01 2020
     >TAT 424 tumblr, where students post their findings and works in progress</a
   >
 </p>
-```
+ 

@@ -22,4 +22,4 @@ date: January 01 2020
   involved the city of Marina, the university, and AMCAL, the private developer.
   The privately funded project was built to LEED silver standards.
 </p>
-```
+ 

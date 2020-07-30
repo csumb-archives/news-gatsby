@@ -13,4 +13,4 @@ date: January 01 2020
   academic offerings, campus infrastructure, activities and career prep. –
   <em>Monterey County Weekly,</em> May 24, 2012
 </p>
-```
+ 

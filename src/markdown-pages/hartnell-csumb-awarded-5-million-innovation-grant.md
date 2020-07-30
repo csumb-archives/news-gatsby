@@ -13,4 +13,4 @@ date: January 01 2020
   million for an innovative developmental math course.
 </p>
 <p>– <em>Salinas Californian</em>, March 21, 2015</p>
-```
+ 

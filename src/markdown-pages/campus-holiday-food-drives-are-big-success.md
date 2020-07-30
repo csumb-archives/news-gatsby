@@ -44,4 +44,4 @@ date: January 01 2020
   Due to the support from the campus community and Otter Athletics, the Helping
   Hands Food Drive donated nine times more food than last year.
 </p>
-```
+ 

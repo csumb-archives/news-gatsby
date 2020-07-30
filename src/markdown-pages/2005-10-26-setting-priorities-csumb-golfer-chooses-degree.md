@@ -13,4 +13,4 @@ school history to take medalist honors in a tournament. But she cut
 back on her schedule this year, playing in only two tournaments, to
 concentrate on finishing her degree in December.<br>
 &#x2013; Monterey County Herald, Oct. 26, 2005<br/></br>
-```
+ 

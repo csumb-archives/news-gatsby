@@ -34,4 +34,4 @@ date: January 01 2020
     >Social Justice Colloquium </a
   >home page. All events are open to the public and free of charge.
 </p>
-```
+ 

@@ -48,4 +48,4 @@ Left to right: Janelle Pichon, Shiyla Goodie, Charity Hawkins,
 adviser Steven Goings, Bridgette Johnson, Larenz Tolson, Sheena
 Nickerson, Asia Goodall, Kymberly Shavers</br></em><br>
 &#xA0;</br></br></br></p>
-```
+ 

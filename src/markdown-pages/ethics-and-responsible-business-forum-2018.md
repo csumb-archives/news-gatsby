@@ -34,4 +34,4 @@ date: January 01 2020
   Diresta, who serves as head of policy at Data for Democracy and Mark
   Scarberry, professor of law at the Pepperdine University School of Law.
 </p>
-```
+ 

@@ -39,4 +39,4 @@ date: January 01 2020
   office at 582-4580. Driving directions and a campus map are available
   <a href="https://csumb.edu/maps">here</a>.
 </p>
-```
+ 

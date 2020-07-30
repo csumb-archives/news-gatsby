@@ -36,4 +36,4 @@ date: January 01 2020
   Women's basketball took top honors by raising $246.83; women's water polo and
   baseball were second and third, respectively.
 </p>
-```
+ 

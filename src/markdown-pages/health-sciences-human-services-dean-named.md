@@ -63,4 +63,4 @@ date: January 01 2020
   certificate in Women’s Studies, and a Doctorate in Community Health from the
   University of Oregon.
 </p>
-```
+ 

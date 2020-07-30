@@ -89,4 +89,4 @@ date: January 01 2020
   up to date on all COVID-19 related changes on the CSUMB COVID-19
   <a href="https://csumb.edu/health/coronavirus-information">webpage</a>.
 </p>
-```
+ 

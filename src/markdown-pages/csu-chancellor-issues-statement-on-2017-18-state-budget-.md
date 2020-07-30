@@ -34,4 +34,4 @@ date: January 01 2020
   system. An additional $12.5 million is provided in fixed one-time funding to
   support the university’s Graduation Initiative 2025 effort.
 </p>
-```
+ 

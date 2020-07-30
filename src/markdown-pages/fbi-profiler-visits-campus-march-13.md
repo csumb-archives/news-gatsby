@@ -43,4 +43,4 @@ date: January 01 2020
   A parking permit must be purchased from a machine in the parking lot.
   <a href="https://csumb.edu/map">Driving directions and a campus map </a>
 </p>
-```
+ 

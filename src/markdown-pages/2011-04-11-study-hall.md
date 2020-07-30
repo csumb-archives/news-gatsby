@@ -70,4 +70,4 @@ slug: study-hall
   really geared for students.&#xA0;&#x201C;And they serve the best coffee . . .
   and I&#x2019;m in here nearly every day.&#x201D;
 </p>
-```
+ 

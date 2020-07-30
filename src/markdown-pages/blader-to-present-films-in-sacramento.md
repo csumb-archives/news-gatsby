@@ -52,4 +52,4 @@ date: January 01 2020
 <p></p>
 <p><em>Photo of Enid Baxter Blader by Reggie Woolery/KCET</em></p>
 <p></p>
-```
+ 

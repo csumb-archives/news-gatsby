@@ -19,4 +19,4 @@ date: January 01 2020
   For those unable to attend, the State of the University address will be
   <a href="https://youtu.be/AbS5IDTBzlI">streamed</a>.
 </p>
-```
+ 

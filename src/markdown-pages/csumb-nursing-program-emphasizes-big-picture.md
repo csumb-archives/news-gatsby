@@ -14,4 +14,4 @@ date: January 01 2020
   knowledge a student would get with a bachelor's: public health, information
   technology, policy. – Oakland Tribune, Jan. 4, 2012
 </p>
-```
+ 

@@ -41,4 +41,4 @@ date: January 01 2020
   also log in and encourage their students to use the portal to cope with stress
   and enhance personal growth, Lopez said.
 </p>
-```
+ 

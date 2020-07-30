@@ -34,4 +34,4 @@ date: January 01 2020
   The institutions that are selected to receive the Seal of Excelencia will be
   publicly announced on June 20, 2019 in Washington D.C.
 </p>
-```
+ 

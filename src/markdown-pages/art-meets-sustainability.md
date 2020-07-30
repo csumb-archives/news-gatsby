@@ -51,4 +51,4 @@ date: January 01 2020
   The mural will be completed in the VPA complex – painted on several tyvek
   panels – and installed in the Dining Commons the first week of May.
 </p>
-```
+ 

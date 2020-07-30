@@ -46,4 +46,4 @@ date: January 01 2020
   The President's Speakers Series will resume in February. Visit
   csumb.edu/speakers for updates.
 </p>
-```
+ 

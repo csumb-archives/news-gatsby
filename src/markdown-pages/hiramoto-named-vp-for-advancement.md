@@ -35,4 +35,4 @@ date: January 01 2020
   science degree in counseling from San Francisco State and a bachelor of arts
   degree in architecture from UC Berkeley.
 </p>
-```
+ 

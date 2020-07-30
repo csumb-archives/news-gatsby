@@ -44,4 +44,4 @@ date: January 01 2020
     >CSUMB student newspaper honored in eight categories</a
   >
 </p>
-```
+ 

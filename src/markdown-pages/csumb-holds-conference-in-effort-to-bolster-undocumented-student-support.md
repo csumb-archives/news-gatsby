@@ -35,4 +35,4 @@ date: January 01 2020
   students please refer to the
   <a href="https://csumb.edu/diversity">Office of Inclusive Excellence</a> page.
 </p>
-```
+ 

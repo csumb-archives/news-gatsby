@@ -30,4 +30,4 @@ date: January 01 2020
   >. The course will be offered again in February. More information is available
   <a href="https://police.csumb.edu/rad">here</a>.
 </p>
-```
+ 

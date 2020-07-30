@@ -82,4 +82,4 @@ date: January 01 2020
   of Science, was awarded emeritus status for her outstanding service to the
   university.
 </p>
-```
+ 
