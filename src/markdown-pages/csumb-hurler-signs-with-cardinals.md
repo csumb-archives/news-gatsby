@@ -12,4 +12,4 @@ date: January 01 2020
   Cardinals' Rookie League team in Johnson City, Tenn. –
   <em>Monterey Herald</em>, June 22, 2013
 </p>
-```
+ 

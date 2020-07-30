@@ -10,4 +10,4 @@ date: January 01 2020
   Trustees Wednesday appointed Dr. Eduardo Ochoa as the permanent president of
   CSUMB. – <em>Monterey Herald</em>, May 22, 2013
 </p>
-```
+ 

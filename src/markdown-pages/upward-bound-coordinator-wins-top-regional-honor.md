@@ -42,4 +42,4 @@ date: January 01 2020
   "I'm most proud of serving in the programs that guided me toward college,
   especially because I'm a Talent Search TRiO alum," Velazquez said.
 </p>
-```
+ 

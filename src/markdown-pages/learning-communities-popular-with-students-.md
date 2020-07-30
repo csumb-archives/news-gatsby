@@ -21,4 +21,4 @@ date: January 01 2020
   they live in residence halls with a group of students who take at least two
   courses together.
 </p>
-```
+ 

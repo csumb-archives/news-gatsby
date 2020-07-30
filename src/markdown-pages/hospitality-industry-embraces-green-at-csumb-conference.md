@@ -51,4 +51,4 @@ date: January 01 2020
   Council, demonstrated the university’s vision of innovation, global connection
   and community engagement as well as its own efforts to go green.
 </p>
-```
+ 

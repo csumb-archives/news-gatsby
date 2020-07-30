@@ -11,4 +11,4 @@ date: January 01 2020
   voter rolls, but to learn about the hottest loal issues. –
   <em>Monterey Herald</em>, Sept. 26, 2012
 </p>
-```
+ 

@@ -10,4 +10,4 @@ date: January 01 2020
   first-ever national telecast of a CCAA women's basketball game. –
   <em>The Salinas Californian</em>, Feb. 17, 2014
 </p>
-```
+ 

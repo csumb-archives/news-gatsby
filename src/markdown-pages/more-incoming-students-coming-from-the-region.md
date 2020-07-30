@@ -16,4 +16,4 @@ date: January 01 2020
   transfer students. This year’s incoming class has a grade-point average of
   3.25, up slightly from last year.
 </p>
-```
+ 

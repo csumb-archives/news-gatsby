@@ -11,4 +11,4 @@ date: January 01 2020
   with every brush stroke.
 </p>
 <p>– <em>Monterey County Weekly</em>, March 5, 2015</p>
-```
+ 

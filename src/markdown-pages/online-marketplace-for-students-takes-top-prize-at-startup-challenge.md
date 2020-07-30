@@ -49,4 +49,4 @@ date: January 01 2020
   companies to showcase their ideas and business concepts, as well as compete
   for over $50,000 in prizes.
 </p>
-```
+ 

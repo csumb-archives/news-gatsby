@@ -10,4 +10,4 @@ date: January 01 2020
   that hasn't prevented students at Cal State Monterey Bay from starting a
   campus chapter of the NAACP. <em>– Marina Gazette</em>, Oct. 1, 2012
 </p>
-```
+ 

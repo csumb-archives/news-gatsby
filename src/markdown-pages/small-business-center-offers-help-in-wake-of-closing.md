@@ -72,4 +72,4 @@ date: January 01 2020
   beneficial to the Salinas area impacted by the closing of the Capital One
   facility,” Howerton said.
 </p>
-```
+ 

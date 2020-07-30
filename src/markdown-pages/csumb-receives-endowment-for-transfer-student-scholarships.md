@@ -13,4 +13,4 @@ date: January 01 2020
   transfer from two-year community colleges to a CSU or UC campus. –
   <em>The Salinas Californian</em>, July 26, 2012
 </p>
-```
+ 

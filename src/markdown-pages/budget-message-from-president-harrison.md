@@ -47,4 +47,4 @@ date: January 01 2020
   interests of our students and the entire university in mind as we weigh our
   options. Sincerely, Dianne F. Harrison, Ph.D. President
 </p>
-```
+ 

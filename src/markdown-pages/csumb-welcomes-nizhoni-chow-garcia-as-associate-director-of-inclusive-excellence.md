@@ -42,4 +42,4 @@ date: January 01 2020
   Year Award. In her spare time, Chow-Garcia can be found running after her
   toddler, traveling and learning how to paddle board.
 </p>
-```
+ 

@@ -46,4 +46,4 @@ date: January 01 2020
   tear open a painful and long ignored history: the lynching of Mexican
   Americans in the southwest.
 </p>
-```
+ 

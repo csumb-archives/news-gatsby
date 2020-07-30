@@ -342,4 +342,4 @@ slug: topic-list
 <h4>The current state of the economy</h4>
 <p>A discussion of current economic data and its meaning for business.</p>
 <p>Presented by Dr. Brad Barbeau</p>
-```
+ 

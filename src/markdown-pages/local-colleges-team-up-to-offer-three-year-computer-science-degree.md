@@ -9,4 +9,4 @@ date: January 01 2020
   CSU Monterey Bay and Hartnell College are joining forces on a program, called
   "CSIT-in-3," next fall. – <em>Monterey County Weekly</em>, Dec. 13, 2012
 </p>
-```
+ 

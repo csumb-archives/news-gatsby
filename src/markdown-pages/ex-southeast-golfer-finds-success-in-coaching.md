@@ -12,4 +12,4 @@ date: January 01 2020
   program at Cal State University, Monterey Bay, located in Seaside, Calif. –
   <em>Southeast Missourian</em>, June 19, 2013
 </p>
-```
+ 

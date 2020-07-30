@@ -16,4 +16,4 @@ date: January 01 2020
   The Associated Students' Environmental Committee has a variety of activities
   planned for the week:
 </p>
-```
+ 

@@ -73,4 +73,4 @@ slug: csumb-adds-two-more-fully-online-graduate-degrees
   call 1-800-247-5268 to speak with a Cal State Online coach.
 </p>
 <p>The university has offered an online MBA program since 2008.</p>
-```
+ 

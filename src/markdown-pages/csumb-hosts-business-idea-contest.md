@@ -10,4 +10,4 @@ date: January 01 2020
   The university will host a Startup Weekend – a 54-hour frenzy to come up with
   a winning business idea. – <em>Monterey Herald</em>, Jan. 17, 2014
 </p>
-```
+ 

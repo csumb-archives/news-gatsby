@@ -10,4 +10,4 @@ date: January 01 2020
   emphasized his enthusiasm for 'disruptive innovation' and how that could be
   applied to revolutionize teaching. – <em>Monterey Herald</em>, March 28, 2013
 </p>
-```
+ 

@@ -11,4 +11,4 @@ date: January 01 2020
   the NCAA Division II National Championship. – <em>Monterey Herald</em>, May 8,
   2014
 </p>
-```
+ 

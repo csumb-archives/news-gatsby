@@ -77,4 +77,4 @@ date: January 01 2020
   available <a href="https://scienceillustration.org">here</a>.
 </p>
 <p><em>Top photo: Keller sketching at Point Lobos</em></p>
-```
+ 

@@ -47,4 +47,4 @@ date: January 01 2020
   meet CSU and state recycling requirements and helps our community,” Spear
   said.
 </p>
-```
+ 

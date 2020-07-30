@@ -35,4 +35,4 @@ this spring while continuing to pursue his art.</p>
 he said. &#x201C;It is cool to be able to talk to people who are working
 artists.&#x201D;<br>
 &#xA0;</br></p>
-```
+ 

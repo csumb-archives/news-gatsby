@@ -64,4 +64,4 @@ Humanities and Social Sciences, InterClub Council, Psi Chi, Kinship
 Center, Psychology Society, Dr. Jill Yamashita, Dr. Jennifer
 Dyer-Seymour, Dr. Armando Arias, Student Activities and the
 Division o</p>
-```
+ 

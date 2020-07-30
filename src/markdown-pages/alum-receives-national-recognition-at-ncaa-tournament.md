@@ -41,4 +41,4 @@ date: January 01 2020
   Washington universities –he joined his wife’s staff at Gonzaga last year.
 </p>
 <p>The couple have three children.</p>
-```
+ 

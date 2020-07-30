@@ -15,4 +15,4 @@ date: January 01 2020
   JanRae Gallery in Oakland, recently served as a juror for The Art of Living
   Black, and was a review panelist for the San Francisco Art Commission.
 </p>
-```
+ 

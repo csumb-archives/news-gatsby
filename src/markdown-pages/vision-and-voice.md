@@ -48,4 +48,4 @@ date: January 01 2020
     >Learn about Social, Behavioral and Global Studies at CSUMB</a
   >
 </p>
-```
+ 

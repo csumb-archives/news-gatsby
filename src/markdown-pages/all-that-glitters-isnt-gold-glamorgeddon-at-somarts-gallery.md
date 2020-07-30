@@ -14,4 +14,4 @@ date: January 01 2020
   Curatorial Residency exhibitions.
 </p>
 <p>– <em>KQED</em>, Jan. 14, 2015</p>
-```
+ 

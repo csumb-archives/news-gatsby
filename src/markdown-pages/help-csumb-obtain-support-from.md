@@ -44,4 +44,4 @@ date: January 01 2020
   action to stop adding global warming pollution to the atmosphere.
 </p>
 <p>"CSUMB is committed to leading the way."</p>
-```
+ 

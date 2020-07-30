@@ -52,6 +52,6 @@ President Eduardo Ochoa a proclamation thanking the university for
 its help with a city project</em><br>
 &#xA0;</br></p>
 
-```
+ 
 
-```
+ 

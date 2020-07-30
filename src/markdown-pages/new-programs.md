@@ -10,4 +10,4 @@ date: January 01 2020
   and family studies.
 </p>
 <p>– <em>Inside Higher Ed</em>, Feb. 9, 2016</p>
-```
+ 

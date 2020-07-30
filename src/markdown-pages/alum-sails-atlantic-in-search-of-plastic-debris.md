@@ -58,4 +58,4 @@ date: January 01 2020
   permission. Top photo: Elizabeth Rosevelt Bottom photo: Rosevelt and other
   volunteers headed to Iceland on the sailing vessel Sea Dragon&#42;
 </p>
-```
+ 

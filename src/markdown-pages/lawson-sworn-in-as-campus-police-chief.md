@@ -43,4 +43,4 @@ date: January 01 2020
   criminal justice. His extensive professional education includes training at
   the FBI National Academy. He started his law enforcement career in 1993.
 </p>
-```
+ 

@@ -12,4 +12,4 @@ date: January 01 2020
   ceremony.
 </p>
 <p>– <em>Monterey Herald</em>, May 16, 2015</p>
-```
+ 

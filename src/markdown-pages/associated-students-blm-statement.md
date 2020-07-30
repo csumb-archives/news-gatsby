@@ -70,4 +70,4 @@ date: January 01 2020
 </p>
 <p><b>In solidarity,</b></p>
 <p><b>Associated Students (2020-2021)</b></p>
-```
+ 

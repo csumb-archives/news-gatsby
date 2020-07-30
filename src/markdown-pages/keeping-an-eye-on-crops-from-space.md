@@ -11,4 +11,4 @@ date: January 01 2020
   to use on their crops. It's a tool that could eventually help growers anywhere
   save on a precious resource. – <em>NPR's California Report,</em> July 17, 2012
 </p>
-```
+ 

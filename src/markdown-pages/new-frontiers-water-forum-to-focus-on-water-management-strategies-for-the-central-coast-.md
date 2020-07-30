@@ -74,4 +74,4 @@ date: January 01 2020
   event is made possible by grants from the Lenore and Dale Meyer Fund of the
   Community Foundation for Monterey County.
 </p>
-```
+ 

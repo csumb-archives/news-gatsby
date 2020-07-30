@@ -42,4 +42,4 @@ date: January 01 2020
 </p>
 <p>The Lambda award winners will be announced in June.</p>
 <p><em>Published March 8, 2016</em></p>
-```
+ 

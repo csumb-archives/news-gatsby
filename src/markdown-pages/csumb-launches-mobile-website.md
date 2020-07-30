@@ -12,4 +12,4 @@ date: January 01 2020
   Android-based smart phones and tablets using the devices' built-in web
   browser. – The Salinas Californian, May 12, 2011
 </p>
-```
+ 

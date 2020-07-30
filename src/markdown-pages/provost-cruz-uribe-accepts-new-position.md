@@ -53,4 +53,4 @@ date: January 01 2020
   will take place during the next academic year. Plans are under way to fill Dr.
   Cruz-Uribe's position on an interim basis by the time she departs.
 </p>
-```
+ 

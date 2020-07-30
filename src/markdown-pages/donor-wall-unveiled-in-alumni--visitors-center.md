@@ -27,4 +27,4 @@ date: January 01 2020
   donations, but it has not been updated since 2006. It will remain there, but
   will no longer be the memorial of record for future contributions.
 </p>
-```
+ 

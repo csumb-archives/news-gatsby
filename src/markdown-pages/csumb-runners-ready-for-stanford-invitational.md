@@ -11,4 +11,4 @@ date: January 01 2020
   gearing up for Saturday's Stanford Invitational. –
   <em>Monterey Herald,</em> Sept. 28, 2012
 </p>
-```
+ 

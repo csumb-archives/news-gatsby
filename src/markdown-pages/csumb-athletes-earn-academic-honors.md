@@ -10,4 +10,4 @@ date: January 01 2020
   student-athletes were selected for CCAA all-academic teams. –
   <em>The Salinas Californian</em>, Dec. 19, 2014
 </p>
-```
+ 

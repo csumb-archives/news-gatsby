@@ -63,4 +63,4 @@ date: January 01 2020
   included the university’s first Super Regional title and its second
   consecutive California Collegiate Athletic Association championship.
 </p>
-```
+ 

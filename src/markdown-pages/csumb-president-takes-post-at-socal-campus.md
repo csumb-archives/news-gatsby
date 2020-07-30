@@ -12,4 +12,4 @@ date: January 01 2020
   Northridge starting in June. – <em>The Salinas Californian</em>, March 23,
   2012
 </p>
-```
+ 

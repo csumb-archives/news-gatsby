@@ -14,4 +14,4 @@ date: January 01 2020
   Bay chosen to spend the next year in Japan.
 </p>
 <p>– <em>The Salinas Californian</em>, June 5, 2015</p>
-```
+ 

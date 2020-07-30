@@ -56,4 +56,4 @@ date: January 01 2020
   faithful to the solemn oath he will take on January 20: to preserve, protect
   and defend the Constitution of the United States.
 </p>
-```
+ 

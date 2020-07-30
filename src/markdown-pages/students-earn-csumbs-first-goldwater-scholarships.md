@@ -44,4 +44,4 @@ date: January 01 2020
   and Jordan were the only 2016 Goldwater awardees in the entire CSU system.”
 </p>
 <p><em>Published April 4, 2016</em></p>
-```
+ 

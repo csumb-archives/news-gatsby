@@ -173,4 +173,4 @@ date: January 01 2020
   Times bestseller "Chicken Soup for the Sports Fan's Soul." He currently writes
   a weekly column in the Monterey County Herald, "Tunney Side."
 </p>
-```
+ 

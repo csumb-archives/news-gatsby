@@ -32,4 +32,4 @@ date: January 01 2020
   world joy this holiday season and a happy new year.
 </p>
 <p><b>Eduardo M. Ochoa</b>, President CSU, Monterey Bay</p>
-```
+ 

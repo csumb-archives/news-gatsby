@@ -18,4 +18,4 @@ date: January 01 2020
   Gen. Jim Moore Boulevard will be closed north of Inter&#45;Garrison Road
   during this time. However, the North Quad parking lots will remain accessible.
 </p>
-```
+ 

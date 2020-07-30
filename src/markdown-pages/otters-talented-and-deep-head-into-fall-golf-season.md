@@ -11,4 +11,4 @@ date: January 01 2020
   as they embark upon the fall schedule of the men's golf season. –
   <em>Monterey Herald</em>, Aug. 21, 2014
 </p>
-```
+ 

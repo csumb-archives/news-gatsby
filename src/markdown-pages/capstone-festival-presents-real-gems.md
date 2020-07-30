@@ -28,4 +28,4 @@ date: January 01 2020
   The campuswide <a href="https://csumb.edu/capstone">Capstone Festival</a> will
   take place on Thursday and Friday, May 20 and 21.
 </p>
-```
+ 

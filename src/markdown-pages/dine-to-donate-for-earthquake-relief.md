@@ -46,4 +46,4 @@ date: January 01 2020
   To view a video made by CSUMB Strategic Communications, click
   <a href="https://www.youtube.com/watch?v=GvBxchvVoJU">here</a>.
 </p>
-```
+ 

@@ -22,4 +22,4 @@ date: January 01 2020
   Students.
 </p>
 <p><em>Photo shows Second Avenue, west of campus</em></p>
-```
+ 

@@ -171,4 +171,4 @@ date: January 01 2020
   (Sources: President Harrison's State of the University address; Campus
   Chronicles; university news releases)
 </p>
-```
+ 

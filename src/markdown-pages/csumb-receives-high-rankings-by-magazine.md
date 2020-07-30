@@ -12,4 +12,4 @@ date: January 01 2020
   2011 College Guide published this week. – <em>The Salinas Californian</em>,
   Sept. 3, 2011
 </p>
-```
+ 

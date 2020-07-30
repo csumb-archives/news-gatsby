@@ -13,4 +13,4 @@ date: January 01 2020
   Your hard work and endurance has paid off, and you are now part of the CSUMB
   alumni network. We look forward to connecting with you.
 </p>
-```
+ 

@@ -11,4 +11,4 @@ date: January 01 2020
   ranked team (Chico State again), their first regional ranking.
   <em>– The Salinas Californian</em>, Oct. 29, 2012
 </p>
-```
+ 

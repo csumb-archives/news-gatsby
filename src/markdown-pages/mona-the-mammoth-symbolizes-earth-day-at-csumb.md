@@ -33,4 +33,4 @@ date: January 01 2020
 <p>• Mammoth tour and artists' presentations April 22, 4-5 p.m.</p>
 <p>• Relocation reception May 17, noon-2:30 p.m.</p>
 <p><em>Photos courtesy of Visual and Public Art Department</em></p>
-```
+ 

@@ -81,4 +81,4 @@ date: January 01 2020
   uninviting,” said junior Madison Gipe. “This one is really geared for
   students. And they serve the best coffee. I’m in here nearly every day.”
 </p>
-```
+ 

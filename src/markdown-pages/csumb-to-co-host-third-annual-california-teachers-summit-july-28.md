@@ -44,4 +44,4 @@ date: January 01 2020
   Teachers will walk away with access to new resources and concrete tools that
   they can use to implement the California Standards in their classrooms.
 </p>
-```
+ 

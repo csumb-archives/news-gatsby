@@ -44,4 +44,4 @@ date: January 01 2020
   advice from lenders; a look at crowdfunding; and protecting intellectual
   property.
 </p>
-```
+ 

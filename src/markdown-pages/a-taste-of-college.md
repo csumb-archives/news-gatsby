@@ -10,4 +10,4 @@ date: January 01 2020
   sorrounding areas descended into CSUMB Tuesday to help them hone their writing
   skills in a college environment. – Monterey Herald, March 23, 2011
 </p>
-```
+ 

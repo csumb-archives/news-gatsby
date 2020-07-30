@@ -11,4 +11,4 @@ date: January 01 2020
   was the Otters' first in a rivalry that dates to program's inception in 2005.
   – <em>The Salinas Californian</em>, Feb. 6, 2012
 </p>
-```
+ 

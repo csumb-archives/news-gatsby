@@ -25,4 +25,4 @@ date: January 01 2020
   translates to policy,” Hallenbeck said, “and will put to good use all the
   skills and experiences I have gained from being at CSUMB.”
 </p>
-```
+ 

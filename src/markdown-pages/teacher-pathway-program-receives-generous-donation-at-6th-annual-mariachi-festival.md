@@ -50,4 +50,4 @@ date: January 01 2020
   “The University and the College of Education are most grateful for the support
   and investment made in this transformative program,” Alvarado added.
 </p>
-```
+ 

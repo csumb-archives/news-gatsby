@@ -35,4 +35,4 @@ date: January 01 2020
   More information is available
   <a href="https://business.csumb.edu/school-business-showcase">here</a>.
 </p>
-```
+ 

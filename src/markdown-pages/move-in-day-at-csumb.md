@@ -10,4 +10,4 @@ date: January 01 2020
   into the residence halls at CSU Monterey Bay on Aug. 24, the first day of the
   three-day move-in weekend. – <em>Marina Gazette</em>, Sept. 3, 2012
 </p>
-```
+ 

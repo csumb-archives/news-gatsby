@@ -18,6 +18,6 @@ Paycheck Away,&quot; meaning that a significant segment of the workforce
 is one paycheck away from losing their homes.<br>
 &#x2013; The Salinas Californian, Nov. 16, 2006<br/></br>
 
-```
+ 
 
-```
+ 

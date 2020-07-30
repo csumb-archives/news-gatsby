@@ -61,4 +61,4 @@ date: January 01 2020
   State Monterey Bay Kenny Pigman, Cal State San Bernardino Teddy Schrior, Cal
   State Stanislaus Kyle Souza, Chico State Scott Yeakel, Cal State Monterey Bay
 </p>
-```
+ 

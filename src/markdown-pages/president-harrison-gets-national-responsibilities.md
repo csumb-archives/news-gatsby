@@ -33,4 +33,4 @@ date: January 01 2020
   She also serves on the NCAA’s Student-Athlete Advisory Council as an
   ex-officio member representing the Presidents Council.
 </p>
-```
+ 

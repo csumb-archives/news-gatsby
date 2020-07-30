@@ -13,4 +13,4 @@ date: January 01 2020
   in constant conflict with governors and military commanders in New Spain over
   how they were treating Indians." – Seattle Times, Jan. 17, 2015
 </p>
-```
+ 

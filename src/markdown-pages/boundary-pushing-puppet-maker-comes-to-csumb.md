@@ -10,4 +10,4 @@ date: January 01 2020
   new generation of artists who are finding interesting ways to tailor their
   craft for the camera. – <em>Monterey Herald,</em> April 10, 2014
 </p>
-```
+ 

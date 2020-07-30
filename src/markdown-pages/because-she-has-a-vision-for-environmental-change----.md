@@ -10,4 +10,4 @@ date: January 01 2020
   strides in reducing the campus' carbon footprint. –
   <em>Monterey County Weekly</em>, Oct. 31, 2013
 </p>
-```
+ 

@@ -85,4 +85,4 @@ date: January 01 2020
 <p>
   "Operationally, writing a single, short word on data sheets would be easier."
 </p>
-```
+ 

@@ -26,4 +26,4 @@ date: January 01 2020
   capstone presentations in all academic departments, click
   <a href="https://csumb.edu/capstone">here</a>.
 </p>
-```
+ 

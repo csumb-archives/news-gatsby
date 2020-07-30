@@ -11,4 +11,4 @@ date: January 01 2020
   a story about the canonization of Serra.
 </p>
 <p>– <em>Orange County Register</em>, Sept. 19, 2015</p>
-```
+ 

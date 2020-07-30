@@ -11,4 +11,4 @@ date: January 01 2020
   the regional at The Home Course in Dupont, Wash., to knock off runner-up
   Western Washington by a stroke. – <em>Monterey Herald</em>, May 9, 2013
 </p>
-```
+ 

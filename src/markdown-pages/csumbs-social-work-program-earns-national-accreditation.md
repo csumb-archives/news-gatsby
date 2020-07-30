@@ -12,4 +12,4 @@ date: January 01 2020
   initial accreditation through February 2018. – <em>Monterey Herald</em>, June
   22, 2014
 </p>
-```
+ 

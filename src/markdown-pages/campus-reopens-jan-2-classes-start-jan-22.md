@@ -14,4 +14,4 @@ date: January 01 2020
   Spring semester move-in day for Main Campus residence halls is Jan. 18.
   Classes will start on Jan. 22.
 </p>
-```
+ 

@@ -40,4 +40,4 @@ date: January 01 2020
   million, to be split evenly between direct relief to the students and
   supporting university operating costs.
 </p>
-```
+ 

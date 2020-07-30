@@ -10,4 +10,4 @@ date: January 01 2020
   at Keene State in New Hampshire.
 </p>
 <p>– <em>Monterey Herald</em>, April 17, 2016</p>
-```
+ 

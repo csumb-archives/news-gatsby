@@ -43,4 +43,4 @@ date: January 01 2020
   or beacon and through both lenses light shines through toward the sky of
   unlimited possibility.
 </p>
-```
+ 

@@ -16,4 +16,4 @@ spending money. Instead, he combed the Yellow Pages and Internet
 looking for modeling agencies &quot;just kind of to see what was out
 there.&quot;<br>
 &#x2013; Monterey County Herald, Dec. 19, 2006<br/></br>
-```
+ 

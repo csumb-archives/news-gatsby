@@ -9,4 +9,4 @@ date: January 01 2020
   . . . CSUMB accepts 19 associate degrees for transfer. –
   <em>Monterey County Weekly,</em> March 27, 2014
 </p>
-```
+ 

@@ -12,4 +12,4 @@ date: January 01 2020
   reaffirmed the university's accreditation for eight more years. – San Jose
   Mercury News, Aug. 1, 2011
 </p>
-```
+ 

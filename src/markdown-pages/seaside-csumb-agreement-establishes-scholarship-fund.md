@@ -11,4 +11,4 @@ date: January 01 2020
   to $500,000 for a scholarship program for Seaside youth.
 </p>
 <p>– <em>Monterey Herald</em>, April 21, 2016</p>
-```
+ 

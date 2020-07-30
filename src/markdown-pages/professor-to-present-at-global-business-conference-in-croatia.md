@@ -10,4 +10,4 @@ date: January 01 2020
   CSUMB is leaving for Dubrovnic, Croatia, to continue his passion for lecturing
   to the international community. –* Benito Link*, Sept. 23, 2014
 </p>
-```
+ 

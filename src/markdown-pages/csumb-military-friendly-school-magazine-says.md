@@ -12,4 +12,4 @@ date: January 01 2020
   America's military members, beterans and their spouses as students. –
   <em>The Salinas Californian,</em> Sept. 20, 2012
 </p>
-```
+ 

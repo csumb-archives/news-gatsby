@@ -10,4 +10,4 @@ date: January 01 2020
   "military-friendly school" by G.I. Jobs magazine. –* The Salinas Californian*,
   Sept. 16, 2013
 </p>
-```
+ 

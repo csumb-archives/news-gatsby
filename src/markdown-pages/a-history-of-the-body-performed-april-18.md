@@ -47,4 +47,4 @@ date: January 01 2020
 <p>
   <em>Photo by Noemi Enriquez Frances Sedayao (standing) and Aimee Suzara</em>
 </p>
-```
+ 

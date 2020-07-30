@@ -62,4 +62,4 @@ date: January 01 2020
   past 35 years in an effort to help prospective students and their families
   decide which institution best suits their needs.
 </p>
-```
+ 

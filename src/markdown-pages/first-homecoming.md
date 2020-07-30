@@ -30,4 +30,4 @@ date: January 01 2020
   and conclude on Oct. 8. A complete list of events can be found at
   <a href="https://csumb.edu/homecoming">https://csumb.edu/homecoming</a>.
 </p>
-```
+ 

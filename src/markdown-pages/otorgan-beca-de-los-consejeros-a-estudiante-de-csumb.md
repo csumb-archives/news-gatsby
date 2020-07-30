@@ -10,4 +10,4 @@ date: January 01 2020
   Bahia de Monterey (CSUMB), quien se dedica a ayudar a otros, fue declarada
   ganadora de una prestigiosa beca. – <em>El Sol,</em> Oct. 5, 2013
 </p>
-```
+ 

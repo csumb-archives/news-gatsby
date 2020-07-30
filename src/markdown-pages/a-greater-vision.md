@@ -58,4 +58,4 @@ date: January 01 2020
 <p>9:45&#45;11 a.m. – Panel discussion</p>
 <p>11&#45;noon – Q&#45;and&#45;A moderated by Dennis Donohue</p>
 <p>Noon&#45;2 p.m. – Expo reopens</p>
-```
+ 

@@ -42,4 +42,4 @@ date: January 01 2020
     >Learn about the Africana Studies concentration at CSUMB.</a
   >
 </p>
-```
+ 

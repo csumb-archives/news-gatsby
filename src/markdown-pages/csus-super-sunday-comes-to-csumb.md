@@ -52,4 +52,4 @@ date: January 01 2020
     >See the full list of Super Sunday partner churches</a
   >.
 </p>
-```
+ 

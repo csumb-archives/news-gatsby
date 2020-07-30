@@ -10,4 +10,4 @@ date: January 01 2020
   nurses who want to ear bachelor's degrees on top of their associate's degrees.
   – <em>Monterey County Weekly</em>, Feb. 1, 2014
 </p>
-```
+ 

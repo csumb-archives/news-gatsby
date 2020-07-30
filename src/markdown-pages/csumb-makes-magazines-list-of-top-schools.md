@@ -28,4 +28,4 @@ date: January 01 2020
   “We rate colleges on who’s offering the best value, so students and taxpayers
   get a bigger bang for their buck,” the magazine’s editors said.
 </p>
-```
+ 

@@ -94,4 +94,4 @@ date: January 01 2020
   decisions based on the recommendations of public health professionals to
   mitigate the effect on the CSUMB community.
 </p>
-```
+ 

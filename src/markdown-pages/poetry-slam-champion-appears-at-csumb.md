@@ -24,4 +24,4 @@ date: January 01 2020
   countless workshops. He continues to tour the globe.
 </p>
 <p>For more information, contact Shanna Kinzel at skinzel@csumb.edu</p>
-```
+ 

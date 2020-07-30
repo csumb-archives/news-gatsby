@@ -53,6 +53,6 @@ item, a time when people are acknowledged for serving the community
 and for being role models.&#xA0;</p>
 <p>More information is available <a href="https://www.calstate.edu/foundation/hearst/" rel="nofollow">here</a>.&#xA0;</p>
 
-```
+ 
 
-```
+ 

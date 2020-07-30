@@ -42,4 +42,4 @@ date: January 01 2020
   accommodations or for more information, please call CSUMB @ Salinas City
   Center at 831&#45;772&#45;7021 or email tslaton@csumb.edu.
 </p>
-```
+ 

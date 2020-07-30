@@ -12,4 +12,4 @@ date: January 01 2020
   environmental stewardship.”
 </p>
 <p>– <em>Salinas Californian</em>, April 2, 2016</p>
-```
+ 

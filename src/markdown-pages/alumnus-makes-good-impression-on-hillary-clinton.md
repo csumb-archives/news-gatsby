@@ -37,4 +37,4 @@ date: January 01 2020
   promising CEOs under 40.
 </p>
 <p><em>Nov. 5, 2015</em></p>
-```
+ 

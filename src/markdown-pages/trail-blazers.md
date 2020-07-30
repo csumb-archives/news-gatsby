@@ -17,4 +17,4 @@ date: January 01 2020
   Fort Ord Rec Trail and Greenway, aka FORTAG. – &#42;Monterey County
   Weekly&#42;, Dec. 4, 2014
 </p>
-```
+ 

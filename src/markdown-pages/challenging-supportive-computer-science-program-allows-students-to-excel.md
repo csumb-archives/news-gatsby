@@ -12,4 +12,4 @@ date: January 01 2020
   classes.
 </p>
 <p>– <em>Insight Into Diversity</em>, October 2015</p>
-```
+ 

@@ -39,4 +39,4 @@ date: January 01 2020
   The World Theater is located on Sixth Avenue near A Street on the CSUMB
   campus. Driving directions and a campusmap are available at csumb.edu/maps.
 </p>
-```
+ 

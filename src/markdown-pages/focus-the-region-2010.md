@@ -96,4 +96,4 @@ date: January 01 2020
   Nation, an effort that saw more than a thousand colleges and universities
   across the country examine the issue on the same day.
 </p>
-```
+ 

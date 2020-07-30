@@ -47,4 +47,4 @@ date: January 01 2020
   <a href="https://www.ncdgc.com/">National Collegiate Disc Gold Championships</a
   >.
 </p>
-```
+ 

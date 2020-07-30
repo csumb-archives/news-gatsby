@@ -41,4 +41,4 @@ slug: apply-now-for-instructional-science-technology-program
   582-4741, or by e-mailing <a href="mailto:mist@csumb.edu">mist@csumb.edu</a>.
 </p>
 <p>Driving directions and a campus map are available at csumb.edu/map.</p>
-```
+ 

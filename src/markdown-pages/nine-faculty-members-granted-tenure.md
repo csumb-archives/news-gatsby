@@ -23,4 +23,4 @@ date: January 01 2020
   Stromberg, both of the Division of Humanities and Communication; and Dr. Rob
   Weisskirch, Liberal Studies Department, were promoted to full professor.
 </p>
-```
+ 

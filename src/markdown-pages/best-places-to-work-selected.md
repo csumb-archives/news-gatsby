@@ -9,4 +9,4 @@ date: January 01 2020
   CSUMB has been named a Best Place to Work in a survey commissioned by the
   Monterey County Business Council. – <em>Monterey Herald</em>, Aug. 28, 2013
 </p>
-```
+ 

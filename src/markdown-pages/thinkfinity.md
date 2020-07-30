@@ -66,4 +66,4 @@ date: January 01 2020
   provides training in new technologies and assists faculty in incorporating
   innovative tools within their teaching.
 </p>
-```
+ 

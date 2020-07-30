@@ -41,4 +41,4 @@ date: January 01 2020
   to submit applications. More information is available by calling the CSUMB
   Office of Admissions at 831-582-3738.
 </p>
-```
+ 

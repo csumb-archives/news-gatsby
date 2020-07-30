@@ -51,4 +51,4 @@ date: January 01 2020
   The lecture is sponsored by the Tribeta Honor Society and the Pre-Med Club.
   For more information, contact Dr. Aparna Sreenivasan at 582-3210.
 </p>
-```
+ 

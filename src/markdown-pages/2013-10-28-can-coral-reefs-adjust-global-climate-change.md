@@ -70,4 +70,4 @@ could reduce the currently projected rate of bleaching by 20 to 80
 percent of levels expected by the year 2100 if there are large
 reductions in carbon dioxide emissions.</p>
 <p>The article calls for </p>
-```
+ 

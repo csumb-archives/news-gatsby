@@ -59,4 +59,4 @@ date: January 01 2020
   >&#42;Left to right: Jade Fackler, Gabriela Guzman, Monica Nicholas, Dean
   Britt Rios&#45;Ellis, Congressman Jim Clyburn, Kendra Contente&#42;
 </p>
-```
+ 

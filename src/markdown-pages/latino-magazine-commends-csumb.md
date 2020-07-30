@@ -28,4 +28,4 @@ date: January 01 2020
   California State University conferred 57 percent of the state's bachelor's
   degrees earned by Hispanics.
 </p>
-```
+ 

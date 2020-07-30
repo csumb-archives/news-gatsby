@@ -43,4 +43,4 @@ date: January 01 2020
 <p><em>Above: From Tara Diego's animation, Monterey Meltdown</em></p>
 <p><em>Video: Trailer for Let Go, directed by Tyler Franta</em></p>
 <p></p>
-```
+ 

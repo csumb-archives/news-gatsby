@@ -38,4 +38,4 @@ date: January 01 2020
   He used an internal Faculty Research, Scholarship and Creative Activity grant
   to do preliminary work on the project.
 </p>
-```
+ 

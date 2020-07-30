@@ -12,4 +12,4 @@ date: January 01 2020
   descriptions of ingredients on a product. – <em>Monterey Herald</em>, Feb. 1,
   2014
 </p>
-```
+ 

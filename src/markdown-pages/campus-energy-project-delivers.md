@@ -23,4 +23,4 @@ date: January 01 2020
   year the university has been honored by the business council for its work in
   reducing energy consumption.
 </p>
-```
+ 

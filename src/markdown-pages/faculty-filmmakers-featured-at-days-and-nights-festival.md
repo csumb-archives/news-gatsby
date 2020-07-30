@@ -100,4 +100,4 @@ date: January 01 2020
     ><em>More faculty news</em></a
   >
 </p>
-```
+ 

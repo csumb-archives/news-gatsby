@@ -39,4 +39,4 @@ date: January 01 2020
 <p>• 5:45&#45;6:30 p.m. – Panel discussion</p>
 <p>• 6:30&#45;7 p.m. – Reception</p>
 <p>• 7:15&#45;8:45 p.m. – Second screening</p>
-```
+ 

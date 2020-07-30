@@ -27,4 +27,4 @@ date: January 01 2020
   The campus is invited to attend a public dedication of the mural at 2:30 p.m.
   on Tuesday, Dec. 12.
 </p>
-```
+ 

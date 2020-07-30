@@ -12,4 +12,4 @@ date: January 01 2020
   has put a bid in to host the NCAA Division II regionals. –
   <em>Monterey Herald</em>, Feb. 20, 2011
 </p>
-```
+ 

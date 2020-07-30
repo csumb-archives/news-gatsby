@@ -55,4 +55,4 @@ date: January 01 2020
   charitable trust and estate, left the university $4 million to be used for
   scholarships.
 </p>
-```
+ 

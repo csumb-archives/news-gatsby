@@ -26,4 +26,4 @@ date: January 01 2020
   For more information, please call 582-3005; a map of campus is available at
   csumb.edu/map.
 </p>
-```
+ 

@@ -51,4 +51,4 @@ date: January 01 2020
   >
   – Wendi Goodman, 18-year Army veteran, author of One Weary Soldier blog
 </p>
-```
+ 

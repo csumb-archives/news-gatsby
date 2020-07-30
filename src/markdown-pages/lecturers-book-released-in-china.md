@@ -33,4 +33,4 @@ date: January 01 2020
   At CSUMB, Dr. Sayad teaches human sexuality, women's health, marriage and
   family, and wellness with a focus on service learning.
 </p>
-```
+ 

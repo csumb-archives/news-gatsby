@@ -26,4 +26,4 @@ date: January 01 2020
   Students also reported proficiency in American Sign Language, French, Italian,
   Russian and Tagalog.
 </p>
-```
+ 

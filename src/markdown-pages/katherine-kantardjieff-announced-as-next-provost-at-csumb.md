@@ -42,4 +42,4 @@ date: January 01 2020
   Dr. Kantardjieff joins the CSUMB Academic Affairs division as a highly
   recognized academic.
 </p>
-```
+ 

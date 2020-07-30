@@ -71,4 +71,4 @@ date: January 01 2020
   find vegan-friendly food. "They even have artichokes that rival the Central
   Coast of California," she said in her post.
 </p>
-```
+ 

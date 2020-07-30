@@ -20,4 +20,4 @@ slug: campus-closed-for-holidays-through-jan.-2
   Friday, Jan. 2.
 </p>
 <p>Spring semester classes will start on Jan. 20.</p>
-```
+ 

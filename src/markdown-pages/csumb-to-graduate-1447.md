@@ -11,4 +11,4 @@ date: January 01 2020
   Salinas will join 1,446 other graduates at the 18th commencement ceremonies at
   Cal State Monterey Bay. –* The Salinas Californian*, May 13, 2014
 </p>
-```
+ 

@@ -76,4 +76,4 @@ date: January 01 2020
   and can be made online at csumb.edu/speakers. For more information, or to
   request disability accommodations, call (831) 582-4580.
 </p>
-```
+ 

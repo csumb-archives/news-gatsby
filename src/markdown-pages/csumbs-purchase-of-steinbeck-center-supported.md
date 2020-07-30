@@ -10,4 +10,4 @@ date: January 01 2020
   National Steinbeck Center to CSU Monterey Bay. –
   <em>The Salinas Californian</em>, Oct. 15, 2014
 </p>
-```
+ 

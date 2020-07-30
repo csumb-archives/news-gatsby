@@ -67,4 +67,4 @@ date: January 01 2020
   naturalist for National Geographic on a cruise to the Antarctic.
 </p>
 <p><em>– Story and photo by Bart Kowalski</em></p>
-```
+ 

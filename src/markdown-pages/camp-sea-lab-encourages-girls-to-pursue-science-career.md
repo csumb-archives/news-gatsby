@@ -11,4 +11,4 @@ date: January 01 2020
   science. Camp SEA Lab summer camp is put on by CSU Monterey Bay; it encourages
   teenage girls to pursue careers in science. – <em>KION-TV</em>, July 14, 2014
 </p>
-```
+ 

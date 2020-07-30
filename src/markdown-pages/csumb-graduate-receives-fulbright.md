@@ -11,4 +11,4 @@ date: January 01 2020
   cum laude with a degree in visual and public art. –
   <em>The Salinas Californian</em>, Sept. 1, 2011
 </p>
-```
+ 

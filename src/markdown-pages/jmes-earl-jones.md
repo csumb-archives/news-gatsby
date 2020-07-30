@@ -50,4 +50,4 @@ date: January 01 2020
   Information Technology and Communications Design. Barbara Starr is senior
   project manager for the Thinkfinity Project.
 </p>
-```
+ 

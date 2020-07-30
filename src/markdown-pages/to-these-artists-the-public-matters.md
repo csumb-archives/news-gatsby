@@ -60,4 +60,4 @@ date: January 01 2020
   On March 26, Rigo 23, a muralist, painter and political artist, will visit
   campus. This semester’s series concludes with the April 9 presentation.
 </p>
-```
+ 

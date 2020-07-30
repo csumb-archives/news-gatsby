@@ -12,4 +12,4 @@ date: January 01 2020
   Benito and Santa Cruz counties. – <em>The Salinas Californian</em>, Aug. 22,
   2012 (op-ed by President Eduardo Ochoa)
 </p>
-```
+ 

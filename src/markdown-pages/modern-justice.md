@@ -11,4 +11,4 @@ date: January 01 2020
   students and activists, followed by audience comments and questions. –
   <em>Monterey County Weekly</em>, April 10, 2014
 </p>
-```
+ 

@@ -47,4 +47,4 @@ date: January 01 2020
   <a href="https://csumb.edu/hcom">School of Humanities and Communication</a>
   served as faculty mentor for Yollette Merritt.
 </p>
-```
+ 

@@ -10,4 +10,4 @@ date: January 01 2020
   in-state students about $6,000 in annual tuition and fees . . . –
   <em>Fresno Bee,</em> July 8, 2013
 </p>
-```
+ 

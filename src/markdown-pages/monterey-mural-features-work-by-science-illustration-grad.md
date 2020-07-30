@@ -39,4 +39,4 @@ date: January 01 2020
   make it as accurate as possible,”she told the Monterey Herald. “It was a
   little idealized, but I think that adds to it and makes it a little more fun.”
 </p>
-```
+ 

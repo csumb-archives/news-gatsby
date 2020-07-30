@@ -12,4 +12,4 @@ date: January 01 2020
   stint at 1600 Pennsylvania Avenue is the best and most exhausting thing she’s
   ever done. – <em>Santa Ynez Valley News</em>, Jan. 19, 2012
 </p>
-```
+ 

@@ -20,4 +20,4 @@ date: January 01 2020
   He replaces Tony Boles, who plans to return to Southern California to be
   closer to his family.
 </p>
-```
+ 

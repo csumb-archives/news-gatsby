@@ -38,4 +38,4 @@ date: January 01 2020
   visit his <a href="https://www.laniersammons.com/Main/">website</a>.
   <em>Photo courtesy of Dr. Sammons</em>
 </p>
-```
+ 

@@ -55,4 +55,4 @@ date: January 01 2020
   live in a community that acknowledges and supports my struggles as a veteran,”
   Cusson said. <em>– By Molly Nance, University Advancement</em>
 </p>
-```
+ 

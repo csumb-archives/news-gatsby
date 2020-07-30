@@ -14,4 +14,4 @@ date: January 01 2020
   golf team as it captured the university's first NCAA title. – The Salinas
   Californian, Aug. 19, 2011
 </p>
-```
+ 

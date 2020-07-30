@@ -35,4 +35,4 @@ here</a>.&#xA0;</p>
 the Visual and Public Art Department</a></p>
 <p><em>Image: Angela Bomarito, Majesty, Acrylic on canvas<br>
 &#xA0;</br></em></p>
-```
+ 

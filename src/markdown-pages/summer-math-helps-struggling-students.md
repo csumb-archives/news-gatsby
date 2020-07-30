@@ -10,4 +10,4 @@ date: January 01 2020
   boost their math skills and earn a year's worth of math credit this summer. –
   <em>The Salinas Californian</em>, June 23, 2012
 </p>
-```
+ 

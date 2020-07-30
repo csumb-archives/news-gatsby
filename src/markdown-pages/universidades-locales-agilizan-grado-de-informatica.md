@@ -10,4 +10,4 @@ date: January 01 2020
   permitir que los estudiantes se conviertan en cientificos de informatica en
   tan solo 36 meses. – <em>El Sol,</em> Dec. 15, 2012
 </p>
-```
+ 

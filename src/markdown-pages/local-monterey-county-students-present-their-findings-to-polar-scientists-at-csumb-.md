@@ -39,4 +39,4 @@ date: January 01 2020
   interpreting data, and planning and implementing science investigations, which
   are all important objectives of the Next Generation Science Standards.
 </p>
-```
+ 

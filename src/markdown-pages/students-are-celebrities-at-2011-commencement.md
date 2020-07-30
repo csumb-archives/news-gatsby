@@ -98,4 +98,4 @@ date: January 01 2020
   university. Dr. Scott Waltz was acknowledged for winning this year’s Griffin
   Award for outstanding teaching.
 </p>
-```
+ 

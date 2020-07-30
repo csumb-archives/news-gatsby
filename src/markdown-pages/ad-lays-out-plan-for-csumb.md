@@ -10,4 +10,4 @@ date: January 01 2020
   the sense that "hardworking" doesn't begin to describe him.
   <em>– The Salinas Californian, Sept. 3, 2012</em>
 </p>
-```
+ 

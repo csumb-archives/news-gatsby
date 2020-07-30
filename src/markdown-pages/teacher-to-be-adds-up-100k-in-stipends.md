@@ -58,4 +58,4 @@ date: January 01 2020
     a Bachelor of Science in Mathematics and a minor in Human Development
   </em>
 </p>
-```
+ 

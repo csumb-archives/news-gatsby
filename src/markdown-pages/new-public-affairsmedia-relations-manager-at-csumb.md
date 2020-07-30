@@ -26,4 +26,4 @@ date: January 01 2020
   Monterey Bay communities and excited to start promoting the important work
   being done at CSUMB.
 </p>
-```
+ 

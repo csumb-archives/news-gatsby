@@ -10,4 +10,4 @@ date: January 01 2020
   CSU Monterey Bay, got a MacArthur Fellowship in 1992.
 </p>
 <p>– <em>Monterey County Weekly</em>, Jan. 22, 2015</p>
-```
+ 

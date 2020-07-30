@@ -11,4 +11,4 @@ date: January 01 2020
   The money will allow students in South Monterey County, Salinas and Seaside to
   be served by the GEAR UP program. – <em>Off 68</em>, Oct. 10, 2014
 </p>
-```
+ 

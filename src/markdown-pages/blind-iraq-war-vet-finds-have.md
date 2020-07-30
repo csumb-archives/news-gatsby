@@ -12,4 +12,4 @@ date: January 01 2020
   . . working toward a bachelor's degree in computer software engineering. –
   <em>Monterey Herald</em>, Nov. 12, 2012
 </p>
-```
+ 

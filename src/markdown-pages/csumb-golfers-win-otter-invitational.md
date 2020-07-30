@@ -10,4 +10,4 @@ date: January 01 2020
   Southeastern and win the Otter Invitational at Bayonet Golf Course. –
   <em>Monterey Herald</em>, Oct. 24, 2012
 </p>
-```
+ 

@@ -77,4 +77,4 @@ date: January 01 2020
   Learn more about the nursing program
   <a href="https://csumb.edu/nursing">here</a>.
 </p>
-```
+ 

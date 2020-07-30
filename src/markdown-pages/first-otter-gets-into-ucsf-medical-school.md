@@ -12,4 +12,4 @@ date: January 01 2020
   medical school, confirms she is, but it wasn't always that way. – Monterey
   Herald, Jan. 8, 2013
 </p>
-```
+ 

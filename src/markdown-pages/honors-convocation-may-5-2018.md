@@ -64,4 +64,4 @@ date: January 01 2020
   student-athlete in recognition of exemplary academic achievement:
   <strong>Lucy Gates, </strong>Kinesiology.
 </p>
-```
+ 

@@ -12,4 +12,4 @@ date: January 01 2020
   "see" pictures and icons by making sure images are properly tagged and can
   speak to a user. – <em>Monterey County Weekly</em>, April 3, 2014
 </p>
-```
+ 

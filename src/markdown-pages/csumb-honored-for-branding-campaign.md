@@ -10,4 +10,4 @@ date: January 01 2020
   and Support of Education (CASE) for its branding campaign launched in the fall
   of 2012. – <em>Monterey Herald</em>, Feb. 1, 2013
 </p>
-```
+ 

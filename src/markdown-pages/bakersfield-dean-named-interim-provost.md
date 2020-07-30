@@ -45,4 +45,4 @@ date: January 01 2020
   The university plans to launch a nationwide search for a permanent successor
   to Cruz-Uribe at the beginning of the 2013-14 academic year.
 </p>
-```
+ 

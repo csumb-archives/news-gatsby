@@ -13,4 +13,4 @@ slug: student-piano-recital-dec.-13
     style="float:left; width:550px; height:731px"
   />
 </p>
-```
+ 

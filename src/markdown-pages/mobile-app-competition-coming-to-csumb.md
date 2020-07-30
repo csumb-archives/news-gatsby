@@ -42,4 +42,4 @@ date: January 01 2020
     >Get more information or register to participate</a
   >
 </p>
-```
+ 

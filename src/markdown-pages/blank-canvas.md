@@ -10,4 +10,4 @@ date: January 01 2020
   class to map out the new vision mural that they will paint at Inter-Garrison
   Road and Fifth Avenue. – <em>Monterey Herald</em>, Sept. 2, 2014
 </p>
-```
+ 

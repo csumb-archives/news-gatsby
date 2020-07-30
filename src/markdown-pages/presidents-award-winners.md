@@ -187,4 +187,4 @@ date: January 01 2020
     >VPA Capstone Student Spotlight</a
   >.
 </p>
-```
+ 

@@ -82,4 +82,4 @@ date: January 01 2020
   bet that his next project is not far away.
   <a href="https://csumb.edu/tat">Learn about Cinematic Arts at CSUMB</a>.
 </p>
-```
+ 

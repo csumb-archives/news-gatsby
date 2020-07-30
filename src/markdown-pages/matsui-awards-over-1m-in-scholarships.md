@@ -11,4 +11,4 @@ date: January 01 2020
   bachelor’s degree program offered by CSUMB and Hartnell College.
 </p>
 <p>– <em>The Salinas Californian</em>, July 28, 2015</p>
-```
+ 

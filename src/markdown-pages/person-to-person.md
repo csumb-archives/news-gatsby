@@ -12,4 +12,4 @@ date: January 01 2020
   a novel about a teenager and her friends in L.A. trying to escape poverty.
 </p>
 <p>– <em>Monterey County Weekly</em>, Dec. 31, 2015</p>
-```
+ 

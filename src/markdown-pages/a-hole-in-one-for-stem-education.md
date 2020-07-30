@@ -24,4 +24,4 @@ date: January 01 2020
   sport. A $1 million grant from Chevron has helped to develop the CSU’s teacher
   training programs for science, technology, engineering and math.
 </p>
-```
+ 

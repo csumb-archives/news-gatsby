@@ -12,4 +12,4 @@ date: January 01 2020
   annual CSU Student Research Competition at Long Beach State May 4 and 5. –
   <em>Monterey Herald</em>, April 11, 2012
 </p>
-```
+ 

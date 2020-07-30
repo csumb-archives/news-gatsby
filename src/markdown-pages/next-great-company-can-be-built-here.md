@@ -11,4 +11,4 @@ date: January 01 2020
   presented at the first Fort Ord Colloquium on the campus of CSU Monterey Bay.
   – <em>Monterey Herald</em>, Dec. 13, 2013
 </p>
-```
+ 

@@ -10,4 +10,4 @@ date: January 01 2020
   newspaper won seven awards from the California College Media Association.
 </p>
 <p>– <em>Monterey County Weekly</em>, March 2, 2015</p>
-```
+ 

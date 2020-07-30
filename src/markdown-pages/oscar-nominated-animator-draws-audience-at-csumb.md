@@ -11,4 +11,4 @@ date: January 01 2020
   for turning stick figures into empathetic characters. –
   <em>Monterey Herald,</em> Jan. 31, 2012
 </p>
-```
+ 

@@ -11,4 +11,4 @@ date: January 01 2020
   Baldwin, documentary filmmaker Kirby Dick and more. –
   <em>Monterey County Weekly</em>, Dec. 26, 2013
 </p>
-```
+ 

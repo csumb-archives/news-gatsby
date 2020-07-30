@@ -10,4 +10,4 @@ date: January 01 2020
   2 in observance of the holidays. The campus will reopen at 8 a.m. on Jan. 3.
   The spring semester will start Jan. 23.
 </p>
-```
+ 

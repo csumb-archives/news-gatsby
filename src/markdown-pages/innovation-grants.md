@@ -10,4 +10,4 @@ date: January 01 2020
   accelerated degree programs at other colleges and universities.
 </p>
 <p>– <em>KSBW</em>, March 20, 2015</p>
-```
+ 

@@ -60,4 +60,4 @@ date: January 01 2020
   Advisory Committee; is a certified instructor with the League of American
   Bicyclists and founded the Monterey Bicycle Project.
 </p>
-```
+ 

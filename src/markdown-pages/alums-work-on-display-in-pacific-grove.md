@@ -46,4 +46,4 @@ date: January 01 2020
   Lew Aytes Above: Aytes hanging his work at last year's exhibit at the National
   Steinbeck Center&#42;
 </p>
-```
+ 

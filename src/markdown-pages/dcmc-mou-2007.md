@@ -37,4 +37,4 @@ date: January 01 2020
   DoD employee's secure digital credentials, serving as a paperless voucher.
   Millions of the "smart cards" have been issued.
 </p>
-```
+ 

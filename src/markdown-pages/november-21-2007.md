@@ -209,4 +209,4 @@ date: January 01 2020
   For campus news, activities and events, please visit our
   <a href="https://www.csumb.edu/news%20">news website</a>.
 </p>
-```
+ 

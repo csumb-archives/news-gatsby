@@ -14,4 +14,4 @@ date: January 01 2020
   (op-ed by President Eduardo Ochoa) – <em>The Salinas Californian</em>, Nov.
   16, 2012
 </p>
-```
+ 

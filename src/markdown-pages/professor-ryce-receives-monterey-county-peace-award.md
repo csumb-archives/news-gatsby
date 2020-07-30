@@ -36,4 +36,4 @@ date: January 01 2020
   local schools, she has provided Monterey County residents access to both
   educational and cultural exhibits.
 </p>
-```
+ 

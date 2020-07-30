@@ -11,4 +11,4 @@ date: January 01 2020
   with the Monterey County Sheriff’s Office and the local fire department, a
   device was safely destroyed at about 12:30 p.m. The area is now clear.
 </p>
-```
+ 

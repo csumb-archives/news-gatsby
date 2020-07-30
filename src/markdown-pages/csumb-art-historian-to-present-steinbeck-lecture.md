@@ -33,4 +33,4 @@ date: January 01 2020
   More information about
   <a href="https://csumb.edu/vpa">Visual and Public Art program</a>.
 </p>
-```
+ 

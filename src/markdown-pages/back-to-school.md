@@ -10,4 +10,4 @@ date: January 01 2020
   50&#45;and&#45;over that proves learning is its own reward.
 </p>
 <p>– <em>Monterey County Weekly</em>, Jan. 21, 2016</p>
-```
+ 

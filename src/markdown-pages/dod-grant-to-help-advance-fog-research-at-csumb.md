@@ -80,4 +80,4 @@ date: January 01 2020
   Office is an element of the U.S. Army Combat Capabilities Development
   Command’s Army Research Laboratory.
 </p>
-```
+ 

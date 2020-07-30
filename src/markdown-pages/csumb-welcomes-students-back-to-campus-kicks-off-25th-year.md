@@ -28,4 +28,4 @@ date: January 01 2020
   is also now open for the fall semester. There will be a grand opening on
   October 11, 2019.
 </p>
-```
+ 

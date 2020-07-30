@@ -37,4 +37,4 @@ date: January 01 2020
   our instruction, scholarship, and commitment to service.
 </p>
 <p>For more information, SNS can be found on Facebook and Twitter.</p>
-```
+ 

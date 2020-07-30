@@ -37,4 +37,4 @@ musician who has traveled the world since he was 11 years old.
   a contemporary jazz and gospel pianist. He serves as music director for
   Shoreline Community Church.
 </p>
-```
+ 

@@ -74,4 +74,4 @@ date: January 01 2020
   of all CSU undergraduates receive enough financial aid to cover the full cost
   of tuition.
 </p>
-```
+ 

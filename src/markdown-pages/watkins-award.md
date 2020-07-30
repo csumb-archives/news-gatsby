@@ -46,4 +46,4 @@ date: January 01 2020
   University of California, Berkeley, and a bachelor's of science degree in
   biology from Stanford University.
 </p>
-```
+ 

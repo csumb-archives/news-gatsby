@@ -12,4 +12,4 @@ date: January 01 2020
   studying DNA fragment banding patterns. –* The Salinas Californian*, Sept. 14,
   2011
 </p>
-```
+ 

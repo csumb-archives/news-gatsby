@@ -12,4 +12,4 @@ date: January 01 2020
   . . He comes to CSUMB on Feb. 7 to kick off the school's Black History Month
   events. – <em>Monterey County Weekly</em>, Feb. 2, 2012
 </p>
-```
+ 

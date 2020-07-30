@@ -10,4 +10,4 @@ date: January 01 2020
   will move off campus to a new venue this year.
   <em>– The Salinas Californian</em>, Jan. 31, 2014
 </p>
-```
+ 

@@ -36,4 +36,4 @@ date: January 01 2020
   come back together and reflect. Sponsored by the CSUMB Social Justice
   Coalition, the event included a discussion and ended with a candlelight vigil.
 </p>
-```
+ 

@@ -64,4 +64,4 @@ date: January 01 2020
   <em>Journal of American History</em>
 </p>
 <p></p>
-```
+ 

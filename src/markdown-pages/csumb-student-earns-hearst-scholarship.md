@@ -10,4 +10,4 @@ date: January 01 2020
   students in the entire CSU system to earn a Hearst Scholarship. – The Salinas
   Californian, Oct. 1, 2011
 </p>
-```
+ 

@@ -10,4 +10,4 @@ date: January 01 2020
   some of the core methodologies of teaching give rise to some real optimism. –
   <em>Monterey Herald</em>, Aug. 14, 2012
 </p>
-```
+ 

@@ -9,4 +9,4 @@ date: January 01 2020
   CSUMB President Eduardo Ochoa kicked off an annual recruiting event aimed at
   African American communities. – <em>KSBW-</em>TV, Feb. 15, 2014
 </p>
-```
+ 

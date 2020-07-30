@@ -33,4 +33,4 @@ date: January 01 2020
   in the well&#45;received book “Teaching Truly: A Curriculum to Indigenize
   Mainstream Education” by Four Arrows.
 </p>
-```
+ 

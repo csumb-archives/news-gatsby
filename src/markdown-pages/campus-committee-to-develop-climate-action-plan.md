@@ -25,4 +25,4 @@ date: January 01 2020
   Commitment that President Dianne Harrison signed in 2007, and pledges the
   university to a path of climate neutrality.
 </p>
-```
+ 

@@ -55,4 +55,4 @@ date: January 01 2020
 </p>
 <p><em>Image from the Journals Around Campus Facebook page</em></p>
 <p></p>
-```
+ 

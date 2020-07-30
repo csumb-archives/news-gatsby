@@ -50,4 +50,4 @@ date: January 01 2020
   CSU trustees and many other supporters has allowed the program to expand.
 </p>
 <p>CSU Trustees’ Scholars are nominated by their campus presidents.</p>
-```
+ 

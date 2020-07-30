@@ -11,4 +11,4 @@ date: January 01 2020
   exhibition at the National Steinbeck Center. –
   <em>San Francisco Chronicle</em>, Oct. 21, 2011
 </p>
-```
+ 

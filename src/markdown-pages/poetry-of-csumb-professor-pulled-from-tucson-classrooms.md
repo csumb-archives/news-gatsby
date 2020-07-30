@@ -13,4 +13,4 @@ date: January 01 2020
   Labor Camp," among 80 others now pulled from the classrooms of Tucson Unified
   School District in Arizona. – <em>San Jose Mercury News</em>, April 16, 2012
 </p>
-```
+ 

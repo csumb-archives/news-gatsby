@@ -11,4 +11,4 @@ date: January 01 2020
   founding dean of the college. – <em>The Salinas Californian</em>, Sept. 8,
   2014
 </p>
-```
+ 

@@ -11,4 +11,4 @@ date: January 01 2020
   and the other award winners were honored Sept. 9 at the CSU board meeting in
   Long Beach – <em>Monterey Herald</em>, Sept. 14, 2014
 </p>
-```
+ 

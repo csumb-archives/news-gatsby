@@ -10,4 +10,4 @@ date: January 01 2020
   preach the good green gospel: Live simply, so that others may simply live. –
   Monterey Herald, Sept. 28, 2010
 </p>
-```
+ 

@@ -11,4 +11,4 @@ date: January 01 2020
   talks on photography, mixed media and interactive art and sculpture. –
   <em>The Salinas Californian</em>, June 19, 2014
 </p>
-```
+ 

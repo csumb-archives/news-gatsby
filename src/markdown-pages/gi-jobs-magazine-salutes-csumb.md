@@ -55,4 +55,4 @@ date: January 01 2020
   >. G.I. Jobs Magazine’s list of top veteran-friendly schools can be viewed
   <a href="https://www.militaryfriendlyschools.com/mfsList.aspx">here</a>.
 </p>
-```
+ 

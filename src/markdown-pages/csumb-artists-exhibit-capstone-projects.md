@@ -12,4 +12,4 @@ date: January 01 2020
   showcasing work from the department's 2013 capstone class.
   <em>– Monterey Herald</em>, May 10, 2013
 </p>
-```
+ 

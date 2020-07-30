@@ -10,4 +10,4 @@ date: January 01 2020
   private developer won fairly easy approval from the Marina City Council. –
   <em>Monterey Herald</em>, July 3, 2013
 </p>
-```
+ 

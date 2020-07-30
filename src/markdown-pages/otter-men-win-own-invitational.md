@@ -11,4 +11,4 @@ date: January 01 2020
   of runner-up and No. 1-ranked Barry University of Miami. –
   <em>Monterey Herald</em>, Oct. 23, 2013
 </p>
-```
+ 

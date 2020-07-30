@@ -11,4 +11,4 @@ date: January 01 2020
   19-under-par 845 while sophomore Brandon Hortt won the individual title at
   12-under. – <em>Monterey Herald</em>, April 24, 2013
 </p>
-```
+ 

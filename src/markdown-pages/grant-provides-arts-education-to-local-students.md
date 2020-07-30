@@ -29,4 +29,4 @@ date: January 01 2020
   students on how to master various art forms including dance, music, acting,
   media arts, fine arts and creative writing.
 </p>
-```
+ 

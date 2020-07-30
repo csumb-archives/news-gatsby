@@ -40,4 +40,4 @@ date: January 01 2020
   Driving directions and a campus map are available
   <a href="https://csumb.edu/map">here</a>.
 </p>
-```
+ 

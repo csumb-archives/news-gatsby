@@ -14,4 +14,4 @@ date: January 01 2020
   71-41 win Friday over visiting Cal State, Los Angeles. -The Herald, Jan. 8,
   2011
 </p>
-```
+ 

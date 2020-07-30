@@ -64,4 +64,4 @@ date: January 01 2020
     >Luis Valdez</a
   >, founder of El Teatro Campesino and a CSUMB founding faculty.
 </p>
-```
+ 

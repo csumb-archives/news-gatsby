@@ -27,4 +27,4 @@ date: January 01 2020
   >.
 </p>
 <p>The following buildings will be affected:</p>
-```
+ 

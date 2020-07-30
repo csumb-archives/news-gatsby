@@ -11,4 +11,4 @@ date: January 01 2020
   Obama to support students across the country to increase college attainment.
   And he’s tweeting! —<em>Monterey Herald, Dec. 4, 2014</em>
 </p>
-```
+ 

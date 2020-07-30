@@ -102,4 +102,4 @@ date: January 01 2020
   Dr. YoungJoon Byun, School of Computing and Design, were promoted to full
   professor.
 </p>
-```
+ 

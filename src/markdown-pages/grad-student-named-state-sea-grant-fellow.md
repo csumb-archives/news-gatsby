@@ -79,4 +79,4 @@ date: January 01 2020
   Learn more about CSUMB's master's program in Coastal and Watershed Science and
   Policy <a href="https://sep.csumb.edu/cwsp/">here</a>.
 </p>
-```
+ 

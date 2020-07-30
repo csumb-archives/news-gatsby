@@ -59,4 +59,4 @@ date: January 01 2020
   Club = 12 21 – Sigma Omega Nu = 8 22 – Unaffiliated = 279
 </p>
 <p>Total = 2,929.5</p>
-```
+ 

@@ -12,4 +12,4 @@ date: January 01 2020
   and new media arts will be held on campus. – The Salinas Californian, June 25,
   2011
 </p>
-```
+ 

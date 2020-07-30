@@ -9,4 +9,4 @@ date: January 01 2020
   As they prepare for the postseason, the CSU Monterey Bay men's golfers are on
   a roll. – <em>Monterey Herald</em>, April 19, 2014
 </p>
-```
+ 

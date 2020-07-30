@@ -42,4 +42,4 @@ date: January 01 2020
   had completed four-year college entrance requirements, compared to 36 percent
   for their statewide counterparts.
 </p>
-```
+ 

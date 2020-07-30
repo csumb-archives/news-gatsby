@@ -52,4 +52,4 @@ date: January 01 2020
   the storm,” Dr. Harrison said. “Together we will continue to innovate and be
   leaders in our disciplines and services and in higher education.”
 </p>
-```
+ 

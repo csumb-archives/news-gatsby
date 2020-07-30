@@ -12,4 +12,4 @@ date: January 01 2020
   with an agricultural focus.
 </p>
 <p>– <em>Santa Cruz Tech Beat</em>, Jan. 26, 2015</p>
-```
+ 

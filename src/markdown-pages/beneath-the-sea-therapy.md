@@ -12,4 +12,4 @@ date: January 01 2020
   volunteering to teach the vets underwater skills, like how to manage buoyancy
   and navigate at dive sites. – <em>Monterey County Weekly</em>, May 2, 2013
 </p>
-```
+ 

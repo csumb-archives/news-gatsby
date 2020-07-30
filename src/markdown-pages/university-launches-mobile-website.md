@@ -47,4 +47,4 @@ date: January 01 2020
   communications staff. It follows on the redesign and relaunch of the
   university's website, csumb.edu, in October 2010.
 </p>
-```
+ 

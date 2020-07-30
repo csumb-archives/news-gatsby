@@ -14,4 +14,4 @@ date: January 01 2020
   Renee Jimenez's mentor when she got into coaching was Stanford Hall of Fame
   coach Tara VanDerveer. – Monterey Herald, Jan. 19, 2013
 </p>
-```
+ 

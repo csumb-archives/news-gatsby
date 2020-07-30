@@ -31,4 +31,4 @@ date: January 01 2020
   award was presented at the 41st Annual WESTOP Conference, “Rising to
   Transform: Investing in the Future of Educational Equity.”
 </p>
-```
+ 

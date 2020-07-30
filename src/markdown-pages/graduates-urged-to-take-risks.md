@@ -13,4 +13,4 @@ date: January 01 2020
   leader whose own future will include graduate studies in psychology at Sonoma
   State. – Monterey Herald, May 21, 2011
 </p>
-```
+ 

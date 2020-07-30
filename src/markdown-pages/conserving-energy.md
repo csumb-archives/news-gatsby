@@ -50,4 +50,4 @@ date: January 01 2020
   This year, another $42,000 is pending for replacing inefficient lighting on
   campus. The lighting in the university's gym has already been completed.
 </p>
-```
+ 

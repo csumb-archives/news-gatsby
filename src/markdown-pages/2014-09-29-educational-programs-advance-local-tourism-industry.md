@@ -13,4 +13,4 @@ sustainability and ecotourism, sustainable resort and hotel
 management, and sustainable event planning and management, will be
 equipped to build and lead eco-friendly tourism businesses.<br>
 &#x2013; <em>Monterey Herald</em>, Sept. 12, 2014</br></p>
-```
+ 

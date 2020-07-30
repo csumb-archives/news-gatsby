@@ -39,4 +39,4 @@ date: January 01 2020
   meet community needs,” said CSUMB Provost Bonnie Irwin.
 </p>
 <p><em>Published Sept. 25, 2015</em></p>
-```
+ 

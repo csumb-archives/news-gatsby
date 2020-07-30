@@ -20,4 +20,4 @@ date: January 01 2020
 </p>
 <p><strong>WHEN/WHERE:</strong></p>
 <p>5 p.m., Monday, Nov. 16, on the main quad.</p>
-```
+ 

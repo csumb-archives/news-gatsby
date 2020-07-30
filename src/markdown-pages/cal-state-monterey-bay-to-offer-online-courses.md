@@ -10,4 +10,4 @@ date: January 01 2020
   starting in May. The online program makes classes more accessible to students
   no matter where those students are located. – KSBW, Jan. 14
 </p>
-```
+ 

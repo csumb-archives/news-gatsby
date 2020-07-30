@@ -69,4 +69,4 @@ date: January 01 2020
   Watercolor on paper by Amadeo Bachar
 </p>
 <p></p>
-```
+ 

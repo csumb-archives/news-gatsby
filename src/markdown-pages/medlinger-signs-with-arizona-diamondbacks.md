@@ -11,4 +11,4 @@ date: January 01 2020
   spring training. He becomes the first player to sign a pro contract in head
   coach Walt White's tenure at CSUMB. – <em>Marina Gazette</em>, June 18, 2012
 </p>
-```
+ 

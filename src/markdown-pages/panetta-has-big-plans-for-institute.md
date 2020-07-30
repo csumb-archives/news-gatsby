@@ -12,4 +12,4 @@ date: January 01 2020
   thinkers to the Peninsula to talk about national and international issues. –
   <em>Carmel Pine Cone</em>, July 12, 2013
 </p>
-```
+ 

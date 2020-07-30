@@ -12,4 +12,4 @@ date: January 01 2020
   Ochoa's goal of identifying ways CSUMB can modify its curriculum to meet
   regional needs. – <em>Monterey County Weekly</em>, Sept. 6, 2012
 </p>
-```
+ 

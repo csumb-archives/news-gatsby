@@ -11,4 +11,4 @@ date: January 01 2020
   is intended to expand access to fully online bachelor's and master's degrees.
   – <em>Monterey County Weekly</em>, Jan. 23, 2013
 </p>
-```
+ 

@@ -67,4 +67,4 @@ date: January 01 2020
   "I leave after this semester. It's such a good cause; I hope the club will
   live on and be a continuous project."
 </p>
-```
+ 

@@ -166,4 +166,4 @@ date: January 01 2020
   of Monterey Bay, San Benito and Santa Cruz counties. Among all CSUMB students,
   44 percent have parents who did not attend college, and 28 percent are Latino.
 </p>
-```
+ 

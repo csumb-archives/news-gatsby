@@ -67,4 +67,4 @@ date: January 01 2020
   Benito high schools. Priority goes to Algebra Academy graduates, though all
   math majors are encouraged to apply.
 </p>
-```
+ 

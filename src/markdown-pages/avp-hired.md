@@ -49,4 +49,4 @@ date: January 01 2020
   left CSUMB earlier this year to become assistant dean, facilities planning and
   management, at Stanford University.
 </p>
-```
+ 

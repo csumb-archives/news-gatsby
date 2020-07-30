@@ -44,4 +44,4 @@ date: January 01 2020
   More information about the Commission’s reaccreditation letter can be accessed
   at CSUMB's reaccreditation web site.
 </p>
-```
+ 

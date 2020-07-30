@@ -37,4 +37,4 @@ date: January 01 2020
   full-time on my studies at a critical time,” said Vargas-Garcia, who also
   received the Alumni Vision Award in his senior year.
 </p>
-```
+ 

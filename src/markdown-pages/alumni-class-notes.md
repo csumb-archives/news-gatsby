@@ -253,4 +253,4 @@ date: January 01 2020
   Full Sail University in 2010 and is an intern at the Digital Media Learning
   Foundation in Santa Cruz. Thompson lives in Marina.
 </p>
-```
+ 

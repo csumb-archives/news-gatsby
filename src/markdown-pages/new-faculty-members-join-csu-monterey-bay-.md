@@ -20,4 +20,4 @@ date: January 01 2020
 <p>Fall semester classes start on Aug. 23.</p>
 <p></p>
 <p></p>
-```
+ 

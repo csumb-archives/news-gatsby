@@ -44,4 +44,4 @@ date: January 01 2020
   impact thought and action on issues important to our community.
 </p>
 <p><em>Published Feb. 8, 2016</em></p>
-```
+ 

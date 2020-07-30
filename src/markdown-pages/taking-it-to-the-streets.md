@@ -39,4 +39,4 @@ date: January 01 2020
   2016. After graduation, he’s thinking about moving to the Pacific Northwest
   and studying urban planning in graduate school.
 </p>
-```
+ 

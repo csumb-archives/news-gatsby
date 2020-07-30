@@ -123,4 +123,4 @@ date: January 01 2020
   communicate frequently with the CSUMB community as we flesh out the details
   and as new developments arise.
 </p>
-```
+ 

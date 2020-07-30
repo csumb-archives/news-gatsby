@@ -11,4 +11,4 @@ date: January 01 2020
   impacts of climate change.
 </p>
 <p>– <em>Carmel Magazine</em>, Summer/Fall issue</p>
-```
+ 

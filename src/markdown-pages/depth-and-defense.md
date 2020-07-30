@@ -10,4 +10,4 @@ date: January 01 2020
   George, Utah in the first round of the NCAA Division II tournament at Cal Poly
   Pomona. – Monterey Herald, March 11, 2011
 </p>
-```
+ 

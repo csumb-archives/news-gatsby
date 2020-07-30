@@ -10,4 +10,4 @@ date: January 01 2020
   community and student entrepreneurs and creative minds alike.
 </p>
 <p>– <em>Santa Cruz Tech Beat</em>, Jan. 20, 2016</p>
-```
+ 

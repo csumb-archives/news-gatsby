@@ -10,4 +10,4 @@ date: January 01 2020
   They are navigating the bureaucracy to rethink the CSU food system.
 </p>
 <p>– <em>Monterey Herald</em>, Nov. 21, 2015</p>
-```
+ 

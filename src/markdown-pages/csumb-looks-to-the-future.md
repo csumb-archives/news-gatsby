@@ -11,4 +11,4 @@ date: January 01 2020
   challenges – mostly financial – but lingered on the university's
   accomplishments. – Monterey Herald, Aug. 18, 2011
 </p>
-```
+ 

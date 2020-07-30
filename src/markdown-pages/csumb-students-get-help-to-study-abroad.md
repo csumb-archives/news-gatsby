@@ -66,4 +66,4 @@ date: January 01 2020
   The Benjamin A. Gilman International Scholarship recipients for next academic
   year, their majors, travel destinations, and amount of award:
 </p>
-```
+ 

@@ -9,4 +9,4 @@ date: January 01 2020
   Unexpected road closure on 7th Ave from Butler to Col Durham. Expected to last
   today only. Please find alternate route.
 </p>
-```
+ 

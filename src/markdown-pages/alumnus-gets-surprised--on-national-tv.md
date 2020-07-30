@@ -43,4 +43,4 @@ date: January 01 2020
 <p>Does he have any advice for pre&#45;med students?</p>
 <p>“Set goals, don’t give up &#40;EVER&#41;, and take Biology 414.”</p>
 <p><em>At the 6:24 mark, you’ll see a reminder of David’s days at CSUMB</em></p>
-```
+ 

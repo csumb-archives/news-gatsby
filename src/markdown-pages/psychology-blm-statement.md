@@ -174,4 +174,4 @@ date: January 01 2020
   anti-racist allies. I leave you with a quote by the one and only Toni
   Morrison.
 </p>
-```
+ 

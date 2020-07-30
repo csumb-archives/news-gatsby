@@ -46,4 +46,4 @@ date: January 01 2020
     >Learn about the math and statistics progam at CSUMB.</a
   >
 </p>
-```
+ 

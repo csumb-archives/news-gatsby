@@ -32,4 +32,4 @@ date: January 01 2020
   Obispo, Humboldt State University, back to CSU Long Beach and then to CSU
   Fresno before coming to Cal State Monterey Bay in 2011.
 </p>
-```
+ 

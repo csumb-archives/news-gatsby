@@ -38,4 +38,4 @@ date: January 01 2020
   traffic through campus," Faust explained. "The long-range plan is to bring
   traffic to campus from Highway 1 via Second Avenue and Inter-Garrison Road."
 </p>
-```
+ 

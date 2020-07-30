@@ -76,4 +76,4 @@ date: January 01 2020
   Hollywood. Educated at UCLA and London University, he owns a landscape design
   company in Malibu.
 </p>
-```
+ 

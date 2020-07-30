@@ -92,4 +92,4 @@ date: January 01 2020
   and placing service dogs.
 </p>
 <p><em>Published Nov. 19, 2015</em></p>
-```
+ 

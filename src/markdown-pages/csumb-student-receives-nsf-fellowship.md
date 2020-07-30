@@ -12,4 +12,4 @@ date: January 01 2020
   595 undergraduates to receive the award. –
   <em>Daily Independent</em> (Ridgecrest, CA), April 27, 2013
 </p>
-```
+ 

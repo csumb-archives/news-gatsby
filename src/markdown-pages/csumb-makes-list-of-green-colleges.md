@@ -10,4 +10,4 @@ date: January 01 2020
   Green Colleges." The university is cited for having a "formidable green
   pedigree." – <em>The Salinas Californian</em>, May 5, 2014
 </p>
-```
+ 

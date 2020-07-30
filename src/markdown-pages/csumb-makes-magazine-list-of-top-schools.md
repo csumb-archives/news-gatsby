@@ -52,4 +52,4 @@ date: January 01 2020
   scheduled to go into effect in time for the next school year, will include
   measures of affordability, access and outcome.
 </p>
-```
+ 

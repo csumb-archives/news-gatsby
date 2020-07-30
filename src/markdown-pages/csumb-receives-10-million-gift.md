@@ -12,4 +12,4 @@ date: January 01 2020
   bring products from concept to market and fund scholarships.
 </p>
 <p>– <em>Philanthropy News Digest</em>, Nov. 28, 2015</p>
-```
+ 

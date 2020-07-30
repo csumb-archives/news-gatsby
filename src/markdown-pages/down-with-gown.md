@@ -12,4 +12,4 @@ date: January 01 2020
   projects of their years of schooling – at various locations. – &#42;Monterey
   County Weekly&#42;, Dec. 19, 2013
 </p>
-```
+ 

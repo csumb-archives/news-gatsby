@@ -10,4 +10,4 @@ date: January 01 2020
   Nov. 27 and 28.
 </p>
 <p>Classes will resume and offices will be open on Monday, Dec. 1.</p>
-```
+ 

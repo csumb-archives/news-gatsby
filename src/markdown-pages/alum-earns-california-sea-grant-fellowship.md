@@ -26,4 +26,4 @@ date: January 01 2020
   Previously, he interned with the Center for Ocean Solutions, working in
   graduate education and outreach.
 </p>
-```
+ 

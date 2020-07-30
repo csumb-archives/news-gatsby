@@ -13,4 +13,4 @@ date: January 01 2020
   honors for students in the CSU system. – <em>Monterey Herald,</em> Oct. 9,
   2012
 </p>
-```
+ 

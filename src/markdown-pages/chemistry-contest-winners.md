@@ -23,4 +23,4 @@ date: January 01 2020
   iPod, a beach towel of the periodic table and other items donated by the ACS.
 </p>
 <p>CSUMB plans to make the competition an annual event.</p>
-```
+ 

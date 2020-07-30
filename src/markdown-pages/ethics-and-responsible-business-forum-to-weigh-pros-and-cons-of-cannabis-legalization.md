@@ -45,4 +45,4 @@ date: January 01 2020
   and action on issues important to our community. Last year, over 320 students,
   faculty, and community members attended the event.
 </p>
-```
+ 

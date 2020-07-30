@@ -39,4 +39,4 @@ slug: latino-magazine-commends-csumb
     </div>
   </div>
 </fieldset>
-```
+ 

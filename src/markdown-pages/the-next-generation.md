@@ -12,4 +12,4 @@ date: January 01 2020
   operations, marketing and information technology.
 </p>
 <p>–<em>Monterey Herald</em>, Nov. 5, 2015</p>
-```
+ 

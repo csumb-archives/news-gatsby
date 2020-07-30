@@ -12,4 +12,4 @@ date: January 01 2020
   recognition a college or university can receive for its commitment to
   community service. – Monterey Herald, May 17, 2011
 </p>
-```
+ 

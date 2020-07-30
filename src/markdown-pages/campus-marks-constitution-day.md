@@ -43,4 +43,4 @@ date: January 01 2020
   intricacies of "American Idol" than they do about the foundations of their
   government.
 </p>
-```
+ 

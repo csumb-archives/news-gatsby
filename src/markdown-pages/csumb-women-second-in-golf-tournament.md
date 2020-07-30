@@ -10,4 +10,4 @@ date: January 01 2020
   Pioneer Shootout hosted by CSU East Bay at Hiddenbrooke Golf Course in
   Vallejo. – <em>Monterey Herald</em>, March 4, 2013
 </p>
-```
+ 

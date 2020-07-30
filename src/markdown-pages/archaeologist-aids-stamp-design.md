@@ -12,4 +12,4 @@ date: January 01 2020
   United States Postal Service stamp that honors 250 yers of California history
   with the image of Carmel Mission. – <em>Monterey Herald</em>, Jan. 5, 2012
 </p>
-```
+ 

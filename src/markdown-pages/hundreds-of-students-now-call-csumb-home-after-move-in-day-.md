@@ -32,4 +32,4 @@ date: January 01 2020
   enrollment is approximately 7,070; about a third of them come from Monterey,
   Santa Cruz and San Benito counties.
 </p>
-```
+ 

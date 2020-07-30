@@ -25,4 +25,4 @@ slug: karen-martinez-receives-2010-hearst-award
   youth at the Boys and Girls Club in Salinas. She will be the first in her
   family to graduate from college.
 </p>
-```
+ 

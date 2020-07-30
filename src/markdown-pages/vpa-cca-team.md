@@ -37,4 +37,4 @@ date: January 01 2020
   The billboard, located on John Street near the intersection with Abbott, will
   be formally dedicated at 1 p.m. on Dec. 12.
 </p>
-```
+ 

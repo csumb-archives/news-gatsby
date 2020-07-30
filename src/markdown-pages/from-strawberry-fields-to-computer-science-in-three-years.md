@@ -14,4 +14,4 @@ date: January 01 2020
   agricultural Salinas Valley earn a bachelor's degree in computer science in
   only three years. – <em>San Jose Mercury News</em>, Dec. 3, 2013
 </p>
-```
+ 

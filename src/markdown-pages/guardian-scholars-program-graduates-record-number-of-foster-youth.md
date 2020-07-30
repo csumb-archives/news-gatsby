@@ -64,4 +64,4 @@ date: January 01 2020
   “It was an opportunity to rejoice in their resilience, strength and power,
   instead of having to revisit past trauma to connect."
 </p>
-```
+ 

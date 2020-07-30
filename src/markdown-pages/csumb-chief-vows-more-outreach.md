@@ -12,4 +12,4 @@ date: January 01 2020
   also said he plans to broaden the university's reach into Salinas. –
   <em>The Salinas Californian</em>, Aug. 23, 2013
 </p>
-```
+ 

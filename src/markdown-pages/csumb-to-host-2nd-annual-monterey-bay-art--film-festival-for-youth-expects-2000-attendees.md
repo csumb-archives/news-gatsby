@@ -40,4 +40,4 @@ date: January 01 2020
   For more information about the event please contact Soyeon Kim at
   sokim@csumb.edu
 </p>
-```
+ 

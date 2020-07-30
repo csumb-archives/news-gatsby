@@ -10,4 +10,4 @@ date: January 01 2020
   Cummings guided the Otters to their best record in four years. –
   <em>Monterey Herald</em>, Sept. 7, 2012
 </p>
-```
+ 

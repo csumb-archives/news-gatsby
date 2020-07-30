@@ -49,4 +49,4 @@ date: January 01 2020
   pointillist realism, its Zen&#45;like austerity, highly enough. Exquisite."
 </p>
 <p>&#42;– Kevin Starr, author of California: A History&#42;</p>
-```
+ 

@@ -12,4 +12,4 @@ date: January 01 2020
   last year where he presented his work in plant pathology to a gathering of
   renowned scientists. – <em>The Salinas Californian</em>, June 9, 2012
 </p>
-```
+ 

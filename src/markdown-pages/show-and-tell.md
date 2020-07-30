@@ -9,4 +9,4 @@ date: January 01 2020
   CSUMB's art department keeps the conversation about art circulating. –
   <em>Monterey County Weekly,</em> Feb. 14, 2013
 </p>
-```
+ 

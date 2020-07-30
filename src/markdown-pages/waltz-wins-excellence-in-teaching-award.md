@@ -33,4 +33,4 @@ date: January 01 2020
   After a stint as a high school teacher, he earned a Ph.D. in the Social
   Foundations of Education at the State University of New York at Buffalo.
 </p>
-```
+ 

@@ -12,4 +12,4 @@ date: January 01 2020
   scholars in the California State University system. –
   <em>Monterey Herald,</em> Sept. 11, 2012
 </p>
-```
+ 

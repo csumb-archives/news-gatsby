@@ -39,4 +39,4 @@ date: January 01 2020
   California State University, Monterey Bay in December and plans to attend
   graduate school.
 </p>
-```
+ 

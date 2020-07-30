@@ -154,4 +154,4 @@ date: January 01 2020
   academic audience. Research is a beautiful and transformative craft that
   should be shared with the public in a manner in which they can comprehend it.”
 </p>
-```
+ 

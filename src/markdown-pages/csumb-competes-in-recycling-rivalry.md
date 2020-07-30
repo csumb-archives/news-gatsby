@@ -32,4 +32,4 @@ date: January 01 2020
   Quad as well as the three North Quad buildings.
   <em>Photo courtesy of Duane Lindsay</em>
 </p>
-```
+ 

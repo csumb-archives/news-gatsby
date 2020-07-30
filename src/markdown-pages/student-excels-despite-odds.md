@@ -10,4 +10,4 @@ date: January 01 2020
   dean’s list during his first semester at CSUMB.
 </p>
 <p>– <em>The Salinas Californian</em>, Aug. 7, 2015</p>
-```
+ 

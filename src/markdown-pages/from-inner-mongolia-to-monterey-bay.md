@@ -34,4 +34,4 @@ date: January 01 2020
   trip to San Francisco, Silicon Valley, Carmel, Point Lobos and a local
   attraction in the Monterey Bay region, the Salinas rodeo show.
 </p>
-```
+ 

@@ -13,4 +13,4 @@ date: January 01 2020
   bring different voices to California's history." – <em>Monterey Herald</em>,
   July 19, 2013
 </p>
-```
+ 

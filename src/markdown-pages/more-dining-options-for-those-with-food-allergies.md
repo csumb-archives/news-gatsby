@@ -50,4 +50,4 @@ date: January 01 2020
 <p>
   <a href="https://csumb.edu/dining/">More information about campus dining</a>
 </p>
-```
+ 

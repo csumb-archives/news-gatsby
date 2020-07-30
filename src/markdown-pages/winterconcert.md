@@ -26,4 +26,4 @@ date: January 01 2020
   Sixth Avenue, CSUMB campus COST: Free PARKING: Free in Lot 28
   INFORMATION/DISABILITY ACCOMMODATIONS: 582-3009
 </p>
-```
+ 

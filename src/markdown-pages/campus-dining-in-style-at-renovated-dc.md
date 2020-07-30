@@ -53,4 +53,4 @@ date: January 01 2020
   Meyers added that he was pleased to see the positive reaction from returning
   students. "That makes it worthwhile for us. That tells me we did a good job."
 </p>
-```
+ 

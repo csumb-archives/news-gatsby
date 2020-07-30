@@ -11,4 +11,4 @@ date: January 01 2020
   archaeologist. Mendoza taught the course "Ancient Mayan Civilizations" this
   fall. – <em>Monterey Herald</em>, Dec. 14, 2012
 </p>
-```
+ 

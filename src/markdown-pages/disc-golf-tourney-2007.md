@@ -32,4 +32,4 @@ date: January 01 2020
   A schedule for Saturday's tournament, a map and parking directions are
   available at clubs.csumb.edu/discgolf.
 </p>
-```
+ 

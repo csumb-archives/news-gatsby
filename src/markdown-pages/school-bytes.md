@@ -10,4 +10,4 @@ date: January 01 2020
   today. What you may not know is that a CSUMB student designed the logo. –
   <em>Monterey Herald,</em> Feb. 10, 2013
 </p>
-```
+ 

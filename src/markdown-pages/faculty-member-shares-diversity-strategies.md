@@ -52,4 +52,4 @@ date: January 01 2020
   larger group of institutions to work on in regard to increasing diversity on
   their campuses," he said.
 </p>
-```
+ 

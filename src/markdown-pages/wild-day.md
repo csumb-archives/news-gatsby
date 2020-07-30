@@ -39,4 +39,4 @@ date: January 01 2020
   This year's event had an added focus - to raise money for a school in the area
   affected by hurricanes Katrina and Rita. The effort raised $1,500.
 </p>
-```
+ 

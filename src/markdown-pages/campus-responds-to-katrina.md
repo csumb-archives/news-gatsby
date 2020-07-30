@@ -36,4 +36,4 @@ date: January 01 2020
   Students will be surveyed to determine which organization will receive the
   money collected.
 </p>
-```
+ 

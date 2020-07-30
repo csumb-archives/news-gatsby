@@ -95,4 +95,4 @@ date: January 01 2020
   <strong>Information</strong>:
   <a href="https://www.steinbeck/">www.steinbeck</a>.org
 </p>
-```
+ 

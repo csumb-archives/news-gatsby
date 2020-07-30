@@ -45,4 +45,4 @@ date: January 01 2020
   California.” White plans to visit each of the 23 campuses during the current
   academic year.
 </p>
-```
+ 

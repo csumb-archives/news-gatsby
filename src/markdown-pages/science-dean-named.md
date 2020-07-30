@@ -29,4 +29,4 @@ date: January 01 2020
   who had been dean of the college since 1996. Dr. Moroh retired in December.
 </p>
 <p><em>Published Feb. 12, 2016</em></p>
-```
+ 

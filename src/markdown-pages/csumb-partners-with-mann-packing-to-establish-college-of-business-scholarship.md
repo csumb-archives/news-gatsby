@@ -49,4 +49,4 @@ date: January 01 2020
   CSUMB selection committee which will have one representative from Mann’s. The
   scholarships will be awarded beginning fall 2017.
 </p>
-```
+ 

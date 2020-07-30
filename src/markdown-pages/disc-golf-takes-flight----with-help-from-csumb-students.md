@@ -27,4 +27,4 @@ date: January 01 2020
   men’s teams and six women’s teams. CSUMB has two full&#45;length disc golf
   courses on campus.
 </p>
-```
+ 

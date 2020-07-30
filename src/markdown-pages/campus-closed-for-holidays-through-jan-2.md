@@ -12,4 +12,4 @@ date: January 01 2020
   Friday, Jan. 2.
 </p>
 <p>Spring semester classes will start on Jan. 20.</p>
-```
+ 

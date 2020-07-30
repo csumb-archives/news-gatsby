@@ -58,4 +58,4 @@ date: January 01 2020
 <p>
   <strong>Information</strong>: Professor Charles Fuller, chfuller@csumb.edu
 </p>
-```
+ 

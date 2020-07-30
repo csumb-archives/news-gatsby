@@ -28,4 +28,4 @@ date: January 01 2020
   Singh&#45;Carlson was one of 50 people nationally to receive a prestigious
   fellowship from the American Association of Colleges of Nursing.
 </p>
-```
+ 

@@ -32,4 +32,4 @@ slug: professor-honored-for-editorial-excellence
   His research covers the lifespan &#x2013; everything from childhood obesity to
   osteoporosis in the elderly.
 </p>
-```
+ 

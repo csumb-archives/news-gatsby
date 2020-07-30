@@ -23,4 +23,4 @@ date: January 01 2020
   On-campus housing is full, with approximately 47 percent of students residing
   in university residence halls and apartments.
 </p>
-```
+ 

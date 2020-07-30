@@ -37,4 +37,4 @@ date: January 01 2020
   For more information on CSUMB BSN’s program please refer to the
   <a href="https://csumb.edu/nursing">Department of Nursing BSN homepage</a>.
 </p>
-```
+ 

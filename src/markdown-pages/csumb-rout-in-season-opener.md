@@ -11,4 +11,4 @@ date: January 01 2020
   women's basketball team opened the Kerri Nakamoto era with a routing 98-70 win
   over West Region rival Dixie State. – <em>Monterey Herald</em>, Nov. 9, 2013
 </p>
-```
+ 

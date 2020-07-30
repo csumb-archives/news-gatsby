@@ -12,4 +12,4 @@ date: January 01 2020
   Monterey Bay's Summer Arts program, displayed their works. –
   <em>The Salinas Californian</em>, July 14, 2014
 </p>
-```
+ 

@@ -35,4 +35,4 @@ date: January 01 2020
   other regional institutions, successful entrepreneurs and other regional
   resources to build and support the Monterey Bay entrepreneurial ecosystem.
 </p>
-```
+ 

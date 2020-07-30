@@ -46,4 +46,4 @@ date: January 01 2020
   entrepreneurship in the Monterey Bay region and foster the developmentof a
   vibrant entrepreneurship ecosystem in the region.
 </p>
-```
+ 

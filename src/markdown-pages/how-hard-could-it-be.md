@@ -10,4 +10,4 @@ date: January 01 2020
   ballroom at CSU Monterey Bay, about a mile and a half from the Pacific Ocean.
   Startup Weekend has officially begun. – <em>Inc. magazine</em>, April issue
 </p>
-```
+ 

@@ -11,4 +11,4 @@ date: January 01 2020
   prototype applications for mobile devices. – <em>Monterey Herald</em>, March
   17, 2014
 </p>
-```
+ 

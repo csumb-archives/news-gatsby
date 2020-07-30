@@ -45,4 +45,4 @@ date: January 01 2020
   four-session class through the Osher Lifelong Learning Institute, Oct. 21, 28,
   Nov. 4 and 18 at CSUMB. <a href="https://csumb.edu/olli">More information</a>
 </p>
-```
+ 

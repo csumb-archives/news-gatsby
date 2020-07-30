@@ -56,4 +56,4 @@ Rose and her talented band routinely draw rave reviews from fans
 and critics ... notably, her set at the Monterey Jazz Festival had
 people buzzing!</em><br>
 &#x2013;&#x2028; Jim Harrington, San Jose Mercury News</br></br></br></br></br></p>
-```
+ 

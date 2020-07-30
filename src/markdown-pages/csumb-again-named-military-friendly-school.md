@@ -50,4 +50,4 @@ date: January 01 2020
     >CSUMB’s listing on the magazine’s website</a
   >.
 </p>
-```
+ 

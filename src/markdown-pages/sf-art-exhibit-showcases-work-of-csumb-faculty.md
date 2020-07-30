@@ -49,4 +49,4 @@ date: January 01 2020
   exhibit will close on Feb. 4. Alumni John Elliott, Stephanie Sumler, Rachell
   Hester and Matt Florianni helped with the exhibit.
 </p>
-```
+ 

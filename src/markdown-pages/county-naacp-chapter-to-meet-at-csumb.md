@@ -50,4 +50,4 @@ date: January 01 2020
     >NAACP chapter formed at CSUMB</a
   >
 </p>
-```
+ 

@@ -11,4 +11,4 @@ date: January 01 2020
   She was named CSUMB's 2010 recipient of the William Randolph Hearst/CSU
   Trustees' Award for Outstanding Achievement. – Monterey Herald, Sept. 25, 2010
 </p>
-```
+ 

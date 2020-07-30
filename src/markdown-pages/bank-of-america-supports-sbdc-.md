@@ -48,4 +48,4 @@ date: January 01 2020
   associate director of the Small Business Development Center; Mike Mahan, vice
   president for University Advancement at CSUMB. <em>Photo by Don Porter</em>
 </p>
-```
+ 

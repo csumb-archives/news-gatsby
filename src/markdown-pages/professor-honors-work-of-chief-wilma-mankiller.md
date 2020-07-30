@@ -75,4 +75,4 @@ date: January 01 2020
   honor her extraordinary work and life, not only for native women and the
   Cherokee Nation, but for women across the world."
 </p>
-```
+ 

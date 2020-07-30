@@ -39,4 +39,4 @@ date: January 01 2020
   <a href="https://www.thestartupchallenge.org/">www.thestartupchallenge.org</a>
   or contact StartupMB@csumb.edu.
 </p>
-```
+ 

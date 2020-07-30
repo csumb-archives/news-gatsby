@@ -45,4 +45,4 @@ date: January 01 2020
   is it gives students the opportunity to see what we talk about," says Jens.
   "They can see what I'm doing. It's not just teaching, it's showing."
 </p>
-```
+ 

@@ -10,4 +10,4 @@ date: January 01 2020
   canonization of Father Serra.
 </p>
 <p>– <em>New York Times</em>, Sept. 19, 2015</p>
-```
+ 

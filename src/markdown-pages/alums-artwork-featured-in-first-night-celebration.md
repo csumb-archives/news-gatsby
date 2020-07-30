@@ -45,4 +45,4 @@ date: January 01 2020
   building community, and creating innovative programming. To learn more about
   the design program at CSUMB, click here.
 </p>
-```
+ 

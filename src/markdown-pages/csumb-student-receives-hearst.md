@@ -33,4 +33,4 @@ date: January 01 2020
   Hearst/Trustees' Award for Outstanding Achievement. Contributions from CSU
   Trustees and private donors supplement the endowment.
 </p>
-```
+ 

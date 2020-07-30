@@ -37,4 +37,4 @@ date: January 01 2020
   exist to promote the mental health of CSUMB students in order to improve and
   maintain the highest quality of life during their pursuit of academic success.
 </p>
-```
+ 

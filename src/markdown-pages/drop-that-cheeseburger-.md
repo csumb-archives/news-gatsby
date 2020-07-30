@@ -77,4 +77,4 @@ date: January 01 2020
 <p>
   Learn more about <a href="https://csumb.edu/node/9172">dining at CSUMB</a>.
 </p>
-```
+ 

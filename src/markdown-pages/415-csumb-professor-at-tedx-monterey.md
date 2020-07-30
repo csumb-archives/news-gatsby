@@ -69,4 +69,4 @@ date: January 01 2020
   performs Japanese Taiko drumming • E.J. Svensson, media entrepreneur and
   author of A Decade and A Day
 </p>
-```
+ 

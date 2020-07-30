@@ -33,4 +33,4 @@ date: January 01 2020
   divinity from Fuller Theological Seminary.
 </p>
 <p><em>Published March 22, 2016</em></p>
-```
+ 

@@ -50,4 +50,4 @@ date: January 01 2020
   <strong>2-3:35 p.m.</strong> – Panel discussion
   <strong>3:35-3:50 p.m.</strong> – Closing remarks by Dr. Barbeau
 </p>
-```
+ 

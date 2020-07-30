@@ -39,4 +39,4 @@ date: January 01 2020
   facility, at 576 Hartnell St., to give blood. Call 625-4814 to make an
   appointment. <em>Photo: Brian Scott uses the time to work on his iPad</em>
 </p>
-```
+ 

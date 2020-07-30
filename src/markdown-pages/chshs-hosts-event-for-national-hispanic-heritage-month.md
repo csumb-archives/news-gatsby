@@ -39,4 +39,4 @@ date: January 01 2020
   For questions or special accommodations, contact Riley Tinney at
   rtinney@csumb.edu or ext. 3736.
 </p>
-```
+ 

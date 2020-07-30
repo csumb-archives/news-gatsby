@@ -196,4 +196,4 @@ currently writes a weekly column in the Monterey County Herald,
 
 
 
-```
+ 

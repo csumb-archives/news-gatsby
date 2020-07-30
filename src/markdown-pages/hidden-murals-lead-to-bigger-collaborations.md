@@ -12,4 +12,4 @@ date: January 01 2020
   Transition Center.
 </p>
 <p>– <em>Monterey Herald</em>, Nov. 10, 2015</p>
-```
+ 

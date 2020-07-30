@@ -92,4 +92,4 @@ date: January 01 2020
 </h3>
 <p>Use #MBgrad18 on your posts commemorating this special day.</p>
 <h2><a href="https://csumb.edu/commencement">Commencement FAQ</a></h2>
-```
+ 

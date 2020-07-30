@@ -73,4 +73,4 @@ date: January 01 2020
   Learn more about the communication design program
   <a href="https://itcd.csumb.edu/bs-cd">here</a>.
 </p>
-```
+ 

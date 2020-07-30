@@ -56,4 +56,4 @@ date: January 01 2020
   Enrichment Committee. For more information, contact Associated Students
   adviser Ajamu Lamumba at 582-3698.
 </p>
-```
+ 

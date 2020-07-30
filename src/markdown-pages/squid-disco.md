@@ -13,4 +13,4 @@ date: January 01 2020
   with a solution, and in so doing created "Squid Disco." – *Science and the CSU
   *blog, Feb. 17, 2012
 </p>
-```
+ 

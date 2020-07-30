@@ -12,4 +12,4 @@ date: January 01 2020
   league's individual medalist-champion every year since 2008-09. –
   <em>The Salinas Californian</em>, April 22, 2013
 </p>
-```
+ 

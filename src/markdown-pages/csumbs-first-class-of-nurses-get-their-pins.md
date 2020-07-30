@@ -10,4 +10,4 @@ date: January 01 2020
   pinning ceremony on Dec. 20. The ceremony marked a milestone for the students
   and for the university. – &#42;Monterey Herald&#42;, Dec. 31, 2014
 </p>
-```
+ 

@@ -77,4 +77,4 @@ date: January 01 2020
     >more information about the Krause scholarship</a
   >, including the application deadline.
 </p>
-```
+ 

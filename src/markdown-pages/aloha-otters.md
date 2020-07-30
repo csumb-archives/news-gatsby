@@ -10,4 +10,4 @@ date: January 01 2020
   Invitational in Hawaii, as the Otters won the team title and Oskar Nystrom won
   the individual title. – Monterey Herald, Nov. 3, 2010
 </p>
-```
+ 

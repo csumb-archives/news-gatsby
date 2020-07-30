@@ -29,4 +29,4 @@ date: January 01 2020
   Community members should be aware that traffic is expected to be heavy in the
   areas adjacent to campus for much of the day.
 </p>
-```
+ 

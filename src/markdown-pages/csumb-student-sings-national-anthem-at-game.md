@@ -10,4 +10,4 @@ date: January 01 2020
   opening of the San Francisco 49ers' new stadium in Santa Clara. –
   <em>Monterey Herald,</em> Aug. 22, 2014
 </p>
-```
+ 

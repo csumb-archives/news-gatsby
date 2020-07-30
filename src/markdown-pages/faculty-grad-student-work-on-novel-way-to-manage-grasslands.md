@@ -52,4 +52,4 @@ date: January 01 2020
   permission. Top photo: Goats grazing on BLM land Bottom photo: Coyote
   brush&#42;
 </p>
-```
+ 

@@ -53,4 +53,4 @@ date: January 01 2020
   <a href="https://csumb.edu/directory/people/corey&#45;garza">Corey Garza</a>
   or <a href="https://csumb.edu/directory?s=Megan+Bassett">Megan Bassett</a>.
 </p>
-```
+ 

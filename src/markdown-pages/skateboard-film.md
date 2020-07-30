@@ -30,4 +30,4 @@ date: January 01 2020
   The film will be shown at 7 p.m., Dec. 7 at the Salinas Moose Lodge, 111
   Monterey St. Admission is free.
 </p>
-```
+ 

@@ -38,4 +38,4 @@ slug: csumb-commemorates-constitution-day
     style="float:left; width:550px; height:712px"
   />
 </p>
-```
+ 

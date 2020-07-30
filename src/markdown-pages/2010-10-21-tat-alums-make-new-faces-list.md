@@ -41,4 +41,4 @@ slug: tat-alums-make-&apos;new-faces&apos;-list
   faculty member who is on leave. Ojeda-Beck is enrolled in the Master of Fine
   Arts program at UC Berkeley with a fellowship to help cover the cost.
 </p>
-```
+ 

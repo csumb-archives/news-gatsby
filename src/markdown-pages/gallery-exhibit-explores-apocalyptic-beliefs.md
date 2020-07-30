@@ -47,4 +47,4 @@ date: January 01 2020
   <a href="https://balbrutzgallery.tumblr.com/">here</a>.
 </p>
 <p>Above:* Battle Flag of the Unknown Artist *by Xavier Bellante.</p>
-```
+ 

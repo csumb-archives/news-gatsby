@@ -22,4 +22,4 @@ slug: department-veteran-named-new-campus-police-chief
   San Luis Obispo. His extensive professional education includes training at the
   FBI National Academy.
 </p>
-```
+ 

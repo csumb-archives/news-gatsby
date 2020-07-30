@@ -43,4 +43,4 @@ date: January 01 2020
   Seaside City Hall**Bottom Photo: One of the display cases at the Seaside
   exhibit. Photo by Steven Levinson*
 </p>
-```
+ 

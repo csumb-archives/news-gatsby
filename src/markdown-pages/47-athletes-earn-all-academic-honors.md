@@ -42,4 +42,4 @@ date: January 01 2020
   only school to place three men's basketball players on the list.
 </p>
 <p>Overall, only UC San Diego (84) had more honorees than the Otters.</p>
-```
+ 

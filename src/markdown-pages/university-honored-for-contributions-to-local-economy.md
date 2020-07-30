@@ -42,4 +42,4 @@ date: January 01 2020
   Summer Arts will be located on campus for at least the next five years and
   will enhance the region’s vibrant arts scene.
 </p>
-```
+ 

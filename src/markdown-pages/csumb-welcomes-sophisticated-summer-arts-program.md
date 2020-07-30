@@ -11,4 +11,4 @@ date: January 01 2020
   filmmakers, writers and dancers, who will conduct intensive two-week workshops
   in their respective fields. – <em>Carmel Magazine</em>, spring/summer 2012
 </p>
-```
+ 

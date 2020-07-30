@@ -10,4 +10,4 @@ date: January 01 2020
   participating in a women's rights conference Sept. 7-9 at the National
   Steinbeck Center in Salinas. – <em>Marina Gazette</em>, Aug. 20, 2012
 </p>
-```
+ 

@@ -50,4 +50,4 @@ date: January 01 2020
   Ellie Kincade, outreach specialist for REI's Marina store. "It's the perfect
   match. It feels like family."
 </p>
-```
+ 

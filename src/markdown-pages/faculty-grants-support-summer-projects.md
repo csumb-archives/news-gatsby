@@ -30,4 +30,4 @@ date: January 01 2020
   pedagogy into the new BIO 211 “Ecology, Evolution, Biodiversity and Plants”
   course
 </p>
-```
+ 

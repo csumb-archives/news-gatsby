@@ -56,4 +56,4 @@ date: January 01 2020
   For a map of campus and driving directions, visit csumb.edu/map. For
   disability accommodations or more information on the panel, call 582-4232.
 </p>
-```
+ 

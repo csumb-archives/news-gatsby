@@ -31,4 +31,4 @@ date: January 01 2020
     >full schedule of events is available here</a
   >. All events are open to the public and free of charge.
 </p>
-```
+ 

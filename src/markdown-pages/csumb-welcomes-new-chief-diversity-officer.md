@@ -45,4 +45,4 @@ date: January 01 2020
   promoting inclusion and equity across the university and helping to prepare
   students to thrive in the global, multicultural society of the 21st century.
 </p>
-```
+ 

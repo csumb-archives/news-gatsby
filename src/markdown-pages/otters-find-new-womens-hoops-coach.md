@@ -10,4 +10,4 @@ date: January 01 2020
   associate head coach Kerri Nakamoto the seventh head coach in the team's
   history. – <em>Monterey Herald</em>, June 25, 2013
 </p>
-```
+ 

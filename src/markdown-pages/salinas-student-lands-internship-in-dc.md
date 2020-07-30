@@ -12,4 +12,4 @@ date: January 01 2020
   mining Reclamation and Enforcement in the U.S. Department of the Interior. –
   <em>The Salinas Californian</em>, Oct. 2, 2014
 </p>
-```
+ 

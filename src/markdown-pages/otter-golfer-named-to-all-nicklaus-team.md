@@ -31,4 +31,4 @@ date: January 01 2020
   finishes, including three tournament victories topped by a Central/West Super
   Regional win in New Mexico.
 </p>
-```
+ 

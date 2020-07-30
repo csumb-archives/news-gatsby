@@ -12,4 +12,4 @@ date: January 01 2020
   fascinating courses that don't involve slaving over a word processor. –
   <em>Off 68</em>, Jan. 6, 2012
 </p>
-```
+ 
