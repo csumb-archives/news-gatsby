@@ -4,7 +4,7 @@ date: July 3 2012
 slug: math-academy-gives-students-a-second-chance
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Jul 03, 2012 </span>
 

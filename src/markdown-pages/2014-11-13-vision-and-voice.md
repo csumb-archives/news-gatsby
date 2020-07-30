@@ -4,7 +4,7 @@ date: November 13 2014
 slug: vision-and-voice
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Nov 13, 2014 </span>
 

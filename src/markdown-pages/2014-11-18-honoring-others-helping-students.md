@@ -4,7 +4,7 @@ date: November 18 2014
 slug: honoring-others-helping-students
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Nov 18, 2014 </span>
 

@@ -4,7 +4,7 @@ date: November 2 2011
 slug: changing-of-the-guard-at-radio-station-kazu
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Nov 02, 2011 </span>
 

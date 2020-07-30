@@ -4,7 +4,7 @@ date: December 2 2012
 slug: concert-features-chamber-music-by-csumb-instructor
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Dec 02, 2012 </span>
 

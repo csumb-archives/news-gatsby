@@ -4,7 +4,7 @@ date: December 18 2014
 slug: plant-yourself-at-csumb
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Dec 18, 2014 </span>
 

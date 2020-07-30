@@ -4,7 +4,7 @@ date: May 29 2013
 slug: thousands-celebrate-commencement
 ---
 
-`html`html
+    
 
 <span class="date">Posted on May 29, 2013 </span>
 

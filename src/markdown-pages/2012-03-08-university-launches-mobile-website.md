@@ -4,7 +4,7 @@ date: March 8 2012
 slug: university-launches-mobile-website
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Mar 08, 2012 </span>
 

@@ -5,7 +5,7 @@ date: November 16 2006
 slug: &gt;- homelessness-week-focus-csumb-students-shed-light-on-severe-needs-in-county
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Nov 16, 2006 </span>
 Students at California State University, Monterey Bay have been

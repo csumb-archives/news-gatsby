@@ -4,7 +4,7 @@ date: January 16 2015
 slug: macarthur-fellows-to-visit-csumb
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Jan 16, 2015 </span>
 

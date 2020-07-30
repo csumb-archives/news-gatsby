@@ -4,7 +4,7 @@ date: September 10 2013
 slug: lifesaving-devices-installed-on-campus
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Sep 10, 2013 </span>
 

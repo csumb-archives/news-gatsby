@@ -4,7 +4,7 @@ date: July 27 2014
 slug: csumb-carmel-collaborate-on-city-project
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Jul 27, 2014 </span>
 

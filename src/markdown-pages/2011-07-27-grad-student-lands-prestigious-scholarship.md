@@ -4,7 +4,7 @@ date: July 27 2011
 slug: grad-student-lands-prestigious-scholarship
 ---
 
-`html`html
+    
 
 <span class="date">Posted on Jul 27, 2011 </span>
 
