@@ -4,7 +4,7 @@ title: "CSU Monterey Bay students helping Carmel River dam removal project"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The 106-foot-high, sediment-filled San Clemente Dam on the Carmel River will
   be torn down in August. Federal, state and local officials said the largest

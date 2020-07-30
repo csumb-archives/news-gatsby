@@ -4,7 +4,7 @@ date: November 3 2010
 slug: dia-de-los-muertos-2009
 ---
 
-```html
+ 
 
 
 

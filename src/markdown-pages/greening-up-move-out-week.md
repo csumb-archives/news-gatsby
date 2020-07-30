@@ -4,7 +4,7 @@ title: "'Greening up' move-out week"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 24, 2010</p>
 <p>
   Another graduation weekend has come and gone, with families flocking to town

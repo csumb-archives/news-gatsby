@@ -4,7 +4,7 @@ title: "Inaugural MSPA Class Visits Campus for Orientation"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., November 8, 2018 – California State University, Monterey Bay’s
   (CSUMB) Master of Science Physician Assistant (MSPA) program welcomed it’s

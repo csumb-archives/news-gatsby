@@ -4,7 +4,7 @@ title: "Big data is a big deal"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>GRANT HELPS STUDENTS PREPARE FOR CAREERS IN DATA SCIENCE</p>
 <p>
   The National Institutes of Health has awarded Cal State Monterey Bay $1

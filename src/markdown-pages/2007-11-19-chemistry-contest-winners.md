@@ -4,7 +4,7 @@ date: November 19 2007
 slug: chemistry-contest-winners
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 19, 2007 </span>
 <p>
   Alisal High School students Miguel Zauala, Pedro Ramirez and Karina Garcia,

@@ -4,7 +4,7 @@ date: April 27 2012
 slug: art-in-the-service-of-science
 ---
 
-```html
+ 
 
 
 

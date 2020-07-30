@@ -4,7 +4,7 @@ title: "El Nino pushes California calamari landings down"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor Louis Zeidberg explained that higher temperatures may be altering
   the briny buffet of krill and other small crustaceans that market squid eat,

@@ -4,7 +4,7 @@ title: "CSUMB students looks at ways to improve Castroville's economy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Monterey County's Redeveloment Agency contracted with CSUMB's School of
   Business and the campus' Small Business Development Center to improve the

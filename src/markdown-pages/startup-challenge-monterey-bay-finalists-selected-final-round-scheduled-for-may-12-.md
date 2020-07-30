@@ -4,7 +4,7 @@ title: "Startup Challenge Monterey Bay Finalists Selected: Final Round Scheduled
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., April 10, 2017 – A record-setting field of 91 entrepreneurs
   from Monterey, Santa Cruz and San Benito counties has been whittled down to 24

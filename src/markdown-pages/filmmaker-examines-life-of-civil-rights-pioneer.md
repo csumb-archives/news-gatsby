@@ -4,7 +4,7 @@ title: "Filmmaker examines life of civil rights pioneer"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>BYRON RUMFORD CHAMPIONED LANDMARK STATE LEGISLATION</p>
 <p>
   <a href="https://dougharrismedia.com/home.html">Doug Harris</a> has been making

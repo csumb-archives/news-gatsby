@@ -4,7 +4,7 @@ title: "CSUMB earns recognition in U.S. News"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 20, 2009</p>
 <p>
   The service learning program at CSU Monterey Bay has been recognized by the

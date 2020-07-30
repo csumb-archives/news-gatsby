@@ -4,7 +4,7 @@ title: "University celebrates Preparedness Month"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay will host two events for community members to mark National
   Preparedness Month, an annual campaign that encourages people to prepare their

@@ -4,7 +4,7 @@ title: "Kinesiology professors present research at international conference"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Do physiological factors drive exercise addiction? Does substance abuse play a
   role?

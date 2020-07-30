@@ -4,7 +4,7 @@ title: "Corporations, NSF team up to improve STEM retention"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Faculty at CSU Monterey Bay had already teamed up with a local two-year
   school, Hartnell College, on a program helping students make the transition to

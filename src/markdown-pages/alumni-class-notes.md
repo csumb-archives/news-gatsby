@@ -4,7 +4,7 @@ title: "Alumni Class Notes"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>2010</h4>
 <p>
   **KATY BJERKE **(2010, B.A., Visual and Public Art) is the guest services

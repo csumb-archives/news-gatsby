@@ -4,7 +4,7 @@ title: "CSUMB makes magazine's list of top schools"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   University is recognized on measures of research, service, social mobility
 </p>

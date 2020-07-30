@@ -4,7 +4,7 @@ title: "Film program in the spotlight"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>By Mike Hornick</strong> In advance of the 2010 Sundance Film
   Festival, an online film journal called IndieWIRE.com took note of the

@@ -4,7 +4,7 @@ title: "Another national honor for Service Learning program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay was a finalist for the Presidential Award as part of the 2012
   President’s Higher Education Community Service Honor Roll, the highest federal

@@ -4,7 +4,7 @@ title: "CSUMB recognized by Princeton Review"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB has been named one of the nation's most eco-friendly responsible schools
   by the Princeton Review and the US Green Building Council. The school was

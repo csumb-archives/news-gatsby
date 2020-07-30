@@ -4,7 +4,7 @@ title: "A fish story"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Interns help to rescue 40,000 steelhead</h3>
 <p>
   CSU Monterey Bay students help the local community in a variety of ways, as

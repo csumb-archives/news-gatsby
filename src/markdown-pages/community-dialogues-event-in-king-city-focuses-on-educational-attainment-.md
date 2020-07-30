@@ -4,7 +4,7 @@ title: "Community Dialogues Event in King City Focuses on Educational Attainment
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., May 4, 2018 – CSUMB President Eduardo M. Ochoa hosted a
   facilitated dialogue to discuss educational attainment with South Monterey

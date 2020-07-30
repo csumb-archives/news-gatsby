@@ -4,7 +4,7 @@ title: "Alumna awarded Fulbright Scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   As Elizabeth Romanoff (WLC ’08) nears the end of her time in Washington, D.C.,
   she is busy wrapping up her work with Save the Children, a non-governmental

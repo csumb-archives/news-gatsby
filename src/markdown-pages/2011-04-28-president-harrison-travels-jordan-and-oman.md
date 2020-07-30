@@ -4,7 +4,7 @@ date: April 28 2011
 slug: president-harrison-travels-to-jordan-and-oman
 ---
 
-```html
+ 
 
 
 

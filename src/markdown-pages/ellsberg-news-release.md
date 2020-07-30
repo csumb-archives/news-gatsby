@@ -4,7 +4,7 @@ title: "Ellsberg News Release"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Pentagon Papers whistleblower Daniel Ellsberg visits campus Nov. 28</h4>
 <p>
   The CSUMB President's Speakers Series concludes this semester's presentations

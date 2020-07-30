@@ -4,7 +4,7 @@ title: "Campus marks Constitution Day"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   How often do university students, grade-school children, federal office
   workers and CIA agents all receive a lesson on the same topic?

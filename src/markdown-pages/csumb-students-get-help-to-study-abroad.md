@@ -4,7 +4,7 @@ title: "CSUMB students get help to study abroad"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Austin Rettinghouse is not your typical study-abroad student. He’s male. He’s
   majoring in Japanese, not humanities — the most popular field among students

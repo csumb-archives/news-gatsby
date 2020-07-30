@@ -4,7 +4,7 @@ date: September 22 2014
 slug: salinas-resident-earns-csu-trustee-award
 ---
 
-```html
+ 
 
 
 

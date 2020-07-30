@@ -4,7 +4,7 @@ title: "CSUMB Global Studies Major Receives Scholarship of Excellence Award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., December 6, 2019 – CSUMB Global Studies major Palia Vang was
   recently recognized for her high academic achievements and exceptional service

@@ -4,7 +4,7 @@ date: May 4 2009
 slug: teacher-ed-accredidation
 ---
 
-```html
+ 
 <span class="date">Posted on May 04, 2009 </span>
 <p>May 4, 2009</p>
 <h4>CSUMB receives national accreditation for School of Education</h4>

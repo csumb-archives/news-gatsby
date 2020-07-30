@@ -4,7 +4,7 @@ title: "Panel examines issues of race, disability"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Public invited to April 10 event</h3>
 <p>
   On April 10, the community is invited to join a panel presentation at CSU

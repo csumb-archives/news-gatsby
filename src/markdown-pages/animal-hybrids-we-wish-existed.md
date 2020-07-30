@@ -4,7 +4,7 @@ title: "Animal Hybrids We Wish Existed"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . The Science Illustration program at CSU Monterey Bay is a training
   ground for artists who love science and nature. We enticed 11 alums and

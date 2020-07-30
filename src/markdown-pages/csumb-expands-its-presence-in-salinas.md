@@ -4,7 +4,7 @@ title: "CSUMB expands its presence in Salinas"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>CLASSES TO BE OFFERED AT NORTH MAIN STREET LOCATION</p>
 <p>
   Cal State Monterey Bay has leased the main building vacated by last year’s

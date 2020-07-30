@@ -4,7 +4,7 @@ title: "Searching for the spirit of America"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Cody Kyle likes big adventures.</p>
 <p>
   The CSU Monterey Bay alumnus (TAT 2010) and his brother Tyler just completed

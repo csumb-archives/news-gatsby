@@ -4,7 +4,7 @@ title: "Soccer player earns Trustees' scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay sophomore Regan Porteous has been selected to receive a
   <a href="https://www.calstate.edu/foundation/hearst/"

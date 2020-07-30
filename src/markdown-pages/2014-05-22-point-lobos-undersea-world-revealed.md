@@ -4,7 +4,7 @@ date: May 22 2014
 slug: point-lobos-undersea-world-revealed
 ---
 
-```html
+ 
 
 
 

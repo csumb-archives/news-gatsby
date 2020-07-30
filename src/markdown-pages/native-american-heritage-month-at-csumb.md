@@ -4,7 +4,7 @@ title: "Native American Heritage Month at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB Professor George Baldwin among presenters</h3>
 <p>
   Flute player <a href="https://akaflutemanent.com/">David Wolfs Robe</a> will

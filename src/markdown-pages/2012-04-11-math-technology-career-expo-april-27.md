@@ -4,7 +4,7 @@ date: April 11 2012
 slug: math-technology-career-expo-april-27
 ---
 
-```html
+ 
 
 
 

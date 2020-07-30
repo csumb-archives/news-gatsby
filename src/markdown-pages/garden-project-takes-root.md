@@ -4,7 +4,7 @@ title: "Garden project takes root"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>At CSUMB, student garden will provide food for mind, body</h3>
 <p>
   Tomatoes, carrots, squash and other vegetables are sprouting on college

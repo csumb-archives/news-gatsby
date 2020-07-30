@@ -4,7 +4,7 @@ title: "Study Abroad  07-08"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   After a rigorous application process, seventeen students from California State
   University, Monterey Bay have been chosen to study abroad for an academic

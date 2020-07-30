@@ -4,7 +4,7 @@ title: "CSUMB artists exhibit capstone projects"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . An eight-foot iPhone displaying a documentary on Ed Ricketts' Lab. . .
   this is just one of the ambitious art installations that will be on display

@@ -4,7 +4,7 @@ date: April 21 2014
 slug: undergraduate-research-pays-off-big
 ---
 
-```html
+ 
 
 
 

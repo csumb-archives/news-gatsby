@@ -4,7 +4,7 @@ date: November 26 2014
 slug: campus-closed-nov.-27-and-28
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 26, 2014 </span>
 <p>
   CSU Monterey Bay will observe the Thanksgiving holiday on Thursday and Friday,

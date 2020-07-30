@@ -4,7 +4,7 @@ title: "Internal Communications"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Announcements</h2>
 <p>
   <em

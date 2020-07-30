@@ -4,7 +4,7 @@ title: "Freshmen compete to be tops in bots "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 1, 2010</p>
 <p>
   Huddled over a gray robot, a student pushed the start button and watched as

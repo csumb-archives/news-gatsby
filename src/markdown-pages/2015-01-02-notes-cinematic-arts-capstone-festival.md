@@ -4,7 +4,7 @@ date: January 2 2015
 slug: notes-from-cinematic-arts-capstone-festival
 ---
 
-```html
+ 
 
 
 

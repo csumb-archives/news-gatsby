@@ -4,7 +4,7 @@ title: "Birds of a feather count together"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>RETURN OF THE NATIVES' ANNUAL BIRD COUNT SET FOR JAN. 16</p>
 <p>
   Volunteers are needed starting at 7 a.m., Saturday, Jan. 16, to look for

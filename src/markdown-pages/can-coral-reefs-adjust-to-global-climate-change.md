@@ -4,7 +4,7 @@ title: "Can coral reefs adjust to global climate change?"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>CSUMB professor's research indicates the possibility of survival</h4>
 <p>
   A study by scientists at Cal State University Monterey Bay, the University of

@@ -4,7 +4,7 @@ title: "Grants help students GEAR UP for college"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Middle school students in Monterey County will be better equipped for college
   thanks to federal grants awarded to Cal State Monterey Bay.

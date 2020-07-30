@@ -4,7 +4,7 @@ title: "Hoops under way at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The first practice of the basketball season didn't feel that way for Kerri
   Nakamoto. The CSU Monterey Bay women's basketball coach had been interacting

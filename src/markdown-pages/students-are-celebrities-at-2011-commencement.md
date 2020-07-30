@@ -4,7 +4,7 @@ title: "Students are 'celebrities' at 2011 commencement"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>‘You are today’s celebrities,’ President Harrison tells graduates</h3>
 <p>
   On a sunny, breezy morning, President Dianne Harrison shared a few pieces of

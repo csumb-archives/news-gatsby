@@ -4,7 +4,7 @@ title: "FBI profiler visits campus March 13"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Talk involves his work on crimes against children</h3>
 <p>
   The community is invited to attend a lecture on March 13 by an FBI agent who

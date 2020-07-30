@@ -4,7 +4,7 @@ title: "Log me on to the ballgame"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Watch the Otters online</h3>
 <p>
   The Internet has sparked an evolution in college sports viewing, and CSUMB has

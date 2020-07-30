@@ -4,7 +4,7 @@ title: "CSUMB among greenest schools in nation"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay is one of the most environmentally responsible colleges in
   the U.S. and Canada, according to the Princeton Review. –

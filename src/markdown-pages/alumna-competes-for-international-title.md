@@ -4,7 +4,7 @@ title: "Alumna competes for international title"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>A scuba beauty pageant?</h3>
 <p>
   “Saltwater runs through my veins,” said Chanel Hason, a 2010 graduate of the

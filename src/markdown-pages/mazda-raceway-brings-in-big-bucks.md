@@ -4,7 +4,7 @@ title: "Mazda Raceway brings in big bucks"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Research conducted by Jarrett Bachman of CSUMB’s College of Business reveals
   that Laguna Seca Raceway contributed more than $60 million to the Monterey

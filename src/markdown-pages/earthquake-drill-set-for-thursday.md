@@ -4,7 +4,7 @@ title: "Earthquake drill set for Thursday"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 12, 2009</p>
 <p>
   Along with schools and businesses, organizations such as the U.S Geological

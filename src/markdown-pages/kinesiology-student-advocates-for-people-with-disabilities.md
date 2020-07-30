@@ -4,7 +4,7 @@ title: "Kinesiology student advocates for people with disabilities"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Ania Flatau has taken kickboxing classes. What might surprise you is that she
   uses a wheelchair.

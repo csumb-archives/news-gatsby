@@ -4,7 +4,7 @@ date: January 21 2015
 slug: csumb-reaches-out-to-black-community-through-church-visits
 ---
 
-```html
+ 
 
 
 

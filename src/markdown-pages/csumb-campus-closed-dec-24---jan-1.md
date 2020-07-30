@@ -4,7 +4,7 @@ title: "CSUMB Campus Closed Dec. 24 - Jan. 1"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU, Monterey Bay campus, is closed from Tuesday, Dec. 24, 2019 through
   Wednesday, Jan. 1, 2020.

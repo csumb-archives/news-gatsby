@@ -4,7 +4,7 @@ title: "CSUMB Holds Ribbon Cutting for Academic III"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., October 11, 2019 – California State University, Monterey Bay
   (CSUMB) held a ribbon cutting ceremony today officially opening CSUMB’s newest

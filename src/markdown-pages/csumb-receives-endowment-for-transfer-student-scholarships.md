@@ -4,7 +4,7 @@ title: "CSUMB receives endowment for transfer-student scholarships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay has received $500,000 in scholarship endowment funds from the
   Bernard Osher Foundation of San Francisco. The gift is part of the

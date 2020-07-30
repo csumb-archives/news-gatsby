@@ -4,7 +4,7 @@ title: "California colleges opening more doors to disabled students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Disabilities are a reality for many students at local colleges and
   universities, but cutting-edge technology, modern teaching methods and

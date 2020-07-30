@@ -4,7 +4,7 @@ title: "Faculty research looks at language use in Salinas Valley"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Spanish spoken in the Salinas Valley has shown a remarkable degree of
   resilience, complexity and prowess that merits closer study, according to a

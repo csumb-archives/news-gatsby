@@ -4,7 +4,7 @@ title: "CSUMB Participates in the Great California Shakeout"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 19, 2017 – California State University Monterey Bay (CSUMB)
   students, faculty and staff participated in the world’s largest earthquake

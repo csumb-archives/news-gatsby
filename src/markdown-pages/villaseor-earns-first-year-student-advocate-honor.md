@@ -4,7 +4,7 @@ title: "Villaseñor earns ‘First-Year Student Advocate’ honor"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Maria Villaseñor, associate professor and coordinator of the First-Year
   Seminar program at Cal State Monterey Bay, has received national recognition

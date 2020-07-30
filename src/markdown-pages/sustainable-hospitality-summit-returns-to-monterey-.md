@@ -4,7 +4,7 @@ title: "Sustainable Hospitality Summit Returns to Monterey "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., January 11, 2019 – California State University, Monterey Bay
   (CSUMB) and the Monterey Bay Ecotourism Region (MBETR) initiative hosted the

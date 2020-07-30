@@ -4,7 +4,7 @@ date: May 3 2007
 slug: home-bass-ray-drummond-a-peninsula-professor-and-new-york-jazz-star
 ---
 
-```html
+ 
 
 
 

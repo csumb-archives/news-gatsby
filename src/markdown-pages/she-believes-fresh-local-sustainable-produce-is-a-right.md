@@ -4,7 +4,7 @@ title: "She believes fresh, local, sustainable produce is a right"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Her premise was simple: "Everyone deserves the right to access fresh, organic,
   locally grown produce." Execution wasn't. But Iris Peppard took it on as a

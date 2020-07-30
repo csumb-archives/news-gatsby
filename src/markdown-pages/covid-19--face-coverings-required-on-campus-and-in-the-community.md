@@ -4,7 +4,7 @@ title: "COVID-19 | Face coverings required on campus and in the community"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <i
     >This message was sent to all students, faculty, and staff on Wednesday,

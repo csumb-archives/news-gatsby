@@ -4,7 +4,7 @@ title: "CSUMB Set to Host 8th Annual Startup Hackathon "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., October 31, 2019 – California State University, Monterey Bay’s
   (CSUMB) Institute for Innovation and Economic Development (iiED) is set to

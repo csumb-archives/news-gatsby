@@ -4,7 +4,7 @@ title: "October 24, 2007"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>Txt Msgs Alert U</strong>&#42;<strong
     >Cell phones transmit safety alerts at CSUMB</strong

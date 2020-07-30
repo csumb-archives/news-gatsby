@@ -4,7 +4,7 @@ date: June 13 2014
 slug: milestone-marked-in-bit-building-construction
 ---
 
-```html
+ 
 
 
 

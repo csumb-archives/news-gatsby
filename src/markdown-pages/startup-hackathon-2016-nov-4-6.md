@@ -4,7 +4,7 @@ title: "Startup Hackathon 2016 Nov. 4-6"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 21, 2016 -- Cal State University Monterey Bay will host the
   5th annual Startup Hackathon weekend featuring 80 students from Monterey

@@ -4,7 +4,7 @@ title: "Campus food, clothing drives help the community"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay is embracing the spirit of the holiday season with a flurry
   of charitable activities intended to help the local community.

@@ -4,7 +4,7 @@ title: "School reformer to speak in Salinas"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 4, 2010</p>
 <p>***May 17 talk sponsored by Rethinking Schools of CSUMB ***</p>
 <p>

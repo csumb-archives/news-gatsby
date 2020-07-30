@@ -4,7 +4,7 @@ title: "Filmmaker series continues Nov. 15"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Experimental film tells tale of devotion, grief</h3>
 <p>
   No matter what you call it – experimental, off-beat, arty, eccentric – Brent

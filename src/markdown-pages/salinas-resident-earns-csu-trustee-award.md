@@ -4,7 +4,7 @@ title: "Salinas resident earns CSU Trustee Award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay sophomore Jesus Ochoa Perez has been chosen for a
   California State University Trustees' Award for Outstanding Achievement. He

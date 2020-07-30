@@ -4,7 +4,7 @@ title: "Campus hosts World Disc Golf Championships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When the
   <a href="//www.2011proworlds.com/">2011 Pro Disc Golf World Championships</a>

@@ -4,7 +4,7 @@ date: December 20 2007
 slug: noreservations_presspeakerseries
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 20, 2007 </span>
 <h4>National Book Award winner highlights spring speaker series</h4>
 <p>

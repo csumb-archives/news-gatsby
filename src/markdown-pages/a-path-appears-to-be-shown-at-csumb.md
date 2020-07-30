@@ -4,7 +4,7 @@ title: "'A Path Appears' to be shown at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>TWO SCREENINGS SET FOR OCT. 23</p>
 <p>
   In the documentary, A Path Appears, the subject is gender oppression, violence

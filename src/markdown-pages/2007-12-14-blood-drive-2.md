@@ -4,7 +4,7 @@ date: December 14 2007
 slug: blood-drive-2
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 14, 2007 </span>
 <p>
   Forty students, staff and faculty members of California State University,

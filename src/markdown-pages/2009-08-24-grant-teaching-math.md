@@ -4,7 +4,7 @@ date: August 24 2009
 slug: grant-helps-csumb-train-new-math-teachers
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Salinas student lands internship in D.C."
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Jesse Reyes of Salinas is determined to go from fixing trails to civic
   trailblazing when he returns home after an internship in Washington, D.C. The

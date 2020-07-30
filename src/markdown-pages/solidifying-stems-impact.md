@@ -4,7 +4,7 @@ title: "Solidifying STEM's impact"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Seven CSU campuses – including CSU Monterey Bay – will receive more than $35
   million from the U.S. Department of Education over the next five years to

@@ -4,7 +4,7 @@ title: "Open University opens up opportunities"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Maybe you’re interested in pursuing your bachelor's degree, preparing for a
   promotion at work or just want one class while you take some time off from an

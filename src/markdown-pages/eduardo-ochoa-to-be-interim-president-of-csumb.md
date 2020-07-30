@@ -4,7 +4,7 @@ title: "Eduardo Ochoa to be interim president of CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Eduardo M. Ochoa, the assistant secretary for postsecondary education, who has
   served in the Obama administration since 2010, will be taking the position of

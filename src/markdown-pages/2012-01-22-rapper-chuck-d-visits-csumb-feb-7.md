@@ -4,7 +4,7 @@ date: January 22 2012
 slug: rapper-chuck-d-visits-csumb-feb.-7
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Program teaches kids about the ocean"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Slough of Information</h3>
 <p>
   The CSU Monterey Bay-based Camp SEA Lab is in its second decade of offering

@@ -4,7 +4,7 @@ title: "Helping Fight Covid-19"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Science students working in labs have huge impact on testing efforts</h2>
 <p><b>By Sophia Huang McKenzie</b></p>
 <p><i>Published May 15, 2020</i></p>

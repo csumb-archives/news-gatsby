@@ -4,7 +4,7 @@ title: "Dr. Harrison appointed president of CSU Northridge"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The California State University Board of Trustees today named Dianne F.
   Harrison, president of California State University, Monterey Bay, as president

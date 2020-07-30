@@ -4,7 +4,7 @@ title: "Imagine College opens doors for youth"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Program brings Seaside HS students to campus</h3>
 <p>
   For many students, writing is a daunting task. Putting pen to paper (or

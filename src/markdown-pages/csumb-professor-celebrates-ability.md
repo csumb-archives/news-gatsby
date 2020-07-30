@@ -4,7 +4,7 @@ title: "CSUMB professor celebrates 'ability'"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>San Francisco public art project unveiled</h3>
 <p>
   Johanna Poethig, whose “Celebrate Ability” project is about to be unveiled at

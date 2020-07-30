@@ -4,7 +4,7 @@ date: December 14 2007
 slug: blood-drive
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 14, 2007 </span>
 <table style="height:177px">
   <tr class="odd">

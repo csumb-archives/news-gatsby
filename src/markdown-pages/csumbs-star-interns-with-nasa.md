@@ -4,7 +4,7 @@ title: "CSUMB's 'STAR' interns with NASA"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Math major prepares for teaching career</h3>
 <p>Kim Margosian landed an unusual internship for an aspiring teacher.</p>
 <p>

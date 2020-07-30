@@ -4,7 +4,7 @@ title: "U.S. News ranks Cal State Monterey Bay"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB is one of the top public universities in the Western United States,
   ranked 18th, according to the 2016 <em>U.S. News &amp; World Report</em> Best

@@ -4,7 +4,7 @@ date: January 8 2006
 slug: lights-camera-action!-csumb-grads-finding-behindthescenes-success-in-hollywood
 ---
 
-```html
+ 
 
 
 

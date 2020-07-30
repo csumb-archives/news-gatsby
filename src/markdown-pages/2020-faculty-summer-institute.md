@@ -4,7 +4,7 @@ title: "2020 Faculty Summer Institute"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>
   Presented by the Center for Academic Technologies and Teaching, Learning &
   Assessment

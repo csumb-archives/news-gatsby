@@ -4,7 +4,7 @@ date: September 3 2013
 slug: johnson-honored-for-lighting-design-work
 ---
 
-```html
+ 
 
 
 

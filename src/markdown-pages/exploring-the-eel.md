@@ -4,7 +4,7 @@ title: "Exploring the EEL"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong
     >Students and faculty combine scientific knowledge, practical know-how, and

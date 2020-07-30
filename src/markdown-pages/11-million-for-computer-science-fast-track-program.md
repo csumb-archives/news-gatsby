@@ -4,7 +4,7 @@ title: "$1.1 million for computer science fast-track program"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Collaboration between CSUMB, Hartnell to start in fall</h3>
 <p>
   CSU Monterey Bay and Hartnell College have received a grant of $1.1 million to

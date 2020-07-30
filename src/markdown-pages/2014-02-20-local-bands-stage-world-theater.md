@@ -4,7 +4,7 @@ date: February 20 2014
 slug: local-bands-on-stage-at-world-theater
 ---
 
-```html
+ 
 
 
 

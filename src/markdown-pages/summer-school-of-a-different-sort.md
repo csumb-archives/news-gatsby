@@ -4,7 +4,7 @@ title: "Summer school of a different sort"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   University teachers and students from Mexico are studying American language
   and culture this summer at CSU Monterey Bay.

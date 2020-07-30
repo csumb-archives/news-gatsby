@@ -4,7 +4,7 @@ title: "Marina, CSUMB team up on new housing project"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Those involved say there is much to be proud of when talking about The
   Promontory – the multi&#45;million dollar 579&#45;bed student housing project

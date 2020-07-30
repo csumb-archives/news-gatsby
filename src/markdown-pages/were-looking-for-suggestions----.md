@@ -4,7 +4,7 @@ title: "We're looking for suggestions . . . "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In partnership with local TV station KCBA, the university plans to produce a
   weekly program, “Campus to Community,” starting in January.

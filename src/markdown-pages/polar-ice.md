@@ -4,7 +4,7 @@ title: "Polar ICE"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay, in collaboration with Rutgers University, has received a
   three-year, $1,100,000 grant from the National Science Foundation to fund the

@@ -4,7 +4,7 @@ date: December 23 2014
 slug: campus-closed-for-holidays-through-jan.-2
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 23, 2014 </span>
 <p>
   <img

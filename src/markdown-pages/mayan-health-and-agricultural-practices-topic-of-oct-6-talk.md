@@ -4,7 +4,7 @@ title: "Mayan health and agricultural practices topic of Oct. 6 talk"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor Bernardo Ca’amal Itzá, the United Nations representative for the
   Mayan People, will visit Cal State Monterey Bay on Oct. 6 as part of Hispanic

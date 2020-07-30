@@ -4,7 +4,7 @@ title: "Milestone marked in Gambord building construction"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   At an informal gathering on June 12, CSU Monterey Bay staff members were
   joined by representatives of the architect and contractor to sign a beam that

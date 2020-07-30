@@ -4,7 +4,7 @@ title: "Talkin' more trash at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 19, 2009</p>
 <p>
   By the end of the fall semester, residents of East Campus housing will have

@@ -4,7 +4,7 @@ title: "CSU Summer Arts Announces 2020 Scholarship Program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For over 30 years, CSU Summer Arts has assembled some of the world’s best
   creative artists to teach and inspire students across all art genres. Due to

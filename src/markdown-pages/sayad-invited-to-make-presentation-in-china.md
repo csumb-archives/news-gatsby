@@ -4,7 +4,7 @@ title: "Sayad invited to make presentation in China"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Faculty member's book first human sexuality text to be published there</h3>
 <p>
   CSU Monterey Bay lecturer Barbara Sayad is about to make her first visit to

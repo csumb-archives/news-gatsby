@@ -4,7 +4,7 @@ title: "From field work to field research"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Julio Martinez, a biology major at CSUMB, researches lettuce disease
   with Carolee Bull, the principal investigator of a plant pathology lab at the

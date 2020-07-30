@@ -4,7 +4,7 @@ title: "Upward Bound program continues to soar"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB lands $2.7 million for pre-college program</h3>
 <p>
   CSU Monterey Bay’s Upward Bound program will continue to soar for at least

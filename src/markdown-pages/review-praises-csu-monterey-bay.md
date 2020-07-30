@@ -4,7 +4,7 @@ title: "Review praises CSU Monterey Bay"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>Accrediting commission cites grad rate, student success</strong> ? The
   Western Association of Schools and Colleges (WASC) Accrediting Commission on

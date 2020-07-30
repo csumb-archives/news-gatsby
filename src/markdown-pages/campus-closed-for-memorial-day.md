@@ -4,7 +4,7 @@ title: "Campus closed for Memorial Day"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay will be closed in observance of
   Memorial Day on Monday, May 28.

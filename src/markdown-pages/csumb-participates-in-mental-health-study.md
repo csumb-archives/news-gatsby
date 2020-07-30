@@ -4,7 +4,7 @@ title: "CSUMB participates in mental health study"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Starting this semester, six mental health clinicians at the Cal State Monterey
   Bay counseling center are participating in a five-year study on implementing

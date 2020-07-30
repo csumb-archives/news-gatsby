@@ -4,7 +4,7 @@ date: October 1 2013
 slug: egyptian-human-rights-activist-visits-oct.-28
 ---
 
-```html
+ 
 
 
 

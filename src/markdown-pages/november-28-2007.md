@@ -4,7 +4,7 @@ title: "November 28, 2007"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>Don't forget the giving tree</strong> It's become an annual tradition.
   University Human Resources has set up a "giving tree" in the lobby of Bldg. 23

@@ -4,7 +4,7 @@ title: "Illustrator, biologist create unique field guide"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Slime... mold?</h4>
 <p>
   You might find them in your garden, or spot them on the sides of rotting logs

@@ -4,7 +4,7 @@ title: "Prophetic 1982 film to be screened Oct. 1"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The community is invited to a screening of Godfrey Reggio’s prophetic 1982
   film, <em>Koyaanisqatsi</em> at 4 p.m., Oct. 1, in the TAT studio. The

@@ -4,7 +4,7 @@ title: "Chapman Science Academic Center"
 date: January 01 2020
 ---
 
-```html
+ 
 <h5>CSUMB's first newly constructed building wins merit award</h5>
 <p>
   The elemental mixture of wood, glass and masonry that makes up the exterior of

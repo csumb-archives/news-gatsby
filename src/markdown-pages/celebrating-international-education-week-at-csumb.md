@@ -4,7 +4,7 @@ title: "Celebrating International Education Week at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., November 8, 2018 – California State University, Monterey Bay’s
   (CSUMB)

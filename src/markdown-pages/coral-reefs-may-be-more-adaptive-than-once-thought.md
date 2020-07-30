@@ -4,7 +4,7 @@ title: "Coral reefs may be more adaptive than once thought"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Scientists studying the catastrophic phenomena of coral bleaching have
   concluded that reef systems may be more adaptable to increasingly warmer

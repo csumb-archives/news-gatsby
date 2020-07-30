@@ -4,7 +4,7 @@ title: "Consul General of Mexico in San Jose Visits CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., October 23, 2019 – California State University, Monterey Bay
   (CSUMB) welcomed the Honorable Consul General Alejandra Maria Gabriela Bologna

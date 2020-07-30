@@ -4,7 +4,7 @@ title: "CSUMB presents an evening with Lea DeLaria"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Orange is the New Black actress visits Oct. 15</h3>
 <p>
   An evening with Lea DeLaria will highlight Cal State Monterey Bay’s

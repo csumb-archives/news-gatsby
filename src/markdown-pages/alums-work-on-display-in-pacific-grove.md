@@ -4,7 +4,7 @@ title: "Alum's work on display in Pacific Grove"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>‘Steinbeck: The Art of Fiction’ includes sculpture by VPA grad</h3>
 <p>
   Work by alumnus Lew Aytes will be on display at the American Tin Cannery

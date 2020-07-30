@@ -4,7 +4,7 @@ title: "Film chronicles history of LGBT movement in L.A."
 date: January 01 2020
 ---
 
-```html
+ 
 <p>April 1, 2010</p>
 <p>Not everything began with Stonewall.</p>
 <p>

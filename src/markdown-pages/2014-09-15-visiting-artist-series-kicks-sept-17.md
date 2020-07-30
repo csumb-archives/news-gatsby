@@ -4,7 +4,7 @@ date: September 15 2014
 slug: visiting-artist-series-kicks-off-sept.-17
 ---
 
-```html
+ 
 
 
 

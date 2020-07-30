@@ -4,7 +4,7 @@ title: "Startup Weekend: A nice marriage of technical and non-technical "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Brad Barbeau, associate professor of entrepreneurship at CSU Monterey Bay,
   said this weekend's event was the best Startup Weekend that the university has

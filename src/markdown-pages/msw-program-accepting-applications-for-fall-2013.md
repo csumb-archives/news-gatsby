@@ -4,7 +4,7 @@ title: "MSW program accepting applications for fall 2013"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Anyone interested in the Master of Social Work program at CSU Monterey Bay is
   encouraged to

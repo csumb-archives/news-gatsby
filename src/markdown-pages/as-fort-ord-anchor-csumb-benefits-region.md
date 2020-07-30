@@ -4,7 +4,7 @@ title: "As Fort Ord anchor, CSUMB benefits region"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>By CSUMB President Dianne Harrison</p>
 <p>
   . . . We are leading the transformation of Fort Ord. The economy has delayed

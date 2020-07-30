@@ -4,7 +4,7 @@ title: "More dining options for those with food allergies"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Starting this semester, food allergy sufferers at CSU Monterey Bay will have
   an easier time finding meals that work for them.

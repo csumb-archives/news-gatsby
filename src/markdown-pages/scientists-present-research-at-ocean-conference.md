@@ -4,7 +4,7 @@ title: "Scientists present research at ocean conference"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The conference focused on management, policy, assessment and communication
   regarding marine and ocean issues. It was organized by California's Ocean

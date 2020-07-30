@@ -4,7 +4,7 @@ title: "Education scholar Diane Ravitch lectures Feb. 23"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Renowned school reformer Diane Ravitch has changed her mind</h2>
 <h3>
   Federal testing has narrowed education and charter schools have failed to live

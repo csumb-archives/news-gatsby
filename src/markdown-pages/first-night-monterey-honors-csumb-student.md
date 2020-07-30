@@ -4,7 +4,7 @@ title: "First Night Monterey honors CSUMB student"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB graduating graphic design student Viridiana Gallardo unveils her
   award-winning art at the First Night Monterey Press Conference on Dec 4. Read

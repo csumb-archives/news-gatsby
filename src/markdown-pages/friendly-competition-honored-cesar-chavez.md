@@ -4,7 +4,7 @@ title: "Friendly competition honored Cesar Chavez"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>SL Student Leaders log most hours in community service drive</h3>
 <p>
   <em>The end of all education should surely be service to others.</em> ?--

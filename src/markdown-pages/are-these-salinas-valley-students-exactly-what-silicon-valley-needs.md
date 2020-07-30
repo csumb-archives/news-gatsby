@@ -4,7 +4,7 @@ title: "Are these Salinas Valley students exactly what Silicon Valley needs?"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . They're all part of the inaugural class of CSIT&#45;in&#45;3. It's an
   intensive, accelerated coputer science degree program targeted at students

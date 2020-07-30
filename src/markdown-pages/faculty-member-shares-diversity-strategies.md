@@ -4,7 +4,7 @@ title: "Faculty member shares diversity strategies"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor Corey Garza has been successful in attracting underserved students –
   minorities, low income and first&#45;generation college students – to ocean

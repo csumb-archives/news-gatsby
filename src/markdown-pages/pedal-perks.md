@@ -4,7 +4,7 @@ title: "PEDAL PERKS"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Otter Pedal 2014 is coming to CSUMB Oct. 28</h3>
 <p>
   Students, faculty and staff are invited to pedal their way around campus,

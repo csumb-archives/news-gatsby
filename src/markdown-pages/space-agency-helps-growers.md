@@ -4,7 +4,7 @@ title: "Space agency helps growers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Growers in the Salinas and San Joaquin valleys are about to get help from
   above. "Growers have the best understanding of how much water is needed for

@@ -4,7 +4,7 @@ title: "CAMP Grant 2007"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay has received a $2 million federal
   grant aimed at enrolling more migrant students in higher education.

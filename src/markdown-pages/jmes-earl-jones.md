@@ -4,7 +4,7 @@ title: "Jmes Earl Jones"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The voice of James Earl Jones echoed through a Long Beach library on Dec. 10
   as the actor - who voiced Darth Vader in "Star Wars" - read to a group of

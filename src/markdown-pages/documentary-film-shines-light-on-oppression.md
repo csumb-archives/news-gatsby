@@ -4,7 +4,7 @@ title: "Documentary film shines light on oppression"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s Global Studies program and the Bahá'í Faith communities of
   Monterey County will host a screening and discussion of the film, “To Light a

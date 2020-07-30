@@ -4,7 +4,7 @@ title: "CSUMB Receives Grant to Enhance Suicide Prevention Training Programs"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 31, 2017 – CSU Monterey Bay (CSUMB) is slated to receive
   a three-year, $270,000 mental health and substance abuse grant from the U.S.

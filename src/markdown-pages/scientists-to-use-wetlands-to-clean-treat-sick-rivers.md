@@ -4,7 +4,7 @@ title: "Scientists to use wetlands to clean, treat sick rivers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Research by Professor Fred Watson was featured in a story on using wetlands to
   curtail nitrate levels in local rivers and streams.

@@ -4,7 +4,7 @@ title: "Animals that amaze, frighten us"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Spidershark, pandaroo and other creatures come to life</h4>
 <p>
   Wired magazine and online publication enlisted alumni from CSUMB’s science

@@ -4,7 +4,7 @@ title: "An animation celebration set for Dec 8."
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s
   <a href="https://csumb.edu/tat">Cinematic Arts and Technology Department </a

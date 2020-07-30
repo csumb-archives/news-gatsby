@@ -4,7 +4,7 @@ date: June 11 2013
 slug: mpa-lecturer-honored-by-composers-group
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "New book explores notion of 'Afro Cuba'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>UPDATE:</strong>&#42;Rebel Dance, Renegade Stance: Timba Music and
   Black Identity in Cuba&#42; is now available in paperback from the University

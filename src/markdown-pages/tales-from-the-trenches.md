@@ -4,7 +4,7 @@ title: "Tales from the Trenches"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Five local business owners share their stories at the spring Entrepreneurship
   Forum March 2.

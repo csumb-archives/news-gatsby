@@ -4,7 +4,7 @@ title: "CSUMB Police Officers Recognized for Life-Saving Actions"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., January 30, 2020 – Two California State University, Monterey Bay
   (CSUMB) University Police Department (UPD) officers were recognized this week

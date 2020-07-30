@@ -4,7 +4,7 @@ date: February 26 2012
 slug: csumb-new-home-to-summer-arts-program
 ---
 
-```html
+ 
 
 
 

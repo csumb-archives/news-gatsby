@@ -4,7 +4,7 @@ title: "Move-in day kicks off school year"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Hundreds of excited students carried, dragged and wheeled their belongings
   into the residence halls at CSU Monterey Bay on Aug. 24, the first day of the

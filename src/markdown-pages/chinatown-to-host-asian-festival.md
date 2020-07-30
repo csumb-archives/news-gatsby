@@ -4,7 +4,7 @@ title: "Chinatown to host Asian Festival"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The publilc is invited to witness and celebrate the on-going renewal of
   Salinas' Chinatown by attending the fourth annual Asian Festival on Saturday,

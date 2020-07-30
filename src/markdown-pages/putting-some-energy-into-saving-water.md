@@ -4,7 +4,7 @@ title: "Putting some energy into saving water"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Gone are the days when water could be wasted. And while that applies to the
   entire region, it’s especially important on the campus of California State

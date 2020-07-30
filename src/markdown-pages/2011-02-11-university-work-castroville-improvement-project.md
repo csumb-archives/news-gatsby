@@ -4,7 +4,7 @@ date: February 11 2011
 slug: university-to-work-on-castroville-improvement-project
 ---
 
-```html
+ 
 <span class="date">Posted on Feb 11, 2011 </span>
 <p>
   CSU Monterey Bay&#x2019;s School of Business and the local Small Business

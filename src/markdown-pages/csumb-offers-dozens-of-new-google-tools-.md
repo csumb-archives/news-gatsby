@@ -4,7 +4,7 @@ title: "CSUMB offers dozens of new Google tools "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay considers itself a "pre-release" campus; we want the latest
   features. This isn't to prove we're cool, but because we see an opportunity to

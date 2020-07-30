@@ -4,7 +4,7 @@ title: "CSUMB hosts business idea contest"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Entrepreneurial spirit will be alive, well and condensed next week at CSUMB.
   The university will host a Startup Weekend – a 54-hour frenzy to come up with

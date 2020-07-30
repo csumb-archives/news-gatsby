@@ -4,7 +4,7 @@ date: May 30 2006
 slug: banners-tell-farm-workers&apos;-stories
 ---
 
-```html
+ 
 
 
 

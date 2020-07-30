@@ -4,7 +4,7 @@ title: "PITCH BATTLES"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>A multimedia investigation into musical tunings</h3>
 <p>
   Machine Project, a Los Angeles-based arts organization, will visit CSU

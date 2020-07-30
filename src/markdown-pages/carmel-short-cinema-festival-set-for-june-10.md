@@ -4,7 +4,7 @@ title: "Carmel Short Cinema Festival set for June 10"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Orbit(film) explores outer space through storytelling</h4>
 <p>
   The Carmel Short Cinema Festival returns on June 10, sponsored by the Forest

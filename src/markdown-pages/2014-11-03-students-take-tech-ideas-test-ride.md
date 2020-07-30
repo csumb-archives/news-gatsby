@@ -4,7 +4,7 @@ date: November 3 2014
 slug: students-take-tech-ideas-for-test-ride
 ---
 
-```html
+ 
 
 
 

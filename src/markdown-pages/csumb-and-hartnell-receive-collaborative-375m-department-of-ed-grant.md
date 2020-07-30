@@ -4,7 +4,7 @@ title: "CSUMB and Hartnell Receive Collaborative $3.75M Department of Ed Grant"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., November 21, 2018 – A collaborative project between California
   State University Monterey Bay (CSUMB) and Hartnell College has been selected

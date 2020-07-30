@@ -4,7 +4,7 @@ date: April 19 2011
 slug: earth-to-csumb
 ---
 
-```html
+ 
 
 
 

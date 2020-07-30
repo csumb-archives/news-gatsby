@@ -4,7 +4,7 @@ title: "CSUMB Cinematic Arts Professor Luis Camara pens successful film screenpl
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Luis Camara has added another accomplishment to an impressive cinematic
   career. The longtime CSUMB Cinematic Arts professor wrote a screenplay for a

@@ -4,7 +4,7 @@ title: "University confers 800 degress"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>
   ‘Be a student for life' Suarez tells graduates CSU Monterey Bay confers 880
   degrees

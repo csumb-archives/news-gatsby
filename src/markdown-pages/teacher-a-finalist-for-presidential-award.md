@@ -4,7 +4,7 @@ title: "Teacher a finalist for presidential award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Stefanie Pechan, a CSUMB alumna and fifth-grade teacher, has been nominated
   for a national teaching award that could net her $10,000 and an opportunity to

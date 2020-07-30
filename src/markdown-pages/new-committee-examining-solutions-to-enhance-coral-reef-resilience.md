@@ -4,7 +4,7 @@ title: "New Committee Examining Solutions to Enhance Coral Reef Resilience"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., February 26, 2018 – The National Academies of Sciences,
   Engineering, and Medicine recently appointed a new committee of 12

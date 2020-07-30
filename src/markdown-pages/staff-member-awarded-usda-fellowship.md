@@ -4,7 +4,7 @@ title: "Staff member awarded USDA fellowship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Omar Murillo, interim coordinator of the TRiO Student Support Services
   program, was named a Kika de la Garza Education Fellow for 2015.

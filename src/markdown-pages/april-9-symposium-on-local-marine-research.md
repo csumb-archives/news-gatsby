@@ -4,7 +4,7 @@ title: "April 9 symposium on local marine research"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   "Ripple Effects," which looks at the worldwide impacts of local marine
   research, will be held on Saturday, April 9, at CSUMB's University Center on

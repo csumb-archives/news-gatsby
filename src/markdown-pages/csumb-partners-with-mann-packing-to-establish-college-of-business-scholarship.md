@@ -4,7 +4,7 @@ title: "CSUMB Partners with Mann Packing to establish  College of Business Schol
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay has signed an agreement with Mann Packing to provide a
   scholarship for the CSUMB College of Business. The Mann Packing Scholarship is

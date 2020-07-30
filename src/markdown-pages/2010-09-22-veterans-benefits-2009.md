@@ -4,7 +4,7 @@ date: September 22 2010
 slug: csumb-ready-to-serve-those-who-served
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 22, 2010 </span>
 <p>Aug. 4, 2009</p>
 <p>

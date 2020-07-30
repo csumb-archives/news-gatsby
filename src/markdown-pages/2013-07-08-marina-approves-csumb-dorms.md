@@ -4,7 +4,7 @@ date: July 8 2013
 slug: marina-approves-csumb-dorms
 ---
 
-```html
+ 
 
 
 

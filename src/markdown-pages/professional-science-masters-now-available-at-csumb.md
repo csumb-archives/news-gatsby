@@ -4,7 +4,7 @@ title: "Professional Science Master's now available at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Posted on Sept. 9, 2010</p>
 <p>Think of it as "science plus."</p>
 <p>

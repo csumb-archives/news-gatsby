@@ -4,7 +4,7 @@ title: "Book illuminates emotions around racism"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   “Combined Destinies: Whites Sharing Grief about Racism,” edited by Ann Todd
   Jealous and Caroline Haskell, was published about 18 months ago, but continues

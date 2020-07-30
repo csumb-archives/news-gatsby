@@ -4,7 +4,7 @@ title: "Rector CSU visita CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   El Recto del sistema CSU visito CSUMB y en conferencia de prensa hablo sobre
   como el cierre parcial del gobierno afectaria a est plantel educativo. Tambien

@@ -4,7 +4,7 @@ title: "Veterans History Project topic of panel"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Faculty member, students join Library of Congress staff members Feb. 25</p>
 <p>
   “<a

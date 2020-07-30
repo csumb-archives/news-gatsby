@@ -4,7 +4,7 @@ title: "Founding Faculty Oral History"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>
   Project provides historical record of memories, experiences during CSUMB's
   early years

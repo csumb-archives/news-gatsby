@@ -5,7 +5,7 @@ date: June 22 2006
 slug: &gt;- new-csumb-chief-gets-off-to-fast-start-harrison-era-begins-at-university
 ---
 
-```html
+ 
 
 
 

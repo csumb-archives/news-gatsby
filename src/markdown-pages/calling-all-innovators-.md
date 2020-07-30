@@ -4,7 +4,7 @@ title: "Calling all innovators!  "
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Business plan competition entries open</h3>
 <p>
   More than $50,000 in cash and services is being offered in the fourth Monterey

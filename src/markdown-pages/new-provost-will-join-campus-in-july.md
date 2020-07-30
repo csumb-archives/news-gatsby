@@ -4,7 +4,7 @@ title: "New provost will join campus in July"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Bonnie Irwin, dean of the College of Arts and Humanities and professor of
   English at Eastern Illinois University, has been named provost and vice

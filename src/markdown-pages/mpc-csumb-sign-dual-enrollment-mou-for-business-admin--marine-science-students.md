@@ -4,7 +4,7 @@ title: "MPC, CSUMB Sign Dual Enrollment MOU for Business Admin & Marine Science 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 15, 2017 – Monterey Peninsula College (MPC) and CSUMB
   solidified a new pathway program Monday, May 15, 2017 allowing for dual

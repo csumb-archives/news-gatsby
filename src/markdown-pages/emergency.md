@@ -4,7 +4,7 @@ title: "Emergency"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In case of local emergency, up-to-date information will be available to
   members of the CSUMB community by calling the public information phone line,

@@ -4,7 +4,7 @@ title: "New Public Affairs/Media Relations Manager at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The University Affairs team has officially welcomed Noah Rappahahn to serve as
   the new Public Affairs and Media Relations Manager for CSUMB.

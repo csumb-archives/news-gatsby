@@ -4,7 +4,7 @@ date: November 3 2014
 slug: stanford-futurist-kicks-off-president&apos;s-speaker-series
 ---
 
-```html
+ 
 
 
 

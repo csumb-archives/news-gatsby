@@ -4,7 +4,7 @@ date: November 30 2007
 slug: tat-film-festival
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 30, 2007 </span>
 <p>
   The World Theater on the campus of California State University, Monterey Bay

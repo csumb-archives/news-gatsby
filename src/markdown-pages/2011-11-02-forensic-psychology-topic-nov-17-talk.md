@@ -4,7 +4,7 @@ date: November 2 2011
 slug: forensic-psychology-topic-of-nov.-17-talk
 ---
 
-```html
+ 
 
 
 

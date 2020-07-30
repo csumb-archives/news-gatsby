@@ -4,7 +4,7 @@ title: "A touch of CSUMB at Days and Nights Festival"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Philip Glass’ Days and Nights Festival returns to the local area Sept. 25-28,
   with a big contribution from CSU Monterey Bay.

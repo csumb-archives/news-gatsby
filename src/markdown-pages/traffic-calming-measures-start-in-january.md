@@ -4,7 +4,7 @@ title: "Traffic calming measures start in January"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>
   Still have questions about the traffic calming measures on campus? Find more
   information in this FAQ.

@@ -4,7 +4,7 @@ title: "CSUMB competes in recycling rivalry"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay is among more than 600 colleges and universities that kicked
   off participation in RecycleMania on Feb. 12 to see who rules at recycling.

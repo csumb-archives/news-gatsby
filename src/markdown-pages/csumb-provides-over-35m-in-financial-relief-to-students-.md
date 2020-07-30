@@ -4,7 +4,7 @@ title: "CSUMB Provides over $3.5M in Financial Relief to Students "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, CA., May 11, 2020</b> - Cal State Monterey Bay distributed Federal
   CARES Act and Institutional Emergency Relief aid this week - sending cash

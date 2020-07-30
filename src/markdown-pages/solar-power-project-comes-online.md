@@ -4,7 +4,7 @@ title: "Solar power project comes online"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 3, 2010</p>
 <p>
   <strong><em>CSUMB taps sun for energy needs</em></strong>

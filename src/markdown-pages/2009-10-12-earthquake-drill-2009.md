@@ -4,7 +4,7 @@ date: October 12 2009
 slug: earthquake-drill-set-for-thursday
 ---
 
-```html
+ 
 
 
 

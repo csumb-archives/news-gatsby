@@ -4,7 +4,7 @@ title: "Otter Realm honored at collegiate media event"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Paper earns 10 awards – including a trio of firsts</p>
 <p>
   For the second straight year, the

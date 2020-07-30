@@ -4,7 +4,7 @@ title: "Speaker focuses on innovation"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Lumina Foundation executive visits CSUMB April 25</h3>
 <p>
   The President’s Speaker Series at California State University, Monterey Bay

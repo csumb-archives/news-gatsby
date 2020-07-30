@@ -4,7 +4,7 @@ title: "CSUMB in the News 2009"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>Library Buildings 2009: The Constant Library</strong>. . . The new
   Tanimura and Antle Memorial Library at CSU Monterey Bay addresses the

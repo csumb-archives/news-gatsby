@@ -4,7 +4,7 @@ title: "Graduates urged to take risks"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The future of 1,022 students who received college degrees from CSU Monterey
   Bay can be a glowing one if they move forward with optimism and without fear

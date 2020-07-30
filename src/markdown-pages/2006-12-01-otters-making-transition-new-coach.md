@@ -4,7 +4,7 @@ date: December 1 2006
 slug: otters-making-transition-to-new-coach
 ---
 
-```html
+ 
 
 
 

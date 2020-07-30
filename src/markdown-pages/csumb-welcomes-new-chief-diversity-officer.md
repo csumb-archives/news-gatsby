@@ -4,7 +4,7 @@ title: "CSUMB Welcomes New Chief Diversity Officer"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., June 18, 2018 – California State University, Monterey Bay
   (CSUMB) has officially welcomed Brian Corpening to serve as CSUMB’s new chief

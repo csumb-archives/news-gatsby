@@ -4,7 +4,7 @@ title: "Composers society honors CSUMB lecturer"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For the second consecutive year,
   <a href="https://www.laniersammons.com/Main/">Dr. Lanier Sammons</a>, a

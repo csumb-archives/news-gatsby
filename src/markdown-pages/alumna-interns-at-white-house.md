@@ -4,7 +4,7 @@ title: "Alumna interns at White House"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay alumna Zoe Carter knew an internship in the nation's capital
   was a long shot, but she applied anyway.

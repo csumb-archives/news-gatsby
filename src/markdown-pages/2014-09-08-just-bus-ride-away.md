@@ -4,7 +4,7 @@ date: September 8 2014
 slug: just-a-bus-ride-away
 ---
 
-```html
+ 
 
 
 

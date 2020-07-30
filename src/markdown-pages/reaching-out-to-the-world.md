@@ -4,7 +4,7 @@ title: "Reaching out to the world"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s reach extends far beyond California’s Central Coast. About
   100 students from other nations attend CSUMB each year for a semester or two,

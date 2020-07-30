@@ -4,7 +4,7 @@ title: "CSUMB-Hartnell collaboration rewarded"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSIT&#45;in&#45;3, a three&#45;year computer science degree program that is a
   collaboration between CSU Monterey Bay and Hartnell College, has been awarded

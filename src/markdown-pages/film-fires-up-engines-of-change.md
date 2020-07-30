@@ -4,7 +4,7 @@ title: "Film fires up engines of change"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Meet the filmmakers at April 27 event</h2>
 <p>
   As part of CSU Monterey Bay’s celebration of Earth Week, the award-winning

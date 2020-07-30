@@ -4,7 +4,7 @@ title: "Road closure on Saturday"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   On Saturday, April 23, several roads adjacent to campus will be closed for
   most of the day to accommodate training exercises by Monterey County law

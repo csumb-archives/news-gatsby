@@ -4,7 +4,7 @@ title: "Otters complete national title quest"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The quest to win a national championship at CSUMB is over. Senior John Jackson
   carded a key birdie on the 16th to win, D.J. Milligan won by strokes and

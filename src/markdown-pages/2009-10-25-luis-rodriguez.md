@@ -4,7 +4,7 @@ date: October 25 2009
 slug: turning-kids-away-from-&apos;la-vida-loca&apos;
 ---
 
-```html
+ 
 
 
 

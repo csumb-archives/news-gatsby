@@ -4,7 +4,7 @@ title: "Photo exhibit highlights turbulent times"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>EVENTS FROM PEACE, SOCIAL JUSTICE MOVEMENTS BROUGHT TO LIFE</p>
 <p>
   "Movements for Change," an exhibit featuring work by photojournalist Bob

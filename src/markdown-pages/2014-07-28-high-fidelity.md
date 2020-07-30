@@ -4,7 +4,7 @@ date: July 28 2014
 slug: high-fidelity
 ---
 
-```html
+ 
 
 
 

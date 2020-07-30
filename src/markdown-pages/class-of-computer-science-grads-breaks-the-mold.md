@@ -4,7 +4,7 @@ title: "Class of Computer Science Grads Breaks the Mold"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Three years ago, CSUMB and Hartnell College started an ambitious computer
   science bachelor’s degree program called CSin3. On May 21, the first cohort

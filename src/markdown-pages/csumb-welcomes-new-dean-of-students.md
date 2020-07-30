@@ -4,7 +4,7 @@ title: "CSUMB Welcomes New Dean of Students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., April 20, 2018 – California State University, Monterey Bay
   (CSUMB) has officially welcomed Leslie Williams to serve as the new associate

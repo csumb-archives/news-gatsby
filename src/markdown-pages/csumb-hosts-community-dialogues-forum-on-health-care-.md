@@ -4,7 +4,7 @@ title: "CSUMB Hosts Community Dialogues Forum on Health Care "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>"Obamacare: Mend it or end it?"</p>
 <p>
   SEASIDE, Calif., October 16, 2017 -- More than 250 community members attended

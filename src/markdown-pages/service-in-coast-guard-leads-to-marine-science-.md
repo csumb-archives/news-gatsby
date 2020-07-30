@@ -4,7 +4,7 @@ title: "Service in coast guard leads to marine science "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A seven-year stint in the U.S. Coast Guard offered Bridget Hoover many
   exciting experiences. It was also a time when she saw the water quality of the

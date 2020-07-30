@@ -4,7 +4,7 @@ title: "Emergency Preparedness Fair"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Emergency Management, Health &amp; Safety Division of the University
   Police Department invites everyone to the the annual campus Emergency

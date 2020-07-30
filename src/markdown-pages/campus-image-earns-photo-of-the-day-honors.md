@@ -4,7 +4,7 @@ title: "Campus image earns Photo of the Day honors"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A shot of the North Quad student housing complex has won Photo of the Day
   honors in the Monterey Herald’s CaptureMonterey contest.

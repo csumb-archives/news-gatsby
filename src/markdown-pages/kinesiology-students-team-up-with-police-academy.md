@@ -4,7 +4,7 @@ title: "Kinesiology students team up with police academy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 7, 2010</p>
 <p>
   Being physically fit has a different definition for police and other public

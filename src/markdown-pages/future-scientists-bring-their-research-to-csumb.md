@@ -4,7 +4,7 @@ title: "Future Scientists Bring Their Research to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Scott Roark | August 11, 2017</p>
 <p>
   Naturalist David Attenborough may have summed it up best, when he stated “it

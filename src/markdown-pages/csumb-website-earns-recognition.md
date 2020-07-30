@@ -4,7 +4,7 @@ title: "CSUMB website earns recognition"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>We’re No. 1</h2>
 <p>
   CSU Monterey Bay’s website has earned even more recognition in the world of

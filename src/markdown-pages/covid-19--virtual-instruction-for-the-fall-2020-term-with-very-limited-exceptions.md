@@ -4,7 +4,7 @@ title: "COVID-19 | Virtual instruction for the fall 2020 term, with very limited
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <i
     >This message was sent to all students, faculty, and staff on Tuesday, May

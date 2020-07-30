@@ -4,7 +4,7 @@ title: "Women in jazz: History for the ears"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Vocalist Pamela Rose comes to the World Theater</h3>
 <p>
   Jazz vocalist Pamela Rose has been described by Downbeat Magazine as "playful,

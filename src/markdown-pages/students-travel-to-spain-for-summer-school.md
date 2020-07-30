@@ -4,7 +4,7 @@ title: "Students travel to Spain for summer school"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A group of CSU Monterey Bay students are spending June in Leon, Spain. Under
   the direction of Dr. Juan Jose Gutierrez, they are collecting and analyzing

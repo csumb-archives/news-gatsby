@@ -4,7 +4,7 @@ title: "And the Emmy goes to . . . "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Did you know there are Emmy awards for sports broadcasting?</p>
 <p>
   Several dozen of them were handed out in New York on May 7 at the annual

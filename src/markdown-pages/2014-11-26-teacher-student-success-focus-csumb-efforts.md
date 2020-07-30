@@ -4,7 +4,7 @@ date: November 26 2014
 slug: teacher-student-success-focus-of-csumb-efforts
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Enrollment, majors increased during Harrison's tenure"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When Dianne Harrison arrived at CSU Monterey Bay, the university was
   struggling to meet its recruitment goals and retention was problematic. Soon,

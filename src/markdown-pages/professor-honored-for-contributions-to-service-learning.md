@@ -4,7 +4,7 @@ title: "Professor honored for contributions to service learning"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Teacher education organization presents award to Miguel Lopez</h3>
 <p>
   Dr. Miguel Lopez has been honored for the significant contributions he has

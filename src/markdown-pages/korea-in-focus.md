@@ -4,7 +4,7 @@ title: "KOREA IN FOCUS"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Two upcoming events at Cal State Monterey Bay will focus on the Republic of
   Korea.

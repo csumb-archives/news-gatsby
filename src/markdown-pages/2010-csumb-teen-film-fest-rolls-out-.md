@@ -4,7 +4,7 @@ title: "2010 CSUMB teen film fest rolls out "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   More than 150 films have been submitted to California State University,
   Monterey Bay's first Teen Film Festival, which takes place today at 1 p.m. in

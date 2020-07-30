@@ -4,7 +4,7 @@ title: "Santa Cruz artist connects the bots"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Margo Mullen continues to attract attention – and commissions – with her
   robots.

@@ -4,7 +4,7 @@ date: September 1 2005
 slug: grade-a-program
 ---
 
-```html
+ 
 
 
 

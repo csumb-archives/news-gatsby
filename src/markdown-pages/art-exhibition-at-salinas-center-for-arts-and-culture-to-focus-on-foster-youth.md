@@ -4,7 +4,7 @@ title: "Art Exhibition at Salinas Center for Arts and Culture to Focus on Foster
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., January 26, 2018 – A new exhibition, “LOST CHILDHOODS:
   Unofficial stories,” opens February 2, 2018 at the California State

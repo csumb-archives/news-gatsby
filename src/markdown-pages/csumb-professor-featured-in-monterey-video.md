@@ -4,7 +4,7 @@ title: "CSUMB professor featured in Monterey video"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>TAT graduate was film's director</h3>
 <p>
   The city of Monterey has produced a video that highlights the work of CSUMB

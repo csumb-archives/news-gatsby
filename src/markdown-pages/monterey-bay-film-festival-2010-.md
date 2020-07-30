@@ -4,7 +4,7 @@ title: "Monterey Bay Film Festival 2010 "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>March 19, 2010</p>
 <p>&#42;<strong>'Charlie and the Rabbit' to be screened</strong>&#42;</p>
 <p>

@@ -4,7 +4,7 @@ date: December 5 2007
 slug: spotlight-on-alumni
 ---
 
-```html
+ 
 
 
 

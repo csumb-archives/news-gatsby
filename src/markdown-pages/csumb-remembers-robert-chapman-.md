@@ -4,7 +4,7 @@ title: "CSUMB remembers Robert Chapman "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Robert Chapman, the spouse of Patricia Tynan Chapman, passed away at home
   recently. He was 91 years old.

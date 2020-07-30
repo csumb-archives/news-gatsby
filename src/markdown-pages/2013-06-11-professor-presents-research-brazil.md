@@ -4,7 +4,7 @@ date: June 11 2013
 slug: professor-presents-research-in-brazil
 ---
 
-```html
+ 
 
 
 

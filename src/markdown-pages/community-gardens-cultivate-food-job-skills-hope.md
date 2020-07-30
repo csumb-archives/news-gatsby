@@ -4,7 +4,7 @@ title: "Community Gardens Cultivate Food, Job Skills, Hope"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   What started as a community garden in the Chinatown neighborhood of Salinas
   has blossomed into the Salinas-Marina Community Food Project. . . The

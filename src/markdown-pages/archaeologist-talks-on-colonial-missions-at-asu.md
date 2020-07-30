@@ -4,7 +4,7 @@ title: "Archaeologist talks on colonial missions at ASU"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Ruben Mendoza continues to win accolades for his work on missions in
   California and the Southwest.

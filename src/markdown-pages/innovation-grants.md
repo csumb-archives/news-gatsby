@@ -4,7 +4,7 @@ title: "Innovation grants"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In future years, the CSIT&#45;in&#45;3 program could serve as a model for
   accelerated degree programs at other colleges and universities.

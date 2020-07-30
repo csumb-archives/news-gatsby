@@ -4,7 +4,7 @@ title: "President Ochoa's appointment made permanent"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The California State University Board of Trustees today appointed
   <a href="https://president.csumb.edu/">Dr. Eduardo M. Ochoa</a> as the

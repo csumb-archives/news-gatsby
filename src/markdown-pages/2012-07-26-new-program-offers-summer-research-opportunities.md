@@ -4,7 +4,7 @@ date: July 26 2012
 slug: new-program-offers-summer-research-opportunities
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Community-based restoration, a few acres at a time"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Rose Ashbach, a graduate student in the Applied Marine and Watershed Science
   program at CSU Monterey Bay, has left her mark on the campus while helping the

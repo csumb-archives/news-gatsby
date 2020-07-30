@@ -4,7 +4,7 @@ title: "Faculty member assumes presidency of national organization"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In January, Dr. Yoshiko Saito&#45;Abbott will become president of the American
   Association of Teachers of Japanese. She was elected to the position after

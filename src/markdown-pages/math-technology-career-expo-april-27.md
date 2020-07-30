@@ -4,7 +4,7 @@ title: "Math, technology career expo April 27"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay is looking for local professionals to help at a career expo
   on April 27.

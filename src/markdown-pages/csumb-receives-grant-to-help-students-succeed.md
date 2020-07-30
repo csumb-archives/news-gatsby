@@ -4,7 +4,7 @@ title: "CSUMB receives grant to help students succeed"
 date: January 01 2020
 ---
 
-```html
+ 
 <h5>University will work with Hartnell, MPC on course design</h5>
 <p>
   California State University, Monterey Bay has received a $500,000 grant from

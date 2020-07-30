@@ -4,7 +4,7 @@ title: "Commencement 2018 By The Numbers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>190: Event staff</p>
 <p>76: Student-athletes in the graduating class</p>
 <p>33: Veterans in the graduating class</p>

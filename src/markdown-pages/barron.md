@@ -4,7 +4,7 @@ title: "Barron"
 date: January 01 2020
 ---
 
-```html
+ 
 <h5>Pianist Kenny Barron lectures at CSUMB Nov. 3</h5>
 <p>
   Kenny Barron's unmatched ability to mesmerize audiences with his elegant

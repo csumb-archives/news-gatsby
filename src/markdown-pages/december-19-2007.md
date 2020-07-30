@@ -4,7 +4,7 @@ title: "December 19, 2007"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>Gingerbread building boom</strong>The team from Conference and Event
   Services was serious about their entry in the university's annual gingerbread

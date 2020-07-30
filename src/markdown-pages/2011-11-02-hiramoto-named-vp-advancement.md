@@ -4,7 +4,7 @@ date: November 2 2011
 slug: hiramoto-named-vp-for-advancement
 ---
 
-```html
+ 
 
 
 

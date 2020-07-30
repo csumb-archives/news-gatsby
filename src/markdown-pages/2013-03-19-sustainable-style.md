@@ -4,7 +4,7 @@ date: March 19 2013
 slug: sustainable-style
 ---
 
-```html
+ 
 
 
 

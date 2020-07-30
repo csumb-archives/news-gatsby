@@ -4,7 +4,7 @@ title: "CSUMB Leading the Charge in Student-Athlete Mental Health Awareness"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., March 8, 2017 – CSUMB was recently recognized as a leader and
   trendsetter across the National Collegiate Athletic Association (NCAA) for a

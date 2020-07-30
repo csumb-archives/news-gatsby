@@ -4,7 +4,7 @@ date: August 28 2012
 slug: movein-day-kicks-off-school-year
 ---
 
-```html
+ 
 
 
 

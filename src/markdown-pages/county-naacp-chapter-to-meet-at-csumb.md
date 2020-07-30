@@ -4,7 +4,7 @@ title: "County NAACP chapter to meet at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For the second straight year, the Monterey County Branch NAACP will
   commemorate Black History Month by holding a general membership meeting at CSU

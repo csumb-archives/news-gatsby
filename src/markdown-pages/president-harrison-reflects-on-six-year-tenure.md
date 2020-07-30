@@ -4,7 +4,7 @@ title: "President Harrison reflects on six-year tenure"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Says student success is proudest accomplishment</h4>
 <p>
   During President Dianne Harrison’s final days at California State University,

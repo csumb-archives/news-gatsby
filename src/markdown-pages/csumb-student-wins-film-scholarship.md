@@ -4,7 +4,7 @@ title: "CSUMB student wins film scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Monterey County Film Commission honors another TAT student</h3>
 <p>
   Joey Blackburn is this year’s recipient of the Monterey County Film

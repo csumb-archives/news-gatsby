@@ -4,7 +4,7 @@ title: "An Afro-American woman's life in Africa"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Charlotte O'Neal, an artist, poet, musician and community activist from
   Tanzania, will visit CSU Monterey Bay on March 13.

@@ -4,7 +4,7 @@ title: "CSUMB, Steinbeck Center closer to buy-out deal"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Salinas city officials have agreed to forgive the National Steinbeck Center
   nearly $500,000 in deferred loan payments as part of a bid by CSU Monterey

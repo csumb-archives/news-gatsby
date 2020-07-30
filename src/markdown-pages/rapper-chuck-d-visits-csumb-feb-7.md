@@ -4,7 +4,7 @@ title: "Rapper Chuck D visits CSUMB Feb. 7"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Rap, race and reality among his topics</h2>
 <p>
   Chuck D, one of the founders of the legendary rap group Public Enemy, will

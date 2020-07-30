@@ -4,7 +4,7 @@ title: "Community invited to business showcase"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Verbonich, Dorothy’s Place to be honored with leadership awards</h3>
 <p>
   Mark Verbonich of Pebble Beach Co., and Jill Allen, on behalf of Franciscan

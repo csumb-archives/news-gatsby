@@ -4,7 +4,7 @@ date: May 28 2012
 slug: faculty-members-granted-tenure
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: October 7 2013
 slug: csumb-student-awarded-trustees&apos;-scholarship
 ---
 
-```html
+ 
 
 
 

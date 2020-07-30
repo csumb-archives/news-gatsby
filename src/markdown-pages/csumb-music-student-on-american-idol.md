@@ -4,7 +4,7 @@ title: "CSUMB music student on 'American Idol'"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Singer earns ticket to Hollywood</h3>
 <p>
   A bit of encouragement from Mariah Carey helped Cal State Monterey Bay student

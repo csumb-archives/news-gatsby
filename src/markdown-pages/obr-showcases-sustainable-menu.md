@@ -4,7 +4,7 @@ title: "OBR showcases sustainable menu"
 date: January 01 2020
 ---
 
-```html
+ 
 <p></p>
 <p>
   CSUMB's Otter Bay Restaurant and campus catering were featured at the

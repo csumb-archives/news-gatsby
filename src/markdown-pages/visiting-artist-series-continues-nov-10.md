@@ -4,7 +4,7 @@ title: "Visiting artist series continues Nov. 10"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Art historian Laura Meyer comes to campus on Nov. 10 as the visiting artist
   lecture series continues.

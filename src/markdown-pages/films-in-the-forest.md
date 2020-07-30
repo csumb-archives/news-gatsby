@@ -4,7 +4,7 @@ title: "FILMS IN THE FOREST"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>CSUMB presents student-made short screen gems July 14</h4>
 <p>
   Grab your blankets and pillows and head to the forest. The Forest Theater

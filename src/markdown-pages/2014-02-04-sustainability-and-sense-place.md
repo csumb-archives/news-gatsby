@@ -4,7 +4,7 @@ date: February 4 2014
 slug: sustainability-and-a-sense-of-place
 ---
 
-```html
+ 
 
 
 

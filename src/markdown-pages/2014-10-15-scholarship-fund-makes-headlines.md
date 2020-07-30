@@ -4,7 +4,7 @@ date: October 15 2014
 slug: scholarship-fund-makes-headlines
 ---
 
-```html
+ 
 
 
 

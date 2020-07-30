@@ -4,7 +4,7 @@ title: "Life-saving devices installed on campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Automated exteral defibrillators: there when you need them</h3>
 <h3></h3>
 <p>

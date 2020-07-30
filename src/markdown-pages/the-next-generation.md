@@ -4,7 +4,7 @@ title: "The Next Generation"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . CSUMB is now offering a bachelor’s degree in Sustainable Hospitality
   Management. The major, headed by John Avela, provides students with a broad

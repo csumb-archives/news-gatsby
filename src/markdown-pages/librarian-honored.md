@@ -4,7 +4,7 @@ title: "Librarian Honored"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Steven Watkins, one of CSUMB's founding librarians, was awarded the first ever
   lifetime membership by a marine science library association for his

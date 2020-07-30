@@ -4,7 +4,7 @@ title: "CSUMB announces the largest gift in university history"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Launches public campaign to reach $100 million.</h2>
 <p>
   <b>SEASIDE, CA., May 12, 2020.</b> Longtime Monterey Peninsula resident,

@@ -4,7 +4,7 @@ title: "Faculty members present research at ocean conference"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 2, 2010</p>
 <p>
   Two CSUMB scientists will make presentations at the California and the World

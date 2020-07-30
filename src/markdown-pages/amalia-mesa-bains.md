@@ -4,7 +4,7 @@ title: "Amalia Mesa-Bains"
 date: January 01 2020
 ---
 
-```html
+ 
 <p><strong>Dr. Amalia Mesa-Bains to participate in Kahlo conference</strong></p>
 <p>
   Dr. Amalia Mesa-Bains, co-chair of the Department of Visual and Public Art at

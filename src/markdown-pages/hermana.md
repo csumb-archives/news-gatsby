@@ -4,7 +4,7 @@ title: "Hermana"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Hermana helps county students attend CSUMB</h4>
 <p>
   On Tuesday, Nov. 15 - National Philanthropy Day - 'Hermana' will be honored at

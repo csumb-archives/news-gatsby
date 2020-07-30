@@ -4,7 +4,7 @@ title: "Teachers get in-depth look at California missions"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . With a grant from the national Endowment for the Humanities, CSU
   Monterey Bay professor Ruben Mendoza put together the workshop for teachers to

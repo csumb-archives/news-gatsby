@@ -4,7 +4,7 @@ title: "Otter athletics hires three new coaches in past year"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The university Athletic Department has hired experienced coaches to lead the
   baseball, cross-country and men’s soccer programs.

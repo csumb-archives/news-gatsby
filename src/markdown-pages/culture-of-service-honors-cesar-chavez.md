@@ -4,7 +4,7 @@ title: "'Culture of service' honors Cesar Chavez"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Annual event celebrates legacy of late labor leader</h3>
 <p>
   CSU Monterey Bay will be closed on March 30 in honor of Cesar Chavez. Chavez

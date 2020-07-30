@@ -4,7 +4,7 @@ title: "CSUMB again named 'military-friendly school'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For the fifth consecutive year, CSU Monterey Bay has been named a
   “military-friendly school” by

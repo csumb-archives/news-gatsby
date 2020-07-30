@@ -4,7 +4,7 @@ title: "CSUMB alum offers holiday cheer for foster children"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Emma Rodriguez, CSUMB student extraordinaire, garnered a lot of attention
   earlier this year for a book drive she sponsored to benefit foster care

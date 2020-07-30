@@ -4,7 +4,7 @@ title: "Alumna helps with Prop 8 play in Salinas"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>"8" brings to life courtroom drama over same-sex marriage</h3>
 <p>
   It won't star George Clooney as a recent Los Angeles performance did, but

@@ -4,7 +4,7 @@ title: "Future teachers gets hands-on experience"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay students got hands&#45;on experience teaching scientific
   concepts such as Archimedes' principle and Newton's theory of gravity through

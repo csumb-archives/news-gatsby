@@ -4,7 +4,7 @@ title: "Monitoring Marine Protected Areas"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   QUEST takes to the high seas with researchers Dr. James Lindholm of CSU
   Monterey Bay, Dirk Rosen and their crew to study the underwater world off the

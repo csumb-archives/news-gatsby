@@ -4,7 +4,7 @@ title: "We Want You! The Rise of Citizen Science"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The annual Sanctuary Currents Symposium brings scientists, managers, students
   and the public together to address important issues involving the Monterey Bay

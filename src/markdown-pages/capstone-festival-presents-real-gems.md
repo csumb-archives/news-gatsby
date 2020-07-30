@@ -4,7 +4,7 @@ title: "Capstone Festival presents real gems"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 10, 2010</p>
 <p>
   The World Theater on the campus of California State University, Monterey Bay

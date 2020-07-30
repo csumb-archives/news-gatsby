@@ -4,7 +4,7 @@ title: "Fort Ord Alumni award scholarships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The dozen students who were selected to receive scholarships from the Fort Ord
   Alumni Association cover the spectrum of academic majors available at Cal

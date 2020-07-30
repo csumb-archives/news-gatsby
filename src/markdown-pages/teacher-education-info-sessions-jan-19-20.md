@@ -4,7 +4,7 @@ title: "Teacher education info sessions Jan. 19-20"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Want to make a difference? Be a teacher!</h4>
 <p>
   CSU Monterey Bay’s Department of Teacher Education will hold information

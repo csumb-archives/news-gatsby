@@ -4,7 +4,7 @@ title: "Faculty member captures the spirit of Fort Ord"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Fort Ord – once the largest military base in the American West – was a vital
   center during much of the 20th century. More than a million people lived and

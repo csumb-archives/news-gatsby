@@ -4,7 +4,7 @@ title: "Math major adds up research opportunities"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   “I know I made the right decision coming to CSUMB,” said Lilyana Gross. “The
   school and the faculty have gotten me where I am today.”

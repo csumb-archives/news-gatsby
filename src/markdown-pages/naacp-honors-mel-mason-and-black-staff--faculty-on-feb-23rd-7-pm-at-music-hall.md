@@ -4,7 +4,7 @@ title: "NAACP Honors Mel Mason and Black Staff & Faculty on Feb. 23rd, 7 p.m. at
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For Black History Month, the NAACP@CSUMB is honoring Mel Mason, all new
   &#40;hired since fall 2014&#41;, and veteran &#40;hired before fall

@@ -4,7 +4,7 @@ title: "SEEDS OF SUCCESS"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When a CSU Monterey Bay student’s capstone project is completed, local
   residents will be able to grow their own food, with help from an unlikely

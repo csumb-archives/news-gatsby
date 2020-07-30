@@ -4,7 +4,7 @@ title: "Santa Cruz lawyer donates boat to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The lives of Santa Cruz attorney Paul Meltzer and his great-grandfather,
   Harold Heath, barely overlapped, but the legend of the marine scientist and

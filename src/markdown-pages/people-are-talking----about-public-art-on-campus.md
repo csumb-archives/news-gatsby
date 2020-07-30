@@ -4,7 +4,7 @@ title: "People are Talking . . . about public art on campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Dec. 8, 2009</p>
 <p>
   Across campus, semester-ending projects by Visual and Public Art students are

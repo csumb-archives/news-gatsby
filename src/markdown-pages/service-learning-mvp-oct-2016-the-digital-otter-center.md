@@ -4,7 +4,7 @@ title: "Service Learning MVP Oct. 2016; The Digital Otter Center"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 17, 2016 -- Cal State Monterey Bay’s newest community
   outreach program, the Digital Otter Center, provides a variety of free

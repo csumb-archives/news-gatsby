@@ -5,7 +5,7 @@ date: September 14 2006
 slug: &gt;- enforcement-education-csumb-police-officers-cover-the-equivalent-of-a-small-city
 ---
 
-```html
+ 
 
 
 

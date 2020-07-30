@@ -4,7 +4,7 @@ date: August 13 2014
 slug: acting-out-against-sexual-assault
 ---
 
-```html
+ 
 
 
 

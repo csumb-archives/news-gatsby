@@ -4,7 +4,7 @@ title: "Rotary Club donates $20K for CSUMB program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Rotary Club of Salinas donated $20,000 to CSUMB for use in its Pay it
   Forward Scholarship program, at a club meeting Nov. 23. The donation will

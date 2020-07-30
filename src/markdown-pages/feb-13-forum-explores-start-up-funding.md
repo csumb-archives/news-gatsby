@@ -4,7 +4,7 @@ title: "Feb. 13 forum explores start-up funding"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A panel of experts will visit CSU Monterey Bay on Feb. 13 to give a
   presentation on funding for startups. The public is invited to attend.

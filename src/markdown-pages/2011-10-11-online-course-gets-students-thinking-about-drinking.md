@@ -4,7 +4,7 @@ date: October 11 2011
 slug: online-course-gets-students-thinking-about-drinking
 ---
 
-```html
+ 
 
 
 

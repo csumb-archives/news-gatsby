@@ -4,7 +4,7 @@ title: "Veteran Monterey officer joins university police"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>John Short has been named police commander at CSU Monterey Bay.</p>
 <p>
   Short comes to the university from the Monterey Police Department, where he

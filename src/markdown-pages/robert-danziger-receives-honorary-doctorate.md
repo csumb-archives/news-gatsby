@@ -4,7 +4,7 @@ title: "Robert Danziger receives honorary doctorate"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Robert Danziger, a sustainable energy pioneer, lawyer, inventor and musician,
   was honored Sept. 14 by California State University, Monterey Bay and the

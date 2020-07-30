@@ -4,7 +4,7 @@ title: "Salinas Center for Arts and Culture Hosts Children's Pop Up Museum"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., June 8, 2019 – California State University, Monterey Bay’s
   (CSUMB) Salinas Center for Arts and Culture hosted the MY Town Pop-up

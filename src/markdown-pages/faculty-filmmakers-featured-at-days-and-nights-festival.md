@@ -4,7 +4,7 @@ title: "Faculty filmmakers featured at Days and Nights Festival"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Work by CSU Monterey Bay faculty members Soyeon Kim and Luis Camara will be
   part of the program of locally made films when their work screens as part of

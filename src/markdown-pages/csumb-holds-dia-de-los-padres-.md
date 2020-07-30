@@ -4,7 +4,7 @@ title: "CSUMB holds Dia de Los Padres "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Feb. 2, 2010</p>
 <p>
   <strong><em>Spanish-speaking families invited to Feb. 13 event</em></strong>

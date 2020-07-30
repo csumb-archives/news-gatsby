@@ -4,7 +4,7 @@ title: "Rare vision"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Kevin Miller, a veteran of CSUMB's IT Department, has figured out a way to
   make the Internet more accessible to the blind. It's a complicated process,

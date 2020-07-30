@@ -4,7 +4,7 @@ title: "Science, Illustrated"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Student’s work helps to publicize discovery</h3>
 <p>
   Researchers in Tibet have uncovered a woolly rhinoceros believed to be a

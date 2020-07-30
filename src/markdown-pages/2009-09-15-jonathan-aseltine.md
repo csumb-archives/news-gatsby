@@ -4,7 +4,7 @@ date: September 15 2009
 slug: csumb-student-selected-for-internship-program
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 15, 2009 </span>
 <p>Sept. 15, 2009</p>
 CSUMB student selected for internship program

@@ -4,7 +4,7 @@ title: "Poetry Slam champion appears at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Award-winning poet, actor and writer Carlos Andrés Gómez will appear at CSU
   Monterey Bay on Oct. 30 as the university’s Chicano/Latino Heritage Month

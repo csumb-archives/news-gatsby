@@ -4,7 +4,7 @@ date: June 12 2014
 slug: student-housing-complex-under-construction
 ---
 
-```html
+ 
 
 
 

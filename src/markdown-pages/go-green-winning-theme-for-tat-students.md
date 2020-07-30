@@ -4,7 +4,7 @@ title: "'Go Green' winning theme for TAT students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Two students in Luis Camara’s directing class have taken top honors in a New
   York-based film contest. The results were announced online July 7.

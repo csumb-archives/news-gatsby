@@ -4,7 +4,7 @@ title: "Alum helps others heal war wounds through environmental activism"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Former Marine works to establish Veterans’ Conservation Corps</h3>
 <p>
   You could say that being called to active duty following the 9/11 terrorist

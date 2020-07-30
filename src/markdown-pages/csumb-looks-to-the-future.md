@@ -4,7 +4,7 @@ title: "CSUMB looks to the future"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   President Dianne Harrison delivered her 2011 State of the University address
   to a full auditorium of professors and employees. She reflected on recent

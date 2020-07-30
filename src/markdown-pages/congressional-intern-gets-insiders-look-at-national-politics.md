@@ -4,7 +4,7 @@ title: "Congressional intern gets insider's look at national politics"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When other students returned to school on Aug. 24, Karla Corres started work
   in a Congressional office in Washington, D.C., where she will learn first-hand

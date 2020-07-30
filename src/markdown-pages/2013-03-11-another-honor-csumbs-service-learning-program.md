@@ -4,7 +4,7 @@ date: March 11 2013
 slug: another-honor-for-csumb&apos;s-service-learning-program
 ---
 
-```html
+ 
 
 
 

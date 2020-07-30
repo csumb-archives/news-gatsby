@@ -4,7 +4,7 @@ date: November 4 2009
 slug: reliving-history
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 04, 2009 </span>
 <p>Nov. 4, 2009</p>
 <strong>Reliving History</strong>

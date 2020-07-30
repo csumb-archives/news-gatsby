@@ -4,7 +4,7 @@ title: "A look back at the arts in 2013"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Summer School: CSUMB's Summer Arts program rolls into town with poet Jimmy
   Santiago Baca, Steppenwolf Theatre Company, underground film archivist Craig

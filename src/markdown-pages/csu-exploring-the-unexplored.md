@@ -4,7 +4,7 @@ title: "CSU Exploring the Unexplored"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay professor and seafloor mapping expert Rikk Kvitek was part of
   a public-private-academic partnership that helped California map all the

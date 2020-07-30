@@ -4,7 +4,7 @@ title: "Campaign targets campus food waste"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 13, 2010</p>
 <p><strong>WEIGHING IN ON WASTE</strong></p>
 <p>

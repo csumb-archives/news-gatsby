@@ -4,7 +4,7 @@ title: "COVID-19 | Alternate mode instruction extended, Spring 2020 Commencement
 date: January 01 2020
 ---
 
-```html
+ 
 <p><i>This message was sent to all students on Monday, March 16, 2020.</i></p>
 <p>
   As the COVID-19 situation evolves, we continue to provide information to you

@@ -4,7 +4,7 @@ title: "CSUMB earns national honor for Service Learning "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay’s Service Learning program has earned another honor.
 </p>

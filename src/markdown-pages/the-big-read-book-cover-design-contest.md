@@ -4,7 +4,7 @@ title: "The Big Read Book Cover Design Contest"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 25, 2016 -- This fall Cal State Monterey Bay joined
   libraries from throughout Monterey County to support the National Endowment

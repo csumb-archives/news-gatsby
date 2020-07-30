@@ -4,7 +4,7 @@ title: "Professor speaks at Vatican on Serra"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   As Ruben Mendoza stood near Pope Francis in Rome last week, the CSU Monterey
   Bay professor firmly clutched the tattered and electrical tape&#45;mended

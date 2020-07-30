@@ -4,7 +4,7 @@ title: "Saturday: Music students' spring concert"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay's annual spring concert will be held
   Saturday, April 30 at 7 p.m. in the World Theater on Sixth Avenue. The public

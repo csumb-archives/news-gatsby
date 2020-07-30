@@ -4,7 +4,7 @@ title: "Prometen cupo universitario"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cerca de 275 estudiantes del distrito escolar de Salinas participaron del
   programa promesa de la universidad en CSUMB, en donde muchos se motivaron para

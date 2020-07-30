@@ -4,7 +4,7 @@ title: "Students Receive Top Honors at CSU Student Research Competition"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 1, 2019 – Ten select CSUMB student-research teams
   represented CSUMB at the 33rd annual CSU Student Research Competition April

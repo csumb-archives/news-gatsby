@@ -4,7 +4,7 @@ title: "Visiting artist series continues Oct. 3"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Curator inspires dialogue on issues of social concern</h3>
 <p>
   CSU Monterey Bay’s visiting artist series continues Oct. 3 when San Francisco

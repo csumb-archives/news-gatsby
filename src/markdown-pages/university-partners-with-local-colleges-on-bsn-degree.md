@@ -4,7 +4,7 @@ title: "University partners with local colleges on BSN degree"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Program "a model for a new way of doing nursing education"</h3>
 <p>
   To help meet a growing demand for bachelor’s-prepared nurses, CSU Monterey Bay

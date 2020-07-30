@@ -4,7 +4,7 @@ title: "CSUMB scientist surveys marine ecosystems"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 10, 2010</p>
 <p>
   "Most Californians don't think about how colorful and vibrant the rocky reefs

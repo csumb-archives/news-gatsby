@@ -4,7 +4,7 @@ title: "Day of Welcome to be live-streamed"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The campus community is invited to the Day of Welcome event this afternoon,
   featuring President Ochoa’s State of the University address.

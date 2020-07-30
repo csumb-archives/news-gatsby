@@ -4,7 +4,7 @@ date: July 7 2011
 slug: program-teaches-kids-about-the-ocean
 ---
 
-```html
+ 
 
 
 

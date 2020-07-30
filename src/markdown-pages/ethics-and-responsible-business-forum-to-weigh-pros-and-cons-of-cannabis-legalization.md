@@ -4,7 +4,7 @@ title: "Ethics and Responsible Business Forum to Weigh Pros and Cons of Cannabis
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., March 6, 2019 – California State University, Monterey Bay
   (CSUMB) will host the 17th Ethics and Responsible Business Forum

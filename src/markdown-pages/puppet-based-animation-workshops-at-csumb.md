@@ -4,7 +4,7 @@ title: "Puppet-based animation workshops at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Sam Koji Hale, an animator and puppet maker, will visit CSU Monterey Bay on
   April 10 for a pair of events open to the public.

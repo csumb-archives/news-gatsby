@@ -4,7 +4,7 @@ date: April 27 2011
 slug: today&amp;colon;-county-health-officer-lectures
 ---
 
-```html
+ 
 <span class="date">Posted on Apr 27, 2011 </span>
 
 <p>This semester&#x2019;s Health Sciences/Biology Speaker Series concludes

@@ -4,7 +4,7 @@ title: "Student app developers impress at 'Ideas of March'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   More than 40 computer science and business students from CSU Monterey Bay,
   Monterey Peninsula College, Hartnell College and the Monterey Institute for

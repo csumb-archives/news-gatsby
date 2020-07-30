@@ -4,7 +4,7 @@ title: "Poetry of Ideas/Seasons of Wildflowers'"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Poetry of ideas/seasons of wildflowers</h4>
 <p>
   'The Alumni and Visitors Center has turned into gallery space to display

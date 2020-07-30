@@ -4,7 +4,7 @@ date: March 26 2014
 slug: on-the-outside-looking-in
 ---
 
-```html
+ 
 
 
 

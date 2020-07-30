@@ -4,7 +4,7 @@ title: "Math immersion program inspires middle school students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   According to the Legislative Analyst’s Office, 50 percent of high school
   students admitted to CSU campuses require remedial math. This is not news to

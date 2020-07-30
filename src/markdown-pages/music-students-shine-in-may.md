@@ -4,7 +4,7 @@ title: "Music students shine in May"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Student recitals May 9 and 10</h3>
 <p>
   Highlights from "West Side Story," the hit Broadway musical and film, will be

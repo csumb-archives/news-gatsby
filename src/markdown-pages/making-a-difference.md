@@ -4,7 +4,7 @@ title: "Making a difference"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>70-day service challenge kicks off Jan. 21</h3>
 <p>
   CSU Monterey Bay students will observe Martin Luther King’s birthday on Jan.

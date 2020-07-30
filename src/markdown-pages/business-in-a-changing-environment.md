@@ -4,7 +4,7 @@ title: "Business in a changing environment"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Challenges, opportunities presented by air quality regulations</h3>
 <p>
   Air quality regulations that take affect Jan. 1 will impact diesel-powered

@@ -4,7 +4,7 @@ title: "Harrison is a needed optimist"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . While Gov. Jerry Brown and the legislature wielded chainsaws to
   education, CSUMB President Dianne Harrison and her team stood atop a sand dune

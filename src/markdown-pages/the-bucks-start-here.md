@@ -4,7 +4,7 @@ title: "The bucks start here"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Learn how to use ‘crowd funding’</h3>
 <p>
   In April 2012, the Jumpstart Our Business Startups – JOBS – Act was signed

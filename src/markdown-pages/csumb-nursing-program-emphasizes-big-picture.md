@@ -4,7 +4,7 @@ title: "CSUMB nursing program emphasizes big picture"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   To explain how a two-year nursing program will differ from a four-year degree,
   a very visual Tom McKay moves to the whiteboard and draws a two-square

@@ -4,7 +4,7 @@ date: January 16 2013
 slug: indians&amp;colon;-a-tribal-memoir&apos;-author-to-read-jan.-24
 ---
 
-```html
+ 
 <span class="date">Posted on Jan 16, 2013 </span>
 
 <h3>Identity and history at their most dynamic, creative and

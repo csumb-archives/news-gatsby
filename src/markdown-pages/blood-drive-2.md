@@ -4,7 +4,7 @@ title: "blood drive 2"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Forty students, staff and faculty members of California State University,
   Monterey Bay turned out to donate blood Dec. 12, despite the crush of

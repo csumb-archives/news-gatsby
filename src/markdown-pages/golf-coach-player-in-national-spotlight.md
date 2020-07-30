@@ -4,7 +4,7 @@ title: "Golf coach, player in national spotlight"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Jason Owen, CSUMB’s men's golf coach, will travel to Hershey, Pa., to compete
   in the PGA Professional National Championship June 26-29 while one of his

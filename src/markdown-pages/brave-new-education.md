@@ -4,7 +4,7 @@ title: "Brave New Education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB strives for community collaboration on cradle-to-career program . . .
   CSUMB President Eduardo Ochoa is spearheading a plan to create a pipeline to

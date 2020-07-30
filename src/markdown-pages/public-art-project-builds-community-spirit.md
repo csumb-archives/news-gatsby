@@ -4,7 +4,7 @@ title: "Public art project builds community spirit"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Internationally renowned muralist Johanna Poethig, professor of Visual
   and Public Art at CSU Monterey Bay, is coordinating a team of interns and

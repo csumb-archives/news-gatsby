@@ -4,7 +4,7 @@ title: "Students ? and their stuff ? fill the res halls"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 19 was move-in day at CSU Monterey Bay.</p>
 <p>
   The parking lots bustled with incoming students and their parents unloading

@@ -4,7 +4,7 @@ title: "CSUMB earns another 'green' honor"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Named environmentally responsible by Princeton Guide</h3>
 <p>
   It’s the latest thing in American college ratings: How green is your campus?

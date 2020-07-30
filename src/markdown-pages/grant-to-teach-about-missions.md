@@ -4,7 +4,7 @@ title: "Grant to teach about missions"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong><em>Award among three in state</em></strong> A $170,000 grant has been
   awarded to CSU Monterey Bay by the National Endowment for the Humanities for a

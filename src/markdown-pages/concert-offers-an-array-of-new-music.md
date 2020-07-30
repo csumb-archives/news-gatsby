@@ -4,7 +4,7 @@ title: "Concert offers an array of new music"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s concert series resumes on Oct. 13 with a free performance
   by A/B Duo.

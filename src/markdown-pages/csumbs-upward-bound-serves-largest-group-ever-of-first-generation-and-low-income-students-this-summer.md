@@ -4,7 +4,7 @@ title: "CSUMB’s Upward Bound serves largest group ever of first-generation and
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   &#40;July 7, 2016&#41; – Cal State Monterey Bay’s Upward Bound program
   continues to grow. The program is hosting nearly 100 under&#45;privileged

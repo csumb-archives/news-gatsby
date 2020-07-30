@@ -4,7 +4,7 @@ title: "Student Profile: Andrea Gilliland"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Andrea Gilliland, a psychology major and certified pastry chef, works for
   Sodexo in the Catering Department and the Otter Bay Cafe.

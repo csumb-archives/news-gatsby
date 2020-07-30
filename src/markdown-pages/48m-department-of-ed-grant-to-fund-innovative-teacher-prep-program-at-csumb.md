@@ -4,7 +4,7 @@ title: "$4.8M Department of Ed Grant to Fund Innovative Teacher Prep Program at 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Ca., October 8, 2019 –</b> California State University Monterey
   Bay (CSUMB) has been selected to receive funding under the U.S. Department of

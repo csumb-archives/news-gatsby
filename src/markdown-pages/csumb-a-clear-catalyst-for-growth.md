@@ -4,7 +4,7 @@ title: "CSUMB: A clear catalyst for growth"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Our campus has room for growth; our location makes us a magnet for
   students. We are close to a variety of ecosystems for our researchers and

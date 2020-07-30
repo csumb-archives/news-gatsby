@@ -4,7 +4,7 @@ title: "CSUMB’s “Junior Otters” Celebrate Graduation"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>By Scott Roark | July 28, 2017</p>
 <p>
   Laughter and smiles filled the University Center Ballroom and World Theater on

@@ -4,7 +4,7 @@ title: "Grad student earns California Sea Grant fellowship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Sean Windell, a student in the applied marine and watershed science master’s
   degree program, has been named one of 17 California Sea Grant Fellows for

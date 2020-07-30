@@ -4,7 +4,7 @@ title: "Learn about instructional science grad program"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Open house scheduled for Nov. six</h3>
 <p>
   The public is invited to learn about California State University, Monterey

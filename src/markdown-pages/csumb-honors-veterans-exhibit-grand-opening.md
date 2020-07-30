@@ -4,7 +4,7 @@ title: "CSUMB Honors Veterans Exhibit Grand Opening"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Ca., November 6, 2019 –</b> California State University Monterey
   Bay’s (CSUMB) Salinas Center for Arts and Culture launched the “<a

@@ -4,7 +4,7 @@ title: "Scientists pioneer drought monitoring system"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSU Monterey Bay participates in groundbreaking research</h3>
 <p>
   Droughts are more than simply climate phenomena. They can have profound

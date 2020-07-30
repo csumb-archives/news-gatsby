@@ -4,7 +4,7 @@ title: "Bruce W. Woolpert Algebra Academy inspires students to succeed"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>10 MEMBERS Of FIRST GRADUATING CLASS HEADED TO CSUMB</p>
 <p>
   While many teens spent the last days of summer at the beach, more than 115

@@ -4,7 +4,7 @@ title: "Displaced by Katrina, student cherishes time at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Ten years ago, Hurricane Katrina made landfall on the Gulf Coast, drowning New
   Orleans and the surrounding areas. Many universities were forced to close

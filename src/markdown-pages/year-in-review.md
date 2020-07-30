@@ -4,7 +4,7 @@ title: "Year in Review"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   National recognition, the departure of the university's founding president,
   and the first event sponsored by the new Center for Reading Diagnosis and

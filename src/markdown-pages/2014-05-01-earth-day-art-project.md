@@ -4,7 +4,7 @@ date: May 1 2014
 slug: earth-day-art-project
 ---
 
-```html
+ 
 
 
 

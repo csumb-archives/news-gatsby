@@ -4,7 +4,7 @@ date: January 2 2014
 slug: professor-students-land-grant-to-teach-about-missions
 ---
 
-```html
+ 
 
 
 

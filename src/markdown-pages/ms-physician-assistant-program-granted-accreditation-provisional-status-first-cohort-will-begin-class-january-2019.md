@@ -4,7 +4,7 @@ title: "M.S. Physician Assistant Program Granted Accreditation-Provisional Statu
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., August 3, 2018 – California State University, Monterey Bay’s
   (CSUMB) Master of Science Physician Assistant (MSPA) program has been granted

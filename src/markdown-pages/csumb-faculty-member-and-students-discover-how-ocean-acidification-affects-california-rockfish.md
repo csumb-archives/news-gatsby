@@ -4,7 +4,7 @@ title: "CSUMB Faculty Member and Students Discover How Ocean Acidification Affec
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., Jan. 23, 2017 – A new study examining how ocean acidification
   may negatively affect some juvenile rockfish, a key marine prey base to the

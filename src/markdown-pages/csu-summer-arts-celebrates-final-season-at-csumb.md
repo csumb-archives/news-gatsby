@@ -4,7 +4,7 @@ title: "CSU Summer Arts Celebrates Final Season at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Don’t miss out on the final season of performances and classes for CSU Summer
   Arts. The 2016 season features a variety of inspiring performances in dance

@@ -4,7 +4,7 @@ title: "Author to speak on race, privilege in America"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Tim Wise visits campus Sept. 18</h3>
 <p>
   Anti-racism activist and educator Tim Wise will discuss white privilege and

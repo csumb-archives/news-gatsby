@@ -4,7 +4,7 @@ title: "Website connects CEOs with new grads"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>Blog evolves into CSUMB student's Project: Market Me</strong> Cathryn
   "Cat" Sampson isn't shy about contacting CEOs and best-selling authors.

@@ -4,7 +4,7 @@ title: "All Black Gala Features Lessons From Ferguson"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., Feb. 11, 2019 – California State University, Monterey Bay’s
   (CSUMB) <a href="https://csumb.edu/osu">Otter Student Union</a> hosted the

@@ -4,7 +4,7 @@ date: February 16 2012
 slug: pitch-battles
 ---
 
-```html
+ 
 
 
 

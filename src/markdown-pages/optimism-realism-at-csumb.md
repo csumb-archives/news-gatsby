@@ -4,7 +4,7 @@ title: "Optimism, realism at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   On the same day renowned economist Alice Rivlin delivered a commencement
   speech that blended optimism and bleak realism, graduates of CSU Monterey Bay

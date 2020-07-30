@@ -4,7 +4,7 @@ title: "Automatic door locks to be tested Friday"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   On Friday, March 25, at 9 a.m., IT and UPD will test the automatic door
   locking system on campus. All doors controlled by card access will be remotely

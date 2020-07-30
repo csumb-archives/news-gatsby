@@ -4,7 +4,7 @@ title: "Breathless in Bombay author reads at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Indian writer Murzban Shroff will visit Cal State Monterey Bay for a special
   presentation on Oct. 27.

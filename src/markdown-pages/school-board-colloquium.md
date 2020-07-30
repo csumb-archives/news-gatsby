@@ -4,7 +4,7 @@ title: "School board colloquium"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Public invited to talk with decision-makers</p>
 <p>
   The College of Education at Cal State Monterey Bay will hold a colloquium with

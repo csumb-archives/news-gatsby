@@ -4,7 +4,7 @@ date: December 7 2005
 slug: alum-wins-firstnight
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 07, 2005 </span>
 <p>
   Images of stars are popping up around the local area as publicity posters for

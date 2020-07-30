@@ -4,7 +4,7 @@ title: "'The West' goes East"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Filmmaker takes story of California water to New York audience</h3>
 <p>
   Most Californians are familiar with how struggles over water have shaped the

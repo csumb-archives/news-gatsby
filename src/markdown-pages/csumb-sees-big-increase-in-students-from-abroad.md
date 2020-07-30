@@ -4,7 +4,7 @@ title: "CSUMB sees big increase in students from abroad"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   International students can add diversity to a university, enriching the
   experience of everyone.

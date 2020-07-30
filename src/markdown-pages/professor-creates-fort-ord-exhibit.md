@@ -4,7 +4,7 @@ title: "Professor creates Fort Ord exhibit"
 date: January 01 2020
 ---
 
-```html
+ 
 <h5>
   Imagine shipping out to war tomorrow. What would your art look like today?
 </h5>

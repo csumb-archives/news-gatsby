@@ -4,7 +4,7 @@ title: "Film showcases young people succeeding despite the odds"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB student featured in documentary about East Salinas</h3>
 <p>
   A feature&#45;length documentary that had its California premiere at the

@@ -4,7 +4,7 @@ title: "TAT's Monterey Bay Film Society a big success"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The newly formed Monterey Bay Film Society presented by TAT has already staged
   two successful events. The annual Monterey Bay Film Festival, set for April 8

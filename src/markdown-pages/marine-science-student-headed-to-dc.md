@@ -4,7 +4,7 @@ title: "Marine science student headed to D.C."
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Tiffany Barber has big plans.</p>
 <p>
   They include graduating from CSU Monterey Bay, earning a Ph.D., and serving

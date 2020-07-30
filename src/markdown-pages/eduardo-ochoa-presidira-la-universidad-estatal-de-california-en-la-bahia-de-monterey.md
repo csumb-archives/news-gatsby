@@ -4,7 +4,7 @@ title: "Eduardo Ochoa presidira la Universidad Estatal de California en la Bahia
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   El argentino Eduardo Ochoa, quien ha trabajado en temas de educacion invitado
   por la Administracion de Barack Obama, fue nombrado esta semana presidente de

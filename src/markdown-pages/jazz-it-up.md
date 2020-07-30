@@ -4,7 +4,7 @@ title: "JAZZ IT UP"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Annual Heritage Music Festival set for May 8 has Latin flavor</h3>
 <p>
   The community is invited to an evening of jazz on the campus of California

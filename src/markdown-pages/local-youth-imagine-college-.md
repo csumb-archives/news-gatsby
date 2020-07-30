@@ -4,7 +4,7 @@ title: "Local Youth “Imagine College” "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Popular program continues to draw Seaside high school students to CSUMB</p>
 <p>
   Extracting DNA in a chemistry lab to find evidence for an imaginary crime

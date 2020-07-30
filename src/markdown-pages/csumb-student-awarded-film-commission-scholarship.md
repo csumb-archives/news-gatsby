@@ -4,7 +4,7 @@ title: "CSUMB student awarded film commission scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Chelsea Amarillas, a senior Cinematic Arts and Technology student, was awarded
   a $2,000 scholarship in the Monterey County Film Commission’s Director

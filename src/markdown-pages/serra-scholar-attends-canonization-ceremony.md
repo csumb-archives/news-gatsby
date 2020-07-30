@@ -4,7 +4,7 @@ title: "Serra scholar attends canonization ceremony"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor Ruben Mendoza was among those in attendance as Pope Francis
   celebrated Mass and canonized Father Junipero Serra.

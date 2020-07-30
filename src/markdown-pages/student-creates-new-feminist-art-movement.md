@@ -4,7 +4,7 @@ title: "Student creates new 'feminist art movement'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A handful of CSU Monterey Bay college students are aiming to produce a
   creative outlet for women to let their voices be heard. That platform is the

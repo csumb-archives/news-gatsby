@@ -4,7 +4,7 @@ title: "Summer Arts concludes successful first year at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Student evaluations the best they've ever been</h2>
 <p>
   <em

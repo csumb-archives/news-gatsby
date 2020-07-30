@@ -4,7 +4,7 @@ title: "Cal State Monterey Bay supports national Opportunities for All campaign 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Accessibility, affordability and quality – like all state colleges and
   universities, Cal State Monterey Bay embodies those values for students. To

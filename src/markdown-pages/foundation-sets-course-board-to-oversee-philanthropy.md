@@ -4,7 +4,7 @@ title: "Foundation sets course: board to oversee philanthropy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The new Foundation of California State University, Monterey Bay is bringing
   community and campus leaders together to foster support for the university’s

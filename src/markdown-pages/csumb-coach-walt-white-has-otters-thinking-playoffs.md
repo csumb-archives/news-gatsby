@@ -4,7 +4,7 @@ title: "CSUMB coach Walt White has Otters thinking playoffs"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Changing the culture of the CSU Monterey Bay baseball program for
   second-year coach Walter White meant erasing the past and providing a

@@ -4,7 +4,7 @@ title: "'We See It This Way'"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Student capstones on display at Steinbeck Center</h3>
 <p>
   While most capstone projects are displayed during the end-of-semester

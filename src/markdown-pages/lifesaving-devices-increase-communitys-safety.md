@@ -4,7 +4,7 @@ title: "Lifesaving devices increase community's safety"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State University, Monterey Bay became one of the first affiliates. The
   university placed automated external defibrillators (AED) in the Otter Sports

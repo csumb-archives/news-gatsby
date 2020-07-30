@@ -4,7 +4,7 @@ title: "University launches mobile website"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>UPDATE: </strong>CSU Monterey Bay’s mobile website, launched in June
   2011, has won a top honor among universities, colleges and independent schools

@@ -4,7 +4,7 @@ date: June 24 2013
 slug: learn-how-to-protect-your-business-from-cyber-threats
 ---
 
-```html
+ 
 <span class="date">Posted on Jun 24, 2013 </span>
 <h3>Small Business &amp; Wireless Ed Tech centers offer free information</h3>
 <p>

@@ -4,7 +4,7 @@ title: "Health Sciences Seminar Series starts Sept. 21"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This semester’s Health Sciences Seminar Series will kick off on Sept. 21 with
   a presentation by Sharon Orbach, a medical student at UC San Francisco.

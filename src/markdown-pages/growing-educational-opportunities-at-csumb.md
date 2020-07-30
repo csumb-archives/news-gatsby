@@ -4,7 +4,7 @@ title: "Growing educational opportunities at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   "Where we are headed now is to create a bachelor of science degree in
   agribusiness &#40;by 2017&#41;," said Dr. Brad Barbeau, associate professor of

@@ -4,7 +4,7 @@ date: October 3 2014
 slug: coming-to-terms-with-the-experience-of-combat
 ---
 
-```html
+ 
 
 
 

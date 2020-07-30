@@ -4,7 +4,7 @@ title: "Learning about leadership "
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Student body presidents gather for annual Panetta Institute seminar</h3>
 <p>
   Ian Olden of CSU Monterey Bay was one of 28 students who attended the Panetta

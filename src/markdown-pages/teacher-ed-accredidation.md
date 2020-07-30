@@ -4,7 +4,7 @@ title: "Teacher Ed Accredidation"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 4, 2009</p>
 <h4>CSUMB receives national accreditation for school of education</h4>
 <p>

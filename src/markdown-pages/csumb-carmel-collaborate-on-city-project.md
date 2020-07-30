@@ -4,7 +4,7 @@ title: "CSUMB, Carmel collaborate on city project"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A Carmel city councilwoman put out a call for help, and CSU Monterey Bay
   faculty, staff and students responded.

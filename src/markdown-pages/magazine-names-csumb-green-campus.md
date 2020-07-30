@@ -4,7 +4,7 @@ title: "Magazine names CSUMB 'green' campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Princeton Review calls campus "environmentally responsible"</h3>
 <p>
   California State University, Monterey Bay has been named one of the nation’s

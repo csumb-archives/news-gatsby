@@ -4,7 +4,7 @@ title: "Seaside, CSUMB agreement establishes scholarship fund"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   An agreement between Seaside and CSU Monterey Bay will not only provide a path
   to development of a prime city parcel, but will also establish funding of up

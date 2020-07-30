@@ -4,7 +4,7 @@ title: "CSUMB's international connections"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Each year, hundreds of CSU students study abroad. Some debate international
   politics in Germany, some savor gelato in Italy, some learn about architecture

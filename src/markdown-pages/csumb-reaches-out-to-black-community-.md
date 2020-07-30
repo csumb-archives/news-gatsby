@@ -4,7 +4,7 @@ title: "CSUMB reaches out to black community "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <a href="https://blogs.calstate.edu/voicesviews/?p=1607"
     >View a photo essay from Super Sunday L</a

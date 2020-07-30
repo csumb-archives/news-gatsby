@@ -4,7 +4,7 @@ date: December 21 2006
 slug: amber-west
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 21, 2006 </span>
 <h4>Amber West turns struggles into successes</h4>
 <p>

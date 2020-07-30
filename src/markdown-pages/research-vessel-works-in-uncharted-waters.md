@@ -4,7 +4,7 @@ title: "Research vessel works in uncharted waters"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Everyone at the Diablo Canyon Nuclear Power Plant knew that Professor Rikk
   Kvitek was authorized to enter the restricted coastal waters around the plant

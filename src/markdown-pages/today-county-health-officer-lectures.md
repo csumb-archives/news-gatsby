@@ -4,7 +4,7 @@ title: "Today: County health officer lectures"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This semester’s Health Sciences/Biology Speaker Series concludes April 28,
   when Monterey County's Director of Public Health Hugh Stallworth visits CSU

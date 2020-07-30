@@ -4,7 +4,7 @@ title: "150 Immigrants to Naturalize at CSUMB July 3"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   (Contributed) MONTEREY, Calif – On July 3, 2017 U.S. Citizenship and
   Immigration Service (USCIS) will gather 150 immigrants at California State

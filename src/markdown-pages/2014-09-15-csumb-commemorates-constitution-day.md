@@ -4,7 +4,7 @@ date: September 15 2014
 slug: csumb-commemorates-constitution-day
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 15, 2014 </span>
 <p>
   To commemorate Constitution Day, California State University, Monterey Bay

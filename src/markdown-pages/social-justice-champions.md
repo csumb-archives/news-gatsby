@@ -4,7 +4,7 @@ title: "Social Justice Champions"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>
   Graduates honored for outstanding advocacy work for undocumented students
 </h2>

@@ -4,7 +4,7 @@ title: "Official University Accounts"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2><a href="https://www.facebook.com/CSUMB">Facebook</a></h2>
 <p>
   "Like" us to keep up with campus news and events, ask questions, make

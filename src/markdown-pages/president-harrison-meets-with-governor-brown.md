@@ -4,7 +4,7 @@ title: "President Harrison meets with Governor Brown"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Sacramento visit to advocate against more budget cuts</h3>
 <p>
   CSU Monterey Bay President Dianne Harrison joined Chancellor Charles Reed and

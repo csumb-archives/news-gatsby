@@ -4,7 +4,7 @@ date: August 23 2005
 slug: wwii-reenactment
 ---
 
-```html
+ 
 
 
 

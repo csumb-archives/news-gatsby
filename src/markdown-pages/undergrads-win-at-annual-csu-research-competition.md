@@ -4,7 +4,7 @@ title: "Undergrads win at annual CSU research competition"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Calif., </b><b>May 20, 2020</b> - Two CSUMB undergraduate students
   took top awards at the

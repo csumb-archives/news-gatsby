@@ -4,7 +4,7 @@ date: December 16 2014
 slug: trail-blazers
 ---
 
-```html
+ 
 
 
 

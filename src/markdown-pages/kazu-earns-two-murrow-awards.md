@@ -4,7 +4,7 @@ title: "KAZU earns two Murrow Awards"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB&#039;s station honored for excellence in electronic journalism</h3>
 <p>
   Krista Almanzan, news director of KAZU, has won two regional Edward R. Murrow

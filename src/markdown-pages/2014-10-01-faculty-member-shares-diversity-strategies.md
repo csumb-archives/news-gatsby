@@ -4,7 +4,7 @@ date: October 1 2014
 slug: faculty-member-shares-diversity-strategies
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Murrieta grad earns internship in D.C."
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Devin Nunes, member of Congress from Visalia, has a new staff member – Hannah
   Plummer, who has been assigned to his office as part of the Panetta

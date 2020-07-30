@@ -4,7 +4,7 @@ title: "Student wins film award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dominic Parisi was named the recipient of the 2011 Monterey County Film
   Commission's scholarship for film students. Parisi, a senior in the

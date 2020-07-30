@@ -4,7 +4,7 @@ title: "Museum director kicks off visiting artist series"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Nina Simon – called a “visionary” by Smithsonian Magazine – wants people to be
   excited about museums.

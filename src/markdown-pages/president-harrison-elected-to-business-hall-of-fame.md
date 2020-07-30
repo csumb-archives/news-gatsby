@@ -4,7 +4,7 @@ title: "President Harrison elected to Business Hall of Fame"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Dec. 10, 2009</p>
 <p>
   CSU Monterey Bay President Dianne Harrison is among the 2010 inductees into

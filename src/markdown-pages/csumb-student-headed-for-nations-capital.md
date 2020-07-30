@@ -4,7 +4,7 @@ title: "CSUMB student headed for nation's capital"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>July 22, 2010</p>
 <p>
   Steven Avila has a passion for politics and government, and that passion will

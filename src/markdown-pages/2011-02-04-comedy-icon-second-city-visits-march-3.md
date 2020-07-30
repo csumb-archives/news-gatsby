@@ -4,7 +4,7 @@ date: February 4 2011
 slug: comedy-icon-second-city-visits-march-3
 ---
 
-```html
+ 
 <span class="date">Posted on Feb 04, 2011 </span>
 <p>
   In December 1959, a revolution in comedy began in front of a small crowd in a

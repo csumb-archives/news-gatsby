@@ -4,7 +4,7 @@ title: "Spring 2017 Performing Arts Series Hosts The Wallace Roney Quintet Feb. 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., Feb. 21, 2017 – The CSUMB World Theater will host The Wallace
   Roney Quintet Saturday Feb. 25 from 8-10 p.m. as a part of the Spring 2017

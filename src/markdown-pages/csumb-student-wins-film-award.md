@@ -4,7 +4,7 @@ title: "CSUMB student wins film award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Joseph Blackburn won the 2012 Monterey County Film Commission's film student
   scholarship award. He will use the $2,000 award to cover production costs for

@@ -4,7 +4,7 @@ title: "Innovation in the fields"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . New applications that connect growers with space-age tools are under
   development at CSU Monterey Bay. Last year, CSUMB was awarded a $32 million

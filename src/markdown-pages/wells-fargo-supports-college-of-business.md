@@ -4,7 +4,7 @@ title: "Wells Fargo supports College of Business"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay has received a $30,000 gift from
   Wells Fargo to support two programs in the College of Business.

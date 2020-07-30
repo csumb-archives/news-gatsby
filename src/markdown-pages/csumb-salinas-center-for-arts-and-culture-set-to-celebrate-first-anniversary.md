@@ -4,7 +4,7 @@ title: "CSUMB Salinas Center for Arts and Culture Set to Celebrate First Anniver
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., October 31, 2018 – California State University, Monterey Bay’s
   (CSUMB) Salinas Center For Arts and Culture will celebrate it’s first

@@ -4,7 +4,7 @@ date: November 2 2011
 slug: review-praises-csu-monterey-bay
 ---
 
-```html
+ 
 
 
 

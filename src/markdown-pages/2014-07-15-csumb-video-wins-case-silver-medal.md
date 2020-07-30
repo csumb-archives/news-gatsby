@@ -4,7 +4,7 @@ date: July 15 2014
 slug: csumb-video-wins-case-silver-medal
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Film, TV composer visits April 1"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Public invited to April 1 talk by Mark Mancina</p>
 <p>
   Mark Mancina, best known for composing the music for the Oscar&#45;winning

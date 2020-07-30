@@ -4,7 +4,7 @@ title: "Scholarship fund makes headlines"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Awards surpass $1 million mark</h3>
 <p>
   After former Los Angeles Times photojournalist Alwin Krause died in 2002, his

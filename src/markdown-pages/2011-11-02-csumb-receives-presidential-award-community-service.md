@@ -4,7 +4,7 @@ date: November 2 2011
 slug: csumb-receives-presidential-award-for-community-service
 ---
 
-```html
+ 
 
 
 

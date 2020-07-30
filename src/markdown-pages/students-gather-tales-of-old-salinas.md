@@ -4,7 +4,7 @@ title: "Students gather tales of old Salinas"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Sarah Hollingsworth was lucky to land a good person to interview. As part of
   an ongoing oral history project CSU Monterey Bay is conducting in the

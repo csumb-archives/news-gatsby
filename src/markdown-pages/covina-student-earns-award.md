@@ -4,7 +4,7 @@ title: "Covina Student earns award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California Sea Grant has named Jasmine Ruvalcaba a 2007 John D. Isaacs Marine
   Undergraduate Scholar.

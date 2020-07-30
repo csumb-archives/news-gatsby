@@ -4,7 +4,7 @@ date: December 8 2005
 slug: artgallery
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 08, 2005 </span>
 <h5>Exhibits curated by Museum Studies students</h5>
 <p>

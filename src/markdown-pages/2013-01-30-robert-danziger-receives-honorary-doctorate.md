@@ -4,7 +4,7 @@ date: January 30 2013
 slug: robert-danziger-receives-honorary-doctorate
 ---
 
-```html
+ 
 
 
 

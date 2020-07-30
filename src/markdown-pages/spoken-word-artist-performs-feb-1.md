@@ -4,7 +4,7 @@ title: "Spoken-word artist performs Feb. 1"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Grand slam</h2>
 <h3>Saul Williams kicks off Black History Month at CSUMB</h3>
 <p>

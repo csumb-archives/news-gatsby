@@ -4,7 +4,7 @@ title: "CSUMB staff member prepares for emergencies"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>July 8, 2010</p>
 <p><strong>Ehlers attends Homeland Security training course</strong></p>
 <p>

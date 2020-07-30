@@ -4,7 +4,7 @@ title: "Person to Person"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Weekly profiled Professor Deb Busman, who teaches creative writing at
   CSUMB and is co&#45;director of the university’s Creative Writing and Social

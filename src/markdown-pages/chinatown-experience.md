@@ -4,7 +4,7 @@ title: "Chinatown Experience"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It has gone from a dream, to a grant ($600,000 last year) and now the Salinas
   Chinatown Cultural Center and Museum and project is taking an important next

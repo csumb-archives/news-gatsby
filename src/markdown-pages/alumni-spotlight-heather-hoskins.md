@@ -4,7 +4,7 @@ title: "Alumni Spotlight: Heather Hoskins"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Heather Hoskins (HCom ’05) turned her experiences as a student journalist into
   a career.

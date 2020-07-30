@@ -4,7 +4,7 @@ title: "GEEKING OUT"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Students, professors put pie in Pi Day</h3>
 <p>
   It's not likely anyone is getting the day off from school or work for it, but

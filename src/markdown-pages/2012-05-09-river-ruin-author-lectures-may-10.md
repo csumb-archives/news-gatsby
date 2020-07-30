@@ -4,7 +4,7 @@ date: May 9 2012
 slug: in-ruin&apos;-author-lectures-on-may-10
 ---
 
-```html
+ 
 
 
 

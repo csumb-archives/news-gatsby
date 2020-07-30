@@ -4,7 +4,7 @@ title: "Summer Scholar Institute"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 26, 2009</p>
 <h2>Program fuels college dreams</h2>
 <p>

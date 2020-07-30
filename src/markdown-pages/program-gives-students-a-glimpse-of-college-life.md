@@ -4,7 +4,7 @@ title: "Program gives students a glimpse of college life"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>July 3, 2010</p>
 <p>
   Alexandra Ramos was designing a logo for her band, Pam. With a little

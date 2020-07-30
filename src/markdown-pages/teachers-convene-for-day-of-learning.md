@@ -4,7 +4,7 @@ title: "Teachers convene for day of learning"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>CSUMB's College of Education hosts local gathering</p>
 <p>
   Approximately 15,000 California teachers came together on July 31 at dozens of

@@ -4,7 +4,7 @@ title: "Move over, Masters"
 date: January 01 2020
 ---
 
-```html
+ 
 <p></p>
 <p><strong>CSUMB to compete in national disc golf championship</strong></p>
 <p>

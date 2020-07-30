@@ -4,7 +4,7 @@ title: "Reading Center celebrates fifth anniversary"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   To coincide with National Children’s Book Week and Exceptional Children's
   Week, CSU Monterey Bay will celebrate the fifth anniversary of its Center for

@@ -4,7 +4,7 @@ title: "Choir performs for Black History Month"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   To celebrate Black History Month, California State University, Monterey Bay
   invites the public to a free musical performance by the group Voices of

@@ -4,7 +4,7 @@ title: "Rugby Club sponsors 'Invictus' on Oct. 7"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Rugby Club at CSU Monterey Bay invites the community to attend a free
   screening of the Oscar-nominated film “Invictus” on Oct. 7.

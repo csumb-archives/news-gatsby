@@ -4,7 +4,7 @@ title: "Marine science student earns NOAA scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Emily Aiken sounds like a campus recruiter when she explains why she chose CSU
   Monterey Bay for graduate school.

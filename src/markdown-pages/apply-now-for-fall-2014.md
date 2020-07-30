@@ -4,7 +4,7 @@ title: "Apply now for fall 2014"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay will accept applications for the fall 2014 term through Nov.
   30. There has never been a more exciting time to be a Cal State Monterey Bay

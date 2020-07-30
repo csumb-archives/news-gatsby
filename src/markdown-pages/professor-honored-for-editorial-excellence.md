@@ -4,7 +4,7 @@ title: "Professor honored for editorial excellence"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Kinesiology professor Kent Adams was honored by the National Strength and
   Conditioning Association at its annual conference in July.

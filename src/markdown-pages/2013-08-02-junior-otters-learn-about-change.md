@@ -4,7 +4,7 @@ date: August 2 2013
 slug: junior-otters-learn-about-change
 ---
 
-```html
+ 
 
 
 

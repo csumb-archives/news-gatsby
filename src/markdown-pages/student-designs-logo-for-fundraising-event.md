@@ -4,7 +4,7 @@ title: "Student designs logo for fundraising event"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Feb. 12 10K race benefits Rape Crisis Center</h3>
 <p>
   As publicity kicks in for the annual Together with Love 10K race, cheerful

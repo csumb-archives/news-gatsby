@@ -4,7 +4,7 @@ title: "Archaeologist aids stamp design"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . CSUMB Professor Ruben Mendoza's fascination with old buildings resulted
   in an archaeological career in Monterey County, where he has led projects that

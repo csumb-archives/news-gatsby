@@ -4,7 +4,7 @@ title: "Student artists' work to be installed April 18"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A vital part of being an artist is entering works into juried competitions.
   Students at CSU Monterey Bay had the opportunity to do that, thanks to a

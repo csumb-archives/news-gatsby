@@ -4,7 +4,7 @@ title: "CSUMB professor pens harrowing coming-of-age novel"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   "It's easier to tell the truth using fiction, for me," said Deb Busman, a
   creative writing associate professor at CSU Monterey Bay. "I was more

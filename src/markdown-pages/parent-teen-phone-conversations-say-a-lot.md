@@ -4,7 +4,7 @@ title: "Parent-teen phone conversations say a lot"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   With at least 75 percent of teenagers owning cell phones, it’s no surprise
   that the devices are playing an important role in parenting.

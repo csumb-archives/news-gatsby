@@ -4,7 +4,7 @@ title: "Former Otter golfer shines at U.S. Open"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 18, 2010** **</p>
 <p>
   Erick Justesen, who played for CSU Monterey Bay's golf team in 2003, put his

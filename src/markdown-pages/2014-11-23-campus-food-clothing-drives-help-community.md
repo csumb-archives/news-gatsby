@@ -4,7 +4,7 @@ date: November 23 2014
 slug: campus-food-clothing-drives-help-the-community
 ---
 
-```html
+ 
 
 
 

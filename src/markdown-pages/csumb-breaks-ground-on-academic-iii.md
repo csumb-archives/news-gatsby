@@ -4,7 +4,7 @@ title: "CSUMB Breaks Ground on Academic III"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., November 6, 2017 – California State University, Monterey Bay
   (CSUMB) officially breaks ground on the construction of Academic III at 11

@@ -4,7 +4,7 @@ title: "At commencement, one word: Plastics"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Class of 2016 dons regalia made from recycled bottles</p>
 <p>
   The gowns worn by CSU Monterey Bay’s graduates will still be black, but

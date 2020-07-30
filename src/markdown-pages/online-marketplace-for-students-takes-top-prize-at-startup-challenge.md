@@ -4,7 +4,7 @@ title: "Online marketplace for students takes top prize at Startup Challenge"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   An online marketplace where students and young professionals can compete for
   freelance assignments took the top prize in this year’s Startup Challenge.

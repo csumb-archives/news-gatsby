@@ -4,7 +4,7 @@ date: May 9 2011
 slug: diving-into-the-subject
 ---
 
-```html
+ 
 <span class="date">Posted on May 09, 2011 </span>
 <p>Aug. 21, 2009</p>
 <p>

@@ -4,7 +4,7 @@ title: "Studying the famous fingers of fog"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Of all the sources of water, have you ever considered fog? It contains quite a
   lot of water, but how much exactly? Dr. Dan Fernandez, a professor of physics

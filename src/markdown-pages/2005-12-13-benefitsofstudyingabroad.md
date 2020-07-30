@@ -4,7 +4,7 @@ date: December 13 2005
 slug: benefitsofstudyingabroad
 ---
 
-```html
+ 
 
 
 

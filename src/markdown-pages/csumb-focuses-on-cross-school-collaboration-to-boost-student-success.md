@@ -4,7 +4,7 @@ title: "CSUMB focuses on cross-school collaboration to boost student success"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It takes an energetic presence to keep a classroom crammed with 90 remedial
   math students engaged. Fortunately, Hongde Hu, chair of CSU Monterey Bay's

@@ -4,7 +4,7 @@ title: "CSUMB accreditation reaffirmed"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay will be accredited through 2019.
   After a process that took years and included two campus visits, the Western

@@ -4,7 +4,7 @@ title: "Online bridge between cultures"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB students join in global dialogue</h3>
 <p>Briana Cagle was one of the lucky ones.</p>
 <p>

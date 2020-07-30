@@ -4,7 +4,7 @@ title: "Political satirist visits campus March 8"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>
   HE PUTS THE &#039;MOCK&#039; IN DEMOCRACY Elect to laugh with Will Durst at
   the World Theater

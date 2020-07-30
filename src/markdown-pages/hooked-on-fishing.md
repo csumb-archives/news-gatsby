@@ -4,7 +4,7 @@ title: "Hooked on fishing"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB anglers place third in Western Invitational</h3>
 <p>Competitive bass fishing at the collegiate level – who knew?</p>
 <p>

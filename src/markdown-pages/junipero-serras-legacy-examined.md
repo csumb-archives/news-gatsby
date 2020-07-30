@@ -4,7 +4,7 @@ title: "Junipero Serra's legacy examined"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Nov. 19 marks the 300th anniversary of Junipero Serra's birth, and CSUMB
   professor Ruben Mendoza, a scholar on the California mission system, has been

@@ -4,7 +4,7 @@ title: "CSU Monterey Bay's Green Pedigree"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Several environmental initiatives have earned California State University,
   Monterey Bay a spot in the 2011 Princeton Review's Guide to 311 Green

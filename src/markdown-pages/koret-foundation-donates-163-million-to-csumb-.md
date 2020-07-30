@@ -4,7 +4,7 @@ title: "Koret Foundation donates $1.63 million to CSUMB "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Calif., June 3, 2020</b> - The Koret Foundation, a Jewish
   philanthropic organization based in San Francisco, has donated $1.63 million

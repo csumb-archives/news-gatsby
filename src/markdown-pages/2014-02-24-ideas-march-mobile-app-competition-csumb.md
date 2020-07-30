@@ -4,7 +4,7 @@ date: February 24 2014
 slug: of-march&apos;-mobile-app-competition-at-csumb
 ---
 
-```html
+ 
 
 
 

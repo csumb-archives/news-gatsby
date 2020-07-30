@@ -4,7 +4,7 @@ date: June 27 2014
 slug: camp-grant-helps-migrant-students-attain-college-dream
 ---
 
-```html
+ 
 
 
 

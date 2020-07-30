@@ -4,7 +4,7 @@ title: "Alum sails Atlantic in search of plastic debris"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The 5Gyres Institute is on a mission to educate the world about the downside
   of its reliance on single&#45;use plastic. The institute documents the

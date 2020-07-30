@@ -4,7 +4,7 @@ date: October 17 2014
 slug: a-holeinone-for-stem-education
 ---
 
-```html
+ 
 
 
 

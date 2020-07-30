@@ -4,7 +4,7 @@ title: "Campus invited to hear former NFL player"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Herschel Walker believes it's his responsibility to help</p>
 <p>
   Former NFL running back Herschel Walker will make a stop at the Gen. Stilwell

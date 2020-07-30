@@ -5,7 +5,7 @@ date: May 20 2007
 slug: &gt;- ready-for-their-dreams-csumb-president-invested-at-graduation-ceremony
 ---
 
-```html
+ 
 
 
 

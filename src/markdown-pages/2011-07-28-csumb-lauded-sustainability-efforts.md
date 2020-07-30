@@ -4,7 +4,7 @@ date: July 28 2011
 slug: csumb-lauded-for-sustainability-efforts
 ---
 
-```html
+ 
 
 
 

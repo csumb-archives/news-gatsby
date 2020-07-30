@@ -4,7 +4,7 @@ title: "CSUMB’s Bryan Sierra-Rivera Receives CSU Trustees’ Award for Outstan
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., September 11, 2018 – CSUMB senior Bryan Sierra-Rivera has
   been awarded the 2018 California State University (CSU) Trustees’ Award for

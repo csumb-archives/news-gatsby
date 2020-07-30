@@ -4,7 +4,7 @@ title: "University observes 24 furlough days"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 12, 2009</p>
 <p>
   To reduce costs as a result of state budget cuts, CSU Monterey Bay will have

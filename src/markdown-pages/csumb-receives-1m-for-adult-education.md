@@ -4,7 +4,7 @@ title: "CSUMB receives $1M for adult education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   You're never too old to go to college. Those 50 and older are invited to take
   classes through the Osher Lifelong Learning Institute at CSUMB starting Jan.

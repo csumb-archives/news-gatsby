@@ -4,7 +4,7 @@ title: "President Ochoa joins coalition to support Common Core"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay President Eduardo Ochoa has joined more than 200 college and
   university leaders from 33 states in a new coalition,

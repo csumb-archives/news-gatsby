@@ -4,7 +4,7 @@ title: "New faculty members join CSU Monterey Bay "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 13, 2010</p>
 <p>
   Six tenured/tenure-track faculty members and a librarian have joined

@@ -4,7 +4,7 @@ title: "Accreditation process under way"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A team from the Western Association of Schools and Colleges (WASC) concluded
   its three-day visit to campus on Sept. 18 with a “farewell” meeting open to

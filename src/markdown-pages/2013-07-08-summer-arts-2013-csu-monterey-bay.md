@@ -4,7 +4,7 @@ date: July 8 2013
 slug: summer-arts-2013-at-csu-monterey-bay
 ---
 
-```html
+ 
 
 
 

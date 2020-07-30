@@ -4,7 +4,7 @@ title: "Elementary school thanks CSUMB students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Kudos heaped on kudos for the dedicated CSU Monterey Bay students who are
   inspiring our elementary students. Speaking from my kindergartners'

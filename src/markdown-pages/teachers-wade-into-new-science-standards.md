@@ -4,7 +4,7 @@ title: "Teachers wade into new science standards"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor Mark O’Shea was featured in a story about new K&#45;12 science
   standards. With support from a federal Dept. of Education grant, Dr. O’Shea is

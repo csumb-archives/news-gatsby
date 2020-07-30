@@ -4,7 +4,7 @@ title: "Film students' work to be shown Dec. 20"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Capstone festival presents screen gems</h3>
 <p>
   The World Theater stage on the campus of CSU Monterey Bay will host a stellar

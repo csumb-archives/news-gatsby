@@ -4,7 +4,7 @@ title: "CSUMB commemorates Constitution Day"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   To commemorate Constitution Day, California State University, Monterey Bay
   Professor David Reichard will present a talk on the topic “Beyond 5 to 4:

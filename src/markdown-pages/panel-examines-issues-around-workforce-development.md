@@ -4,7 +4,7 @@ title: "Panel examines issues around workforce development"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Building the workforce of the 21st century will be the topic addressed by a
   panel of experts on March 2, when the President’s Speaker Series resumes at

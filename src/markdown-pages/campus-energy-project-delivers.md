@@ -4,7 +4,7 @@ title: "Campus energy project delivers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 19, 2009</p>
 <p>
   CSU Monterey Bay has received an award for its work in energy conservation.

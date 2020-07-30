@@ -4,7 +4,7 @@ title: "Guardian Scholars program graduates record number of foster youth"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Calif., May 22, 2020 </b>- CSUMB’s
   <a href="https://csumb.edu/guardianscholars">Guardian Scholars</a> program for

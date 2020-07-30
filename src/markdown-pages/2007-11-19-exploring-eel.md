@@ -4,7 +4,7 @@ date: November 19 2007
 slug: exploring-the-eel
 ---
 
-```html
+ 
 
 
 

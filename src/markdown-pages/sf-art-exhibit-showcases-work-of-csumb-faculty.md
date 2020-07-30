@@ -4,7 +4,7 @@ title: "S.F. art exhibit showcases work of CSUMB faculty"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A San Francisco art exhibit that invites spectators to take part by “dressing
   to transgress” features the work of CSU Monterey Bay faculty members.

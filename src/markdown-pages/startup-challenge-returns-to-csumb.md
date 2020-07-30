@@ -4,7 +4,7 @@ title: "Startup Challenge Returns to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., March 1, 2018 – California State University, Monterey Bay
   (CSUMB) is set to host the Startup Challenge again this spring for the ninth

@@ -4,7 +4,7 @@ title: "CSUMB lands grant for special education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay’s teacher education program has received a federal
   grant to help students obtain a special education credential. Over the course

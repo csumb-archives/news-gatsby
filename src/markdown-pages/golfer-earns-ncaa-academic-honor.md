@@ -4,7 +4,7 @@ title: "Golfer earns NCAA academic honor"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For his accomplishments in the classroom, D.J. Milligan has been honored by
   the NCAA with this year's Elite 88 award for Division II golf. The award was

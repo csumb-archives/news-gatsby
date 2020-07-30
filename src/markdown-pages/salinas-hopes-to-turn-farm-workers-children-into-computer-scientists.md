@@ -4,7 +4,7 @@ title: "Salinas hopes to turn farm workers’ children into computer scientists"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dario Molina’s alternative life scrolls by on both sides of Highway 101 north:
   acre upon acre of lettuce, spinach, heartbreak . . . He was awarded a Matsui

@@ -4,7 +4,7 @@ date: September 9 2005
 slug: earthbound-farm-goes-to-college-via-agreement-with-sodexho
 ---
 
-```html
+ 
 
 
 

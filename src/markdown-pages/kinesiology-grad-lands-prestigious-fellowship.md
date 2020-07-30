@@ -4,7 +4,7 @@ title: "Kinesiology grad lands prestigious fellowship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>UPDATE:</strong> As of September 2012, Lawrence is enrolled in a Ph.D.
   program in biology at the University of North Carolina Charlotte. Following

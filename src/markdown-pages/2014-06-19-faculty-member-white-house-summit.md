@@ -4,7 +4,7 @@ date: June 19 2014
 slug: faculty-member-at-white-house-summit
 ---
 
-```html
+ 
 
 
 

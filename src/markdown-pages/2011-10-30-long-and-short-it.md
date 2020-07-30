@@ -4,7 +4,7 @@ date: October 30 2011
 slug: the-long-and-short-of-it-.-.-.
 ---
 
-```html
+ 
 
 
 

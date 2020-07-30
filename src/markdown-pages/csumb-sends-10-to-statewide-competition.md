@@ -4,7 +4,7 @@ title: "CSUMB sends 10 to statewide competition"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Event highlights excellence in student research</p>
 <p>
   Outstanding research by CSU Monterey Bay students on topics ranging from the

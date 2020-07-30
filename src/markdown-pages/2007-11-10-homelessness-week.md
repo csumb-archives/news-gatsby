@@ -4,7 +4,7 @@ date: November 10 2007
 slug: homelessness-week
 ---
 
-```html
+ 
 
 
 

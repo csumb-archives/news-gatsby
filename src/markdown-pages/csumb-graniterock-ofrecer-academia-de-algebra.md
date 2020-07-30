@@ -4,7 +4,7 @@ title: "CSUMB, Graniterock ofrecerá academia de algebra"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Integramosun interés verdadero en las matemáticas por medio de estas
   actividades,' comentó Hongde Hu, el instructor de la academia. Hu, quien

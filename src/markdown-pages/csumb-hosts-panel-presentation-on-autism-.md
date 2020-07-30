@@ -4,7 +4,7 @@ title: "CSUMB hosts panel presentation on autism "
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Local resources for parents, teachers is topic of Dec. 1 event</h4>
 <p>
   With the diagnosis rate estimated to be 1 in 110 children, it’s imperative

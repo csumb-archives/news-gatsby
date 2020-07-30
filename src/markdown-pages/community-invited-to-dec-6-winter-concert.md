@@ -4,7 +4,7 @@ title: "Community invited to Dec. 6 winter concert"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>"Holiday Parade Around the World" theme for annual event</h3>
 <p>
   CSU Monterey Bay’s Music and Performing Arts Department will hold its annual

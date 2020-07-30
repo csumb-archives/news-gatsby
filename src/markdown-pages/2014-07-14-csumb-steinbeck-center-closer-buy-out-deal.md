@@ -4,7 +4,7 @@ date: July 14 2014
 slug: csumb-steinbeck-center-closer-to-buyout-deal
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Trebor Scholz to Discuss the Future of Work at President's Speaker Serie
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., April 24, 2019 – California State University, Monterey Bay
   (CSUMB) President Eduardo M. Ochoa will host author and visionary Trebor

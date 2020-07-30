@@ -4,7 +4,7 @@ title: "CSUMB grad films life in juvie"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Christopher Sakamoto's film about teenagers in juvenile hall won him an award,
   but more importantly it gave him an insight about what a fraction of his

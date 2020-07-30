@@ -4,7 +4,7 @@ title: "Women's self-defense course starts in October"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The University Police Department is taking sign-ups for a four-session
   self-defense course for women. The course is open to students, faculty and

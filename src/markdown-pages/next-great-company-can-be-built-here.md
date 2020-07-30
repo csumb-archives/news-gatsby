@@ -4,7 +4,7 @@ title: "Next great company can be built here"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Central Coast does not need Google to come here – it needs to create the
   next great company in its own backyard. That was just one of the ideas

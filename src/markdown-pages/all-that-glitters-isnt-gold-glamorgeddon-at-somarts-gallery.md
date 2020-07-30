@@ -4,7 +4,7 @@ title: "All that glitters isn't gold: 'Glamorgeddon' at SOMArts Gallery"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It's tough not to be dazzled by "Glamorgeddon: the Spectacle," on view until
   Feb. 4 in SOMArts' Main Gallery. The group exhibition curated by Bay Area

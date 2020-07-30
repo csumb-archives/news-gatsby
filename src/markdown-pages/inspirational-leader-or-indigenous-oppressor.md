@@ -4,7 +4,7 @@ title: "Inspirational leader or indigenous oppressor?"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   “There is no documentation or evidence that shows Father Junipero Serra abused
   or killed anyone,” Professor Ruben Mendoza told the Orange County Register in

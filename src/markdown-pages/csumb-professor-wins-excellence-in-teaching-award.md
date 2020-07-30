@@ -4,7 +4,7 @@ title: "CSUMB professor wins excellence in teaching award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>April 26, 2010</p>
 <p>
   Pat Tinsley McGill, associate professor of business administration at CSU

@@ -4,7 +4,7 @@ date: March 5 2012
 slug: sustainability-and-social-justice
 ---
 
-```html
+ 
 
 
 

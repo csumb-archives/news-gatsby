@@ -4,7 +4,7 @@ date: September 25 2012
 slug: a-pearl-of-a-singer
 ---
 
-```html
+ 
 
 
 

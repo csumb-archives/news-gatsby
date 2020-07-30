@@ -4,7 +4,7 @@ title: "Program encourages young computer scientists"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Jan. 20, 2010</p>
 <p>
   California State University, Monterey Bay, in collaboration with other schools

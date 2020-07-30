@@ -4,7 +4,7 @@ title: "Slough of Information"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The magic generally happens right away, the minute their shoes sink into the
   white sand. A startling-but-true fact, said program director Amity Wood, is

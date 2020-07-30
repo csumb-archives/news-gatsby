@@ -4,7 +4,7 @@ title: "'Growing Up Weston' lecture"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Kim Weston kicks off Visiting Artist series</h3>
 <p>
   Kim Weston, artist and grandson of photographer Edward Weston, will kick off

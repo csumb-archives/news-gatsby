@@ -4,7 +4,7 @@ date: September 24 2013
 slug: csumb-military-friendly-school
 ---
 
-```html
+ 
 
 
 

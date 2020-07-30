@@ -4,7 +4,7 @@ title: "Buidling Coming Down"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Another building to come down</h4>
 <p>
   Building 207, the unused three-story structure between Building 1 and dorm

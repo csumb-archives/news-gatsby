@@ -4,7 +4,7 @@ title: "Students headed to Washington internships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Two CSU Monterey Bay students are about to get an up-close look at the inner
   workings of government.

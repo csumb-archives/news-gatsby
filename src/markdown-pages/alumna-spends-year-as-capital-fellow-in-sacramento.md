@@ -4,7 +4,7 @@ title: "Alumna spends year as Capital Fellow in Sacramento"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Diana Vasquez grew up in the San Fernando Valley town of Pacoima with an
   appetite for politics.

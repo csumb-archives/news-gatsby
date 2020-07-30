@@ -4,7 +4,7 @@ title: "CSUMB students participate in Ideas of March hackathon"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It's an innovative, intense competition for college students with basic
   programming skills. More than 50 students worked through the weekend to

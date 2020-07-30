@@ -4,7 +4,7 @@ title: "CSUMB student wins film commission scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Jessica Moss is this year’s recipient of the Monterey County Film Commission’s
   student scholarship.

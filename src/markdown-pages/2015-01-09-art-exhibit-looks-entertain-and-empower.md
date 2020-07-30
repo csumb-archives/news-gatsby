@@ -4,7 +4,7 @@ date: January 9 2015
 slug: art-exhibit-looks-to-entertain-and-empower
 ---
 
-```html
+ 
 
 
 

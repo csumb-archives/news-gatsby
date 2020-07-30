@@ -4,7 +4,7 @@ title: "Science camp offers girls hands-on learning"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Camp SEA Lab – SEA stands for Science, Education and Adventure – offers
   a series of summer programs in conjunction with CSU Monterey Bay that use

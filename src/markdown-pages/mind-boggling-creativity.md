@@ -4,7 +4,7 @@ title: "Mind-boggling creativity"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Feb. 5, 2010</p>
 <p>
   <strong><em>Performer's act is magical entertainment</em></strong>

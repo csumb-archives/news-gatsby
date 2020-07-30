@@ -4,7 +4,7 @@ date: December 4 2006
 slug: conserving-energy
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 04, 2006 </span>
 <h4>Conserving energy has a big payoff</h4>
 <p>

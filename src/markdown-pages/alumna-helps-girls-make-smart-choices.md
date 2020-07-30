@@ -4,7 +4,7 @@ title: "Alumna helps girls make Smart Choices"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Nonprofit Girls Inc. empowers teenagers</h3>
 <p>
   Patty Fernandez directs an organization that inspires girls to be strong,

@@ -4,7 +4,7 @@ title: "Honors Convocation May 5, 2018"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 5, 2018 – California State University, Monterey Bay
   (CSUMB) held its annual honors convocation May 5, 2018, recognizing select

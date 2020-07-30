@@ -4,7 +4,7 @@ title: "Professor honors work of Chief Wilma Mankiller"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 20, 2010</p>
 <h4>
   Kathryn England-Aytes will teach in Cherokee Studies Program as visiting

@@ -4,7 +4,7 @@ title: "Mobile app competition coming to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Now is the time for students to register for the annual Startup Hackathon
   Monterey Bay. This year’s event will be held Nov. 20-22 on the campus of Cal

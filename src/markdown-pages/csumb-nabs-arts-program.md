@@ -4,7 +4,7 @@ title: "CSUMB nabs arts program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay will be the new home for a prestigious arts program for the
   next half-decade. CSU Summer Arts, the annual monthlong program offering

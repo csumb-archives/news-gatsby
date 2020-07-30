@@ -4,7 +4,7 @@ date: May 2 2012
 slug: csumb-showcases-business-school-on-may-1
 ---
 
-```html
+ 
 
 
 

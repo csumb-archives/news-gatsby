@@ -4,7 +4,7 @@ title: "CSUMB joins national initiative on economic inequality"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The American Association of State Colleges and Universities (AASCU) is
   spearheading a national effort to engage students in the topic of economic

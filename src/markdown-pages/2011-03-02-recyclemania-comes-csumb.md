@@ -4,7 +4,7 @@ date: March 2 2011
 slug: recyclemania-comes-to-csumb
 ---
 
-```html
+ 
 
 
 

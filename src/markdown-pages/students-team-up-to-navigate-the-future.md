@@ -4,7 +4,7 @@ title: "Students team up to 'navigate the future'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   As the school band played, student artists from Marina High and CSU Monterey
   Bay, along with Principal John Schilling and President Dianne Harrison,

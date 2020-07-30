@@ -4,7 +4,7 @@ title: "Monterey City Council Member Tyller Williamson to Keynote ‘Super Satur
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., February 5, 2019 – California State University (CSU) leaders,
   trustees, campus presidents and alumni will visit nearly 100 churches across

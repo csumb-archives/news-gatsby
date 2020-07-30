@@ -4,7 +4,7 @@ title: "Local Monterey County Students Present Their Findings to Polar Scientist
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE Calif., Feb. 24, 2017 – Nearly 200 Monterey County elementary, middle
   and high school students presented their research findings at the Student

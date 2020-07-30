@@ -4,7 +4,7 @@ title: "CSUMB has big role in Salinas production"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Christopher Marcos and friends proved yet again that students in the
   Teledramatic Arts and Technology program at CSU Monterey Bay can excel on both

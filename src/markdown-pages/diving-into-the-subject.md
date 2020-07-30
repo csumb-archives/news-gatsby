@@ -4,7 +4,7 @@ title: "Diving into the subject"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 21, 2009</p>
 <p>
   Dr. James Lindholm (second from right) and student divers at Monterey Beach

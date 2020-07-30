@@ -4,7 +4,7 @@ title: "Contest entries get creative with gingerbread"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>There are gingerbread bakers and gingerbread artists.</p>
 <p>And then there are gingerbread overachievers.</p>
 <p>

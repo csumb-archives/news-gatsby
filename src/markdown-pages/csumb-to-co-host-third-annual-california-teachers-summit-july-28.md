@@ -4,7 +4,7 @@ title: "CSUMB to Co-Host Third Annual California Teachers Summit July 28"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., July 26, 2017 – Thousands of teachers will gather across
   California on July 28 for the third annual

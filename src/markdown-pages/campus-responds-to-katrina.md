@@ -4,7 +4,7 @@ title: "Campus responds to Katrina"
 date: January 01 2020
 ---
 
-```html
+ 
 <p><strong>Students raise $3,500 for hurricane relief</strong></p>
 <p>
   Hurricane Katrina's devastation was felt on campus as students, faculty and

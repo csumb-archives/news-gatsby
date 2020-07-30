@@ -4,7 +4,7 @@ title: "Gilman Scholars go global"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Record number of CSUMB students get help to study abroad</h3>
 <p>
   Studying abroad can bring a variety of benefits: immersion in a new culture;

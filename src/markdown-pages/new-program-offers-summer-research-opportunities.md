@@ -4,7 +4,7 @@ title: "New program offers summer research opportunities"
 date: January 01 2020
 ---
 
-```html
+ 
 <p><em>Story and photo courtesy of CSU Chancellor's Office</em></p>
 <p>
   CSU’s Council on Ocean Affairs, Science &amp; Technology (COAST) and CSU

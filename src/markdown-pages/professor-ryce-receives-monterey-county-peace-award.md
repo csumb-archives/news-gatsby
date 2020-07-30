@@ -4,7 +4,7 @@ title: "Professor Ryce Receives Monterey County Peace Award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Ca., August 6, 2019 –</b> California State University, Monterey
   Bay’s (CSUMB) Director of the Salinas Center for Arts and Culture, and

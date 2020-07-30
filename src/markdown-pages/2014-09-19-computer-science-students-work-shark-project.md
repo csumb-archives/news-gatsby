@@ -4,7 +4,7 @@ date: September 19 2014
 slug: computer-science-students-work-on-shark-project
 ---
 
-```html
+ 
 
 
 

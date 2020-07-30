@@ -4,7 +4,7 @@ title: "CSUMB student awarded scholarship to study abroad"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Jesus Garcia-Valdez, a sophomore at CSUMB, is one of 20 scholarship
   winners nationwide – the only one from California – selected for the Sherin

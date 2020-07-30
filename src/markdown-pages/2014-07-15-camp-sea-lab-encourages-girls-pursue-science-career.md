@@ -4,7 +4,7 @@ date: July 15 2014
 slug: camp-sea-lab-encourages-girls-to-pursue-science-career
 ---
 
-```html
+ 
 <span class="date">Posted on Jul 15, 2014    </span>
 <p>Twenty-four high school students from around the country got
 some cool hands-on training in Monterey Bay on Monday, exploring

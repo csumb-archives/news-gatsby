@@ -4,7 +4,7 @@ title: "Apply now for fall 2012 MSW program"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Application deadline is April 30</h3>
 <p>
   Now is the time for prospective students to apply for the fall 2012 class of

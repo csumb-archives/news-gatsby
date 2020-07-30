@@ -4,7 +4,7 @@ title: "Campus to host AVID conference"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Professor Diana Garcia keynote speaker</h3>
 <p>
   CSU Monterey Bay Professor Diana Garcia will deliver the keynote address at

@@ -4,7 +4,7 @@ title: "University earns community engagement classification"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Carnegie Foundation for the Advancement of Teaching has once again honored
   CSU Monterey Bay for its focus on service and public engagement, making it one

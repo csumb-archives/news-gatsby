@@ -4,7 +4,7 @@ title: "Student-athletes bring holiday cheer"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Student-athletes at CSU Monterey Bay got into the holiday spirit by making
   cards for military members serving overseas.

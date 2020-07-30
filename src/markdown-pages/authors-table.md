@@ -4,7 +4,7 @@ title: "Authors Table"
 date: January 01 2020
 ---
 
-```html
+ 
 <h5>
   Author&#039;s Table brings together best-selling writers and their fans at
   dinner gatherings

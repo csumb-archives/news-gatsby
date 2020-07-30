@@ -4,7 +4,7 @@ title: "Staff members honored for outreach work"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Two staff members from California State University, Monterey Bay have been
   honored for their work with the univesity's outreach efforts.

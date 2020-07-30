@@ -4,7 +4,7 @@ title: "First Tee of Monterey's Impact"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . College students from Cal State Monterey Bay have a unique opportunity,
   thanks to the First Tee of Monterey. "We have first-generation students to go

@@ -4,7 +4,7 @@ title: "Dr. Ilene Feinman appointed dean of CAHSS"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay Provost Kathy Cruz-Uribe has
   announced the appointment of Dr. Ilene Feinman to the position of dean of the

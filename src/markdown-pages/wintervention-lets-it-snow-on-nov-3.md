@@ -4,7 +4,7 @@ title: "'Wintervention' lets it snow on Nov. 3"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Documentary filmmaker Warren Miller's latest snow-thrill movie, Wintervention,
   will be shown at California State University, Monterey Bay's World Theater at

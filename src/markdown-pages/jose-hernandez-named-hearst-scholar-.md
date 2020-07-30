@@ -4,7 +4,7 @@ title: "Jose Hernandez named Hearst Scholar "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay student Jose Hernandez has received the 2012 William R.
   Hearst/CSU Trustees’ Award for Outstanding Achievement.

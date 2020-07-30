@@ -4,7 +4,7 @@ date: October 30 2006
 slug: many-make-a-difference-volunteers-give-back-to-the-community
 ---
 
-```html
+ 
 
 
 

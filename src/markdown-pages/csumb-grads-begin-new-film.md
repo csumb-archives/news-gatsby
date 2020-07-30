@@ -4,7 +4,7 @@ title: "CSUMB grads begin new film"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay graduates Robert Machoian and Rodrigo Ojeda-Beck began
   production on their first feature film – <em>Forty Years From Yesterday</em> –

@@ -4,7 +4,7 @@ date: October 31 2007
 slug: truths-worth-telling
 ---
 
-```html
+ 
 
 
 

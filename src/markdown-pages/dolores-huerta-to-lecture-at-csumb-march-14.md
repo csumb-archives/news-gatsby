@@ -4,7 +4,7 @@ title: "Dolores Huerta to lecture at CSUMB March 14"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Visit part of Women's History Month celebration</h3>
 <p>
   In recognition of Women’s History Month, Dolores Huerta will speak at CSU

@@ -4,7 +4,7 @@ title: "The year in review"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay experienced a year of transformative change and growth.
 </p>

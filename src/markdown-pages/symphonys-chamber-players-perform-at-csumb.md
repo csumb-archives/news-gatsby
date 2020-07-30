@@ -4,7 +4,7 @@ title: "Symphony's Chamber Players perform at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A special chamber concert by members of the Monterey Symphony will take place
   at CSUMB on Wednesday, Feb.11. Eastern European masterworks will be featured,

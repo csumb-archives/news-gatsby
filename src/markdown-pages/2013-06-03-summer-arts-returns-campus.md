@@ -4,7 +4,7 @@ date: June 3 2013
 slug: summer-arts-returns-to-campus
 ---
 
-```html
+ 
 
 
 

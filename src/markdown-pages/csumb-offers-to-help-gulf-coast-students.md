@@ -4,7 +4,7 @@ title: "CSUMB offers to help Gulf Coast students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   With thousands of students affected by Hurricane Katrina forced to improvise
   on their fall-semester plans, many are inquiring about taking classes

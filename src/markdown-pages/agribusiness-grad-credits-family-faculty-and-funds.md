@@ -4,7 +4,7 @@ title: "Agribusiness grad credits family, faculty and funds"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Martin Vargas-Garcia, a 2009 graduate, represented alumni as a featured
   speaker at the Feb. 26 Have a Heart for Students Dinner and Auction, making

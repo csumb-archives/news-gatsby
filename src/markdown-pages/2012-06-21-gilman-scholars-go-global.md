@@ -4,7 +4,7 @@ date: June 21 2012
 slug: gilman-scholars-go-global
 ---
 
-```html
+ 
 
 
 

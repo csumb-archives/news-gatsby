@@ -4,7 +4,7 @@ title: 'Monterey Jazz Festival Presents "Jazz and New Horizons" at CSUMB’s Wor
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., March 28, 2019 – A special collaboration between the Monterey
   Jazz Festival (MJF) and California State University, Monterey Bay (CSUMB)

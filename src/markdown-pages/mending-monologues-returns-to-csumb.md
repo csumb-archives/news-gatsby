@@ -4,7 +4,7 @@ title: "MENding Monologues returns to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Play explores gender violence issues from male perspective</p>
 <p>
   Following on the heels of Eve Ensler’s “Vagina Monologues,” CSU Monterey Bay

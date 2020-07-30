@@ -4,7 +4,7 @@ date: August 23 2014
 slug: otters-talented-and-deep-head-into-fall-golf-season
 ---
 
-```html
+ 
 
 
 

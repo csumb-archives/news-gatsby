@@ -4,7 +4,7 @@ title: "Men's golf set for national championship"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Follow the Otters at the national championship May 17-20</h3>
 <p>
   As soon as the members of the Otter men's golf team finished play in last

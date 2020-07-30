@@ -4,7 +4,7 @@ title: "dcmc mou 2007"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Students benefit from job opportunities</h4>
 <p>
   California State University, Monterey Bay and the Defense Manpower Data Center

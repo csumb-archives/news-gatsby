@@ -4,7 +4,7 @@ title: "First Night Monterey Unveils Artwork for 2020 Celebration"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., December 4, 2019 –
   <a href="https://www.firstnightmonterey.org/">First Night Monterey</a> unveiled

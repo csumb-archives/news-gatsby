@@ -4,7 +4,7 @@ title: "Professor's artwork celebrates, honors communities"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 31, 2010</p>
 <p>
   Celebration of Johanna Poethig's mural at the I&#45;Hotel in San Francisco on

@@ -4,7 +4,7 @@ date: June 15 2012
 slug: csumb-featured-in-book-on-undergraduate-research
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: September 1 2011
 slug: peering-down-on-california&apos;s-water-problems
 ---
 
-```html
+ 
 
 
 

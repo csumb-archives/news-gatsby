@@ -4,7 +4,7 @@ date: November 9 2012
 slug: jose-hernandez-named-hearst-scholar
 ---
 
-```html
+ 
 
 
 

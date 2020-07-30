@@ -6,7 +6,7 @@ date: October 12 2006
 slug: &gt;- all-in-a-name-the-csumb-community-ponders-the-most-important-moniker-on-campus
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Social Justice Colloquium set for March 15"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Colonial history of the Philippines topic of annual event</p>
 <p>
   This year’s Social Justice Colloquium at CSU Monterey Bay examines the

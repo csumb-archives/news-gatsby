@@ -4,7 +4,7 @@ date: June 5 2014
 slug: mural-graces-library&apos;s-main-floor
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Sevene wins excellence in teaching award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Trish Sevene, associate professor of kinesiology, has been honored with a
   teaching award sponsored by the Community Foundation for Monterey County.

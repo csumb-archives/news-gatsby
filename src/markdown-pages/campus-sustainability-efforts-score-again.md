@@ -4,7 +4,7 @@ title: "Campus sustainability efforts score again"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s alternative transportation program has earned another
   recognition: a Best Practices Award from the California Higher Education

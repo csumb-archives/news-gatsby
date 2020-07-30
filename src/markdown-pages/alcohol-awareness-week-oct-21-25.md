@@ -4,7 +4,7 @@ title: "Alcohol Awareness Week Oct. 21-25"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Aware, Awake, Alive! comes to CSUMB</h3>
 <p>
   As part of National Collegiate Alcohol Awareness Week (NCAAW) Oct. 21–25, CSU

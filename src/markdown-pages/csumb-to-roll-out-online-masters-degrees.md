@@ -4,7 +4,7 @@ title: "CSUMB to roll out online master's degrees"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay will soon begin offering online graduate degrees. The school
   is among the first of the CSU campuses to begin using Cal State online, which

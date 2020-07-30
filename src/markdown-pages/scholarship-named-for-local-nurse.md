@@ -4,7 +4,7 @@ title: "Scholarship named for local nurse"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Rotary Club of Monterey Pacific has established the Nora Walsh Nursing
   Scholarship at Cal State Monterey Bay.

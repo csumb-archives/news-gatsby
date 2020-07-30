@@ -4,7 +4,7 @@ title: "CSUMB art historian to present Steinbeck lecture"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>July 2, 2010</p>
 <p>
   Dr. Lila Staples, head of the museum studies program at CSU Monterey Bay, will

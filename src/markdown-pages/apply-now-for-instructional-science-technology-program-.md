@@ -4,7 +4,7 @@ title: "Apply now for instructional science, technology program "
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Open house scheduled for Jan. 27 at CSUMB</h3>
 <p>
   California State University, Monterey Bay invites the public to learn more

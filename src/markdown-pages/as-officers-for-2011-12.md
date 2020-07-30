@@ -4,7 +4,7 @@ title: "AS officers for 2011-12"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Elections for Associated Students officers for 2011-12 were held in April.
   Next year's officers:

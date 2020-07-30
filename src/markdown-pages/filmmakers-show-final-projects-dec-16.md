@@ -4,7 +4,7 @@ title: "Filmmakers show final projects Dec. 16"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Capstone Festival presents real gems</h4>
 <p>
   The World Theater on the campus of CSU Monterey Bay will host student films

@@ -4,7 +4,7 @@ title: "Grad is passionate about communicating science"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Jane Kim’s artwork turns up in unusual places.</p>
 <p>
   The graduate of CSU Monterey Bay’s science illustration program has displayed

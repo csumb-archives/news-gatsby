@@ -4,7 +4,7 @@ date: November 29 2006
 slug: model-student-from-twain-harte-to-fashion-runway
 ---
 
-```html
+ 
 
 
 

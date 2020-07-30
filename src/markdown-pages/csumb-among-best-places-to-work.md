@@ -4,7 +4,7 @@ title: "CSUMB among 'Best Places to Work'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay can claim to be one of the best places to work in the county
   – for the third time in five years.

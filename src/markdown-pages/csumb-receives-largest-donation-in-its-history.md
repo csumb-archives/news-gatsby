@@ -4,7 +4,7 @@ title: "CSUMB receives largest donation in its history"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Joel and Dena Gambord of Pebble Beach have made a $10 million gift to
   California State University, Monterey Bay to establish two endowed

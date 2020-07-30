@@ -4,7 +4,7 @@ title: "National Circus of China comes to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>World Theater season opens with Sept. 18 performance</h3>
 <p>
   Last year, CSU Monterey Bay’s World Theater brought Chinese acrobats to the

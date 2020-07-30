@@ -4,7 +4,7 @@ title: "How hard could it be?"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . I'm seated among a group of start-up aspirants in the University Center
   ballroom at CSU Monterey Bay, about a mile and a half from the Pacific Ocean.

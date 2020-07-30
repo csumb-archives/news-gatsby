@@ -4,7 +4,7 @@ title: "Calling all teen filmmakers"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Submission deadline May 31 for Teen Film Festival</h3>
 <p>
   Young filmmakers eager to see their work on a screen bigger than YouTube will

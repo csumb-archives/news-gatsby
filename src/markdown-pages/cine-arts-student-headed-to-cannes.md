@@ -4,7 +4,7 @@ title: "Cine Arts student headed to Cannes"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Andrea Valenzuela will head to France in May as a participant in the Creative
   Minds Filmmaker Institute held in conjunction with the Cannes Film Festival.

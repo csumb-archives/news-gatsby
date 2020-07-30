@@ -4,7 +4,7 @@ title: "High school students imagine college . . ."
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>. . . and qualify for a scholarship to help pay for it</h3>
 <p>
   During June, small groups of aspiring filmmakers could be seen around campus.

@@ -4,7 +4,7 @@ title: "Teacher Pathway Program Grant to Help Expand Program in Region"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Ca., July 30, 2019 –</b> California State University, Monterey
   Bay’s (CSUMB)

@@ -4,7 +4,7 @@ date: April 12 2011
 slug: president-harrison-gets-national-responsibilities
 ---
 
-```html
+ 
 
 
 

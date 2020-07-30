@@ -4,7 +4,7 @@ title: "Winter Concert 2007"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>CSUMB invites community to Winter Concert Dec. 2</h4>
 <p>
   California State University, Monterey Bay's Music and Performing Arts

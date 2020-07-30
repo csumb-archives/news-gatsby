@@ -4,7 +4,7 @@ title: "CSUMB awarded $8.6 million to boost teacher quality"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay has received one of 24 grants from the U.S Department of
   Education to recruit, train and support new teachers primarily in science,

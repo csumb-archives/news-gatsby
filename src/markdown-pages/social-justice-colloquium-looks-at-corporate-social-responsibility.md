@@ -4,7 +4,7 @@ title: "Social Justice Colloquium looks at corporate social responsibility"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This year’s Social Justice Colloquium at CSU Monterey Bay will address a topic
   from the business world. A panel will discuss “Corporate Social

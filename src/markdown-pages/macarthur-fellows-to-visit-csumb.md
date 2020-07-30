@@ -4,7 +4,7 @@ title: "MacArthur Fellows to visit CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Award-winners hope to inspire students</h3>
 <p>
   The MacArturos – well, some of them – are coming to Cal State Monterey Bay.

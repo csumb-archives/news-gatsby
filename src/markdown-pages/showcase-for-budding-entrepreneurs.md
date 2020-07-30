@@ -4,7 +4,7 @@ title: "Showcase for budding entrepreneurs"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   An ag tech business, a company producing a healthy alternative to soda, and an
   urban homesteader are among the business startup ideas that will vie for cash

@@ -4,7 +4,7 @@ title: "Giving signals at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The series of skits and guided discussions by acting troupe Catharsis
   Productions demonstrate that role-playing and blunt talk make more memorable

@@ -4,7 +4,7 @@ title: "Black History Month at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In celebration of Black History Month, the CSUMB chapter of the National
   Association for the Advancement of Colored People, Black Students United and

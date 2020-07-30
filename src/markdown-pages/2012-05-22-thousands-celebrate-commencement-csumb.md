@@ -4,7 +4,7 @@ date: May 22 2012
 slug: thousands-celebrate-commencement-at-csumb
 ---
 
-```html
+ 
 
 
 

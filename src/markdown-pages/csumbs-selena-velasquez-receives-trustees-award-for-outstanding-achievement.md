@@ -4,7 +4,7 @@ title: "CSUMB’s Selena Velasquez Receives Trustees’ Award for Outstanding Ac
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., September 16, 2019 – CSUMB senior Selena Velasquez has
   received the 2019 California State University (CSU)

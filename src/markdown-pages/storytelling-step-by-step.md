@@ -4,7 +4,7 @@ title: "Storytelling, step by step"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Dance group performs at CSU Monterey Bay</h3>
 <p>
   The community is invited to celebrate Black History Month with

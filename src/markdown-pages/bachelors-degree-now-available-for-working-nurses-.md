@@ -4,7 +4,7 @@ title: "Bachelor's degree now available for working nurses "
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Class schedule accommodates employed professionals</h3>
 <p>
   To help meet a growing demand for nurses with bachelor’s degrees, CSU Monterey

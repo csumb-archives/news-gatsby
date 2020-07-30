@@ -4,7 +4,7 @@ title: "Technology camp draws international students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dozens of high school students – 34 from Taiwan and an equal number from the
   local area – attended the annual Technology Innovation summer camp at CSUMB,

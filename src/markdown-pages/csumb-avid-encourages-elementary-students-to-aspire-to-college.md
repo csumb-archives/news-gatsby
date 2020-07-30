@@ -4,7 +4,7 @@ title: "CSUMB AVID encourages elementary students to aspire to college"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., March 6, 2020 - Elementary students from two Monterey
   Peninsula Unified School District (MPUSD) schools — Foothill Elementary and

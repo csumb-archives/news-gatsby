@@ -4,7 +4,7 @@ date: September 25 2013
 slug: first-tee-of-monterey&apos;s-impact
 ---
 
-```html
+ 
 
 
 

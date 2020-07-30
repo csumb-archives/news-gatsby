@@ -4,7 +4,7 @@ title: "World Theater presents its 2010 lineup "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Dance is at center stage for the World Theater’s 10th anniversary season.</p>
 <p>
   The Paul Taylor Dance Company returns Nov. 11. Taylor has choreographed a new

@@ -4,7 +4,7 @@ title: "CSUMB Faculty Corey Garza Receives INSIGHT Into Diversity Magazine’s 2
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b
     ><i

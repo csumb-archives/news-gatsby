@@ -4,7 +4,7 @@ title: "CSUMB, Hartnell to host Social Work Symposium"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 19, 2017 – CSUMB and Hartnell College will host aspiring
   behavioral health professionals at a day-long symposium at CSUMB’s University

@@ -4,7 +4,7 @@ title: "Skateboard film"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>CSUMB students' skateboard film set to premiere</h4>
 <p>
   "No Excuses, Just Hungry," a skateboarding film by a pair of California State

@@ -4,7 +4,7 @@ title: "TAT film festival"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The World Theater on the campus of California State University, Monterey Bay
   is set for a stellar crop of student films and original media productions to

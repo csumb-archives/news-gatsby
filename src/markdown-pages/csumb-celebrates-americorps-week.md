@@ -4,7 +4,7 @@ title: "CSUMB celebrates AmeriCorps Week"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   They work with the Arts Council for Monterey County, Dorothy’s Place soup
   kitchen, the National Steinbeck Center, Seaside High School and the Boys and

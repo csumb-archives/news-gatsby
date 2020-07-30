@@ -4,7 +4,7 @@ title: "Teacher-to-be adds up $100K in stipends"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Math graduate headed to USC</h2>
 <p>
   Christina Depweg sees the world as a series of logic puzzles to be solved.

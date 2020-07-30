@@ -4,7 +4,7 @@ title: "Helping Endangered Species ? One Mural at a Time"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Combining the accessibility of street art with meticulous scientific
   detail – a style she honed while earning a certificate in science illustration

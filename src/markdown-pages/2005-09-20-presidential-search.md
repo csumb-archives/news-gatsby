@@ -4,7 +4,7 @@ date: September 20 2005
 slug: presidential-search
 ---
 
-```html
+ 
 
 
 

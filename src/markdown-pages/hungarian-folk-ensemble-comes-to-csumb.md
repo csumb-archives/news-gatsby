@@ -4,7 +4,7 @@ title: "Hungarian Folk Ensemble comes to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>World Theater season opens Sept. 17</h3>
 <p>
   The music and dances are centuries old but the presentation will be 21st

@@ -4,7 +4,7 @@ title: "Startup Weekend Monterey Bay Returns to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., January 4, 2020 – For the eighth consecutive year, California
   State University, Monterey Bay (CSUMB) is set to host Startup Weekend Monterey

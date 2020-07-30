@@ -4,7 +4,7 @@ title: "Baseball team wins home opener"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Greg Fujii hit a walk-off double to lift the Cal State Monterey Bay baseball
   team to a 7-6 victory over Biola University in the Otters home opener on

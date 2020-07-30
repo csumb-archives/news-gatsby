@@ -4,7 +4,7 @@ title: "CSUMB showcases Business School on May 1"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Teaching students isn’t the only goal of the School of Business at CSU
   Monterey Bay.

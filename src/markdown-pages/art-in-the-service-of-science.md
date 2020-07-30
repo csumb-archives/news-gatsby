@@ -4,7 +4,7 @@ title: "Art in the service of science"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Science illustration students exhibit work at P.G. Museum</p>
 <p>
   If you’ve ever wondered about the artwork that illustrates science textbooks,

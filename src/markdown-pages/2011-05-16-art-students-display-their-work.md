@@ -4,7 +4,7 @@ date: May 16 2011
 slug: art-students-display-their-work
 ---
 
-```html
+ 
 
 
 

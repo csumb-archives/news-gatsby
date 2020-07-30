@@ -5,7 +5,7 @@ date: December 4 2006
 slug: &gt;- club-seeks-worn-running-shoes-csumb-students-plan-donation-to-nonprofit
 ---
 
-```html
+ 
 
 
 

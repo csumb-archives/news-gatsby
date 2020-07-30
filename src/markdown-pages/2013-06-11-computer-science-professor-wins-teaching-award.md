@@ -4,7 +4,7 @@ date: June 11 2013
 slug: computer-science-professor-wins-teaching-award
 ---
 
-```html
+ 
 
 
 

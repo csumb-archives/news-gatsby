@@ -6,7 +6,7 @@ date: November 22 2006
 slug: &gt;- talent-scouts-the-young-team-at-fog-box-records-premieres-its-lineup-wednesday
 ---
 
-```html
+ 
 
 
 

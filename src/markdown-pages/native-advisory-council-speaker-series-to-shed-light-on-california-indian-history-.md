@@ -4,7 +4,7 @@ title: "Native Advisory Council Speaker Series to Shed Light on California India
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., April 6, 2017 – CSUMB’s Native Advisory Council will host
   several speakers and events throughout April, sharing an array of rich Native

@@ -4,7 +4,7 @@ title: "CHSHS hosts event for National Hispanic Heritage Month"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Please join the CSUMB College of Health Sciences and Human Services in
   celebration of National Hispanic Heritage Month, focusing on the topic of

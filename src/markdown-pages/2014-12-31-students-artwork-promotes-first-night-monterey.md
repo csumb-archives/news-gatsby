@@ -4,7 +4,7 @@ date: December 31 2014
 slug: student&apos;s-artwork-promotes-first-night-monterey
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: March 17 2014
 slug: students-selected-for-csuwide-competition
 ---
 
-```html
+ 
 
 
 

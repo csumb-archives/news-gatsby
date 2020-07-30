@@ -4,7 +4,7 @@ title: "Carmel's Robert Danziger to be commencement speaker"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Robert Danziger will be the keynote speaker at CSU Monterey Bay's 17th
   commencement ceremony, to be held May 18.

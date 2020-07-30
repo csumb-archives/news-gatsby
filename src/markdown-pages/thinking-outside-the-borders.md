@@ -4,7 +4,7 @@ title: "Thinking outside the borders"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>La Santa Cecilia – A band with a message</h3>
 <p>
   La Santa Cecilia is set to rock CSU Monterey Bay’s University Center on Oct.

@@ -4,7 +4,7 @@ title: "Health sciences lecture set for Nov. 18 "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The final lecture in this semester's Health Sciences Speaker Series will be
   held on Nov. 18, when Dr. Douglas Kellogg of UC Santa Cruz visits campus. Dr.

@@ -4,7 +4,7 @@ title: "Study hall: new library is all things to all people "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   From the moment it opened at 8 a.m. on Dec. 1, 2008, the Tanimura &amp; Antle
   Family Memorial Library has been the center of student life at Cal State

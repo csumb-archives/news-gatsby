@@ -5,7 +5,7 @@ date: June 1 2006
 slug: &gt;- wireless-life-csumb-tech-center-brings-wireless-imagination-to-monterey
 ---
 
-```html
+ 
 
 
 

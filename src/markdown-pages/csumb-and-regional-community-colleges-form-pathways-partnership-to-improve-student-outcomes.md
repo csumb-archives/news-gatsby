@@ -4,7 +4,7 @@ title: "CSUMB and Regional Community Colleges form Pathways Partnership to Impro
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., September 26, 2018 – California State University, Monterey
   Bay (CSUMB), Cabrillo College, Hartnell College and Monterey Peninsula College

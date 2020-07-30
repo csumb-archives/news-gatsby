@@ -4,7 +4,7 @@ title: "Sharing joy, pride through art"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Simon Silva lectures at CSUMB April 11</h3>
 <p>
   Artist and author Simon Silva has channeled the difficult and painful

@@ -4,7 +4,7 @@ title: "Carnegie Foundation"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>CSUMB honored for community involvement</h4>
 <p>
   CSUMB has been selected among the first group of schools to receive the new

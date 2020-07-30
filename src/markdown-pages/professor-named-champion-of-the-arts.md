@@ -4,7 +4,7 @@ title: "Professor named 'Champion of the Arts'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Arts Council for Monterey County will honor Dr. Renee Curry at its annual
   Champions of the Arts gala on Jan. 19.

@@ -4,7 +4,7 @@ title: "CSUMB to host White Sharks of California Research Panel January 30"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., January 24, 2018 -- California State University, Monterey Bay
   (CSUMB) will host a panel of industry-leading shark researchers to discuss

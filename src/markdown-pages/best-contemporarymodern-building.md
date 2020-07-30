@@ -4,7 +4,7 @@ title: "Best Contemporary/Modern Building"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . The library (is) a gleaming work of architectural ingenuity and
   environmental conscience. It's rated LEED silver, built partly from recycled

@@ -4,7 +4,7 @@ date: October 14 2013
 slug: covered-california-educators-reaching-out-to-students
 ---
 
-```html
+ 
 
 
 

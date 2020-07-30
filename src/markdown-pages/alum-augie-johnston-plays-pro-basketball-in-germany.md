@@ -4,7 +4,7 @@ title: "Alum Augie Johnston plays pro basketball in Germany"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This year marks Augie Johnston’s second year playing professional basketball
   in Germany.

@@ -4,7 +4,7 @@ title: "Group of cool cats bring their doo-wop style to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay’s World Theater will present a
   tribute to the greatest hits of the 1950s and ’60s when The Alley Cats perform

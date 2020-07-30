@@ -4,7 +4,7 @@ title: "Summer internship propels student along career path"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Janet Rodriguez grew up thinking she wanted to be a nurse.</p>
 <p>
   To accomplish that goal, she took the prerequisite classes and put herself on

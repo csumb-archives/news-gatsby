@@ -4,7 +4,7 @@ date: April 21 2014
 slug: out-from-the-stacks
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "University expands online MBA program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay's online MBA program is now offering a second track for
   students without extensive management experience.

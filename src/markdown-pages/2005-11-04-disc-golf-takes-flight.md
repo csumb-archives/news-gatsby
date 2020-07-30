@@ -4,7 +4,7 @@ date: November 4 2005
 slug: disc-golf-takes-flight
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 04, 2005 </span>
 <p><strong>Tournament set for Nov. 13</strong></p>
 <p>

@@ -4,7 +4,7 @@ title: "CSUMB student exhibits at De Young"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A film by CSU Monterey Bay student Ed Carapezza will be part of an exhibit
   this month at the De Young Museum in San Francisco. Carapezza's film,

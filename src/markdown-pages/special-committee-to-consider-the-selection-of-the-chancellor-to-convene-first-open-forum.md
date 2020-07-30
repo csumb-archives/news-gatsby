@@ -4,7 +4,7 @@ title: "Special Committee to Consider the Selection of the Chancellor to Convene
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   ​​​​​The California State University (CSU) Board of Trustees Special Committee
   to Consider the Selection of the Chancellor began the search process for the

@@ -4,7 +4,7 @@ title: "Art students, alums work on Monterey mural"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Bold addition to Monterey History Maritime Museum</h2>
 <p>
   A pair of CSU Monterey Bay alumni and six current students have joined forces

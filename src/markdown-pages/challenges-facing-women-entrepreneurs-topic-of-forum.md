@@ -4,7 +4,7 @@ title: "Challenges facing women entrepreneurs topic of forum"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This semester’s Entrepreneurship Forum at Cal State Monterey Bay, set for Feb.
   11, features a discussion on the challenges and rewards women face in startups

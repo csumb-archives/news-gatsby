@@ -4,7 +4,7 @@ title: "CSUMB Alumnus Featured in CSU-Wide Student Success Profile"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., Feb. 27, 2017 – CSUMB alumnus and owner of J&P Organics Juan
   Perez was featured by the CSU for his successful ventures after graduating

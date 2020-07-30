@@ -4,7 +4,7 @@ date: May 12 2014
 slug: faculty-grants-support-summer-projects
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Monterey Bay fisherman experiments with nets"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Professor James Lindholm of CSUMB studies the ways fishing methods alter
   habitat. In a study published earlier this year, he analyzed the impacts of

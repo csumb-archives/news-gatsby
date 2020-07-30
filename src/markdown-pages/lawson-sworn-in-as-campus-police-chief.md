@@ -4,7 +4,7 @@ title: "Lawson sworn in as campus police chief"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Earl Lawson was sworn in as the chief of police at Cal State Monterey Bay on
   Nov. 2, three weeks after university President Dianne Harrison named him to

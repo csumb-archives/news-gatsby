@@ -4,7 +4,7 @@ title: "CSUMB recognized for preparedness efforts"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s efforts to prepare for natural disasters have won
   recognition from the National Weather Service.

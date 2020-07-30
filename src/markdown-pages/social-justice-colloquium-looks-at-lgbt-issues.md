@@ -4,7 +4,7 @@ title: "Social Justice Colloquium looks at LGBT issues"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This year’s Social Justice Colloquium at CSU Monterey Bay examines lesbian,
   gay, bisexual and transgender history, political organizing and the meaning of

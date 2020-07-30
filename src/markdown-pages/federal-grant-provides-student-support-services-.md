@@ -4,7 +4,7 @@ title: "Federal grant provides student support services "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 13, 2010</p>
 <p>
   CSU Monterey Bay will receive $1.27 million from the federal government to

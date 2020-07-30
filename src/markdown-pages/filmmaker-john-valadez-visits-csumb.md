@@ -4,7 +4,7 @@ title: "Filmmaker John Valadez visits CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>‘THE HEAD OF JOAQUIN MURRIETA’ TO BE SCREENED SEPT. 10</p>
 <p>
   Filmmaker John Valadez will screen his latest project,

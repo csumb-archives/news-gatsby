@@ -4,7 +4,7 @@ date: February 5 2014
 slug: hidden-health-crisis-on-campus&amp;colon;-eating-disorders
 ---
 
-```html
+ 
 <span class="date">Posted on Feb 05, 2014 </span>
 
 <h3>Feb. 26 film showing, discussion will address the issue</h3>

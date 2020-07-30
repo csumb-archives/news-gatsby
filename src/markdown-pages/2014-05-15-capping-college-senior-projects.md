@@ -4,7 +4,7 @@ date: May 15 2014
 slug: capping-off-college-with-senior-projects
 ---
 
-```html
+ 
 
 
 

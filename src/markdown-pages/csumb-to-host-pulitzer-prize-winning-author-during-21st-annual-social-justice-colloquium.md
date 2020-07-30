@@ -4,7 +4,7 @@ title: "CSUMB to host Pulitzer Prize-winning author during 21st annual Social Ju
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., April 3, 2017 -- CSUMB will host Pulitzer Prize winning
   author Viet Thanh Nguyen Thursday, April 6th from 6-8 p.m. at Music Hall as

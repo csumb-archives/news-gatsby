@@ -4,7 +4,7 @@ title: "Students try their hand at balancing state budget"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Two CHHS students acknowledged for creative efforts</h3>
 <p>
   When it comes to spending state taxpayer dollars, many people think they can

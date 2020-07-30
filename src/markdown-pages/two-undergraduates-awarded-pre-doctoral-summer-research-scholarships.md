@@ -4,7 +4,7 @@ title: "Two Undergraduates Awarded Pre-Doctoral Summer Research Scholarships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 7, 2019 – Two CSUMB seniors,<b> </b>both CSU Sally
   Casanova Scholars for the 2018-2019 academic year, have been awarded summer

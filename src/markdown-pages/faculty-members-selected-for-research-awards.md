@@ -4,7 +4,7 @@ title: "Faculty members selected for research awards"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Six faculty members have received CSU research, scholarship and creative
   activity awards.

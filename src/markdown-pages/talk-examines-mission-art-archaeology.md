@@ -4,7 +4,7 @@ title: "Talk examines mission art, archaeology"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Professor Ruben Mendoza lectures on June 28</h3>
 <p>
   Members of the public will have an opportunity to learn about the work CSU

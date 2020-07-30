@@ -4,7 +4,7 @@ title: "CSUMB celebrates Computer Science Education Week"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Dec. 8, 2009</p>
 <p>
   The U.S. House of Representatives recently passed a resolution designating

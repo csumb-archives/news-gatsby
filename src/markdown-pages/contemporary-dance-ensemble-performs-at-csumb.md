@@ -4,7 +4,7 @@ title: "Contemporary dance ensemble performs at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Eisenhower Dance Ensemble will bring its trademark moves – playful,
   gymnastic and elegant – to California State University, Monterey Bay’s World

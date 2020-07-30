@@ -4,7 +4,7 @@ title: "Biology major earns top honor in Washington, D.C."
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Kevin Johnson took a top honor at the inaugural Emerging Researchers National
   Conference in Science, Technology, Engineering and Math, held Feb. 24 and 25

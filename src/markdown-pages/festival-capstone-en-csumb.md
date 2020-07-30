@@ -4,7 +4,7 @@ title: "Festival capstone en CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Los estudiantes de la Universidad Estatal de la Bahia de Monterey tuvieron la
   oportunidad de aplicar sus conocimientos durante el festival capstone La

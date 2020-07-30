@@ -4,7 +4,7 @@ date: October 22 2010
 slug: karen-martinez-receives-2010-hearst-award
 ---
 
-```html
+ 
 <span class="date">Posted on Oct 22, 2010 </span>
 <p>
   Karen Martinez, a sophomore originally from Oaxaca, Mexico, is the recipient

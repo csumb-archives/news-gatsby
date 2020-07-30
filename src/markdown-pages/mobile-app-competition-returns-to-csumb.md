@@ -4,7 +4,7 @@ title: "Mobile app competition returns to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It’s innovative, intense and a shot at fame and fortune. It’s the Ideas of
   March Hackathon, a mobile app programming competition open to college students

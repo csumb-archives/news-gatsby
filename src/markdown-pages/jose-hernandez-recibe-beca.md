@@ -4,7 +4,7 @@ title: "Jose Hernandez recibe beca"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   El joven Jose Hernandez de 20 anos de edad, estudiante universitario recibio
   una beca para continuar con sus estudios por parte de la fundacion Hearst por

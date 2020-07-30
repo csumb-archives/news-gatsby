@@ -4,7 +4,7 @@ title: "Latino Magazine commends CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Latino magazine commends CSUMB</h4>
 <p>
   CSUMB has been named a "Publisher's Pick" by Hispanic Outlook In Higher

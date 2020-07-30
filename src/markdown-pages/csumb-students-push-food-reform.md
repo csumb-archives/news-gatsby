@@ -4,7 +4,7 @@ title: "CSUMB students push food reform"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Student activists at CSUMB are demanding more healthful local food on campus.
   They are navigating the bureaucracy to rethink the CSU food system.

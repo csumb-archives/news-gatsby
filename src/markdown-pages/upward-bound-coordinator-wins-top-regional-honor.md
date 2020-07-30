@@ -4,7 +4,7 @@ title: "Upward Bound coordinator wins top regional honor"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cesar Velazquez, coordinator of Cal State Monterey Bay’s Upward Bound program,
   has been honored by his peers in the Western Association of Educational

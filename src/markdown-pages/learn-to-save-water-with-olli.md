@@ -4,7 +4,7 @@ title: "Learn to save water with OLLI"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Public invited to free workshop Dec. 6</h4>
 <p>
   “Save the Carmel River – Conserve Water Today” is the topic of the last class

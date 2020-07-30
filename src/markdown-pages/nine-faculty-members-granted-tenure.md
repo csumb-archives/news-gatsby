@@ -4,7 +4,7 @@ title: "Nine faculty members granted tenure"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   President Dianne Harrison has announced that nine faculty members have been
   granted tenure. The newly tenured faculty members and their departments:

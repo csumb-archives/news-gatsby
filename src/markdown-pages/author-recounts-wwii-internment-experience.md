@@ -4,7 +4,7 @@ title: "Author recounts WWII internment experience"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Unlike many of her fellow internees, Kiyo Sato is willing to discuss her
   family’s experience during World War II.

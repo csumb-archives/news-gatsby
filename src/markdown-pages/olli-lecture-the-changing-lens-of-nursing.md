@@ -4,7 +4,7 @@ title: "OLLI lecture: The changing lens of nursing"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   There's a movement under way to transform the nursing profession. The
   Institute of Medicine has made several recommendations including higher levels

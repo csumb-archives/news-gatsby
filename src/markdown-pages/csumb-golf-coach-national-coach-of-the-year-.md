@@ -4,7 +4,7 @@ title: "CSUMB golf coach National Coach of the Year "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Golf Pride and the Golf Coaches Association of America (GCAA) named Jason Owen
   of CSU Monterey Bay the NCAA Division II National Coach of the Year for 2011.

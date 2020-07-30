@@ -4,7 +4,7 @@ title: "CSUMB students, local researchers to benefit from NOAA Grant"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>SEASIDE, Ca., Sept. 23, 2016 &#45;&#45;</strong> CSUMB is one of six
   universities across the nation who will benefit from a new five&#45;year,

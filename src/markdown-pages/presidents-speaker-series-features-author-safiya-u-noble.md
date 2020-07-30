@@ -4,7 +4,7 @@ title: "President's Speaker Series Features Author Safiya U. Noble"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., November 28, 2018 – California State University, Monterey Bay’s
   (CSUMB) President Eduardo M. Ochoa hosted

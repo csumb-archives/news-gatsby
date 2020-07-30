@@ -4,7 +4,7 @@ title: "ART for CHANGE"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Art can be a powerful tool for change, disseminating ideas and inspiring
   people to act.

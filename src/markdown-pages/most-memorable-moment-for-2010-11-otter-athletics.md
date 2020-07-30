@@ -4,7 +4,7 @@ title: "Most memorable moment for 2010-11 Otter athletics"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   How could bringing home CSU Monterey Bay’s first NCAA Division II national
   championship not be the No. 1 Most Memorable Moment in 2010-11? A

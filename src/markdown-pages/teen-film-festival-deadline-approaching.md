@@ -4,7 +4,7 @@ title: "Teen Film Festival deadline approaching"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Young filmmakers eager to see their work on a screen bigger than YouTube will
   get the opportunity in April, when Cal State Monterey Bay holds its third

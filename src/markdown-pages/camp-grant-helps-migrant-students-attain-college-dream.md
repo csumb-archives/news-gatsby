@@ -4,7 +4,7 @@ title: "CAMP grant helps migrant students attain college dream"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay has received a $2.1 million federal
   grant aimed at enrolling more migrant students in higher education.

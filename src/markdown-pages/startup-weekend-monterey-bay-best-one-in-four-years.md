@@ -4,7 +4,7 @@ title: "Startup Weekend Monterey Bay: ‘Best one in four years’"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The event not only infuses the excitement of entrepreneurship to the campus
   and the region, it cultivates the pipeline of innovation and startups for the

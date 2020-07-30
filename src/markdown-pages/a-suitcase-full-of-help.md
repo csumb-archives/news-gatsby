@@ -4,7 +4,7 @@ title: "A suitcase full of help"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay students are bringing health care to the homeless in
   the Chinatown area of Salinas.

@@ -4,7 +4,7 @@ title: "Carr Lake cleanup seeks volunteers on July 17"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>July 2, 2010</p>
 <p></p>
 <p>

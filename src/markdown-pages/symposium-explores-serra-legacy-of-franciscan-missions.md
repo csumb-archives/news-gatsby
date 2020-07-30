@@ -4,7 +4,7 @@ title: "Symposium explores Serra, legacy of Franciscan missions"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Junípero Serra – and the impact of the missions he founded – is the subject of
   a symposium to be held at CSU Monterey Bay on Nov. 19.

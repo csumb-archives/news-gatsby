@@ -4,7 +4,7 @@ date: November 13 2007
 slug: winterconcert07
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 13, 2007 </span>
 <h4><em>Community to invited to Winter Concert Dec. 2</em></h4>
 <p>

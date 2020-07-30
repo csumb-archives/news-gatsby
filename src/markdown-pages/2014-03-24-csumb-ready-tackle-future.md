@@ -4,7 +4,7 @@ date: March 24 2014
 slug: csumb-ready-to-tackle-future
 ---
 
-```html
+ 
 
 
 

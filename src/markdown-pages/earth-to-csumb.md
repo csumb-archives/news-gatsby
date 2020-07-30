@@ -4,7 +4,7 @@ title: "Earth to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>April 6, 2010</p>
 <p>
   <strong><em>Earth Week features daily student activities</em></strong>

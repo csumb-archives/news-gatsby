@@ -4,7 +4,7 @@ title: "Music, dance performance by group from Ghana"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   “Africa in the House,” an evening of music and dance by the African Show Boyz,
   will be held at CSU Monterey Bay on Feb. 7.

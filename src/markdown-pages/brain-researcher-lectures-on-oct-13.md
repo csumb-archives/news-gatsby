@@ -4,7 +4,7 @@ title: "Brain researcher lectures on Oct. 13"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Michael Merzenich studies neuroplasticity – the brain's powerful ability
   to change itself and adapt – and investigates ways plasticity might be used to

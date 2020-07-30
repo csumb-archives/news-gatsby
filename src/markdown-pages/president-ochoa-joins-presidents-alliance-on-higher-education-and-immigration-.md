@@ -4,7 +4,7 @@ title: "President Ochoa Joins Presidents’ Alliance on Higher Education and Imm
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., January 5, 2018 – CSUMB President Eduardo M. Ochoa has joined a
   collective effort of distinguished higher education leaders from across the

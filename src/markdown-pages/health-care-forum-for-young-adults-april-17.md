@@ -4,7 +4,7 @@ title: "Health care forum for young adults April 17"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   How young adults will be affected by the federal Affordable Care Act is the
   focus of a forum April 17 at CSU Monterey Bay. The public is invited to this

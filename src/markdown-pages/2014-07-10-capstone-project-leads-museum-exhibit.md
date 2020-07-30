@@ -4,7 +4,7 @@ date: July 10 2014
 slug: capstone-project-leads-to-museum-exhibit
 ---
 
-```html
+ 
 <span class="date">Posted on Jul 10, 2014    </span>
 <p>CSU Monterey Bay alumna Erika D&#x2019;Auria has turned her capstone
 project into an exhibit at the Monterey Museum of Art.</p>

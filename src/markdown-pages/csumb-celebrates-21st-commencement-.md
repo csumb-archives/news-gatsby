@@ -4,7 +4,7 @@ title: "CSUMB Celebrates 21st Commencement "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Sam Farr Urges Graduates No Challenge is Too Big, Not Even Building a
   University.

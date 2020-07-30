@@ -4,7 +4,7 @@ title: "Students on computer science fast track"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Heads together over a laptop computer, Jose Sanchez Garcia and Benito Sanchez
   worked to bring a jumble of multicolored wires and a patch of computer

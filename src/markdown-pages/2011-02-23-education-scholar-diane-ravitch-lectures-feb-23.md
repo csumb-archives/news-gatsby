@@ -4,7 +4,7 @@ date: February 23 2011
 slug: education-scholar-diane-ravitch-lectures-feb.-23
 ---
 
-```html
+ 
 
 
 

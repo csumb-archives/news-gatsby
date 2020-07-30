@@ -4,7 +4,7 @@ date: September 22 2010
 slug: music-lecturers-work-premieres-at-kennedy-center
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 22, 2010 </span>
 CSU Monterey Bay lecturer John Wineglass is an award-winning composer and
 musician who has traveled the world since he was 11 years old.

@@ -4,7 +4,7 @@ date: November 29 2006
 slug: latino-magazine-commends-csumb
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 29, 2006 </span>
 <h4>Latino magazine commends CSUMB</h4>
 <p>

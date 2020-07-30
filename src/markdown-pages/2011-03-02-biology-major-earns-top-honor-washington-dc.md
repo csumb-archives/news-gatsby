@@ -4,7 +4,7 @@ date: March 2 2011
 slug: biology-major-earns-top-honor-in-washington-d.c.
 ---
 
-```html
+ 
 
 
 

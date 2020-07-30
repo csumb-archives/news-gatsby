@@ -4,7 +4,7 @@ title: "Open house for prospective students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 2, 2009</p>
 <p>
   Prospective students and their parents will have an opportunity to learn about

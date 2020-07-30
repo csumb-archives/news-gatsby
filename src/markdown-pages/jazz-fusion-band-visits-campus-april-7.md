@@ -4,7 +4,7 @@ title: "Jazz fusion band visits campus April 7"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Jazz and world music fusion band Hiroshima will perform at California State
   University, Monterey Bay’s World Theater on April 7. Showtime is 7:30 p.m.

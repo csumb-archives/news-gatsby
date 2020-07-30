@@ -4,7 +4,7 @@ date: November 20 2007
 slug: vpa-student-art-exhibit
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 20, 2007 </span>
 <h4>Show runs through Feb. 1</h4>
 <p>

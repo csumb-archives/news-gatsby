@@ -4,7 +4,7 @@ title: "Rodriguez honored for outstanding achievement"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   An aspiring physician and medical researcher from CSUMB has been chosen for a
   California State University Trustees’ Award for Outstanding Achievement.

@@ -4,7 +4,7 @@ title: "Classroom becomes stage in"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 5, 2009</p>
 <p>
   A class meets to read and discuss Shakespeare's play, "A Midsummer Night's

@@ -4,7 +4,7 @@ title: "CSU Says Goodbye to Single-Use Plastics by 2023"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   ​SEASIDE, Calif., Feb. 7, 2019 – By 2023, the California State University's 23
   campuses will be eliminating the use and sale of all single-use plastics

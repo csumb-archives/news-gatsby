@@ -4,7 +4,7 @@ date: October 24 2005
 slug: authors-table
 ---
 
-```html
+ 
 
 
 

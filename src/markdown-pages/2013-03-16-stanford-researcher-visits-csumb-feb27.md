@@ -4,7 +4,7 @@ date: March 16 2013
 slug: stanford-researcher-visits-csumb-march-27
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Math students headed to graduate school"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Destinations include Stanford, UC Santa Cruz, USC</h3>
 <p>
   To Brenda Perez, math is essential to everyday life. “I like how you can

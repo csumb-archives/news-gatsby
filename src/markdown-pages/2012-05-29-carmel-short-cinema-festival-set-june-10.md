@@ -4,7 +4,7 @@ date: May 29 2012
 slug: carmel-short-cinema-festival-set-for-june-10
 ---
 
-```html
+ 
 
 
 

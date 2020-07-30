@@ -4,7 +4,7 @@ title: "Donor wall unveiled in Alumni & Visitors Center"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A donor wall, memorializing the contributions of significant donors to the
   university, was unveiled Oct. 9 at the Alumni &amp; Visitors Center during an

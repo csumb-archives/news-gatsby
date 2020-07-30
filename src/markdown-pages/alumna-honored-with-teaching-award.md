@@ -4,7 +4,7 @@ title: "Alumna honored with teaching award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Miriam Lopez, a seventh-grade teacher at Vista Verde Middle School in
   Greenfield, has been honored for her work in the classroom. Lopez, who earned

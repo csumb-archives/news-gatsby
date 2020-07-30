@@ -4,7 +4,7 @@ title: "CSUMB brings bright future to area"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <em>By CSUMB President Eduardo Ochoa</em> . . . In the past two decades, many
   economic hopes and dreams have gone unrealized. But I believe we are ready to

@@ -4,7 +4,7 @@ title: "Public Enemy's Chuck D visits CSUMB, remains vigilant"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Chuck D's rap group Public Enemy, celebrating its 25th year with a new album
   and world tour, was once feared for its angry political messages. They've

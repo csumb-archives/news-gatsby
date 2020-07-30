@@ -4,7 +4,7 @@ title: "Chinese circus comes to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>WORLD THEATER SEASON OPENS WITH SEPT. 15 PERFORMANCE</p>
 <p>
   In past years, CSU Monterey Bay’s World Theater has brought Chinese acrobats

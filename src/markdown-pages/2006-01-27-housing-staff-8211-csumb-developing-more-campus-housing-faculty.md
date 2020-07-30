@@ -4,7 +4,7 @@ date: January 27 2006
 slug: housing-staff-and-csumb-developing-more-campus-housing-for-faculty
 ---
 
-```html
+ 
 
 
 

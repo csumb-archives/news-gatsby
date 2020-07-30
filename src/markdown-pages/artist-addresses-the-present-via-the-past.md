@@ -4,7 +4,7 @@ title: "Artist addresses the present via the past"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Michael Arcega visits CSUMB March 8 as Visiting Artist Series continues</h3>
 <p>
   Conceptual artist Michael Arcega likens the titles of his works to punch

@@ -4,7 +4,7 @@ title: "Got an Otter ID card? Ride the bus for free"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Convenience, savings with free rides</h2>
 <h4>CSUMB username serves as transit pass on all MST routes</h4>
 <p>It’s really a free ride.</p>

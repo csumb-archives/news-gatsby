@@ -4,7 +4,7 @@ title: "Out from the stacks"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Librarian promotes literacy in Guatemala</h3>
 <p>
   CSU Monterey Bay reference and instruction librarian Sarah Dahlen personifies

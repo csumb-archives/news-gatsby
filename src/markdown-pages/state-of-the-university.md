@@ -4,7 +4,7 @@ title: "State of the University"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   President Dianne Harrison urged faculty and staff of Cal State Monterey Bay to
   answer a call to service and excellence for the university and its students in

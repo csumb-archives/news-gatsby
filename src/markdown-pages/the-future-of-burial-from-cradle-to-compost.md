@@ -4,7 +4,7 @@ title: "The future of burial: From cradle to compost?"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   You might take solace in the fact that when you die, your days of polluting
   the planet are over. But the truth is that the method you choose to dispose of

@@ -4,7 +4,7 @@ title: "COVID-19 | Limited campus operations during shelter-in-place order"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This message was sent to all students, faculty, and staff on Tuesday, March
   17, 2020.

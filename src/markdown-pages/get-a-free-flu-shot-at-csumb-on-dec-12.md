@@ -4,7 +4,7 @@ title: "Get a free flu shot at CSUMB on Dec. 12"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Monterey County Health Department and the Visiting Nurse Association will
   hold a free flu vaccine clinic on Dec. 12 at CSUMB’s library.

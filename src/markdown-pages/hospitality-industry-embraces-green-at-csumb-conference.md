@@ -4,7 +4,7 @@ title: "Hospitality industry embraces 'green' at CSUMB conference"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 26, 2010</p>
 <p>
   To help the regional hospitality industry learn how to “go green,” the

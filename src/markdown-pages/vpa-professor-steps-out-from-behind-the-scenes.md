@@ -4,7 +4,7 @@ title: "VPA professor steps out from behind the scenes"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   After more than 35 years of experience behind the scenes as a lighting
   designer and visual artist, Stephanie Johnson will perform her first one-woman

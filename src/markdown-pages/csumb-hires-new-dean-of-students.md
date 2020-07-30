@@ -4,7 +4,7 @@ title: "CSUMB hires new dean of students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Jan. 26, 2010</p>
 <p>
   <strong><em>Christine Erickson joins staff March 29</em></strong>

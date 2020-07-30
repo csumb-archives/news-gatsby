@@ -4,7 +4,7 @@ date: January 22 2015
 slug: faculty-in-the-news
 ---
 
-```html
+ 
 
 
 

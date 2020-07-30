@@ -4,7 +4,7 @@ date: null
 slug: speakers-bureau
 ---
 
-```html
+ 
 <p>
   The Speakers Bureau provides speakers at no cost to service clubs, schools,
   senior centers, and other groups in the local area.

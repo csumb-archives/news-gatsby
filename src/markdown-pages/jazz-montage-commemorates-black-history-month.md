@@ -4,7 +4,7 @@ title: "Jazz montage commemorates Black History Month"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Langston Hughes died nearly 45 years ago, but the words of the American poet,
   social activist, novelist and playwright still resonate.

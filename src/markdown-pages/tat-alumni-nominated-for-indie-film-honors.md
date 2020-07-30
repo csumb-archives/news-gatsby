@@ -4,7 +4,7 @@ title: "TAT alumni nominated for indie film honors"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A feature film written and directed by a pair of CSU Monterey Bay graduates
   will compete at the 2016 Film Independent Spirit Awards.

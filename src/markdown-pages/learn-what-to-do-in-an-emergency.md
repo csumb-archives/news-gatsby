@@ -4,7 +4,7 @@ title: "Learn what to do in an emergency"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Preparedness Fair set for Sept. 11</h4>
 <p>
   Should a disaster strike, university officials want campus community members

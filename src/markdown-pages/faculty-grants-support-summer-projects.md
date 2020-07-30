@@ -4,7 +4,7 @@ title: "Faculty grants support summer projects"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Eight summer faculty projects in the area of innovative teaching and learning
   have been funded through the generous support of the CSUMB Foundation board’s

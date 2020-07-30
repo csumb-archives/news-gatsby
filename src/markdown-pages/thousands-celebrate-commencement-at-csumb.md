@@ -4,7 +4,7 @@ title: "Thousands celebrate commencement at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>"Constructive civil discourse can start with you" graduates told</h3>
 <p>
   On a warm, sunny morning, Dr. Alice Rivlin urged the graduates of California

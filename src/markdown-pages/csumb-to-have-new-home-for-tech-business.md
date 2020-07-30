@@ -4,7 +4,7 @@ title: "CSUMB to have new home for tech, business"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Standing next to the most recent addition to CSU Monterey Bay – the Tanimura
   &amp; Antle Family Memorial Library – city, county and educational leaders

@@ -4,7 +4,7 @@ title: "Chemistry contest winners"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Alisal High School students Miguel Zauala, Pedro Ramirez and Karina Garcia,
   led by teacher Paul Quiggle, placed first in the recent Monterey Bay Titration

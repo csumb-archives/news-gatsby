@@ -4,7 +4,7 @@ title: "New book by history professor examines military service"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>July 26, 2010</p>
 <p></p>
 <p>

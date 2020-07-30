@@ -4,7 +4,7 @@ title: "A WORLD AWAY"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   By the time school starts on Aug. 27, approximately 60 international students
   will have settled in to campus life at CSU Monterey Bay. Some plan to spend a

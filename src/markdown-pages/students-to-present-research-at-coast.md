@@ -4,7 +4,7 @@ title: "Students to present research at COAST"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A poster created by five students in CSUMB’s Division of Science and
   Environmental Policy is one of 21 selected by the CSU’s Council on Ocean

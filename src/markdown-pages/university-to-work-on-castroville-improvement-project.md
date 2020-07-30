@@ -4,7 +4,7 @@ title: "University to work on Castroville improvement project"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s School of Business and the local Small Business Development
   Centers are about to begin work on a project to improve the economic vitality

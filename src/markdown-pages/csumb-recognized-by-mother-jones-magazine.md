@@ -4,7 +4,7 @@ title: "CSUMB recognized by Mother Jones magazine"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 20, 2009</p>
 <p>
   MJ, one of the country's oldest investigative magazines, has included CSU

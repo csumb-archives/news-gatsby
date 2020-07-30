@@ -4,7 +4,7 @@ title: "Real-world policymaking "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Applications are being accepted for the Master's in Public Policy program at
   CSU Monterey Bay.

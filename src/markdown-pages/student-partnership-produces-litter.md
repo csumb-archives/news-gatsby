@@ -4,7 +4,7 @@ title: "Student Partnership Produces 'Litter'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB students continue to make an impact in the community through service
   learning. The latest effort is the short film project "Litter: A Community

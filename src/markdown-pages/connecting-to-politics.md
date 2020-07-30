@@ -4,7 +4,7 @@ title: "Connecting to politics"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB student spends semester in Washington, D.C.</h3>
 <p>
   Hannah Plummer wants to work in a political organization or for an elected

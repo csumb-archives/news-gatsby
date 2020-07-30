@@ -4,7 +4,7 @@ date: May 21 2014
 slug: summer-arts-returns-to-csumb
 ---
 
-```html
+ 
 
 
 

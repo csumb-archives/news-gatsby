@@ -4,7 +4,7 @@ title: "Traffic Advisory: Unexpected road closure"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Unexpected road closure on 7th Ave from Butler to Col Durham. Expected to last
   today only. Please find alternate route.

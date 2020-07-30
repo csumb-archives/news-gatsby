@@ -4,7 +4,7 @@ title: "Historically African American sorority comes to campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For more than a century, the Delta Sigma Theta sorority has been committed to
   public service, with a primary focus on the black community. Now, there is a

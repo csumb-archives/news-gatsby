@@ -4,7 +4,7 @@ date: April 28 2014
 slug: another-public-art-project-for-faculty-member
 ---
 
-```html
+ 
 
 
 

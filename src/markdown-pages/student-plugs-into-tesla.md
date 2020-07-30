@@ -4,7 +4,7 @@ title: "Student plugs into Tesla"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Lands summer internship with upscale car company</h3>
 <p>
   It’s hard to tell who is more excited about Brett Roberts’ summer internship

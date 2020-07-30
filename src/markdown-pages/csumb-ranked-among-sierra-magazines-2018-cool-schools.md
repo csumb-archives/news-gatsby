@@ -4,7 +4,7 @@ title: "CSUMB Ranked Among Sierra Magazine’s 2018 Cool Schools"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., August 27, 2018<i> – </i>California State University Monterey
   Bay (CSUMB) was recognized today by<i> Sierra</i> magazine, the national

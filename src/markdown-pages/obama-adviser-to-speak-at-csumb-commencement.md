@@ -4,7 +4,7 @@ title: "Obama adviser to speak at CSUMB commencement"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The point person to President Obama on immigration reform will deliver the
   keynote address at this year's commencement ceremony at CSU Monterey Bay.

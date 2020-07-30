@@ -4,7 +4,7 @@ date: January 16 2015
 slug: capstone-festival-jan.-23-for-mist-graduates
 ---
 
-```html
+ 
 
 
 

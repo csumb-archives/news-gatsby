@@ -4,7 +4,7 @@ title: "Girls Love Science, Too"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Girls interested in pursuing a career in marine science are exploring their
   options this week through a program at CSU Monterey Bay.

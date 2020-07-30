@@ -4,7 +4,7 @@ date: January 6 2012
 slug: university-honored-for-contributions-to-local-economy
 ---
 
-```html
+ 
 
 
 

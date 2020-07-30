@@ -4,7 +4,7 @@ title: "CSUMB to add nursing program in 2012"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Collaboration with area community colleges to start next summer</h3>
 <p>
   California State University, Monterey Bay is preparing to offer a bachelor’s

@@ -4,7 +4,7 @@ title: "Getting a RISE out of students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   “Throughout high school, the RISE program had a strong impact on my decision
   to pursue a degree in biology,” said Charn Singh, who just finished her junior

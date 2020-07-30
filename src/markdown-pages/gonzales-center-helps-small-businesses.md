@@ -4,7 +4,7 @@ title: "Gonzales center helps small businesses"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When Janet Pacheco needed help applying for a small business loan, she knew
   where to turn. Arturo Contreras, a CSU Monterey Bay student who works at the

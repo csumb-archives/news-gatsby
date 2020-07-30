@@ -4,7 +4,7 @@ date: June 24 2014
 slug: professor-to-attend-white-house-summit
 ---
 
-```html
+ 
 
 
 

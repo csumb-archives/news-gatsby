@@ -4,7 +4,7 @@ title: "CSUMB Student to Support Local Immigrant Communities with New Scholarshi
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., Jan. 27, 2017 -- Daisy Leon Melendrez, a CSUMB service
   learning student leader, has been selected as a Principal Community Scholar

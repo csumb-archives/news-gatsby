@@ -4,7 +4,7 @@ title: "Ocean science researcher gets career boost"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Madison Heard applied for a spot in the CSU Monterey Bay-based ocean science
   summer program as a way to “test the waters of research” for a possible

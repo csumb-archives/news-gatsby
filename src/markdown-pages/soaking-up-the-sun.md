@@ -4,7 +4,7 @@ title: "Soaking up the sun"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>PRESIDENT'S HOUSE GOES GREEN</p>
 <p>
   University House, the on&#45;campus home of President and Mrs. Ochoa, has gone

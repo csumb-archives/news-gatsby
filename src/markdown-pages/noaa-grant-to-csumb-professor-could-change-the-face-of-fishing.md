@@ -4,7 +4,7 @@ title: "NOAA grant to CSUMB professor could change the face of fishing"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . A study is set to take place locally that could soon land trawl-aught
   fish on the Seafood Watch "Best Choice" list. The project is a collaborative

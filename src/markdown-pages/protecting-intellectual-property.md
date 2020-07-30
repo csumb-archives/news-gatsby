@@ -4,7 +4,7 @@ title: "Protecting intellectual property"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Entrepreneurship forum set for Oct. 14</h3>
 <p>
   For most startup companies, their intellectual property, including their

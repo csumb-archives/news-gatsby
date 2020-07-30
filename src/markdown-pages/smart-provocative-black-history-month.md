@@ -4,7 +4,7 @@ title: "Smart, provocative Black History Month"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>From arts and culture year in review:</p>
 <p>
   CSU Monterey Bay is adept at celebrating diversity with diversity. This one

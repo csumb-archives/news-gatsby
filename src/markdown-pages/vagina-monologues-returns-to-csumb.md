@@ -4,7 +4,7 @@ title: "Vagina Monologues returns to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Of all the parts of a woman's body, none is quite as shrouded in mystery as
   the vagina.

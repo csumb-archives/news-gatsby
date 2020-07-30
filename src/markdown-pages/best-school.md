@@ -4,7 +4,7 @@ title: "Best school"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Intimate class sizes. A nationally recognized service learning program. These
   are just a few things that make CSUMB an exceptional school.

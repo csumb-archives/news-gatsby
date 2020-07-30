@@ -4,7 +4,7 @@ title: "Math, revealed: Graniterock sponsors six-day Algebra Academy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dozens of students from Rolling Hills Middle School in Wattsonville
   voluntarily spent their last week of winter break studying algebra – and

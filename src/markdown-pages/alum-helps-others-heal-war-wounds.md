@@ -4,7 +4,7 @@ title: "Alum helps others heal war wounds"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   You could say that being called to active duty following the 9/11 terrorist
   attacks interrupted Ben Haberthur's education at Cal State Monterey Bay. Or

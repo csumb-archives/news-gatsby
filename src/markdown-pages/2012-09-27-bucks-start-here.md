@@ -4,7 +4,7 @@ date: September 27 2012
 slug: the-bucks-start-here
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: May 24 2011
 slug: foundation-sets-course&amp;colon;-board-to-oversee-philanthropy
 ---
 
-```html
+ 
 <span class="date">Posted on May 24, 2011 </span>
 
 <p>The new Foundation of California State University, Monterey Bay

@@ -4,7 +4,7 @@ title: "Banff Mountain Film Fest benefits RON"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Experience adventure on the big screen when the Banff Mountain Film Festival
   World Tour makes a stop at Monterey’s Golden State Theatre on March 1,

@@ -4,7 +4,7 @@ title: "Former Army Training Device Removed - All Clear"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB is on the site of the former Fort Ord, and occasionally old training
   equipment is located and removed from areas adjacent to campus. In cooperation

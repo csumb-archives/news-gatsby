@@ -4,7 +4,7 @@ title: "CSU Joins 'We Are Still In' Climate Declaration"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The following statement can be attributed to CSU Chancellor Timothy P. White:
 </p>

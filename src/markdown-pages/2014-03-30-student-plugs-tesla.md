@@ -4,7 +4,7 @@ date: March 30 2014
 slug: student-plugs-into-tesla
 ---
 
-```html
+ 
 
 
 

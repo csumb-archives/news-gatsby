@@ -4,7 +4,7 @@ title: "Student films shown at Carmel festival June 19"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Outdoor Forest Theater hosts third annual event</h3>
 <p>
   Work by students at California State University, Monterey Bay will be

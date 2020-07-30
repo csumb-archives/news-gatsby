@@ -4,7 +4,7 @@ title: "Sustainability to go at CSU Monterey Bay"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Students found a new addition to their list of campus essentials when the
   spring semester started: reusable to-go containers at the Dining Commons.

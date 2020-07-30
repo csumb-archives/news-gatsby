@@ -4,7 +4,7 @@ date: April 5 2011
 slug: to-donate&apos;-for-earthquake-relief
 ---
 
-```html
+ 
 
 
 

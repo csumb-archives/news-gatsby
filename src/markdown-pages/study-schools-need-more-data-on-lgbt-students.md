@@ -4,7 +4,7 @@ title: "Study: Schools need more data on LGBT students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Shannon Snapp, who teaches psychology at Cal State Monterey Bay, has been
   working with researchers at the University of Texas, Austin, and the Equity

@@ -4,7 +4,7 @@ date: October 5 2009
 slug: mst-project-borders-campus-on-intergarrison-road
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "CSUMB president tweeting from the White House"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   President Eduardo Ochoa is in our nation’s capital to take part in the White
   House College Opportunity Day of Action, an initiative of President Barack

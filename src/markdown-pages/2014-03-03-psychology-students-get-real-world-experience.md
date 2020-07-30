@@ -4,7 +4,7 @@ date: March 3 2014
 slug: psychology-students-get-realworld-experience
 ---
 
-```html
+ 
 
 
 

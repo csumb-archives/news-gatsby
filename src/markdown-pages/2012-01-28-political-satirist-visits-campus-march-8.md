@@ -4,7 +4,7 @@ date: January 28 2012
 slug: political-satirist-visits-campus-march-8
 ---
 
-```html
+ 
 
 
 

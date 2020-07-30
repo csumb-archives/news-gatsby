@@ -4,7 +4,7 @@ title: "Campus celebrates homecoming 2011"
 date: January 01 2020
 ---
 
-```html
+ 
 <p></p>
 <p></p>
 <p></p>

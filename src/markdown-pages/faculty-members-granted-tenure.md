@@ -4,7 +4,7 @@ title: "Faculty members granted tenure"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   President Eduardo Ochoa has announced that five faculty members at California
   State University, Monterey Bay have been granted tenure. The newly tenured

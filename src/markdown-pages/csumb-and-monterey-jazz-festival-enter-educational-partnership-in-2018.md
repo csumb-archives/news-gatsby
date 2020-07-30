@@ -4,7 +4,7 @@ title: "CSUMB and Monterey Jazz Festival Enter Educational Partnership in 2018"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <i
     >New Program Kicks Off March 5 with Tia Fuller and Marcie Chapa at CSUMB’s

@@ -4,7 +4,7 @@ title: "Trees capture fog – so why can't we?"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The work of Professor Dan Fernandez, was cited in a story about capturing fog
   for a water source. The story pointed out Dr. Fernandez has developed and

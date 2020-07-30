@@ -4,7 +4,7 @@ title: "CSUMB Selected as Seal of Excelencia Finalist "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 28, 2019 – Excelencia in Education, a national nonprofit
   dedicated to accelerating Latino student success, has selected California

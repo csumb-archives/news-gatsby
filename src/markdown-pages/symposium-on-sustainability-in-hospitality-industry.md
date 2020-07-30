@@ -4,7 +4,7 @@ title: "Symposium on sustainability in hospitality industry"
 date: January 01 2020
 ---
 
-```html
+ 
 <p></p>
 <p>
   No one would deny that conferences, concerts, sports events and festivals have

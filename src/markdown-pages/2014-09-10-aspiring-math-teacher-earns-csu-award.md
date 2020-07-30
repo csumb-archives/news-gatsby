@@ -4,7 +4,7 @@ date: September 10 2014
 slug: aspiring-math-teacher-earns-csu-award
 ---
 
-```html
+ 
 
 
 

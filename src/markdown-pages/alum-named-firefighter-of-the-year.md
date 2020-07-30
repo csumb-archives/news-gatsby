@@ -4,7 +4,7 @@ title: "Alum named Firefighter of the Year"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Anthony Prado (TMAC ’00) has been recognized with the Career Firefighter of
   the Year Award by the Monterey County Fire Chiefs Association.

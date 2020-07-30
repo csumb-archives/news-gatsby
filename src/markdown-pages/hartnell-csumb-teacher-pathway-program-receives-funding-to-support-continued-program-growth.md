@@ -4,7 +4,7 @@ title: "Hartnell-CSUMB Teacher Pathway Program Receives Funding to Support Conti
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., August 23, 2018 – Hartnell College and California State
   University, Monterey Bay’s (CSUMB) joint

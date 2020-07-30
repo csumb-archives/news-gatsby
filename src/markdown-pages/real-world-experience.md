@@ -4,7 +4,7 @@ title: "Real World Experience"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   At CSUMB, much of the learning takes place in the real world. The university
   partners with organizations that provide students the opportunity to use the

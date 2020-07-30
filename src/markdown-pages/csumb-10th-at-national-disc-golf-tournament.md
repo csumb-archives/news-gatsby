@@ -4,7 +4,7 @@ title: "CSUMB 10th at national disc golf tournament"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>The perfect fling</h2>
 <p>
   Disc golfers representing three dozen colleges and universities will compete

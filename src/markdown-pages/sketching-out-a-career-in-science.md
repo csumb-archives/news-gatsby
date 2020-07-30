@@ -4,7 +4,7 @@ title: "Sketching out a career in science"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A coloring book is helping children in New Zealand learn about that country’s
   marine environment, thanks to the work of a graduate of CSU Monterey Bay’s

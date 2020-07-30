@@ -4,7 +4,7 @@ title: "Campus celebrates Asian Pacific Islander Month"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The community is invited to celebrate Asian Pacific Islander Heritage Month at
   CSU Monterey Bay, where a variety of events have been scheduled.

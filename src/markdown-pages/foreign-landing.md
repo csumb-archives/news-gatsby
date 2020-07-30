@@ -4,7 +4,7 @@ title: "FOREIGN LANDING"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>TRIO student selected for Global Leaders program</h3>
 <p>
   This summer, Jesus Garcia-Valdez will find himself in Spain, his first trip

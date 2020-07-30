@@ -4,7 +4,7 @@ title: "CSUMB to Host 3rd Annual Native American Gathering Nov. 4"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 30, 2017 – California State University Monterey Bay’s
   (CSUMB) Native Advisory Council (NAC) will host the third annual Native

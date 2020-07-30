@@ -4,7 +4,7 @@ title: "CSUMB ready for challenges ahead"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 24, 2009</p>
 <p>
   California State University, Monterey Bay President Dianne Harrison on Sept.

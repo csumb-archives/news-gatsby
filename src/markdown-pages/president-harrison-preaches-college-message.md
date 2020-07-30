@@ -4,7 +4,7 @@ title: "President Harrison preaches college message"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>CSUMB reaches out to African American community </strong> Each
   February, Super Sunday sends California State University officials including

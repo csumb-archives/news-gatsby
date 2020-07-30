@@ -4,7 +4,7 @@ title: "Freshmen applications jump more than 5 percent"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay saw a 5.3 percent increase in freshmen applications this year
   over last year, with approximately 15,391 first-time freshmen applying for

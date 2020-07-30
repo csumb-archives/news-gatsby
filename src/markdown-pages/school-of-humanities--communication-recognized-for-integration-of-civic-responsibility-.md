@@ -4,7 +4,7 @@ title: "School of Humanities & Communication Recognized for Integration of Civic
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 25, 2017 – California State University Monterey Bay’s
   (CSUMB)

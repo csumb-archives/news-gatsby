@@ -4,7 +4,7 @@ title: "Happy 300th birthday, Father Junipero Serra"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Serra's legacy, with all its blooms and blemishes, was the subject of a
   symposium at California State University, Monterey Bay. They called it,

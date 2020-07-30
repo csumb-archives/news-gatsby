@@ -4,7 +4,7 @@ title: "SUNDANCE KID"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB alum makes return trip to film festival</h3>
 <p>
   A pair of short films made on an iPhone have put a graduate of the

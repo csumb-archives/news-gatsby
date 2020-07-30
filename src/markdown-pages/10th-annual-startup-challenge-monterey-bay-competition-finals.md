@@ -4,7 +4,7 @@ title: "10th Annual Startup Challenge Monterey Bay Competition Finals"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 9, 2019 – The final round of the 10th annual
   <a href="https://startupmontereybay.com/startup-challenge-monterey-bay/"

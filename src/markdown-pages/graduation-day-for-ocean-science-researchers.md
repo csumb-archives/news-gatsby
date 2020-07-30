@@ -4,7 +4,7 @@ title: "‘Graduation Day’ for ocean science researchers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For the 11 students who spent the summer conducting research through the
   <a href="https://csumb.edu/reu"

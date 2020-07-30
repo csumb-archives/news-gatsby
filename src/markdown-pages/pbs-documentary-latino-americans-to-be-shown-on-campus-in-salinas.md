@@ -4,7 +4,7 @@ title: "PBS documentary Latino Americans to be shown on campus, in Salinas"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>GRANT SUPPORTS SCREENINGS, ACCOMPANYING PROGRAMMING</p>
 <p>
   CSU Monterey Bay has received a grant to support programming around

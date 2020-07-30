@@ -4,7 +4,7 @@ title: "TAT grad moves up to major studio feature"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   July 11 is the day Planet of the Apes fans have been anticipating, as “Dawn of
   the Planet of the Apes” premieres nationwide.

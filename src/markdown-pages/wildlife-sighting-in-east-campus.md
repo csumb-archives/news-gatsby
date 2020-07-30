@@ -4,7 +4,7 @@ title: "Wildlife sighting in East Campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A black bear was spotted on Trenton Court in Frederick Park I Sunday night.
 </p>

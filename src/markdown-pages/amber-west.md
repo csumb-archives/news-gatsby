@@ -4,7 +4,7 @@ title: "amber west"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Amber West turns struggles into successes</h4>
 <p>
   As Amber West counts down the days until she graduates this spring, she also

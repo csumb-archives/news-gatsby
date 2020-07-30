@@ -4,7 +4,7 @@ title: "College scientists shine at conference"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay students took first and second places during the annual
   SACNAS conference, the largest STEM diversity event in the country. CSUMB was

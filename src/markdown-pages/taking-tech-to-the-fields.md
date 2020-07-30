@@ -4,7 +4,7 @@ title: "Taking tech to the fields"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   An upstart, home grown ag tech company has its product out working farmland in
   the Salinas Valley with plans to broaden its product line. And two students

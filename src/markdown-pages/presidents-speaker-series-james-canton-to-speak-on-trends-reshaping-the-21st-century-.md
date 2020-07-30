@@ -4,7 +4,7 @@ title: "President’s Speaker Series: James Canton to Speak On Trends Reshaping 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., Feb. 8, 2016 -- Cal State Monterey Bay President Eduardo M.
   Ochoa will host James Canton to speak trends reshaping the 21st century at The

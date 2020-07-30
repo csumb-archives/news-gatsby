@@ -4,7 +4,7 @@ date: February 4 2011
 slug: a-conversation-with-chaz-bono-march-9
 ---
 
-```html
+ 
 
 
 

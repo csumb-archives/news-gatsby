@@ -4,7 +4,7 @@ title: "CSUMB adding faculty for upcoming school year"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   With enrollment in the California State University system expected to top
   450,000 for the upcoming school year, hundreds of new faculty members have

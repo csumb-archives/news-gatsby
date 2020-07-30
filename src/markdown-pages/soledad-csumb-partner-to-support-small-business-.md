@@ -4,7 +4,7 @@ title: "Soledad, CSUMB partner to support small business "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 21, 2010</p>
 <p>
   The city of Soledad and CSU Monterey Bay's Small Business Development Center

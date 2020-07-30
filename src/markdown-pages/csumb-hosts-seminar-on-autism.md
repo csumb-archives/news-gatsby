@@ -4,7 +4,7 @@ title: "CSUMB hosts seminar on autism"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 14, 2010</p>
 <p>
   ******July 15 event free to the public********With the diagnosis rate

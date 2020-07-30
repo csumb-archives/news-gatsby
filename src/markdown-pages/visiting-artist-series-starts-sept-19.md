@@ -4,7 +4,7 @@ title: "Visiting artist series starts Sept. 19"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Justin Hoover, a Bay Area-based curator and artist, will visit CSU Monterey
   Bay on Sept. 19 as the annual visiting artist series gets under way.

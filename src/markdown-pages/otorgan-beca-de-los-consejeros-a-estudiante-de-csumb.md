@@ -4,7 +4,7 @@ title: "Otorgan beca de los Consejeros a estudiante de CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Una estudiante de segundo ano de al Universidad Estatal de California en la
   Bahia de Monterey (CSUMB), quien se dedica a ayudar a otros, fue declarada

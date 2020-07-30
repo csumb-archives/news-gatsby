@@ -4,7 +4,7 @@ title: "University earns Business Excellence Award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   From left to right: Master of Ceremonies Hunter Finnell, Chamber CEO Astrid
   Coleman, Jeff Clark of Robert Louis Stevenson School, CSUMB President Dianne

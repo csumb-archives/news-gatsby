@@ -4,7 +4,7 @@ title: "Picking up the Trail"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 21, 2009</p>
 <p></p>
 <p>

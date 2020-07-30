@@ -4,7 +4,7 @@ date: December 7 2005
 slug: citys-rich-culture-blooms-in-mural
 ---
 
-```html
+ 
 
 
 

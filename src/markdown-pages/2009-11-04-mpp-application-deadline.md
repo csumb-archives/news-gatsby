@@ -4,7 +4,7 @@ date: November 4 2009
 slug: realworld-policymaking
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 04, 2009 </span>
 <strong>Real-world policymaking</strong>
 <strong

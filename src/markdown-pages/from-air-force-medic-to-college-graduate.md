@@ -4,7 +4,7 @@ title: "From Air Force medic to college graduate"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>"CSUMB made a difference for me"</h3>
 <p>Tina Banks has beaten the odds.</p>
 <p>

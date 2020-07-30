@@ -4,7 +4,7 @@ title: "Ready to Rock the Vote"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Brigette Cook, an 18-year-old from San Diego, took advantage of Rock the
   Vote at CSUMB's main quad, where students not only had a chance to join the

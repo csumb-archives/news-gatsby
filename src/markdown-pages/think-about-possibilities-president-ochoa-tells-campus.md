@@ -4,7 +4,7 @@ title: "‘Think about possibilities,’ President Ochoa tells campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>ANNUAL STATE OF THE UNIVERSITY ADDRESS KICKS OFF SCHOOL YEAR</p>
 <p>
   President Eduardo Ochoa delivered an upbeat State of the University address

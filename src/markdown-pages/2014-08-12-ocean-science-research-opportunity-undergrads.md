@@ -4,7 +4,7 @@ date: August 12 2014
 slug: ocean-science-research-opportunity-for-undergrads
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: October 6 2008
 slug: matt-bai-nr
 ---
 
-```html
+ 
 <span class="date">Posted on Oct 06, 2008 </span>
 <fieldset class="fieldgroup group-attachments">
   <legend>Attachments</legend>

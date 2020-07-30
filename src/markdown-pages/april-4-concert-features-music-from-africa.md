@@ -4,7 +4,7 @@ title: "April 4 concert features music from Africa"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   World music will be on tap when CSU Monterey Bay’s Music and Performing Arts
   Department offers a free concert on April 4.

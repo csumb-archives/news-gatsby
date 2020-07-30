@@ -4,7 +4,7 @@ title: "Earth Week at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Earth Day, April 22, is really Earth <em>Week</em> at CSU Monterey Bay.</p>
 <p>
   Since the first Earth Day in 1970, people around the world have sought to

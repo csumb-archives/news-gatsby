@@ -4,7 +4,7 @@ date: April 10 2012
 slug: earth-day-celebrated-with-week&apos;s-worth-of-activities
 ---
 
-```html
+ 
 
 
 

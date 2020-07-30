@@ -4,7 +4,7 @@ title: "Alum works on climate change issues"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Nick Sadrpour, who earned a master’s in Coastal and Watershed Science and
   Policy from CSUMB, has been named a California Sea Grant Fellow for 2015.

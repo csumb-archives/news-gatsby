@@ -4,7 +4,7 @@ title: "Catch CSUMB on public access TV"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 6, 2009</p>
 <p>CSU Monterey Bay takes to the airwaves on Aug. 10.</p>
 <p>

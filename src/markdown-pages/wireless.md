@@ -4,7 +4,7 @@ title: "Wireless"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A survey conducted by Intel Corp. in conjunction with the Center for Digital
   Education ranks CSUMB among the top wireless campuses in the nation. The

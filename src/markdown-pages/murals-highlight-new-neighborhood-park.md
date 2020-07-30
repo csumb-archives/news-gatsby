@@ -4,7 +4,7 @@ title: "Murals highlight new neighborhood park"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Students in Professor Johanna Poethig’s painting and mural class at Cal State
   Monterey Bay are helping to brighten a park and learning valuable lessons in

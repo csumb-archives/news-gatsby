@@ -4,7 +4,7 @@ title: "Thinking of starting a business?"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Nov. 14 event offers help for aspiring entrepreneurs</h3>
 <p>
   Aspiring entrepreneurs are invited to a panel discussion at Cal State Monterey

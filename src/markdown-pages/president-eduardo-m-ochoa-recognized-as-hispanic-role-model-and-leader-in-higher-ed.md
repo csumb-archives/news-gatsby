@@ -4,7 +4,7 @@ title: "President Eduardo M. Ochoa Recognized as Hispanic Role Model and Leader 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>SEASIDE, Ca., Nov. 8, 2016 &#45;&#45;</strong> President Eduardo Ochoa
   is one of 25 leaders recognized by Hispanic Outlook in Higher Education’s “<a

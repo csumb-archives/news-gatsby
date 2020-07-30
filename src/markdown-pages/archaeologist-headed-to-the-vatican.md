@@ -4,7 +4,7 @@ title: "Archaeologist headed to the Vatican"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Ruben Mendoza, professor of archaeology at Cal State Monterey Bay, has
   been invited to Rome to participate in two events focusing on Junipero Serra.

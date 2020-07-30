@@ -4,7 +4,7 @@ title: "Accounting student earns scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A CSU Monterey Bay business student has been awarded a scholarship by the San
   Jose&#45;Silicon Valley Chapter of the California Society of Certified Public

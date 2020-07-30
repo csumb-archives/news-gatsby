@@ -4,7 +4,7 @@ title: "Closing in on a career"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Hundreds of college students did some speed dating with prospective employers
   at CSU Monterey Bay's career fair, where the possibilities ranged from

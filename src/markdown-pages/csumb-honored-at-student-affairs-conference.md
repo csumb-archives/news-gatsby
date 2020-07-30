@@ -4,7 +4,7 @@ title: "CSUMB honored at Student Affairs conference"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>The 'O Team' changed Natasha Daly's life</p>
 <p>
   Pursue a career in archaeology or student affairs? That’s the question facing

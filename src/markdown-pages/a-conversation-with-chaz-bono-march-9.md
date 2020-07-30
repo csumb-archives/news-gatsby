@@ -4,7 +4,7 @@ title: "A conversation with Chaz Bono March 9"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>LGBTQI rights activist visits CSUMB</h2>
 <h4>‘Transition: A Conversation with Chaz Bono’ sponsored by CAHSS</h4>
 <p>

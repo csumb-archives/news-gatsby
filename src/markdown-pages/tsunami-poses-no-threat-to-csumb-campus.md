@@ -4,7 +4,7 @@ title: "Tsunami poses no threat to CSUMB campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A tsunami warning is in effect for the Central Coast of California, including
   Monterey County, following an 8.9-magnitude earthquake off the coast of

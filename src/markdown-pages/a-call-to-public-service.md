@@ -4,7 +4,7 @@ title: "A call to public service"
 date: January 01 2020
 ---
 
-```html
+ 
 <p><em>From CSU Voices and Views blog</em></p>
 <p>
   *<strong

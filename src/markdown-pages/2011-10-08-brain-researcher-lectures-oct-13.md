@@ -4,7 +4,7 @@ date: October 8 2011
 slug: brain-researcher-lectures-on-oct.-13
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: May 11 2012
 slug: summer-arts-comes-to-csumb
 ---
 
-```html
+ 
 
 
 

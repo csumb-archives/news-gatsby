@@ -4,7 +4,7 @@ title: "CSUMB to Host 2nd Annual Monterey Bay Art & Film Festival for Youth: Exp
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., April 10, 2017 – For the second consecutive year, CSUMB will
   play host to The Monterey Bay Art & Film Festival for Youth (MAFFY) April

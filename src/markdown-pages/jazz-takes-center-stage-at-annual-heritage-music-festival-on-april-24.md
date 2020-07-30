@@ -4,7 +4,7 @@ title: "Jazz takes center stage at annual Heritage Music Festival on April 24"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The 7 p.m. performance features percussionist Babatunde Lea and saxophonist
   Greg Abate and Friends.

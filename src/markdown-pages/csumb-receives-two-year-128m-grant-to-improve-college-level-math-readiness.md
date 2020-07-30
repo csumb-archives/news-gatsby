@@ -4,7 +4,7 @@ title: "CSUMB Receives two-year $1.28M Grant to Improve College-Level Math Readi
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>SEASIDE, Ca., Nov. 18, 2016 &#45;&#45;</strong> California State
   University Monterey Bay &#40;CSUMB&#41; is one of four CSU campuses to be

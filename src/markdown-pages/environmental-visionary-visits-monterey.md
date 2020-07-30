@@ -4,7 +4,7 @@ title: "Environmental visionary visits Monterey"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>David Orr gives public talk May 14</h3>
 <p>
   Oberlin, Ohio, is miles away from what would be considered national centers of

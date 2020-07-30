@@ -4,7 +4,7 @@ date: October 31 2014
 slug: rock-.-.-.-honed-for-the-holidays
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: November 7 2012
 slug: grad-uses-theater-arts-to-reach-young-men
 ---
 
-```html
+ 
 
 
 

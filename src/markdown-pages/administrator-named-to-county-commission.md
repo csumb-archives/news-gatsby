@@ -4,7 +4,7 @@ title: "Administrator named to county commission"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Caroline Haskell, director of Health and Wellness Services at CSU Monterey
   Bay, has been named to the Monterey County Mental Health Commission. Fourth

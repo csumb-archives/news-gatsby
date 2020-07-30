@@ -4,7 +4,7 @@ title: "Startup Challenge Monterey Bay Prepares for 10th Annual Competition"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., March 4, 2019– California State University, Monterey Bay’s
   (CSUMB) Institute for Innovation and Economic Development (iiED) is set to

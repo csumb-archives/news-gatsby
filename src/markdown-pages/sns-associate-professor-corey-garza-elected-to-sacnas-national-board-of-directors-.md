@@ -4,7 +4,7 @@ title: "SNS Associate Professor Corey Garza Elected to SACNAS National Board of 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Dec. 6, 2017 – CSUMB
   <a href="https://csumb.edu/naturalsciences">School of Natural Sciences</a>

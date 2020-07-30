@@ -4,7 +4,7 @@ title: "CSUMB Science and Environmental Policy Division is now School of Natural
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The CSUMB Science and Environmental Policy Division has changed its name to
   the School of Natural Sciences &#40;SNS&#41;. It will continue to be a part of

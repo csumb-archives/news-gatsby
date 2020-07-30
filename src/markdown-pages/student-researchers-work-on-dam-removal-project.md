@@ -4,7 +4,7 @@ title: "Student researchers work on dam removal project"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   After years of work, the permits are finally in place for removal of the
   sediment-filled San Clemente Dam on the Carmel River.

@@ -4,7 +4,7 @@ date: September 9 2011
 slug: summer-classes-offered-in-science-illustration
 ---
 
-```html
+ 
 
 
 

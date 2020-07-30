@@ -4,7 +4,7 @@ date: December 7 2006
 slug: buidling-coming-down
 ---
 
-```html
+ 
 
 
 

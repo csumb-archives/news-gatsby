@@ -4,7 +4,7 @@ title: "CSUMB Celebrates 23rd Commencement With Record Number of Graduates"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 18, 2019 – With a record number 2,348 candidates for
   graduation, CSUMB held its 23rd annual commencement celebration beginning on

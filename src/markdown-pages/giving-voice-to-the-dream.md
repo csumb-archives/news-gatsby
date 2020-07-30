@@ -4,7 +4,7 @@ title: "Giving voice to the dream"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Jan. 22, 2010</p>
 <p>
   The advice is straightforward – take Martin Luther King Jr.'s teachings and

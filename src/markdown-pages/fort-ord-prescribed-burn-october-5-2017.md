@@ -4,7 +4,7 @@ title: "Fort Ord Prescribed Burn, October 5, 2017"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A prescribed burn is planned for Thursday, October 5, 2017 in the
   northernportion of the Fort Ord National Monument, also known as BLM Area B,

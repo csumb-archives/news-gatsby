@@ -4,7 +4,7 @@ date: April 14 2011
 slug: author-recounts-wwii-internment-on-4-14
 ---
 
-```html
+ 
 
 
 

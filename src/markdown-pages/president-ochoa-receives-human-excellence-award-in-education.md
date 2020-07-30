@@ -4,7 +4,7 @@ title: "President Ochoa Receives Human Excellence Award in Education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., June 21, 2018 – California State University, Monterey Bay
   (CSUMB) President Eduardo M. Ochoa was awarded the Human Excellence in

@@ -4,7 +4,7 @@ title: "Tech program helps put Latinos on a path to Silicon Valley"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . In the CSIT&#45;in&#45;3 program, 90 percent of the students are Latino,
   and nearly half are women.

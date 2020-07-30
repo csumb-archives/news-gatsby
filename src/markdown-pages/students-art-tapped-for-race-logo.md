@@ -4,7 +4,7 @@ title: "Student's art tapped for race logo"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   As publicity kicks in for the annual Together with Love 5 and 10K race,
   colorful posters are popping up around the local area.

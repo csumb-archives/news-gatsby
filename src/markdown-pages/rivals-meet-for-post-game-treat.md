@@ -4,7 +4,7 @@ title: "Rivals meet for post-game treat"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Though the CSUMB and Sonoma State baseball teams may have been rivals on the
   field April 5, they sat down to dinner together at the end of the day. –

@@ -4,7 +4,7 @@ title: "Otters seeded No. 3 in West Regional"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay’s women’s basketball team grabbed the No. 3 seed in the
   NCAA West Regional tournament starting Friday in Pomona.

@@ -4,7 +4,7 @@ title: "Pollack honored for service-learning achievements"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In recognition of his work to promote service learning and community-campus
   partnerships throughout the Monterey Bay and Salinas Valley, Seth Pollack has

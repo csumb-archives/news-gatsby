@@ -4,7 +4,7 @@ title: "Trail Blazers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong
     >Two CSUMB professors envision a trail network connecting the former Fort

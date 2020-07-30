@@ -4,7 +4,7 @@ title: "Student art exhibit"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Two exhibitions will open in the campus art gallery on Dec. 4 with a reception
   for the artists from 3 to

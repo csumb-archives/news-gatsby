@@ -4,7 +4,7 @@ title: "THE STORIES OF US"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Numerous oral history projects can be found in Monterey County. And part of
   that can be attributed to CSU Monterey Bay and Rina Benmayor, who established

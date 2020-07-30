@@ -4,7 +4,7 @@ title: "Biology and Wildlife Education Outdoors"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Hands-on learning is effective for students, and schools, particularly
   elementary schools, are catching on. For example, students at one California

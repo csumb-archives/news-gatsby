@@ -4,7 +4,7 @@ date: November 19 2013
 slug: composers-society-honors-csumb-lecturer
 ---
 
-```html
+ 
 
 
 

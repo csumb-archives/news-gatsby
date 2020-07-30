@@ -4,7 +4,7 @@ title: "Local scholar invited to meet with the pope"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A local scholar is heading to Rome this week to participate in events related
   to Junipero Serra's impending canonization. "I was a bit in shock, and I was

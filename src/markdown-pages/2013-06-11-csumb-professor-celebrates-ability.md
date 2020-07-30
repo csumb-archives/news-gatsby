@@ -4,7 +4,7 @@ date: June 11 2013
 slug: csumb-professor-celebrates-&apos;ability&apos;
 ---
 
-```html
+ 
 
 
 

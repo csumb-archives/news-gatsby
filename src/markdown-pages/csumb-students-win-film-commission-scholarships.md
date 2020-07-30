@@ -4,7 +4,7 @@ title: "CSUMB students win film commission scholarships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Brianna Beavers and Rose Mercurio, seniors in the Cinematic Arts and
   Technology Department at Cal State Monterey Bay, were awarded $1,500

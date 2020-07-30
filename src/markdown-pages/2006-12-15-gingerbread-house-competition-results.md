@@ -4,7 +4,7 @@ date: December 15 2006
 slug: gingerbread-house-competition-results
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 15, 2006 </span>
 <h4>Tasteful houses sweeten party</h4>
 <p>

@@ -4,7 +4,7 @@ title: "What's the future of California's coast?"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California is one of the most beautiful, diverse and fascinating places on the
   planet. That makes the work of David Helvarg especially important

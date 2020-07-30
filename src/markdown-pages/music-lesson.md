@@ -4,7 +4,7 @@ title: "MUSIC LESSON"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Music and Performing Arts Department at Cal State Monterey Bay invites the
   public to attend a free master class with the Latin Jazz Collective.

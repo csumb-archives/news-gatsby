@@ -4,7 +4,7 @@ title: "Catching a glimpse of college life"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 5, 2010</p>
 <p>*******CSU's Road to College Tour visits Salinas***</p>
 <p>

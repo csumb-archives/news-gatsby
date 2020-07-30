@@ -4,7 +4,7 @@ title: "Photographer of MLK visits campus Feb. 28"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Bob Fitch's image of Martin Luther King was model for monument</h3>
 <p>
   CSU Monterey Bay’s celebration of Black History Month continues on Feb. 28

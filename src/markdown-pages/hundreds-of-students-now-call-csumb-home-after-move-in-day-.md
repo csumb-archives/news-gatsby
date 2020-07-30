@@ -4,7 +4,7 @@ title: "Hundreds of students now call CSUMB home after Move-in Day "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   New beginnings are at CSUMB this weekend. Not only is it the beginning of a
   new academic year, hundreds of freshmen are starting an exciting chapter in

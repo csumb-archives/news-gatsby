@@ -4,7 +4,7 @@ date: March 25 2014
 slug: workshop-examines-disability-access
 ---
 
-```html
+ 
 
 
 

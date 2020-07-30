@@ -4,7 +4,7 @@ title: "Snapshot Day at the library"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 12, 2010</p>
 <p>
   As part of the California Library Association's "Snapshot: One Day in the Life

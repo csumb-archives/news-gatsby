@@ -4,7 +4,7 @@ title: "Campus presents Monterey Bay Art and Film Festival for Youth "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Three days of film screenings, music, art workshops and artists talks are on
   tap April 28 through 30 at the Monterey Bay Art and Film Festival for Youth at

@@ -4,7 +4,7 @@ title: "CSUMB gets taste of TV spotlight"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Cal State Monterey Bay made history on CBS Sports Network with the
   first-ever national telecast of a CCAA women's basketball game. –

@@ -4,7 +4,7 @@ date: September 30 2009
 slug: prospective-students-urged-to-apply-early
 ---
 
-```html
+ 
 
 
 

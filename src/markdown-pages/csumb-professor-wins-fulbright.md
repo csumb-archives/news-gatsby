@@ -4,7 +4,7 @@ title: "CSUMB professor wins Fulbright"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 30, 2009</p>
 <p>
   <strong><em>Dr. Gerald Shenk to work in the Philippines</em></strong>

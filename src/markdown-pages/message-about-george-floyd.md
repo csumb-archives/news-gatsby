@@ -4,7 +4,7 @@ title: "Message about George Floyd"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>
   Deepening our commitment to our values of respect, inclusion, and empathy.
 </h2>

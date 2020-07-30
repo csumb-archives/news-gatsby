@@ -4,7 +4,7 @@ date: May 8 2013
 slug: csumb-aims-for-zero-waste-moveout
 ---
 
-```html
+ 
 
 
 

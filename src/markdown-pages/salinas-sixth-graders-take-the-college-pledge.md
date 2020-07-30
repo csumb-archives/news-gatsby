@@ -4,7 +4,7 @@ title: "Salinas sixth-graders take the college pledge"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Approximately 500 sixth-graders filled the ballroom of CSU Monterey Bay’s
   University Center on Dec. 8, radiating energy and enthusiasm.

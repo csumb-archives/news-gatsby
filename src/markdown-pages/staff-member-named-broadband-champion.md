@@ -4,7 +4,7 @@ title: "Staff member named 'Broadband Champion'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Arlene Krebs, founding director of the Wireless Education and Technology
   Center at CSU Monterey Bay, was named a 2014 Broadband Champion by the

@@ -4,7 +4,7 @@ title: "Wasting Away"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Allison Gong often keeps live sea stars for her college biology classes at CSU
   Monterey Bay. . . Gong was appalled and fascinated as she watched her sea

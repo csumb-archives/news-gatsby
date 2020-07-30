@@ -4,7 +4,7 @@ title: "The Class of 3 Million is coming"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When graduates cross the stage at commencement next May, they will join not
   only the Class of 2015, but also The Class of 3 Million – three million

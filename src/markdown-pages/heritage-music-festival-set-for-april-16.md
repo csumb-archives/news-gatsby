@@ -4,7 +4,7 @@ title: "Heritage Music Festival set for April 16"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>‘Musical conversation’ features Oakland-based dance company</h3>
 <p>
   Catalyst: One by One, a collaboration between the Dimensions Dance Theater and

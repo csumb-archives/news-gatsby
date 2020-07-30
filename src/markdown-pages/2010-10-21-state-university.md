@@ -4,7 +4,7 @@ date: October 21 2010
 slug: state-of-the-university
 ---
 
-```html
+ 
 <span class="date">Posted on Oct 21, 2010 </span>
 <p>
   President Dianne Harrison urged faculty and staff of Cal State Monterey Bay to

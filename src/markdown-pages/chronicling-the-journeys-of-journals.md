@@ -4,7 +4,7 @@ title: "Chronicling the journeys of journals"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A project that started with bathroom graffiti has found its way to CSU
   Monterey Bay.

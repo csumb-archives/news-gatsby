@@ -4,7 +4,7 @@ title: "Junior Otters get award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A four-week summer program for migrant students has been honored with a Golden
   Bell Award for collaborative effort. The Junior Otters program, which brings

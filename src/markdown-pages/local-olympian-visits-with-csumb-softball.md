@@ -4,7 +4,7 @@ title: "Local Olympian visits with CSUMB softball"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Olympian and local hero Monica Abbott stopped by CSUMB softball field to take
   a bit of practice with the Otters. Abbott was a member of the 2008 USA silver

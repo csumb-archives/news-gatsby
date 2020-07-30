@@ -4,7 +4,7 @@ title: "University honored for contributions to local economy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey will be honored for its contribution to the economic vitality,
   growth and preservation of the area at the annual anniversary gala of the

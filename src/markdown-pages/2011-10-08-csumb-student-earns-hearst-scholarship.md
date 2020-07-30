@@ -4,7 +4,7 @@ date: October 8 2011
 slug: csumb-student-earns-hearst-scholarship
 ---
 
-```html
+ 
 
 
 

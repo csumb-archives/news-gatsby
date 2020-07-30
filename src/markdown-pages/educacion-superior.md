@@ -4,7 +4,7 @@ title: "Educacion Superior"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cientos de estudiantes de varias escuelas de Salinas recibieron la promesa de
   que habra un cupo para elios en la Universidad Estatal de la Bahia de Monterey

@@ -4,7 +4,7 @@ title: "Program fuses technology into learning"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Learn about Instructional Science and Technology program</h3>
 <p>
   Anyone interested in preparing for a career in the fields of modern education

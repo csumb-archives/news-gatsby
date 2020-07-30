@@ -4,7 +4,7 @@ title: "Help RON help the community"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Once again, CSUMB’s Return of the Natives restoration education project has
   been selected to participate in the Monterey County Weekly’s annual

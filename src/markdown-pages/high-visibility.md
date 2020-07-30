@@ -4,7 +4,7 @@ title: "HIGH VISIBILITY"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Alumna performs at Pan American Games</p>
 <p>
   Ania Flatau &#40;Kinesiology 2015&#41; doesn’t let anything get in her way.

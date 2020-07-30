@@ -4,7 +4,7 @@ date: November 28 2005
 slug: joseph-wilson
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 28, 2005 </span>
 <h5>Former Ambassador Joseph Wilson to speak Dec. 6</h5>
 <p>

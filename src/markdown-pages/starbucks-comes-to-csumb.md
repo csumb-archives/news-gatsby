@@ -4,7 +4,7 @@ title: "Starbucks comes to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Starbucks will soon be filling the cups of students, staff and faculty at CSU
   Monterey Bay from a location in the Student Center.

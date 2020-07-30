@@ -4,7 +4,7 @@ title: "Student government president attends leadership seminar"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Annual event at Panetta Institute</h3>
 <p>
   Duane Lindsay, CSU Monterey Bay’s student body president, attended the 13th

@@ -4,7 +4,7 @@ title: "New media approach to the story of water"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Enid Baxter Blader is the co-editor of a series of 22 contemporary projects
   that explore California and its troubled relationship with water.

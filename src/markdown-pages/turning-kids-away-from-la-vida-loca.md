@@ -4,7 +4,7 @@ title: "Turning kids away from 'La Vida Loca'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 25, 2009</p>
 <p><strong>Poet Luis Rodriguez lectures at CSUMB Nov. 4</strong></p>
 <p>

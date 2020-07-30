@@ -4,7 +4,7 @@ title: "JAZZ IT UP – Heritage Music Festival celebrates Cinco de Mayo"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The community is invited to an evening of jazz on the campus of California
   State University, Monterey Bay as the annual Heritage Music Festival returns

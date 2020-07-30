@@ -4,7 +4,7 @@ title: "Best Professor – Brad Barbeau"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Brad Barbeau not only teaches business – he transforms his students into
   entrepreneurs as he brings the academic chops and years of real&#45;world

@@ -4,7 +4,7 @@ date: March 10 2014
 slug: csumb-finishes-sixth-in-college-fishing-championship
 ---
 
-```html
+ 
 
 
 

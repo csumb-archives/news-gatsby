@@ -4,7 +4,7 @@ title: "CSUMB men's golf team heads to NCAA championship "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The CSU Monterey Bay men's golf squad will head into the NCAA Division II
   national championship with some steam behind them. On May 8, the Otters won

@@ -4,7 +4,7 @@ title: "Community partnerships pay off for MSW students"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>University ‘grows its own’ with on-campus placement</h3>
 <p>
   When Veronica Gonzalez, who counsels young people in her job at Monterey

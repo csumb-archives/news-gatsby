@@ -4,7 +4,7 @@ date: February 15 2011
 slug: islam-topic-of-social-justice-colloquium
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "President Harrison joins Campus Compact board"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay President Dianne Harrison has been named to the Execuitve
   Board of California Campus Compact, a coalition of colleges and universities

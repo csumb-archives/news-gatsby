@@ -4,7 +4,7 @@ title: "Monterey Library to launch a seed library"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Recent CSUMB grad Heather Cunningham led the project development. There
   is no library budget, just a $500 grant from the CSUMB Alumni Association to

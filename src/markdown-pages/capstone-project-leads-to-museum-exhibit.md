@@ -4,7 +4,7 @@ title: "Capstone project leads to museum exhibit"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay alumna Erika D’Auria has turned her capstone project into an
   exhibit at the Monterey Museum of Art.

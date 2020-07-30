@@ -4,7 +4,7 @@ date: February 17 2014
 slug: black-history-month-at-csumb
 ---
 
-```html
+ 
 
 
 

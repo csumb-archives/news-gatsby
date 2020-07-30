@@ -4,7 +4,7 @@ title: "Science master's degree offers new career path"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay now offers a Professional Science Master’s degree in
   Coastal and Watershed Science &amp; Policy. The new program complements the

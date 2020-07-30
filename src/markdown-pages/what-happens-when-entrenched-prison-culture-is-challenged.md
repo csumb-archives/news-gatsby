@@ -4,7 +4,7 @@ title: "What happens when entrenched prison culture is challenged?"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>FILM EXPLORES HUMAN DRAMA INSIDE SOLEDAD PRISON</p>
 <p>
   Seven years, three men, one prison. What happens when a court order and an

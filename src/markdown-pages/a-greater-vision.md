@@ -4,7 +4,7 @@ title: "A Greater Vision"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>HOW IS TECHNOLOGY TRANSFORMING AGRIBUSINESS?</p>
 <p>
   The “Greater Vision” series of forums addressing issues facing the

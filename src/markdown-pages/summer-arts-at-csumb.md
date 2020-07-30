@@ -4,7 +4,7 @@ title: "Summer Arts at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   From June 30 to July 26, a weekly slate of more than 30 guest lecturers and
   performers will offer a series of evening dance and musical programs plus

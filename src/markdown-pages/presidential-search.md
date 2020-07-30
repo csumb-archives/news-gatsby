@@ -4,7 +4,7 @@ title: "Presidential Search"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The California State University Board of Trustees will begin the search this
   month for a new president of California State University, Monterey Bay to

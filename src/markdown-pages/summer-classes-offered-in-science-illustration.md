@@ -4,7 +4,7 @@ title: "Summer classes offered in science illustration"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Anyone interested in exploring the confluence of art and science is invited to
   attend the summer session of CSU Monterey Bay’s Science Illustration program.

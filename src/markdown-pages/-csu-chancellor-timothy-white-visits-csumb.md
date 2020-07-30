@@ -4,7 +4,7 @@ title: 'CSU Chancellor Timothy White visits CSUMB'
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University Chancellor Timothy White continued a tour of the
   system’s 23 campuses when he visited CSUMB on Oct. 7. It was his fifth trip to

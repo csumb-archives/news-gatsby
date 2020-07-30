@@ -4,7 +4,7 @@ title: "Arts collective explores gender, cultural stereotypes"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>M.O.B. visits campus March 14</h3>
 <p>
   For more than 18 years, Eliza Barrios, Jenifer Wofford and Reanne Estrada have

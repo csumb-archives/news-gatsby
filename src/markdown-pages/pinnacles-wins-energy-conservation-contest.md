@@ -4,7 +4,7 @@ title: "Pinnacles wins energy conservation contest"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   During April, CSU Monterey Bay residents showed that small changes can make a
   big difference when it comes to conserving energy.

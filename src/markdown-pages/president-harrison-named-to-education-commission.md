@@ -4,7 +4,7 @@ title: "President Harrison named to education commission"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Gov. Jerry Brown has appointed California State University, Monterey Bay
   President Dianne Harrison to serve on the Western Interstate Commission for

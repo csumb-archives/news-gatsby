@@ -4,7 +4,7 @@ title: "Psychology lecturer's work featured in textbook"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Kathryn England-Aytes, a lecturer in psychology at CSUMB, has contributed to a
   book that’s the first of its kind for educational publishing.

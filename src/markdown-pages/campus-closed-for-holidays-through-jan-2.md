@@ -4,7 +4,7 @@ title: "Campus closed for holidays through Jan. 2"
 date: January 01 2020
 ---
 
-```html
+ 
 <p></p>
 <p>
   CSU Monterey Bay will be closed in observance of the holiday season beginning

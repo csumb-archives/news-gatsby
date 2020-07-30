@@ -4,7 +4,7 @@ title: "Cultural Fusion"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB's annual Heritage Music Festival features the world premiere of
   dance-music collaboration. The performance will feature: "Catalyst: One by

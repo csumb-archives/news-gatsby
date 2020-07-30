@@ -4,7 +4,7 @@ date: September 19 2006
 slug: csumb-has-a-hearst-scholar
 ---
 
-```html
+ 
 
 
 

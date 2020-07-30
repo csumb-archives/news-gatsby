@@ -4,7 +4,7 @@ title: "Social Media Directory"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Official accounts</h2>
 <h2>Announcements</h2>
 <p>

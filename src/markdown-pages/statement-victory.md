@@ -4,7 +4,7 @@ title: "STATEMENT VICTORY"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong
     ><em

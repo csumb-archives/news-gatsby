@@ -4,7 +4,7 @@ date: October 19 2005
 slug: campus-responds-to-katrina
 ---
 
-```html
+ 
 <span class="date">Posted on Oct 19, 2005 </span>
 <p><strong>Students raise $3,500 for hurricane relief</strong></p>
 <p>

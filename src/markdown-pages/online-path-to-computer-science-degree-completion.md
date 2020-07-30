@@ -4,7 +4,7 @@ title: "Online path to computer science degree completion"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Did you leave school before you finished your bachelor’s degree in computer
   science? Do you have a college degree but would like to earn a second one in

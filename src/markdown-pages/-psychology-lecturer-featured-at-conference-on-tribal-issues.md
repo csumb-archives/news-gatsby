@@ -4,7 +4,7 @@ title: 'Psychology lecturer featured at conference on tribal issues'
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Kathryn England-Aytes, a lecturer in psychology at Cal State Monterey Bay,
   will travel to Oklahoma in June to participate in a conference on tribal

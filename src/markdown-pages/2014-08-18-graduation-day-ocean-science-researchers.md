@@ -4,7 +4,7 @@ date: August 18 2014
 slug: day&apos;-for-ocean-science-researchers
 ---
 
-```html
+ 
 
 
 

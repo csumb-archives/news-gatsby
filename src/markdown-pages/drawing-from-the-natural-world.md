@@ -4,7 +4,7 @@ title: "Drawing from the natural world"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Read the reviews:</h3>
 <p>
   <a

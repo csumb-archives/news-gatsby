@@ -4,7 +4,7 @@ title: "CSUMB adds two more fully online graduate degrees"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay will be among the first CSU campuses
   to offer degrees through the new Cal State Online, an initiative intended to

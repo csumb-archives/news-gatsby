@@ -4,7 +4,7 @@ title: "Hackathon Weekend Focuses on Creating Tech for Disaster Recovery"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., November 6, 2017 – California State University, Monterey Bay’s
   (CSUMB) Institute for Innovation and Economic Development (IIED) hosted the

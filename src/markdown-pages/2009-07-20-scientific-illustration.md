@@ -4,7 +4,7 @@ date: July 20 2009
 slug: scientific-illustration
 ---
 
-```html
+ 
 
 
 

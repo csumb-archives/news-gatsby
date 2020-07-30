@@ -4,7 +4,7 @@ date: February 3 2006
 slug: oldschool-style-at-newschool-program
 ---
 
-```html
+ 
 
 
 

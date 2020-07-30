@@ -4,7 +4,7 @@ title: "Concert features chamber music by CSUMB instructor"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Community invited to free event</h3>
 <p>
   Dr. Lanier Sammons, a lecturer in the Music and Performing Arts Department,

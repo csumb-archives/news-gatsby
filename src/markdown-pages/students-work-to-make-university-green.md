@@ -4,7 +4,7 @@ title: "Students work to make university green"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A 10-week competition got under way Jan. 17 aimed at encouraging students to
   recycle.

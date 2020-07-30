@@ -4,7 +4,7 @@ title: "Alumnus honored for HIV/AIDS advocacy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Steven Goings (SBS ’10) will be honored at the annual Crystal Ball, an event
   that benefits the education and prevention programs of Central Coast HIV/AIDS

@@ -4,7 +4,7 @@ date: September 16 2006
 slug: celebration-for-el-grito-csumb-fetes-mexicos-independence
 ---
 
-```html
+ 
 
 
 

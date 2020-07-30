@@ -4,7 +4,7 @@ title: "Campus celebrates investiture of President Eduardo Ochoa"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay President Eduardo Ochoa laid out a blueprint for the
   university’s future during a ceremony Nov. 15 in which fellow academics, staff

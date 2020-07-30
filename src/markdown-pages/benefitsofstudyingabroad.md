@@ -4,7 +4,7 @@ title: "BenefitsofStudyingAbroad"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Meghan Lewis' experience as an exchange student in Florence, Italy, last year
   not only exposed her to different cultures and enabled her to make friends in

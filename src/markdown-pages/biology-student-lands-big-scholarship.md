@@ -4,7 +4,7 @@ title: "Biology student lands big scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Second year student Francisco Hernandez Jr. has been awarded a $40,000 U.S.
   Department of Agriculture scholarship to help him complete his biology degree.

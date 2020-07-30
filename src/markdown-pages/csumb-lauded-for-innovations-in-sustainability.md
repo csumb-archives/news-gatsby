@@ -4,7 +4,7 @@ title: "CSUMB lauded for 'innovations' in sustainability"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <em
     ><strong>UPDATE:</strong> Dr. Dan Fernandez has been invited to to make a

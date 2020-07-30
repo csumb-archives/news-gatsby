@@ -4,7 +4,7 @@ title: "CSUMB Education Abroad Program Recognized as One of Nation’s Best for 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., January 26, 2020 – California State University, Monterey Bay
   (CSUMB) was ranked #9 amongst like-institutions nationally in a recent

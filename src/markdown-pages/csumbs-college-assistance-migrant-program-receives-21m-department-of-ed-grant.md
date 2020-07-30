@@ -4,7 +4,7 @@ title: "CSUMB’s College Assistance Migrant Program Receives $2.1M Department o
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., August 2, 2019 – California State University, Monterey Bay’s
   (CSUMB) College Assistance Migrant Program (CAMP) has been selected to receive

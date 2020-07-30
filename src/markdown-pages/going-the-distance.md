@@ -4,7 +4,7 @@ title: "Going the distance"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . And CSU Monterey Bay, which has seen more interest in its online
   offerings, is rolling out two new online masters programs this year, adding to

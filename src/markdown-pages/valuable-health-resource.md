@@ -4,7 +4,7 @@ title: "Valuable health resource"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . new master's in social work program at CSU Monterey Bay, which will
   graduate its first class in 2013. The master's program is the only accredited

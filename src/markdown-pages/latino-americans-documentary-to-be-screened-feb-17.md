@@ -4,7 +4,7 @@ title: "'Latino Americans' documentary to be screened Feb. 17"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Talk by director Ray Telles will accompany the film showing</p>
 <p>
   During the 2015&#45;16 school year, Cal State Monterey Bay has been showing

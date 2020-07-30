@@ -4,7 +4,7 @@ title: "Students present biotech research"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Student-industry networking on the agenda at annual conference</h3>
 <p>
   Students and faculty from CSU Monterey Bay will join colleagues from other

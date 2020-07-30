@@ -4,7 +4,7 @@ date: March 20 2014
 slug: striving-to-reach-a-bold-goal
 ---
 
-```html
+ 
 
 
 

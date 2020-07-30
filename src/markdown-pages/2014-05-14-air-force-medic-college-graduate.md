@@ -4,7 +4,7 @@ date: May 14 2014
 slug: from-air-force-medic-to-college-graduate
 ---
 
-```html
+ 
 
 
 

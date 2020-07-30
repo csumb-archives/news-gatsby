@@ -4,7 +4,7 @@ title: "G.I. Jobs magazine salutes CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For the third consecutive year, CSU Monterey Bay has been named a
   “military-friendly school” by G.I. Jobs magazine.

@@ -4,7 +4,7 @@ title: "Alumna serves Navajo Nation"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Carrie Drouin (HCOM ’03) has joined the Washington office of the Navajo
   Nation, where she serves as a government and legislative affairs associate.

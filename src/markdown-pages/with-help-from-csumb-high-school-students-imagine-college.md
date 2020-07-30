@@ -4,7 +4,7 @@ title: "With help from CSUMB, high school students imagine college"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It’s 9:30 a.m. on a Friday – early for many teenagers on summer vacation – and
   a group of Seaside High students are hunched over worktables in a chemistry

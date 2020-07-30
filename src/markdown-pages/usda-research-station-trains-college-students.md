@@ -4,7 +4,7 @@ title: "USDA research station trains college students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   "We don't want students to have to do another job. Their research is their
   job," said Matthew Subia, research coordinator at the CSUMB Undergraduate

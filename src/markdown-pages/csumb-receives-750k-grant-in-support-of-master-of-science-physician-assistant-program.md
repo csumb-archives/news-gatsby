@@ -4,7 +4,7 @@ title: "CSUMB Receives $750K Grant in Support of Master of Science Physician Ass
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., April 24, 2018 – California State University, Monterey Bay
   (CSUMB) has received a $750,000 workforce development grant from

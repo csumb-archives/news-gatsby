@@ -4,7 +4,7 @@ date: January 22 2015
 slug: united-front
 ---
 
-```html
+ 
 
 
 

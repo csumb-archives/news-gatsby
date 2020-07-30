@@ -4,7 +4,7 @@ title: "Deadline approaching for CSUMB teen film festival "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Jan. 4, 2010</p>
 <p>*******Entries must be submitted by Feb. 12***</p>
 <p>

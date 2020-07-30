@@ -4,7 +4,7 @@ title: "Otters, talented and deep, head into fall golf season"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   With nine returning varsity players from a team that took fifth place at last
   season's Division II national championship, the Otters are talented and deep

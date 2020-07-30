@@ -4,7 +4,7 @@ title: "Planting ideas for the future"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Students, especially in grades 2 through 6, will get a chance to step into the
   outdoors and wrap their eager minds around the basics of natural science. The

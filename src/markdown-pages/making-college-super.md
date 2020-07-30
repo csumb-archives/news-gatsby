@@ -4,7 +4,7 @@ title: "Making college 'super'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>COLLEGE IS FOR YOU, ADMINISTRATORS TELL CHURCH MEMBERS</p>
 <p>
   Parishioners at two local churches will get more than a sermon at the Feb. 28

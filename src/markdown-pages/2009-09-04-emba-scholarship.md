@@ -4,7 +4,7 @@ date: September 4 2009
 slug: emba-scholarship
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 04, 2009 </span>
 <p>Dear CSU Monterey Bay faculty, staff and administrators:</p>
 <p>

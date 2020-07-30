@@ -4,7 +4,7 @@ title: "Working together to achieve better results"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Monterey County community leaders are redesigning how they provide services,
   hoping to get better results – specifically when it comes to student

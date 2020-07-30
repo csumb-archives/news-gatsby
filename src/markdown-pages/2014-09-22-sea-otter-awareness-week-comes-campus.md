@@ -4,7 +4,7 @@ date: September 22 2014
 slug: sea-otter-awareness-week-comes-to-campus
 ---
 
-```html
+ 
 
 
 

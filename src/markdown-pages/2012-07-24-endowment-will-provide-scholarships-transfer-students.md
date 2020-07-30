@@ -4,7 +4,7 @@ date: July 24 2012
 slug: endowment-will-provide-scholarships-for-transfer-students
 ---
 
-```html
+ 
 
 
 

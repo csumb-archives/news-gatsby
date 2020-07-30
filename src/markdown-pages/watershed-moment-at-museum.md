@@ -4,7 +4,7 @@ title: "Watershed moment at museum"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Jan. 18, 2010</p>
 <p>
   <strong><em>CSUMB plays major role in Steinbeck Center exhibit</em></strong>

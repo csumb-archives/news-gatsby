@@ -4,7 +4,7 @@ title: "CSUMB student selected for internship program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 15, 2009</p>
 <p>
   Jonathan Aseltine has been selected to participate in the Congressional

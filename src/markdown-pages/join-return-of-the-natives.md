@@ -4,7 +4,7 @@ title: "Join Return of the Natives"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 14, 2009</p>
 <p>Upcoming events planned by the Watershed Institute at CSU Monterey Bay:</p>
 <p>

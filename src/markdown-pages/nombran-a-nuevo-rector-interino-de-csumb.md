@@ -4,7 +4,7 @@ title: "Nombran a nuevo rector interino de CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   El Doctor Eduardo M. Ochoa nativo de Argentina ha sido nombrado como el nuevo
   rector interno de CSUMB. Este cargo lo tomará a partir del 16 de Julio. –

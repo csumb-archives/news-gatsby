@@ -4,7 +4,7 @@ title: "Employee appreciation event kicks off spring semester"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay kicked off the spring semester on Jan. 25 with a staff and
   faculty appreciation breakfast, and even a massive snowstorm didn’t derail the

@@ -4,7 +4,7 @@ date: February 1 2011
 slug: accounting-students-earn-scholarships
 ---
 
-```html
+ 
 
 
 

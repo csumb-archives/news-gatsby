@@ -4,7 +4,7 @@ title: "Four Undergraduate Researchers Selected for Pre-Doctoral Scholarships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., June 20, 2017 – Four CSUMB seniors have been selected as
   Sally Casanova Pre-Doctoral Scholars for the 2017-18 academic year. The four

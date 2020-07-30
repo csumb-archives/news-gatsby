@@ -4,7 +4,7 @@ date: May 6 2014
 slug: marine-science-student-earns-noaa-scholarship
 ---
 
-```html
+ 
 
 
 

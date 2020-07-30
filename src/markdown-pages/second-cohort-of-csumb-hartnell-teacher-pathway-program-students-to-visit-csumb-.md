@@ -4,7 +4,7 @@ title: "Second Cohort of CSUMB-Hartnell Teacher Pathway Program Students to Visi
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., September 21, 2017 – Students enrolled in the
   <a href="https://csumb.edu/liberalstudies/teacher-pathway-program"

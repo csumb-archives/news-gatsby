@@ -4,7 +4,7 @@ title: "Seventh-graders inspired at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Annual summit teaches students about college requirements</p>
 <p>
   More Santa Cruz County students are preparing for college, and Cal State

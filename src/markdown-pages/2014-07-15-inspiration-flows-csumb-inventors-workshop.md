@@ -4,7 +4,7 @@ date: July 15 2014
 slug: inspiration-flows-from-csumb-inventor&apos;s-workshop
 ---
 
-```html
+ 
 
 
 

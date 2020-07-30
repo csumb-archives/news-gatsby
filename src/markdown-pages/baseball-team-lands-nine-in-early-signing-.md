@@ -4,7 +4,7 @@ title: "Baseball team lands nine in early signing "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Head baseball coach Walt White’s tenure at CSUMB is off to a good start with
   the early signing of nine recruits for fall 2011.

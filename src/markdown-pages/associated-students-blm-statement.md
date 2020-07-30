@@ -4,7 +4,7 @@ title: "Associated Students BLM Statement"
 date: January 01 2020
 ---
 
-```html
+ 
 <p><i>This message was originally posted on June 10, 2020.</i></p>
 <p><b>TO: CSUMB Students and Campus Community </b></p>
 <p><b>FROM: Associated Students (2020-2021)</b></p>

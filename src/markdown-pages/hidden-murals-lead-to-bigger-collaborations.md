@@ -4,7 +4,7 @@ title: "‘Hidden’ murals lead to bigger collaborations"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   What started with Professor Enid Ryce’s curiosity about art in abandoned
   buildings has grown into collaborations with the Library of Congress, the

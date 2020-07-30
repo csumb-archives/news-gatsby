@@ -4,7 +4,7 @@ title: "March 19 event benefits film society"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>‘Carmel-by-the-Sea’ gets first local screening</h2>
 <p>
   The newly launched Monterey Bay Film Society will hold its first big public

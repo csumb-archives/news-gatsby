@@ -4,7 +4,7 @@ date: April 29 2011
 slug: saturday&amp;colon;-music-students&apos;-spring-concert
 ---
 
-```html
+ 
 <span class="date">Posted on Apr 29, 2011 </span>
 
 <p>California State University, Monterey Bay&apos;s annual spring

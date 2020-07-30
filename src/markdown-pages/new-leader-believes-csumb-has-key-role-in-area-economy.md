@@ -4,7 +4,7 @@ title: "New leader believes CSUMB has key role in area economy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay could play a part in restoring the long-term vision needed
   for strong economic growth locally, says President Eduardo Ochoa. Think

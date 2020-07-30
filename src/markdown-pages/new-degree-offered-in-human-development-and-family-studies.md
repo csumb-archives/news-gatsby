@@ -4,7 +4,7 @@ title: "New degree offered in human development and family studies"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s College of Education has announced a new Human Development
   and Family Studies (HDFS) undergraduate degree program, scheduled to begin in

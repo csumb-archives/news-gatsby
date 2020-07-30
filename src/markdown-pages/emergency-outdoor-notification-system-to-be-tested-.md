@@ -4,7 +4,7 @@ title: "Emergency outdoor notification system to be tested "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB will test its new outdoor emergency notification system at 11:50 a.m.
   today.

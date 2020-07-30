@@ -4,7 +4,7 @@ title: "ARTISTIC EXPLOSION"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>
   Summer Arts presents a month of improv, animation, art, theater and film
 </h3>

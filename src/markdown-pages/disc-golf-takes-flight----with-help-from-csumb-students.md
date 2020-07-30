@@ -4,7 +4,7 @@ title: "Disc golf takes flight . . . with help from CSUMB students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Led by women’s disc golf club president Traci Alger, a dozen volunteers –
   mostly from CSUMB – created a course at Los Arboles Middle School in Marina

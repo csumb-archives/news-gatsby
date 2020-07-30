@@ -4,7 +4,7 @@ title: "CSUMB reaches agreement with Marina, FORA on future growth"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 2, 2009</p>
 <p>
   CSU Monterey Bay signed an agreement Sept. 2 with the city of Marina and the

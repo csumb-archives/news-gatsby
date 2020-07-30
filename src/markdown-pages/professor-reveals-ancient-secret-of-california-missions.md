@@ -4,7 +4,7 @@ title: "Professor reveals ancient secret of California missions"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For centuries, California's missions have stood as historic state landmarks
   and windows into the state's past. But a new understanding of the aging

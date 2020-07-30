@@ -4,7 +4,7 @@ title: "Students celebrate TRiO Day with service projects"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Feb. 22 is National TRiO Day, a day set aside to celebrate the positive impact
   of federal programs that help low-income and first-generation students enter

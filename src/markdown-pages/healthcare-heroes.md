@@ -4,7 +4,7 @@ title: "Healthcare Heroes"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>CSUMB students, faculty among medical workers fighting COVID-19</h2>
 <p><b>By Sophia Huang McKenzie</b></p>
 <p><i>Published April 17, 2020</i></p>

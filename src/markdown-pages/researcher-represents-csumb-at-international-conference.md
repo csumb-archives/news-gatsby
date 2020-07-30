@@ -4,7 +4,7 @@ title: "Researcher represents CSUMB at international conference"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A shortage of fish in the ocean, combined with human population growth, means
   global shortfalls for traditional food sources. Squid may help to fill the

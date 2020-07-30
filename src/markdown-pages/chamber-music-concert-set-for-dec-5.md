@@ -4,7 +4,7 @@ title: "Chamber music concert set for Dec. 5"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Guitar-percussion duo proves that chamber music is far from stuffy</h3>
 <p>
   <a href="https://thelivingearthshow.com">The Living Earth Show</a> – electric

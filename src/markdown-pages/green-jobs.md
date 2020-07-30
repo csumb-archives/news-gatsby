@@ -4,7 +4,7 @@ title: "Green Jobs"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Speakers, a free vegetarian lunch and the chance to find out about sustainable
   job opportunities are all part of CSU Monterey Bay's conference, "Focus 2014:

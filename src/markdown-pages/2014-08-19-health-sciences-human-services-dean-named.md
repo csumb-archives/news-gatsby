@@ -4,7 +4,7 @@ date: August 19 2014
 slug: health-sciences-human-services-dean-named
 ---
 
-```html
+ 
 
 
 

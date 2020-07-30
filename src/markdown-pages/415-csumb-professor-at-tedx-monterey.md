@@ -4,7 +4,7 @@ title: "4/15: CSUMB professor at TEDx Monterey"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Professor Dan Fernandez among the speakers</h2>
 <p>
   Dr. Dan Fernandez, chair of the Division of Science and Environmental Policy

@@ -4,7 +4,7 @@ title: "Water savings via satellite"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Space-age technology helps growers manage water</h3>
 <p>It's no secret that water drives California agriculture.</p>
 <p>

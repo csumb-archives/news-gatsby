@@ -4,7 +4,7 @@ title: "CSU is key to a strong state economy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 11, 2010</p>
 <p><strong>CSU Monterey Bay spending sustains 1,500 jobs</strong></p>
 <p>

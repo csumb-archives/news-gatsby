@@ -4,7 +4,7 @@ title: "Former NBA player was CSUMB assistant coach"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Tariq Abdul-Wahad, better known as Olivier Saint-Jean, is rapturous in his
   praise of his former coach Doc Rivers. His enthusiasm for Rivers is matched

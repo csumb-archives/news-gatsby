@@ -4,7 +4,7 @@ date: November 2 2010
 slug: service-in-coast-guard-leads-to-marine-science
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 02, 2010 </span>
 <p>
   A seven-year stint in the U.S. Coast Guard offered Bridget Hoover many

@@ -4,7 +4,7 @@ date: October 26 2005
 slug: setting-priorities&amp;colon;-csumb-golfer-chooses-degree
 ---
 
-```html
+ 
 <span class="date">Posted on Oct 26, 2005 </span>
 Even at her worst, Katy Murphy was CSU-Monterey Bay&apos;s best. For the
 past three years, the senior golfer who hails from Santa Cruz has

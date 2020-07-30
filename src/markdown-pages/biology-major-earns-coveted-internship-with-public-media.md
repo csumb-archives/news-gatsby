@@ -4,7 +4,7 @@ title: "Biology major earns coveted internship with public media"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   As a child, Grace Singer explored tide pools on the Monterey Peninsula. She
   was hooked.

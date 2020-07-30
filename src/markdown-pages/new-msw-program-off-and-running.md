@@ -4,7 +4,7 @@ title: "New MSW program off and running"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 30, 2010</p>
 <p>
   "I like that it's geared for working adults," said Adrian Lopez of Gilroy, a

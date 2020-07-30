@@ -4,7 +4,7 @@ title: "MASTERING MATH"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Algebra Academy gives middle schoolers a head start</h3>
 <p>
   More than 100 incoming eighth-graders will spend the last days of their summer

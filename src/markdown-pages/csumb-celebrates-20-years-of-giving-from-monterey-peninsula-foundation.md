@@ -4,7 +4,7 @@ title: "CSUMB Celebrates 20 Years of Giving from Monterey Peninsula Foundation"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 27, 2017 – California State University Monterey Bay (CSUMB)
   recently celebrated 20 years of annual giving from the Monterey Peninsula

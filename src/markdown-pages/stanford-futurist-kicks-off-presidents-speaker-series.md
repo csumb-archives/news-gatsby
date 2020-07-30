@@ -4,7 +4,7 @@ title: "Stanford futurist kicks off President's Speaker Series"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Future Monterey Bay; focus of speaker series</h3>
 <p>
   “Innovators, upstarts and mythmakers: the deep origins of Silicon Valley” will

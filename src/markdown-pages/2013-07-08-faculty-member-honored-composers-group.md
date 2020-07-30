@@ -4,7 +4,7 @@ date: July 8 2013
 slug: faculty-member-honored-by-composers-group
 ---
 
-```html
+ 
 
 
 

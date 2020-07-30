@@ -4,7 +4,7 @@ title: "Tanimura and Antle library home to Masten Collection"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 30, 2010</p>
 <p>
   Tucked away on the third floor of the Tanimura and Antle Family Memorial

@@ -4,7 +4,7 @@ title: "Dean's Medalists"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>First-generation grads recognized for academic excellence, leadership</h2>
 <p><b>By Sophia Huang McKenzie</b></p>
 <p><i>Published June 16, 2020</i></p>

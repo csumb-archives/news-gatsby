@@ -4,7 +4,7 @@ title: "Alumna earns first Perry Scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Maritza Bautista’s third-grade teacher influenced her career choice.</p>
 <p>
   “Just as she helped me, I want to return the favor to my community,” said the

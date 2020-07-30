@@ -4,7 +4,7 @@ title: "Capstone story"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Capstone Festival gets under way May 8 - Most presentations May 14-15</h4>
 <p>
   California State University, Monterey Bay will hold its 13th annual Capstone

@@ -4,7 +4,7 @@ title: "WWII Re-enactment"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Re-enactors bring World War II battle to Fort Ord</h4>
 <p>
   Blink your eyes and Fort Ord suddenly becomes a German town on the Belgian

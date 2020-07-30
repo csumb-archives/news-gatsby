@@ -4,7 +4,7 @@ title: "Ethics and Responsible Business Forum 2018"
 date: January 01 2020
 ---
 
-```html
+ 
 <p><i>The Ethics of Fake News: Who Controls the Future of Democracy?</i></p>
 <p>
   SEASIDE, Ca., March 9, 2018 – California State University, Monterey Bay

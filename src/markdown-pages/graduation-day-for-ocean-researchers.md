@@ -4,7 +4,7 @@ title: "'Graduation day' for ocean researchers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For the 11 students who spent the summer conducting research through the Ocean
   Sciences Research Experiences for Undergraduates program based at CSU Monterey

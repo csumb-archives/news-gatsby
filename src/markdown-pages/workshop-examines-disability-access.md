@@ -4,7 +4,7 @@ title: "Workshop examines disability access"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Public invited to March 27 event</h3>
 <p>
   The community is invited to a workshop at CSU Monterey Bay intended to

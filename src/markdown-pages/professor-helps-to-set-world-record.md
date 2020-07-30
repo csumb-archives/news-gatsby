@@ -4,7 +4,7 @@ title: "Professor helps to set world record"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Electric vehicle enthusiast charged up by EV rally</h3>
 <p>
   Cal State Monterey Bay Professor Dan Fernandez was one of hundreds of electric

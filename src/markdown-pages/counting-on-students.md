@@ -4,7 +4,7 @@ title: "Counting on students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>March 12, 2010</p>
 <p><strong>The Census comes to campus</strong></p>
 <p>

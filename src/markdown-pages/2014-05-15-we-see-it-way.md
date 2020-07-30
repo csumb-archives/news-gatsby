@@ -4,7 +4,7 @@ date: May 15 2014
 slug: see-it-this-way&apos;
 ---
 
-```html
+ 
 
 
 

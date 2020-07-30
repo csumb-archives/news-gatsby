@@ -4,7 +4,7 @@ title: "CSUMB reaches out to black community through church visits"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Super Sunday encourages more students to enroll</h3>
 <p>
   In February, a trio of CSU Monterey Bay administrators will be featured

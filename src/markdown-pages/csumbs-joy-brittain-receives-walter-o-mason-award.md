@@ -4,7 +4,7 @@ title: "CSUMB’s Joy Brittain Receives Walter O. Mason Award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., September 18, 2018 – The Council for Opportunity in Education
   (COE) honored Joy Brittain, Senior Director of

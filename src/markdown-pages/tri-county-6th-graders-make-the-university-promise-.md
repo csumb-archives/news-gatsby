@@ -4,7 +4,7 @@ title: "Tri-County 6th-graders make the ‘University Promise’ "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Dec. 5, 2016 – Roughly 3,100 6th-graders will make a promise to
   attend college Dec. 4-8, 2017 as a part of the 8th annual University Promise

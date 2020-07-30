@@ -4,7 +4,7 @@ title: "CSUMB Takes Back the Night on March 5"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>March 1, 2010</p>
 <p>
   The annual Take Back the Night speak-out and march to protest sexual violence

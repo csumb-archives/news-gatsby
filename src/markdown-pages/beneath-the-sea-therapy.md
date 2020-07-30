@@ -4,7 +4,7 @@ title: "Beneath the Sea Therapy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . The student divers, all disabled veterans who suffer from everything
   from head injuries to PTSD, are learning to dive in the CSUMB pool. They are

@@ -4,7 +4,7 @@ date: November 20 2007
 slug: student-art-exhibit
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 20, 2007 </span>
 <p>
   Two exhibitions will open in the campus art gallery on Dec. 4 with a reception

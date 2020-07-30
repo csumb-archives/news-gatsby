@@ -4,7 +4,7 @@ title: "What strange lifeforms lurk off Orange County shores"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Hundreds of feet beneath the ocean, but not far off the Laguna Beach coast,
   deep-water rockfish take shelter from the dark in the arms of a sea star.

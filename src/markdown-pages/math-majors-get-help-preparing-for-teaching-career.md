@@ -4,7 +4,7 @@ title: "Math majors get help preparing for teaching career"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>“By teaching, we touch the lives of other people.”</p>
 <p>
   That simple statement explains why Javier Martinez-Cabrera decided to be a

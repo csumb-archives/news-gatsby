@@ -4,7 +4,7 @@ title: "Annual Dia de Los Padres in Salinas"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Spanish-speaking families invited to March 12 event</h3>
 <p>
   California State University, Monterey Bay invites the Spanish-speaking parents

@@ -4,7 +4,7 @@ title: "Science fiction classic puts spotlight on faculty research"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Science fiction writer Frank Herbert captured the imagination of readers with
   <em>Dune</em>, his book about a planet on which it never rained and water was

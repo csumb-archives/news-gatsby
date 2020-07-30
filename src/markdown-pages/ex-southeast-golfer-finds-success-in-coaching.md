@@ -4,7 +4,7 @@ title: "Ex-Southeast golfer finds success in coaching"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Jason Owen had led his team to a Division II title and been named national
   coach of the year. Owen, one of Southeast Missouri State's former standout

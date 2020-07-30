@@ -4,7 +4,7 @@ title: "Camp SEA Lab encourages girls to pursue science career"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Twenty-four high school students from around the country got some cool
   hands-on training in Monterey Bay on Monday, exploring the world of marine

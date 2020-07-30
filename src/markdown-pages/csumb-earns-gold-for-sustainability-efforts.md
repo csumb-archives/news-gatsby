@@ -4,7 +4,7 @@ title: "CSUMB earns gold for sustainability efforts"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   With a computer keystroke on July 29, President Dianne Harrison filed a report
   that earned CSU Monterey Bay a gold rating from the nation’s leading advocacy

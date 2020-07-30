@@ -4,7 +4,7 @@ title: "California Author Series: Belle Yang"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . With the determination to redevelop Chinatown, Salinas organizations and
   students from California State University, Monterey Bay, who teach the

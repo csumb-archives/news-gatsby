@@ -4,7 +4,7 @@ title: "October 31, 2007"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>CSUMB receives McNair Scholars grant</strong> &#45; The U.S.
   Department of Education has awarded CSUMB nearly $1 million in grant money to

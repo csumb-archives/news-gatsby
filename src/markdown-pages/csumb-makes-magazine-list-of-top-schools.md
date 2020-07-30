@@ -4,7 +4,7 @@ title: "CSUMB makes magazine list of top schools"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay fared well in the annual
   <a href="https://www.washingtonmonthly.com/college_guide/"

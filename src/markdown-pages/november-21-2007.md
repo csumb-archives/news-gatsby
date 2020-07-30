@@ -4,7 +4,7 @@ title: "November 21, 2007"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>CSUMB hosts chemistry competition</strong>? A team from Alisal High
   School placed first in the recent Monterey Bay Titration Competition sponsored

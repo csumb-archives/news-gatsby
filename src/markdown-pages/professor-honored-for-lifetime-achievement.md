@@ -4,7 +4,7 @@ title: "Professor honored for lifetime achievement"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor Yoshiko Saito-Abbott has been honored by her peers with a lifetime
   achievement award.

@@ -4,7 +4,7 @@ title: "Professor presents research in Brazil"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>It’s been a busy year for CSUMB professor Umi Vaughan.</p>
 <p>
   In April, his book,

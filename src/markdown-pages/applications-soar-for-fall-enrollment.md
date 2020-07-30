@@ -4,7 +4,7 @@ title: "Applications soar for fall enrollment"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A record number of students applied to attend CSU Monterey Bay in the fall
   2016 semester.

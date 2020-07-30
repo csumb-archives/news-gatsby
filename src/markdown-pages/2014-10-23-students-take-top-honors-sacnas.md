@@ -4,7 +4,7 @@ date: October 23 2014
 slug: students-take-top-honors-at-sacnas
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "CSUMB earns $32M NASA grant"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Next time there's a wildfire in California, consider the airplane mapping its
   perimeter could be part of a research project by CSU Monterey Bay scientists.

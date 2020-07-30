@@ -4,7 +4,7 @@ title: "Event examines economics of sustainability"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <a href="https://www.youtube.com/watch?v=hdaAeTts9tI"
     ><strong>WATCH**** A VIDEO OF THE EVENT</strong></a

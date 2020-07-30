@@ -4,7 +4,7 @@ date: December 5 2007
 slug: spotlight-on-staff
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 05, 2007 </span>
 <h4>New theater director is multi-talented</h4>
 <p>

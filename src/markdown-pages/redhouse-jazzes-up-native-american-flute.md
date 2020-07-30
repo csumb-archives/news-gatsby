@@ -4,7 +4,7 @@ title: "Redhouse jazzes up Native American flute"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>
   Workshop, concert, keynote address, panel discussion celebrate Heritage Month
   on Nov. 8

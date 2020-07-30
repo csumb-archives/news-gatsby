@@ -4,7 +4,7 @@ title: "Campus drives net more than a ton of people, pet food"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Concert patrons, students organize to help local community</h3>
 <p>
   Representatives from the Food Bank for Monterey County loaded hundreds of

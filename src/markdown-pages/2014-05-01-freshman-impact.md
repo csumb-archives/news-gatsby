@@ -4,7 +4,7 @@ date: May 1 2014
 slug: freshman-impact
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: December 3 2013
 slug: tune-in-to-thrills-and-chills
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "CSUMB plans nursing program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay is planning to offer a bachelor's degree in nursing starting
   next year. The program could be launched as early as summer 2012 and would

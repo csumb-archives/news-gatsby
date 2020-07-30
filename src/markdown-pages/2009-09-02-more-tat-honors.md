@@ -4,7 +4,7 @@ date: September 2 2009
 slug: more-honors-for-tat
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 02, 2009 </span>
 <p>Sept. 2, 2009</p>
 More honors for TAT

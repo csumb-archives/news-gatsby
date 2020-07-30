@@ -4,7 +4,7 @@ title: "Student government president learns about leadership"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>“It changed my life.”</p>
 <p>
   That’s how CSU Monterey Bay student body president Brett Roberts summed up his

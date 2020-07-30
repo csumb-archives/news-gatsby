@@ -4,7 +4,7 @@ title: "Magazine rankings highlight many university strengths"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay is one of the most racially diverse schools in its
   category, according to U.S. News &amp; World Report in the 2011 edition of

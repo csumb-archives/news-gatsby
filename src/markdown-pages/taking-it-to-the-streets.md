@@ -4,7 +4,7 @@ title: "Taking it to the streets"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   There isn’t an earthshaking reason to close 1.6 miles of city streets in
   Salinas on Oct. 25 – no hometown hero is visiting, no sports team won a

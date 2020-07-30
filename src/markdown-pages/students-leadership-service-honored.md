@@ -4,7 +4,7 @@ title: "Student's leadership, service honored"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 15, 2009</p>
 <p>
   CSU Monterey Bay senior Rachel Osias was honored Nov. 13 as the Outstanding

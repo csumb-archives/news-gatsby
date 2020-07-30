@@ -4,7 +4,7 @@ title: "Woods Tea Co. steeped in tradition"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 1, 2009</p>
 <p><strong>Folk group performs at World Theater Oct. 23</strong></p>
 <p>

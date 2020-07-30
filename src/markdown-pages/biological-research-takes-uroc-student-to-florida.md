@@ -4,7 +4,7 @@ title: "Biological research takes UROC student to Florida"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In early June, Marisa Morse of CSU Monterey Bay and seven other undergraduates
   from across the country arrived at the University of Florida's Whitney

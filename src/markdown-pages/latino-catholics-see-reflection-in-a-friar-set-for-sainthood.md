@@ -4,7 +4,7 @@ title: "Latino Catholics See Reflection in a Friar Set for Sainthood"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor Ruben Mendoza was quoted in a story in the New York Times about the
   canonization of Father Serra.

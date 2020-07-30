@@ -4,7 +4,7 @@ title: "CSUMB video wins CASE silver medal"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A video telling the story of CSUMB has taken a top honor in the CASE (Council
   for Advancement and Support of Education) Circle of Excellence competition.

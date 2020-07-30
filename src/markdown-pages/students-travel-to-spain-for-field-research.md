@@ -4,7 +4,7 @@ title: "Students travel to Spain for field research"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Six CSU Monterey Bay students spent part of their summer learning how to
   conduct oral history interviews in a rural community in Spain.

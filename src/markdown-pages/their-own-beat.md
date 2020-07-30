@@ -4,7 +4,7 @@ title: "Their own beat"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   San Jose Taiko will take the stage at California State University, Monterey
   Bay’s World Theater on March 7. Showtime is 8 p.m.

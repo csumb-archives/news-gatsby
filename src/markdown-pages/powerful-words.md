@@ -4,7 +4,7 @@ title: "Powerful words"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Monologues tell women's stories</h3>
 <p>The Vagina Monologues returns to CSU Monterey Bay Feb. 12, 13 and 14.</p>
 <p>

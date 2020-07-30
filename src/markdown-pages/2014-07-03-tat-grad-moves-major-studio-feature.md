@@ -4,7 +4,7 @@ date: July 3 2014
 slug: tat-grad-moves-up-to-major-studio-feature
 ---
 
-```html
+ 
 
 
 

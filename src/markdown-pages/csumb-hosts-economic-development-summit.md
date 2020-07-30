@@ -4,7 +4,7 @@ title: "CSUMB hosts economic development summit"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Learn how to build momentum with lean resources</h3>
 <p>
   City managers, elected officials and professionals who serve the business

@@ -4,7 +4,7 @@ title: "Owen named national coach of the year"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The season may be over, but CSUMB men's golf coach Jason Owen is still getting
   accolades.

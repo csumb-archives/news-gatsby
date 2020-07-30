@@ -4,7 +4,7 @@ title: "Former NAACP head to speak  at commencement"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Two ceremonies will be held May 21</p>
 <p>
   Ben Jealous, former head of the NAACP, will be the keynote speaker at CSU

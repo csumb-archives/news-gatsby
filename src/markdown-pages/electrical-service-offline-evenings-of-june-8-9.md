@@ -4,7 +4,7 @@ title: "Electrical service offline evenings of June 8-9"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   On the evenings of Tuesday and Wednesday, June 7 and 8, electrical service to
   some buildings on the main campus will be shut down in order to complete

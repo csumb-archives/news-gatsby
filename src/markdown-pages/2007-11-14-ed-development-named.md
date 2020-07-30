@@ -4,7 +4,7 @@ date: November 14 2007
 slug: ed-of-development-named
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 14, 2007 </span>
 <p>
   Michael W. Mahan has joined California State University, Monterey Bay as

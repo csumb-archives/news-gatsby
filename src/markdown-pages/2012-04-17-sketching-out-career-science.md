@@ -4,7 +4,7 @@ date: April 17 2012
 slug: sketching-out-a-career-in-science
 ---
 
-```html
+ 
 
 
 

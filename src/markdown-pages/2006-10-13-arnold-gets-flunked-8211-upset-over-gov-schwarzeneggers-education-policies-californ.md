@@ -5,7 +5,7 @@ date: October 13 2006
 slug: &gt;- arnold-gets-flunked-upset-over-gov.-schwarzeneggers-education-policies-california-college-students-are-coming-up-with-their-own-attack-ads
 ---
 
-```html
+ 
 
 
 

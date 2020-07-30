@@ -4,7 +4,7 @@ title: "MAD ABOUT MARIACHI"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In a musical genre dominated by men, Mariachi Reyna de Los Angeles has been
   breaking stereotypes and shaping new cultural traditions since 1994

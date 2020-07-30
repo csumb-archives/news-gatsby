@@ -4,7 +4,7 @@ title: "Grad student named state Sea Grant Fellow"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When Scott Toews completes his master’s degree in Coastal and Watershed
   Science and Policy this semester, he won’t have to worry about finding a job.

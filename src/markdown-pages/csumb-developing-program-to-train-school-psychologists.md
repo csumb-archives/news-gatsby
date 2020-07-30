@@ -4,7 +4,7 @@ title: "CSUMB developing program to train school psychologists"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>FEDERAL GRANT PROVIDES FUNDING</p>
 <p>
   CSU Monterey Bay has received $1.2 million from the U.S. Department of

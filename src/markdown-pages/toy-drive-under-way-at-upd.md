@@ -4,7 +4,7 @@ title: "Toy drive under way at UPD"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Each holiday season, the Crime Prevention Officers Association of Monterey
   County collects toys for children in need throughout the area.

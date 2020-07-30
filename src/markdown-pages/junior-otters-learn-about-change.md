@@ -4,7 +4,7 @@ title: "Junior Otters learn about change"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For the fifth year, California State University, Monterey Bay was host to the
   graduate exercises of the Junior Otter Program. The participate in English,

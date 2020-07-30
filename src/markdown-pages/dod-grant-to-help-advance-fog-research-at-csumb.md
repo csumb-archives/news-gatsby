@@ -4,7 +4,7 @@ title: "DoD Grant to Help Advance Fog Research at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Ca., Sept. 10, 2019 –</b> California State University, Monterey
   Bay (CSUMB) College of Science

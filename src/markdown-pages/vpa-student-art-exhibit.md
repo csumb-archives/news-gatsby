@@ -4,7 +4,7 @@ title: "VPA student art exhibit"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Show runs through Feb. 1</h4>
 <p>
   Two exhibitions will open in the art gallery at California State University,

@@ -4,7 +4,7 @@ title: "Professor heads to NEH summer institute"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 11, 2010</p>
 <p>
   Dr. Rebecca Bales has been selected to attend a summer institute for

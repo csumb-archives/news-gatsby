@@ -4,7 +4,7 @@ date: September 29 2014
 slug: csumb-to-add-sexual-assault-advocate
 ---
 
-```html
+ 
 
 
 

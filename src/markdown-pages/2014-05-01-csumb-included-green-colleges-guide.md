@@ -4,7 +4,7 @@ date: May 1 2014
 slug: csumb-included-in-&apos;green&apos;-colleges-guide
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "A Pearl of a Singer"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Perla Batalla brings her sublime voice to World Theater</h3>
 <p>One voice. Two languages. Many traditions.</p>
 <p>

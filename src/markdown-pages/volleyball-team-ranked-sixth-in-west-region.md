@@ -4,7 +4,7 @@ title: "Volleyball team ranked sixth in West Region"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 12, 2010</p>
 <p>
   INDIANAPOLIS – In the latest Division II regional rankings released by the

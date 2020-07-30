@@ -4,7 +4,7 @@ title: "Incredible run"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Renee Jimenez didn't actively recruit the best players in teh off-season.
   Instead she went after players that played on the best teams. "I hate to

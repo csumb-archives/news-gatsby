@@ -4,7 +4,7 @@ date: January 19 2011
 slug: apply-now-for-instructional-science-technology-program
 ---
 
-```html
+ 
 <span class="date">Posted on Jan 19, 2011 </span>
 <h3>Open house scheduled for Jan. 27 at CSUMB</h3>
 <p>

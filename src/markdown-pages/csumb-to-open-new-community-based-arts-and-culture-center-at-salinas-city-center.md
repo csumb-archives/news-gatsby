@@ -4,7 +4,7 @@ title: "CSUMB to Open New Community-Based Arts and Culture Center at Salinas Cit
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 23, 2017 – The CSUMB Salinas Center for Arts and Culture, a
   new community-based arts center, will hold a grand opening Wednesday, November

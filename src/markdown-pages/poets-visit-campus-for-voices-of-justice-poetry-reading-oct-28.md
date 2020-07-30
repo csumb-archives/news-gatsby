@@ -4,7 +4,7 @@ title: "Poets visit campus for Voices of Justice poetry reading Oct. 28"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 10, 2010</p>
 <p><strong>Francisco Alarcon among poets at CSUMB on Oct. 28</strong></p>
 <p>

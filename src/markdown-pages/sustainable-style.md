@@ -4,7 +4,7 @@ title: "SUSTAINABLE STYLE"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Clothing designer Alice Wu visits campus April 18</h3>
 <p>
   For more than a decade, Alice Wu, half of the fashion design team Feral

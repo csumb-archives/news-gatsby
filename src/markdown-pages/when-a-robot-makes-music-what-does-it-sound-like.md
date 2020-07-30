@@ -4,7 +4,7 @@ title: "When a robot makes music, what does it sound like?"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Find out at lecture, concert on April 12</h3>
 <p>
   The intersection of music and technology will be on display April 12 in the

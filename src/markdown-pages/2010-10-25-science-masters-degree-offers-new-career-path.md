@@ -4,7 +4,7 @@ date: October 25 2010
 slug: science-master&apos;s-degree-offers-new-career-path
 ---
 
-```html
+ 
 
 
 

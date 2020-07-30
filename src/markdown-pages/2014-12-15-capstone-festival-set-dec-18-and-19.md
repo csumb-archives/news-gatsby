@@ -4,7 +4,7 @@ date: December 15 2014
 slug: capstone-festival-set-for-dec.-18-and-19
 ---
 
-```html
+ 
 
 
 

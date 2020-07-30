@@ -4,7 +4,7 @@ title: "Coming to terms with the experience of combat"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Author discusses memoir Oct. 10 at CSUMB</h3>
 <p>
   As a Marine lieutenant during the Vietnam War, Karl Marlantes learned what

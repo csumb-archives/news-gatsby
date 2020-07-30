@@ -4,7 +4,7 @@ title: "Grad student earns Rote research grant"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   More will be known about raccoons, striped skunks, bobcats, foxes and other
   mammals that live on former Fort Ord lands as the result of a study by CSUMB

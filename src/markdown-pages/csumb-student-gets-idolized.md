@@ -4,7 +4,7 @@ title: "CSUMB student gets 'Idol'ized"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay student Stevie Rae Stephens auditioned for "American Idol" on
   FOX and will go to Hollywood for competition. – <em>Monterey Herald</em>, Feb.

@@ -4,7 +4,7 @@ date: January 24 2011
 slug: growing-up-weston-lecture-feb.-17
 ---
 
-```html
+ 
 
 
 

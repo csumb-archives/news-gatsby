@@ -4,7 +4,7 @@ title: "News Releases 2014"
 date: January 01 2020
 ---
 
-```html
+ 
 <p><strong>First class of nursing students gets 'pinned'</strong></p>
 <p>
   For one group of history&#45;making Cal State Monterey Bay graduates, it's not

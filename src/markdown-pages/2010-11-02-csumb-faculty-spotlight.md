@@ -4,7 +4,7 @@ date: November 2 2010
 slug: csumb-faculty-spotlight
 ---
 
-```html
+ 
 
 
 

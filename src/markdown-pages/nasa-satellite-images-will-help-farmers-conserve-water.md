@@ -4,7 +4,7 @@ title: "NASA Satellite Images Will Help Farmers Conserve Water"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Researchers at CSU Monterey Bay and NASA are testing a new way to help
   California farmers decide exactly how much water to use on their crops. It's a

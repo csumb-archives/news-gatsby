@@ -4,7 +4,7 @@ date: December 18 2007
 slug: a-year-in-review
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Dorothy'sSLProject"
 date: January 01 2020
 ---
 
-```html
+ 
 <h5>CSUMB program to facilitate planning for Soledad Street</h5>
 <p>
   Soledad Street in the former Chinatown area of Salinas is the site of vacant

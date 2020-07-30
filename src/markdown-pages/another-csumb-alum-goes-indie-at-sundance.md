@@ -4,7 +4,7 @@ title: "Another CSUMB alum goes indie at Sundance"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Graduates of the Teledramatic Arts and Technology program at CSU Monterey Bay
   continue to earn recognition and accolades for their work.

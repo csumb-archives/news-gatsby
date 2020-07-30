@@ -4,7 +4,7 @@ title: "President Ochoa’s welcome back from spring break video."
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   I praise the CSUMB community for the flexibility they have shown during this
   challenging time. I am proud of all of them for the great work that they are

@@ -4,7 +4,7 @@ title: "Application deadline fast approaching"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 24, 2009</p>
 <p>
   A Nov. 30 application deadline for students seeking admission to California

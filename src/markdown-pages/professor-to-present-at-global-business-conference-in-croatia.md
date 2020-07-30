@@ -4,7 +4,7 @@ title: "Professor to present at global business conference in Croatia"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Murray Millson, director of the MBA program and professor of marketing at
   CSUMB is leaving for Dubrovnic, Croatia, to continue his passion for lecturing

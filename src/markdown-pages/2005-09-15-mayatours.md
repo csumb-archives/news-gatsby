@@ -4,7 +4,7 @@ date: September 15 2005
 slug: mayatours
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 15, 2005 </span>
 <p>
   The map of Mexico is dotted with their strange sounding names. Palenque.

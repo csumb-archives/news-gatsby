@@ -4,7 +4,7 @@ title: "TAT graduate performs in Muppet movie"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>UPDATE</strong>: Danforth continued his Muppets adventure by working
   on the 2014 film, <em>Muppets Most Wanted.</em> He spent several weeks on the

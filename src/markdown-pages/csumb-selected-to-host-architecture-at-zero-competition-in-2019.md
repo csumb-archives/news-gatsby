@@ -4,7 +4,7 @@ title: "CSUMB Selected to Host Architecture at Zero Competition in 2019"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SAN FRANCISCO, Calif. August 10, 2018 </b>— Pacific Gas and Electric
   Company (PG&amp;E) and the American Institute of Architects, California

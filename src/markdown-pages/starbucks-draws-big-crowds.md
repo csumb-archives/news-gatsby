@@ -4,7 +4,7 @@ title: "Starbucks draws big crowds"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A steady stream of customers lined up for lattes, cappuccinos, mochas and just
   plain coffee when Starbucks opened in the Student Center on Jan. 23. The newly

@@ -4,7 +4,7 @@ title: "CSUMB alumni named to magazine's 'New Faces' list"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Filmmaker Magazine has honored CSUMB alumni Robert Machoian and Rodrigo
   Ojeda-Beck. The magazine, a quarterly devoted to independent film, named the

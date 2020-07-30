@@ -4,7 +4,7 @@ title: "CSUMB bikes, buses and carpools to victory"
 date: January 01 2020
 ---
 
-```html
+ 
 <p></p>
 <p>
   CSU Monterey Bay beat the competition to win its division in the annual

@@ -4,7 +4,7 @@ title: "Ag water quality topic of CSUMB forum"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Two months after the state water board approved rules for agricultural water
   quality, a panel of experts discussed a slew of ways the Salinas Valley could

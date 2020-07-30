@@ -4,7 +4,7 @@ date: February 12 2013
 slug: storytelling-step-by-step
 ---
 
-```html
+ 
 
 
 

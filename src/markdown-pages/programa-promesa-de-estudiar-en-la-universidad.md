@@ -4,7 +4,7 @@ title: "Programa Promesa de estudiar en la Universidad"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Estudiantes del sexton grado del distrito escolar de Salinas, visitan la
   Universidad Estatal de Monterey como parte del programa, University Promise,

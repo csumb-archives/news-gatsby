@@ -4,7 +4,7 @@ date: July 7 2014
 slug: teens-tackle-technology-at-summer-camp
 ---
 
-```html
+ 
 
 
 

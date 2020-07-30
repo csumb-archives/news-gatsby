@@ -4,7 +4,7 @@ date: September 10 2014
 slug: experience-japanese-tea-ceremony
 ---
 
-```html
+ 
 
 
 

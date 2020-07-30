@@ -4,7 +4,7 @@ title: "Corey Garza speaks at international marine science panel in Paris "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It’s been a busy summer for many CSUMB faculty. Corey Garza, a faculty member
   in the CSUMB Marine Science program, traveled to Paris in June and spoke at an

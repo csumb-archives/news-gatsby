@@ -4,7 +4,7 @@ title: "Faculty authors celebrate with reading"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The community is invited to join Cal State Monterey Bay faculty members Deb
   Busman and Umi Vaughan on April 15 as they celebrate the publication of their

@@ -4,7 +4,7 @@ title: "CSUMB President Eduardo M. Ochoa Recognized for Executive Excellence in 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., August 18, 2017 – California State University Monterey Bay
   (CSUMB) President Eduardo M. Ochoa has been announced as the 2017 Hispanic

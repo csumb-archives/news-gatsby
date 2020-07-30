@@ -4,7 +4,7 @@ title: "CSU Campuses Begin Accepting Fall 2018 Applications on October 1"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   (Sep. 21, 2017) – Beginning October 1, all 23 California State University
   (CSU) campuses will accept applications for admission to the fall 2018 term.

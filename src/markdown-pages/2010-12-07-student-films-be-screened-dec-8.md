@@ -4,7 +4,7 @@ date: December 7 2010
 slug: student-films-to-be-screened-dec.-8
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 07, 2010 </span>
 <p>
   Works by CSUMB student filmmakers will be on display at the Teledramatic Arts

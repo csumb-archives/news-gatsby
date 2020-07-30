@@ -4,7 +4,7 @@ date: February 5 2014
 slug: online-path-to-computer-science-degree-completion
 ---
 
-```html
+ 
 
 
 

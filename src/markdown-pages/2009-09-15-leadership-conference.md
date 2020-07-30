@@ -4,7 +4,7 @@ date: September 15 2009
 slug: students-learn-art-of-leadership
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 15, 2009 </span>
 <p>Sept. 15, 2009</p>
 Students learn art of leadership

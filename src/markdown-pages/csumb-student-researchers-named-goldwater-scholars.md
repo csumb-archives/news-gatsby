@@ -4,7 +4,7 @@ title: "CSUMB student researchers named Goldwater scholars"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Ca., April 17, 2020</b> - Two CSU Monterey Bay student researchers
   have been named 2020 Goldwater scholars. Nicholas Heyer and Samantha Miller,

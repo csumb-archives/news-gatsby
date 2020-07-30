@@ -4,7 +4,7 @@ title: "Campus input needed for master plan update"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Throughout 2015, Cal State Monterey Bay will work to update its campus master
   plan. The master plan provides a road map for growth and renewal of the

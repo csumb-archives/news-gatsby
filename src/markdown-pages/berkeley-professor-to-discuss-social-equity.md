@@ -4,7 +4,7 @@ title: "Berkeley professor to discuss social equity"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>John A. Powell visits campus Sept. 17</h3>
 <p>
   “Social Equity: New Policies for a New Reality” will be the topic under

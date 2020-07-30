@@ -4,7 +4,7 @@ date: November 12 2013
 slug: symposium-explores-serra-legacy-of-franciscan-missions
 ---
 
-```html
+ 
 
 
 

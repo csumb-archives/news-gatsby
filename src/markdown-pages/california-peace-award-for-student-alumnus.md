@@ -4,7 +4,7 @@ title: "California Peace Award for student, alumnus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A CSU Monterey student and an alumnus will be recognized by Assemblyman Luis
   Alejo as California Peace Award winners for the 30th Assembly District.

@@ -4,7 +4,7 @@ title: "Science dean named"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Andrew Lawson, interim dean of Science and Mathematics at Fresno State
   University, has been named dean of Cal State Monterey Bay’s College of

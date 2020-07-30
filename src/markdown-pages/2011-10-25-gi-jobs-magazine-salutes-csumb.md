@@ -4,7 +4,7 @@ date: October 25 2011
 slug: g.i.-jobs-magazine-salutes-csumb
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "CSUMB Undergrad Selected for Pre-Doctoral Scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Ca., August 1, 2019 – </b>Selena Velasquez, CSUMB
   <a href="https://csumb.edu/psychology">psychology </a>senior, and

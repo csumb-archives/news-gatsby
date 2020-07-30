@@ -4,7 +4,7 @@ title: "CSUMB professor works to increase diversity in geosciences"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Dr. Corey Garza is committed to increasing diversity in the geosciences.</p>
 <p>
   He was one of 30 participants invited by the National Science Foundation to

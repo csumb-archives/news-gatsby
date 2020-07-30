@@ -4,7 +4,7 @@ title: "Local effort makes great art"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cesar Chavez Library patrons and CSUMB students celebrated a semester's worth
   of service learning collaboration with an art opening at the library. Students

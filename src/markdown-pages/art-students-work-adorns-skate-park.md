@@ -4,7 +4,7 @@ title: "Art student's work adorns skate park"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Marina Skate Park is now adorned with a bright new mural, courtesy of Matt
   Floriani and his capstone project.

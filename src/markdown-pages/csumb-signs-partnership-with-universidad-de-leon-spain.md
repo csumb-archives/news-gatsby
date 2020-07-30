@@ -4,7 +4,7 @@ title: "CSUMB signs partnership with Universidad de Leon, Spain"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Dec. 8, 2016 – California State University Monterey Bay and
   Universidad de Leon, Spain signed a memorandum of understanding today creating

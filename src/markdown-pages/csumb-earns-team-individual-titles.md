@@ -4,7 +4,7 @@ title: "CSUMB earns team, individual titles"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The No. 4-ranked CSUMB men's golf team made it a clean sweep at the CCAA
   championships. The won the team title with a conference record score of

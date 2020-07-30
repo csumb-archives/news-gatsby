@@ -4,7 +4,7 @@ title: "CSUMB students earn NSF fellowships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Beth Alger and Elisabeth Carrillo have received Graduate Research Fellowships
   from the National Science Foundation totaling $138,000 each.

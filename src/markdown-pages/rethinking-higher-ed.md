@@ -4,7 +4,7 @@ title: "Rethinking Higher Ed"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It's SWOT time at CSU Monterey Bay. The exercise – Strengths, Weaknesses,
   Opportunities, Threats – started Sept. 5. It's the first step toward updating

@@ -4,7 +4,7 @@ date: September 16 2006
 slug: csumb-chief-maps-vision
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Athletics BLM Statement"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <i
     >This message was posted on social media on June 3, 2020 and was written by

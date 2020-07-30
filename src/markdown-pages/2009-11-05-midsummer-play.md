@@ -4,7 +4,7 @@ date: November 5 2009
 slug: classroom-becomes-stage-in
 ---
 
-```html
+ 
 
 
 

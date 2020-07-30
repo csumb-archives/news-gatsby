@@ -4,7 +4,7 @@ title: "Campus celebrates Chicano/Latino Heritage Month"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Sept. 15 through Oct. 15 is Chicano/Latino Heritage Month. During the month,
   the cultures and tradition of those who trace their roots to Spain, Mexico and

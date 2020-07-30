@@ -4,7 +4,7 @@ date: March 23 2006
 slug: comedy-pays-for-college
 ---
 
-```html
+ 
 
 
 

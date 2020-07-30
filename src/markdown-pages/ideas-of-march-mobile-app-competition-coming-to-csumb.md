@@ -4,7 +4,7 @@ title: "'Ideas of March' mobile app competition coming to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Opportunity for participants to create the next killer app</h3>
 <p>
   It’s innovative, intense and for those who thrive on creative competition, a

@@ -4,7 +4,7 @@ title: "College degree in three? Not a pipe dream"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Students from farmworker, working&#45;class families take part in ambitious
   computer science program.

@@ -4,7 +4,7 @@ title: "New Research Finds Human Impact is Leading to Higher Salinity Levels in 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Ca., December 14, 2018 –</b> A study conducted by California State
   University, Monterey Bay (CSUMB)

@@ -4,7 +4,7 @@ title: "Art students display their work"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In order to graduate, CSU Monterey Bay students in the Visual and Public Art
   Department create a capstone project – a sort of senior thesis of art. Mounted

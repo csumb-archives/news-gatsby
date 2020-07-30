@@ -4,7 +4,7 @@ date: July 19 2005
 slug: fog-catchers
 ---
 
-```html
+ 
 
 
 

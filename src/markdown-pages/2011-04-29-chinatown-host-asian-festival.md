@@ -4,7 +4,7 @@ date: April 29 2011
 slug: chinatown-to-host-asian-festival
 ---
 
-```html
+ 
 
 
 

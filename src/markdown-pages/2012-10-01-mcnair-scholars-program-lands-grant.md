@@ -4,7 +4,7 @@ date: October 1 2012
 slug: mcnair-scholars-program-lands-grant
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: April 17 2012
 slug: drawing-from-the-natural-world
 ---
 
-```html
+ 
 
 
 

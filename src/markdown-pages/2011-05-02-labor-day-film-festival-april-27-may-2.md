@@ -4,7 +4,7 @@ date: May 2 2011
 slug: tonight&amp;colon;-may-day-labor-film-festival
 ---
 
-```html
+ 
 <span class="date">Posted on May 02, 2011 </span>
 
 <h2>Keepin&#x2019; it Reel</h2>

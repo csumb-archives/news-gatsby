@@ -4,7 +4,7 @@ date: August 26 2014
 slug: csumb-charts-&apos;bold-course&apos;-for-next-decade
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Blader to present films in Sacramento"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 10, 2010</p>
 <p>
   Professor Enid Baxter Blader will show three of her video works at the Center

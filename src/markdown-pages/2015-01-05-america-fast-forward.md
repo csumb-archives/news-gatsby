@@ -4,7 +4,7 @@ date: January 5 2015
 slug: america-fast-forward
 ---
 
-```html
+ 
 
 
 

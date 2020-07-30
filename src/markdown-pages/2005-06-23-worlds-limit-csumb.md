@@ -4,7 +4,7 @@ date: June 23 2005
 slug: the-world&apos;s-the-limit-for-csumb
 ---
 
-```html
+ 
 
 
 

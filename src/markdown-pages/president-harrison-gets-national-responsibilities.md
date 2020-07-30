@@ -4,7 +4,7 @@ title: "President Harrison gets national responsibilities"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB President Dianne Harrison has recently accepted several positions with
   national organizations.

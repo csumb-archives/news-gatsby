@@ -4,7 +4,7 @@ title: "Monologues tell women's stories"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Vagina Monologues returns to CSU Monterey Bay Feb. 11, 12 and 13. The play
   has received rave reviews in San Francisco, Los Angeles and New York. Written

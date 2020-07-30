@@ -4,7 +4,7 @@ date: September 21 2009
 slug: state-of-the-university-address-set-for-thursday
 ---
 
-```html
+ 
 
 
 

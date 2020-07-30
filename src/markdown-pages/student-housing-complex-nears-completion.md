@@ -4,7 +4,7 @@ title: "Student housing complex nears completion"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>PROMONTORY SET TO OPEN IN THE FALL</p>
 <p>
   Rising to the north of campus is a four&#45;story student housing complex, set

@@ -4,7 +4,7 @@ title: "Alcohol Awareness Week at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 29, 2009</p>
 <p>
   During the week of Oct. 11, students at California State University, Monterey

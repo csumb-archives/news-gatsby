@@ -4,7 +4,7 @@ title: "BLUE GOES GREEN"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>The University Police Department gets CSUMB's first all-electric vehicle.</p>
 <p>
   CSU Monterey Bay’s Police Department has joined a growing number of law

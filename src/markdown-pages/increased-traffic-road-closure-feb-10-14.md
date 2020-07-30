@@ -4,7 +4,7 @@ title: "Increased traffic, road closure Feb. 10-14"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The AT&amp;T Pebble Beach Pro&#45;Am golf tournament begins Feb. 10. The
   campus community should be aware of the increased traffic in the area during

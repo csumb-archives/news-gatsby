@@ -4,7 +4,7 @@ date: September 22 2010
 slug: professor-honored-for-editorial-excellence
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 22, 2010 </span>
 <p>
   Kinesiology professor Kent Adams was honored by the National Strength and

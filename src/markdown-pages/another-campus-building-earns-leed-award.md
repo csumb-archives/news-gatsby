@@ -4,7 +4,7 @@ title: "Another campus building earns LEED award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Dining Commons at CSU Monterey Bay is the university's second project to
   earn the U.S. Green Building Council's prestigious Leadership in Energy and

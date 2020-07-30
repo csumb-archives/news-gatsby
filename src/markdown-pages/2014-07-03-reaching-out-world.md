@@ -4,7 +4,7 @@ date: July 3 2014
 slug: reaching-out-to-the-world
 ---
 
-```html
+ 
 
 
 

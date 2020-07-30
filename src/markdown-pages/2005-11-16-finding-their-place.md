@@ -4,7 +4,7 @@ date: November 16 2005
 slug: finding-their-place
 ---
 
-```html
+ 
 
 
 

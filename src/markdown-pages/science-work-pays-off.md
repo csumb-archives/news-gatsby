@@ -4,7 +4,7 @@ title: "Science work pays off"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Four undergraduates, alumna earn NSF fellowships</p>
 <p>
   Josh Smith, April Makukov, Christina Villalobos, Andrea Valdez and Lydia

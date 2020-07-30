@@ -4,7 +4,7 @@ title: "CSUMB's purchase of Steinbeck Center supported"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   School districts in Salinas are lining up in support of a deal to sell the
   National Steinbeck Center to CSU Monterey Bay. –

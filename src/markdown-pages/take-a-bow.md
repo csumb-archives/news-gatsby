@@ -4,7 +4,7 @@ title: "TAKE A BOW"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Students to be honored for academic excellence</p>
 <p>
   CSU Monterey Bay will hold its annual honors convocation May 20, recognizing

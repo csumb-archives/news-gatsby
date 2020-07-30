@@ -4,7 +4,7 @@ title: "CSUMB new home to Summer Arts program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>Prestigious program moves to campus in 2012</strong> CSUMB is the new
   home of CSU Summer Arts. Starting next year, the annual month-long program

@@ -4,7 +4,7 @@ title: "Students showcase and network at School of Natural Sciences event"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB students took their knowledge, applied it to research and presented the
   results to potential employers recently.

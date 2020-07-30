@@ -4,7 +4,7 @@ date: December 12 2007
 slug: thinkfinity
 ---
 
-```html
+ 
 
 
 

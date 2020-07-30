@@ -4,7 +4,7 @@ title: "Expo urges melding of art, technology"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . First-semester communication design students at CSU Monterey Bay are
   using high-tech software to create a virtual, 3-D model of Fort Ord that can

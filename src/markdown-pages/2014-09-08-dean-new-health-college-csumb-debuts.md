@@ -4,7 +4,7 @@ date: September 8 2014
 slug: dean-of-new-health-college-at-csumb-debuts
 ---
 
-```html
+ 
 
 
 

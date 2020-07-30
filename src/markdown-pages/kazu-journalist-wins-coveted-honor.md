@@ -4,7 +4,7 @@ title: "KAZU journalist wins coveted honor"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 12, 2010</p>
 <h4>Almanzan recognized by news group for second consecutive year</h4>
 <p>

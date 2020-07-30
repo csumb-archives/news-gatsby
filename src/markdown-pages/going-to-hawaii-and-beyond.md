@@ -4,7 +4,7 @@ title: "Going to Hawaii and beyond"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . The work was facilitated through the Undergraduate Research
   Opportunities Center at CSUMB. Undergraduate research can help students find a

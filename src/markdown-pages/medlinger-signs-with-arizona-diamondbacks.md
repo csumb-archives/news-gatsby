@@ -4,7 +4,7 @@ title: "Medlinger signs with Arizona Diamondbacks"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB senior Donny Medlinger signed a free-agent contract with the Arizona
   Diamondbacks and will report to Salt River Fields near Scottsdale for extended

@@ -4,7 +4,7 @@ title: "CSUMB Student Erin Mansel Named Forbes Under 30 Scholar"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., November 15, 2019 – CSUMB
   <a href="https://csumb.edu/cinearts">Cinematic Arts and Technology</a> major

@@ -4,7 +4,7 @@ title: "Are these Salinas Valley students what Silicon Valley needs?"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   As most college kids are getting ready for their winter classes, students who
   want a career in tech are busy preparing for summer. Right now they're

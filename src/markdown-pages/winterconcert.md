@@ -4,7 +4,7 @@ title: "WinterConcert"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Community invited to Winter Concert Dec. 5</h4>
 <p>
   The Music and Performing Arts Department will present its annual winter

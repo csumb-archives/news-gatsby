@@ -4,7 +4,7 @@ title: "Academy makes algebra fun for 8th graders"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Fifty-three students from Rolling Hills Middle School in Watsonville
   voluntarily spent their last week of winter break studying algebra – and

@@ -4,7 +4,7 @@ title: "Gardens of Hope"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2></h2>
 <p>Chinatown community garden</p>
 <h2>Federal grant provides support for Community Food Project</h2>

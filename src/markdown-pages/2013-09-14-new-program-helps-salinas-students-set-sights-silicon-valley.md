@@ -4,7 +4,7 @@ date: September 14 2013
 slug: new-program-helps-salinas-students-set-sights-on-silicon-valley
 ---
 
-```html
+ 
 
 
 

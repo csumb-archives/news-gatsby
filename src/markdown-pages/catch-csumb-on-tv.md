@@ -4,7 +4,7 @@ title: "Catch CSUMB on TV"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In partnership with KCBA Fox 35, the university is producing a weekly
   television program, “Campus to Community.” It’s part of CSUMB’s commitment to

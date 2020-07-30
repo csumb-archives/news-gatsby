@@ -4,7 +4,7 @@ date: April 11 2014
 slug: marine-debris-how-do-you-pitch-in
 ---
 
-```html
+ 
 <span class="date">Posted on Apr 11, 2014 </span>
 
 <h3>Annual Sanctuary Currents symposium set for April 26</h3>

@@ -4,7 +4,7 @@ title: "Beyond rhythm"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Master of the mbira celebrates melody, harmony in African music</h3>
 <p>
   CSU Monterey Bay’s concert series continues on Oct. 24 when the community is

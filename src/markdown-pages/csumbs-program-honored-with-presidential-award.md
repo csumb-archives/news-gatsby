@@ -4,7 +4,7 @@ title: "CSUMB's program honored with Presidential award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay has again been recognized for its community service program.
   The university has received the Presidential Award as part of the 2010

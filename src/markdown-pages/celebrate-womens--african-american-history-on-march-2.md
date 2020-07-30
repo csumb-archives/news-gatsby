@@ -4,7 +4,7 @@ title: "Celebrate Women’s & African-American History on March 2"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Many would call it a time of reflection. Others, a time of learning.</p>
 <p>
   February is African&#45;American History Month. March is Women’s History

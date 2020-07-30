@@ -4,7 +4,7 @@ title: "Dia de los Muertos 2009"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Art class honors the dead, celebrates life</h4>
 <p>
   When Dia de los Muertos, or Day of the Dead, arrives, family members of

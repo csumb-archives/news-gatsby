@@ -4,7 +4,7 @@ date: September 19 2012
 slug: garden-of-hope
 ---
 
-```html
+ 
 
 
 

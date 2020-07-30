@@ -4,7 +4,7 @@ title: "Tonight: May Day labor film festival"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Keepin’ it Reel</h2>
 <p>
   CSU Monterey Bay has hosted several events as part of the 10th annual Reel

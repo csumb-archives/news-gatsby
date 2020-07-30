@@ -4,7 +4,7 @@ title: "Marine science student’s work honored at research competition"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Outstanding research by CSU Monterey Bay students on topics ranging from bat
   foraging to visitor engagement at museums was presented at a competition in

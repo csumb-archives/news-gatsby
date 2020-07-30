@@ -4,7 +4,7 @@ title: "CSUMB launches mobile website"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB has launched a mobile version of its website – complete with news,
   sports, event listings and dining hall hours – accessible at csumb.edu/mobile.

@@ -4,7 +4,7 @@ date: July 20 2012
 slug: domestic-exchange-students-discover-their-own-country
 ---
 
-```html
+ 
 
 
 

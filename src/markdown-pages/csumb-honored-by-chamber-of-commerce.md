@@ -4,7 +4,7 @@ title: "CSUMB honored by Chamber of Commerce"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Monterey Peninsula Chamber of Commerce honored California State
   University, Monterey Bay at the Business Excellence Awards dinner July 18.

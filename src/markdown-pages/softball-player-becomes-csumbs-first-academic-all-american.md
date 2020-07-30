@@ -4,7 +4,7 @@ title: "Softball player becomes CSUMB's first Academic All-American"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Jamie Moon named to the Capital One Academic All-America® third team</h4>
 <p>By Kevin Gilmore</p>
 <p>

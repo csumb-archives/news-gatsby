@@ -4,7 +4,7 @@ title: "Booting Up Business"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   So you have an idea better than Velcro but don't know how to make it stick.
   Maybe you need an entrepreneurial kick in the butt. That's where Startup

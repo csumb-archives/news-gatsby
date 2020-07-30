@@ -4,7 +4,7 @@ date: January 14 2011
 slug: huffington-post&amp;colon;-csumb-&apos;forwardthinking&apos;
 ---
 
-```html
+ 
 <span class="date">Posted on Jan 14, 2011 </span>
 
 <p>CSU Monterey Bay has gotten a prominent mention by a blogger for

@@ -4,7 +4,7 @@ title: "CSUMB featured in book on undergraduate research"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Whether at a field site or in a lab, the chance to conduct research is a
   game-changer when it comes to earning a degree. Staff members of CSU Monterey

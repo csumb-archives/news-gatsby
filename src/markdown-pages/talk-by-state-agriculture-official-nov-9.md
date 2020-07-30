@@ -4,7 +4,7 @@ title: "Talk by state agriculture official Nov. 9"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>A GREATER VISION CSUMB forum on ‘The Two Ecos: Economics and Ecosystem’</h3>
 <p>
   The “Greater Vision” series of public forums on topics important to local

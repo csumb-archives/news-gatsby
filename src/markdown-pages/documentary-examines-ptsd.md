@@ -4,7 +4,7 @@ title: "Documentary examines PTSD"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Director will attend May 11 campus screening</p>
 <p>
   <em>Buried Above Ground</em>, a documentary that tracks the lives of three

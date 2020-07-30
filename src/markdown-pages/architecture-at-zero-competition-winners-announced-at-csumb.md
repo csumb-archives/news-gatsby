@@ -4,7 +4,7 @@ title: "Architecture at Zero Competition Winners Announced at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., March 1, 2019 – The American Institute of Architects, California
   (AIACA) announced the winners of the eighth annual

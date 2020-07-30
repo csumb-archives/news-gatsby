@@ -4,7 +4,7 @@ date: October 17 2005
 slug: getting-wired-at-csumb
 ---
 
-```html
+ 
 
 
 

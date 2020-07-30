@@ -4,7 +4,7 @@ date: November 1 2012
 slug: alum-helps-others-heal-war-wounds-through-environmental-activism
 ---
 
-```html
+ 
 
 
 

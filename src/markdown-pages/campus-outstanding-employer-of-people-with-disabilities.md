@@ -4,7 +4,7 @@ title: "Campus 'outstanding employer' of people with disabilities"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay began with infrastructure built for able-bodied military
   members. Those facilities were in place decades before the Americans with

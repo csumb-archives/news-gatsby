@@ -4,7 +4,7 @@ date: February 17 2014
 slug: cal-state-monterey-recruiting-at-local-churches
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Students inspire couple to help"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Two UROCers get research support</h3>
 <p>
   Two more CSU Monterey Bay students have benefitted from the generosity of

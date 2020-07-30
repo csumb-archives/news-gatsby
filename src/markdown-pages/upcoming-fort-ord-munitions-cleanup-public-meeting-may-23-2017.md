@@ -4,7 +4,7 @@ title: "Upcoming Fort Ord Munitions Cleanup: Public Meeting May 23, 2017"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Munitions cleanup activities will begin in the northern portion of the Fort
   Ord National Monument in June 2017. The U.S. Army is hosting a public kickoff

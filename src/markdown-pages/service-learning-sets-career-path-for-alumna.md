@@ -4,7 +4,7 @@ title: "Service learning sets career path for alumna"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Service learning experiences at CSU Monterey Bay ended up setting a direction
   in life for Lauren Goodwin.

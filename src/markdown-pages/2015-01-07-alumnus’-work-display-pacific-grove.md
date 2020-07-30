@@ -4,7 +4,7 @@ date: January 7 2015
 slug: alumnus-work-on-display-in-pacific-grove
 ---
 
-```html
+ 
 
 
 

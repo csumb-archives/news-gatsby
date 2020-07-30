@@ -4,7 +4,7 @@ date: October 4 2006
 slug: csumb-digs-in-university-breaks-ground-for-its-new-library
 ---
 
-```html
+ 
 
 
 

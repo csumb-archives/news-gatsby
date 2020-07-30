@@ -4,7 +4,7 @@ date: November 8 2009
 slug: fire-and-ink
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 08, 2009 </span>
 <fieldset class="fieldgroup group-attachments">
   <legend>Attachments</legend>

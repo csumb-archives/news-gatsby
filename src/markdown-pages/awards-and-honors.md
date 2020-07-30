@@ -4,7 +4,7 @@ title: "Awards and Honors"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Jim Raines, chair of the Department of Health, Human Services and Public
   Policy, won this year’s Gary Lee Shaffer Award for Academic Contributions to

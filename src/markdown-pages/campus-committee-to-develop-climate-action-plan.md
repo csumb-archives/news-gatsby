@@ -4,7 +4,7 @@ title: "Campus committee to develop Climate Action Plan"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A newly reformed committee at CSU Monterey Bay is continuing to develop a
   Climate Action Plan that will eventually result in achieving the goal of zero

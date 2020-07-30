@@ -4,7 +4,7 @@ title: "Budget message from President Harrison"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <em
     >CSU Monterey Bay President Dianne Harrison sent this message to the campus

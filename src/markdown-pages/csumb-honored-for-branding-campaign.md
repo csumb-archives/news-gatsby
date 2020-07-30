@@ -4,7 +4,7 @@ title: "CSUMB honored for branding campaign"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB has earned an Award of Excellence from the Council for the Advancement
   and Support of Education (CASE) for its branding campaign launched in the fall

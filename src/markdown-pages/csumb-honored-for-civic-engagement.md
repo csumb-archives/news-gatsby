@@ -4,7 +4,7 @@ title: "CSUMB honored for civic engagement"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay has earned the Higher Education
   Civic Engagement Award presented by The Washington Center and the New York

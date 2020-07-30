@@ -4,7 +4,7 @@ title: "Building a vision"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay looks toward its future with a final draft of its master plan
   circulating throughout campus. The plan sets a blueprint for growth and

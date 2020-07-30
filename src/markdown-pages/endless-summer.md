@@ -4,7 +4,7 @@ title: "Endless Summer"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In late June, a Broadway star, several Grammy-nominated musicians, an
   enigmatic sound sculptor, an award-winning graphic designer, a team of

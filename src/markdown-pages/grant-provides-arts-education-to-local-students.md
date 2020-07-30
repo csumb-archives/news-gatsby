@@ -4,7 +4,7 @@ title: "Grant provides arts education to local students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Summer Arts received a $10,000 grant from the National Endowment for the
   Arts to benefit local youngsters and their families.

@@ -4,7 +4,7 @@ date: December 1 2007
 slug: packard-foundation
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 01, 2007 </span>
 <h4>Gift to help with library construction</h4>
 <p>

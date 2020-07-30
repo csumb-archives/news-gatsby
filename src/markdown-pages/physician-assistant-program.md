@@ -4,7 +4,7 @@ title: "Physician assistant program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In a few years – 2019 is the target date – CSU Monterey Bay expects to launch
   a new master's degree program that will produce medical professionals known as

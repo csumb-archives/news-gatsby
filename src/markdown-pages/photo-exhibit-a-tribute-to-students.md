@@ -4,7 +4,7 @@ title: "Photo exhibit a 'tribute' to students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   “Archaeology on the Edge of Empire,” an exhibit of photographs by Professor
   Ruben Mendoza, is on display in the Student Center.

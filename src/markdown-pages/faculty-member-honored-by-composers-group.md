@@ -4,7 +4,7 @@ title: "Faculty member honored by composers group"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It’s been a productive year for CSU Monterey Bay music lecturer Lanier
   Sammons. During the last 12 months, he’s won awards from two national

@@ -4,7 +4,7 @@ title: "CSUMB researchers hatch a biological machine to clean farm runoff"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . This is the field laboratory of CSUMB environmental science lecturers
   John Skardon and John Silveus and their six students. They're trying to find

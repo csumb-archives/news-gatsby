@@ -4,7 +4,7 @@ title: "Acting out against sexual assault"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Call it an innovative approach to tackling a sensitive subject.</p>
 <p>
   On Sept. 2, an acting troupe, Catharsis Productions, will make its first

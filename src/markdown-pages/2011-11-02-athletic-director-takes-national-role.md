@@ -4,7 +4,7 @@ date: November 2 2011
 slug: athletic-director-takes-on-national-role
 ---
 
-```html
+ 
 
 
 

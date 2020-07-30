@@ -4,7 +4,7 @@ title: "Seed lending library takes root"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The seed lending library was first proposed a few years ago, and then
   implemented with CSU Monterey Bay environmental studies major Heather

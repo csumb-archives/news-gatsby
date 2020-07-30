@@ -4,7 +4,7 @@ title: "President cites accomplishments, challenges in annual address"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   President Dianne Harrison told the faculty and staff of CSU Monterey Bay that
   she senses “a powerful momentum across the campus” as the new academic year

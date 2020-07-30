@@ -4,7 +4,7 @@ title: "Department veteran named new campus police chief"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Earl Lawson is the university’s new chief of police. Lawson served in a number
   of important roles since joining the University Police Department in 1995,

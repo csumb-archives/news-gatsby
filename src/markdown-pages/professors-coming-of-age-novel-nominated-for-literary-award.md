@@ -4,7 +4,7 @@ title: "Professor’s coming-of-age novel nominated for literary award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor Deb Busman’s novel <em>Like a Woman</em> is a finalist for a
   <a

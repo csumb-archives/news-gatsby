@@ -4,7 +4,7 @@ title: "CSUMB finishes Steinbeck Center buy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   More than a year after it was first proposed, the purchase of the National
   Steinbeck Center by CSUMB has been finalized. “This is our front door to

@@ -4,7 +4,7 @@ title: "Alum earns California Sea Grant fellowship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Patrick Mulcahy, a 2015 graduate of CSU Monterey Bay’s master’s program in
   <a href="https://csumb.edu/amws">applied marine and watershed science</a>, has

@@ -4,7 +4,7 @@ title: "2016 CSUMB Holiday Donation Guide"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dec. 1, 2016 --Whether you’re looking to donate toys or time, here is a list
   of all the opportunities around CSUMB to help everyone in our community enjoy

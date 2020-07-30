@@ -4,7 +4,7 @@ title: "Summer Arts brings artistic stardom to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For the first time since its inception in 1985, CSU Summer Arts will reside at
   CSU Monterey Bay, bringing an artistic explosion to Monterey County. On July

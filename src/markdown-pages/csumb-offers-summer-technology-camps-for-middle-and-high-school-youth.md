@@ -4,7 +4,7 @@ title: "CSUMB Offers Summer Technology Camps for Middle and High School Youth"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., June 1, 2017 – CSUMB’s Institute for Innovation and Economic
   Development will host two uniquely tailored technology camps this summer for

@@ -4,7 +4,7 @@ title: 'CSUMB Bachelor of Science in Nursing Program Receives CCNE Accreditation
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 28, 2016 -- CSU Monterey Bay’s Bachelor of Science in
   Nursing (BSN) is now the only Commission on Collegiate Nursing Education

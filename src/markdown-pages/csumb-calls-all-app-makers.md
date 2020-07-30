@@ -4,7 +4,7 @@ title: "CSUMB calls all app makers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The next time you search for the latest smart phone application, CSU Monterey
   Bay hopes a local student designed it. – <em>San Jose Mercury News</em>, Feb.

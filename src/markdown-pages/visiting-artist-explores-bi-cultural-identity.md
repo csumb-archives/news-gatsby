@@ -4,7 +4,7 @@ title: "Visiting artist explores bi-cultural identity"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Julio Morales visits CSUMB Sept. 27</h3>
 <p>
   Cultures collide in the work of Julio Cesar Morales, a San Francisco-based

@@ -4,7 +4,7 @@ title: "Professor, students land grant to teach about missions"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay archeology professor Ruben Mendoza teamed with two
   students to land a National Endowment for the Humanities grant to teach

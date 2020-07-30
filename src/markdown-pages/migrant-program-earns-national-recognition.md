@@ -4,7 +4,7 @@ title: "Migrant program earns national recognition"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay has been honored as among the best campuses in the country at
   helping migrant students succeed in college.

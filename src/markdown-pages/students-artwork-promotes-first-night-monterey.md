@@ -4,7 +4,7 @@ title: "Student's artwork promotes First Night Monterey"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Images of musicians and dancers are popping up around the local area as
   publicity for First Night Monterey. The artwork was produced by CSU Monterey

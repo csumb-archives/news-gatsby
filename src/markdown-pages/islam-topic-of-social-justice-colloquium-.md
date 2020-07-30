@@ -4,7 +4,7 @@ title: "Islam topic of Social Justice Colloquium "
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Islam in Dialogue: Feminism, Interfaith</h2>
 <p>
   This year’s Social Justice Colloquium at CSU Monterey Bay will feature a pair

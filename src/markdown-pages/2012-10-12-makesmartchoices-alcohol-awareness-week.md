@@ -4,7 +4,7 @@ date: October 12 2012
 slug: makesmartchoices-for-alcohol-awareness-week
 ---
 
-```html
+ 
 <span class="date">Posted on Oct 12, 2012 </span>
 
 <h3>Weeklong campaign starts Oct. 15 at CSUMB</h3>

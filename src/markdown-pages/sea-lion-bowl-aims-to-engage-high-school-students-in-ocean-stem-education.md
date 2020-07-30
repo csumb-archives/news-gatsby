@@ -4,7 +4,7 @@ title: "‘Sea Lion Bowl’ Aims to Engage High School Students in Ocean STEM Ed
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., January 28, 2019 -- Thirteen high schools from Northern and
   Central California are set to compete in the regional component of the

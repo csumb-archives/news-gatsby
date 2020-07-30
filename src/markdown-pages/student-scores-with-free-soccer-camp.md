@@ -4,7 +4,7 @@ title: "Student scores with free soccer camp"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A service-learning project of a student at California State University,
   Monterey Bay has evolved into a regularly scheduled recreational program for

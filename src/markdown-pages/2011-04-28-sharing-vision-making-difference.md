@@ -4,7 +4,7 @@ date: April 28 2011
 slug: sharing-a-vision-making-a-difference
 ---
 
-```html
+ 
 
 
 

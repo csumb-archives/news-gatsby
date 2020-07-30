@@ -4,7 +4,7 @@ title: "Infuse technology into learning"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay invites the public to learn about
   the master’s degree program in Instructional Science and Technology (MIST) at

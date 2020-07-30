@@ -4,7 +4,7 @@ date: September 30 2009
 slug: csumb-pledges-to-be-carbon-neutral-by-2030
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 30, 2009 </span>
 <p>Sept. 30, 2009</p>
 <strong>CSUMB pledges to be carbon neutral by 2030</strong>

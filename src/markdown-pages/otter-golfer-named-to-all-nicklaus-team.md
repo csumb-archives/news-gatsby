@@ -4,7 +4,7 @@ title: "Otter golfer named to All-Nicklaus team"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   John Jackson was named to the 2011 All-Nicklaus team, announced last week by
   the Golf Coaches Association of America.

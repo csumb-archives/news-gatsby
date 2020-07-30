@@ -4,7 +4,7 @@ title: "Classes, camps, conferences – summer at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>CSU SUMMER ARTS HIGHLIGHTS ACTIVITIES</p>
 <p>
   Especially on foggy days, visitors can be excused for thinking that CSU

@@ -4,7 +4,7 @@ date: November 4 2014
 slug: innovation-and-big-data
 ---
 
-```html
+ 
 
 
 

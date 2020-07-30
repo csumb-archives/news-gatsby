@@ -4,7 +4,7 @@ date: July 3 2012
 slug: acidification-and-summer-vacation
 ---
 
-```html
+ 
 
 
 

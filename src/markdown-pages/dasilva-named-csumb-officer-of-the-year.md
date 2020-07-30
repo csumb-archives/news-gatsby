@@ -4,7 +4,7 @@ title: "DaSilva named CSUMB Officer of the Year"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Matt DaSilva has been named the university police department's Officer of the
   Year for 2009.

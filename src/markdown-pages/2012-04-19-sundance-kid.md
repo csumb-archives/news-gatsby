@@ -4,7 +4,7 @@ date: April 19 2012
 slug: sundance-kid
 ---
 
-```html
+ 
 
 
 

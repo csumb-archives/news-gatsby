@@ -4,7 +4,7 @@ title: "Commencement 2019 By The Numbers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay (CSUMB) will hold its 23rd
   commencement ceremony on <b>Friday May 17, and Saturday May 18, 2019</b> at

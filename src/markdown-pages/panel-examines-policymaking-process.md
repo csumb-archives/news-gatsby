@@ -4,7 +4,7 @@ title: "Panel examines policymaking process"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Dec. 3, 2009</p>
 <p>
   The Master's of Public Policy program at CSU Monterey Bay is sponsoring a

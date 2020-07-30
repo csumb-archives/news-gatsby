@@ -4,7 +4,7 @@ date: March 6 2014
 slug: one-man&apos;s-fight-to-stop-street-violence
 ---
 
-```html
+ 
 
 
 

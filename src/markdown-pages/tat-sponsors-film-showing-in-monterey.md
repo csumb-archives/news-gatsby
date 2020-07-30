@@ -4,7 +4,7 @@ title: "TAT sponsors film showing in Monterey"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>An insider’s look at Seattle’s outsider poet</h3>
 <p>
   The Teledramatic Arts and Technology Department at CSU Monterey Bay will

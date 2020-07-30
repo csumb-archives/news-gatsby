@@ -4,7 +4,7 @@ title: "Local bands on stage at World Theater"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>March 8 concert rocks and rolls with local connections</h3>
 <p>
   The World Theater at CSU Monterey Bay will offer a special treat for its

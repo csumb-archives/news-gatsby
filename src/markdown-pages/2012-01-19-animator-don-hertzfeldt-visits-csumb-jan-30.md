@@ -4,7 +4,7 @@ date: January 19 2012
 slug: animator-don-hertzfeldt-visits-csumb-jan.-30
 ---
 
-```html
+ 
 
 
 

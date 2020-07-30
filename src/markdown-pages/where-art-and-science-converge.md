@@ -4,7 +4,7 @@ title: "Where art and science converge"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>April 19, 2010</p>
 <p>*******Illustration students exhibit at Natural History Museum***</p>
 <p>

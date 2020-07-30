@@ -4,7 +4,7 @@ date: October 25 2010
 slug: lecturer&apos;s-book-released-in-china
 ---
 
-```html
+ 
 <span class="date">Posted on Oct 25, 2010 </span>
 <p>
   The first university textbook on human sexuality to be published in China was

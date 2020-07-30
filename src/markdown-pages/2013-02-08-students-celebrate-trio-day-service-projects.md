@@ -4,7 +4,7 @@ date: February 8 2013
 slug: students-celebrate-trio-day-with-service-projects
 ---
 
-```html
+ 
 
 
 

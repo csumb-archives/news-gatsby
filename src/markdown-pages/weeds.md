@@ -4,7 +4,7 @@ title: "Weeds"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Volunteers are needed to help the Return of the Natives Project at California
   State University, Monterey Bay, get rid of invasive weeds in Natividad Creek

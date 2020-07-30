@@ -4,7 +4,7 @@ title: "Sea Otter Awareness Week comes to campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Sea otter fans – that’s sea otter as in Enhydra lutris, not Monte Rey – it’s
   your time of year.

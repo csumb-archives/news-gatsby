@@ -4,7 +4,7 @@ date: September 27 2013
 slug: sierra-club-names-csumb-a-&apos;cool-school&apos;
 ---
 
-```html
+ 
 
 
 

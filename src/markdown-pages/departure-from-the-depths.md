@@ -4,7 +4,7 @@ title: "Departure from the depths"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Imagine if, over a decade, San Francisco Bay lost enough sediment to fill
   about 5,000 Olympic swimming pools with sand and gravel, and some mud.

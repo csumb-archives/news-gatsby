@@ -4,7 +4,7 @@ date: February 18 2012
 slug: photographer-of-mlk-visits-campus-feb.-28
 ---
 
-```html
+ 
 
 
 

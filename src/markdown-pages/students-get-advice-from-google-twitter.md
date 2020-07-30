@@ -4,7 +4,7 @@ title: "Students get advice from Google, Twitter"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . . It is the second year that CSUMB students looking to enter the fierce
   world of Silicon Valley computing heard from experts long before they start

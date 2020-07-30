@@ -4,7 +4,7 @@ title: "More honors for archaeology professor"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor Ruben Mendoza has been selected to deliver the keynote address at
   the annual meeting of the California Mission Studies Association (CMSA). The

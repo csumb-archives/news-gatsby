@@ -4,7 +4,7 @@ title: "Psychology students get real-world experience"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Kinship Center collaborates with CSUMB</h3>
 <p>
   Cal State Monterey Bay faculty member Kathryn England-Aytes believes in the

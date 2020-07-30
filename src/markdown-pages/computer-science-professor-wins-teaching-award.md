@@ -4,7 +4,7 @@ title: "Computer science professor wins teaching award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Kate Lockwood, assistant professor of computer science and information
   technology, has been honored with the Allen Griffin Award for excellence in

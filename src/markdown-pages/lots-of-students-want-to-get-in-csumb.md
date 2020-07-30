@@ -4,7 +4,7 @@ title: "Lots of students want to get in CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A record number of students applied to attend CSUMB in the fall 2016 semester.
   The university received 16,182 freshmen applications by the Nov. 30 deadline

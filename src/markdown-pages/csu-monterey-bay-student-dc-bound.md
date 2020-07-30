@@ -4,7 +4,7 @@ title: "CSU Monterey Bay student D.C.-bound"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Jan. 12, 2010</p>
 <p>
   <strong

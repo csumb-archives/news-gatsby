@@ -4,7 +4,7 @@ title: "Campus dining in style at renovated DC"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 11, 2009</p>
 <p>
   Declaring that "it was worth the wait," President Dianne Harrison on Thursday

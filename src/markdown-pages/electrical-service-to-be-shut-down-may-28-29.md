@@ -4,7 +4,7 @@ title: "Electrical service to be shut down May 28-29"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   On the weekend of May 28 and 29, electrical service to many buildings on the
   main campus will be shut down in order to complete much&#45;needed

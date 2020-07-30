@@ -4,7 +4,7 @@ title: "CSU Chancellor Timothy P. White to Retire in 2020 "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <i
     >Under White’s tenure CSU expanded student access and success with

@@ -4,7 +4,7 @@ title: "U.S. News recognizes CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>University ranked No. 18 among public schools in the West</p>
 <p>
   Cal State Monterey Bay is one of the top public universities in the Western

@@ -4,7 +4,7 @@ title: "ArtGallery"
 date: January 01 2020
 ---
 
-```html
+ 
 <h5>Exhibits curated by museum studies students</h5>
 <p>
   Work by faculty and staff in the Department of Visual and Public Art is

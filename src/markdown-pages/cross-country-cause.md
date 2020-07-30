@@ -4,7 +4,7 @@ title: "CROSS-COUNTRY CAUSE"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Two CSUMB graduates embarked on a 3,000&#45;mile cycling trip to raise money
   for local homeless.

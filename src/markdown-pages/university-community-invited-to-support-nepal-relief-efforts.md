@@ -4,7 +4,7 @@ title: "University community invited to support Nepal relief efforts"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   On April 25, a 7.9 magnitude earthquake hit Nepal about 50 miles from the
   nation's capital and largest city, Kathmandu. The death toll has been

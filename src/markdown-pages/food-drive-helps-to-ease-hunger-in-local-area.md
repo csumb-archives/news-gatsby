@@ -4,7 +4,7 @@ title: "Food drive helps to ease hunger in local area"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   With help from the local community, CSU Monterey Bay collected more than 2,500
   lbs. of food to help those in need this holiday season.

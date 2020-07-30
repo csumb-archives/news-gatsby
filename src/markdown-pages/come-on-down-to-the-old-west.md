@@ -4,7 +4,7 @@ title: "Come on down to the Old West"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>‘Don’t Fence Me In’ offers a glimpse of Americana on Feb. 29</h3>
 <p>
   Fans of the American West will take a step back in time and enjoy an authentic

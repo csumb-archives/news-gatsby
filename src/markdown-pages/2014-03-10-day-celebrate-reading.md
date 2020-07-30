@@ -4,7 +4,7 @@ date: March 10 2014
 slug: a-day-to-celebrate-reading
 ---
 
-```html
+ 
 
 
 

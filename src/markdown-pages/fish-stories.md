@@ -4,7 +4,7 @@ title: "Fish stories"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   **UPDATE: **The final exhibit, "Fishing Families: The Monterey Sicilian
   Story," will open Sept. 5 in conjunction with the Festa Italia weekend in

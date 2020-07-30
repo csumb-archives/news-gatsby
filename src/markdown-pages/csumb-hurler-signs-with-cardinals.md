@@ -4,7 +4,7 @@ title: "CSUMB hurler signs with Cardinals"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Putting his trust in CSU Monterey Bay baseball coach Walt White changed
   Will Anderson's course of direction. . . . Drafted in the 26th round by St.

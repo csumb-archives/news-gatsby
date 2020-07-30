@@ -4,7 +4,7 @@ title: "Alum's artwork featured in First Night celebration"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Artwork by recent CSUMB graduate Jacob Kernodle is gracing the marketing
   materials for First Night Monterey – the result of a longstanding relationship

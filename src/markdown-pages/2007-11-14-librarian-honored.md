@@ -4,7 +4,7 @@ date: November 14 2007
 slug: librarian-honored
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 14, 2007 </span>
 <p>
   Steven Watkins, one of CSUMB&apos;s founding librarians, was awarded the first

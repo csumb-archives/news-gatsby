@@ -4,7 +4,7 @@ title: "CSUMB’s Anna Holder Receives 2017 CSU Trustees’ Award for Outstandin
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., Sept. 19, 2017 – CSUMB alumna and current graduate student
   Anna Holder was awarded the 2017 CSU Trustees’ Award for Outstanding

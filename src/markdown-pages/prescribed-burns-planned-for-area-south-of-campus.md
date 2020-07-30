@@ -4,7 +4,7 @@ title: "Prescribed burns planned for area south of campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Army plans to conduct two
   <a href="https://csumb.edu/about/prescribed&#45;burns&#45;0"

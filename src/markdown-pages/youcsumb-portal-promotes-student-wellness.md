@@ -4,7 +4,7 @@ title: "YOU@CSUMB portal promotes student wellness"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Calif., May 1, 2020</b> - CSU Monterey Bay has joined 14
   California State University campuses in piloting an online portal to support

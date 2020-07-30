@@ -4,7 +4,7 @@ title: "Vigil for victims of Paris terrorist attacks"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay Provost Bonnie D. Irwin will preside over a vigil to
   mourn the passing of the victims of the terrorist attacks in Paris, including

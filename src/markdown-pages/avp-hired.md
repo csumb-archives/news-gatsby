@@ -4,7 +4,7 @@ title: "AVP Hired"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Tony Boles has joined California State University, Monterey Bay as associate
   vice president of Campus Development and Operations.

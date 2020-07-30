@@ -4,7 +4,7 @@ date: July 29 2014
 slug: book-illuminates-emotions-around-racism
 ---
 
-```html
+ 
 
 
 

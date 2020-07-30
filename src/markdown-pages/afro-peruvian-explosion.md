@@ -4,7 +4,7 @@ title: "Afro-Peruvian Explosion"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Free concert April 25 features master musician Pedro Rosales</h3>
 <p>
   The community is invited to experience Afro-Peruvian music on April 25 at a

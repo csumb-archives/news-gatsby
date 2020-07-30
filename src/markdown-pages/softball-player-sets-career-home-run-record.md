@@ -4,7 +4,7 @@ title: "Softball player sets career home run record"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay senior Shae Olds broke the California Collegiate
   Athletic Association career home run record on April 11, raising her total to

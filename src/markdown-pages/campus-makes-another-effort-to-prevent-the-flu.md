@@ -4,7 +4,7 @@ title: "Campus makes another effort to prevent the flu"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 4, 2009</p>
 <p>Isabel Fuerte tries out hand sanitizer in the Student Center</p>
 <p>

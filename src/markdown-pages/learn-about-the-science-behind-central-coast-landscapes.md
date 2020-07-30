@@ -4,7 +4,7 @@ title: "Learn about the science behind Central Coast landscapes"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB professor lectures at P.G. Museum of Natural History Jan. 23</h3>
 <p>
   Artists and art lovers are drawn to spectacular Central Coast vistas. They

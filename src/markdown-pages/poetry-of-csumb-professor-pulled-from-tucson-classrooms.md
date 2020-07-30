@@ -4,7 +4,7 @@ title: "Poetry of CSUMB professor pulled from Tucson classrooms"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   If your book is going to be removed from classrooms, being in the company of
   internationally acclaimed authors such as Martin Espada, James Baldwin and

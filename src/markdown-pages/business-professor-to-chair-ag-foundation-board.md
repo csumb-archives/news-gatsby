@@ -4,7 +4,7 @@ title: "Business professor to chair ag foundation board"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Marylou Shockley, a professor in the College of Business at CSU Monterey Bay,
   has been elected chair of the Grower-Shipper Association Foundation board. She

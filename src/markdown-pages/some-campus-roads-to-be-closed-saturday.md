@@ -4,7 +4,7 @@ title: "Some campus roads to be closed Saturday"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   On Saturday, Oct. 17, several campus roads will be closed for the Dance Dash
   5K event, a fundraiser for Children’s Miracle Network. Drivers should expect

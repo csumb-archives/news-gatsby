@@ -4,7 +4,7 @@ title: "Visiting Artists Lecture Series starts Sept. 22"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   “The whole Mission neighborhood is a massive public artwork, both sacred and
   profane.” – Carlos Santana

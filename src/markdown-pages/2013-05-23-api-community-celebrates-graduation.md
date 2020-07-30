@@ -4,7 +4,7 @@ date: May 23 2013
 slug: api-community-celebrates-graduation
 ---
 
-```html
+ 
 
 
 

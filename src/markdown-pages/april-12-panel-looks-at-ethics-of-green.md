@@ -4,7 +4,7 @@ title: "April 12 panel looks at ethics of 'green'"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>‘Greenwashing’ vs. sustainability is the topic of annual ethics panel</h3>
 <p>
   With Earth Day approaching, the ninth annual ethics panel at California State

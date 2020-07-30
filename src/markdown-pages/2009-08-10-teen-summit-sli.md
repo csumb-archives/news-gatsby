@@ -4,7 +4,7 @@ date: August 10 2009
 slug: when-youth-speak-.-.-.-we-listen
 ---
 
-```html
+ 
 
 
 

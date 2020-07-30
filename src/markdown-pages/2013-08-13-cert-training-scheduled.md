@@ -4,7 +4,7 @@ date: August 13 2013
 slug: cert-training-scheduled
 ---
 
-```html
+ 
 
 
 

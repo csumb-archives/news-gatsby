@@ -4,7 +4,7 @@ date: April 11 2011
 slug: study-hall
 ---
 
-```html
+ 
 <span class="date">Posted on Apr 11, 2011 </span>
 <h2>New library is all things to all people</h2>
 <p>

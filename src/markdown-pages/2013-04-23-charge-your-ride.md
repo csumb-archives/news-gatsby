@@ -4,7 +4,7 @@ date: April 23 2013
 slug: charge-your-ride
 ---
 
-```html
+ 
 
 
 

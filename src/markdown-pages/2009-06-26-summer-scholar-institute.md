@@ -4,7 +4,7 @@ date: June 26 2009
 slug: summer-scholar-institute
 ---
 
-```html
+ 
 <span class="date">Posted on Jun 26, 2009 </span>
 <p>June 26, 2009</p>
 <h2>Program fuels college dreams<br /></h2>

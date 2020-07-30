@@ -4,7 +4,7 @@ title: "Public invited to April 4 flute concert"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Piece by CSUMB faculty member Lanier Sammons to be performed</h3>
 <p>
   Wayla J. Chambo will present a program of works for flute at a free public

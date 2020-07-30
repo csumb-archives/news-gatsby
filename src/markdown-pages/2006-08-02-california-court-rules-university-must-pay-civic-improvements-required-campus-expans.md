@@ -6,7 +6,7 @@ date: August 2 2006
 slug: &gt;- california-court-rules-university-must-pay-for-civic-improvements-required-by-campus-expansion
 ---
 
-```html
+ 
 
 
 

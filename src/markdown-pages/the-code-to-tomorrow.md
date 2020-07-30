@@ -4,7 +4,7 @@ title: "The code to tomorrow"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>COMPUTER SCIENCE STUDENT EARNS PRESTIGIOUS SCHOLARSHIP</p>
 <p>
   When Anita Garcia started college, she was unsure of her career path. Then she

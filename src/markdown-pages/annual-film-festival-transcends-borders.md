@@ -4,7 +4,7 @@ title: "Annual film festival transcends borders"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Directors Terence Nance, Gerardo Naranjo on hand for screenings</h3>
 <p>
   The Monterey Bay Film Festival is back for its fifth year and it’s bigger and

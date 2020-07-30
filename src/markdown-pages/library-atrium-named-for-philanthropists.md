@@ -4,7 +4,7 @@ title: "Library atrium named for philanthropists"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The three&#45;story atrium in the Tanimura &amp; Antle Family Memorial Library
   at California State University, Monterey Bay has been named in honor of

@@ -4,7 +4,7 @@ title: "'Bad Indians: A Tribal Memoir' author to read Jan. 24"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Identity and history at their most dynamic, creative and personal</h3>
 <p>
   Deborah Miranda, a member of the Ohlone Costanoan Esselen Nation, will give a

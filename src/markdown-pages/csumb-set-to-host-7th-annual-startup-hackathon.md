@@ -4,7 +4,7 @@ title: "CSUMB Set to Host 7th Annual Startup Hackathon"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., November 1, 2018 – California State University, Monterey Bay
   (CSUMB) is set to host the 7th annual

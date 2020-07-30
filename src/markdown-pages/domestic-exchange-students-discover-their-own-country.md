@@ -4,7 +4,7 @@ title: "Domestic exchange students discover their own country"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When students think of education exchange programs, they usually picture
   faraway and foreign locales.

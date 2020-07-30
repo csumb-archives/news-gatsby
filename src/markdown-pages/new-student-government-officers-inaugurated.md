@@ -4,7 +4,7 @@ title: "New student government officers inaugurated"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The gavel has been passed. Duane Lindsay was sworn in as the 2012-13
   Associated Students president on April 30, along with 12 other newly elected

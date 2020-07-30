@@ -4,7 +4,7 @@ title: "Campus aims for zero waste at student move-out"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Some CSU Monterey Bay students were surprised at what they saw discarded
   during last year’s spring rush to clean out dorm rooms and move off campus for

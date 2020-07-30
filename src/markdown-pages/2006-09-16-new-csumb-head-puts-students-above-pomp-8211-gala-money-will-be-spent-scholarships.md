@@ -5,7 +5,7 @@ date: September 16 2006
 slug: &gt;- new-csumb-head-puts-students-above-pomp-gala-money-will-be-spent-on-scholarships
 ---
 
-```html
+ 
 
 
 

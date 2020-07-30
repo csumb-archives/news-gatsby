@@ -4,7 +4,7 @@ title: "CSUMB aims for zero-waste move-out"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>UNIVERSITY PARTNERS WITH LOCAL AGENCIES TO RECYCLE, REUSE</p>
 <p>
   Some useful – and valuable – stuff gets discarded during the rush to clean out

@@ -4,7 +4,7 @@ date: December 6 2013
 slug: fort-ord-forum-looks-to-future
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: February 1 2012
 slug: have-a-heart-for-students-on-feb.-25
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Spoken-word musical comes to CSUMB Feb. 28"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In celebration of Black History Month, NuBiAh, a Broadway-caliber musical,
   will be staged at CSU Monterey Bay’s World Theater on Feb. 28 at 7 p.m.

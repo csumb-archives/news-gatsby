@@ -4,7 +4,7 @@ title: "Photographer Jeff Sheng lectures Nov. 30"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Photographer Jeff Sheng lectures at CSUMB Nov. 30</h3>
 <p>
   The President’s Speaker Series resumes Nov. 30 when photographer Jeff Sheng

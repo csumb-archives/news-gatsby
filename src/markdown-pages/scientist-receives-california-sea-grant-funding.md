@@ -4,7 +4,7 @@ title: "Scientist receives California Sea Grant funding"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Corey Garza of the Division of Science and Environmental Policy has
   received funding from the University of Southern California Sea Grant program

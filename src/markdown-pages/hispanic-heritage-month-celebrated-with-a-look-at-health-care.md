@@ -4,7 +4,7 @@ title: "Hispanic Heritage Month celebrated with a look at health care"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Sept. 30 discussion examines ways to meet health care needs of the Latino
   community

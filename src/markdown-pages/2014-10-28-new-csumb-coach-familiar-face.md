@@ -4,7 +4,7 @@ date: October 28 2014
 slug: new-csumb-coach-a-familiar-face
 ---
 
-```html
+ 
 
 
 

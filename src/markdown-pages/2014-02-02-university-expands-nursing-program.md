@@ -4,7 +4,7 @@ date: February 2 2014
 slug: university-expands-nursing-program
 ---
 
-```html
+ 
 
 
 

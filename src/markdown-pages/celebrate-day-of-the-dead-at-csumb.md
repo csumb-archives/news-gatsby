@@ -4,7 +4,7 @@ title: "Celebrate Day of the Dead at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When Dia de los Muertos, or Day of the Dead, arrives, family members of
   departed souls set out water, candles, food and decorated sugar skulls to

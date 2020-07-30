@@ -4,7 +4,7 @@ date: January 8 2015
 slug: s.f.-art-exhibit-showcases-work-of-csumb-faculty
 ---
 
-```html
+ 
 
 
 

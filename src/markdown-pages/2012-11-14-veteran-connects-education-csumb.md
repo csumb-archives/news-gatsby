@@ -4,7 +4,7 @@ date: November 14 2012
 slug: veteran-&apos;connects-to-education&apos;-at-csumb
 ---
 
-```html
+ 
 
 
 

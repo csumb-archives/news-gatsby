@@ -4,7 +4,7 @@ title: "First Homecoming"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>First-ever homecoming game set for Oct. 8</h4>
 <p>
   Every fall, college campuses across the nation invite their alumni back for

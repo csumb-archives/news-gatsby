@@ -4,7 +4,7 @@ date: June 11 2013
 slug: new-book-explores-notion-of-&apos;afro-cuba&apos;
 ---
 
-```html
+ 
 
 
 

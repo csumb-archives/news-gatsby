@@ -4,7 +4,7 @@ title: "Focus the Region 2010"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Feb. 22, 2010</p>
 <p>
   &#42;<strong>Smoothies pedaled at event are just tip of iceberg</strong>&#42;

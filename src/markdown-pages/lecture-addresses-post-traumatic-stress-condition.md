@@ -4,7 +4,7 @@ title: "Lecture addresses post-traumatic stress condition"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Jerry Griffin, a physician and retired soldier, will explore the topic of
   post- traumatic stress condition at a public lecture on Feb. 24.

@@ -4,7 +4,7 @@ date: November 24 2010
 slug: csumb-hosts-panel-presentation-on-autism
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 24, 2010 </span>
 <h4>Local resources for parents, teachers is topic of Dec. 1 event</h4>
 <p>

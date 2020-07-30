@@ -4,7 +4,7 @@ title: "Guardian Scholars Program Provides Support for Former Foster Youth"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB student Theresa Dexter spent her summer working to support the needs of
   former foster youth who are currently studying at CSUMB and are now members of

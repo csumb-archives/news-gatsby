@@ -4,7 +4,7 @@ date: November 2 2010
 slug: college-seniors&amp;colon;-olli-at-csumb-offers-education-for-older-students
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 02, 2010 </span>
 
 <p>After a career in the Army, and a second one spent in the mining

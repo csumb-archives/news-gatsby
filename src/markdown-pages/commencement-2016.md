@@ -4,7 +4,7 @@ title: "Commencement 2016"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay &#40;CSUMB&#41; congratulates all the graduates of the
   class of 2017! Below is a selection of news clips and fun facts related to the

@@ -4,7 +4,7 @@ title: "Employees honored for service to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Liz MacDonald, Dr. Dan Fernandez and Kevin Saunders were honored for their
   leadership and dedication to the CSU Monterey Bay Vision at the Day of Welcome

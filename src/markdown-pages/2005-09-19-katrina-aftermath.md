@@ -4,7 +4,7 @@ date: September 19 2005
 slug: katrina-aftermath
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 19, 2005 </span>
 <p>
   When Est&#xE9;e Blancher came to CSUMB in the spring of 2002, she knew that

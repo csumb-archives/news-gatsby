@@ -4,7 +4,7 @@ date: August 31 2006
 slug: we&apos;re-different-now
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "MST project borders campus on Inter-Garrison Road "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 5, 2009</p>
 <p>
   A sign went up on the north side of Inter-Garrison Road between Central Campus

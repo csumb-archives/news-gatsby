@@ -4,7 +4,7 @@ title: "Four new degree programs available this fall"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Nursing scheduled to be added next summer</h3>
 <p>
   Interested in a career in the Foreign Service, international business,

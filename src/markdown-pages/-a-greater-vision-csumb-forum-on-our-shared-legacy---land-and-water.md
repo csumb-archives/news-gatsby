@@ -4,7 +4,6 @@ title: "A Greater Vision: CSUMB forum on 'Our Shared Legacy - Land and Water'"
 date: January 01 2020
 ---
 
-```html
 <p>Oct. 10, 2010</p>
 <p>
   The Greater Vision series of public forums on topics relevant to local
@@ -67,4 +66,3 @@ date: January 01 2020
 <p></p>
 <p><strong> </strong></p>
 <p><em> </em></p>
-```

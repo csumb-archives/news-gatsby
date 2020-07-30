@@ -4,7 +4,7 @@ title: "The long and short of it . . . "
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Author Tobias Wolff lectures at CSUMB Nov. 1</h2>
 <p>
   Master storyteller, award-winning author and Stanford University professor

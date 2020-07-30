@@ -4,7 +4,7 @@ title: "CSUMB Set to Host 23rd Annual Social Justice Colloquium "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., April 8, 2019 – California State University, Monterey Bay
   (CSUMB) is slated to host the 23rd annual

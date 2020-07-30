@@ -4,7 +4,7 @@ title: "Understanding cultures, encouraging communities"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Information sessions scheduled for CSUMB's social work program</h3>
 <p>
   Oscar Hernandez wants to help at-risk kids get on the right path. This

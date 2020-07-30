@@ -4,7 +4,7 @@ title: "Another honor for Azama"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Yo Azama (MAE 2015) has earned another award for his work in the classroom and
   in promoting language study.

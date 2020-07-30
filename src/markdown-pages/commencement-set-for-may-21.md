@@ -4,7 +4,7 @@ title: "Commencement set for May 21"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay’s 15th annual commencement ceremony
   will be held on Saturday, May 21.

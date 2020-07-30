@@ -4,7 +4,7 @@ title: "CSUMB staff member named Broadband Champion"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Arlene Krebs acts to close the digital divide</h3>
 <p>
   Arlene Krebs, technology development officer at CSU Monterey Bay, has been

@@ -4,7 +4,7 @@ date: April 28 2011
 slug: department-veteran-named-new-campus-police-chief
 ---
 
-```html
+ 
 <span class="date">Posted on Apr 28, 2011 </span>
 <p>
   Earl Lawson is the university&#x2019;s new chief of police. Lawson served in a

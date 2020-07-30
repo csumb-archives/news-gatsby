@@ -4,7 +4,7 @@ date: October 25 2013
 slug: poetry-slam-champion-appears-at-csumb
 ---
 
-```html
+ 
 
 
 

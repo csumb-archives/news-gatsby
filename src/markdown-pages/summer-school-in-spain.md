@@ -4,7 +4,7 @@ title: "Summer school in Spain"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   STUDENTS PARTICIPATE IN ETHNOGRAPHIC FIELD RESEARCH, GLOBAL SERVICE LEARNING
 </p>

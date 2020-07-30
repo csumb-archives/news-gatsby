@@ -4,7 +4,7 @@ title: "Fellowship to open doors"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Todd Hallenbeck will complete his master’s degree in Coastal and Watershed
   Science &amp; Policy this spring. A San Jose native, Hallenbeck is also the

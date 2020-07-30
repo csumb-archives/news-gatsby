@@ -4,7 +4,7 @@ title: "Because she has a vision for environmental change . . . "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In her four years on CSUMB's planning team, Megan Tolbert has made major
   strides in reducing the campus' carbon footprint. –

@@ -4,7 +4,7 @@ title: "Earthbound Farms"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong
     >Earthbound Farm brings organic produce into campus food service</strong

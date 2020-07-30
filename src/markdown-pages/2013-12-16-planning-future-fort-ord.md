@@ -4,7 +4,7 @@ date: December 16 2013
 slug: planning-the-future-of-fort-ord
 ---
 
-```html
+ 
 
 
 

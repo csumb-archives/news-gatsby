@@ -4,7 +4,7 @@ title: "Otter Space"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This year’s California College Media Association’s Excellence in Student Media
   Awards were a celebration of innovation and journalistic ideals in campus

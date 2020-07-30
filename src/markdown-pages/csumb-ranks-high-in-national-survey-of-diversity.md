@@ -4,7 +4,7 @@ title: "CSUMB ranks high in national survey of diversity"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 19, 2010</p>
 <p>
   <strong

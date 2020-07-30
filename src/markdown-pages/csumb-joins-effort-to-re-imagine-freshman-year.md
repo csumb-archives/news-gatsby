@@ -4,7 +4,7 @@ title: "CSUMB joins effort to re-imagine freshman year"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>SCHOOLS WILL TEST PROGRAMS FOR HELPING STUDENTS SUCCEED</p>
 <p>
   Cal State Monterey Bay is one of 44 colleges nationwide selected for a pilot

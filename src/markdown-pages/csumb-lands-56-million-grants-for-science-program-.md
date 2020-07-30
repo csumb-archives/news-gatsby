@@ -4,7 +4,7 @@ title: "CSUMB lands $5.6 million grants for science program "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A pair of newly awarded grants from the U.S. Department of Education will help
   CSU Monterey Bay prepare students for graduate school and careers in science,

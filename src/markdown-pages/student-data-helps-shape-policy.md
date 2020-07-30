@@ -4,7 +4,7 @@ title: "Student data helps shape policy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Teacher and students stood atop the high bank of Toro Creek one recent
   morning. "Measure everything we can about a cross-sectional view of the

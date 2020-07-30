@@ -4,7 +4,7 @@ date: October 8 2014
 slug: csumb-presents-an-evening-with-lea-delaria
 ---
 
-```html
+ 
 
 
 

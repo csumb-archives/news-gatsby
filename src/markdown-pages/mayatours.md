@@ -4,7 +4,7 @@ title: "MayaTours"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The map of Mexico is dotted with their strange sounding names. Palenque.
   Chichen Itza. Uxmal. Merida. The mystery and grandeur of these Mayan ruins

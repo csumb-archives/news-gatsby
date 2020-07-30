@@ -4,7 +4,7 @@ title: "CSUMB to hold Symposium on Women in Ag and Tech"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., February 14, 2018 – California State University, Monterey Bay’s
   (CSUMB) Institute for Innovation and Economic Development is slated to host a

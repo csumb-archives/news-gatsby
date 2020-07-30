@@ -4,7 +4,7 @@ title: "CSUMB receives $10 million gift"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB has announced a $10 million gift from Joel and Dena Gambord of Pebble
   Beach – the largest gift in the university’s 20&#45;year history. It will

@@ -4,7 +4,7 @@ title: "Federal grants provide support services for CSUMB students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay was recently awarded a pair of grants from the U.S.
   Department of Education to help low-income and first-generation college

@@ -4,7 +4,7 @@ date: August 29 2012
 slug: national-circus-of-china-comes-to-csumb
 ---
 
-```html
+ 
 
 
 

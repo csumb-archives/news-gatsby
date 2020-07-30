@@ -4,7 +4,7 @@ title: "CSUMB shares in 10-year grant from NASA"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>$32 Million is largest grant ever received by CSUMB</h3>
 <p>
   CSU Monterey Bay has been awarded a 10&#45;year, $32 million NASA grant to

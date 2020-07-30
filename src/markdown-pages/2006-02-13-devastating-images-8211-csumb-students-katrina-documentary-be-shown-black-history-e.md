@@ -5,7 +5,7 @@ date: February 13 2006
 slug: devastating-images-csumb-student-katrina-documentary-to-be-shown-at-black-history-event
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: November 2 2010
 slug: student-profile&amp;colon;-austin-long
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 02, 2010 </span>
 
 <p>Austin Long, a senior in the Visual and Public Art Department,

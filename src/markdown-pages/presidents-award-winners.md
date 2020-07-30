@@ -4,7 +4,7 @@ title: "President’s Award Winners"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>
   Graduates recognized for exemplary student achievement, regional stewardship
 </h2>

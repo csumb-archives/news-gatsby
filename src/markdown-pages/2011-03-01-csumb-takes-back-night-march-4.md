@@ -4,7 +4,7 @@ date: March 1 2011
 slug: csumb-takes-back-the-night-on-march-4
 ---
 
-```html
+ 
 
 
 

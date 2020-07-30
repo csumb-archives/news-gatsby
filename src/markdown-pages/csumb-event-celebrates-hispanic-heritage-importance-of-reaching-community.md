@@ -4,7 +4,7 @@ title: "CSUMB event celebrates Hispanic Heritage, importance of reaching communi
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . two presenters were offered by the College of Health Sciences and Human
   Services; the goal was to highlight the importance of services in the medical

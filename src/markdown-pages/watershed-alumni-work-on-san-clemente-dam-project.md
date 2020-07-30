@@ -4,7 +4,7 @@ title: "Watershed alumni work on San Clemente Dam project"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>'Happy Fish, Happy Frogs' crew</h3>
 <p>
   Evan De Lay, Sheldon Leiker, and Elizabeth Geisler, graduates of CSU Monterey

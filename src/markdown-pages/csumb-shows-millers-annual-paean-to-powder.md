@@ -4,7 +4,7 @@ title: "CSUMB shows Miller's annual paean to powder"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The approach of winter can mean only one thing – it’s time for another one of
   Warren Miller’s cinematic homages to high-adrenaline ski and snowboard action.

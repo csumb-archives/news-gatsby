@@ -4,7 +4,7 @@ title: "Students learn art of leadership"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 15, 2009</p>
 <p>
   CSU Monterey Bay will hold its annual Student Leadership Conference on

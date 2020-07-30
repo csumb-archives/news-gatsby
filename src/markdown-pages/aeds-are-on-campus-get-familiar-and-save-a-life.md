@@ -4,7 +4,7 @@ title: "AED's are on campus; get familiar and save a life"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The CSUMB Emergency Management Health and Safety division of the University
   Police Department now provides more than 70 Automated External Defibrillator

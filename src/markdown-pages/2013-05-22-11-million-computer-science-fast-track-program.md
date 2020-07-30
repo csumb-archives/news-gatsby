@@ -4,7 +4,7 @@ date: May 22 2013
 slug: $1.1-million-for-computer-science-fasttrack-program
 ---
 
-```html
+ 
 
 
 

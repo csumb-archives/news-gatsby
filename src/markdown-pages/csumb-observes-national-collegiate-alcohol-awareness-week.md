@@ -4,7 +4,7 @@ title: "CSUMB observes National Collegiate Alcohol Awareness Week"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay student Max Everett looks at a sport utility vehicle damaged
   in a DUI-related crash that was placed in the main quad at CSUMB. The vehicle

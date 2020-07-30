@@ -4,7 +4,7 @@ title: "Business, IT building nearing halfway point of construction"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   As of July 1, the Business and Information Technology (BIT) building was
   approximately 40 percent complete.

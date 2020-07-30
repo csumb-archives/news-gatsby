@@ -4,7 +4,7 @@ date: January 3 2012
 slug: want-to-be-a-teacher-learn-how-on-jan-4
 ---
 
-```html
+ 
 
 
 

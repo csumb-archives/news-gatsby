@@ -4,7 +4,7 @@ title: "The Season of Ticks: Could Climate Change Worsen Lyme Disease?"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In a finding that suggests how global warming could impact infectious disease,
   scientists from Yale University, in collaboration with other institutions,

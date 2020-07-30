@@ -4,7 +4,7 @@ title: "Students recognized for marine science research"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Six CSUMB marine science students have earned awards from the CSU for their
   research projects. The Council on Ocean Affairs, Science and Technology –

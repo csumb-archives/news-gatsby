@@ -4,7 +4,7 @@ title: "Earth Day celebrated with week's worth of activities"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Earth to CSUMB</h3>
 <p>Earth Day is really Earth <em>Week</em> at CSU Monterey Bay.</p>
 <p>

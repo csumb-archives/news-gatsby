@@ -4,7 +4,7 @@ title: "Professor to join hospitality association board"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   John Avella has been elected to the Monterey County Hospitality Association’s
   board of directors. Dr. Avella, assistant professor of hospitality management

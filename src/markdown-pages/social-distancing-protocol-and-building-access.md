@@ -4,7 +4,7 @@ title: "Social distancing protocol and building access"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This message was send to all university employees on April 8, 2020 by Kevin R.
   Saunders, Vice President of Administration &amp; Finance.

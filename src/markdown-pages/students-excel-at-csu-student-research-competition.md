@@ -4,7 +4,7 @@ title: "Students Excel at CSU Student Research Competition"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 10, 2018 – Nine CSUMB student-researchers represented
   CSUMB at the 32nd annual CSU Student Research Competition May 4-5, 2018 at

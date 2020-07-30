@@ -4,7 +4,7 @@ title: "Capstone Festival set for Dec. 18 and 19"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>It all comes down to this</h3>
 <p>
   At CSU Monterey Bay, all students must complete a capstone project in their

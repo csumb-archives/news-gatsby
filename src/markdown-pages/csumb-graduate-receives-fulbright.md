@@ -4,7 +4,7 @@ title: "CSUMB graduate receives Fulbright"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Kathrine Cagat has been awarded a Fulbright U.S. Student Program scholarship
   to the Philippines in anthropology. Cagat graduated from CSUMB in 2006 summa

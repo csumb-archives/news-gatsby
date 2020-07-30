@@ -4,7 +4,7 @@ title: "CSUMB Receives Federal Funding to Continue Upward Bound Program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., June 2, 2017 – CSU Monterey Bay (CSUMB) has been selected to
   receive two federal grants under the U.S. Department of Education’s Upward

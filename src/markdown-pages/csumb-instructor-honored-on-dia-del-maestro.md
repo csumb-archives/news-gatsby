@@ -4,7 +4,7 @@ title: "CSUMB instructor honored on Dia del Maestro"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Forget the shiny red apple.</p>
 <p>
   Teachers throughout the 28th Assembly District were honored at a pancake

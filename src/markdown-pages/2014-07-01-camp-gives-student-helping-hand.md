@@ -4,7 +4,7 @@ date: July 1 2014
 slug: camp-gives-student-a-helping-hand
 ---
 
-```html
+ 
 
 
 

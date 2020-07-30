@@ -4,7 +4,7 @@ title: "Joseph Wilson"
 date: January 01 2020
 ---
 
-```html
+ 
 <h5>Former Ambassador Joseph Wilson to speak Dec. 6</h5>
 <p>
   Joseph Wilson, former U.S. diplomat and husband of exposed CIA agent Valerie

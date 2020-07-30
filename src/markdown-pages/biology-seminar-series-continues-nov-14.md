@@ -4,7 +4,7 @@ title: "Biology seminar series continues Nov. 14"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Christopher Kitts, professor of microbiology, chair of biological sciences
   and director of the Environmental Biotechnology Institute at Cal Poly San Luis

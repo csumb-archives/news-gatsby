@@ -4,7 +4,7 @@ title: "Capstone Festival presents screen gems"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Cinematic Arts students show their work Dec. 19</h3>
 <p>
   The World Theater on the campus of CSU Monterey Bay will host student films at

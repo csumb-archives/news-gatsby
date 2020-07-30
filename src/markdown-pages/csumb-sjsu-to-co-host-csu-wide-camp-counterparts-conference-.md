@@ -4,7 +4,7 @@ title: 'CSUMB, SJSU to co-host CSU-wide "Camp Counterparts" conference'
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB and San José State University will co-host the semi-annual “CSU
   Counterparts” conference Oct. 12-14, 2016 at the Asilomar Conference Grounds

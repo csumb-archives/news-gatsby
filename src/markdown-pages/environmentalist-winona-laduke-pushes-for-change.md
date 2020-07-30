@@ -4,7 +4,7 @@ title: "Environmentalist Winona LaDuke pushes for change"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Her topic: Environmental Justice from an Indigenous Perspective</h3>
 <p>
   The public is invited to join CSU Monterey Bay on March 6 for an evening with

@@ -4,7 +4,7 @@ title: "UROC research scholarships awarded for 2013"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>UPDATE</strong>: Omar Davila received a top honor at the 10th annual
   <a href="https://www.yale.edu/graduateschool/diversity/bouchet_conf.html"

@@ -4,7 +4,7 @@ title: "Athletic director takes on national role"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   His student-athletes usually take center stage, but CSUMB’s Director of
   Athletics Vince Otoupal recently took a bit of the spotlight himself, bringing

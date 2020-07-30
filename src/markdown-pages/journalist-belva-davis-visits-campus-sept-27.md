@@ -4,7 +4,7 @@ title: "Journalist Belva Davis visits campus Sept. 27"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   As the first black female TV journalist in the West, Belva Davis helped to
   change the face and focus of TV news.

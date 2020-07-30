@@ -4,7 +4,7 @@ title: "Native American student group formed"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Of the 7,100 students enrolled at Cal State Monterey Bay last fall, fewer than
   1 percent identified themselves as Native American.

@@ -4,7 +4,7 @@ title: "Home for the holidays"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 17, 2009</p>
 <p>
   <strong><em>CSUMB invites community to winter concert</em></strong>

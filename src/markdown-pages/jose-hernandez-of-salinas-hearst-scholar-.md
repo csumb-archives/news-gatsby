@@ -4,7 +4,7 @@ title: "Jose Hernandez of Salinas, Hearst Scholar "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   To say that Jose Hernandez is having a fabulous year is an understatement.
   First, he gets selected to go to Harvard and represent Salinas for the launch

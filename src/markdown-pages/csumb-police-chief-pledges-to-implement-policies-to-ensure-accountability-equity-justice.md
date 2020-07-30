@@ -4,7 +4,7 @@ title: "CSUMB police chief pledges to implement policies to ensure accountabilit
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Calif., June 12, 2020</b> - California State University police
   chiefs on all 23 campuses, including CSUMB Police Chief Earl Lawson, have

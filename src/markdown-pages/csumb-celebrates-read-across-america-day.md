@@ -4,7 +4,7 @@ title: "CSUMB celebrates Read Across America Day"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay student-athletes celebrated Read Across America Day by
   reading Dr. Seuss books to youngsters at Olson Elementary School in Marina. –

@@ -4,7 +4,7 @@ title: "Cal State Monterey Bay wins $1 million grant for data science program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Thanks to a $1 million grant from the National Institutes of Health, CSUMB
   will soon train its students in the hot new field of biomedical data science.

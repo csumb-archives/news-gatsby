@@ -4,7 +4,7 @@ date: September 22 2010
 slug: csumb-recognized-by-mother-jones-magazine
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 22, 2010 </span>
 <p>Aug. 20, 2009</p>
 It&apos;s college rankings season, and California State University, Monterey Bay

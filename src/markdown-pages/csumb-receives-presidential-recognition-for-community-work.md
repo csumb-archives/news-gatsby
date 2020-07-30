@@ -4,7 +4,7 @@ title: "CSUMB receives presidential recognition for community work"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay was one of 14 universities named to the 2013 President's
   Higher Education Community Service Honor Roll. The university has been on the

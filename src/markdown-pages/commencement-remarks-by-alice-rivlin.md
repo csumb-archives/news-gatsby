@@ -4,7 +4,7 @@ title: "Commencement remarks by Alice Rivlin"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Here is the text of remarks delivered by keynote speaker Dr. Alice Rivlin at
   CSU Monterey Bay's commencement on May 19, 2012. Dr. Rivlin is a member of

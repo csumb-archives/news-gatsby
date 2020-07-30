@@ -4,7 +4,7 @@ title: "Graduate student earns Rote research grant"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>ELKHORN SLOUGH FOUNDATION PRESENTS $5,000 AWARD</p>
 <p>
   Cal State Monterey Bay graduate student Michael Esgro studies de facto marine

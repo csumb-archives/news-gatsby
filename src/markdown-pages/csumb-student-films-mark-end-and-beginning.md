@@ -4,7 +4,7 @@ title: "CSUMB student films mark end and beginning"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   At the end of every school year, CSU Monterey Bay's graduating seniors have to
   prove that what they learned sunk in. For students in the Cinematic Arts and

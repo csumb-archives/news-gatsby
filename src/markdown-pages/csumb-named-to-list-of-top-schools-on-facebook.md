@@ -4,7 +4,7 @@ title: "CSUMB named to list of top schools on Facebook"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>April 5, 2010</p>
 <p>
   CSU Monterey Bay has been named one of the top 75 colleges and universities to

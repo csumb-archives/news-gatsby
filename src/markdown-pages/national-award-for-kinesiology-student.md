@@ -4,7 +4,7 @@ title: "National award for kinesiology student"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>UROC sets Orozco on career path</h3>
 <p>
   <a href="https://kinesiology.csumb.edu/">Kinesiology</a> student Breanna Orozco

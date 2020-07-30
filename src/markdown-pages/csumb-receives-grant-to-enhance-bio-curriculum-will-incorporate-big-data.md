@@ -4,7 +4,7 @@ title: "CSUMB Receives Grant to Enhance Bio Curriculum; Will Incorporate Big Dat
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., July 17, 2017 – California State University Monterey Bay
   (CSUMB) has received a grant from the W.M. Keck Foundation that will help

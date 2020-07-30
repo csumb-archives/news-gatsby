@@ -4,7 +4,7 @@ date: September 4 2009
 slug: emba-program-accepting-students
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 04, 2009 </span>
 <p>Sept. 4, 2009</p>
 <strong>EMBA program accepting students</strong>

@@ -4,7 +4,7 @@ title: "Out of the fields and into computer science classes"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . But Sanchez is part of the inaugural class of a three-year, intensive
   bachelor's degree program in computer science and information technology,

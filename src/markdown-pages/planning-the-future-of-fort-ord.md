@@ -4,7 +4,7 @@ title: "Planning the future of Fort Ord"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Last month's election featured competing ballot measures about growth on part
   of Fort Ord. Both went down to defeat.

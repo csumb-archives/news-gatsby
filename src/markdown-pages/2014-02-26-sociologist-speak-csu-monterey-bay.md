@@ -4,7 +4,7 @@ date: February 26 2014
 slug: sociologist-to-speak-at-csu-monterey-bay
 ---
 
-```html
+ 
 
 
 

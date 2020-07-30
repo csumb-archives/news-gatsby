@@ -4,7 +4,7 @@ title: "More honors for TAT"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 2, 2009</p>
 <p>
   Students and faculty members in the Teledramatic Arts and Technology program

@@ -4,7 +4,7 @@ title: "Otters' historic runs bodes well for next year"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong
     >Otters' historic run: CCAA conference championship, national ranking and

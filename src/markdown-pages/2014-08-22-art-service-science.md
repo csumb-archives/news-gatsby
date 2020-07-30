@@ -4,7 +4,7 @@ date: August 22 2014
 slug: art-in-the-service-of-science
 ---
 
-```html
+ 
 
 
 

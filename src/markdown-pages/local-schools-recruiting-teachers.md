@@ -4,7 +4,7 @@ title: "Local schools recruiting teachers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor of Education Mark O’Shea was interviewed on efforts by local
   K&#45;12 districts to find enough teachers to staff their classrooms.

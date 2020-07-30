@@ -4,7 +4,7 @@ title: "Blood Drive"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A donor team staffed by the American Red Cross spent the afternoon in the
   Alumni and Visitors Center as part of its holiday blood drive.

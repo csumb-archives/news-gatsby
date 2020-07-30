@@ -4,7 +4,7 @@ title: "CSUMB women's basketball team has high hopes"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Not many teams at CSU Monterey Bay have higher expectations than the women's
   basketball team. The Otters won more than 20 games in each of the past two

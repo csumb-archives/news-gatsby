@@ -4,7 +4,7 @@ date: August 2 2013
 slug: growing-community-one-soccer-game-at-a-time
 ---
 
-```html
+ 
 
 
 

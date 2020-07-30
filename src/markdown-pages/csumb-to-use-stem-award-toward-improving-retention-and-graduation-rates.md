@@ -4,7 +4,7 @@ title: "CSUMB to use STEM award toward improving retention and graduation rates"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB selected to receive $5.6M STEM grant under the Department of Education's
   Hispanic-Serving Institutions Program.

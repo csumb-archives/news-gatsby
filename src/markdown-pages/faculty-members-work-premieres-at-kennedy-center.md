@@ -4,7 +4,7 @@ title: "Faculty member's work premieres at Kennedy Center"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 30, 2010</p>
 <p>
   CSU Monterey Bay lecturer John Wineglass is an award&#45;winning composer and

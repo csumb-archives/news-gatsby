@@ -4,7 +4,7 @@ title: "CSUMB's emergency manager adds another credential"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dick Bower, CSUMB’s emergency manager, has earned another credential to add to
   his considerable resume.

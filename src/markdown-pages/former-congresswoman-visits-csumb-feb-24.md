@@ -4,7 +4,7 @@ title: "Former Congresswoman visits CSUMB Feb. 24"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s College of Health Sciences and Human Services celebrates
   Black History Month with a lecture by former Congresswoman Donna Christensen

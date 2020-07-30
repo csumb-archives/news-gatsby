@@ -4,7 +4,7 @@ title: "CSUMB joins 'Stuff the Bus' campaign "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB is participating in United Way Monterey County’s Stuff the Bus campaign,
   a countywide drive to collect school supplies for children whose families are

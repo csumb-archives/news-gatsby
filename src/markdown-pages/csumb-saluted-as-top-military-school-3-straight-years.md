@@ -4,7 +4,7 @@ title: "CSUMB saluted as top military school 3 straight years"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For the third consecutive year, CSU Monterey Bay has been named a
   "military-friendly school" by G.I. Jobs magazine. The list honors the top 20

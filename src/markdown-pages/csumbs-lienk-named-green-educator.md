@@ -4,7 +4,7 @@ title: "CSUMB's Lienk named GREEN educator"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay's Laura Lee Lienk was honored with the GREEN Educator Award
   for her work in promoting environmental issues. Earth Force, a Colorado-based

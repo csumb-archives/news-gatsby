@@ -4,7 +4,7 @@ title: "Teacher recruitment fair April 6"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>April 2, 2010</p>
 <p>
   <strong><em>Districts from tri-county area will be on hand</em></strong>

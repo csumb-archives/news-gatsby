@@ -4,7 +4,7 @@ title: "Spring 2017 Performing Arts Series Hosts O Sole Trio Saturday April 15"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., April 11, 2017 -- The World Theater at CSUMB will host O Sole
   Trio, performing "From Pavarotti to Pop," Saturday April 15, 2017 from 8-10

@@ -4,7 +4,7 @@ title: "Festival benefits Return of the Natives"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Adventure awaits at Banff Mountain Film Festival's world tour</h3>
 <p>
   Experience adventure on the big screen – from mountaintops to crashing waves

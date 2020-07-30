@@ -4,7 +4,7 @@ title: "Forensic psychology topic of Nov. 17 talk"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>
   FBI agent visits CSUMB Nov. 17 Talk involves work on child pornography,
   exploitation

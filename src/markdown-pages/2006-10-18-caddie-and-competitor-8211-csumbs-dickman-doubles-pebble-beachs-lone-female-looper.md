@@ -5,7 +5,7 @@ date: October 18 2006
 slug: &gt;- caddie-and-competitor-csumbs-dickman-doubles-as-pebble-beach&apos;s-lone-female-looper
 ---
 
-```html
+ 
 
 
 

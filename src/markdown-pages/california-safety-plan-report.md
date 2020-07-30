@@ -4,7 +4,7 @@ title: "California Safety Plan Report"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Because the CSU understands the importance of safety information, each campus
   is now required to disclose statistics regarding a range of crimes as well as

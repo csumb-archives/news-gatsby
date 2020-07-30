@@ -4,7 +4,7 @@ title: "REI continues to support university"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Outdoor retailer donates $26,300 to Return of the Natives project</h3>
 <p>
   For the fifth straight year, CSU Monterey Bay has received a grant from the

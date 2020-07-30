@@ -4,7 +4,7 @@ date: June 5 2006
 slug: csumb-students-win-award-on-ag-math-problem
 ---
 
-```html
+ 
 
 
 

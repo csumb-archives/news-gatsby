@@ -4,7 +4,7 @@ title: "Startup Weekend Monterey Bay 2017 Registration Now Open"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Dec. 12, 2016 – Registration for the 2017 Startup Weekend to be
   held at Cal State Monterey Bay on Jan. 27-29, 2017 is now open for all college

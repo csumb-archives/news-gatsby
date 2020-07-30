@@ -4,7 +4,7 @@ title: "Luis Valdez delivers talk at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Presentation part of Chicano/Latino Heritage Month</h3>
 <p>
   Luis Valdez, writer, director, actor and founding faculty member at CSU

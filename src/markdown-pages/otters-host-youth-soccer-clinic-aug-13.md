@@ -4,7 +4,7 @@ title: "Otters host youth soccer clinic Aug. 13"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Kids 12 and under are invited to attend a soccer clinic at CSU Monterey on
   Saturday, Aug. 13. Members of the university’s men’s and women’s teams will

@@ -4,7 +4,7 @@ date: March 7 2013
 slug: csumb-celebrates-americorps-week
 ---
 
-```html
+ 
 
 
 

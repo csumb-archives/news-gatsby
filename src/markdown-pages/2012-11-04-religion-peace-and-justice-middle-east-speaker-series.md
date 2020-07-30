@@ -4,7 +4,7 @@ date: November 4 2012
 slug: religion-peace-and-justice-in-the-middle-east-speaker-series
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 04, 2012 </span>
 <p>
   <img

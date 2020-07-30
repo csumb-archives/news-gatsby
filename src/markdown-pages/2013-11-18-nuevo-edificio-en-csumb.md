@@ -4,7 +4,7 @@ date: November 18 2013
 slug: nuevo-edificio-en-csumb
 ---
 
-```html
+ 
 
 
 

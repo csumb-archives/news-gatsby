@@ -4,7 +4,7 @@ date: February 12 2014
 slug: professor-honored-for-lifetime-achievement
 ---
 
-```html
+ 
 
 
 

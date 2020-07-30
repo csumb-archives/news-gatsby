@@ -4,7 +4,7 @@ title: "Move-in day at CSU Monterey Bay"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 20, 2010</p>
 <p>
   Hundreds of excited students wheeled, carried and dragged their belongings

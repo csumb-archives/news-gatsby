@@ -4,7 +4,7 @@ title: "CSUMB Accreditation Reaffirmed for Full Ten Years"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., July 16, 2019 -- The Western Association of Schools and
   Colleges (WASC) Senior College and University Commission (WSCUC) has

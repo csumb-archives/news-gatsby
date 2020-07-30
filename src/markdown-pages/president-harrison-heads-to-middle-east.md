@@ -4,7 +4,7 @@ title: "President Harrison heads to Middle East"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When California State University, Monterey Bay President Dianne Harrison
   travels to Jordan and Oman later this month, she will take a step toward the

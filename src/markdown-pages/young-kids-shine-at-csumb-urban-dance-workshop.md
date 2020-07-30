@@ -4,7 +4,7 @@ title: "Young kids shine at CSUMB urban dance workshop"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Blending music, theater, dance and over 100 children just can’t help being
   fun.And so it was at CSUMB when members of CONTRA&#45;TIEMPO Urban Latin Dance

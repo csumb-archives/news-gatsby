@@ -4,7 +4,7 @@ title: "Film Commission scholarship awarded to TAT student"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Nicholas Fryou is this year’s recipient of the Monterey County Film
   Commission’s student scholarship.

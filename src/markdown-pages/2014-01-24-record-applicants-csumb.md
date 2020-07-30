@@ -4,7 +4,7 @@ date: January 24 2014
 slug: record-applicants-for-csumb
 ---
 
-```html
+ 
 
 
 

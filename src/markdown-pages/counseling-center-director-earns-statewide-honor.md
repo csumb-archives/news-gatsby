@@ -4,7 +4,7 @@ title: "Counseling center director earns statewide honor"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <a
     href="https://csumb.edu/pgcc/caroline&#45;haskell&#45;lcsw&#45;bcd&#45;founding&#45;director?_search=Caroline+Haskell"

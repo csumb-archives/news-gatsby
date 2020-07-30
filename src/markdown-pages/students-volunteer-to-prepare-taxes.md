@@ -4,7 +4,7 @@ title: "Students volunteer to prepare taxes"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Twenty&#45;nine students and two faculty members from CSU Monterey Bay are
   preparing income taxes for free during the next few months at various

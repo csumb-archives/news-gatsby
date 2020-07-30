@@ -4,7 +4,7 @@ title: "CSUMB announces $1M Osher gift"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>OLLI's adult education classes resume in January</h3>
 <p>
   The Osher Lifelong Learning Institute at CSU Monterey Bay, also known as

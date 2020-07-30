@@ -4,7 +4,7 @@ date: May 3 2011
 slug: tonight&amp;colon;-school-of-business-showcase
 ---
 
-```html
+ 
 <span class="date">Posted on May 03, 2011 </span>
 
 <p>Michael Briley, managing partner of Hayashi &amp; Wayland

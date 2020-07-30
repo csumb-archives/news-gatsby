@@ -4,7 +4,7 @@ date: December 29 2011
 slug: archaeologist-helps-put-stamp-on-mission
 ---
 
-```html
+ 
 
 
 

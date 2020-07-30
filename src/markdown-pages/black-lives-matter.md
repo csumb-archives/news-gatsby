@@ -4,7 +4,7 @@ title: "Black Lives Matter"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>CSUMB community affirms support for racial justice, systemic change</h2>
 <p>
   <b>SEASIDE, Calif., June 18, 2020</b> - Following multiple tragic deaths in

@@ -4,7 +4,7 @@ title: "Student films to be shown at Forest Theater"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 15, 2010</p>
 <p>
   Work by students at California State University, Monterey Bay as well as

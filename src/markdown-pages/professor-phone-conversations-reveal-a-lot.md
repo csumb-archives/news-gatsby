@@ -4,7 +4,7 @@ title: "Professor: phone conversations reveal a lot"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A new study has revealed that the nature of cell phone communications between
   a parent and adolescent child can reveal the quality of their relationship.

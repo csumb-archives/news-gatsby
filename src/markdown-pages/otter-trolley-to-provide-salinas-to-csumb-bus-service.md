@@ -4,7 +4,7 @@ title: "Otter Trolley to provide Salinas-to-CSUMB bus service"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 29, 2010</p>
 <p>
   Starting Sept. 7, students, faculty and staff members will be able to commute

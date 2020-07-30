@@ -4,7 +4,7 @@ title: "President Harrison joins CSU officials to bring college message to Afric
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB administrators will join other California State University officials in
   bringing the college message to thousands of church members during the fifth

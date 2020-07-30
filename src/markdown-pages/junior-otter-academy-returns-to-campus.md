@@ -4,7 +4,7 @@ title: "Junior Otter Academy returns to campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Approximately 200 fourth- through ninth-graders are on campus during July for
   the annual Migrant Junior Otter Academy.

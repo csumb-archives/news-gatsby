@@ -4,7 +4,7 @@ title: "Research supports targeted trawling"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   James Lindholm, a professor of marine science and policy at CSU Monterey Bay,
   partnered with fishermen and conservationists to study the effects of

@@ -4,7 +4,7 @@ title: "Campus helps hospital kick off holiday blood drive"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Sixty students, staff and faculty members turned out to donate blood on a
   Wednesday in late November, despite the crush of work they needed to complete

@@ -4,7 +4,7 @@ title: "CSUMB awarded $8 million innovation grants"
 date: January 01 2020
 ---
 
-```html
+ 
 <p><i>Published on March 20, 2015</i></p>
 <p>
   The innovative work being done by CSU Monterey Bay was recognized by the state

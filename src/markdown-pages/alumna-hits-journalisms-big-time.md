@@ -4,7 +4,7 @@ title: "Alumna hits journalism's big time"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Christy Khoshaba has hit the big time – journalistically speaking.</p>
 <p>
   The 2011 Human Communication major has gone from CSU Monterey Bay’s student

@@ -4,7 +4,7 @@ title: "CSUMB  rout in season-opener"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>98 points is most scored in Otters' history</strong> The play sounded
   different, but the song remained the same as the Cal State Monterey Bay

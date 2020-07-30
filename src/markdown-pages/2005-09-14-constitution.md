@@ -4,7 +4,7 @@ date: September 14 2005
 slug: campus-marks-constitution-day
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 14, 2005 </span>
 Campus marks Constitution Day
 <p>

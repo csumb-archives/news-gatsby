@@ -4,7 +4,7 @@ title: "Students take tech ideas for test ride"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay students will put their creative and technical skills
   to work at HACK UCSC 2015.

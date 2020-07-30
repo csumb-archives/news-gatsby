@@ -4,7 +4,7 @@ title: "Student-athletes shine in the classroom"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Led by members of the women’s soccer team, seven CSUMB squads produced team
   grade-point averages of 3.0 or higher for the spring semester.

@@ -4,7 +4,7 @@ title: "Steppenwolf role reprised at CSU Summer Arts"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>
   Steppenwolf Theatre Company co-founder Jeff Perry joins forces with guest
   artists to educate the next generation at Summer Arts

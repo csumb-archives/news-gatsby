@@ -4,7 +4,7 @@ title: "Monterey County Film Commission Selects CSUMB’s Briana Gonzales as Sch
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   (Contributed) May 17, 2017 – Cinematic Arts and Technology student Briana
   Gonzales was named the 2017 winner of a $2,000 scholarship in the Monterey

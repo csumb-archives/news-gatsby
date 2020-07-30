@@ -4,7 +4,7 @@ date: June 20 2012
 slug: students-try-their-hand-at-balancing-state-budget
 ---
 
-```html
+ 
 
 
 

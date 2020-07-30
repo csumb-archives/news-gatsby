@@ -4,7 +4,7 @@ title: "Math to the third power"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Salinas Valley is doing its part to reduce the shortage of math teachers
   in the U.S. Three local young women are headed to graduate school and then to

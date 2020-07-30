@@ -4,7 +4,7 @@ title: "Associate Professor Cheryl Logan Receives Fulbright Award "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., March 20, 2018 – California State University, Monterey Bay
   (CSUMB)

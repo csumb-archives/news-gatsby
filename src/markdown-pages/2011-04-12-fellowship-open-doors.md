@@ -4,7 +4,7 @@ date: April 12 2011
 slug: fellowship-to-open-doors
 ---
 
-```html
+ 
 <span class="date">Posted on Apr 12, 2011 </span>
 <p>
   Todd Hallenbeck will complete his master&#x2019;s degree in Coastal and

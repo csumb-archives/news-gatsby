@@ -4,7 +4,7 @@ title: "Veteran 'connects to education' at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In May, 2005, Army Spec. Travis Fugate was seriously injured by a roadside
   bomb while on patrol in Iraq. It took out his right eye and damaged the retina

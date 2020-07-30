@@ -4,7 +4,7 @@ date: December 6 2011
 slug: campus-helps-hospital-kick-off-holiday-blood-drive
 ---
 
-```html
+ 
 
 
 

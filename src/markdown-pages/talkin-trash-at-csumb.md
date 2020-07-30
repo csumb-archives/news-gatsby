@@ -4,7 +4,7 @@ title: "Talkin' trash at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 5, 2009</p>
 <p>
   When students move into the residence halls later this month, they'll find

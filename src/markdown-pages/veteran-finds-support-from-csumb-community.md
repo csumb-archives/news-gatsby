@@ -4,7 +4,7 @@ title: "Veteran finds support from CSUMB community"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 12, 2010</p>
 <h4>Former Army medic pursuing degree in health and human services</h4>
 <p>

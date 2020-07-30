@@ -4,7 +4,7 @@ title: "Foundation of CSUMB adds board members"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Eight community members have joined the Foundation of CSU Monterey Bay board
   of directors.

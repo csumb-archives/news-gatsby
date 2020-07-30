@@ -4,7 +4,7 @@ title: "New CSUMB coach a familiar face"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Although Darcy Milligan only started as CSU Monterey Bay's women's golf coach
   a few weeks ago, she is a familiar face at the Otters' home courses of Bayonet

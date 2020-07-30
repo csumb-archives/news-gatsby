@@ -4,7 +4,7 @@ date: October 14 2011
 slug: alcohol-awareness-week-oct.-1621
 ---
 
-```html
+ 
 
 
 

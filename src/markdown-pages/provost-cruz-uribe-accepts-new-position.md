@@ -4,7 +4,7 @@ title: "Provost Cruz-Uribe accepts new position"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Takes over as Indiana University East chancellor</h3>
 <p>
   CSU Monterey Bay Provost Kathy Cruz-Uribe has accepted the position of

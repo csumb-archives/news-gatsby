@@ -4,7 +4,7 @@ date: September 13 2011
 slug: science-illustrated
 ---
 
-```html
+ 
 
 
 

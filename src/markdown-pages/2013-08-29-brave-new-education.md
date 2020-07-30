@@ -4,7 +4,7 @@ date: August 29 2013
 slug: brave-new-education
 ---
 
-```html
+ 
 
 
 

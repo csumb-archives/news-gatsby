@@ -4,7 +4,7 @@ title: "CSUMB to Host Ocean Candidates Forum "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 23, 2018 – California State University, Monterey Bay
   (CSUMB) will host a nonpartisan

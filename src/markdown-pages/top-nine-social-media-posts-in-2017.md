@@ -4,7 +4,7 @@ title: "Top Nine Social Media Posts in 2017"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   We counted down the top nine posts that had the most reach in 2017 in each of
   our three social media channels.

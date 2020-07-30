@@ -4,7 +4,7 @@ title: "Provost’s Award Winners "
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>
   Graduating students recognized for excellence as academic role models, leaders
 </h2>

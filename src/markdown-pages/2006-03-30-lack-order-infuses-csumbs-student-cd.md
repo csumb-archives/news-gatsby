@@ -4,7 +4,7 @@ date: March 30 2006
 slug: lack-of-&apos;order&apos;-infuses-csumb&apos;s-student-cd
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Holiday greetings from President Ochoa"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The holiday season and dawn of a new year is a time for reflection and
   gratitude. Now is an opportunity to celebrate the successes of our students,

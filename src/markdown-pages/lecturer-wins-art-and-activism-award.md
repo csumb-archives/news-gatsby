@@ -4,7 +4,7 @@ title: "Lecturer wins Art and Activism Award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 18, 2010</p>
 <p>
   Jennifer Colby, a lecturer in the

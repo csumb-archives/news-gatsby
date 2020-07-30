@@ -4,7 +4,7 @@ title: "Lecture examines the conflict in Palestine"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Journalist Ben Ehrenreich will visit Cal State Monterey Bay on Nov. 10 to
   lecture on “Is This the Third Intifada? Understanding the Conflict in

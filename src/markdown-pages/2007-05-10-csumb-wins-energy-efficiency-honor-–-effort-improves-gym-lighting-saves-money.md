@@ -6,7 +6,7 @@ date: May 10 2007
 slug: &gt;- csumb-wins-energy-efficiency-honor-effort-improves-gym-lighting-saves-money
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: March 3 2013
 slug: provost-cruzuribe-accepts-new-position
 ---
 
-```html
+ 
 
 
 

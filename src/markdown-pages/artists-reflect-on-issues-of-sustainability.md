@@ -4,7 +4,7 @@ title: "Artists reflect on issues of sustainability"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Visual artist Peter Hiers and dancer/choreographer Matthew Nelson will be part
   of a program at CSU Monterey Bay on Dec. 3.

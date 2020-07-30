@@ -4,7 +4,7 @@ title: "First class of nursing students gets 'pinned'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For one group of history-making Cal State Monterey Bay graduates, it’s not
   about the caps and gowns. It’s all about the pin.

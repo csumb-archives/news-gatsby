@@ -4,7 +4,7 @@ date: October 25 2007
 slug: priority-applications
 ---
 
-```html
+ 
 <span class="date">Posted on Oct 25, 2007 </span>
 <p>
   Prospective students interested in enrolling at California State University,

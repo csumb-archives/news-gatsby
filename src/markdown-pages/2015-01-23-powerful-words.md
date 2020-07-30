@@ -4,7 +4,7 @@ date: January 23 2015
 slug: powerful-words
 ---
 
-```html
+ 
 
 
 

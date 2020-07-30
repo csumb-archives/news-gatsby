@@ -4,7 +4,7 @@ title: "CSUMB highly ranked among study abroad programs"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay is ranked among the top colleges for the length of time
   its students spend abroad, according to the 2015 Open Doors reports.

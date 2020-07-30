@@ -4,7 +4,7 @@ title: "Students team up to navigate the future, one more time"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s Visual and Public Art Department has collaborated with
   Marina High School to produce a second mural based on the school’s motto,

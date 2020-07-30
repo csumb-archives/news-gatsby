@@ -4,7 +4,7 @@ title: "CSUMB president touts university’s ‘maturing’"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Eduardo Ochoa itemized numerous signs of significant progress, and outlined
   his vision of the future of a “transformative university” when he delivered

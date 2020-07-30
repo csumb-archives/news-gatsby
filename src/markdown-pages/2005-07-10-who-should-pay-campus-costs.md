@@ -4,7 +4,7 @@ date: July 10 2005
 slug: who-should-pay-for-offcampus-costs
 ---
 
-```html
+ 
 
 
 

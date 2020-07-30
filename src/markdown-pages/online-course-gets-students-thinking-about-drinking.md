@@ -4,7 +4,7 @@ title: "Online course gets students thinking about drinking"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Before students began their freshman year at CSU Monterey Bay this fall, the
   university expected them to complete a homework assignment on a subject they

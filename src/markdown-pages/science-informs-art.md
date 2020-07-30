@@ -4,7 +4,7 @@ title: "Science informs art"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Images from the
   <a href="https://seafloor.otterlabs.org">Seafloor Mapping Lab </a>at CSU

@@ -4,7 +4,7 @@ title: "Environmental initiatives reshaping local hospitality industry"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This fall, CSUMB launches a sustainable hospitality management program with
   concentrations in sustainable hotel, resort and event management and

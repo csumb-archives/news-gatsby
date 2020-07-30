@@ -4,7 +4,7 @@ title: "The invisible force: Latinos at war in Vietnam"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay and the Monterey Museum of Art have collaborated on a
   community&#45;based project featuring the voices and artwork of military

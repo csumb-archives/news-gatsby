@@ -4,7 +4,7 @@ title: "Board of Trustees Ratify Agreement with California Faculty Association"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The California State University Board of Trustees has voted to ratify a
   multi&#45;year collective bargaining agreement with the California Faculty

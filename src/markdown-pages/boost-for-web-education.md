@@ -4,7 +4,7 @@ title: "Boost for web education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Since CSUMB President Eduardo Ochoa arrived last summer, he has
   emphasized his enthusiasm for 'disruptive innovation' and how that could be

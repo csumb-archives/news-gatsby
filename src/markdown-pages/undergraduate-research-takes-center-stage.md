@@ -4,7 +4,7 @@ title: "Undergraduate research takes center stage"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Campus will participate in systemwide workshop</h3>
 <p>
   Whether at a field site or in a lab, the chance to conduct research is a

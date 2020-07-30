@@ -4,7 +4,7 @@ title: "Governmental relations director joins staff"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Justin Wellner joined CSUMB as director of governmental and external relations
   in January.

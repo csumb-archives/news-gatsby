@@ -4,7 +4,7 @@ title: "Alumnus makes good impression on Hillary Clinton"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Mac Clemmens (TMAC 2005) got to hang out with a presidential candidate
   recently.

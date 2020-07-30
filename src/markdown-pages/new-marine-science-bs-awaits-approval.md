@@ -4,7 +4,7 @@ title: "New Marine Science BS awaits approval"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Location, location, location.</p>
 <p>
   The real estate agents’ mantra may also explain the next undergraduate major

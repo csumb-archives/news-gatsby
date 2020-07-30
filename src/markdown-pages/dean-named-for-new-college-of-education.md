@@ -4,7 +4,7 @@ title: "Dean named for new College of Education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Jose Luis Alvarado, who has served as associate dean for the College of
   Education at San Diego State University since 2010, has been named dean of Cal

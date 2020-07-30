@@ -4,7 +4,7 @@ title: "CSUMB acquires National Steinbeck Center "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay and the National Steinbeck Center
   have completed a deal that will bring the university to the city of Salinas.

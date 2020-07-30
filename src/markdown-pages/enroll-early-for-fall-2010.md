@@ -4,7 +4,7 @@ title: "enroll early for fall 2010"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>July 20, 2009********</p>
 <h2>Students urged to apply early for fall 2010</h2>
 <p>

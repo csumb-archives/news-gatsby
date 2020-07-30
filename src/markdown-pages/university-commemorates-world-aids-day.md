@@ -4,7 +4,7 @@ title: "University commemorates World AIDS Day"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Activities expanded to a full week</h3>
 <p>
   World AIDS Day, a global initiative to encourage countries and communities to

@@ -4,7 +4,7 @@ title: "From strawberry fields to computer science in three years"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When Mateo Sixtos drives to his computer science classes every weekday, he
   takes a good, hard look at the strawberry fields he first worked hen he was

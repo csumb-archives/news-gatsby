@@ -4,7 +4,7 @@ title: "SeedsofLegacy"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Salinas City Council will honor CSUMB's Return of the Natives Restoration
   Education Project at a council meeting on Oct. 18, as part of Make a

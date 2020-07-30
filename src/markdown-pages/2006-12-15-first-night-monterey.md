@@ -4,7 +4,7 @@ date: December 15 2006
 slug: first-night-monterey
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 15, 2006 </span>
 <h4>
   Student designs poster for New Year&apos;s Eve event&lt;?xml:namespace prefix

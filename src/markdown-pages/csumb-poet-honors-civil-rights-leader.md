@@ -4,7 +4,7 @@ title: "CSUMB poet honors civil rights leader"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Diana Garcia, a professor in the Division of Humanities and Communication,
   joined U.S. Poet Laureate Juan Felipe Herrera and others in a reading March 9

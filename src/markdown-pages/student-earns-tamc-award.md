@@ -4,7 +4,7 @@ title: "Student earns TAMC award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Bernard Green is helping to create an alternative transportation culture at
   CSUMB.

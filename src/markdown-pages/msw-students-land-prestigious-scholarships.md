@@ -4,7 +4,7 @@ title: "MSW students land prestigious scholarships"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>First class of social workers to graduate in May</h3>
 <p>
   The first graduates of Cal State Monterey Bay’s Master of Social Work program

@@ -4,7 +4,7 @@ date: August 11 2014
 slug: activists-artists-earn-california-peace-award
 ---
 
-```html
+ 
 
 
 

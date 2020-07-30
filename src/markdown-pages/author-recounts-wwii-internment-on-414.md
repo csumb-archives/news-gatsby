@@ -4,7 +4,7 @@ title: "Author recounts WWII internment on 4/14"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Kiyo's Story</h2>
 <p>
   Unlike many of her fellow internees, Kiyo Sato is willing to discuss her

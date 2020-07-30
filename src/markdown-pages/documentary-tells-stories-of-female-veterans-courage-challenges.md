@@ -4,7 +4,7 @@ title: "Documentary tells stories of female veterans' courage, challenges"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Alexis wants to get off painkillers. Mariette jumps at loud noises. BriGette
   won't leave her home. Lashonna does not have one. Sue and Alicia served

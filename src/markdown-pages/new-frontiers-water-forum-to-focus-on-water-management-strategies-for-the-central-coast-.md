@@ -4,7 +4,7 @@ title: "New Frontiers Water Forum to Focus on Water Management Strategies for th
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b><i>Keynote Speakers: </i><i>2009 CNN Hero Doc Hendley &amp; </i></b
   ><i><b>Dr. David Sedlak, U.C. Berkeley.</b></i>

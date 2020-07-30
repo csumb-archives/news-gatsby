@@ -4,7 +4,7 @@ title: "Taiwanese music group performs Oct. 5"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Taiwan-based performance group A Moving Sound will pay a visit to CSU Monterey
   Bay’s World Theater on Oct. 5.

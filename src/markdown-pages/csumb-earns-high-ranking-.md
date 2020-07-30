@@ -4,7 +4,7 @@ title: "CSUMB earns high ranking "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 24, 2010</p>
 <p>
   CSU Monterey Bay is ranked second among the nation's public liberal arts

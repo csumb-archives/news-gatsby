@@ -4,7 +4,7 @@ title: "New program helps Salinas students set sights on Silicon Valley"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Although the Salinas Valley is only about an hour south of Silicon Valley,
   many high school students there don't imagine a future in tech. But a new

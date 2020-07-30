@@ -4,7 +4,7 @@ title: "Native American History Week Nov. 12-18"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Film showings, lectures and panel presentations are all part of the
   celebration of Native American History Week at California State University,

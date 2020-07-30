@@ -4,7 +4,7 @@ title: "Teacher Pathway Program Receives Generous Donation at 6th Annual Mariach
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., September 11, 2017 – California State University Monterey
   Bay’s (CSUMB) College of Education received a generous donation at the Sixth

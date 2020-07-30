@@ -4,7 +4,7 @@ title: "Parents invited to attend Otter 101"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>University holds summer orientation sessions</h3>
 <p>
   A generation ago, college orientation was a perfunctory event, focusing on

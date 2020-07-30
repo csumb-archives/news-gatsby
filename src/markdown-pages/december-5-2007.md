@@ -4,7 +4,7 @@ title: "December 5, 2007"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>New 'U Stories' now online</strong> Each month, the College of Arts,
   Humanities and Social Sciences posts a 'U Story' on its website. Each features

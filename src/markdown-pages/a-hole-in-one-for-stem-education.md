@@ -4,7 +4,7 @@ title: "A hole-in-one for STEM education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay students recently got hands-on experience teaching
   scientific concepts such as Archimedes’ principle and Newton’s theory of

@@ -4,7 +4,7 @@ title: "CSUMB analyst earns fellowship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Sathyan Sundaram, a research analyst with the office of Institutional
   Assessment and Research, will spend part of July attending a seminar near

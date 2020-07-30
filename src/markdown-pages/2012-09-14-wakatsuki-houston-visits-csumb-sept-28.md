@@ -4,7 +4,7 @@ date: September 14 2012
 slug: wakatsuki-houston-visits-csumb-sept.-28
 ---
 
-```html
+ 
 
 
 

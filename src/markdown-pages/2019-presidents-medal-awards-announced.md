@@ -4,7 +4,7 @@ title: "2019 President’s Medal Awards Announced"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., January 16, 2020 – California State University, Monterey Bay
   (CSUMB) President Eduardo M. Ochoa awarded three employees with the

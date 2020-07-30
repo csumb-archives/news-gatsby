@@ -4,7 +4,7 @@ title: "Monterey Bay film fest offers variety of work"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Monterey Bay Film Festvial, sponsored by CSUMB, features both professional
   and local high school and college students' work. – Salinas Californian, April

@@ -4,7 +4,7 @@ title: "Bonds run deep for CSUMB at Golfweek Invite"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Five players on the CSUMB golf teamalong with their coach, Jason Owen,
   traveled 2,800 miles to Florida to play at Golfweek. –

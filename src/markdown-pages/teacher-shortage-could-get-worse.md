@@ -4,7 +4,7 @@ title: "Teacher shortage could get worse"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor of Education Mark O’Shea was quoted in a story on the state’s
   teacher shortage, agreeing with a report that concluded low pay is one of the

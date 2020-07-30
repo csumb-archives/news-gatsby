@@ -4,7 +4,7 @@ title: "Hidden health crisis on campus: Eating disorders"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Feb. 26 film showing, discussion will address the issue</h3>
 <p>
   The National Institute of Mental Health estimates that 25 percent of college

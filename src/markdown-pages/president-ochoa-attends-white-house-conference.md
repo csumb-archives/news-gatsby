@@ -4,7 +4,7 @@ title: "President Ochoa attends White House conference"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>College access topic of education summit</h3>
 <p>
   Cal State Monterey Bay President Eduardo Ochoa joined President Obama, the

@@ -4,7 +4,7 @@ date: September 9 2014
 slug: coastal-cleanup-(in-salinas)
 ---
 
-```html
+ 
 
 
 

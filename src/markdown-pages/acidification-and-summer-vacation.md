@@ -4,7 +4,7 @@ title: "Acidification and summer vacation"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Students work on research projects</h3>
 <p>
   <em

@@ -4,7 +4,7 @@ title: "Packard Foundation"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Gift to help with library construction</h4>
 <p>
   President Dianne F. Harrison has announced a $1 million grant from the David

@@ -4,7 +4,7 @@ title: "CSUMB grad thrilled to get White House internship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Zoë Carter of Los Olivos expected hard work and long hours as an intern at the
   White House, and that’s what she got. Despite the time commitment of the

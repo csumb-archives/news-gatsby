@@ -4,7 +4,7 @@ title: "State of the University address set for Thursday"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 21, 2009</p>
 <p>
   President Dianne Harrison will deliver her fourth annual State of the

@@ -4,7 +4,7 @@ title: "CSUMB women hoops"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The nationally ranked Otters are two wins away from a California Collegiate
   Athletic Association title after a 75-54 beating on Saturday over Humbolt

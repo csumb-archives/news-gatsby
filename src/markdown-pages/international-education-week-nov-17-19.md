@@ -4,7 +4,7 @@ title: "International Education Week Nov. 17-19"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay welcomed its largest-ever group of international students
   this year. About 200 students from other nations are attending CSUMB this

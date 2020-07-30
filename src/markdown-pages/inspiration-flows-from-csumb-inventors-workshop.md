@@ -4,7 +4,7 @@ title: "Inspiration flows from CSUMB Inventor's Workshop"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Move over, Rube Goldberg. There's a new generation of inventors out there,
   melding old and new technology to create fascinating stuff. It was evident

@@ -4,7 +4,7 @@ title: "Students – and their stuff – fill the residence halls"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Hundreds of excited students carried, dragged and wheeled their belongings
   into the residence halls at CSU Monterey Bay on Aug. 21, the first day of the

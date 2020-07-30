@@ -4,7 +4,7 @@ date: December 6 2013
 slug: promesa-de-estudiar-en-la-universidad-csumb
 ---
 
-```html
+ 
 
 
 

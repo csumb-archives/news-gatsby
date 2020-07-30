@@ -4,7 +4,7 @@ title: "Down with Gown"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The CSUMB capstones are like a two&#45;day schoolwide talent show. It all
   comes down to this. At the end of each semester, senior students from every

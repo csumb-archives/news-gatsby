@@ -4,7 +4,7 @@ title: "Basketball clinic kicks off Kids Club "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Dec. 1, 2009</p>
 <p>
   CSUMB athletics kicked off a year-round series of "FUN-damental" sports

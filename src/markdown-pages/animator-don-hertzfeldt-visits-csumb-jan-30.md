@@ -4,7 +4,7 @@ title: "Animator Don Hertzfeldt visits CSUMB Jan. 30"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Cult figure to screen his newest film</h3>
 <p>
   Stick figures have never looked as good as they do in Don Hertzfeldt’s films.

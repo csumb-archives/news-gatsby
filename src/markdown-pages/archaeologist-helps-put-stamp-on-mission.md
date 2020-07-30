@@ -4,7 +4,7 @@ title: "Archaeologist helps put stamp on mission"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Stamp to be issued in 2012</h3>
 <p>
   The U.S. Postal Service will honor nearly 250 years of California history with

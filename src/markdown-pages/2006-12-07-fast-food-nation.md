@@ -4,7 +4,7 @@ date: December 7 2006
 slug: fast-food-nation
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 07, 2006 </span>
 <fieldset class="fieldgroup group-attachments">
   <legend>Attachments</legend>

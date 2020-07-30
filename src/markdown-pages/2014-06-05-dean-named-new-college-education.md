@@ -4,7 +4,7 @@ date: June 5 2014
 slug: dean-named-for-new-college-of-education
 ---
 
-```html
+ 
 
 
 

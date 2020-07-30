@@ -4,7 +4,7 @@ date: May 25 2011
 slug: veteran-monterey-officer-joins-university-police
 ---
 
-```html
+ 
 
 
 

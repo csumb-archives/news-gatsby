@@ -4,7 +4,7 @@ date: November 7 2007
 slug: covina-student-earns-award
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 07, 2007 </span>
 <p>
   California Sea Grant has named Jasmine Ruvalcaba a 2007 John D. Isaacs Marine

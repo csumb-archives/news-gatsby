@@ -4,7 +4,7 @@ title: "Capping off college with senior projects"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>CAPSTONE FESTIVAL SET FOR MAY 13, 14 AND 15</p>
 <p>
   Tyler Garland’s mother, Heidi, is a breast cancer survivor who works to

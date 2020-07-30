@@ -4,7 +4,7 @@ date: November 3 2013
 slug: gamechanging-local-leaders&amp;colon;-eduardo-ochoa
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 03, 2013 </span>
 
 <p>Running a university takes time and dedication. And once a

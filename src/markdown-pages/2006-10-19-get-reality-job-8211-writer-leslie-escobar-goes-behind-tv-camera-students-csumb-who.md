@@ -5,7 +5,7 @@ date: October 19 2006
 slug: &gt;- get-a-reality-job-writer-leslie-escobar-goes-behind-the-tv-camera-with-students-from-csumb-who-made-it-into-the-business
 ---
 
-```html
+ 
 
 
 

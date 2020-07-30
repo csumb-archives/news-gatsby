@@ -4,7 +4,7 @@ date: September 2 2009
 slug: csumb-reaches-agreement-with-marina-fora-on-future-growth
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 02, 2009 </span>
 <p>Sept. 2, 2009</p>
 <strong>CSUMB reaches agreement with Marina, FORA on future growth</strong>

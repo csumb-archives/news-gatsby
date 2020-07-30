@@ -4,7 +4,7 @@ title: "A long way from home"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Cycling across America to help the homeless</h3>
 <p>
   After commencement, Daniel Troia didn't spent much time celebrating. Nine days

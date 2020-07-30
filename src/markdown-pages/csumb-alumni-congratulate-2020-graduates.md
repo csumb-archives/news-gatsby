@@ -4,7 +4,7 @@ title: "CSUMB Alumni Congratulate 2020 Graduates"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB Alumni Association and our proud Otter alumni congratulate the 2020
   graduating class from wherever we are.

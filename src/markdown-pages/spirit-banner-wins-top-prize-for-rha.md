@@ -4,7 +4,7 @@ title: "Spirit banner wins top prize for RHA"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Members of the Residential Housing Association told the world why they love
   their home at CSU Monterey Bay, and won an award for their efforts.

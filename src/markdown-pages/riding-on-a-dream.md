@@ -4,7 +4,7 @@ title: "Riding on a Dream"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Daniel Diaz is living the dream of a Dreamer. The 20&#45;year&#45;old is en
   route to obtaining a bachelor's degree in computer science in the innovative

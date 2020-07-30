@@ -4,7 +4,7 @@ title: "Student housing complex under construction"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Rising to the north of campus is a four-story student housing project, set to
   open in the fall of 2015.

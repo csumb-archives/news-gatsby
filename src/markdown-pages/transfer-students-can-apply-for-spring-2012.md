@@ -4,7 +4,7 @@ title: "Transfer students can apply for spring 2012"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay is accepting applications for spring
   2012 from transfer, credential and international students.

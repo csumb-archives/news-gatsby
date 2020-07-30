@@ -4,7 +4,7 @@ title: "To these artists, the public matters"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Visiting Artist series at Cal State Monterey Bay continues on April 9 with
   a presentation by Reanne Estrada and Mike Blockstein of

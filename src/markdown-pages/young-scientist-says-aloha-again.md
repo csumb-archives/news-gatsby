@@ -4,7 +4,7 @@ title: "Young scientist says aloha again"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A young scientist and college graduate from Salinas has an exciting summer to
   look forward to as he plans to attend a national conference for a second

@@ -4,7 +4,7 @@ title: "Students recognized at research competition"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Three CSUMB students were recognized for the quality of their work at the
   California State University Student Research Competition.

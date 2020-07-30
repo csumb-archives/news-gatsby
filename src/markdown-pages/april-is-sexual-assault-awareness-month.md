@@ -4,7 +4,7 @@ title: "April is Sexual Assault Awareness Month"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>But it’s a 365 day-a-year problem</h2>
 <p>
   Following on the heels of Eve Ensler’s “The Vagina Monologues,” CSU Monterey

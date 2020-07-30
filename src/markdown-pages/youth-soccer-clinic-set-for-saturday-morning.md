@@ -4,7 +4,7 @@ title: "Youth soccer clinic set for Saturday morning"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay's men's and women's soccer teams will hold a free clinic on
   Saturday, Aug. 17, at the Otter Sports Complex.

@@ -4,7 +4,7 @@ title: "STUDY HALL"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>New library is all things to all people</h2>
 <p>
   From the moment it opened at 8 a.m. on Dec. 1, 2008, the Tanimura &amp; Antle

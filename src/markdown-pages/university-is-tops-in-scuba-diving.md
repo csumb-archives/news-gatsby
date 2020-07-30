@@ -4,7 +4,7 @@ title: "University is tops in scuba diving"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB named a Best College by Outdoor Activity</h3>
 <p>
   Forget the U.S. News list of top colleges and universities. Ditto for the

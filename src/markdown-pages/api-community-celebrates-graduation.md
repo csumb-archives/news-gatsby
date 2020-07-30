@@ -4,7 +4,7 @@ title: "API community celebrates graduation"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Patti Hiramoto, vice president of University Advancement, reminded the
   gathering at CSU Monterey Bay’s first Asian Pacific Islander American

@@ -4,7 +4,7 @@ title: "CSUMB Alumnae Win Daytime Emmy Award for Outstanding Travel and Adventur
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 12, 2017 – Two CSUMB alumnae are members of the Wonder
   Women film crew who won the 2017 Daytime Emmy for Outstanding Travel and

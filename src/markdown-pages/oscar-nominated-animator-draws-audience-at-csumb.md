@@ -4,7 +4,7 @@ title: "Oscar-nominated animator draws audience at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Whether detailing a family history of mental problems or untangling a bloody
   mess of post-surgery stitching, filmmaker Don Hertzfeld has a remarkable knack

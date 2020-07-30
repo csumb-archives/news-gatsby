@@ -4,7 +4,7 @@ date: September 4 2009
 slug: campus-makes-another-effort-to-prevent-the-flu
 ---
 
-```html
+ 
 
 
 

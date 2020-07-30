@@ -4,7 +4,7 @@ title: "Modern Justice"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . The 18th annual CSUMB Social Justice Colloquium is titled "Queer
   Justice: Past, Present, Future" and is comprised of a panel of scholars,

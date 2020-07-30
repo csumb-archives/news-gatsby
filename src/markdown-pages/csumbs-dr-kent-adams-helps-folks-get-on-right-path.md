@@ -4,7 +4,7 @@ title: "CSUMB's Dr. Kent Adams helps folks get on right path"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   There's probably no Fountain of Youth, but Kent Adams, a CSU Monterey Bay
   professor whose workshop is an exercise physiology lab, is discovering that

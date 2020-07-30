@@ -4,7 +4,7 @@ title: "Courses aimed to building pipeline for 3-year bachelor's program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . CSU Monterey Bay and Hartnell College put together a plan for students
   to finish a bachelor's degree in three years as a way of tackling several

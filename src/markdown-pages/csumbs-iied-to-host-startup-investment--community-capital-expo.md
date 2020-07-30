@@ -4,7 +4,7 @@ title: "CSUMB’s iiED to Host Startup Investment & Community Capital Expo"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., August 27, 2019 – California State University, Monterey Bay’s
   (CSUMB) Institute for Innovation and Economic Development (iiED) is set to

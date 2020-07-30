@@ -4,7 +4,7 @@ title: "Social work program earns national accreditation"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay’s master’s degree in social work
   (MSW) program passed an extensive accreditation process recently, and is now

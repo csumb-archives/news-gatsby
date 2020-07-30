@@ -6,7 +6,7 @@ date: December 14 2006
 slug: &gt;- alee-music-writer-talks-to-a-csumb-hiphop-artist-about-her-debut-cd-and-how-she-hooked-up-with-virgin-label-fog-box
 ---
 
-```html
+ 
 
 
 

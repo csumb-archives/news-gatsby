@@ -4,7 +4,7 @@ title: "47 athletes earn all-academic honors"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Nearly four dozen CSUMB student-athletes earned California Collegiate Athletic
   Association All-Academic honors, a reminder that Otter success extended beyond

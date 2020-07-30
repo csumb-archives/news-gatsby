@@ -4,7 +4,7 @@ date: January 12 2011
 slug: csumb-student-receives-hearst
 ---
 
-```html
+ 
 
 
 

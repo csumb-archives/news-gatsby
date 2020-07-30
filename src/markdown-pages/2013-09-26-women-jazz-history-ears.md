@@ -4,7 +4,7 @@ date: September 26 2013
 slug: women-in-jazz&amp;colon;-history-for-the-ears
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 26, 2013 </span>
 
 <h3>Vocalist Pamela Rose comes to the World Theater</h3>

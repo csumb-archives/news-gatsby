@@ -4,7 +4,7 @@ title: "A Year in Review"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>More students, commitment to the environment highlight 2007</h4>
 <p>
   More students, more outside support, a commitment to the environment and a

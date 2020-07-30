@@ -4,7 +4,7 @@ title: "Grant supports Imagine College"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Monterey Peninsula foundation gift helps students get to college</h3>
 <p>
   California State University, Monterey Bay has received a grant from the

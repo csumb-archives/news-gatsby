@@ -4,7 +4,7 @@ title: "Students help to tell stories of Chinatown"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Grant funds development of oral history walking tour</h3>
 <p>
   For six years, Professor Rina Benmayor’s students at CSU Monterey Bay have

@@ -4,7 +4,7 @@ title: "Have a heart for students on Feb. 25"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Annual dinner, auction raises money for student scholarships</h2>
 <p>
   Local TV personality Hunter Finnell will help auction off dozens of items –

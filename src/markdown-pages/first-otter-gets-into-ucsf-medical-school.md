@@ -4,7 +4,7 @@ title: "First Otter gets into UCSF medical school"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Speaking in quick, short sentences, Katherine Canul strikes you as a
   determined and focused young woman. Canul, 21, a biology major at CSU Monterey

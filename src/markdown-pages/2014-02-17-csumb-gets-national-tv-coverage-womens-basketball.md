@@ -4,7 +4,7 @@ date: February 17 2014
 slug: csumb-gets-national-tv-coverage-for-women&apos;s-basketball
 ---
 
-```html
+ 
 
 
 

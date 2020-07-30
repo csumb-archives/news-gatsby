@@ -4,7 +4,7 @@ title: "Katrina Aftermath"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When Estée Blancher came to CSUMB in the spring of 2002, she knew that her New
   Orleans roots would one day be the focus of the filmmaking skills she hoped to

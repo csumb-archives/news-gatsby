@@ -4,7 +4,7 @@ title: "Decision to canonize Junipero Serra draws divided reaction"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Others such as Ruben Mendoza, coordinator of California mission archaeology at
   Cal State Monterey Bay, say the canonization is long overdue. "I've always

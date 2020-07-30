@@ -4,7 +4,7 @@ date: December 16 2013
 slug: artifacts
 ---
 
-```html
+ 
 
 
 

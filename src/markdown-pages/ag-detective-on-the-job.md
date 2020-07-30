@@ -4,7 +4,7 @@ title: "Ag detective on the job"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Salinas native Isael Rubio wears a white laboratory coat as he runs tests on
   plants at the local USDA research station. Rubio, 22, a senior at CSU Monterey

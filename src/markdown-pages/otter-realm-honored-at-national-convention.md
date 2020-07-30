@@ -4,7 +4,7 @@ title: "Otter Realm honored at national convention"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Otter Realm, CSU Monterey Bay’s student newspaper, was honored at the
   National College Journalism Convention held recently in Seattle.

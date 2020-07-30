@@ -4,7 +4,7 @@ date: October 23 2014
 slug: otters-at-the-bottom-of-the-world
 ---
 
-```html
+ 
 
 
 

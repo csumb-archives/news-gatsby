@@ -4,7 +4,7 @@ title: "Student research takes top honors"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A research poster created by a team of CSU Monterey Bay students took first
   place at the Association of Environmental Professionals (AEP) annual state

@@ -4,7 +4,7 @@ title: "CSUMB grad honored by Salinas City Council"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>University presents USDA researcher Carolee Bull with mentor award</h3>
 <p>
   Recent graduate Isael Rubio and Dr. Carolee Bull, his mentor at the U.S.

@@ -4,7 +4,7 @@ title: "Summer 2013 Innovation Projects"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   President Ochoa is pleased to announce that 23 summer faculty projects in the
   area of innovative teaching and learning have been funded through the generous

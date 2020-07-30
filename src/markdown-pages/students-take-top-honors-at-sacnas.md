@@ -4,7 +4,7 @@ title: "Students take top honors at SACNAS"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay students took a first&#45;place award and two seconds at the
   recent conference of the Society for the Advancement of Chicanos and Native

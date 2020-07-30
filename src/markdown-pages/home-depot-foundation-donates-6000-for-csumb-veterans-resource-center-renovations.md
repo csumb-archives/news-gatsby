@@ -4,7 +4,7 @@ title: "Home Depot Foundation Donates $6,000 for CSUMB Veterans Resource Center 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., March 24, 2017 – The Veterans Resource Center at CSUMB has a
   new refurbished space for student veterans to gather thanks to a generous

@@ -4,7 +4,7 @@ title: "Physician assistant students, faculty volunteer at COVID-19 Alternate Ca
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Calif., May 15, 2020</b> - Students and faculty with CSU Monterey
   Bay’s Master of Physician Assistant (MSPA) Program continue to volunteer their

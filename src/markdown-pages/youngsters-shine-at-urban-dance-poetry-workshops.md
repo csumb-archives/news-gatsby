@@ -4,7 +4,7 @@ title: "Youngsters shine at urban dance, poetry workshops"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Summer Arts isn’t just for university students.</p>
 <p>
   On a recent morning, 100 youngsters from the Salinas City Elementary School

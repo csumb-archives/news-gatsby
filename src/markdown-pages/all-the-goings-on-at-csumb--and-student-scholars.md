@@ -4,7 +4,7 @@ title: "All the goings on at CSUMB ? and student scholars"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   There's film, there's theater, there's provocative speakers, there's just so
   much going on at CSUMB. In between all the events, students do have time to do

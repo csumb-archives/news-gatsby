@@ -4,7 +4,7 @@ title: "Tales of Salinas to be screened Dec. 9, 11"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For years, Professor Rina Benmayor’s students at CSU Monterey Bay have worked
   to preserve memories of the residents of Salinas.

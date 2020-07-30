@@ -4,7 +4,7 @@ date: January 20 2015
 slug: professor-earns-&apos;firstyear-student-advocate&apos;-honor
 ---
 
-```html
+ 
 
 
 

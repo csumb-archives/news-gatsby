@@ -4,7 +4,7 @@ title: "alcohol education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p></p>
 <p>July 1, 2009</p>
 <h2>University educates students about alcohol</h2>

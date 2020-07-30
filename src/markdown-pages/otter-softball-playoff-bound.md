@@ -4,7 +4,7 @@ title: "Otter softball playoff bound"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Not only did the Otters clinch a California Collegiate Athletic
   Association playoff spot with their seventh straight victory, they also set

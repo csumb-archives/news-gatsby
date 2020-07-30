@@ -4,7 +4,7 @@ title: "VPA professor gets her day in Berkeley"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Stephanie Johnson, associate professor in the Visual and Public Art
   Department, has been honored by her home town of Berkeley.

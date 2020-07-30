@@ -4,7 +4,7 @@ date: November 6 2013
 slug: native-american-heritage-month-at-csumb
 ---
 
-```html
+ 
 
 
 

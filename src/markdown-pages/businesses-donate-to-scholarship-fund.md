@@ -4,7 +4,7 @@ title: "Businesses donate to scholarship fund"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   C.H. Robinson and FoodSource recently showed their support of CSU Monterey Bay
   with a donation to the university’s School of Business.

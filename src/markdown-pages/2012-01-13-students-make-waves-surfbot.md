@@ -4,7 +4,7 @@ date: January 13 2012
 slug: students-make-waves-with-surfbot
 ---
 
-```html
+ 
 
 
 

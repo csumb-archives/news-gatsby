@@ -4,7 +4,7 @@ title: "Students get taste of collegiate pride"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Elementary and middle-school students from across Monterey County are
   jump-starting their college careers with a summer program at the local state

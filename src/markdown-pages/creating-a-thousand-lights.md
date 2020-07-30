@@ -4,7 +4,7 @@ title: "Creating a thousand lights"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB joins statewide message of hope</h3>
 <p>
   California State University campuses throughout the state are holding

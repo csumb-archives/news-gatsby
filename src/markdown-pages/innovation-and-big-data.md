@@ -4,7 +4,7 @@ title: "Innovation and Big Data"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Each month during the school year, CSU Monterey Bay’s Institute for Innovation
   and Economic Development sponsors an informal event that brings together

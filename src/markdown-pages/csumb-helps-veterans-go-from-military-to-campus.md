@@ -4,7 +4,7 @@ title: "CSUMB helps veterans go from military to campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay has joined a growing number of colleges and universities
   nationwide that have established a Student Veteran Organization. –

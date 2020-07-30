@@ -4,7 +4,7 @@ date: May 13 2014
 slug: commencement-by-the-numbers
 ---
 
-```html
+ 
 
 
 

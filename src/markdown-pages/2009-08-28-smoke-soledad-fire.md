@@ -4,7 +4,7 @@ date: August 28 2009
 slug: smoke-coming-our-way-from-soledad-fire
 ---
 
-```html
+ 
 <span class="date">Posted on Aug 28, 2009 </span>
 <p>
   Aug. 28, 2009<strong><br /></strong>

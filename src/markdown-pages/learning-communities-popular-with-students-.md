@@ -4,7 +4,7 @@ title: "Learning communities popular with students "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In an effort to maximize the education students receive outside the classroom,
   CSUMB now offers residents the opportunity to live in “themed” learning

@@ -4,7 +4,7 @@ title: "Grant funds Chinatown walking tour project"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For six years, Rina Benmayor's students at CSU Monterey Bay have worked to
   preserve memories of Chinatown in Salinas. That work has received a $10,000

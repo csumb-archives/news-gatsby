@@ -4,7 +4,7 @@ title: "Support programs open doors for students"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Seniors celebrated at EOP event</h3>
 <p>
   Marina Rico, the youngest of seven siblings, grew up in an agricultural area

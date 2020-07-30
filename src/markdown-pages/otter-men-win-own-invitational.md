@@ -4,7 +4,7 @@ title: "Otter men win own invitational"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The No. 8-ranked Otters cruised to a win in their own Otter Invitational at
   par-72 Black Horse Golf Course, finishing at 10-under-par and 27 strokes ahead

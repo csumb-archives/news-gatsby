@@ -4,7 +4,7 @@ title: "One man's fight to stop street violence"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. David Kennedy of Harvard’s John F. Kennedy School of Government will speak
   at CSU Monterey Bay on March 28 as the

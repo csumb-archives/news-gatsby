@@ -4,7 +4,7 @@ title: "Living Memorial for Women and War"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Three academic departments at Cal State Monterey Bay have joined forces to
   present a “Living Memorial,” a series of public art installations,

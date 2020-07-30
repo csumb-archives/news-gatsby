@@ -4,7 +4,7 @@ title: "CSUMB lands $12.6 million grant"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 12, 2009</p>
 <p>
   CSU Monterey Bay is one of three universities that will share a $12.6 million

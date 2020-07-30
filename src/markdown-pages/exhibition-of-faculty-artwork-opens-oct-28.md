@@ -4,7 +4,7 @@ title: "Exhibition of faculty artwork opens Oct. 28"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Work by faculty members in the
   <a href="https://csumb.edu/vpa">Visual and Public Art Department</a> will be

@@ -4,7 +4,7 @@ title: "Math major earns prestigious fellowship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Another math major has earned recognition for his outstanding work in the
   classroom – the third student honored in the last few months.

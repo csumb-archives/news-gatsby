@@ -4,7 +4,7 @@ title: "Students say 'no' to violence against women"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Students at CSU Monterey Bay will gather on Feb. 13 to protest sexual violence
   toward women across the globe as part of the “<a

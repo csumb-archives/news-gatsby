@@ -4,7 +4,7 @@ title: "Washington, D.C., conference: A teachable meeting"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   “Unique Event Management Opportunity” read the flyer. “Unique” may be an
   understatement.

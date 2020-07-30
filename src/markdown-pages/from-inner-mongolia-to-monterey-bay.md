@@ -4,7 +4,7 @@ title: "From Inner Mongolia to Monterey Bay"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   East Asia educators visit CSUMB and surrounding region to gain further
   knowledge of higher education practices in United States

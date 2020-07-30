@@ -4,7 +4,7 @@ title: "Social Media Guidelines"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay has an active and engaged faculty, staff and student
   body, and we love interactive ways to connect and share information online.

@@ -4,7 +4,7 @@ title: "Ed Begley Jr. walks the green walk"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 27, 2010</p>
 <p>******Actor/environmentalist opens 2010 speaker series Sept. 28**</p>
 <p>Ed Begley Jr. isn't just another celebrity-turned-environmentalist.</p>

@@ -4,7 +4,7 @@ title: "Admin and Teachers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 19, 2009</p>
 <h4>CSUMB administrator honored for work with teachers</h4>
 <p>

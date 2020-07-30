@@ -4,7 +4,7 @@ date: February 11 2014
 slug: csumb-lines-up-a-smart-provocative-black-history-month
 ---
 
-```html
+ 
 
 
 

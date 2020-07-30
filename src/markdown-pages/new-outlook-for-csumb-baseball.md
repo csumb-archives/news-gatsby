@@ -4,7 +4,7 @@ title: "New outlook for CSUMB baseball"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   To most sports teams, a new year falls somewhere between rebuilding and
   reloading. For the baseball team at Cal State Monterey Bay, it is a matter of

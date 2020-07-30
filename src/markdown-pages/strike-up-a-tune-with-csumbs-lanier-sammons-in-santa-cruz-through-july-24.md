@@ -4,7 +4,7 @@ title: "Strike up a tune with CSUMB’s Lanier Sammons in Santa Cruz through Jul
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   If you’re on the north side of the bay, pay a visit to the Santa Cruz Museum
   of Art and History. There, you will find CSUMB music instructor Lanier Sammons

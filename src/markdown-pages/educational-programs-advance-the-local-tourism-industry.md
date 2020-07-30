@@ -4,7 +4,7 @@ title: "Educational programs advance the local tourism industry"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Soon, CSUMB will introduce one of the country's first sustainable hospitality
   management programs. Students who earn the bachelor's degree, which will offer

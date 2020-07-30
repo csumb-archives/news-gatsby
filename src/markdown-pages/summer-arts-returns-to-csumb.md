@@ -4,7 +4,7 @@ title: "Summer Arts returns to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This year marks the 30th anniversary of CSU Summer Arts, and the program –
   which starts in late June – invites students to register now for this year’s

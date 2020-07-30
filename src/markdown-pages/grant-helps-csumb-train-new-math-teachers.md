@@ -4,7 +4,7 @@ title: "Grant helps CSUMB train new math teachers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 24, 2009</p>
 <p>
   CSU Monterey Bay and two partners have been awarded $900,000 to help prepare

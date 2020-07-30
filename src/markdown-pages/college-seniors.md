@@ -4,7 +4,7 @@ title: "COLLEGE SENIORS"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   College students aren’t the only ones being educated on the Cal State Monterey
   Bay campus.

@@ -4,7 +4,7 @@ date: June 6 2011
 slug: still-time-to-apply-for-msw-program
 ---
 
-```html
+ 
 <span class="date">Posted on Jun 06, 2011 </span>
 <h3>Classes start Aug. 22</h3>
 <p>

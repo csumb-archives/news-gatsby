@@ -4,7 +4,7 @@ title: "Feathered friends in high places"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For a mother who recently watched an offspring hatch, the red&#45;shouldered
   hawk that has taken up residence at the Tanimura &amp; Antle library seems to

@@ -4,7 +4,7 @@ title: "COVID-19 | CSUMB to transition instruction - No class March 13-19"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <i
     >This message was sent to all students, faculty, and staff on Thursday,

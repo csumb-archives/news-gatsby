@@ -4,7 +4,7 @@ title: "Campus to host African American Youth Conference"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>July 27, 2010</p>
 <p><strong>Aug. 7 event features filmmaker Reggie Bullock</strong></p>
 <p>

@@ -4,7 +4,7 @@ title: "Social Justice and CSUMB@20"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   To recognize the 20th anniversary of the founding of Cal State Monterey Bay,
   the university will examine and celebrate its social justice work at a daylong

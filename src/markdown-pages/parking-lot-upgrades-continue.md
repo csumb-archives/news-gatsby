@@ -4,7 +4,7 @@ title: "Parking lot upgrades continue"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A project to improve lighting and overall conditions in campus parking lots
   started last summer. The upgrades are being done to improve safety for

@@ -4,7 +4,7 @@ title: "President Speaker Series to Celebrate CSUMB’s 25th Year by Honoring th
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., November 12, 2019 – California State University, Monterey Bay
   (CSUMB) President Eduardo M. Ochoa will host several of CSUMB’s founding

@@ -4,7 +4,7 @@ title: "Johnson honored for lighting design work"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Stephanie Anne Johnson, professor in the Visual and Public Art Department, has
   received an award for her work as a lighting designer.

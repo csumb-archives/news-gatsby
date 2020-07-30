@@ -4,7 +4,7 @@ title: "Commencement 2016 by the numbers"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   One year of planning and countless staff hours create this unforgettable day
 </p>

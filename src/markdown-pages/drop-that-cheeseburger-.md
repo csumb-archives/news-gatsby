@@ -4,7 +4,7 @@ title: "Drop that cheeseburger! "
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Meatless Monday returns to campus</h2>
 <p>
   If you're thinking of having a burger for lunch at CSU Monterey Bay – and it's

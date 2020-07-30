@@ -4,7 +4,7 @@ title: "Drive raises scholarships for MSW program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Wayne and Maureen Lavengood didn't need much convincing when it came to
   enlisting them to head up the "100 Who Care" campaign. The fundraiser is

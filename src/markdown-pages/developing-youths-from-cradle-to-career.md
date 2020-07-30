@@ -4,7 +4,7 @@ title: "Developing youths from cradle to career"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Cynthia Nelson Holmsky, new director of the Monterey County Cradle to
   Career Partnership at CSU Monterey Bay, finds joy in trying to figure out an

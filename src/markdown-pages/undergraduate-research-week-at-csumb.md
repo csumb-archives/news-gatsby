@@ -4,7 +4,7 @@ title: "Undergraduate Research Week at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>National Undergraduate Research Week takes place April 14 through 18.</p>
 <p>
   At CSU Monterey Bay, it’s an annual celebration of research and creative

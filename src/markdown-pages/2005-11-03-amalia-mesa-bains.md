@@ -4,7 +4,7 @@ date: November 3 2005
 slug: amalia-mesabains
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 03, 2005 </span>
 <p><strong>Dr. Amalia Mesa-Bains to participate in Kahlo conference</strong></p>
 <p>

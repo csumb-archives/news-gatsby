@@ -4,7 +4,7 @@ date: December 16 2014
 slug: sixthgraders-&apos;commit&apos;-to-attend-college
 ---
 
-```html
+ 
 
 
 

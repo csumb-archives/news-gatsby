@@ -4,7 +4,7 @@ title: "GIFT VESSEL"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>‘Harold Heath’ is back in the water</h3>
 <p>
   CSU Monterey Bay’s new research vessel, the Harold Heath, was launched on May

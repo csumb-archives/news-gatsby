@@ -4,7 +4,7 @@ title: "CSUMB Student Receives Hearst"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Daniel de la Cruz, a senior at California State University, Monterey Bay, has
   received the prestigious William Randolph Hearst/CSU Trustees' Award for

@@ -4,7 +4,7 @@ date: April 20 2011
 slug: psychologist-philip-zimbardo-visits-april-25
 ---
 
-```html
+ 
 
 
 

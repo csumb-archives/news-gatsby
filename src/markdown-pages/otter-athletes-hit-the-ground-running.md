@@ -4,7 +4,7 @@ title: "Otter athletes hit the ground running"
 date: January 01 2020
 ---
 
-```html
+ 
 <h5>To see a gallery of photos from the first day of practice, click here</h5>
 <p>On your mark, get set and go.</p>
 <p>

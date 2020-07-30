@@ -4,7 +4,7 @@ title: "CSUMB Technology Camps Offered This Summer for Middle and High School Yo
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Looking for something fun and educational for your middle school and/or high
   schooler? Cal State Monterey Bay is offering two, unique technology day camps

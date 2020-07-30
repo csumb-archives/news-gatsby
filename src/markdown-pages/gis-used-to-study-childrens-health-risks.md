@@ -4,7 +4,7 @@ title: "GIS used to study children's health risks"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A professor of geography at CSU Monterey Bay is studying
   transportation&#45;related air pollution and the health risks it poses to

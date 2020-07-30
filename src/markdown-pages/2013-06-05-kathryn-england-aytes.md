@@ -4,7 +4,7 @@ date: June 5 2013
 slug: professor-honors-work-of-chief-wilma-mankiller
 ---
 
-```html
+ 
 
 
 

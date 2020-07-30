@@ -4,7 +4,7 @@ title: "CSUMB contributes to exhibit of Seaside history"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Photos, letters, uniforms and newspapers from Fort Ord are among the items
   currently on display at Seaside City Hall, part of an exhibit of the city’s

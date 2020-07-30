@@ -4,7 +4,7 @@ date: December 5 2014
 slug: an-animation-celebration-set-for-dec-8.
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "World Affairs Council honors CSUMB students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The World Affairs Council of the Monterey Bay Area has awarded scholarships to
   two students from California State University, Monterey Bay.

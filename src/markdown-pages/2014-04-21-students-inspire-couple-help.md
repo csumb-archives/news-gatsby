@@ -4,7 +4,7 @@ date: April 21 2014
 slug: students-inspire-couple-to-help
 ---
 
-```html
+ 
 
 
 

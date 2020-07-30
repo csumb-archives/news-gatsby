@@ -4,7 +4,7 @@ title: "Thousands celebrate commencement"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>President Ochoa presides over first ceremony</h3>
 <p>
   Enduring one final test – a two&#45;hour&#45;plus ceremony on a warm and

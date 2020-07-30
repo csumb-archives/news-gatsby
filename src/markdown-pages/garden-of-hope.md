@@ -4,7 +4,7 @@ title: "GARDEN OF HOPE"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3></h3>
 <h3>CSUMB invites visitors to Shoreline Food Garden</h3>
 <p>

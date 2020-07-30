@@ -4,7 +4,7 @@ title: "CSUMB Receives Grant from the Hospice Giving Foundation "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Ca., September 19, 2019 –</b> California State University,
   Monterey Bay (CSUMB) has received a grant from the

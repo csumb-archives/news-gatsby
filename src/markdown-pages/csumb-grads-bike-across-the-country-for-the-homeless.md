@@ -4,7 +4,7 @@ title: "CSUMB grads bike across the country for the homeless"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Daniel Troia and Luke Young rode bikes from Portland to New York City, a
   3,500&#45;mile journey, to raise money for Dorothy's Place, an organization

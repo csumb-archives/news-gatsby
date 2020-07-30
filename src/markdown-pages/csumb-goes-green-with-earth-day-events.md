@@ -4,7 +4,7 @@ title: "CSUMB goes green with Earth Day events"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Mammoth comes back from extinction – at least for awhile</h3>
 <p>
   Education is at the heart of Earth Day – which is really Earth

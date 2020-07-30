@@ -4,7 +4,7 @@ title: "High Fidelity"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Music students mix it up in recording studio</h3>
 <p>
   When students in CSU Monterey Bay’s Music and Performing Arts Department

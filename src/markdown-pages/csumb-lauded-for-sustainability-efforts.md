@@ -4,7 +4,7 @@ title: "CSUMB lauded for sustainability efforts"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay walked away with two awards for being “green” at the 2011
   Higher Education Sustainability Conference. Now in its 10th year, the

@@ -4,7 +4,7 @@ title: "Campus Health Message Regarding Coronavirus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <i
     >The following letter was issued to the CSUMB campus community on January

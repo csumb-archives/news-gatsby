@@ -4,7 +4,7 @@ title: "Sixth-graders delight at visit to local college"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB visit sparks the college coolness factor for Alisal's sixth graders. The
   school visited a few months ago as part of a program called University

@@ -4,7 +4,7 @@ date: October 15 2011
 slug: group-of-cool-cats-bring-their-doowop-style-to-csumb
 ---
 
-```html
+ 
 
 
 

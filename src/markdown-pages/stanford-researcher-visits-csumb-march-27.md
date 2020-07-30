@@ -4,7 +4,7 @@ title: "Stanford researcher visits CSUMB March 27"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>President’s Speaker Series focuses on innovation in education</p>
 <p>
   The President’s Speaker Series at California State University, Monterey Bay

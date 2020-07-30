@@ -4,7 +4,7 @@ title: "Gingerbread House Competition Results"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Tasteful houses sweeten party</h4>
 <p>
   As Hansel and Gretel can attest, gingerbread houses, with their candy-cane

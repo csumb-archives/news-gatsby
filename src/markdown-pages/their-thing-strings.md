@@ -4,7 +4,7 @@ title: "Their thing: Strings"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Eight hands plus one cello = lots of fun</h3>
 <p>
   Stringfever, a London-based string quartet, is a little bit classical, a

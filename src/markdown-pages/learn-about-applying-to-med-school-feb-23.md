@@ -4,7 +4,7 @@ title: "Learn about applying to med school Feb. 23"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   If you've ever thought about going to medical school, now's the chance to
   learn more about it.

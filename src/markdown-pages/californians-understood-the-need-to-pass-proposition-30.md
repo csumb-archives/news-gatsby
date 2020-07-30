@@ -4,7 +4,7 @@ title: "Californians understood the need to pass Proposition 30"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The passage of Proposition 30 is good news for California because it averts
   cuts that would have crippled an educational system still reeling from earlier

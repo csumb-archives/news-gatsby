@@ -4,7 +4,7 @@ title: "Taiko WT release"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>San Jose Taiko performs at World Theater Dec. 6</h4>
 <p>
   San Jose Taiko will take the stage at California State University, Monterey

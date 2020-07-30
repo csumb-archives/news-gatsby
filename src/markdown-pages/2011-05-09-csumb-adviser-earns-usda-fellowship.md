@@ -4,7 +4,7 @@ date: May 9 2011
 slug: csumb-adviser-earns-usda-fellowship
 ---
 
-```html
+ 
 
 
 

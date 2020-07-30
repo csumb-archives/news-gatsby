@@ -4,7 +4,7 @@ date: August 23 2014
 slug: csumb-student-sings-national-anthem-at-game
 ---
 
-```html
+ 
 
 
 

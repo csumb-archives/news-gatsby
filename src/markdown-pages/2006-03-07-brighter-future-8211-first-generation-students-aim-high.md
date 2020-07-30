@@ -4,7 +4,7 @@ date: March 7 2006
 slug: a-brighter-future-first-generation-students-aim-high
 ---
 
-```html
+ 
 
 
 

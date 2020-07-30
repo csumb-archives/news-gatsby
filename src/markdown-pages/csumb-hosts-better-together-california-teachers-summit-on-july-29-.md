@@ -4,7 +4,7 @@ title: "CSUMB hosts Better Together: California Teachers Summit on July 29 "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay will host the Better Together: California Teachers
   Summit for the Monterey Bay region on Friday, July 29, 8:30 a.m. to 3:30 p.m.,

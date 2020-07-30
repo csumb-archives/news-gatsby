@@ -4,7 +4,7 @@ title: "Raines wins national social work award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Jim Raines is the winner of this year’s Gary Lee Shaffer Award for
   Academic Contributions to the Field of School Social Work.

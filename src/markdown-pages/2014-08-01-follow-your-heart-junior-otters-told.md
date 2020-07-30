@@ -4,7 +4,7 @@ date: August 1 2014
 slug: your-heart&apos;-junior-otters-told
 ---
 
-```html
+ 
 
 
 

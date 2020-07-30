@@ -4,7 +4,7 @@ date: January 24 2014
 slug: csumb-hosts-business-idea-contest
 ---
 
-```html
+ 
 
 
 

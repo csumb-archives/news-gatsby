@@ -4,7 +4,7 @@ title: "CSUMB student receives NSF fellowship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay senior Emily Roncase was awarded a $90,000 National Science
   Foundation Graduate Research Fellowship. The fellowships are awarded to 2,000

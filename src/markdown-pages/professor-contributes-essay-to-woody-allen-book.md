@@ -4,7 +4,7 @@ title: "Professor contributes essay to Woody Allen book"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <a href="https://hcom.csumb.edu/renee-curry">Dr. Renee Curry</a> has published
   another article on one of her long-time research interests, director Woody

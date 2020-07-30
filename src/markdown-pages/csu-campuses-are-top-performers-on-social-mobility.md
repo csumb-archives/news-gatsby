@@ -4,7 +4,7 @@ title: "CSU Campuses are Top Performers on Social Mobility"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Sept. 11, 2019 -- CSU campuses ranked among the top universities
   for social mobility, according to the

@@ -4,7 +4,7 @@ date: November 7 2009
 slug: writers-on-fire
 ---
 
-```html
+ 
 
 
 

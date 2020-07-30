@@ -4,7 +4,7 @@ date: April 24 2012
 slug: campus-committee-to-develop-climate-action-plan
 ---
 
-```html
+ 
 
 
 

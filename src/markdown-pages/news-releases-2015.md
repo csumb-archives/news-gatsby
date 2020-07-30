@@ -4,7 +4,7 @@ title: "News Releases 2015"
 date: January 01 2020
 ---
 
-```html
+ 
 <p><strong>• CSUMB Creates! A special venue at First Night Monterey</strong></p>
 <p>
   Works by CSU Monterey Bay students, faculty, staff and alumni will be

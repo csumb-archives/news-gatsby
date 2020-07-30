@@ -6,7 +6,7 @@ date: December 19 2006
 slug: &gt;- model-behavior&amp;colon;-csumb-student-lands-highpofile-print-ad-for-mercury-milan
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 19, 2006 </span>
 As far as quick-cash side gigs go, male modeling is probably among
 the least likely arrangements for a struggling college student.

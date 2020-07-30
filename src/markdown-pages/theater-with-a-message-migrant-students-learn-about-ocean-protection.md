@@ -4,7 +4,7 @@ title: "Theater with a message: Migrant students learn about ocean protection"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Christian was one of 250 students who participated in the third annual
   Migrant Education Summer Academy/Junior Otters Program at CSU Monterey Bay.

@@ -4,7 +4,7 @@ title: "CSUMB Breaks Ground on New Student Union"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., April 16, 2018 – California State University, Monterey Bay
   (CSUMB) officially broke ground on construction of the new Otter Student Union

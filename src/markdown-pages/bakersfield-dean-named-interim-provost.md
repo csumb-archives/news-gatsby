@@ -4,7 +4,7 @@ title: "Bakersfield dean named interim provost"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Julio Blanco, dean of the School of Natural Sciences, Mathematics and
   Engineering and professor of physics at CSU Bakersfield, has been named

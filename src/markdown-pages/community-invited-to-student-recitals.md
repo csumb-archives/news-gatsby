@@ -4,7 +4,7 @@ title: "Community invited to student recitals"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay students are offering the gift of music this holiday
   season.

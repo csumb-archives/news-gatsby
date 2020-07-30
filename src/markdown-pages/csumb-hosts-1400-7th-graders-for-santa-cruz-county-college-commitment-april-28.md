@@ -4,7 +4,7 @@ title: "CSUMB Hosts 1,400 7th Graders for Santa Cruz County College Commitment A
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., April 28, 2017 – 1,400 seventh-graders from seven Santa Cruz
   County middle schools attended the Santa Cruz County College Commitment (S4C)

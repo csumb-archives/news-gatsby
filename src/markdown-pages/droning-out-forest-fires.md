@@ -4,7 +4,7 @@ title: "Droning out forest fires"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 20, 2009</p>
 <h2>CSUMB researcher honored for work in fighting wildfires from the sky</h2>
 <p>

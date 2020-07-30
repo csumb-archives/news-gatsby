@@ -4,7 +4,7 @@ title: "'Love the Skin You're In'"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Feb. 22 talk marks eating disorders awareness week</h3>
 <p>
   CSU Monterey Bay will mark National Eating Disorders Awareness Week with a

@@ -4,7 +4,7 @@ title: "McNair Scholars grad school"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 7, 2009</p>
 <h4>
   McNair Scholars prepare for grad school Soaring toward advanced degrees on

@@ -4,7 +4,7 @@ title: "Students honored for academic excellence"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay held its annual honors convocation April 12, recognizing more
   than 250 students for their distinguished academic achievements.

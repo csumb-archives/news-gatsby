@@ -4,7 +4,7 @@ title: "The vision mural, through a new lens"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>A new vision mural is taking shape on campus.</p>
 <p>
   Students in Juan Luna&#45;Avin’s painting and mural class have completed much

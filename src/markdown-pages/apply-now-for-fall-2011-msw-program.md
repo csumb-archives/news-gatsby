@@ -4,7 +4,7 @@ title: "Apply now for fall 2011 MSW program"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s Master of Social Work program is accepting applications for
   Fall 2011. Application deadline is Jan. 31

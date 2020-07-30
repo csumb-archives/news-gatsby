@@ -4,7 +4,7 @@ title: "CSUMB student goes to Hollywood . . ."
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . and comes back from fund-raising gala with $75,000 for the Real Food
   Challenge

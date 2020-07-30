@@ -4,7 +4,7 @@ title: "CSUMB-Hartnell partnership aims to address critical teacher shortage in 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A joint venture between Hartnell College and Cal State Monterey Bay aims to
   tackle the critical teacher shortage in the region with plan to "grow our

@@ -4,7 +4,7 @@ title: "Grad student's research takes CSU honor"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Reseach by a CSU Monterey Bay graduate student may prove helpful to managers
   of former Fort Ord lands. The work took a top honor for Bart Kowalski at the

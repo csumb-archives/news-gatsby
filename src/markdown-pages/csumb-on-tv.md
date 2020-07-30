@@ -4,7 +4,7 @@ title: "CSUMB on TV"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Catch CSUMB on public access TV</p>
 <p>
   CSU Monterey Bay takes to the airwaves on June 8. The university's regular

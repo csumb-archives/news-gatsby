@@ -4,7 +4,7 @@ title: "Surviving El Nino a challenge for otter pups"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Rikk Kvitek commented on the effects of toxic algae blooms on the health
   of sea otters in Monterey Bay.

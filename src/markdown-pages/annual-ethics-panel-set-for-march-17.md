@@ -4,7 +4,7 @@ title: "Annual Ethics Panel set for March 17"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>March 3, 2010</p>
 <p>******The ethics of higher education . . . who pays?**</p>
 <p>

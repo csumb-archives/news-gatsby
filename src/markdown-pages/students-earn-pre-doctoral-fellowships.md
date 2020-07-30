@@ -4,7 +4,7 @@ title: "Students earn pre-doctoral fellowships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Four CSU Monterey Bay students – whose research interests include gene
   splicing, agricultural pathogens, population dynamics in Monterey Bay and

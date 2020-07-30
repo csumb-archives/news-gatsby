@@ -4,7 +4,7 @@ title: "Alum creates 'robot' friends in Santa Cruz"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB graduate Margo Mullen has just completed a public art project in Santa
   Cruz. Her canvas: a square traffic controller box located at the busy

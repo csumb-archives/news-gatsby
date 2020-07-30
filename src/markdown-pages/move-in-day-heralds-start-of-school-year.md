@@ -4,7 +4,7 @@ title: "Move-in day heralds start of school year"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Largest enrollment in CSUMB's history</h3>
 <p>
   Aug. 22 was move-in day at Cal State Monterey Bay, where incoming students

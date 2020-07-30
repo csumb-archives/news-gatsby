@@ -4,7 +4,7 @@ date: August 28 2014
 slug: csumb-makes-magazine-list-of-top-schools
 ---
 
-```html
+ 
 
 
 

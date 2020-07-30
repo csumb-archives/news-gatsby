@@ -4,7 +4,7 @@ title: "Fondos para la educación superior"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   La Universidad Estatal de la Bahia de Monterey recibió 2.5 millones de dólares
   para los próximos 5 años. Estos fondos serán utilizados para el Programa TRIO

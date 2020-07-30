@@ -4,7 +4,7 @@ date: July 27 2014
 slug: vpa-professor-steps-out-from-behind-the-scenes
 ---
 
-```html
+ 
 
 
 

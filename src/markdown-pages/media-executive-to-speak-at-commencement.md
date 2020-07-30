@@ -4,7 +4,7 @@ title: "Media executive to speak at commencement"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Hugo Morales, who built a community radio station for California farmworkers
   into a national Latino public media network, will be the keynote speaker at

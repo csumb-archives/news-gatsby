@@ -4,7 +4,7 @@ title: "Visual Matters at CSU Monterey Bay"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 1, 2010</p>
 <p>
   In order to graduate, CSU Monterey Bay students in the Visual and Public Art

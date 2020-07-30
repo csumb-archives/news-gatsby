@@ -4,7 +4,7 @@ title: "CSU Monterey Bay study backs targeted bottom trawling"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The icy standoff between fishermen and environmentalists over trawling may
   thaw a bit thanks to new and more targeted research on its effects. James

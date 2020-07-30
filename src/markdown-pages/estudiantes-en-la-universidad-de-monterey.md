@@ -4,7 +4,7 @@ title: "Estudiantes en la Universidad de Monterey"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Mas de 300 estudiantes provenientes de veinte del Condado de Monterey
   celebraronla clausura del programa “MESA Junior Otters” en la Universidad

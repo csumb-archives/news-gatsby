@@ -4,7 +4,7 @@ title: "'Carry' hits campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Packages now delivered by self-driving vehicle</p>
 <p>CSUMB, meet Carry.</p>
 <p>

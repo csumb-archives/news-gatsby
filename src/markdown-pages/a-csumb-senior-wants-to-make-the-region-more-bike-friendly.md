@@ -4,7 +4,7 @@ title: "A CSUMB senior wants to make the region more bike-friendly"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Communications major Bernard Green had a revelation in his teens that set him
   on his current path: make whatever world he lived in more bikeable and

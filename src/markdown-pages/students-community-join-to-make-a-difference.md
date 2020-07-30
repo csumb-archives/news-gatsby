@@ -4,7 +4,7 @@ title: "Students, community join to Make a Difference"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Annual day of service to be celebrated Oct. 27</h3>
 <p>
   CSU Monterey Bay students will fan out across the county on Saturday, Oct. 27,

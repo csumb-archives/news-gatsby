@@ -4,7 +4,7 @@ title: "Exhibit explores art, symbolism of Fort Ord"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Insignias of Fort Ord opens Feb. 11</p>
 <p>
   Cal State Monterey Bay and the Monterey Museum of Art are collaborating on a

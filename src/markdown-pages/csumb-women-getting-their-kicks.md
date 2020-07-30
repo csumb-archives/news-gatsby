@@ -4,7 +4,7 @@ title: "CSUMB women getting their kicks"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Cal State Monterey Bay women's soccer team had a season of firsts in 2012.
   The first sweep of a conference opponent (Chico State), the first upset of a

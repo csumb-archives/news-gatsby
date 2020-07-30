@@ -4,7 +4,7 @@ title: "CSUMB receives Presidential Award for community service"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>University is only two-time top honoree in the nation</h2>
 <p>
   California State University, Monterey Bay has received the Presidential Award

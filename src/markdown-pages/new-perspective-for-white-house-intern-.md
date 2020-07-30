@@ -4,7 +4,7 @@ title: "New perspective for White House intern "
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Panetta Institute experience led alumnus back to D.C.</h3>
 <p>
   Steven Avila’s passion for politics and government took him to Washington,

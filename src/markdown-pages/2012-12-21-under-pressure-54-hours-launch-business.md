@@ -4,7 +4,7 @@ date: December 21 2012
 slug: under-pressure&amp;colon;-54-hours-to-launch-a-business
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 21, 2012 </span>
 
 <h3><img alt="Startup Weekend will be held at CSUMB Jan. 25-27" height="130" src="https://news.csumb.edu/sites/default/files/65/attachments/news/images/startup_wide.jpg" width="540"/></h3>

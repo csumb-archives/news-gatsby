@@ -6,7 +6,7 @@ date: November 15 2006
 slug: &gt;- reflections-of-vietnam-panel-to-discuss-california&apos;s-role-in-the-war
 ---
 
-```html
+ 
 
 
 

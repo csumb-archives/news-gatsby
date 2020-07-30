@@ -4,7 +4,7 @@ title: "Vision and Voice"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>&#42;Photo by Daniel Lyons &#40;SBS, 2004&#41;&#42;</p>
 <h3>Photographer, Global health researcher to give presentations</h3>
 <p>

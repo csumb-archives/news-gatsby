@@ -4,7 +4,7 @@ title: "Four Students Earn Pre-Doctoral Summer Fellowships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 16, 2018 – Four CSUMB seniors, all Sally Casanova
   Scholars for the 2017-18 academic year, have been awarded summer research

@@ -4,7 +4,7 @@ title: "Learning for the fun of it"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   What do U.S. foreign policy, Don DeLillo and the physiology and disorders of
   sleep have in common?

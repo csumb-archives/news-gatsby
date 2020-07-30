@@ -4,7 +4,7 @@ title: "Students in forefront"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . President Dianne Harrison will officially end her tenure at CSUMB on
   June 10, when she takes over the presidency of CSU Northridge, the largest

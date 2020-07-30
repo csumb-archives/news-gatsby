@@ -4,7 +4,7 @@ title: "Sam Farr to Give Keynote Address at CSUMB’s 21st Commencement Ceremony
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., April 24, 2017 – Sam Farr will give the keynote address to
   graduates at CSU Monterey Bay’s 21st commencement ceremony at CSUMB May 20,

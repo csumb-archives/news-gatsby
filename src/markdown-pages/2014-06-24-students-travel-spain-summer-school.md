@@ -4,7 +4,7 @@ date: June 24 2014
 slug: students-travel-to-spain-for-summer-school
 ---
 
-```html
+ 
 
 
 

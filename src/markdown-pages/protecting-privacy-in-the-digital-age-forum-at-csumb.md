@@ -4,7 +4,7 @@ title: "Protecting privacy in the digital age forum at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 10, 2010</p>
 <p>
   Who's tracking your online activities? What shouldn't you do online? How can

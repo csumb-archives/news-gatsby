@@ -4,7 +4,7 @@ title: "Ground Zero Mosque, Islam topic of lecture"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 21, 2010</p>
 <p>
   Shaikh Kabir Helminski will deliver a lecture on the Ground Zero Mosque, Islam

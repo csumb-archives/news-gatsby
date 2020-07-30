@@ -4,7 +4,7 @@ title: "East meets West in gesture and voice"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB hosts theatrical dance performance by Sheetal Gandhi</h3>
 <p>
   Nationally acclaimed choreographer and performer Sheetal Gandhi will visit

@@ -4,7 +4,7 @@ title: "Point Lobos undersea world revealed"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . the method proved impractical, so they turned to the Cal State Monterey
   Bay seafloor mapping lab, which used a jet-ski-based, multi-beam sonar

@@ -4,7 +4,7 @@ title: "Ochoa talks of growth, inequalities"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay President Eduardo Ochoa launched the 2014-15 academic year
   with a 45-minute speech that touched on the university's recent

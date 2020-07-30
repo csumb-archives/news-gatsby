@@ -4,7 +4,7 @@ title: "Wild Day"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   With an assist from CSUMB, the PTA and community volunteers, the students and
   staff of Marina del Mar Elementary School recently celebrated the things they

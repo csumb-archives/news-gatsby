@@ -4,7 +4,7 @@ title: "Volleyball team off to its strongest start ever"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay volleyball coach Jody Garry says this year’s squad is
   “not afraid to lose.” As the 2010 season continues, it is very clear they

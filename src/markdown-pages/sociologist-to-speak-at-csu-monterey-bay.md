@@ -4,7 +4,7 @@ title: "Sociologist to speak at CSU Monterey Bay"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   C.J. Pascoe, whose work explores the terrain of sexuality and gender identity,
   will speak at CSU Monterey Bay on March 25.

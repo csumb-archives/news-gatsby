@@ -4,7 +4,7 @@ date: November 7 2007
 slug: the-woman-behind-integrated-studies-at-csumb
 ---
 
-```html
+ 
 
 
 

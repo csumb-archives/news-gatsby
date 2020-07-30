@@ -4,7 +4,7 @@ date: April 29 2013
 slug: environmental-visionary-visits-monterey
 ---
 
-```html
+ 
 
 
 

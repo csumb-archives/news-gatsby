@@ -4,7 +4,7 @@ title: "President Ochoa's Message to the University Community "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Friday Nov. 11, 2016</p>
 <p>
   Since its inception, the CSUMB community has consisted of students, faculty,

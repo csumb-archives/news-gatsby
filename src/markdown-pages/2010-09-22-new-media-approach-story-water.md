@@ -4,7 +4,7 @@ date: September 22 2010
 slug: new-media-approach-to-the-story-of-water
 ---
 
-```html
+ 
 <span class="date">Posted on Sep 22, 2010 </span>
 <p>
   Enid Baxter Blader is the co-editor of a series of 22 contemporary projects

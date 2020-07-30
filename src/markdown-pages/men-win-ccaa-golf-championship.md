@@ -4,7 +4,7 @@ title: "Men win CCAA golf championship"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Otters Jason Owen named Coach of the Year</h3>
 <p>
   CSU Monterey Bay's men's golf team won its second straight California

@@ -4,7 +4,7 @@ title: "Campus demolition work continues"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The university’s efforts to create a safe and sustainable environment continue
   as demolition moves to the northeast area of campus.

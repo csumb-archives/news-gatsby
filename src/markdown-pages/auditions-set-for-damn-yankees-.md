@@ -4,7 +4,7 @@ title: "Auditions set for 'Damn Yankees' "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>April 26, 2010</p>
 <p>
   Auditions for a 2011 production of the musical comedy "Damn Yankees" will be

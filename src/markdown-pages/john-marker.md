@@ -4,7 +4,7 @@ title: "John Marker"
 date: January 01 2020
 ---
 
-```html
+ 
 <p><strong>July 10, 2009</strong></p>
 <h2>Leadership transition in Facilities</h2>
 <p></p>

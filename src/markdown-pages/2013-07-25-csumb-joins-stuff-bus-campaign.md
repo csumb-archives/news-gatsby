@@ -4,7 +4,7 @@ date: July 25 2013
 slug: csumb-joins-&apos;stuff-the-bus&apos;-campaign
 ---
 
-```html
+ 
 
 
 

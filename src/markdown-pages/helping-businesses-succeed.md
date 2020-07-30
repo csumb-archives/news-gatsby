@@ -4,7 +4,7 @@ title: "Helping businesses succeed"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Arturo Contreras has a knack for helping small businesses prosper. As a junior
   consultant at California State University, Monterey Bay’s Small Business

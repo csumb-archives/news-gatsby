@@ -4,7 +4,7 @@ title: "Professor, student dive into research"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Oct. 12, 2010</p>
 <p>
   <strong

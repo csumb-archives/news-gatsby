@@ -4,7 +4,7 @@ date: February 2 2014
 slug: bachelor&apos;s-degree-now-available-for-working-nurses
 ---
 
-```html
+ 
 
 
 

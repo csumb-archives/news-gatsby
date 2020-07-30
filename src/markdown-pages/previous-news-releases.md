@@ -4,7 +4,7 @@ title: "Previous News Releases"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>January 2007 - December 2007</h4>
 <p>CSUMB: The Year in Review</p>
 <p>&#42;More students, commitment to the environment highlight 2007</p>

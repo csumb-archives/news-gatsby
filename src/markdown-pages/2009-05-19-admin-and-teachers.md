@@ -4,7 +4,7 @@ date: May 19 2009
 slug: admin-and-teachers
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "US academicians seek to boost ties with Oman"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Seven US university and coloefe presidents and vice presidents visited Oman to
   participate in teh Fulbright-Hays Seminars Abroad programme focusing on higher

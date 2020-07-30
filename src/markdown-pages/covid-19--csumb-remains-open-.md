@@ -4,7 +4,7 @@ title: "COVID-19 | CSUMB remains open "
 date: January 01 2020
 ---
 
-```html
+ 
 <p><i>Campus message posted on Mar. 11, 2020</i></p>
 <p>
   CSUMB remains open and operational. Students should continue to attend

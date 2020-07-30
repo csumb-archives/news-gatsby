@@ -4,7 +4,7 @@ title: "Forum addresses the business of healthy eating"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Greater Vision forum looks at public health and agriculture</h3>
 <p>
   The “Greater Vision” series of public forums on topics important to local

@@ -4,7 +4,7 @@ title: "$2.4 million grant will benefit students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It's a happy day for local community college students: Gavilan just got a
   hefty chunk of free money that will help streamline the process of getting a

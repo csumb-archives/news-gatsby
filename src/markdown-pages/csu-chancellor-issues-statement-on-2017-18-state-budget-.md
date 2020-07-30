@@ -4,7 +4,7 @@ title: "CSU Chancellor Issues Statement on 2017-18 State Budget "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   June 19, 2017 – California State University Chancellor Timothy P. White has
   issued a statement following the June 15 passage of California's state budget

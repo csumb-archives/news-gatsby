@@ -4,7 +4,7 @@ title: "Getting charged-up over electric cars"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Campus to get two electric vehicle charging stations</h3>
 <p>
   Electric cars and plug-in hybrids were celebrated in dozens of cities around

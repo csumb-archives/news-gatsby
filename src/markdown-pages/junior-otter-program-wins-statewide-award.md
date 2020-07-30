@@ -4,7 +4,7 @@ title: "Junior Otter program wins statewide award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Migrant Junior Otter program based at CSU Monterey Bay has won another
   award, the second time it has been honored in its short history.

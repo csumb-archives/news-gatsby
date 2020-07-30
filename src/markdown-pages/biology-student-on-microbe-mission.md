@@ -4,7 +4,7 @@ title: "Biology student on microbe mission"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Andrea Valdez, a senior biology major, is on a microbe mission. Valdez, in
   conjunction with Dr. Gretchen Hofmann’s lab at UC Santa Barbara, is studying a

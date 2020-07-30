@@ -4,7 +4,7 @@ title: "CSUMB women second in golf tournament"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The CSU Monterey Bay women's golf team finished second at the Tim Tierney
   Pioneer Shootout hosted by CSU East Bay at Hiddenbrooke Golf Course in

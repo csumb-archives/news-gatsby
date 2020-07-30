@@ -4,7 +4,7 @@ title: "Suicide prevention network meets on campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Service providers will learn best practices</h3>
 <p>
   CSU Monterey Bay will host a regional meeting of the California Suicide

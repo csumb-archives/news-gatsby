@@ -4,7 +4,7 @@ title: "CSUMB Partners with Zipcar to Offer Car Sharing on Campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB launched a new partnership with Zipcar, the world’s leading car sharing
   network, to offer a Zipcar car sharing program on campus. The convenient

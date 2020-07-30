@@ -4,7 +4,7 @@ title: "CSUMB showcases the best of undergraduate research"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The next generation of scientists, psychologists, anthropologists, social
   scientists were in the CSUMB Tanimura &amp; Antle Family Library today,

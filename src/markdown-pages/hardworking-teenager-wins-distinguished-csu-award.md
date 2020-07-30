@@ -4,7 +4,7 @@ title: "Hardworking teenager wins distinguished CSU award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Karen Martinez, a sophomore at CSUMB, tries to honor her brother's memory by
   studying hard and continuing to pursue the education he wanted for himself.

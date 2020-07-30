@@ -4,7 +4,7 @@ date: June 2 2011
 slug: student-wins-film-scholarship
 ---
 
-```html
+ 
 
 
 

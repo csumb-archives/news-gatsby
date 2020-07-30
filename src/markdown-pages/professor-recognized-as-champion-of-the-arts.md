@@ -4,7 +4,7 @@ title: "Professor recognized as Champion of the Arts"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Enid Baxter Blader has helped shape CSU Monterey Bay's Teledramatic Arts
   and Technology Department into a well-respected and unique environment for

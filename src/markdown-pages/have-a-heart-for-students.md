@@ -4,7 +4,7 @@ title: "Have a Heart for Students"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4></h4>
 <h4>Annual event at CSUMB raises money for scholarships</h4>
 <p>

@@ -4,7 +4,7 @@ title: "Still time to apply for MSW program"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Classes start Aug. 22</h3>
 <p>
   A few spots remain for the fall 2011 class of CSU Monterey Bay’s Master of

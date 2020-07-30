@@ -4,7 +4,7 @@ date: December 12 2012
 slug: oral-histories-screened-at-steinbeck-center-dec.-13
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 12, 2012 </span>
 <p>
   <img

@@ -4,7 +4,7 @@ title: "Writing residency leads to autobiographical play for VPA professor"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Stephanie Anne Johnson, professor of Visual and Public Art, was awarded a
   writing residency in Atlanta last fall. During that time, she wrote a second

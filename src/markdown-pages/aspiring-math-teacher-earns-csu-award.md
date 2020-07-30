@@ -4,7 +4,7 @@ title: "Aspiring math teacher earns CSU award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay sophomore Jesus Ochoa Perez has been chosen for a CSU
   Trustees' Award for Outstanding Achievement. He and the other award winners

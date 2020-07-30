@@ -4,7 +4,7 @@ title: "Mist opportunity"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Professor of science and environmental policy Dan Fernandez has been
   building fog catchers for scientific purposes. He said they are used in arid

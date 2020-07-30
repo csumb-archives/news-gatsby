@@ -4,7 +4,7 @@ date: December 12 2007
 slug: skateboard-film
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 12, 2007 </span>
 <h4>CSUMB students&apos; skateboard film set to premiere</h4>
 <p>

@@ -4,7 +4,7 @@ title: "National health conference has CSUMB flavor"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The National Conference on Health Disparities took place Nov. 5&#45;8 in Long
   Beach, and CSU Monterey Bay was well represented.

@@ -4,7 +4,7 @@ title: "Kinesiology lecture series starts Oct. 28"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The public is invited to attend the Kinesiology Speaker Series at CSU Monterey
   Bay, sponsored by the Exercise Science Club and the Kinesiology Department.

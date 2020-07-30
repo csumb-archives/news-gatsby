@@ -4,7 +4,7 @@ title: "Fort Ord group awards scholarships"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Community activist Helen Rucker establishes endowment</h3>
 <p>
   The Fort Ord Alumni Association, a division of the California State

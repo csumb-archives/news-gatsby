@@ -4,7 +4,7 @@ title: "Environmental filmmakers show their work"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In honor of the 25th anniversary of Godfrey Reggio’s conservation documentary,
   “Anima Mundi,” students in CSU Monterey Bay’s environmental filmmaking class

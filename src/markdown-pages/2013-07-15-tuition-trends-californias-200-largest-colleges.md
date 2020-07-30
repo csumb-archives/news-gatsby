@@ -4,7 +4,7 @@ date: July 15 2013
 slug: tuition-trends-at-california&apos;s-200-largest-colleges
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "MPA lecturer honored by composers group"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Lanier Sammons, a lecturer in the Music and Performing Arts Department, is
   the recipient of an ASCAP Plus Award in the concert music division.

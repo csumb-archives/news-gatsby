@@ -4,7 +4,7 @@ title: "Otter Connections Are A +"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   We want to hear your voice! Connect to CSUMB Google+ Communities and
   participate in General News. Share your stories and discuss issues directly

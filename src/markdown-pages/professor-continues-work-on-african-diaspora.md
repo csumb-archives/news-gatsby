@@ -4,7 +4,7 @@ title: "Professor continues work on African diaspora"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Professor <a href="https://umiart.com/">Umi Vaughan</a> continues to explore
   the African diaspora with his work on a dance festival and symposium this

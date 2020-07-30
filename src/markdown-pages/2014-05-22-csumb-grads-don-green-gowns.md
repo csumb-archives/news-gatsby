@@ -4,7 +4,7 @@ date: May 22 2014
 slug: csumb-grads-don-&apos;green&apos;-gowns
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ date: August 29 2006
 slug: students-spruce-up-park-effort-benefits-environment-community
 ---
 
-```html
+ 
 
 
 

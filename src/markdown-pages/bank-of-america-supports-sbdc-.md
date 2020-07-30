@@ -4,7 +4,7 @@ title: "Bank of America supports SBDC "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay has received a $15,000 grant from
   Bank of America to support its Small Business Development Center, an

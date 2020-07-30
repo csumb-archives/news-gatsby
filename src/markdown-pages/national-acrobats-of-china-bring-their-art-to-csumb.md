@@ -4,7 +4,7 @@ title: "National Acrobats of China bring their art to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3></h3>
 <h3>World Theater season opens with Sept. 17 performance</h3>
 <p>

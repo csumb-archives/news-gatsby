@@ -4,7 +4,7 @@ title: "Marine Sanctuary symposium focuses on 'change'"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Change: Observations on the shifting ecology of the Sanctuary</h3>
 <p>Change is the only constant in the universe. Change alone is unchanging.</p>
 <p>

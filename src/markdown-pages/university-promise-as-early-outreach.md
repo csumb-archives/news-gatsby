@@ -4,7 +4,7 @@ title: "University Promise as early outreach"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   More than 3,100 sixth-graders from around Monterey County are visiting Cal
   State Monterey Bay this week to make and to receive a promise.

@@ -4,7 +4,7 @@ date: December 10 2013
 slug: storytellers
 ---
 
-```html
+ 
 
 
 

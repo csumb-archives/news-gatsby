@@ -4,7 +4,7 @@ title: "Students invited to design a bike garage"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Entries due May 31</h2>
 <p>
   Submit the winning entry in CSU Monterey Bay's bicycle garage design contest

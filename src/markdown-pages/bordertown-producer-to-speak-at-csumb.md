@@ -4,7 +4,7 @@ title: "'Bordertown' producer to speak at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The President’s Speaker Series at CSU Monterey Bay resumes on Feb. 22 when
   documentary filmmaker and human rights activist Barbara Martinez Jitner visits

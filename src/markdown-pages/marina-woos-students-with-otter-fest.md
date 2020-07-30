@@ -4,7 +4,7 @@ title: "Marina woos students with Otter Fest"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Marina Mayor Bruce Delgado presented a ceremonial key to the city to President
   Dianne Harrison as part of Otter Fest 2010, the city’s welcome-back event for

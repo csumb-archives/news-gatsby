@@ -4,7 +4,7 @@ date: April 11 2014
 slug: modern-justice
 ---
 
-```html
+ 
 
 
 

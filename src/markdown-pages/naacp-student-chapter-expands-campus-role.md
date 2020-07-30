@@ -4,7 +4,7 @@ title: "NAACP student chapter expands campus role"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Group works to connect with cultural clubs</h3>
 <p>
   They have no memories of the civil-rights milestones of the mid-1960s, but

@@ -4,7 +4,7 @@ title: "Fort Ord forum looks to future"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   As last month's election battle over growth on part of Fort Ord showed, the
   debate over the future of the former Army base is far from over. To look at

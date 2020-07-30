@@ -4,7 +4,7 @@ date: March 5 2013
 slug: arts-collective-explores-gender-cultural-stereotypes
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Team from Student Activities wins Golden Shoe"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A team from Student Activities – known as the Rodents of Unusual Size – took
   home the Golden Shoe trophy for the top finish in this year’s Workplace

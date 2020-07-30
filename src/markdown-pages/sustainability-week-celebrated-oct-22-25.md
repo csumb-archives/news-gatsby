@@ -4,7 +4,7 @@ title: "Sustainability Week celebrated Oct. 22-25"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB will join universities and colleges across the nation on Oct. 24 in
   celebrating Campus Sustainability Day, an event that was created in 2003 to

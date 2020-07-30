@@ -4,7 +4,7 @@ date: December 22 2005
 slug: second-csumb-cd-a-matter-of-passion
 ---
 
-```html
+ 
 
 
 

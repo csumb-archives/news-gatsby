@@ -4,7 +4,7 @@ title: "Teen Film Festival Approaches"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Time is running out for young filmmakers to submit their work to the Monterey
   Bay Teen Film Festival, sponsored by CSUMB. Entry deadline is Feb. 11 for the

@@ -4,7 +4,7 @@ date: April 28 2011
 slug: study-hall&amp;colon;-new-library-is-all-things-to-all-people
 ---
 
-```html
+ 
 <span class="date">Posted on Apr 28, 2011 </span>
 
 <p>From the moment it opened at 8 a.m. on Dec. 1, 2008, the

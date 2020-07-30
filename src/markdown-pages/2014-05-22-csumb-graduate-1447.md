@@ -4,7 +4,7 @@ date: May 22 2014
 slug: csumb-to-graduate-1447
 ---
 
-```html
+ 
 
 
 

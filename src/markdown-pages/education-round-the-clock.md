@@ -4,7 +4,7 @@ title: "Education, round the clock"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For Jay Carter, participating in a residential community was an important part
   of his freshman year on campus.

@@ -4,7 +4,7 @@ title: "Students, faculty work on Steinbeck Center exhibit"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay students and faculty members have played a key role in an
   exhibit at the National Steinbeck Center in Salinas.

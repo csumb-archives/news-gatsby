@@ -4,7 +4,7 @@ date: November 12 2013
 slug: seeds-of-success
 ---
 
-```html
+ 
 
 
 

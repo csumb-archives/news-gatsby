@@ -4,7 +4,7 @@ title: "CSUMB art students get hands-on at museum"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   San Francisco artist Andrew Schoultz has created a mural and a site-specific
   installation at the Monterey Museum of Art, with help from a trio of CSU

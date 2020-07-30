@@ -4,7 +4,7 @@ title: "A capstone for a bucket list "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Nicole LeVere will get to cross "graduating from college" off her bucket
   list – three weeks before turning 40 and 18 years after first being accepted

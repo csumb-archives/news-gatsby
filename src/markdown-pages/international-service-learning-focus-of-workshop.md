@@ -4,7 +4,7 @@ title: "International service learning focus of workshop"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For three years, CSU Monterey Bay students have traveled to rural communities
   in the province of Leon, Spain. The students spend the month of June learning

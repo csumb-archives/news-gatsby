@@ -4,7 +4,7 @@ title: "Alum receives national recognition at NCAA tournament"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay alumna Lisa Fortier was named Rookie Coach of the Year after
   her first season at the helm at Division I Gonzaga University.

@@ -4,7 +4,7 @@ title: "Coyote Tales at CSUMB Meeting House"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Faculty member Will Shephard has created this
   <em>commedia dell'arte</em> (comedy of craft) in which masked characters play

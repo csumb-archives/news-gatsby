@@ -4,7 +4,7 @@ date: November 14 2014
 slug: student-piano-recital-dec.-13
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 14, 2014 </span>
 <p>
   <img

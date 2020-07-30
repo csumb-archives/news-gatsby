@@ -4,7 +4,7 @@ title: "Gallery exhibit explores apocalyptic beliefs"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <em>Sincerely, 2012</em>, a show by students in the Visual and Public Art
   Department, is on display in the Balfour/Brutzman Gallery on campus.

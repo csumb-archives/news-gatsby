@@ -4,7 +4,7 @@ title: "New housing project comes online"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>THE PROMONTORY READY FOR STUDENTS</p>
 <p>
   “We can’t wait for students to fill these buildings with life,” CSU Monterey

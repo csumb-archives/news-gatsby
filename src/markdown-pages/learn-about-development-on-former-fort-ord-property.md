@@ -4,7 +4,7 @@ title: "Learn about development on former Fort Ord property"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   An update on the status of projects surrounding the campus will be held on
   March 28 in the Student Center’s west lounge. Members of the campus community

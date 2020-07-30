@@ -4,7 +4,7 @@ title: "Tomorrow's science illustrators step up to the plate"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Science illustration began in a time when drawing was the only way to record
   the anatomy of a bird or the life stages of a flower. Is illustration still

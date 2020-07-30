@@ -4,7 +4,7 @@ title: "CSUMB seeks participants for Library of Congress project"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   EVERY VETERAN HAS A STORY. CALIFORNIA STATE UNIVERSITY, MONTEREY BAY WANTS
   YOURS.

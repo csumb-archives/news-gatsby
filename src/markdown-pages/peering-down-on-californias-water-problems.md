@@ -4,7 +4,7 @@ title: "Peering down on California's water problems"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>
   CSUMB scientists recognized for work with NASA to improve water management in
   California

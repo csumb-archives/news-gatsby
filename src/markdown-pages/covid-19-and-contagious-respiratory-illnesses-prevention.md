@@ -4,7 +4,7 @@ title: "COVID-19 and contagious respiratory illnesses prevention"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <i
     >This message was sent to all students, faculty and staff on Monday, March 2

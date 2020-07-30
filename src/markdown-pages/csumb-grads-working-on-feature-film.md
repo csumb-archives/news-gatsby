@@ -4,7 +4,7 @@ title: "CSUMB grads working on feature film"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Robert Machoian and Rodrigo Ojeda-Beck are at work on their first feature
   film.

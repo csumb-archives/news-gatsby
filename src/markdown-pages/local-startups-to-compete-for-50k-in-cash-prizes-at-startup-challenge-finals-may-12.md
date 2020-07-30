@@ -4,7 +4,7 @@ title: "Local Startups to Compete for $50K in Cash Prizes at Startup Challenge F
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 4, 2017 – Twenty-four local startups will compete for
   $50K in cash prizes at CSU Monterey Bay’s (CSUMB) Joel and Dena Gambord

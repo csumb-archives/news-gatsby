@@ -4,7 +4,7 @@ title: "Alcohol Awareness Week Oct. 16-21"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Raise your voice! You can save a life! is campaign theme</h3>
 <p>
   During the week of Oct. 16, students at California State University, Monterey

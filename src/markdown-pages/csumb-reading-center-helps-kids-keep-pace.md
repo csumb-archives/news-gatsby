@@ -4,7 +4,7 @@ title: "CSUMB reading center helps kids keep pace"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . At the Reading Center on the edge of the CSUMB campus, students receive
   a free assessment in which the center's reading specialist determines what

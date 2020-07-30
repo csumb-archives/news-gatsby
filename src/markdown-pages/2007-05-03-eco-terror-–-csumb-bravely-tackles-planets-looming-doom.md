@@ -4,7 +4,7 @@ date: May 3 2007
 slug: eco-terror--csumb-bravely-tackles-the-planets-looming-doom
 ---
 
-```html
+ 
 
 
 

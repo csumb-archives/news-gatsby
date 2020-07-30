@@ -4,7 +4,7 @@ title: "Women's basketball ranked No. 25 in nation"
 date: January 01 2020
 ---
 
-```html
+ 
 <p></p>
 <p>
   For the first time in program history, the women’s basketball team has cracked

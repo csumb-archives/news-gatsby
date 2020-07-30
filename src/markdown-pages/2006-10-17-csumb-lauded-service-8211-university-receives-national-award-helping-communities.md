@@ -5,7 +5,7 @@ date: October 17 2006
 slug: &gt;- csumb-lauded-for-service-university-receives-national-award-for-helping-communities
 ---
 
-```html
+ 
 
 
 

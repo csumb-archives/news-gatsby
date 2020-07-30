@@ -4,7 +4,7 @@ title: "Psychology BLM Statement"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <i
     >This message was originially posted on June 4, 2020. It was written by

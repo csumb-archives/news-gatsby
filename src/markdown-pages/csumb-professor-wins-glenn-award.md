@@ -4,7 +4,7 @@ title: "CSUMB professor wins Glenn Award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 18, 2009</p>
 <p>
   Dr. Lou Denti, a professor of special education at CSU Monterey Bay and

@@ -4,7 +4,7 @@ date: December 12 2007
 slug: jmes-earl-jones
 ---
 
-```html
+ 
 <span class="date">Posted on Dec 12, 2007 </span>
 <p>
   The voice of James Earl Jones echoed through a Long Beach library on Dec. 10

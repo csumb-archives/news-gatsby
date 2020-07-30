@@ -4,7 +4,7 @@ title: "Keepin' it Reel"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Salinas Project, a feature-length documentary about the lives of four
   young adults in East Salinas, will be shown at Cal State Monterey Bay as part

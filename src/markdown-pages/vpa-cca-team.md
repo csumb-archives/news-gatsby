@@ -4,7 +4,7 @@ title: "VPA, CCA team"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>CSUMB students team with CCA to benefit farmworkers</h4>
 <p>
   A billboard on display in Salinas is the result of a project involving

@@ -4,7 +4,7 @@ title: "Mazda Raceway produces $62 million"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Mazda Raceway Laguna Seca contributed more than $62 million in direct economic
   benefit and more than $5 million in taxes during this year’s major racing

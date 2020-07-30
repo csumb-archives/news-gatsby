@@ -4,7 +4,7 @@ title: "CSUMB student attends Panetta leadership seminar"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>June 23, 2010</p>
 <p>
   Vincent Carr was selected to attend the 11th annual Student Leadership Seminar

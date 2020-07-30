@@ -4,7 +4,7 @@ title: "Volleyball player earns All-American honors"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Rheann Fall, outside hitter on CSUMB's volleyball team, is the first Otter
   athlete to earn All-American honors in any sport.

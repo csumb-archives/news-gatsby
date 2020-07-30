@@ -4,7 +4,7 @@ date: January 30 2013
 slug: csumb-honored-for-branding-campaign
 ---
 
-```html
+ 
 
 
 

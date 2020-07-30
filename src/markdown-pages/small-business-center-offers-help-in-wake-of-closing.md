@@ -4,7 +4,7 @@ title: "Small Business Center offers help in wake of closing"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Grant one of 10 awarded nationally</h3>
 <p>
   CSU Monterey Bay's Small Business Development Center has received a grant to

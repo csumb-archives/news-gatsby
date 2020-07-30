@@ -4,7 +4,7 @@ title: "California farmers fight drought "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Forrest Melton, a remote sensing researcher at California State University,
   Monterey Bay and the Cooperative for Earth Science Research and Technology at

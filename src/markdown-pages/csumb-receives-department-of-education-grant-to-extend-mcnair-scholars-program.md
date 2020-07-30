@@ -4,7 +4,7 @@ title: "CSUMB Receives Department of Education Grant to Extend McNair Scholars P
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., September 18, 2017 – California State University Monterey Bay
   (CSUMB) has been selected to receive a U.S. Department of Education grant to

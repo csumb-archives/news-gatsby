@@ -4,7 +4,7 @@ title: "Waltz wins excellence in teaching award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Scott Waltz, associate professor in the Liberal Studies Department, was
   honored at the annual teaching awards ceremony sponsored by the Community

@@ -4,7 +4,7 @@ title: "Exchange program sends CSUMB students to Japan"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In July, 10 students from Cal State Monterey Bay will head overseas as
   participants in the Japanese Exchange and Teaching Program, better known as

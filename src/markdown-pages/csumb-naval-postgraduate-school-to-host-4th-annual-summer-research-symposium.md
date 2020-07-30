@@ -4,7 +4,7 @@ title: "CSUMB, Naval Postgraduate School to Host 4th Annual Summer Research Symp
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., August 10, 2017 – California State University Monterey Bay
   (CSUMB) and the Naval Postgraduate School (NPS) will co-host the

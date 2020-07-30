@@ -4,7 +4,7 @@ title: "The Woman Behind Integrated Studies at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Teacher, thespian, poet, environmentalist, lecturer, scholar - Dr. Barbara
   Mossberg is a living example of integrated studies and the potential for

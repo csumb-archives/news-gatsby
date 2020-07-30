@@ -4,7 +4,7 @@ date: November 3 2013
 slug: coral-reefs-may-be-more-adaptive-than-once-thought
 ---
 
-```html
+ 
 
 
 

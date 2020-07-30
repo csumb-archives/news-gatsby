@@ -4,7 +4,7 @@ title: "Often criticized, Serra gets a reappraisal from historians"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When archaeologist Ruben Mendoza was a boy, his father was prone to outbursts.
   "Over and over, he claimed Catholic missions were cancers that Spain brought

@@ -4,7 +4,7 @@ date: May 6 2011
 slug: president-harrison-named-to-education-commission
 ---
 
-```html
+ 
 
 
 

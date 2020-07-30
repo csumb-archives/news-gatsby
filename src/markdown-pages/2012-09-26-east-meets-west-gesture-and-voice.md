@@ -4,7 +4,7 @@ date: September 26 2012
 slug: east-meets-west-in-gesture-and-voice
 ---
 
-```html
+ 
 
 
 

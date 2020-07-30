@@ -4,7 +4,7 @@ title: "Jimenez named CCAA Coach of the Year"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Three players named to all-conference team</h3>
 <p>
   Women's basketball coach Renee Jimenez took Coach of the Year honors in the

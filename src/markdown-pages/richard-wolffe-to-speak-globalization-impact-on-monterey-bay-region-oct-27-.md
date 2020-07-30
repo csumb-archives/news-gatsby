@@ -4,7 +4,7 @@ title: "Richard Wolffe to speak globalization impact on Monterey Bay region Oct.
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., Oct. 7, 2016 -- The 2016-2017 President's Speaker Series kicks
   off Thurs. Oct. 27 when President Ochoa hosts best-selling author and MSNBC

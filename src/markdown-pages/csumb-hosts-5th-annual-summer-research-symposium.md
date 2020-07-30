@@ -4,7 +4,7 @@ title: "CSUMB Hosts 5th Annual Summer Research Symposium"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE Calif., August 15, 2018 – The 5th annual summer research symposium,
   which celebrated summer research conducted at numerous institutions around the

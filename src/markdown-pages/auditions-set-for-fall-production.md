@@ -4,7 +4,7 @@ title: "Auditions set for fall production"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Members of the public are invited to audition for CSU Monterey Bay’s
   production of a new play,

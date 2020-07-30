@@ -4,7 +4,7 @@ title: "Women golfers win Grand Canyon Invitational"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Otters best four top-ranked teams en route to victory</h3>
 <p>
   CSUMB’s women’s golf team shot 604 to win this week’s Grand Canyon

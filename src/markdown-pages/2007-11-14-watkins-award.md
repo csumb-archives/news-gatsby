@@ -4,7 +4,7 @@ date: November 14 2007
 slug: watkins-award
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 14, 2007 </span>
 <p>
   Steven Watkins, one of CSU Monterey Bay&apos;s founding librarians, was

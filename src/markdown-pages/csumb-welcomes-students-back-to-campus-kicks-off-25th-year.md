@@ -4,7 +4,7 @@ title: "CSUMB Welcomes Students Back to Campus, Kicks Off 25th Year"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., August 23, 2019 – California State University, Monterey Bay
   (CSUMB) began welcoming students back to campus today, officially kicking off

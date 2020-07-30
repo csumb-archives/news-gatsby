@@ -4,7 +4,7 @@ title: "Commencement 2018"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay (CSUMB) congratulates all the
   graduates of the class of 2018! Below is a selection of news clips and fun

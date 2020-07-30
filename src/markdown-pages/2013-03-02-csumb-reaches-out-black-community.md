@@ -4,7 +4,7 @@ date: March 2 2013
 slug: csumb-reaches-out-to-black-community
 ---
 
-```html
+ 
 
 
 

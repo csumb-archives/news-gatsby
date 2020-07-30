@@ -4,7 +4,7 @@ title: "Joe Beck"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   This year's Music and Performing Arts Lecture Series gets under way on Oct. 20
   when legendary jazz guitarist and composer Joe Beck visits campus.

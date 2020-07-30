@@ -4,7 +4,7 @@ title: "November 7, 2007"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>$1 million gift received from Packard Foundation</strong
   >&#45;&#45;President Dianne Harrison has recognized the David and Lucile

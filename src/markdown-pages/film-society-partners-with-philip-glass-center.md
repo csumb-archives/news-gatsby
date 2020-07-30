@@ -4,7 +4,7 @@ title: "Film Society partners with Philip Glass Center"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Two dynamic arts organizations are joining forces.</p>
 <p>
   The Monterey Bay Film Society and the Philip Glass Center for the Arts,

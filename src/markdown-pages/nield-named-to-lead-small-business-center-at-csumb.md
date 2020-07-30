@@ -4,7 +4,7 @@ title: "Nield named to lead Small Business Center at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Andrea Zeller&#45;Nield has been named associate director of California State
   University, Monterey Bay's

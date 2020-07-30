@@ -4,7 +4,7 @@ title: "Visiting artist series kicks off Sept. 17"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s visiting artist series kicks off Sept. 17 when Los Angeles
   artists Karla Diaz and Mario Ybarra Jr. visit campus.

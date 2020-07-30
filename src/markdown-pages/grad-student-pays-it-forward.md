@@ -4,7 +4,7 @@ title: "Grad student pays it forward"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>UROC propels Liz Lopez to master's program at USD</h3>
 <p>
   Liz Lopez, a 2013 graduate of CSU Monterey Bay, has fit right in at the

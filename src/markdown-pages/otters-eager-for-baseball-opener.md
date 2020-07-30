@@ -4,7 +4,7 @@ title: "Otters eager for baseball opener"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay baseball coach Walt White is looking forward to the 2012
   season with good reason. He and his players are about to see if their hard

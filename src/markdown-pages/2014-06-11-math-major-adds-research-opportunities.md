@@ -4,7 +4,7 @@ date: June 11 2014
 slug: math-major-adds-up-research-opportunities
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Down on the farm ? and off the world stage"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   As he motioned from his office window to the windswept grounds of what was
   once the Army's mighty Fort Ord training center, Leon Panetta couldn't help

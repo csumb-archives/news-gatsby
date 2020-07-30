@@ -4,7 +4,7 @@ title: "Otters Advance in CCAA"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   March Madness arrived a bit early for the CSU Monterey Bay women's basketball
   team. In their California Collegiate Athletic Association tournament opener

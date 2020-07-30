@@ -4,7 +4,7 @@ title: "CSUMB’s Kyrstie Lane Receives Staff of the Year Award at WESTOP"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., February 25, 2019 – The Western Association of Educational
   Opportunity Personnel (WESTOP) has honored Kyrstie Lane, Associate Director of

@@ -4,7 +4,7 @@ title: "Monterey mural features work by science illustration grad"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A mural by Stephanie Rozzo is now helping visitors to Monterey understand what
   the city’s natural landscape looked like over 400 years ago.

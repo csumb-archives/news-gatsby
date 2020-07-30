@@ -4,7 +4,7 @@ title: "Alum's internship promotes marine sanctuaries"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>SOCIAL MEDIA CAMPAIGN GOES NATIONAL</p>
 <p>
   As a travel destination, few places can compete with the national marine

@@ -4,7 +4,7 @@ date: February 18 2014
 slug: monterey-county&apos;-focus-of-speaker-series
 ---
 
-```html
+ 
 
 
 

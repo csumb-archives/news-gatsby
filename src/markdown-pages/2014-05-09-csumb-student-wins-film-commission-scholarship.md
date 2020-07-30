@@ -4,7 +4,7 @@ date: May 9 2014
 slug: csumb-student-wins-film-commission-scholarship
 ---
 
-```html
+ 
 
 
 

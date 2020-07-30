@@ -4,7 +4,7 @@ title: "Cleaner, greener"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Some good kids have been doing a great thing for the past 18 years – helping
   to protect the waters of the Monterey Bay National Marine Sanctuary through

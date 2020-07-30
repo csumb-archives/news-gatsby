@@ -4,7 +4,7 @@ title: "CSU Summer Arts 2017 Heads to Fresno "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   After five consecutive years at CSUMB, the CSU Summer Arts program will head
   to Fresno this summer. CSUMB’s Umi Vaughan will lead “Drum Talk: Rhythms From

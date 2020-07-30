@@ -4,7 +4,7 @@ title: "Alumnus gets surprised – on national TV"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB graduate David Bennion (Biology, 2012) and his wife, Kristen, got a big
   surprise June 3 when the phone rang in their Troy, Michigan, home and Ellen

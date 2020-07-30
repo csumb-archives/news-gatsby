@@ -4,7 +4,7 @@ title: "Katherine Kantardjieff announced as next Provost at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>Seaside, Calif., April 2, 2020 -</b> After completing a national search,
   Cal State Monterey Bay announced today that Katherine Kantardjieff, Ph.D. is

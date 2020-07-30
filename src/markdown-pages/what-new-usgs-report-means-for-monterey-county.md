@@ -4,7 +4,7 @@ title: "What new USGS report means for Monterey County"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   "Even a 6.7 or a 7 earthquake can be devastating if it's close to an urban
   center," said Dr. Doug Smith of CSUMB. "Different rock types will shake more

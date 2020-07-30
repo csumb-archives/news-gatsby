@@ -4,7 +4,7 @@ title: "Former AS officer heads to Washington for internship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   While other students are returning to the classroom this fall, Wendy Holman is
   heading to Washington, D.C., where she will spend the semester working in the

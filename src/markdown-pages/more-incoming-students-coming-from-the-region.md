@@ -4,7 +4,7 @@ title: "More incoming students coming from the region"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The number of CSUMB students from the tri-county area increased in Fall 2010.
   Residents of Monterey, Santa Cruz and San Benito counties now make up 33

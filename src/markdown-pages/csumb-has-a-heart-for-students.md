@@ -4,7 +4,7 @@ title: "CSUMB has a heart for students"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   &#42;<strong
     >Annual event at CSUMB raises money for student scholarships</strong

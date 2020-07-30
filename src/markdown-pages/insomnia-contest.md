@@ -4,7 +4,7 @@ title: "Insomnia contest"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>TAT students; work makes Apple's top-25 list</h4>
 <p>
   CSUMB's top entry in this year's Apple Computer Insomnia Film Festival is

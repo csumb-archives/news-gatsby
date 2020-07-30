@@ -4,7 +4,7 @@ date: September 29 2009
 slug: alcohol-awareness-week-at-csumb
 ---
 
-```html
+ 
 
 
 

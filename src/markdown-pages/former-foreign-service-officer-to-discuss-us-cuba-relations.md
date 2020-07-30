@@ -4,7 +4,7 @@ title: "Former Foreign Service officer to discuss U.S.-Cuba relations"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Former Foreign Service officer Charles Barclay will visit Cal State Monterey
   Bay April 14 to present a talk on U.S.&#45;Cuba relations.

@@ -4,7 +4,7 @@ title: "Campus aims for zero waste when students leave campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Some CSUMB students were surprised at what they saw discarded during last
   year's spring rush to clean out dorm rooms and move off campus for the summer.

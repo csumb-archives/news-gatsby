@@ -4,7 +4,7 @@ title: "Professor's lighting design lauded"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Stephanie Anne Johnson, a professor in Visual and Public Art, was
   mentioned in Sam Hurwitt’s review of the play

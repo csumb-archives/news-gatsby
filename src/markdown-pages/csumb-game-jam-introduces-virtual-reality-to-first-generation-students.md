@@ -4,7 +4,7 @@ title: "CSUMB “Game Jam” Introduces Virtual Reality to First Generation Stud
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif. June 15, 2017 – Virtual Reality (VR) is considered to be the
   next transformative technology, not only for games but for practical

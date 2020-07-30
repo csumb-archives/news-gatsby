@@ -4,7 +4,7 @@ title: "Bottom trawling not as bad for California sea life"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Researchers from Cal State Monterey Bay, The Nature Conservancy and Pomona
   College found that California's largely soft&#45;bottom sea floor saw

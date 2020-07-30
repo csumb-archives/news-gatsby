@@ -4,7 +4,7 @@ title: "Commencement's social media"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB’s<a
     href="https://news.csumb.edu/news/2013/may/18/thousands-celebrate-commencement"

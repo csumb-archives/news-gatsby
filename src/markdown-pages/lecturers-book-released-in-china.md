@@ -4,7 +4,7 @@ title: "Lecturer's book released in China"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The first university textbook on human sexuality to be published in China was
   co-authored by a CSU Monterey Bay faculty member.

@@ -4,7 +4,7 @@ title: "Smoke coming our way from Soledad fire "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 28, 2009****</p>
 <p>
   The smoke that is noticeable in the air today at CSUMB is coming from the

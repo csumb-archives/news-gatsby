@@ -4,7 +4,7 @@ title: "Teen Film Festival submission deadline Feb. 12"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Jan. 3, 2010</p>
 <p>
   Young filmmakers eager to see their work on a screen bigger than YouTube will

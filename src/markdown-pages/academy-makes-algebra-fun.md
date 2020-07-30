@@ -4,7 +4,7 @@ title: "Academy makes algebra fun"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In a large conference room at Graniterock's headquarters in Watsonville, 54
   Rolling Hills Middle School students are voluntarily spending a week of their

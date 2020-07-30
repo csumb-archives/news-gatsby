@@ -4,7 +4,7 @@ date: January 4 2011
 slug: college-seniors
 ---
 
-```html
+ 
 
 
 

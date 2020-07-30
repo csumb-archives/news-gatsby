@@ -4,7 +4,7 @@ title: "Persistence pays off for this alumnus"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Lands dream job with basketball team</h3>
 <p>
   He’s energetic, enthusiastic and cheerfully nervy. Those qualities landed

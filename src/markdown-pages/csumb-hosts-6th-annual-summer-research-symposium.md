@@ -4,7 +4,7 @@ title: "CSUMB Hosts 6th Annual Summer Research Symposium"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., August 9, 2019 – California State University Monterey Bay
   (CSUMB) hosted the

@@ -4,7 +4,7 @@ title: "A banner event"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>{}</h2>
 <p>
   "Vision," "diversity" and "service" are boldly displayed on banners that grace

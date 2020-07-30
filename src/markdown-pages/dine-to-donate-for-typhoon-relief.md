@@ -4,7 +4,7 @@ title: "'Dine to Donate' for typhoon relief"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Dining Commons event to benefit victims</h3>
 <p>It seems that people and food come together in times of great tragedy.</p>
 <p>

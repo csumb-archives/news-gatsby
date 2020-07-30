@@ -4,7 +4,7 @@ title: "Faculty in the News"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>2015</h4>
 <p>
   • Professor Johanna Poethig, who teaches painting in the Visual and Public Art

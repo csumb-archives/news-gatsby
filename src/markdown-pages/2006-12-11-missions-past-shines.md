@@ -4,7 +4,7 @@ date: December 11 2006
 slug: mission-past-shines
 ---
 
-```html
+ 
 
 
 

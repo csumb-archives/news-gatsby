@@ -4,7 +4,7 @@ title: "Art in service of science"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Illustrating Nature, the fourth annual exhibit of work by students in
   the CSU Monterey Bay science illustration program, will be on display at the

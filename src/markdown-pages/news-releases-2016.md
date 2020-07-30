@@ -4,7 +4,7 @@ title: "News Releases 2016"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <a
     href="https://csumb.edu/news/csumb&#45;partners&#45;mann&#45;packing&#45;establish&#45;college&#45;business&#45;scholarship"

@@ -4,7 +4,7 @@ title: "Faculty, grad student work on novel way to manage grasslands"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Suzy Worcester and John Inman, a graduate student in CSU Monterey Bay’s
   applied marine and watershed science program, have been working with Bruce

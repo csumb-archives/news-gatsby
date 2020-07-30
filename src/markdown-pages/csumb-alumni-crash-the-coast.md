@@ -4,7 +4,7 @@ title: "CSUMB alumni 'Crash the Coast'"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 29, 2010</p>
 <p>
   Four CSU Monterey Bay alumni – all graduates of the Teledramatic Arts and

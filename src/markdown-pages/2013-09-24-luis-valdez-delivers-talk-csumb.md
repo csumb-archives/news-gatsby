@@ -4,7 +4,7 @@ date: September 24 2013
 slug: luis-valdez-delivers-talk-at-csumb
 ---
 
-```html
+ 
 
 
 

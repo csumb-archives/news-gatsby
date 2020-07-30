@@ -4,7 +4,7 @@ title: "Grad uses theater arts to reach young men"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Gilbert Salazar was born to work with young people. He has spent years
   teaching, guiding and mentoring them in a variety of settings.

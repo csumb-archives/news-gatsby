@@ -4,7 +4,7 @@ title: "CSUMB awarded $32 million grant to study climate change"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay will use the largest grant it's ever received to study how
   climate change impacts ecosystem processes, and develop products to help

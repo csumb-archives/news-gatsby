@@ -4,7 +4,7 @@ title: "2018 Startup Challenge Monterey Bay Winners Announced"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 16, 2018 – Winners of the 2018 Startup Challenge Monterey
   Bay were selected by a panel of judges at CSUMB @ Salinas City Center May 12,

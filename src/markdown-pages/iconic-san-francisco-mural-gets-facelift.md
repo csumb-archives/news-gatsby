@@ -4,7 +4,7 @@ title: "Iconic San Francisco mural gets facelift"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Artist recruits students to help with project</h3>
 <p>
   Johanna Poethig has been making public art in San Francisco since the 1980s.

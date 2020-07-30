@@ -4,7 +4,7 @@ date: December 14 2006
 slug: erik-edmonds
 ---
 
-```html
+ 
 
 
 

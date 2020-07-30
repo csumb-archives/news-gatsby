@@ -4,7 +4,7 @@ date: October 14 2014
 slug: creating-a-thousand-lights
 ---
 
-```html
+ 
 
 
 

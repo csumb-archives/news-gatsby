@@ -4,7 +4,7 @@ title: "Art project featured in book on Fort Ord"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Former soldier searches for meaning in the American military experience</h3>
 <p>
   <em

@@ -4,7 +4,7 @@ title: "CSUMB expands service into North Salinas area"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   From our campus, we can see both sides of the county’s divide: the
   agricultural areas of the Salinas Valley and the tourist mecca of the Monterey

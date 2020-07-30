@@ -4,7 +4,7 @@ title: "Blind Iraq War vet finds have"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A roadside bomb in Baghdad blinded him in one eye and partially in another in
   2005, and Iraq War Army veteran Travis Fugate lost his sight completely to an

@@ -4,7 +4,7 @@ title: "CSUMB adviser earns USDA fellowship"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>Ejan headed to Washington, D.C.</h2>
 <p>
   Jihan Ejan, a retention adviser with the Center for Student Success at CSU

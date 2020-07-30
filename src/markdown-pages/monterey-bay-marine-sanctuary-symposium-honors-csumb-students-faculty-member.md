@@ -4,7 +4,7 @@ title: "Monterey Bay Marine Sanctuary Symposium honors CSUMB students, faculty m
 date: January 01 2020
 ---
 
-```html
+ 
 <p>April 19, 2010</p>
 <p>**</p>
 <p>

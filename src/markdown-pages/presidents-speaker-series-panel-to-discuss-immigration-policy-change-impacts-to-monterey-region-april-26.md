@@ -4,7 +4,7 @@ title: "President’s Speaker Series panel to discuss immigration policy change 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., April 3, 2017 -- CSUMB President Eduardo M. Ochoa will host a
   panel of local political and legal experts to discuss potential effects of

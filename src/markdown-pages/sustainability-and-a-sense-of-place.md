@@ -4,7 +4,7 @@ title: "Sustainability and a sense of place"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Annual FOCUS event returns Feb. 12</h3>
 <p>
   California State University, Monterey Bay will host FOCUS, the university’s

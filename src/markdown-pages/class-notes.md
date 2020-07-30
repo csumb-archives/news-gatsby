@@ -4,7 +4,7 @@ title: "Class Notes"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>2010</h2>
 <p>
   <strong>ALEXIS HALL</strong> (B.S., Environmental Science, Technology &amp;

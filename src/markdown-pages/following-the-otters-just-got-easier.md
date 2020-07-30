@@ -4,7 +4,7 @@ title: "Following the Otters just got easier"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sports fans now have a variety of tools for following the Otters.</p>
 <p>
   All of these options are available by clicking “Connect With the Otters” from

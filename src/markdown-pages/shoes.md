@@ -4,7 +4,7 @@ title: "Shoes"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Thinking outside the (shoe) box</h4>
 <p>
   After running thousands of miles, Katie Spotz understands the importance of a

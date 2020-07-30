@@ -4,7 +4,7 @@ date: July 17 2013
 slug: searching-for-the-spirit-of-america
 ---
 
-```html
+ 
 
 
 

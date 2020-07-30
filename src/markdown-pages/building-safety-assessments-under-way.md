@@ -4,7 +4,7 @@ title: "Building safety assessments under way"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <a
     href="https://www.awareandprepare.org/news/october-is-fire-preparedness-month/"

@@ -4,7 +4,7 @@ date: July 15 2013
 slug: grant-funds-chinatown-walking-tour-project
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Health sciences, human services dean named"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Long Beach State educator to lead new college</h3>
 <p>
   Britt Rios-Ellis, a professor of health sciences at Long Beach State and

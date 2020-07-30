@@ -4,7 +4,7 @@ title: "DANCE MAKER: At 84, Paul Taylor is still a towering figure in dance "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The acclaimed Paul Taylor Dance Company will pay a return visit to California
   State University, Monterey Bay’s World Theater on April 22.

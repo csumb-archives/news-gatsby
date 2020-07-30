@@ -4,7 +4,7 @@ title: "Capstone Students Present Research on MY Town Exhibit"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., December 4, 2019 – The<b> </b>MY Town Pop-up Children’s Museum
   launched at the CSUMB Salinas City Center during the summer of 2019. The

@@ -4,7 +4,7 @@ date: November 19 2013
 slug: what-will-the-future-look-like
 ---
 
-```html
+ 
 
 
 

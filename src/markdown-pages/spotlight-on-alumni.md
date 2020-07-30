@@ -4,7 +4,7 @@ title: "Spotlight on Alumni"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>Crystal Costa: Ready for prime time</h4>
 <p>
   Crystal Costa is on the air. A 2007 graduate, she currently reports for KJCT

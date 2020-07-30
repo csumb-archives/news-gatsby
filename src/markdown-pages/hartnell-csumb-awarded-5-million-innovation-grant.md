@@ -4,7 +4,7 @@ title: "Hartnell, CSUMB awarded $5 million innovation grant"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A program that allows students to earn a computer science degree in three
   years, a collaboration between CSU Monterey Bay and Hartnell College, was

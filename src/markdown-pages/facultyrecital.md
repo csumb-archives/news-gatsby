@@ -4,7 +4,7 @@ title: "FacultyRecital"
 date: January 01 2020
 ---
 
-```html
+ 
 <h5>Soprano Paulette Gissendanner, pianist Daniel Glover to perform</h5>
 <p>
   Music professor Paulette Gissendannerwill give a free public recital on Nov.

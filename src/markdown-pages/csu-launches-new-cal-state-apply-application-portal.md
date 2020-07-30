@@ -4,7 +4,7 @@ title: "CSU Launches New Cal State Apply Application Portal"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   May 16, 2017 – The California State University (CSU) today announced the
   launch of a new application portal, Cal State Apply, a streamlined

@@ -4,7 +4,7 @@ title: "Flippin' Education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Class work is done in class, homework is done at home. That's the way it's
   always been. But imagine that model flipped: the traditional classroom

@@ -6,7 +6,7 @@ date: May 25 2006
 slug: &gt;- allez-cuisine!-csumb&apos;s-&apos;iron-chef&apos;-competition-showcases-the-new-direction-of-campus-dining
 ---
 
-```html
+ 
 
 
 

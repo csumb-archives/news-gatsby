@@ -4,7 +4,7 @@ title: "Trilingual Salinas grad off to Japan"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Who knew that a fondness for cartoons as a child would put Nicole Saldana on
   track to become an international businesswoman some day?

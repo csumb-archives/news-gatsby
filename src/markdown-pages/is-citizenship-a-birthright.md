@@ -4,7 +4,7 @@ title: "Is citizenship a birthright?"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Sept. 14, 2010</p>
 <p></p>
 <p>

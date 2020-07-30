@@ -4,7 +4,7 @@ title: "Students haunt house for a good cause"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>The Rotaract Club of CSU Monterey Bay wants to scare you.</p>
 <p>
   About 15 of the club’s members have volunteered to help at the Castle of the

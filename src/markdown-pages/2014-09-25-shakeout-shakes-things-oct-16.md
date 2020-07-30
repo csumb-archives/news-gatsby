@@ -4,7 +4,7 @@ date: September 25 2014
 slug: shakeout-shakes-things-up-on-oct.-16
 ---
 
-```html
+ 
 
 
 

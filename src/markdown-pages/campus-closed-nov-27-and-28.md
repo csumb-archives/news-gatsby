@@ -4,7 +4,7 @@ title: "Campus closed Nov. 27 and 28"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay will observe the Thanksgiving holiday on Thursday and Friday,
   Nov. 27 and 28.

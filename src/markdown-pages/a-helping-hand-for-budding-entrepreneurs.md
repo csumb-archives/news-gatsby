@@ -4,7 +4,7 @@ title: "A helping hand for budding entrepreneurs"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Four high school students gathered around a table at CSU Monterey Bay on April
   29, brainstorming ideas for a business. They decided to design an app to help

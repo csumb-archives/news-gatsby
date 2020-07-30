@@ -4,7 +4,7 @@ date: May 22 2013
 slug: art-student&apos;s-work-adorns-skate-park
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "CSUMB incoming interim president Dr. Eduardo Ochoa speaks"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . Some of the things he says he admires about CSU Monterey Bay include its
   marine biology department, its innovation and interdisciplinary approach,

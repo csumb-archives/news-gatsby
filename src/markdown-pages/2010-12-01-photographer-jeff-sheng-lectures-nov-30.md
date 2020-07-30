@@ -4,7 +4,7 @@ date: December 1 2010
 slug: photographer-jeff-sheng-lectures-nov.-30
 ---
 
-```html
+ 
 
 
 

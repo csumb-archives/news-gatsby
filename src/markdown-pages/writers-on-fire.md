@@ -4,7 +4,7 @@ title: "Writers on Fire"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Nov. 7, 2009</p>
 <p>
   The public is invited to celebrate the recent publication of "Fire and Ink, An

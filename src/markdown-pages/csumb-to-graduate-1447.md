@@ -4,7 +4,7 @@ title: "CSUMB to graduate 1,447"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Come Saturday, Sandra Zuniga will have a new field to explore – mathematics at
   the graduate studies level. The daughter of a farm worker family from east

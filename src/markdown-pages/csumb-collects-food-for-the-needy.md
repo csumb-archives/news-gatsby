@@ -4,7 +4,7 @@ title: "CSUMB collects food for the needy"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Concertgoers donate more than half a ton of people, pet food</h3>
 <p>
   Representatives from the Food Bank for Monterey County loaded hundreds of

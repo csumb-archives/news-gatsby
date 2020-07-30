@@ -4,7 +4,7 @@ date: September 30 2014
 slug: concert-offers-an-array-of-new-music
 ---
 
-```html
+ 
 
 
 

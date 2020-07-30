@@ -4,7 +4,7 @@ title: "Another honor for the Otter Realm"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay’s student newspaper, the Otter Realm, has received a
   $1,500 grant from the California Press Foundation.

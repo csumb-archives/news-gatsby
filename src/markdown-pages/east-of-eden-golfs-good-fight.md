@@ -4,7 +4,7 @@ title: "East of Eden, Golf's Good Fight"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In the First Tee program . . . education is emphasized – the kids can't go to
   the golf course or range until they've completed their homework. Through a

@@ -4,7 +4,7 @@ title: "Faculty member at White House summit"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay faculty member Lisa Stewart is taking her research on
   work-family issues to a national stage.

@@ -4,7 +4,7 @@ title: "Hiramoto named VP for advancement"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   California State University, Monterey Bay President Dianne Harrison has
   announced the appointment of Dr. Patti Hiramoto as Vice President for

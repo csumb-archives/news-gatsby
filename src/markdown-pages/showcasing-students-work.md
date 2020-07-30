@@ -4,7 +4,7 @@ title: "Showcasing students' work"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong
     ><em>CSUMB capstone festival puts final projects in spotlight</em></strong

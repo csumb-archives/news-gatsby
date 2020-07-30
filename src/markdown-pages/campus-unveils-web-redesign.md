@@ -4,7 +4,7 @@ title: "Campus unveils web redesign"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Oct. 26, 2010 A redesigned website for Cal State Monterey Bay debuted on Oct.
   25, after more than a year of work by members of the Strategic Communications

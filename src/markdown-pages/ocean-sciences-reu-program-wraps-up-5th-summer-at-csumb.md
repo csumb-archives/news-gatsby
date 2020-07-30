@@ -4,7 +4,7 @@ title: "Ocean Sciences REU Program Wraps Up 5th Summer at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., August 8, 2018–The
   <a href="/reu">Monterey Bay Regional Ocean Science Research Experiences</a>

@@ -4,7 +4,7 @@ date: October 21 2013
 slug: innovation-in-the-fields
 ---
 
-```html
+ 
 
 
 

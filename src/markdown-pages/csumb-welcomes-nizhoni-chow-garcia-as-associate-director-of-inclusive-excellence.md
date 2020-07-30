@@ -4,7 +4,7 @@ title: "CSUMB welcomes Nizhoni Chow-Garcia as Associate Director of Inclusive Ex
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB has a valuable new addition to its diversity team. Nizhoni Chow-Garcia,
   Ph.D has been named the new associate director of inclusive excellence, coming

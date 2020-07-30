@@ -4,7 +4,7 @@ title: "White Shark Genome Decoded"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>
   Huge Genome Reveals Sequence Adaptations in Key Wound Healing and Genome
   Stability Genes Tied to Cancer Protection

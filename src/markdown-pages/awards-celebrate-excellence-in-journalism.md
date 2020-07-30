@@ -4,7 +4,7 @@ title: "Awards celebrate excellence in journalism"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The third annual Otter Realm Awards, recognizing students who have done
   excellent work in journalism – print, video, photography and page design –

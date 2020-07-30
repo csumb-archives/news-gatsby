@@ -4,7 +4,7 @@ date: October 28 2013
 slug: can-coral-reefs-adjust-to-global-climate-change
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Another public art project for faculty member"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <a href="//vpa.csumb.edu/people/johanna-poethig">Johanna Poethig</a>, who has
   worked on dozens of large-scale murals and other art installations around the

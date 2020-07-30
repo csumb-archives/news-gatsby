@@ -4,7 +4,7 @@ title: "Weekly Farm Stand returns to campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay Dining Services is teaming up with the campus Farm Club to
   bring a weekly farm stand to campus throughout the fall.

@@ -4,7 +4,7 @@ date: November 3 2011
 slug: blue-goes-green
 ---
 
-```html
+ 
 
 
 

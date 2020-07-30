@@ -4,7 +4,7 @@ title: "Calling all entrepreneurs"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The application deadline is fast approaching for the annual Startup Challenge.
 </p>

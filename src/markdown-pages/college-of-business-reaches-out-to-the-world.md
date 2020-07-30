@@ -4,7 +4,7 @@ title: "College of Business reaches out to the world"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Scholar from India visits campus, collaborates on research</h3>
 <p>
   In February, CSU Monterey Bay’s College of Business welcomed its first

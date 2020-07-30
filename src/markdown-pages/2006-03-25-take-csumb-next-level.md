@@ -4,7 +4,7 @@ date: March 25 2006
 slug: take-csumb-to-next-level
 ---
 
-```html
+ 
 
 
 

@@ -4,7 +4,7 @@ title: "Campus demolition work resumes"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>May 5, 2010</p>
 <p>
   The university's efforts to create and support a sustainable environment

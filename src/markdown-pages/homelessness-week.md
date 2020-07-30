@@ -4,7 +4,7 @@ title: "homelessness week"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>CSUMB students organize activities for campus, community</h4>
 <p>
   Students at California State University, Monterey Bay have organized a week of

@@ -4,7 +4,7 @@ title: "Three honored as part of Cesar Chavez Challenge"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Members of two campus organizations earned a trip to the Monterey Bay Aquarium
   in recognition of their work during the Cesar Chavez Challenge at CSU Monterey

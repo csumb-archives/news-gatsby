@@ -4,7 +4,7 @@ title: "CSUMB Celebrates the Class of 2016"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   'You will never be in a better place to take risks that will ensure lives of
   future generations,' graduates told

@@ -4,7 +4,7 @@ title: "NEH Grant to Help Enrich CSUMB’s Reading and Writing Curriculum"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., February 15, 2019 – California State University, Monterey Bay
   (CSUMB’s)

@@ -4,7 +4,7 @@ title: "Smoke and Tobacco-Free CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <i
     >In accordance with the California State University Chancellor's Office

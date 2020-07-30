@@ -4,7 +4,7 @@ title: "Middle school students get a jump on algebra"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Standing in front of 50 middle school students, CSU Monterey Bay Professor
   Hongde Hu demonstrated the solution to a math problem as though he were

@@ -4,7 +4,7 @@ title: "YOU ROCK!"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <strong>Students will spend summer on prestigious research projects</strong>
 </p>

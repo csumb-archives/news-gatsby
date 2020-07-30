@@ -4,7 +4,7 @@ title: "CSUMB Student Daniel Olivares Awarded U.S. Department of State’s Benja
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB student Daniel Olivares is one of nearly 1,000 American undergraduate
   students from 386 colleges and universities across the United States selected

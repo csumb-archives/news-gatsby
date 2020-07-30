@@ -4,7 +4,7 @@ title: "CSUMB senior awarded film scholarship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Nicholas Fryou, a student at CSU Monterey Bay, was named the winner of $2,000
   in the Monterey County Film Commission's Director Emeritus Richard Tyler Film

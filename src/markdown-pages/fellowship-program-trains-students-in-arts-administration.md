@@ -4,7 +4,7 @@ title: "Fellowship program trains students in arts administration"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Two Cal State Monterey Bay students are getting the opportunity to learn how
   nonprofits operate through a fellowship program with the Carmel Bach Festival,

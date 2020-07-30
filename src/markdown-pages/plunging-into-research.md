@@ -4,7 +4,7 @@ title: "Plunging into research"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Grant allows undergrads to get first-hand experience</h3>
 <p>
   One of CSU Monterey Bay’s selling points is its proximity to the bay. Students

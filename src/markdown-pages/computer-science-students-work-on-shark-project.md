@@ -4,7 +4,7 @@ title: "Computer science students work on shark project"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Students in the CSIT-in-3 program know a good opportunity when they see it.
 </p>

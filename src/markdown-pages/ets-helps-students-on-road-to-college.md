@@ -4,7 +4,7 @@ title: "ETS helps students on road to college"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>VIDEO IN RUNNING FOR NATIONAL HONOR</p>
 <p>
   Madeleine Maurer moved to Seaside from Houston during her junior year in high

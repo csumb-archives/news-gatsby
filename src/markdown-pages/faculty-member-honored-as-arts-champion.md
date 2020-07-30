@@ -4,7 +4,7 @@ title: "Faculty member honored as Arts Champion"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Arts Council for Monterey County will honor Enid Baxter Blader at its
   annual Champions of the Arts gala on Jan. 21.

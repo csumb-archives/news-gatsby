@@ -4,7 +4,7 @@ title: "Become an entrepreneur in 54 hours"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB to host Startup Weekend Jan. 23-25</h3>
 <p>
   Ever wonder what it takes to be an entrepreneur? CSU Monterey Bay will be a

@@ -4,7 +4,7 @@ title: "Monterey County Students Present their Findings to Polar Scientists at C
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE Calif., Mar. 15, 2018 – Nearly 100 Monterey County middle and high
   school students participated in the

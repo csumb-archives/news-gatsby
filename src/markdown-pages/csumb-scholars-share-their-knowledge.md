@@ -4,7 +4,7 @@ title: "CSUMB scholars share their knowledge"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Bacone College in Muskogee, Okla., will host a symposium on March 23 with a
   decidedly CSUMB feel.

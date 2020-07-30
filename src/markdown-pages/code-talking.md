@@ -4,7 +4,7 @@ title: "Code talking"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . .Native American Heritage Month events try to inject reality and history
   via the voices of Native Americans. – <em>Monterey County Weekly</em>, Nov.

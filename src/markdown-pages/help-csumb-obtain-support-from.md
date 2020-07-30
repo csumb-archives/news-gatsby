@@ -4,7 +4,7 @@ title: "Help CSUMB obtain support from"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Dec. 2, 2009</p>
 <p>
   ****The Monterey County Weekly newspaper has invited readers to help support

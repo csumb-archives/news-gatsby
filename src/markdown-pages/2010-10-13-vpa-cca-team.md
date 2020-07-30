@@ -4,7 +4,7 @@ date: October 13 2010
 slug: vpa-cca-team
 ---
 
-```html
+ 
 <span class="date">Posted on Oct 13, 2010 </span>
 <h4>CSUMB students team with CCA to benefit farmworkers</h4>
 <p>

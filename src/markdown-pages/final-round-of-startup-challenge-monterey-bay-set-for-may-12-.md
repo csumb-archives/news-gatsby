@@ -4,7 +4,7 @@ title: "Final Round of Startup Challenge Monterey Bay Set for May 12 "
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., May 1, 2018 – California State University, Monterey Bay’s
   (CSUMB) Institute for Innovation and Economic Development (iiED) will host the

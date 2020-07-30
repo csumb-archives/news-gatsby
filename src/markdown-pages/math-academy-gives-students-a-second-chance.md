@@ -4,7 +4,7 @@ title: "Math Academy gives students a second chance"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Reports frequently place U.S. students well below their international peers in
   math knowledge and performance.

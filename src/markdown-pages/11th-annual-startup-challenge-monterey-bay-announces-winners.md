@@ -4,7 +4,7 @@ title: "11th Annual Startup Challenge Monterey Bay announces winners"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Calif., June 3, 2020</b> - The
   <a href="https://csumb.edu/iied"

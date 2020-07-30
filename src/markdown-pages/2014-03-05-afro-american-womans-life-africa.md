@@ -4,7 +4,7 @@ date: March 5 2014
 slug: an-afroamerican-woman&apos;s-life-in-africa
 ---
 
-```html
+ 
 
 
 

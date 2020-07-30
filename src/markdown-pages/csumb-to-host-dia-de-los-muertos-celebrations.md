@@ -4,7 +4,7 @@ title: "CSUMB to host Dia de Los Muertos Celebrations"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., October 24, 2019 – California State University, Monterey Bay
   (CSUMB) will host a series of Dia de Los Muertos events on Friday, November 1,

@@ -4,7 +4,7 @@ title: "CSUMB Establishes Innovation Institute to Support Economic Growth"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   In Fall 2010, CSUMB established its Innovation Institute to Support Economic
   Growth, which will provide comprehensive, innovative education, business

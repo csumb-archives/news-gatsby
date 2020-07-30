@@ -4,7 +4,7 @@ date: July 16 2014
 slug: girls-love-science-too
 ---
 
-```html
+ 
 
 
 

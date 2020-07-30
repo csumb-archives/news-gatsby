@@ -4,7 +4,7 @@ title: "Plant yourself at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Return of the Natives, the education and outreach arm of CSU Monterey Bay’s
   Watershed Institute, has a big idea for 2015. RON plans to transform parts of

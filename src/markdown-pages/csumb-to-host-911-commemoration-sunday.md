@@ -4,7 +4,7 @@ title: "CSUMB to host 9/11 commemoration Sunday"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay hosted a day of remembrance on Sunday, the 10th anniversary
   of the 9/11 attacks.

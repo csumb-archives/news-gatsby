@@ -4,7 +4,7 @@ title: "Mona the Mammoth symbolizes Earth Day at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   A long-extinct creature roams the earth – at least CSUMB's piece of it – once
   again. Mona the Mammoth is part of

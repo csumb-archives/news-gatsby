@@ -4,7 +4,7 @@ title: "Alum wins California Sea Grant fellowship"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Jessica Watson, a December graduate of CSU Monterey Bay’s Coastal and
   Watershed Science and Policy masters program, has been selected as a

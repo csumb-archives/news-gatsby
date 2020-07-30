@@ -4,7 +4,7 @@ title: "Director of refugee studies center to lecture"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Dr. Dawn Chatty, director of the Refugee Studies Centre at the University of
   Oxford, will speak at CSU Monterey Bay on Nov. 17. The topic of her public

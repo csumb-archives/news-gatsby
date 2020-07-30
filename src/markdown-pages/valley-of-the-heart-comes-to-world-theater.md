@@ -4,7 +4,7 @@ title: "Valley of the Heart comes to World Theater"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Story of love and endurance staged Oct. 18 and 19</h3>
 <p>
   Valley of the Heart explores themes that are ever-present in California –

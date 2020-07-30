@@ -4,7 +4,7 @@ date: March 13 2014
 slug: student-artists&apos;-work-to-be-installed-april-18
 ---
 
-```html
+ 
 
 
 

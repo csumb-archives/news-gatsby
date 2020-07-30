@@ -4,7 +4,7 @@ title: "Squid disco"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Submarines and submersibles provide their operators with some capacity to
   interact with the outside world. However, you run into problems when

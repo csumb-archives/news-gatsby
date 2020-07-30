@@ -4,7 +4,7 @@ title: "Students earn CSUMB's first Goldwater scholarships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Awards given to students who plan to pursue careers in STEM fields</p>
 <p>
   Two students at Cal State Monterey Bay will receive Barry M. Goldwater

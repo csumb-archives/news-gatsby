@@ -4,7 +4,7 @@ title: "A message from President Harrison"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Dear friends of CSU Monterey Bay,</p>
 <p>
   This twice-yearly magazine is all about pride – the university’s pride in its

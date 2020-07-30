@@ -4,7 +4,7 @@ title: "Science work pays off big"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Four undergraduate students at CSU Monterey Bay learned Friday they are among
   a select group of nationwide applicants chosen to receive prestigious and

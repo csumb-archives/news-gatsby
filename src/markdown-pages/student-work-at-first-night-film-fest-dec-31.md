@@ -4,7 +4,7 @@ title: "Student work at First Night Film Fest Dec. 31"
 date: January 01 2020
 ---
 
-```html
+ 
 <h2>FIRST THINGS LAST So long 2011, hello CSUMB First Night Film Fest</h2>
 <p>
   First Night Monterey, the community New Year's Eve celebration, will offer the

@@ -4,7 +4,7 @@ date: September 5 2013
 slug: education-round-the-clock
 ---
 
-```html
+ 
 
 
 

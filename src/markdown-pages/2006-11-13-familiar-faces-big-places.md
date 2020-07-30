@@ -4,7 +4,7 @@ date: November 13 2006
 slug: familiar-faces-in-big-places
 ---
 
-```html
+ 
 
 
 

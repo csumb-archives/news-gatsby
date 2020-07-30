@@ -4,7 +4,7 @@ date: December 2 2014
 slug: freshmen-applications-jump-more-than-5-percent
 ---
 
-```html
+ 
 
 
 

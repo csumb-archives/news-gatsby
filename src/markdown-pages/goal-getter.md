@@ -4,7 +4,7 @@ title: "GOAL GETTER"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>CSUMB student spends semester in Washington, D.C.</h4>
 <p>
   Jillian Shweiki wants to get involved in national politics as a campaign

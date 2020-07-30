@@ -4,7 +4,7 @@ title: "A focus on learning"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Financial challenges as well as academic ones face university students, which
   is some of them have tapped into a scholarship program at CSUMB called Have a

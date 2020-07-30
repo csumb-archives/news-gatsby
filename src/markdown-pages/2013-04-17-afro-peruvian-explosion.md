@@ -4,7 +4,7 @@ date: April 17 2013
 slug: afroperuvian-explosion
 ---
 
-```html
+ 
 
 
 

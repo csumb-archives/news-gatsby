@@ -4,7 +4,7 @@ title: "CSUMB receives high rankings by magazine"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . CSU Monterey Bay is ranked fourth among the nation's public liberal arts
   colleges in its contribution to the public good. The university is also ranked

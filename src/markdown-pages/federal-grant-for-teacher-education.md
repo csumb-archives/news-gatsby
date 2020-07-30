@@ -4,7 +4,7 @@ title: "Federal grant for teacher education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB received $8.6 million from the U.S. Department of Education to recruit,
   train and support teachers over the next five years. They'll be primarily

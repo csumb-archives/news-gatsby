@@ -4,7 +4,7 @@ date: June 24 2014
 slug: scientists-catalog-life-in-monterey-bay-marine-sanctuary
 ---
 
-```html
+ 
 
 
 

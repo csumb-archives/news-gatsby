@@ -4,7 +4,7 @@ date: June 13 2014
 slug: summer-school-of-a-different-sort
 ---
 
-```html
+ 
 
 
 

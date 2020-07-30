@@ -4,7 +4,7 @@ title: "Video message from President Ochoa about COVID19"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   We understand this is a difficult time with a lot of uncertainty. The lack of
   detailed information and the surplus of concerning news in the world may be

@@ -4,7 +4,7 @@ date: October 17 2014
 slug: professor-to-present-at-global-business-conference-in-croatia
 ---
 
-```html
+ 
 
 
 

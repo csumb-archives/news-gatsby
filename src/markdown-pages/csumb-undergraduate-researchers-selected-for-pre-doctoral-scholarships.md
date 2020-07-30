@@ -4,7 +4,7 @@ title: "CSUMB Undergraduate Researchers Selected for Pre-Doctoral Scholarships"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., July 10, 2018– Two CSUMB seniors have been selected as Sally
   Casanova Pre-Doctoral Scholars for the 2018-19 academic year. Jordin Simons, a

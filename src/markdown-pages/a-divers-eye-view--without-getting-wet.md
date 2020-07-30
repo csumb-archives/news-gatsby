@@ -4,7 +4,7 @@ title: "A diver's eye view--without getting wet"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>CSUMB's Seafloor Mapping Lab helps with Point Lobos project</h3>
 <p>
   Visitors to Point Lobos State Marine Reserve are now able to visualize what

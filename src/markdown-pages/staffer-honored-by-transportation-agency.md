@@ -4,7 +4,7 @@ title: "Staffer honored by transportation agency"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSUMB staff member Megan Tolbert received an Excellence Award from the
   Transportation Agency for Monterey County at its Jan. 26 meeting.

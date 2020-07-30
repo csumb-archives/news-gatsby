@@ -4,7 +4,7 @@ title: "Commencement throng celebrates with Class of 2015"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>'BECOME ADVOCATES FOR PUBLIC EDUCATION,' GRADUATES TOLD</p>
 <p>
   More than 8,600 well&#45;wishers crowded the stands of Freeman Stadium May 16

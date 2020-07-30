@@ -4,7 +4,7 @@ title: "thinkfinity"
 date: January 01 2020
 ---
 
-```html
+ 
 <h4>James Earl Jones reads to elementary students at launch</h4>
 <p>
   California State University, Monterey Bay, Verizon and the Long Beach

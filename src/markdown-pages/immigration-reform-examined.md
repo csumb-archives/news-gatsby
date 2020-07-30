@@ -4,7 +4,7 @@ title: "Immigration reform examined"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   “Why immigration reform is so difficult to achieve” will be the topic
   addressed by Leo Chavez on March 27, when the President’s Speaker Series

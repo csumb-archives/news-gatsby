@@ -4,7 +4,7 @@ date: October 21 2010
 slug: tat-alums-make-&apos;new-faces&apos;-list
 ---
 
-```html
+ 
 <span class="date">Posted on Oct 21, 2010 </span>
 <p>
   Filmmaker Magazine has honored CSUMB alumni Robert Machoian and Rodrigo

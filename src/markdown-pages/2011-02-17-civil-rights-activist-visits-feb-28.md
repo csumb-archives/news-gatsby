@@ -4,7 +4,7 @@ date: February 17 2011
 slug: civil-rights-activist-visits-campus-feb.-28
 ---
 
-```html
+ 
 
 
 

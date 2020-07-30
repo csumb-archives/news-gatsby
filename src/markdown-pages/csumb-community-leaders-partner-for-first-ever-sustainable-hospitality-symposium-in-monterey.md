@@ -4,7 +4,7 @@ title: "CSUMB, Community Leaders Partner for First Ever Sustainable Hospitality 
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Calif., February 13, 2017 – The Sustainable Hospitality Management
   program at CSUMB has partnered with community leaders, public officials and

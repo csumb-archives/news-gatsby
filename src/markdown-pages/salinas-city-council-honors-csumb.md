@@ -4,7 +4,7 @@ title: "Salinas City Council honors CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Feb. 10, 2010</p>
 <p>
   <strong

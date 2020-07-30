@@ -4,7 +4,7 @@ date: October 28 2006
 slug: csumb-chooses-new-provost
 ---
 
-```html
+ 
 
 
 

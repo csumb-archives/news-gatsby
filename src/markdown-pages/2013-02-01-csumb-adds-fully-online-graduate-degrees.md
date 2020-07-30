@@ -4,7 +4,7 @@ date: February 1 2013
 slug: csumb-adds-two-more-fully-online-graduate-degrees
 ---
 
-```html
+ 
 <span class="date">Posted on Feb 01, 2013 </span>
 <p>
   California State University, Monterey Bay will be among the first CSU campuses

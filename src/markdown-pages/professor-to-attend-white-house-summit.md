@@ -4,7 +4,7 @@ title: "Professor to attend White House summit"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Lisa Stewart, an assistant professor in the social work program at CSU
   Monterey Bay, will be one of hundreds of participants at the White House

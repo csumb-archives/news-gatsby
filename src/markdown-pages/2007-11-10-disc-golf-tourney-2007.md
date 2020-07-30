@@ -4,7 +4,7 @@ date: November 10 2007
 slug: disc-golf-tourney-2007
 ---
 
-```html
+ 
 <span class="date">Posted on Nov 10, 2007 </span>
 <p>
   The putting greens are a little bumpy, the &quot;holes&quot; stand five feet

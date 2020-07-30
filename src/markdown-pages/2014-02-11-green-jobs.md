@@ -4,7 +4,7 @@ date: February 11 2014
 slug: green-jobs
 ---
 
-```html
+ 
 
 
 

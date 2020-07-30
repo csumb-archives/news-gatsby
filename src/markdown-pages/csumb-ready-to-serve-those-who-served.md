@@ -4,7 +4,7 @@ title: "CSUMB ready to serve those who served"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>Aug. 4, 2009</p>
 <p>
   The Post-9/11 Veterans Education Assistance Act went into effect Aug. 1,

@@ -4,7 +4,7 @@ title: "Students Board NOAA's Bell M. Shimada for Research Cruise"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay graduate student Miya Pavlock McAuliffe and undergrad
   Olivia Boisen worked with scientists on NOAA's Bell M. Shimada research ship

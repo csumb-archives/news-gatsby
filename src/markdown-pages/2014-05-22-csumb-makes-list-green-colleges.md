@@ -4,7 +4,7 @@ date: May 22 2014
 slug: csumb-makes-list-of-green-colleges
 ---
 
-```html
+ 
 
 
 

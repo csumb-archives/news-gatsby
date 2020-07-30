@@ -4,7 +4,7 @@ title: "Fontenette a driving force behind CSUMB's playoff run"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   When senior guard Jessica Fontenette came to CSU Monterey Bay to play
   basketball, the Otters had never reached the postseason or posted a winning

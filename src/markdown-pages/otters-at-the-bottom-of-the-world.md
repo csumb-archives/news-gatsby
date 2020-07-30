@@ -4,7 +4,7 @@ title: "Otters at the bottom of the world"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   While penguins and seals call it home, there are few permanent human residents
   on Antarctica. But, each year, several thousand people temporarily reside at

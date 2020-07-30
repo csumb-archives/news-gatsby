@@ -4,7 +4,7 @@ title: "Grad school off to good start for this alumna"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Breanna Orozco is about to start graduate school at the University of Southern
   California, and she’s already winning awards.

@@ -4,7 +4,7 @@ title: "M.S. Physician Assistant Program Receives Grant to Help Underserved Comm
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., July 24, 2019 – California State University, Monterey Bay’s
   (CSUMB)

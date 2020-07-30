@@ -4,7 +4,7 @@ title: "CSU's 'Super Sunday' Comes to CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., February 20, 2018 – California State University (CSU) leaders,
   trustees, campus presidents and alumni will visit nearly 100 churches across

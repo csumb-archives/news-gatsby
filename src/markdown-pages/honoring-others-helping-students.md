@@ -4,7 +4,7 @@ title: "Honoring others, helping students"
 date: January 01 2020
 ---
 
-```html
+ 
 <h3>Benefactors recognized for providing scholarships</h3>
 <p>
   Bob Johnson and Diego Espinoza will be among the honorees at the National

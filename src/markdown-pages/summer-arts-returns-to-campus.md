@@ -4,7 +4,7 @@ title: "Summer Arts returns to campus"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   After an exciting debut in 2012, CSU Summer Arts returns to campus in July
   with a lineup of 17 classes and 52 public events.

@@ -4,7 +4,7 @@ title: "CSUMB included in 'green' colleges guide"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   For the fourth consecutive year, CSU Monterey Bay has been named one of the
   most environmentally responsible colleges in North America.

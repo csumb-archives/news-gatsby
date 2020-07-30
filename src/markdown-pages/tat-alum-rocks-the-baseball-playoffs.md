@@ -4,7 +4,7 @@ title: "TAT alum rocks the baseball playoffs"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The upcoming baseball playoffs will have a Boss soundtrack, thanks to the work
   of Casey Richards (TAT, ’02).

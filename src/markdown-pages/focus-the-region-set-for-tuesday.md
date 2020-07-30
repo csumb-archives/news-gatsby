@@ -4,7 +4,7 @@ title: "Focus the Region set for Tuesday"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   If you've ever wanted to find out how architecture can enhance communities,
   the latest in electric cars or the ways in which students and alumni of CSUMB

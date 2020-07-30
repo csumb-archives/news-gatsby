@@ -4,7 +4,7 @@ title: "App camp starts at CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   It's a catchphrase that business owners want to hear potential customers say
   about their own enterprises – "There's a an app for that." The "Ideas of

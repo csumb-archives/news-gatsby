@@ -4,7 +4,7 @@ date: April 22 2014
 slug: kazu-earns-two-murrow-awards
 ---
 
-```html
+ 
 <span class="date">Posted on Apr 22, 2014 </span>
 <h3>CSUMB&apos;s station honored for excellence in electronic journalism</h3>
 <p>

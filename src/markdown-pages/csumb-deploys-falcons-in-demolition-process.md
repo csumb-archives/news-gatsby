@@ -4,7 +4,7 @@ title: "CSUMB deploys falcons in demolition process"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   . . . The university is using sustainable demolition practices to clear the
   campus of 66 remaining structures. The practice employs measures that not only

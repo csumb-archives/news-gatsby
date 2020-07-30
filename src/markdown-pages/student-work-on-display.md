@@ -4,7 +4,7 @@ title: "Student work on display"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay archaeology students will display works portraying
   traditions around the world that honor departed family members in a monthlong

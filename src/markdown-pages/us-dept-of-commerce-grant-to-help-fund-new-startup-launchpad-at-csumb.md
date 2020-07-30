@@ -4,7 +4,7 @@ title: "U.S. Dept. of Commerce Grant to Help Fund New Startup Launchpad at CSUMB
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   <b>SEASIDE, Ca., October 15, 2019 –</b> California State University Monterey
   Bay (CSUMB) has been selected to receive funding from the U.S. Department of

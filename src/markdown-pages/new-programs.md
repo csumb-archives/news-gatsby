@@ -4,7 +4,7 @@ title: "New programs"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Cal State Monterey Bay is starting an undergraduate major in human development
   and family studies.

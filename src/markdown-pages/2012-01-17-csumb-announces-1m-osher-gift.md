@@ -4,7 +4,7 @@ date: January 17 2012
 slug: csumb-announces-$1m-osher-gift
 ---
 
-```html
+ 
 
 
 

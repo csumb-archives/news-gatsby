@@ -4,7 +4,7 @@ title: "Students explore health issues of the Maya"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The mystery and grandeur of the Yucatan Peninsula has beckoned travelers for
   centuries. This month, a group of 14 Cal State Monterey Bay students and

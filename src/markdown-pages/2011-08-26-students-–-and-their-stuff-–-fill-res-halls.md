@@ -4,7 +4,7 @@ date: August 26 2011
 slug: students-and-their-stuff-fill-the-res-halls
 ---
 
-```html
+ 
 
 
 

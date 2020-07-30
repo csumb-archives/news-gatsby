@@ -4,7 +4,7 @@ title: "CSUMB educator receives GREEN award"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   CSU Monterey Bay’s Laura Lee Lienk was honored with the GREEN Educator Award
   for her work in promoting environmental issues.

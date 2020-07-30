@@ -4,7 +4,7 @@ title: "CSUMB Celebrates 25 Years of Progress, Success"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>By CSUMB President Eduardo M. Ochoa</p>
 <p>
   In the early 1990s, Monterey County faced a potential economic calamity. The

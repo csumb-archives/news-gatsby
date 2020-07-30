@@ -4,7 +4,7 @@ title: "A Steward of the Community: CSUMB President Eduardo M. Ochoa"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   SEASIDE, Ca., February 8, 2018 – CSUMB
   <a href="https://csumb.edu/president">President Eduardo M. Ochoa</a> was

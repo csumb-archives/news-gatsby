@@ -4,7 +4,7 @@ title: "CSUMB spreads gospel of higher education"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Parishioners at three local churches got more than a sermon on Sunday, Feb.
   20. They got a pitch for the value of a college education — straight from the

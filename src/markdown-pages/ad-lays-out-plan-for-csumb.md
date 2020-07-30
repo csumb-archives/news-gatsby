@@ -4,7 +4,7 @@ title: "A.D. lays out plan for CSUMB"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   Talking with Cal State Monterey Bay athletic director Vince Otoupal, you get
   the sense that "hardworking" doesn't begin to describe him.

@@ -4,7 +4,7 @@ title: "Campus holiday food drives are big success"
 date: January 01 2020
 ---
 
-```html
+ 
 <p>
   The Nov. 13 performance of December People at the World Theater was sold out,
   with standing room only. Another high point of the evening was the success of

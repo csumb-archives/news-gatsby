@@ -4,7 +4,7 @@ title: "Brian Greene has the world on a string Or, physics for the rest of us"
 date: January 01 2020
 ---
 
-```html
+ 
 <p></p>
 <h2>Brian Greene has the world on a string Or, physics for the rest of us</h2>
 <p>
