@@ -12,7 +12,6 @@ export default function IndexPage(props) {
   });
 
   const handleInputChange = (event) => {
-    console.log(event.target.value);
     const query = event.target.value;
     const posts = data.allMarkdownRemark.edges || [];
     const filteredData = posts.filter((post) => {
