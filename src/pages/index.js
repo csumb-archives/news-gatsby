@@ -1,12 +1,53 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { graphql } from 'gatsby';
 import PostLink from '../components/post-link';
 
-export default function IndexPage({ data }) {
+export default function IndexPage(props) {
+  const { data } = props;
+  const allPosts = data.allMarkdownRemark.edges;
+  const emptyQuery = '';
+  const [state, setState] = useState({
+    filteredData: [],
+    query: emptyQuery,
+  });
+
+  const handleInputChange = (event) => {
+    console.log(event.target.value);
+    const query = event.target.value;
+    const posts = data.allMarkdownRemark.edges || [];
+    const filteredData = posts.filter((post) => {
+      const { title } = post.node.frontmatter;
+
+      return (
+        title.toLowerCase().includes(query.toLowerCase()) ||
+        title.toLowerCase().includes(query.toLowerCase())
+      );
+    });
+
+    setState({
+      query,
+      filteredData,
+    });
+  };
+
+  const { filteredData, query } = state;
+  const hasSearchResults = filteredData && query !== emptyQuery;
+  const posts = hasSearchResults ? filteredData : allPosts;
+
   return (
     <div>
+      <h1>News Archive</h1>
       <h4>{data.allMarkdownRemark.totalCount} Articles</h4>
-      {data.allMarkdownRemark.edges.map(({ node }) => (
+      <div className="searchBox">
+        <input
+          className="searchInput"
+          type="text"
+          aria-label="Search"
+          placeholder="Type to filter posts..."
+          onChange={handleInputChange}
+        />
+      </div>
+      {posts.map(({ node }) => (
         <PostLink key={node.id} post={node} excerpt={node.excerpt} />
       ))}
     </div>
