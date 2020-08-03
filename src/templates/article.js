@@ -1,11 +1,12 @@
 import React from 'react';
 import { graphql, Link } from 'gatsby';
+import Layout from '../components/layout';
 
 export default function Template({ data }) {
   const { markdownRemark } = data;
   const { frontmatter, html } = markdownRemark;
   return (
-    <>
+    <Layout>
       <Link to="/">Back to home</Link>
       <div className="blog-post-container">
         <div className="blog-post">
@@ -16,7 +17,7 @@ export default function Template({ data }) {
           />
         </div>
       </div>
-    </>
+    </Layout>
   );
 }
 
