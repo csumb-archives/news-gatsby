@@ -1,7 +1,26 @@
 import React, { useState } from 'react';
 import { graphql } from 'gatsby';
+import styled from '@emotion/styled';
 import PostLink from '../components/post-link';
+import Layout from '../components/layout';
 
+const SearchBox = styled('div')`
+  max-width: 500px;
+  margin: 30px auto;
+  input {
+    outline: none;
+    width: 100%;
+    border: 2px solid lightgrey;
+    border-radius: 2px;
+    background: #fff;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+    height: 50px;
+    transition: all 0.05s ease-in-out;
+  }
+`;
+
+const PostsWrapper = styled('div')``;
 export default function IndexPage(props) {
   const { data } = props;
   const allPosts = data.allMarkdownRemark.edges;
@@ -34,22 +53,21 @@ export default function IndexPage(props) {
   const posts = hasSearchResults ? filteredData : allPosts;
 
   return (
-    <div>
-      <h1>News Archive</h1>
-      <h4>{data.allMarkdownRemark.totalCount} Articles</h4>
-      <div className="searchBox">
+    <Layout>
+      <SearchBox>
         <input
-          className="searchInput"
           type="text"
           aria-label="Search"
-          placeholder="Type to filter posts..."
+          placeholder={`Search ${data.allMarkdownRemark.totalCount} articles...`}
           onChange={handleInputChange}
         />
-      </div>
-      {posts.map(({ node }) => (
-        <PostLink key={node.id} post={node} excerpt={node.excerpt} />
-      ))}
-    </div>
+      </SearchBox>
+      <PostsWrapper>
+        {posts.map(({ node }) => (
+          <PostLink key={node.id} post={node} excerpt={node.excerpt} />
+        ))}
+      </PostsWrapper>
+    </Layout>
   );
 }
 

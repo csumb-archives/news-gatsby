@@ -1,5 +1,11 @@
 import React from 'react';
 import { Link } from 'gatsby';
+import styled from '@emotion/styled';
+
+const LinkText = styled(Link)`
+  font-size: 1.2rem;
+  font-weight: 00;
+`;
 
 const PostLink = ({ post }) => {
   const strippedExcerpt = post.excerpt.replace(/(<([^>]+)>)/gi, '');
@@ -9,8 +15,8 @@ const PostLink = ({ post }) => {
       : strippedExcerpt;
   return (
     <div>
-      <Link to={post.frontmatter.slug}>{post.frontmatter.title}</Link>
-      <div>{excerpt}</div>
+      <LinkText to={post.frontmatter.slug}>{post.frontmatter.title}</LinkText>
+      <p>{excerpt}</p>
     </div>
   );
 };
