@@ -59,6 +59,7 @@ export default function IndexPage(props) {
           onChange={handleInputChange}
         />
       </SearchBox>
+      {hasSearchResults && <h5>{filteredData.length} results</h5>}
       <PostsWrapper>
         {posts.map(({ node }) => (
           <PostLink key={node.id} post={node} excerpt={node.excerpt} />
