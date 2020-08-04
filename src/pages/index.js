@@ -3,6 +3,7 @@ import { graphql } from 'gatsby';
 import styled from '@emotion/styled';
 import PostLink from '../components/post-link';
 import Layout from '../components/layout';
+import SEO from '../components/seo';
 
 const SearchBox = styled('div')`
   max-width: 450px;
@@ -32,7 +33,6 @@ const SearchBox = styled('div')`
   }
 `;
 
-const PostsWrapper = styled('div')``;
 export default function IndexPage(props) {
   const { data } = props;
   const allPosts = data.allMarkdownRemark.edges;
@@ -71,6 +71,7 @@ export default function IndexPage(props) {
 
   return (
     <Layout>
+      <SEO title="Home" />
       <SearchBox>
         <input
           type="text"
@@ -86,11 +87,11 @@ export default function IndexPage(props) {
         )}
       </SearchBox>
       {hasSearchResults && <h5>{filteredData.length} results</h5>}
-      <PostsWrapper>
+      <div>
         {posts.map(({ node }) => (
           <PostLink key={node.id} post={node} excerpt={node.excerpt} />
         ))}
-      </PostsWrapper>
+      </div>
     </Layout>
   );
 }
