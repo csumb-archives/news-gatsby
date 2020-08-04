@@ -36,10 +36,7 @@ export default function IndexPage(props) {
     const filteredData = posts.filter((post) => {
       const { title } = post.node.frontmatter;
 
-      return (
-        title.toLowerCase().includes(query.toLowerCase()) ||
-        title.toLowerCase().includes(query.toLowerCase())
-      );
+      return title.toLowerCase().includes(query.toLowerCase());
     });
 
     setState({
