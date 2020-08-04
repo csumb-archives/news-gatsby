@@ -8,14 +8,9 @@ export default function Template({ data }) {
   return (
     <Layout>
       <Link to="/">Back to home</Link>
-      <div className="blog-post-container">
-        <div className="blog-post">
-          <h1>{frontmatter.title}</h1>
-          <div
-            className="blog-post-content"
-            dangerouslySetInnerHTML={{ __html: html }}
-          />
-        </div>
+      <div style={{ marginTop: '5px' }}>
+        <h1>{frontmatter.title}</h1>
+        <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>
     </Layout>
   );
