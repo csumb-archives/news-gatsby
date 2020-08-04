@@ -23,8 +23,12 @@ const SearchBox = styled('div')`
     height: 50px;
     transition: all 0.05s ease-in-out;
   }
-  span {
+  button {
     padding-right: 15px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 1.3rem;
   }
 `;
 
@@ -33,23 +37,31 @@ export default function IndexPage(props) {
   const { data } = props;
   const allPosts = data.allMarkdownRemark.edges;
   const emptyQuery = '';
-  const [state, setState] = useState({
-    filteredData: [],
+  const initialState = {
     query: emptyQuery,
-  });
+    input: '',
+    filteredData: [],
+  };
+  const [state, setState] = useState(initialState);
 
   const handleInputChange = (event) => {
     const query = event.target.value;
+    const input = event.target.value;
     const posts = data.allMarkdownRemark.edges || [];
     const filteredData = posts.filter((post) => {
       const { title } = post.node.frontmatter;
-
       return title.toLowerCase().includes(query.toLowerCase());
     });
-
     setState({
       query,
+      input,
       filteredData,
+    });
+  };
+
+  const handleInputReset = () => {
+    setState({
+      ...initialState,
     });
   };
 
@@ -64,9 +76,14 @@ export default function IndexPage(props) {
           type="text"
           aria-label="Search"
           placeholder={`Search ${data.allMarkdownRemark.totalCount} articles...`}
+          value={state.input}
           onChange={handleInputChange}
         />
-        {query && <span title="Clear">&times;</span>}
+        {query && (
+          <button title="Clear" onClick={handleInputReset}>
+            &times;
+          </button>
+        )}
       </SearchBox>
       {hasSearchResults && <h5>{filteredData.length} results</h5>}
       <PostsWrapper>
