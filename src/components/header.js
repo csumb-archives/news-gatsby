@@ -1,16 +1,6 @@
 import { Link } from 'gatsby';
-import { FaGithub } from 'react-icons/fa';
-import styled from '@emotion/styled';
 import PropTypes from 'prop-types';
 import React from 'react';
-
-const GithubLink = styled('h5')`
-  margin: 20px 0;
-  a {
-    color: white;
-    text-decoration: none;
-  }
-`;
 
 const Header = ({ siteTitle }) => (
   <header
@@ -37,11 +27,6 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
-      <GithubLink style={{ color: 'white' }}>
-        <a href="https://github.com/csumb-archives/news-gatsby">
-          <FaGithub /> View source code
-        </a>
-      </GithubLink>
     </div>
   </header>
 );
