@@ -1,10 +1,9 @@
 ---
 slug: amber-west
-title: "amber west"
+title: 'Amber West'
 date: January 01 2020
 ---
 
- 
 <h4>Amber West turns struggles into successes</h4>
 <p>
   As Amber West counts down the days until she graduates this spring, she also
@@ -109,4 +108,3 @@ date: January 01 2020
   husband for the first time, and welcoming a new companion into the family.
 </p>
 <p>"I'm getting a hearing dog next summer," she said. "I'm so excited!"</p>
- 

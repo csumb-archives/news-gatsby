@@ -1,11 +1,11 @@
 ---
-title: blood drive 2
+title: Blood Drive 2
 date: December 14 2007
 slug: blood-drive-2
 ---
 
- 
 <span class="date">Posted on Dec 14, 2007 </span>
+
 <p>
   Forty students, staff and faculty members of California State University,
   Monterey Bay turned out to donate blood Dec. 12, despite the crush of
@@ -49,4 +49,3 @@ slug: blood-drive-2
     </div>
   </div>
 </fieldset>
- 
