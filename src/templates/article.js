@@ -8,7 +8,7 @@ export default function Template({ data }) {
   return (
     <Layout>
       <Link to="/">Back to home</Link>
-      <div style={{ marginTop: '5px' }}>
+      <div style={{ marginTop: '10px' }}>
         <h1>{frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: html }} />
       </div>
