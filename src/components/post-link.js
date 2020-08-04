@@ -3,8 +3,8 @@ import { Link } from 'gatsby';
 import styled from '@emotion/styled';
 
 const LinkText = styled(Link)`
-  font-size: 1.2rem;
-  font-weight: 00;
+  font-size: 1.15rem;
+  font-weight: 600;
 `;
 
 const PostLink = ({ post }) => {
@@ -16,7 +16,7 @@ const PostLink = ({ post }) => {
   return (
     <div>
       <LinkText to={post.frontmatter.slug}>{post.frontmatter.title}</LinkText>
-      <p>{excerpt}</p>
+      <p style={{ marginTop: '3px' }}>{excerpt}</p>
     </div>
   );
 };
