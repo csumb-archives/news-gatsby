@@ -7,9 +7,9 @@ Before you run this application, ensure you have met the following requirements:
 * Install the Gatsby command line tool globally `npm install -g gatsby-cli`.
 * Within the project's root folder, install the necessary dependencies `npm install`.
 
-## Editing
+## Running the site
 * To run the site locally, run `gatsby develop`.
-* Go to localhost:8000 in your browser to view changes you make to the site.
+* Go to `localhost:8000` in your browser to view changes you make to the site.
 
 ## Contact
 Need help with your campus website? [Get in touch with web services.](https://csumb.edu/web)
