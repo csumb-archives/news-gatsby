@@ -87,11 +87,6 @@ export default function IndexPage(props) {
         )}
       </SearchBox>
       {hasSearchResults && <h5>{filteredData.length} results</h5>}
-      <div>
-        {posts.map(({ node }) => (
-          <PostLink key={node.id} post={node} excerpt={node.excerpt} />
-        ))}
-      </div>
     </Layout>
   );
 }

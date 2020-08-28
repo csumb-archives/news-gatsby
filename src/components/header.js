@@ -27,6 +27,9 @@ const Header = ({ siteTitle }) => (
           {siteTitle}
         </Link>
       </h1>
+      <Link to="articles" style={{ color: `white`, textDecoration: `none` }}>
+        Browse articles
+      </Link>
     </div>
   </header>
 );

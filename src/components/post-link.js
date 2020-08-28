@@ -11,8 +11,8 @@ const LinkText = styled(Link)`
 const PostLink = ({ post }) => {
   const strippedExcerpt = post.excerpt.replace(/(<([^>]+)>)/gi, '');
   const excerpt =
-    strippedExcerpt.length >= 155
-      ? `${strippedExcerpt.slice(0, 155)}...`
+    strippedExcerpt.length >= 200
+      ? `${strippedExcerpt.slice(0, 200)}...`
       : strippedExcerpt;
   return (
     <div>
