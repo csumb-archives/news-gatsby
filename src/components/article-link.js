@@ -8,19 +8,18 @@ const LinkText = styled(Link)`
   text-decoration: none;
 `;
 
-const PostLink = ({ post }) => {
-  const strippedExcerpt = post.excerpt.replace(/(<([^>]+)>)/gi, '');
-  const excerpt =
+const ArticleLink = ({ slug, title, excerpt }) => {
+  let strippedExcerpt = excerpt.replace(/(<([^>]+)>)/gi, '');
+  strippedExcerpt =
     strippedExcerpt.length >= 200
       ? `${strippedExcerpt.slice(0, 200)}...`
       : strippedExcerpt;
   return (
     <div>
-      <LinkText to={`/articles/${post.frontmatter.slug}`}>
-        {post.frontmatter.title}
-      </LinkText>
-      <p style={{ marginTop: '3px' }}>{excerpt}</p>
+      <LinkText to={`/articles/${slug}`}>{title}</LinkText>
+      <p style={{ marginTop: '3px' }}>{strippedExcerpt}</p>
     </div>
   );
 };
-export default PostLink;
+
+export default ArticleLink;

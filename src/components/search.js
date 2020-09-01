@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Index } from 'elasticlunr';
-import { Link } from 'gatsby';
 import styled from '@emotion/styled';
+import ArticleLink from './article-link';
 
 const SearchBox = styled('div')`
   max-width: 450px;
@@ -44,12 +44,11 @@ export default class Search extends Component {
         </SearchBox>
         <ul style={{ listStyleType: 'none' }}>
           {this.state.results.map((page) => (
-            <li key={page.id}>
-              <h3>
-                <Link to={`/articles/${page.slug}`}>{page.title}</Link>
-              </h3>
-              <p>{page.html.replace(/(<([^>]+)>)/gi, '').slice(0, 400)}</p>
-            </li>
+            <ArticleLink
+              slug={page.slug}
+              title={page.title}
+              excerpt={page.html}
+            />
           ))}
         </ul>
       </div>

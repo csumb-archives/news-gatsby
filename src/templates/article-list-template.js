@@ -2,7 +2,7 @@ import React from 'react';
 import { graphql, Link } from 'gatsby';
 import styled from '@emotion/styled';
 import Layout from '../components/layout';
-import PostLink from '../components/post-link';
+import ArticleLink from '../components/article-link';
 
 const Pagination = styled('div')`
   a {
@@ -45,9 +45,9 @@ export default function ArticleList(props) {
     <Layout>
       {posts.map(({ node }) => {
         return (
-          <PostLink
-            key={node.frontmatter.slug}
-            post={node}
+          <ArticleLink
+            slug={node.frontmatter.slug}
+            title={node.frontmatter.title}
             excerpt={node.excerpt}
           />
         );
