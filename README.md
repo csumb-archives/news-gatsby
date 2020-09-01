@@ -1,5 +1,5 @@
 # CSUMB News Archive 🗄️
-The CSUMB News Archive is a website which allows campus staff to view archived news articles for CSU, Monterey Bay. Users are able to search all news articles prior to July 2020 and view them. This site allows outdated news stories to be removed from the campus website database without fear of losing them forever. 
+The CSUMB News Archive is a website which allows campus staff to view archived news articles for CSU, Monterey Bay. Users are able to search all news articles from 2009 to July 2020 and view them. This site allows outdated and uneccessary news stories to be removed from the campus website database without fear of losing them forever. 
 
 ## Setup
 Before you run this application, ensure you have met the following requirements:
