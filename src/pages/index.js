@@ -1,8 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { graphql, StaticQuery } from 'gatsby';
 import Search from '../components/search';
-// import styled from '@emotion/styled';
-// import PostLink from '../components/post-link';
 import Layout from '../components/layout';
 import SEO from '../components/seo';
 
