@@ -35,6 +35,20 @@ module.exports = {
         icon: `src/images/archive-otter.png`, // This path is relative to the root of the site.
       },
     },
+    {
+      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      options: {
+        // Fields to index
+        fields: [`title`, `slug`, `html`],
+        resolvers: {
+          MarkdownRemark: {
+            title: (node) => node.frontmatter.title,
+            slug: (node) => node.frontmatter.slug,
+            html: (node) => node.internal.content,
+          },
+        },
+      },
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
