@@ -16,7 +16,9 @@ const PostLink = ({ post }) => {
       : strippedExcerpt;
   return (
     <div>
-      <LinkText to={post.frontmatter.slug}>{post.frontmatter.title}</LinkText>
+      <LinkText to={`/articles/${post.frontmatter.slug}`}>
+        {post.frontmatter.title}
+      </LinkText>
       <p style={{ marginTop: '3px' }}>{excerpt}</p>
     </div>
   );
