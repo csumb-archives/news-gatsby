@@ -11,7 +11,7 @@ const SearchResults = ({ results, query }) => {
         </h2>
         <ul>
           {results.map(({ slug, title, html }) => (
-            <ArticleLink slug={slug} title={title} excerpt={html} />
+            <ArticleLink key={slug} slug={slug} title={title} excerpt={html} />
           ))}
         </ul>
       </>

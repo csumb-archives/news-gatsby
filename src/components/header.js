@@ -33,7 +33,7 @@ const Header = ({ siteTitle }) => (
       </h1>
       <div>
         <Link
-          to="/search"
+          to="/"
           style={{
             color: `white`,
             textDecoration: `none`,
