@@ -1,23 +1,24 @@
 import React from 'react';
 import ArticleLink from './article-link';
 
-const SearchResults = ({ results, query }) => {
-  console.log(query);
-  return (
-    !!results.length &&
-    query && (
+const SearchResults = ({ results, query, resultsName }) => {
+  if (!!results.length && query) {
+    return (
       <>
         <h2>
-          Found {results.length} articles for "{query}"
+          Found {results.length} articles for "{resultsName}"
         </h2>
         <ul>
           {results.map(({ slug, title, html }) => (
-            <ArticleLink slug={slug} title={title} excerpt={html} />
+            <ArticleLink key={slug} slug={slug} title={title} excerpt={html} />
           ))}
         </ul>
       </>
-    )
-  );
+    );
+  }
+  if (results.length === 0 && query) {
+    return <h2>No results found for "{query}"</h2>;
+  }
+  return null;
 };
-
 export default SearchResults;
