@@ -8,7 +8,7 @@ export default function IndexPage() {
   return (
     <Layout>
       <SEO title="Home" />
-      <StaticQuery
+      {/* <StaticQuery
         query={graphql`
           query SearchIndexQuery {
             siteSearchIndex {
@@ -17,7 +17,7 @@ export default function IndexPage() {
           }
         `}
         render={(data) => <Search searchIndex={data.siteSearchIndex.index} />}
-      />
+      /> */}
     </Layout>
   );
 }
