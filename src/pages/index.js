@@ -18,7 +18,6 @@ export default function IndexPage() {
         `}
         render={(data) => <Search searchIndex={data.siteSearchIndex.index} />}
       />
-      {/* {hasSearchResults && <h5>{filteredData.length} results</h5>} */}
     </Layout>
   );
 }

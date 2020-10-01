@@ -3,32 +3,19 @@ import { Index } from 'elasticlunr';
 import styled from '@emotion/styled';
 import ArticleLink from './article-link';
 
-const SearchBox = styled('div')`
-  max-width: 450px;
-  margin: 30px auto;
+const SearchBox = styled('input')`
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  margin: 1.5rem;
+  margin-top: 0.5rem;
+  max-width: 450px;
   border: 2px solid lightgrey;
   border-radius: 2px;
   padding-left: 15px;
-  flex-direction: row;
-  input {
-    outline: none;
-    border: none;
-    width: 90%;
-    background: #fff;
-    font-family: 'Roboto', sans-serif;
-    height: 50px;
-    transition: all 0.05s ease-in-out;
-  }
-  button {
-    padding-right: 15px;
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-size: 1.3rem;
-  }
+  width: 90%;
+  background: #fff;
+  font-family: 'Roboto', sans-serif;
+  height: 50px;
+  transition: all 0.05s ease-in-out;
 `;
 export default class Search extends Component {
   state = {
@@ -39,9 +26,14 @@ export default class Search extends Component {
   render() {
     return (
       <div>
-        <SearchBox>
-          <input type="text" value={this.state.query} onChange={this.search} />
-        </SearchBox>
+        <label style={{ marginLeft: '1.5rem' }}>
+          Search articles
+          <SearchBox
+            type="text"
+            value={this.state.query}
+            onChange={this.search}
+          />
+        </label>
         <ul style={{ listStyleType: 'none' }}>
           {this.state.results.map((page) => (
             <ArticleLink
