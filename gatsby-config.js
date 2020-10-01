@@ -32,14 +32,18 @@ module.exports = {
         background_color: `rgb(17, 46, 81)`,
         theme_color: `rgb(17, 46, 81)`,
         display: `minimal-ui`,
-        icon: `src/images/archive-otter.png`, // This path is relative to the root of the site.
+        icon: `src/images/archive-otter.png`,
       },
     },
     {
-      resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
+      resolve: `gatsby-plugin-lunr`,
       options: {
-        // Fields to index
-        fields: [`title`, `html`],
+        languages: [{ name: 'en' }],
+        fields: [
+          { name: `title`, store: true, attributes: { boost: 20 } },
+          { name: `html`, store: true, attributes: { boost: 5 } },
+          { name: `slug`, store: true },
+        ],
         resolvers: {
           MarkdownRemark: {
             title: (node) => node.frontmatter.title,
@@ -47,10 +51,8 @@ module.exports = {
             html: (node) => node.internal.content,
           },
         },
+        filename: 'search_index.json',
       },
     },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
   ],
 };

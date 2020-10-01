@@ -26,14 +26,14 @@ export default class Search extends Component {
   render() {
     return (
       <div>
-        <label style={{ marginLeft: '1.5rem' }}>
-          Search articles
-          <SearchBox
-            type="text"
-            value={this.state.query}
-            onChange={this.search}
-          />
+        <label htmlFor="search-input">
+          <h1>Search articles</h1>
         </label>
+        <SearchBox
+          type="text"
+          value={this.state.query}
+          onChange={this.search}
+        />
         <ul style={{ listStyleType: 'none' }}>
           {this.state.results.map((page) => (
             <ArticleLink
@@ -47,25 +47,25 @@ export default class Search extends Component {
     );
   }
 
-  getOrCreateIndex = () => {
-    return this.index
-      ? this.index
-      : // Create an elastic lunr index and hydrate with graphql query results
-        Index.load(this.props.searchIndex);
-  };
+  // getOrCreateIndex = () => {
+  //   return this.index
+  //     ? this.index
+  //     : // Create an elastic lunr index and hydrate with graphql query results
+  //       Index.load(this.props.searchIndex);
+  // };
 
-  search = (evt) => {
-    const query = evt.target.value;
-    this.index = this.getOrCreateIndex();
-    this.setState({
-      query,
-      // Query the index with search string to get an [] of IDs
-      results: this.index
-        .search(query, { expand: true })
-        // Map over each ID and return the full document
-        .map(({ ref }) => {
-          return this.index.documentStore.getDoc(ref);
-        }),
-    });
-  };
+  // search = (evt) => {
+  //   const query = evt.target.value;
+  //   this.index = this.getOrCreateIndex();
+  //   this.setState({
+  //     query,
+  //     // Query the index with search string to get an [] of IDs
+  //     results: this.index
+  //       .search(query, { expand: true })
+  //       // Map over each ID and return the full document
+  //       .map(({ ref }) => {
+  //         return this.index.documentStore.getDoc(ref);
+  //       }),
+  //   });
+  // };
 }

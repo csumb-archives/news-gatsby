@@ -4,13 +4,13 @@ import React from 'react';
 import styled from '@emotion/styled';
 
 const FlexNav = styled('div')`
-        align-items: center;
-        justify-content: space-between;
-        display: flex;
-        margin: 0 auto;
-        max-width: 960;
-        padding: 1.45rem 1.0875rem;
-      }}`;
+  align-items: center;
+  justify-content: space-between;
+  display: flex;
+  margin: 0 auto;
+  max-width: 960;
+  padding: 1.45rem 1.0875rem;
+`;
 
 const Header = ({ siteTitle }) => (
   <header
@@ -33,7 +33,7 @@ const Header = ({ siteTitle }) => (
       </h1>
       <div>
         <Link
-          to="/"
+          to="/search"
           style={{
             color: `white`,
             textDecoration: `none`,
