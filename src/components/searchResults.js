@@ -2,7 +2,6 @@ import React from 'react';
 import ArticleLink from './article-link';
 
 const SearchResults = ({ results, query }) => {
-  console.log(query);
   return (
     !!results.length &&
     query && (
