@@ -9,7 +9,7 @@ export default function Template({ data }) {
   return (
     <Layout>
       <SEO title={frontmatter.title} />
-      <Link to="/">Back to home</Link>
+      <Link to="/">Back to search</Link>
       <div style={{ marginTop: '10px' }}>
         <h1>{frontmatter.title}</h1>
         <div dangerouslySetInnerHTML={{ __html: html }} />
