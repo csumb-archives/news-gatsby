@@ -32,6 +32,7 @@ const Search = () => {
   const [query, setQuery] = useState('');
   const [resultsName, setResultsName] = useState('');
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const [isLoaded, setIsLoaded] = useState(false);
 
   const handleChange = (event) => {
     setQuery(event.target.value);
@@ -47,6 +48,7 @@ const Search = () => {
         const refs = lunr.en.index.search(query);
         const posts = refs.map(({ ref }) => lunr.en.store[ref]);
         setResults(posts);
+        setIsLoaded(true);
       });
     }
   };
@@ -78,6 +80,7 @@ const Search = () => {
           query={query}
           results={results}
           resultsName={resultsName}
+          isLoaded={isLoaded}
         />
       )}
     </Layout>
