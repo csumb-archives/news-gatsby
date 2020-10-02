@@ -1,8 +1,9 @@
 import React from 'react';
 import ArticleLink from './article-link';
 
-const SearchResults = ({ results, query, resultsName }) => {
-  if (!!results.length && query) {
+const SearchResults = ({ results, query, resultsName, isLoaded }) => {
+  console.log(isLoaded);
+  if (isLoaded && !!results.length && query) {
     return (
       <>
         <h2>
@@ -18,6 +19,9 @@ const SearchResults = ({ results, query, resultsName }) => {
   }
   if (results.length === 0 && query) {
     return <h2>No results found for "{query}"</h2>;
+  }
+  if (!isLoaded) {
+    return <h2>Loading...</h2>;
   }
   return null;
 };
