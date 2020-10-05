@@ -3,9 +3,9 @@ The CSUMB News Archive is a website which allows campus staff to view archived n
 
 ## Setup
 Before you run this application, ensure you have met the following requirements:
-* You have the latest LTS version of NodeJS and NPM installed.
+* You have the latest LTS version of Node and NPM installed.
 * Install the Gatsby command line tool globally `npm install -g gatsby-cli`.
-* Within the project's root folder, install the necessary dependencies `npm install`.
+* Within the project's root folder, install the necessary dependencies with `npm install`.
 
 ## Running the site
 * To run the site locally, run `gatsby develop`.
